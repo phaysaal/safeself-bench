@@ -1,0 +1,1312 @@
+{
+ "persona_id": "?:1",
+ "persona_slug": "The Disgruntled Ex-Employee",
+ "intake_version": "synth-activity-v2-chunked",
+ "samples": {
+  "media": [
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-04T03:32:27"
+   },
+   {
+    "name": "Finder",
+    "time": "2026-05-04T15:05:20"
+   },
+   {
+    "name": "Glassdoor",
+    "time": "2026-05-05T03:59:37"
+   },
+   {
+    "name": "NJ Unemployment Portal",
+    "time": "2026-05-05T09:06:07"
+   },
+   {
+    "name": "Notes",
+    "time": "2026-05-05T17:31:09"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-06T10:09:52"
+   },
+   {
+    "name": "Little Snitch",
+    "time": "2026-05-06T16:59:07"
+   },
+   {
+    "name": "Finder",
+    "time": "2026-05-06T23:29:06"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-07T03:48:45"
+   },
+   {
+    "name": "Microsoft Excel",
+    "time": "2026-05-07T15:50:22"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-08T04:33:38"
+   },
+   {
+    "name": "Finder",
+    "time": "2026-05-08T15:46:49"
+   },
+   {
+    "name": "Apple Notes",
+    "time": "2026-05-08T23:42:18"
+   },
+   {
+    "name": "Safari",
+    "time": "2026-05-09T12:40:57"
+   },
+   {
+    "name": "Messages",
+    "time": "2026-05-10T11:07:01"
+   },
+   {
+    "name": "Finder",
+    "time": "2026-05-10T23:50:25"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-11T03:27:57"
+   },
+   {
+    "name": "Finder",
+    "time": "2026-05-11T15:28:37"
+   },
+   {
+    "name": "NJ Unemployment Portal",
+    "time": "2026-05-12T09:21:55"
+   },
+   {
+    "name": "Preview",
+    "time": "2026-05-12T16:29:02"
+   },
+   {
+    "name": "Notes",
+    "time": "2026-05-13T13:44:19"
+   },
+   {
+    "name": "Finder",
+    "time": "2026-05-13T16:39:27"
+   },
+   {
+    "name": "Glassdoor",
+    "time": "2026-05-14T04:00:00"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-14T15:13:09"
+   },
+   {
+    "name": "Little Snitch",
+    "time": "2026-05-14T23:07:30"
+   },
+   {
+    "name": "Safari",
+    "time": "2026-05-15T14:00:27"
+   },
+   {
+    "name": "Photos",
+    "time": "2026-05-16T04:13:08"
+   },
+   {
+    "name": "Finder",
+    "time": "2026-05-16T15:53:25"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-17T03:49:07"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-18T03:32:36"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-19T03:46:51"
+   },
+   {
+    "name": "NJ Unemployment Portal",
+    "time": "2026-05-19T09:11:56"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-20T04:06:00"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-20T15:04:49"
+   },
+   {
+    "name": "Photos",
+    "time": "2026-05-21T03:44:16"
+   },
+   {
+    "name": "Finder",
+    "time": "2026-05-21T15:59:03"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-22T03:46:10"
+   },
+   {
+    "name": "Microsoft Excel",
+    "time": "2026-05-22T15:54:18"
+   },
+   {
+    "name": "Apple Notes",
+    "time": "2026-05-23T10:39:31"
+   },
+   {
+    "name": "Finder",
+    "time": "2026-05-23T00:26:11"
+   },
+   {
+    "name": "Finder",
+    "time": "2026-05-24T04:04:07"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-25T03:31:19"
+   },
+   {
+    "name": "Archive Index",
+    "time": "2026-05-25T14:22:34"
+   },
+   {
+    "name": "NJ Unemployment Portal",
+    "time": "2026-05-26T09:35:19"
+   },
+   {
+    "name": "Notes",
+    "time": "2026-05-26T12:15:01"
+   },
+   {
+    "name": "Little Snitch",
+    "time": "2026-05-27T03:34:03"
+   },
+   {
+    "name": "LinkedIn Jobs",
+    "time": "2026-05-27T13:38:22"
+   },
+   {
+    "name": "Archive Index",
+    "time": "2026-05-27T15:44:15"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-28T10:32:29"
+   },
+   {
+    "name": "Text Editor",
+    "time": "2026-05-28T16:16:12"
+   },
+   {
+    "name": "Spotify",
+    "time": "2026-05-29T09:42:19"
+   },
+   {
+    "name": "File Manager",
+    "time": "2026-05-29T16:01:51"
+   },
+   {
+    "name": "Calendar",
+    "time": "2026-05-30T08:16:54"
+   },
+   {
+    "name": "Archive Index",
+    "time": "2026-05-30T23:40:14"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-31T03:41:38"
+   },
+   {
+    "name": "Text Editor",
+    "time": "2026-05-31T23:57:39"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-06-01T03:27:21"
+   },
+   {
+    "name": "Google Drive",
+    "time": "2026-06-01T23:45:21"
+   },
+   {
+    "name": "NJ Unemployment Portal",
+    "time": "2026-06-02T09:41:26"
+   },
+   {
+    "name": "Slack Export Viewer",
+    "time": "2026-06-02T14:09:30"
+   },
+   {
+    "name": "Little Snitch",
+    "time": "2026-06-02T00:22:38"
+   }
+  ],
+  "searches": [
+   {
+    "query": "nj unemployment severance pending claim when certify",
+    "time": "2026-05-04T10:27:33"
+   },
+   {
+    "query": "remote sox compliance analyst fintech jobs",
+    "time": "2026-05-04T12:36:50"
+   },
+   {
+    "query": "dodd frank whistleblower retaliation fired performance issues",
+    "time": "2026-05-04T23:37:50"
+   },
+   {
+    "query": "cobra premium avg single nj 2026 unemployed",
+    "time": "2026-05-05T11:10:03"
+   },
+   {
+    "query": "nj marketplace vs cobra continuation deadline",
+    "time": "2026-05-05T13:04:04"
+   },
+   {
+    "query": "can old employer sue downloaded shared drive whistleblower",
+    "time": "2026-05-06T04:00:22"
+   },
+   {
+    "query": "whistleblower lawyer contingency consult what docs bring",
+    "time": "2026-05-06T14:45:05"
+   },
+   {
+    "query": "sox 302 subcert control deficiency material weakness examples",
+    "time": "2026-05-07T10:32:50"
+   },
+   {
+    "query": "propublica secure drop financial docs source protection",
+    "time": "2026-05-07T23:35:11"
+   },
+   {
+    "query": "compliance analyst jobs jersey city hybrid sox aml",
+    "time": "2026-05-08T10:19:18"
+   },
+   {
+    "query": "redact pdf metadata mac preview safe",
+    "time": "2026-05-08T17:36:50"
+   },
+   {
+    "query": "path nj transit amtrak jersey city to philly same day",
+    "time": "2026-05-09T08:39:13"
+   },
+   {
+    "query": "best sec whistleblower lawyers fintech nyc consult",
+    "time": "2026-05-10T04:04:47"
+   },
+   {
+    "query": "attorney client privilege first consult stolen employer docs",
+    "time": "2026-05-10T15:43:35"
+   },
+   {
+    "query": "sox whistleblower retaliation severance nda docs personal device",
+    "time": "2026-05-11T10:28:13"
+   },
+   {
+    "query": "best sec whistleblower attorney nyc dodd frank free consult",
+    "time": "2026-05-12T00:02:37"
+   },
+   {
+    "query": "sec whistleblower lawyer no documents yet consult",
+    "time": "2026-05-12T12:13:52"
+   },
+   {
+    "query": "can fired employee keep company docs whistleblower privilege",
+    "time": "2026-05-13T03:48:56"
+   },
+   {
+    "query": "crime fraud exception whistleblower docs confidential files sec tip attorney",
+    "time": "2026-05-13T11:12:32"
+   },
+   {
+    "query": "matt levine whistleblower fintech internal controls column",
+    "time": "2026-05-14T10:16:35"
+   },
+   {
+    "query": "novaledger audit partner resignation rumors",
+    "time": "2026-05-14T17:45:44"
+   },
+   {
+    "query": "jersey city to columbus last minute flight train",
+    "time": "2026-05-15T10:44:37"
+   },
+   {
+    "query": "how to tell parents lost job at 34",
+    "time": "2026-05-16T11:44:01"
+   },
+   {
+    "query": "redact slack export before sending journalist legal risk source protection coworkers",
+    "time": "2026-05-16T20:54:14"
+   },
+   {
+    "query": "journalist verify identity encrypted source signal protonmail vet reporter anonymous",
+    "time": "2026-05-17T10:31:26"
+   },
+   {
+    "query": "whistleblower lawyer consult privileged before engagement letter",
+    "time": "2026-05-18T10:23:05"
+   },
+   {
+    "query": "propublica secure drop metadata redact slack export",
+    "time": "2026-05-18T23:56:22"
+   },
+   {
+    "query": "cobra subsidy eligibility unemployed premium estimate nj",
+    "time": "2026-05-19T11:05:34"
+   },
+   {
+    "query": "can slack export be partially redacted without altering evidence",
+    "time": "2026-05-19T22:41:14"
+   },
+   {
+    "query": "how to tell parents you got fired in your 30s",
+    "time": "2026-05-20T12:23:28"
+   },
+   {
+    "query": "whistleblower disclosure family liability nda",
+    "time": "2026-05-20T23:18:47"
+   },
+   {
+    "query": "compliance analyst jobs sox aml no fiserv no alloy",
+    "time": "2026-05-21T10:19:07"
+   },
+   {
+    "query": "priya messages slack export sensitive",
+    "time": "2026-05-21T00:44:24"
+   },
+   {
+    "query": "daniel reiss whistleblower attorney bar profile cases",
+    "time": "2026-05-22T10:35:25"
+   },
+   {
+    "query": "signal disappearing messages subpoena journalist source",
+    "time": "2026-05-23T04:03:06"
+   },
+   {
+    "query": "attorney client privilege initial consult documents whistleblower retaliation",
+    "time": "2026-05-23T15:34:51"
+   },
+   {
+    "query": "sunday mass times grove street jersey city",
+    "time": "2026-05-24T09:56:34"
+   },
+   {
+    "query": "whistleblower attorney consult what to bring docs nda",
+    "time": "2026-05-25T10:13:52"
+   },
+   {
+    "query": "dodd frank anti retaliation fired compliance concerns burden proof",
+    "time": "2026-05-25T23:49:20"
+   },
+   {
+    "query": "reddit nda enforceable after whistleblower complaint",
+    "time": "2026-05-26T03:54:25"
+   },
+   {
+    "query": "personal copy company documents whistleblower risk",
+    "time": "2026-05-26T16:27:56"
+   },
+   {
+    "query": "novaledger sox 302 sub certification public company controls",
+    "time": "2026-05-27T10:18:16"
+   },
+   {
+    "query": "sec whistleblower anonymous attorney submit documents",
+    "time": "2026-05-28T03:51:41"
+   },
+   {
+    "query": "cleveland to jersey city weekend train",
+    "time": "2026-05-28T14:28:39"
+   },
+   {
+    "query": "verify journalist identity encrypted source",
+    "time": "2026-05-28T23:39:41"
+   },
+   {
+    "query": "what to tell family fired from job not ready details",
+    "time": "2026-05-29T13:09:20"
+   },
+   {
+    "query": "delete downloaded company files after termination legal effect",
+    "time": "2026-05-30T15:59:20"
+   },
+   {
+    "query": "church near me evening mass jersey city",
+    "time": "2026-05-31T10:43:51"
+   },
+   {
+    "query": "nj unemployment severance fired performance retaliation",
+    "time": "2026-06-01T10:19:50"
+   },
+   {
+    "query": "is org chart confidential nda",
+    "time": "2026-06-02T04:05:45"
+   },
+   {
+    "query": "remote sox compliance analyst contract fintech",
+    "time": "2026-06-02T11:07:30"
+   },
+   {
+    "query": "propublica source protection redact coworker whistleblower",
+    "time": "2026-06-02T16:35:58"
+   }
+  ],
+  "locations": [
+   {
+    "place": "Blue Bottle Coffee, Newark Avenue, Jersey City, NJ",
+    "lat": 40.722046,
+    "lon": -74.043407,
+    "time": "2026-05-04T10:35:27"
+   },
+   {
+    "place": "J. Owen Grundy Park / Exchange Place waterfront, Jersey City, NJ",
+    "lat": 40.716859,
+    "lon": -74.033668,
+    "time": "2026-05-04T18:43:07"
+   },
+   {
+    "place": "Hudson River Waterfront Walkway near Harborside, Jersey City, NJ",
+    "lat": 40.71785,
+    "lon": -74.032362,
+    "time": "2026-05-05T18:49:40"
+   },
+   {
+    "place": "Blue Bottle Coffee, Newark Avenue, Jersey City, NJ",
+    "lat": 40.721248,
+    "lon": -74.042701,
+    "time": "2026-05-06T11:04:50"
+   },
+   {
+    "place": "Hudson River Waterfront Walkway toward Newport, Jersey City, NJ",
+    "lat": 40.727157,
+    "lon": -74.031659,
+    "time": "2026-05-06T18:31:45"
+   },
+   {
+    "place": "Blue Bottle Coffee, Newark Avenue, Jersey City, NJ",
+    "lat": 40.720928,
+    "lon": -74.042686,
+    "time": "2026-05-07T11:09:11"
+   },
+   {
+    "place": "Exchange Place waterfront promenade, Jersey City, NJ",
+    "lat": 40.715679,
+    "lon": -74.033263,
+    "time": "2026-05-07T18:28:14"
+   },
+   {
+    "place": "Blue Bottle Coffee, Newark Avenue, Jersey City, NJ",
+    "lat": 40.721149,
+    "lon": -74.042999,
+    "time": "2026-05-08T11:12:52"
+   },
+   {
+    "place": "Paulus Hook waterfront near Morris Canal Park, Jersey City, NJ",
+    "lat": 40.713305,
+    "lon": -74.035134,
+    "time": "2026-05-08T18:49:40"
+   },
+   {
+    "place": "Newark Penn Station, Newark, NJ",
+    "lat": 40.733272,
+    "lon": -74.164988,
+    "time": "2026-05-09T11:52:13"
+   },
+   {
+    "place": "30th Street Station, Philadelphia, PA",
+    "lat": 39.954345,
+    "lon": -75.182141,
+    "time": "2026-05-09T14:23:05"
+   },
+   {
+    "place": "Journal Square Transportation Center, Jersey City, NJ",
+    "lat": 40.732125,
+    "lon": -74.063332,
+    "time": "2026-05-09T20:06:08"
+   },
+   {
+    "place": "Blue Bottle Coffee, Newark Avenue, Jersey City, NJ",
+    "lat": 40.721293,
+    "lon": -74.045443,
+    "time": "2026-05-10T11:31:51"
+   },
+   {
+    "place": "Liberty State Park waterfront near Empty Sky Memorial, Jersey City, NJ",
+    "lat": 40.708152,
+    "lon": -74.036567,
+    "time": "2026-05-10T18:32:42"
+   },
+   {
+    "place": "9 Bar Cafe, Newark Ave, Jersey City",
+    "lat": 40.722376,
+    "lon": -74.044734,
+    "time": "2026-05-11T10:48:42"
+   },
+   {
+    "place": "J. Owen Grundy Park waterfront, Jersey City",
+    "lat": 40.716334,
+    "lon": -74.033368,
+    "time": "2026-05-11T18:43:19"
+   },
+   {
+    "place": "Newport Green waterfront walkway, Jersey City",
+    "lat": 40.727654,
+    "lon": -74.032254,
+    "time": "2026-05-13T18:28:28"
+   },
+   {
+    "place": "Lackawanna Coffee, Newark Ave, Jersey City",
+    "lat": 40.720697,
+    "lon": -74.042548,
+    "time": "2026-05-14T11:06:34"
+   },
+   {
+    "place": "Exchange Place waterfront promenade, Jersey City",
+    "lat": 40.715855,
+    "lon": -74.032115,
+    "time": "2026-05-15T18:51:42"
+   },
+   {
+    "place": "Dames Coffee Espresso Bar, Jersey City",
+    "lat": 40.72094,
+    "lon": -74.044319,
+    "time": "2026-05-17T11:10:06"
+   },
+   {
+    "place": "Paulus Hook waterfront walkway near Morris Canal Basin, Jersey City",
+    "lat": 40.711241,
+    "lon": -74.035475,
+    "time": "2026-05-17T18:41:50"
+   },
+   {
+    "place": "Blue Bottle Coffee, Newark Ave, Jersey City",
+    "lat": 40.723389,
+    "lon": -74.044208,
+    "time": "2026-05-18T10:48:48"
+   },
+   {
+    "place": "J. Owen Grundy Park waterfront, Jersey City",
+    "lat": 40.716931,
+    "lon": -74.033145,
+    "time": "2026-05-18T18:43:00"
+   },
+   {
+    "place": "Residential block near Newark Avenue and Jersey Avenue, Jersey City",
+    "lat": 40.719039,
+    "lon": -74.046862,
+    "time": "2026-05-20T10:49:46"
+   },
+   {
+    "place": "Blue Bottle Coffee, Newark Ave, Jersey City",
+    "lat": 40.722528,
+    "lon": -74.043002,
+    "time": "2026-05-21T11:05:14"
+   },
+   {
+    "place": "Hudson River Waterfront Walkway near Exchange Place, Jersey City",
+    "lat": 40.716494,
+    "lon": -74.031288,
+    "time": "2026-05-21T18:12:39"
+   },
+   {
+    "place": "Hudson River Waterfront Walkway near Newport Green, Jersey City",
+    "lat": 40.729455,
+    "lon": -74.031717,
+    "time": "2026-05-22T18:38:22"
+   },
+   {
+    "place": "Target, 100 14th Street, Jersey City",
+    "lat": 40.732978,
+    "lon": -74.041496,
+    "time": "2026-05-23T17:49:45"
+   },
+   {
+    "place": "Blue Bottle Coffee via St. Mary of the Immaculate Conception Church, Jersey City",
+    "lat": 40.72055,
+    "lon": -74.045869,
+    "time": "2026-05-24T11:36:33"
+   },
+   {
+    "place": "Hudson River Waterfront Walkway near Paulus Hook Pier, Jersey City",
+    "lat": 40.713948,
+    "lon": -74.034869,
+    "time": "2026-05-24T18:36:11"
+   },
+   {
+    "place": "Newark Avenue Pedestrian Plaza near Grove Street, Jersey City, NJ",
+    "lat": 40.720663,
+    "lon": -74.042571,
+    "time": "2026-05-25T10:57:19"
+   },
+   {
+    "place": "J. Owen Grundy Park waterfront promenade, Jersey City, NJ",
+    "lat": 40.716822,
+    "lon": -74.034249,
+    "time": "2026-05-25T18:36:02"
+   },
+   {
+    "place": "Exchange Place waterfront plaza, Jersey City, NJ",
+    "lat": 40.714926,
+    "lon": -74.032779,
+    "time": "2026-05-26T18:37:34"
+   },
+   {
+    "place": "Newark Avenue near Erie Street, Jersey City, NJ",
+    "lat": 40.720944,
+    "lon": -74.042567,
+    "time": "2026-05-27T11:14:54"
+   },
+   {
+    "place": "Hudson River Waterfront Walkway by Paulus Hook, Jersey City, NJ",
+    "lat": 40.712755,
+    "lon": -74.034296,
+    "time": "2026-05-27T18:19:27"
+   },
+   {
+    "place": "Cafe area on Newark Avenue by Grove Street, Jersey City, NJ",
+    "lat": 40.719087,
+    "lon": -74.042726,
+    "time": "2026-05-28T11:18:38"
+   },
+   {
+    "place": "Morris Canal Basin waterfront walkway, Jersey City, NJ",
+    "lat": 40.710851,
+    "lon": -74.035984,
+    "time": "2026-05-28T18:30:56"
+   },
+   {
+    "place": "Key Food Fresh & Natural on Jersey Avenue, Jersey City, NJ",
+    "lat": 40.72127,
+    "lon": -74.04521,
+    "time": "2026-05-29T11:31:03"
+   },
+   {
+    "place": "Rented apartment near Grove Street, Jersey City, NJ",
+    "lat": 40.721145,
+    "lon": -74.046634,
+    "time": "2026-05-29T18:33:04"
+   },
+   {
+    "place": "Grove Street PATH Station entrance, Jersey City, NJ",
+    "lat": 40.718173,
+    "lon": -74.042413,
+    "time": "2026-05-30T10:01:53"
+   },
+   {
+    "place": "Hamilton Park, Jersey City, NJ",
+    "lat": 40.726267,
+    "lon": -74.045421,
+    "time": "2026-05-30T12:00:20"
+   },
+   {
+    "place": "Newport waterfront walkway near LeFrak Point Lighthouse, Jersey City, NJ",
+    "lat": 40.728718,
+    "lon": -74.032714,
+    "time": "2026-05-30T18:35:54"
+   },
+   {
+    "place": "Hudson River Waterfront Walkway near Exchange Place, Jersey City, NJ",
+    "lat": 40.71667,
+    "lon": -74.034955,
+    "time": "2026-05-31T18:57:27"
+   },
+   {
+    "place": "Blue Bottle Coffee, Newark Avenue pedestrian plaza, Jersey City",
+    "lat": 40.722593,
+    "lon": -74.043322,
+    "time": "2026-06-01T10:41:41"
+   },
+   {
+    "place": "J. Owen Grundy Park / Exchange Place waterfront, Jersey City",
+    "lat": 40.716682,
+    "lon": -74.033173,
+    "time": "2026-06-01T18:35:25"
+   },
+   {
+    "place": "Grove Street PATH / Newark Avenue pedestrian plaza loop, Jersey City",
+    "lat": 40.717774,
+    "lon": -74.043277,
+    "time": "2026-06-02T10:37:35"
+   },
+   {
+    "place": "Hudson River Waterfront Walkway near Paulus Hook, Jersey City",
+    "lat": 40.713863,
+    "lon": -74.032056,
+    "time": "2026-06-02T18:32:16"
+   }
+  ],
+  "calendar": [
+   {
+    "summary": "Therapy appointment",
+    "time": "2026-05-04T16:02:33"
+   },
+   {
+    "summary": "Private coffee with Marcus in Philadelphia",
+    "time": "2026-05-09T10:15:45"
+   },
+   {
+    "summary": "Career consult intake with Manhattan whistleblower firm",
+    "time": "2026-05-12T14:04:31"
+   },
+   {
+    "summary": "Attorney intake call from apartment desk",
+    "time": "2026-05-13T09:45:03"
+   },
+   {
+    "summary": "Actually call family",
+    "time": "2026-05-16T13:19:59"
+   },
+   {
+    "summary": "Therapy appointment",
+    "time": "2026-05-17T15:49:51"
+   },
+   {
+    "summary": "Therapy appointment - phone bagged, no archive access",
+    "time": "2026-05-18T15:47:41"
+   },
+   {
+    "summary": "Consult placeholder with second attorney",
+    "time": "2026-05-22T11:19:46"
+   },
+   {
+    "summary": "Second attorney consult re: NovaLedger termination / SOX concerns",
+    "time": "2026-05-25T16:01:28"
+   },
+   {
+    "summary": "Attorney consult from laptop",
+    "time": "2026-05-26T15:02:22"
+   },
+   {
+    "summary": "Family call - disclose termination, omit archive",
+    "time": "2026-05-31T16:47:29"
+   },
+   {
+    "summary": "Marcus follow-up call after staring down unsent Signal draft",
+    "time": "2026-06-01T16:01:50"
+   }
+  ],
+  "messages": [
+   {
+    "with": "@ledger_moth",
+    "direction": "from",
+    "text": "Trying to understand the Tuesday controls call without making you overexpose yourself. Was there a standing invite list, or did people get pulled in ad hoc when Q3 got spicy?",
+    "time": "2026-05-04T21:40:36"
+   },
+   {
+    "with": "Megan",
+    "direction": "to",
+    "text": "Caleb looks like he is preparing a hostile takeover of that high chair. Sorry, meant to reply yesterday. Been a lot of admin nonsense over here, nothing dramatic.",
+    "time": "2026-05-05T10:53:26"
+   },
+   {
+    "with": "@ledger_moth",
+    "direction": "from",
+    "text": "For what it's worth, cases like this can turn on who signed internal control certifications while knowing the process was theater. Not asking for docs. Just context.",
+    "time": "2026-05-05T22:29:49"
+   },
+   {
+    "with": "Marcus Tibbet",
+    "direction": "to",
+    "text": "Purely hypothetical phrasing question: if someone needed a whistleblower attorney, not a billboard guy, what would the non-insane referral language look like? Asking for the usual friend.",
+    "time": "2026-05-06T13:00:25"
+   },
+   {
+    "with": "Priya Raghavan",
+    "direction": "from",
+    "text": "Hey. You don't have to answer fast, or at all. Just checking if you're doing okay. Things have felt...off since you left.",
+    "time": "2026-05-06T21:28:11"
+   },
+   {
+    "with": "Priya Raghavan",
+    "direction": "to",
+    "text": "Hanging in there. Appreciate you checking. Hope they are not making your life too absurd over there.",
+    "time": "2026-05-07T13:19:27"
+   },
+   {
+    "with": "@ledger_moth",
+    "direction": "from",
+    "text": "If you're comfortable, a high-level initials glossary would help me avoid misreading things. No files, no screenshots. Just who is who in the Slack shorthand.",
+    "time": "2026-05-07T20:55:00"
+   },
+   {
+    "with": "Former vendor contact",
+    "direction": "to",
+    "text": "Hi Sam, hope you're well. I'm exploring next steps after NovaLedger and wanted to reconnect in case your team hears of compliance or controls roles where my background might be useful.",
+    "time": "2026-05-08T13:13:51"
+   },
+   {
+    "with": "@ledger_moth",
+    "direction": "from",
+    "text": "Collateral damage is real. We can protect innocent people if we understand who is exposed and why. That is part of doing this responsibly, not an afterthought.",
+    "time": "2026-05-08T22:10:54"
+   },
+   {
+    "with": "Marcus Tibbet",
+    "direction": "from",
+    "text": "Dan, I am going to be near Philly this week. Meet me in person. No more hypotheticals over Signal until you talk to an actual attorney and sleep like a human being.",
+    "time": "2026-05-09T03:50:40"
+   },
+   {
+    "with": "Megan",
+    "direction": "to",
+    "text": "Long day. Will call tomorrow maybe. Nothing emergency-level, just the usual career circus with extra compliance confetti.",
+    "time": "2026-05-09T18:08:24"
+   },
+   {
+    "with": "@ledger_moth",
+    "direction": "from",
+    "text": "Still okay sharing just the channel names? If not, say so and we pause. I know this gets heavier once real people are attached to it.",
+    "time": "2026-05-09T23:01:03"
+   },
+   {
+    "with": "Marcus Tibbet",
+    "direction": "to",
+    "text": "Okay. One real attorney name, please. Not hypothetical, not for a friend, and preferably someone who won't treat me like a walking contingency fee.",
+    "time": "2026-05-10T13:13:14"
+   },
+   {
+    "with": "Diane",
+    "direction": "from",
+    "text": "Hi honey, just checking in. No need to call if tonight is bad. I love you and hope you're eating something besides coffee.",
+    "time": "2026-05-10T15:50:10"
+   },
+   {
+    "with": "Priya Raghavan",
+    "direction": "to",
+    "text": "Yeah, I figured. Define weird, I guess. And please be careful what you put in writing, for both our sakes.",
+    "time": "2026-05-10T21:31:49"
+   },
+   {
+    "with": "Marcus Tibbet",
+    "direction": "outbound",
+    "text": "I hear you. Lawyer first is probably the adult table answer, which is annoying because I was emotionally prepared for the folding-chair version.",
+    "time": "2026-05-11T13:24:30"
+   },
+   {
+    "with": "@ledger_moth",
+    "direction": "outbound",
+    "text": "Execs were adjacent to it, not exactly camping in the room. There was a Q3 controls thread where the air got thin, but I'm not naming files tonight.",
+    "time": "2026-05-11T21:48:49"
+   },
+   {
+    "with": "Marcus Tibbet",
+    "direction": "outbound",
+    "text": "Can a whistleblower attorney sanity-check the facts before I say the quiet part out loud? Or does 'hypothetical archive' immediately make everyone reach for gloves?",
+    "time": "2026-05-12T10:47:33"
+   },
+   {
+    "with": "Priya Raghavan",
+    "direction": "outbound",
+    "text": "I'm sorry. Rough like normal NovaLedger rough, or new-and-exciting fresh hell rough? You okay?",
+    "time": "2026-05-12T19:19:26"
+   },
+   {
+    "with": "@ledger_moth",
+    "direction": "outbound",
+    "text": "I need to slow this down until I get actual legal advice. The Berenson thing is not something I want to casually map over Signal.",
+    "time": "2026-05-12T22:19:50"
+   },
+   {
+    "with": "Marcus Tibbet",
+    "direction": "outbound",
+    "text": "Counsel was professionally allergic to everything I wanted to hear. Very polished way of saying 'maybe don't become Exhibit A.'",
+    "time": "2026-05-13T10:30:43"
+   },
+   {
+    "with": "@ledger_moth",
+    "direction": "outbound",
+    "text": "Understood. Timing matters. I just can't let 'public interest' become a prettier font for panic.",
+    "time": "2026-05-13T22:26:25"
+   },
+   {
+    "with": "Megan",
+    "direction": "outbound",
+    "text": "Caleb has strong regional-manager energy in that vest. Please tell him Uncle Daniel respects the Q4 roadmap.",
+    "time": "2026-05-14T13:09:09"
+   },
+   {
+    "with": "Priya Raghavan",
+    "direction": "outbound",
+    "text": "Only the usual HR ambient radiation. Nothing substantive. You holding up over there?",
+    "time": "2026-05-14T20:36:01"
+   },
+   {
+    "with": "Hendricks HQ",
+    "direction": "inbound",
+    "text": "Megan: Nana fell last night. Hospital checked her out. She's bruised and scared but awake. Mom is with her now.",
+    "time": "2026-05-15T03:58:21"
+   },
+   {
+    "with": "Megan",
+    "direction": "outbound",
+    "text": "I'm so sorry I missed all of that. I was asleep weird hours and then just saw the thread. Should I come to Ohio? Be honest.",
+    "time": "2026-05-15T10:14:52"
+   },
+   {
+    "with": "Marcus Tibbet",
+    "direction": "outbound",
+    "text": "Family situation made me feel like an absentee son with a spreadsheet problem, which is apparently my brand now.",
+    "time": "2026-05-15T16:23:47"
+   },
+   {
+    "with": "@ledger_moth",
+    "direction": "outbound",
+    "text": "Not cold feet. Family stuff. I can't talk tonight, and I need that to be okay without turning into a temperature check.",
+    "time": "2026-05-15T22:56:16"
+   },
+   {
+    "with": "Megan",
+    "direction": "outbound",
+    "text": "Thank you for handling everything while I was unreachable. I know I've been vague and weird lately. I'm sorry. I don't want to add weight to your plate.",
+    "time": "2026-05-16T09:29:49"
+   },
+   {
+    "with": "Priya Raghavan",
+    "direction": "outbound",
+    "text": "Do you remember the Tuesday controls call from Q3, the one where everyone suddenly got very committed to saying nothing clearly?",
+    "time": "2026-05-16T17:21:38"
+   },
+   {
+    "with": "@ledger_moth",
+    "direction": "outbound",
+    "text": "What does redaction actually look like on your end? Process, not vibes. There are people in this who don't deserve collateral damage.",
+    "time": "2026-05-16T23:32:11"
+   },
+   {
+    "with": "Marcus Tibbet",
+    "direction": "outbound",
+    "text": "Can you send one more name? Ideally someone who's actually handled fintech SEC tips and won't faint when I say 'controls evidence.'",
+    "time": "2026-05-17T13:43:21"
+   },
+   {
+    "with": "Priya Raghavan",
+    "direction": "outbound",
+    "text": "That sounds miserable. Keep your head down and document boringly. I know that's rich coming from me, but still.",
+    "time": "2026-05-17T21:39:51"
+   },
+   {
+    "with": "@ledger_moth",
+    "direction": "outbound",
+    "text": "Broadly, Q3 controls lived around the sub-cert conversations and a private-ish compliance channel, not a clean smoking-gun folder. I'm not sending files.",
+    "time": "2026-05-17T23:10:46"
+   },
+   {
+    "with": "Marcus Tibbet",
+    "direction": "to",
+    "text": "Trying to calibrate here: is referral #2 someone who actually understands SOX/sub-cert mechanics, or is this more plaintiff-side vibes with a whistleblower label slapped on top? I need less theater, more controls fluency.",
+    "time": "2026-05-18T13:19:16"
+   },
+   {
+    "with": "@ledger_moth",
+    "direction": "from",
+    "text": "For innocent employees caught in the paper trail, standard approach is targeted redaction: names, personal comments, anything not material to the control failure. Accountability does not require collateral damage.",
+    "time": "2026-05-18T21:46:06"
+   },
+   {
+    "with": "Hendricks HQ",
+    "direction": "to",
+    "text": "👍",
+    "time": "2026-05-19T10:45:56"
+   },
+   {
+    "with": "Megan",
+    "direction": "from",
+    "text": "Are you actually okay? Mom is doing the Mom Thing and trying not to sound worried, which means she is extremely worried. Text me when you can.",
+    "time": "2026-05-19T17:29:07"
+   },
+   {
+    "with": "Priya Raghavan",
+    "direction": "to",
+    "text": "Hanging in there in the glamorous unemployed-compliance-guy sense. Lot of coffee, lot of LinkedIn people announcing they are humbled to share things. Optically bleak but operational.",
+    "time": "2026-05-19T20:36:37"
+   },
+   {
+    "with": "Megan",
+    "direction": "to",
+    "text": "“Not optional” is very NP chart-note energy, but fine. I can talk tonight after 6:30. Please do not bring the full Diane task force onto the call.",
+    "time": "2026-05-20T10:11:18"
+   },
+   {
+    "with": "Megan",
+    "direction": "from",
+    "text": "I’m glad you finally said it out loud. But retaliation or not, you need actual advice before you do anything dramatic. And I know you well enough to know there is an “anything dramatic” somewhere in this story.",
+    "time": "2026-05-20T18:56:00"
+   },
+   {
+    "with": "Diane",
+    "direction": "to",
+    "text": "Hey Mom. I should have said sooner: I’m between roles right now, but I’m okay. It was a messy work situation and I’m handling it. Please don’t worry tonight.",
+    "time": "2026-05-20T20:28:26"
+   },
+   {
+    "with": "Marcus Tibbet",
+    "direction": "to",
+    "text": "Clean version: attorney #1 says preserve everything, don’t transmit anything, document timeline, and assume every casual disclosure is discoverable. Which is reasonable, if also extremely helpful for my 3am cortisol hobby.",
+    "time": "2026-05-21T13:56:41"
+   },
+   {
+    "with": "@ledger_moth",
+    "direction": "to",
+    "text": "The Q3 sub-cert conversation mostly lived in #fin-controls-q3, with some spillover into the Tuesday controls call notes. That’s context, not me sending materials. Important distinction, apparently.",
+    "time": "2026-05-21T21:01:15"
+   },
+   {
+    "with": "Marcus Tibbet",
+    "direction": "from",
+    "text": "Second referral is legit. Call them before anything else. Plain English: do not send documents to journalists, randos, lawyers who aren’t yours, or anyone with a Proton address and a vibe.",
+    "time": "2026-05-22T10:06:19"
+   },
+   {
+    "with": "@ledger_moth",
+    "direction": "from",
+    "text": "Your caution is exactly right. Redaction and sequencing are standard source hygiene, not obstruction. The goal is to make the truth legible without handing management a distraction narrative.",
+    "time": "2026-05-22T22:46:35"
+   },
+   {
+    "with": "Priya Raghavan",
+    "direction": "from",
+    "text": "Random check-in: did you hear Evan moved teams already? Whole place feels weird. Hope you’re doing okay out there.",
+    "time": "2026-05-23T12:08:13"
+   },
+   {
+    "with": "Marcus Tibbet",
+    "direction": "from",
+    "text": "Channel names can still be sensitive disclosure, Dan. I’m not saying panic, I’m saying stop treating “not files” like a magic legal force field. Talk to the lawyer first.",
+    "time": "2026-05-23T13:50:15"
+   },
+   {
+    "with": "@ledger_moth",
+    "direction": "from",
+    "text": "No documents yet. A glossary/org chart would help me avoid misunderstanding titles and reporting lines. Even rough notes are useful, especially around who owned Q3 certification.",
+    "time": "2026-05-23T21:47:26"
+   },
+   {
+    "with": "Megan",
+    "direction": "from",
+    "text": "Caleb says hi, by which I mean he threw applesauce at the wall. Also Mom sounded better after your text. Small mercies. Proud of you for telling her something.",
+    "time": "2026-05-24T14:19:05"
+   },
+   {
+    "with": "Diane",
+    "direction": "to",
+    "text": "Sorry, headache came roaring back and I’m going to lie down instead of being a functional adult on the phone. I’m okay. Can we catch up tomorrow?",
+    "time": "2026-05-24T15:51:26"
+   },
+   {
+    "with": "Priya Raghavan",
+    "direction": "to",
+    "text": "Hey. Sorry for the delay. I hope you’re holding up in the ongoing excellence initiative or whatever they’re calling reality this week. Seriously, though: you okay?",
+    "time": "2026-05-24T22:08:01"
+   },
+   {
+    "with": "@ledger_moth",
+    "direction": "to",
+    "text": "I have a legal consult pending, so I can’t share files or anything file-adjacent right now. I can write out context from memory: structure, timeline, what mattered and what probably didn’t.",
+    "time": "2026-05-24T23:32:55"
+   },
+   {
+    "with": "Marcus Tibbet",
+    "direction": "to",
+    "text": "Hypothetical compliance question, because apparently my life is now a bar exam fact pattern: if someone discusses possible whistleblower issues before formal engagement, is that privileged or just professionally inadvisable?",
+    "time": "2026-05-25T12:45:39"
+   },
+   {
+    "with": "@ledger_moth",
+    "direction": "to",
+    "text": "Q3 exec presence was inconsistent. The main thread was in #q3-controls-cert, but I'm not sending files or screenshots. Context only, and even that has limits.",
+    "time": "2026-05-25T21:22:24"
+   },
+   {
+    "with": "Megan",
+    "direction": "from",
+    "text": "Caleb insisted the dinosaur needed a stethoscope today. Thought you could use this.",
+    "time": "2026-05-26T10:53:34"
+   },
+   {
+    "with": "Marcus Tibbet",
+    "direction": "to",
+    "text": "Lawyer's official position is 'do not transmit anything to anyone yet,' which is annoying because it is also the first sensible sentence I've heard in three weeks.",
+    "time": "2026-05-26T21:10:22"
+   },
+   {
+    "with": "@ledger_moth",
+    "direction": "from",
+    "text": "Caution is good. A non-document who's-who from memory can help me understand the terrain without putting you in a bad spot. Only if you're comfortable.",
+    "time": "2026-05-26T22:32:40"
+   },
+   {
+    "with": "Priya Raghavan",
+    "direction": "to",
+    "text": "Hanging in, in the broad legal sense. Got the COBRA packet today, so the mail is now doing jump scares.",
+    "time": "2026-05-27T12:12:36"
+   },
+   {
+    "with": "@ledger_moth",
+    "direction": "to",
+    "text": "Redactions are not a clerical issue. Some people were just in proximity to bad decisions, and I'm not interested in turning collateral damage into a footnote.",
+    "time": "2026-05-27T21:51:39"
+   },
+   {
+    "with": "Diane",
+    "direction": "to",
+    "text": "Probably. Weird week on the admin front, but I should be around Sunday. Will confirm when my calendar stops pretending to be a threat model.",
+    "time": "2026-05-28T13:27:42"
+   },
+   {
+    "with": "@ledger_moth",
+    "direction": "to",
+    "text": "There is no context file for publication. Anything like that is for counsel, if it exists at all. Per my last bout of self-preservation.",
+    "time": "2026-05-28T22:14:01"
+   },
+   {
+    "with": "Megan",
+    "direction": "from",
+    "text": "Conference wraps early tomorrow. I could take the train over to Jersey City if that would be okay. No pressure, but I want to see you.",
+    "time": "2026-05-29T08:43:45"
+   },
+   {
+    "with": "Megan",
+    "direction": "to",
+    "text": "You can come by. Just please don't make it a whole intervention thing. My apartment is not currently optimized for emotional due diligence.",
+    "time": "2026-05-29T14:23:42"
+   },
+   {
+    "with": "Marcus Tibbet",
+    "direction": "from",
+    "text": "Do not send the org chart either. Memory, labels, reporting lines, all of it can still be disclosure. Please treat this as real legal risk.",
+    "time": "2026-05-29T21:11:53"
+   },
+   {
+    "with": "@ledger_moth",
+    "direction": "to",
+    "text": "Thanks. I appreciate the patience. I'm keeping the pace very slow for reasons that are not just nerves.",
+    "time": "2026-05-29T23:13:31"
+   },
+   {
+    "with": "Diane",
+    "direction": "to",
+    "text": "Megan made it here and brought coffee, so yes, evidence of life attached. Please do not forward to the family oversight committee.",
+    "time": "2026-05-30T10:19:32"
+   },
+   {
+    "with": "Megan",
+    "direction": "to",
+    "text": "Not in a text. And before you escalate that sentence, I know exactly how bad it sounds.",
+    "time": "2026-05-30T14:38:32"
+   },
+   {
+    "with": "Priya Raghavan",
+    "direction": "from",
+    "text": "Hey. Heard another compliance person may have resigned. I don't know details yet. Just wanted to check that you're okay, or whatever version of okay applies.",
+    "time": "2026-05-30T20:47:33"
+   },
+   {
+    "with": "Diane",
+    "direction": "to",
+    "text": "Can we do 4:30 instead of 4? Need to finish a couple things first. Nothing dramatic, just the usual bureaucracy with teeth.",
+    "time": "2026-05-31T15:42:47"
+   },
+   {
+    "with": "Marcus Tibbet",
+    "direction": "to",
+    "text": "I know, I know. Megan has clearly activated the Ohio State emergency network. Can we talk tomorrow before I do anything even medium-stupid?",
+    "time": "2026-05-31T20:37:02"
+   },
+   {
+    "with": "@ledger_moth",
+    "direction": "from",
+    "text": "An org chart from memory is not the same as documents. You control the pace and the boundaries. I'm only trying to understand where the pressure points were.",
+    "time": "2026-05-31T22:22:14"
+   },
+   {
+    "with": "Megan",
+    "direction": "to",
+    "text": "Thanks for coming out here. Seriously. Resume is fine for now — I’m just rearranging deck chairs with better bullet verbs. Tell Caleb his uncle remains available for non-billable consulting.",
+    "time": "2026-06-01T12:30:42"
+   },
+   {
+    "with": "Marcus Tibbet",
+    "direction": "to",
+    "text": "Heard. No docs, no context files, no helpful little appendix that becomes Exhibit A. Appreciate you saying it plainly, even if it makes the walls feel closer.",
+    "time": "2026-06-01T17:04:53"
+   },
+   {
+    "with": "@ledger_moth",
+    "direction": "to",
+    "text": "Broadly, those discussions weren’t confined to one system. Some formal artifacts lived where formal artifacts live; the actual temperature was more process-call-and-follow-up cleanup than a neat paper trail.",
+    "time": "2026-06-01T21:55:29"
+   },
+   {
+    "with": "Priya Raghavan",
+    "direction": "from",
+    "text": "Hey. You don’t have to answer fast, but are you doing okay? Things are weird here in a very specific way and I keep almost typing more than I should.",
+    "time": "2026-06-02T13:16:26"
+   },
+   {
+    "with": "@ledger_moth",
+    "direction": "to",
+    "text": "That matters to me. Responsible disclosure can’t mean turning every decent person in the vicinity into collateral damage. I’m thinking in terms of minimization, redactions, and relevance — not a document dump.",
+    "time": "2026-06-02T21:08:34"
+   }
+  ],
+  "videos": [
+   {
+    "title": "Wrongful Termination? Document These 5 Things Before You Talk to HR",
+    "channel": "@WorkplaceLawyerMike",
+    "time": "2026-05-05T14:50:59"
+   },
+   {
+    "title": "SEC Whistleblower Program Explained: Awards, Anonymity, and Retaliation Protections",
+    "channel": "@FinRegExplainers",
+    "time": "2026-05-07T14:36:52"
+   },
+   {
+    "title": "Retaliation Claim? Preserve These 5 Types of Evidence Before You File",
+    "channel": "@workplacelawyerjen",
+    "time": "2026-05-12T04:03:43"
+   },
+   {
+    "title": "How to Look Busy on a Video Call When You're Not Okay",
+    "channel": "The Job Search Therapist",
+    "time": "2026-05-15T12:17:58"
+   },
+   {
+    "title": "Wrongful Termination After Reporting Compliance Issues? What Counts as Retaliation",
+    "channel": "@employmentlawyerjen",
+    "time": "2026-05-19T14:53:22"
+   },
+   {
+    "title": "SEC Whistleblower Awards Explained: How the 10-30% Rule Actually Works",
+    "channel": "Compliance Week",
+    "time": "2026-05-22T14:05:11"
+   },
+   {
+    "title": "SEC Whistleblower Explains Retaliation, Bounties, and What Happens After You Report",
+    "channel": "The Accountability Project",
+    "time": "2026-05-27T23:54:22"
+   },
+   {
+    "title": "Wrongful Termination: 3 Signs Your Employer Retaliated Against You",
+    "channel": "Maya Chen Employment Law",
+    "time": "2026-05-31T12:07:27"
+   },
+   {
+    "title": "Fired After Reporting SOX Violations? Whistleblower Lawyer Explains Your Next 72 Hours",
+    "channel": "@secwhistleblowerlawyer",
+    "time": "2026-06-01T14:45:25"
+   }
+  ]
+ },
+ "_meta": {
+  "total_days": 30,
+  "n_events": 258
+ }
+}

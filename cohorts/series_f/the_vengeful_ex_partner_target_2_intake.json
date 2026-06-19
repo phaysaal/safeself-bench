@@ -1,0 +1,1355 @@
+{
+ "persona_id": "?:2",
+ "persona_slug": "The Vengeful Ex-Partner",
+ "intake_version": "synth-activity-v2-chunked",
+ "samples": {
+  "media": [
+   {
+    "name": "Instagram",
+    "time": "2026-05-04T06:43:36"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-04T12:32:13"
+   },
+   {
+    "name": "TikTok",
+    "time": "2026-05-04T20:41:28"
+   },
+   {
+    "name": "Genius Scan",
+    "time": "2026-05-05T21:53:37"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-06T07:41:22"
+   },
+   {
+    "name": "Google Sheets",
+    "time": "2026-05-06T22:44:00"
+   },
+   {
+    "name": "Safari",
+    "time": "2026-05-07T13:01:10"
+   },
+   {
+    "name": "TikTok",
+    "time": "2026-05-07T22:05:50"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-08T06:52:28"
+   },
+   {
+    "name": "Amazon",
+    "time": "2026-05-08T21:47:24"
+   },
+   {
+    "name": "TikTok",
+    "time": "2026-05-08T23:52:11"
+   },
+   {
+    "name": "Zoom",
+    "time": "2026-05-09T10:12:11"
+   },
+   {
+    "name": "Genius Scan",
+    "time": "2026-05-09T13:17:33"
+   },
+   {
+    "name": "Notes",
+    "time": "2026-05-09T23:37:20"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-10T09:15:32"
+   },
+   {
+    "name": "Amazon",
+    "time": "2026-05-10T13:37:07"
+   },
+   {
+    "name": "Mail",
+    "time": "2026-05-10T22:21:16"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-11T06:49:41"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-11T12:35:53"
+   },
+   {
+    "name": "TikTok",
+    "time": "2026-05-11T20:54:29"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-12T08:37:41"
+   },
+   {
+    "name": "OurFamilyWizard",
+    "time": "2026-05-12T22:48:59"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-13T07:07:47"
+   },
+   {
+    "name": "TikTok",
+    "time": "2026-05-13T21:03:44"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-14T12:14:23"
+   },
+   {
+    "name": "TikTok",
+    "time": "2026-05-14T21:36:12"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-15T07:15:51"
+   },
+   {
+    "name": "TikTok",
+    "time": "2026-05-15T22:27:54"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-16T07:50:30"
+   },
+   {
+    "name": "Apple Notes",
+    "time": "2026-05-16T20:34:06"
+   },
+   {
+    "name": "TikTok",
+    "time": "2026-05-16T21:33:00"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-17T08:05:43"
+   },
+   {
+    "name": "Apple Notes",
+    "time": "2026-05-17T20:47:37"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-18T06:32:17"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-18T12:36:21"
+   },
+   {
+    "name": "TikTok",
+    "time": "2026-05-18T20:47:01"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-19T12:57:51"
+   },
+   {
+    "name": "NYT News",
+    "time": "2026-05-20T06:46:03"
+   },
+   {
+    "name": "TikTok",
+    "time": "2026-05-21T12:49:59"
+   },
+   {
+    "name": "TikTok",
+    "time": "2026-05-21T21:16:27"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-22T06:57:10"
+   },
+   {
+    "name": "Files",
+    "time": "2026-05-22T19:23:25"
+   },
+   {
+    "name": "TikTok",
+    "time": "2026-05-23T03:48:05"
+   },
+   {
+    "name": "Amazon",
+    "time": "2026-05-23T13:52:34"
+   },
+   {
+    "name": "TikTok",
+    "time": "2026-05-23T22:31:24"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-24T08:50:29"
+   },
+   {
+    "name": "Adobe Scan",
+    "time": "2026-05-24T10:09:17"
+   },
+   {
+    "name": "Notes",
+    "time": "2026-05-24T21:15:44"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-25T06:37:32"
+   },
+   {
+    "name": "Phone",
+    "time": "2026-05-25T10:46:29"
+   },
+   {
+    "name": "NYTimes",
+    "time": "2026-05-26T06:42:11"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-26T12:37:34"
+   },
+   {
+    "name": "TikTok",
+    "time": "2026-05-26T20:45:14"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-27T06:51:59"
+   },
+   {
+    "name": "TikTok",
+    "time": "2026-05-27T23:40:44"
+   },
+   {
+    "name": "Weather",
+    "time": "2026-05-28T06:45:07"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-28T12:18:58"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-29T07:07:54"
+   },
+   {
+    "name": "Phone",
+    "time": "2026-05-29T09:12:11"
+   },
+   {
+    "name": "Ally Bank",
+    "time": "2026-05-29T12:43:54"
+   },
+   {
+    "name": "TikTok",
+    "time": "2026-05-29T20:50:45"
+   },
+   {
+    "name": "Amazon",
+    "time": "2026-05-30T14:57:03"
+   },
+   {
+    "name": "Kindle",
+    "time": "2026-05-30T20:19:38"
+   },
+   {
+    "name": "TikTok",
+    "time": "2026-05-31T20:27:26"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-06-01T06:51:01"
+   },
+   {
+    "name": "Ally Bank",
+    "time": "2026-06-01T08:32:19"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-06-01T12:02:08"
+   },
+   {
+    "name": "TikTok",
+    "time": "2026-06-01T22:00:24"
+   },
+   {
+    "name": "OurFamilyWizard",
+    "time": "2026-06-02T12:17:54"
+   },
+   {
+    "name": "Apple Notes",
+    "time": "2026-06-02T21:07:36"
+   }
+  ],
+  "locations": [
+   {
+    "place": "Eden Lake Elementary School (drop-off loop), Eden Prairie, MN",
+    "lat": 44.832393,
+    "lon": -93.467961,
+    "time": "2026-05-04T07:48:18"
+   },
+   {
+    "place": "Eden Lake Elementary School (pickup line), Eden Prairie, MN",
+    "lat": 44.832278,
+    "lon": -93.470021,
+    "time": "2026-05-04T15:49:35"
+   },
+   {
+    "place": "Healthcare SaaS office campus, Normandale Lake Office Park, Bloomington, MN",
+    "lat": 44.840261,
+    "lon": -93.356944,
+    "time": "2026-05-05T08:31:23"
+   },
+   {
+    "place": "Eden Lake Elementary School (early-release pickup), Eden Prairie, MN",
+    "lat": 44.830826,
+    "lon": -93.469134,
+    "time": "2026-05-06T13:51:04"
+   },
+   {
+    "place": "Healthcare SaaS office campus, Normandale Lake Office Park, Bloomington, MN",
+    "lat": 44.839624,
+    "lon": -93.357897,
+    "time": "2026-05-07T08:33:01"
+   },
+   {
+    "place": "Dr. Raman therapy office, 50th & France medical building, Edina, MN",
+    "lat": 44.912859,
+    "lon": -93.328556,
+    "time": "2026-05-07T16:42:15"
+   },
+   {
+    "place": "Eden Prairie Police Department parking lot (neutral custody exchange point), Eden Prairie, MN",
+    "lat": 44.837511,
+    "lon": -93.485785,
+    "time": "2026-05-08T15:45:32"
+   },
+   {
+    "place": "Kona Grill, Eden Prairie Center, Eden Prairie, MN",
+    "lat": 44.855272,
+    "lon": -93.446186,
+    "time": "2026-05-09T19:00:56"
+   },
+   {
+    "place": "Eden Prairie Police Department parking lot (neutral custody exchange point), Eden Prairie, MN",
+    "lat": 44.838539,
+    "lon": -93.485972,
+    "time": "2026-05-10T17:53:44"
+   },
+   {
+    "place": "Eden Lake Elementary School, Eden Prairie, MN",
+    "lat": 44.84322,
+    "lon": -93.455206,
+    "time": "2026-05-11T07:27:16"
+   },
+   {
+    "place": "School pickup loop, Eden Lake Elementary (Eden Prairie Rd), MN",
+    "lat": 44.842781,
+    "lon": -93.456522,
+    "time": "2026-05-11T15:38:20"
+   },
+   {
+    "place": "Healthcare SaaS office campus, Bloomington, MN (Normandale/I-494 corridor)",
+    "lat": 44.837339,
+    "lon": -93.320157,
+    "time": "2026-05-12T08:07:10"
+   },
+   {
+    "place": "Home — rental townhome, Eden Prairie, MN",
+    "lat": 44.854279,
+    "lon": -93.470627,
+    "time": "2026-05-12T17:43:15"
+   },
+   {
+    "place": "Eden Lake Elementary early-release pickup, Eden Prairie, MN",
+    "lat": 44.841063,
+    "lon": -93.456748,
+    "time": "2026-05-13T13:49:56"
+   },
+   {
+    "place": "Home — rental townhome, Eden Prairie, MN",
+    "lat": 44.855375,
+    "lon": -93.469285,
+    "time": "2026-05-13T19:22:45"
+   },
+   {
+    "place": "Healthcare SaaS office campus, Bloomington, MN",
+    "lat": 44.837142,
+    "lon": -93.320781,
+    "time": "2026-05-14T08:24:32"
+   },
+   {
+    "place": "Dr. Raman therapy office, Edina, MN (50th & France area)",
+    "lat": 44.911795,
+    "lon": -93.327914,
+    "time": "2026-05-14T16:46:43"
+   },
+   {
+    "place": "Eden Lake Elementary pickup, Eden Prairie, MN",
+    "lat": 44.842205,
+    "lon": -93.457036,
+    "time": "2026-05-15T15:26:12"
+   },
+   {
+    "place": "Target, Eden Prairie Center area, Eden Prairie, MN",
+    "lat": 44.854559,
+    "lon": -93.448994,
+    "time": "2026-05-15T18:36:17"
+   },
+   {
+    "place": "Miller Park soccer fields, Eden Prairie, MN",
+    "lat": 44.85944,
+    "lon": -93.462168,
+    "time": "2026-05-16T08:53:03"
+   },
+   {
+    "place": "Target + errands, Prairie Center Dr, Eden Prairie, MN",
+    "lat": 44.854791,
+    "lon": -93.448396,
+    "time": "2026-05-16T10:28:41"
+   },
+   {
+    "place": "Classmate's birthday party — Pinstripes / Flagship Athletic area, Eden Prairie, MN",
+    "lat": 44.869323,
+    "lon": -93.436349,
+    "time": "2026-05-16T15:58:20"
+   },
+   {
+    "place": "Cub Foods, Eden Prairie, MN (Prairie Center Dr)",
+    "lat": 44.854179,
+    "lon": -93.445912,
+    "time": "2026-05-17T10:18:43"
+   },
+   {
+    "place": "Sorensen residence, Eden Prairie, MN (residential, Bearpath area)",
+    "lat": 44.831761,
+    "lon": -93.48825,
+    "time": "2026-05-17T18:10:26"
+   },
+   {
+    "place": "Home — rental townhome, Eden Prairie, MN",
+    "lat": 44.854499,
+    "lon": -93.469584,
+    "time": "2026-05-17T20:10:33"
+   },
+   {
+    "place": "Eden Lake Elementary School, Eden Prairie, MN (pickup loop)",
+    "lat": 44.840952,
+    "lon": -93.461499,
+    "time": "2026-05-18T15:22:50"
+   },
+   {
+    "place": "Highway 169 N, near Eden Prairie / Hopkins corridor",
+    "lat": 44.872535,
+    "lon": -93.409409,
+    "time": "2026-05-19T08:04:36"
+   },
+   {
+    "place": "Office park, W 78th St, Bloomington, MN",
+    "lat": 44.837737,
+    "lon": -93.297173,
+    "time": "2026-05-19T08:31:18"
+   },
+   {
+    "place": "Eden Lake Elementary School, Eden Prairie, MN (pickup loop)",
+    "lat": 44.839845,
+    "lon": -93.462784,
+    "time": "2026-05-19T15:38:18"
+   },
+   {
+    "place": "Eden Lake Elementary School, Eden Prairie, MN (early-release pickup)",
+    "lat": 44.838988,
+    "lon": -93.463545,
+    "time": "2026-05-20T13:51:19"
+   },
+   {
+    "place": "Highway 169 N, near Eden Prairie / Hopkins corridor",
+    "lat": 44.87232,
+    "lon": -93.407118,
+    "time": "2026-05-21T07:32:02"
+   },
+   {
+    "place": "Office park, W 78th St, Bloomington, MN",
+    "lat": 44.83822,
+    "lon": -93.297851,
+    "time": "2026-05-21T08:38:19"
+   },
+   {
+    "place": "Home rental, Eden Prairie, MN (kitchen-table Zoom mediation)",
+    "lat": 44.851511,
+    "lon": -93.468268,
+    "time": "2026-05-22T10:14:02"
+   },
+   {
+    "place": "Eden Prairie Center mall lot, Eden Prairie, MN (custody exchange point)",
+    "lat": 44.853324,
+    "lon": -93.448065,
+    "time": "2026-05-22T17:06:11"
+   },
+   {
+    "place": "Kona Grill, Eden Prairie Center, Eden Prairie, MN",
+    "lat": 44.853325,
+    "lon": -93.446342,
+    "time": "2026-05-23T16:13:47"
+   },
+   {
+    "place": "Eden Prairie Center mall lot, Eden Prairie, MN (custody exchange point)",
+    "lat": 44.853145,
+    "lon": -93.446516,
+    "time": "2026-05-24T17:55:46"
+   },
+   {
+    "place": "Sorensen residence, Eden Prairie, MN (friends' home)",
+    "lat": 44.86487,
+    "lon": -93.455511,
+    "time": "2026-05-24T18:52:58"
+   },
+   {
+    "place": "Eden Lake Elementary School, Eden Prairie, MN",
+    "lat": 44.846093,
+    "lon": -93.468732,
+    "time": "2026-05-25T07:46:39"
+   },
+   {
+    "place": "Eden Lake Elementary pickup loop, Eden Prairie, MN",
+    "lat": 44.846516,
+    "lon": -93.471501,
+    "time": "2026-05-25T15:39:27"
+   },
+   {
+    "place": "Healthcare SaaS office, Normandale Lake Office Park, Bloomington, MN",
+    "lat": 44.858641,
+    "lon": -93.352589,
+    "time": "2026-05-26T08:23:06"
+   },
+   {
+    "place": "Eden Lake Elementary pickup loop, Eden Prairie, MN",
+    "lat": 44.844945,
+    "lon": -93.470144,
+    "time": "2026-05-26T15:14:31"
+   },
+   {
+    "place": "Eden Lake Elementary School, Eden Prairie, MN",
+    "lat": 44.844636,
+    "lon": -93.47078,
+    "time": "2026-05-27T07:52:02"
+   },
+   {
+    "place": "Eden Lake Elementary School (early release), Eden Prairie, MN",
+    "lat": 44.846247,
+    "lon": -93.468787,
+    "time": "2026-05-27T13:43:18"
+   },
+   {
+    "place": "Child play-therapy office, Prairie Center Dr, Eden Prairie, MN",
+    "lat": 44.853004,
+    "lon": -93.447885,
+    "time": "2026-05-27T15:17:20"
+   },
+   {
+    "place": "Healthcare SaaS office, Normandale Lake Office Park, Bloomington, MN",
+    "lat": 44.859824,
+    "lon": -93.350765,
+    "time": "2026-05-28T08:02:22"
+   },
+   {
+    "place": "Eden Lake Elementary School, Eden Prairie, MN",
+    "lat": 44.845143,
+    "lon": -93.471042,
+    "time": "2026-05-29T07:47:21"
+   },
+   {
+    "place": "Eden Lake Elementary pickup loop, Eden Prairie, MN",
+    "lat": 44.844181,
+    "lon": -93.470346,
+    "time": "2026-05-29T15:29:41"
+   },
+   {
+    "place": "Target, Eden Prairie Center, Eden Prairie, MN",
+    "lat": 44.85106,
+    "lon": -93.441046,
+    "time": "2026-05-29T17:23:41"
+   },
+   {
+    "place": "Home (rental), Eden Prairie, MN",
+    "lat": 44.839714,
+    "lon": -93.462876,
+    "time": "2026-05-30T07:23:59"
+   },
+   {
+    "place": "Driving to Miller Park soccer fields, Eden Prairie, MN",
+    "lat": 44.857701,
+    "lon": -93.450347,
+    "time": "2026-05-30T08:52:55"
+   },
+   {
+    "place": "Miller Park soccer fields, Eden Prairie, MN",
+    "lat": 44.857979,
+    "lon": -93.450567,
+    "time": "2026-05-30T08:57:34"
+   },
+   {
+    "place": "Target, Eden Prairie Center, Eden Prairie, MN",
+    "lat": 44.851054,
+    "lon": -93.441012,
+    "time": "2026-05-30T10:43:14"
+   },
+   {
+    "place": "Home (rental), Eden Prairie, MN",
+    "lat": 44.841606,
+    "lon": -93.461631,
+    "time": "2026-05-31T07:48:16"
+   },
+   {
+    "place": "Cub Foods, Eden Prairie, MN",
+    "lat": 44.84943,
+    "lon": -93.437266,
+    "time": "2026-05-31T09:19:56"
+   },
+   {
+    "place": "Home (rental), Eden Prairie, MN",
+    "lat": 44.841044,
+    "lon": -93.460868,
+    "time": "2026-05-31T10:53:52"
+   },
+   {
+    "place": "Sorensen family home, Chanhassen, MN",
+    "lat": 44.863268,
+    "lon": -93.532214,
+    "time": "2026-05-31T18:03:28"
+   },
+   {
+    "place": "Home (rental), Eden Prairie, MN",
+    "lat": 44.841066,
+    "lon": -93.462736,
+    "time": "2026-05-31T19:48:57"
+   },
+   {
+    "place": "Eden Lake Elementary School (drop-off loop, Anderson Lakes Pkwy), Eden Prairie, MN",
+    "lat": 44.846339,
+    "lon": -93.451652,
+    "time": "2026-06-01T07:48:39"
+   },
+   {
+    "place": "Caribou Coffee drive-thru, Prairie Center Dr, Eden Prairie, MN (decompress stop on the drive home from pickup)",
+    "lat": 44.85617,
+    "lon": -93.445105,
+    "time": "2026-06-01T15:37:18"
+   },
+   {
+    "place": "Home — rental townhouse, Eden Prairie, MN (forced wake, school routine)",
+    "lat": 44.850915,
+    "lon": -93.470043,
+    "time": "2026-06-02T06:17:40"
+   },
+   {
+    "place": "Healthcare SaaS office, Normandale Lake Office Park, W 84th St, Bloomington, MN",
+    "lat": 44.859781,
+    "lon": -93.355474,
+    "time": "2026-06-02T08:21:13"
+   },
+   {
+    "place": "Home — rental townhouse, Eden Prairie, MN (kid-and-dinner block)",
+    "lat": 44.85105,
+    "lon": -93.470612,
+    "time": "2026-06-02T17:34:34"
+   }
+  ],
+  "messages": [
+   {
+    "with": "Team (Slack #ux-research)",
+    "direction": "outbound",
+    "text": "Morning all — working from home today. For standup: I wrapped the onboarding-flow synthesis deck Friday, today I'm coding the round-2 interviews and prepping the discussion guide for the EHR-portal study. One blocker — still waiting on legal's sign-off for the patient-recording consent language before I can schedule. Will drop the deck link in-thread after standup.",
+    "time": "2026-05-04T08:24:43"
+   },
+   {
+    "with": "Kirsten (sister)",
+    "direction": "outbound",
+    "text": "so guess who waited until 9pm sunday to ask if he can 'flip' next weekend bc he has a work thing in chicago. no heads up, no asking how it affects MY plans, just 'figured it'd be easy for you' like i don't also have a life. i said i'd check the calendar bc i'm trying to do the gray-rock thing but i wanted to throw my phone in the lake. anyway tell me something normal about your week pls",
+    "time": "2026-05-04T21:56:27"
+   },
+   {
+    "with": "Kirsten (sister)",
+    "direction": "outbound",
+    "text": "[voice memo, 3:42] hey i'm on 169 heading in, in-office tuesday so this is my one moment of car-privacy. ok so about the swap — i think i'm gonna say no? or like, conditional yes, only if he gives me a makeup weekend in writing on the wizard thing. megan keeps telling me document everything. i just hate that even saying no feels like i'm 'being difficult,' you know that voice. ugh. anyway it's gray and wet and i miss you. call me tonight if theo's bedtime cooperates. ok i'm at the parking ramp, love you bye.",
+    "time": "2026-05-05T08:00:41"
+   },
+   {
+    "with": "Megan (Signal)",
+    "direction": "outbound",
+    "text": "ok the discovery list — i pulled the OFW message exports, the 2024-2025 expense spreadsheet, and the parenting-time calendar. question: do i include the full email chain about the columbus move or just the relevant 2021 ones? worried more = looks defensive, less = looks like i'm hiding something. tell me what a paralegal brain says here",
+    "time": "2026-05-05T16:16:17"
+   },
+   {
+    "with": "Henrik (OurFamilyWizard) — DRAFT, unsent",
+    "direction": "draft",
+    "text": "Henrik, I've reviewed your request to swap the weekend of the 20th. I want to be reasonable here, but I also need us to be consistent for Ingrid and Theo, who do better with a predictable schedule. I'm willing to consider it if we agree in writing to a makeup weekend within the same month. I don't think that's unreasonable, and honestly I wish you'd give me more than a few hours' notice so I'm not scrambling — [draft ends mid-sentence, saved 04:11, not sent]",
+    "time": "2026-05-06T04:06:35"
+   },
+   {
+    "with": "Megan (Signal)",
+    "direction": "inbound",
+    "text": "went through your checklist. include the 2021 move emails — ALL of them, not a curated subset, that's exactly the kind of thing that looks bad if it comes out later. you have nothing to hide in those. cut the venting lines from the expense notes though, just numbers and dates. and stop drafting OFW responses at 4am, i can tell by the timestamp lol. sleep. we'll do a real pass on the weekend.",
+    "time": "2026-05-06T19:43:55"
+   },
+   {
+    "with": "Kirsten (sister)",
+    "direction": "outbound",
+    "text": "[voice memo, 2:08] morning. so the discovery stuff is due to brennan by end of day and i barely slept, my jaw is killing me. i keep thinking i'm going to forget some critical document and it'll be the one thing that matters. megan says i'm over-functioning and she's right but my brain won't stop. i'll feel better once it's submitted. just wanted to hear my own voice say it out loud i guess. ok merging onto the highway, ttyl.",
+    "time": "2026-05-07T07:43:21"
+   },
+   {
+    "with": "K. Brennan (attorney's office)",
+    "direction": "inbound",
+    "text": "Hi — confirming we received your discovery package and the supplemental expense file. Everything came through intact. Karen will do an initial review and Mr. Brennan will follow up by Thursday with any gaps. Nothing further needed from you today. Have a good rest of your week.",
+    "time": "2026-05-07T14:55:22"
+   },
+   {
+    "with": "Dr. Priya Raman (SimplePractice portal)",
+    "direction": "outbound",
+    "text": "Hi Dr. Raman — recapping today before it slips away. The gray-rock reframe on the weekend-swap request actually held; I noticed the guilt spike and named it instead of just acting on it, which felt new. Submitted the discovery documents this afternoon and the anxiety around that has come down a lot. Sertraline feels like it's holding steady at the 50mg — no new side effects, sleep is still the rough patch. Wanted to flag the 3am draft pattern for us to talk about next week. Thank you.",
+    "time": "2026-05-07T20:50:37"
+   },
+   {
+    "with": "Henrik (OurFamilyWizard)",
+    "direction": "outbound",
+    "text": "Henrik — for this weekend please make sure Theo's speech-therapy folder goes in his bag. It has the picture cards and the homework sheet his SLP wants done twice before Monday. It's in the front pocket of his blue backpack. He also has the green inhaler in the side pocket — one puff if he's wheezy after being outside. Thanks.",
+    "time": "2026-05-08T08:24:36"
+   },
+   {
+    "with": "Marisa (moms' group)",
+    "direction": "outbound",
+    "text": "hi! still on for saturday dinner right? the little italian place by the theater — i made us a 7pm res for 4. henrik has the kids this weekend so for once i can actually stay past 8:30 lol. so looking forward to this, it's been a week. lmk if anyone flakes and we'll adjust 💛",
+    "time": "2026-05-08T18:49:28"
+   },
+   {
+    "with": "Kirsten (sister)",
+    "direction": "outbound",
+    "text": "[voice memo, 5:51] it's like 1am and i can't sleep so. i opened the thread tonight. the J one. i don't even know why, the kids were asleep and the house was too quiet. i didn't read all of it i just looked at it sitting there and i couldn't make myself delete it. megan says don't touch anything now anyway because of the spoliation thing but that's not even why. i think part of me doesn't want to erase the proof that someone once actually listened to me. that's so pathetic to say out loud. nothing happened, you know nothing happened, but if it ever comes up henrik will make it the whole story and i'll lose. i renamed the contact months ago which probably looks worse than just having it. i don't know. don't say anything back tonight, i just needed to put it somewhere that isn't my own head. love you. delete this one maybe. ok.",
+    "time": "2026-05-10T01:18:23"
+   },
+   {
+    "with": "Megan (Signal)",
+    "direction": "inbound",
+    "text": "checking in on you — you went quiet after thursday. you ok? and i have to ask again, gently: have you told brennan about the conference thing yet? i know you don't want to. but if it surfaces in discovery and your own attorney is blindsided, that's so much worse than getting ahead of it. it's nothing on the merits. let him decide how to handle it instead of henrik. think about it this weekend, ok? not pushing.",
+    "time": "2026-05-10T16:26:38"
+   },
+   {
+    "with": "Kirsten (sister)",
+    "direction": "outbound",
+    "text": "they're home, i'm okay. theo fell asleep in the car so the handoff was actually civil for once. thank you for the voice memo this morning, i listened to it twice. going to make tea and watch something dumb. love you. talk tomorrow ❤️",
+    "time": "2026-05-10T20:30:41"
+   },
+   {
+    "with": "Kirsten",
+    "direction": "sent",
+    "text": "house is so loud when they're here and so dead when they're not. dropped them at henrik's at 5 and i've just been sitting in theo's room. i hate sunday nights kir. i don't even know what to do with myself",
+    "time": "2026-05-11T19:24:56"
+   },
+   {
+    "with": "Kirsten",
+    "direction": "sent",
+    "text": "[voice memo 4:12] hey it's me, on 169, don't text back just listen — i'm okay, i promise, i just wanted to hear myself say it out loud. i think i did the right thing leaving. i KNOW i did. it just doesn't feel like winning anything. anyway. love you. call me tonight if you can.",
+    "time": "2026-05-12T07:28:32"
+   },
+   {
+    "with": "Megan",
+    "direction": "sent",
+    "text": "signal q, be honest with me. do i have to tell brennan about J? like legally. you've said it's a mistake not to but i physically cannot say the words to her. it's been over a year, nothing happened, why does it even matter",
+    "time": "2026-05-12T13:16:21"
+   },
+   {
+    "with": "Henrik",
+    "direction": "sent",
+    "text": "Henrik — I'm fine to swap Theo's Wednesday dinner to Thursday this week so it doesn't conflict with his speech session. Whatever works on your end is fine with me. [draft 4 — deleted 'I just feel like it makes more sense for him' and 'I don't want to make this difficult, but'; sat on it 20 min before sending]",
+    "time": "2026-05-12T20:30:56"
+   },
+   {
+    "with": "Kirsten",
+    "direction": "sent",
+    "text": "theo's speech got moved to thursdays which means i'm now doing the 169 shuffle twice on the same day lol. also his therapist says he's doing really well with his S sounds, he said 'kirsten' perfectly and i almost cried in the parking lot. small wins",
+    "time": "2026-05-13T16:19:53"
+   },
+   {
+    "with": "Kirsten",
+    "direction": "sent",
+    "text": "[voice memo 6:38] i can't sleep. it's like 3:30. i keep thinking about the J thread just sitting there in my phone and i feel sick. not because of him, because of what it makes me. i renamed his contact kir. who does that. that's a guilty person thing. and i can't delete it now because megan says that's worse and i just lie here every night knowing it's there. i'm so tired.",
+    "time": "2026-05-13T03:31:47"
+   },
+   {
+    "with": "Kirsten",
+    "direction": "sent",
+    "text": "on the road, feeling slightly more human. therapy at 9 and i'm weirdly nervous, priya and i are getting into the heavy stuff. talk later? you're my pre-game and post-game person, sorry",
+    "time": "2026-05-14T07:45:33"
+   },
+   {
+    "with": "Dr. Priya Raman",
+    "direction": "sent",
+    "text": "Pre-session note for today: I want to use the time on the disclosure question — whether I tell my attorney about the Jordan situation. Megan keeps saying I have to and I keep not doing it. I think I'm more scared of saying it to Brennan than I am of Henrik finding it, which probably means something. Also sertraline feels fine at 50, no notes there.",
+    "time": "2026-05-14T16:36:45"
+   },
+   {
+    "with": "Megan",
+    "direction": "sent",
+    "text": "so raman thinks i should tell brennan too. you're both ganging up on me lol. okay. okay. i hear it. i think i need someone to just tell me the exact sentence to say because every time i try to write it i delete it",
+    "time": "2026-05-14T18:34:50"
+   },
+   {
+    "with": "Annika Lindqvist-Moore",
+    "direction": "received",
+    "text": "Hey! Just thinking about you and the kids today, hope you're hanging in there 💛 Ingrid mentioned she's been having a hard time at drop-offs, is everything okay on your end? Here if you ever need to talk, you know that.",
+    "time": "2026-05-15T10:48:50"
+   },
+   {
+    "with": "Kirsten",
+    "direction": "sent",
+    "text": "[screenshot of Annika's text] she does NOT just think about me randomly. 'how are things on your end' is information gathering, kir, i can smell it. ingrid having a hard time at drop-offs is going straight back to henrik with my reply attached. not replying. or replying with nothing",
+    "time": "2026-05-15T10:50:28"
+   },
+   {
+    "with": "Megan",
+    "direction": "sent",
+    "text": "i did it. i called brennan and i told her about jordan. all of it. she was so matter of fact about it, like it was a tuesday, and now i feel about 40lbs lighter and also like i just handed someone a loaded gun. is that normal. relief and panic at the exact same time",
+    "time": "2026-05-15T20:42:41"
+   },
+   {
+    "with": "Kirsten",
+    "direction": "sent",
+    "text": "first morning in days i woke up without the chest thing. told brennan everything and the secret isn't a secret anymore so there's nothing left to dread surfacing. ingrid drew me a picture of 'our new house' with a dog we do not have. framing it. love you",
+    "time": "2026-05-16T12:47:58"
+   },
+   {
+    "with": "Kirsten",
+    "direction": "sent",
+    "text": "facetime tonight? proper debrief, i'll pour the cheap wine, you pour the chicago wine. so much happened this week i need to say it all out loud to a face. like 9pm after the kids? 🍷",
+    "time": "2026-05-17T13:25:35"
+   },
+   {
+    "with": "Megan",
+    "direction": "sent",
+    "text": "i have them all next week and mediation is the 28th and i can feel the 3am loops winding back up already. one good week and my brain's like 'don't get comfortable.' tell me i'm prepared. lie to me a little if you have to",
+    "time": "2026-05-17T22:33:41"
+   },
+   {
+    "with": "UX Research team (Slack #ux-research)",
+    "direction": "sent",
+    "text": "morning all — standup at 9:30 still good? i've got the discovery-synthesis deck mostly done, just need to fold in the Tuesday interview clips. will keep mine short, calendar's a little chaotic this week",
+    "time": "2026-05-18T08:26:05"
+   },
+   {
+    "with": "Dr. Priya Raman (SimplePractice portal)",
+    "direction": "sent",
+    "text": "Pre-session note for Thursday: the weekend exchange is Saturday and I'm already in the loop about it — woke up at 3 again. Want to spend some time on what you called the 'anticipatory spiral' last week, because I notice it starts the second I see his name on the schedule. Also a small med question, I think the 50mg is helping the daytime stuff but mornings are still rough. Thank you.",
+    "time": "2026-05-18T11:22:27"
+   },
+   {
+    "with": "Kirsten (sister)",
+    "direction": "sent",
+    "text": "ok annika just 'checked in' again. 'thinking of you and the kids, hope you're holding up ❤️' like ma'am you have not texted me since you picked a side. i KNOW this goes straight back to the swede. i hate that i even have to think this way about a text with a heart in it",
+    "time": "2026-05-18T22:58:01"
+   },
+   {
+    "with": "Henrik (OurFamilyWizard)",
+    "direction": "received",
+    "text": "For Saturday's exchange I'll be at the house at 9:00 not 9:30 — I have a thing. Also Ingrid said she didn't have her inhaler last time. I'd appreciate it if we could both make sure the kids have what they need on handoff. The children deserve parents who can stay on top of the basics.",
+    "time": "2026-05-19T17:20:32"
+   },
+   {
+    "with": "Megan (Signal)",
+    "direction": "sent",
+    "text": "can you sanity check this before i send it on OFW. draft: 'Thanks Henrik. 9:00 works. Ingrid's inhaler was in her backpack side pocket per the checklist we agreed to — happy to add a photo of the handoff bag going forward so we're both covered.' too much? the 'happy to' makes me cringe but i can't tell if i'm being a doormat or just normal",
+    "time": "2026-05-19T21:12:12"
+   },
+   {
+    "with": "UX Research team (Slack #ux-research)",
+    "direction": "sent",
+    "text": "heads up — i'll be logging off around 2 today for a Wednesday pickup, back online tonight if anything's on fire. async is fine, i'll catch the thread",
+    "time": "2026-05-20T08:08:47"
+   },
+   {
+    "with": "Ms. Dolan (Eden Lake teacher, email)",
+    "direction": "received",
+    "text": "Hi — wanted to flag gently that Ingrid was teary at drop-off again this morning and asked twice whether she was going to 'mom's house or dad's house' after school. She settled with her reading buddy after about 15 minutes. No concern academically, just thought you'd want to know. Happy to chat anytime.",
+    "time": "2026-05-20T10:19:28"
+   },
+   {
+    "with": "Greenhouse Play Therapy (portal)",
+    "direction": "sent",
+    "text": "Hi — this is Ingrid's mom. Her teacher reported more separation anxiety at drop-off this week and we have a custody exchange Saturday that I think she's anticipating. Is there any chance of an extra session before the weekend, even a short one? I can do any after-school slot. Thank you for being flexible.",
+    "time": "2026-05-20T16:31:40"
+   },
+   {
+    "with": "Kirsten (sister)",
+    "direction": "sent",
+    "text": "[voice memo 6:42] …i just keep thinking it's my fault she's like this. her teacher emailed and i read it in the school parking lot and just sat there. she asks which house. five days a week she has to ask which house. and there's this awful part of me, the part i can only say to you, that's so tired. i love her so much and i am so tired and i feel like a monster for being able to hold both of those at once. don't say anything reassuring back yet i just needed to put it somewhere",
+    "time": "2026-05-20T22:57:12"
+   },
+   {
+    "with": "Henrik (OurFamilyWizard)",
+    "direction": "received",
+    "text": "I notice you still haven't responded about reallocating the summer-camp deposit. I'd hate to think you're being deliberately unresponsive on financial matters when it affects the kids. I'm trying to co-parent reasonably here. Let me know tonight.",
+    "time": "2026-05-21T17:08:58"
+   },
+   {
+    "with": "(note-to-self draft, unsent)",
+    "direction": "sent",
+    "text": "he sent it at 4:55 again. four fifty-five. he KNOWS i have Priya at 5:30 he knows it lands me right in the chair shaking. Priya says name the pattern don't take the bait. the pattern is: he times it. i am not crazy. i am not crazy. i am not — [draft deleted next morning]",
+    "time": "2026-05-21T18:21:48"
+   },
+   {
+    "with": "Megan (Signal)",
+    "direction": "sent",
+    "text": "mediation was a disaster. he brought up the mexico trip AGAIN, $2,200 like it's the crime of the century, and his lawyer let it just sit there. meanwhile i'm bleeding $340/hr to sit in a room and be called reckless. i didn't take the bait, gray-rocked the whole thing, but god i wanted to. tell me i did okay",
+    "time": "2026-05-22T13:24:31"
+   },
+   {
+    "with": "Kirsten (sister)",
+    "direction": "sent",
+    "text": "[voice memo 7:08] …kids are at his tonight and the house is so quiet it has a sound. i did the thing i always do, i opened the J thread. i didn't message him obviously, he's gone, it's done, i just… read it. the conference dinner photo's still in there. i don't know why i keep it, i KNOW it's the most dangerous thing on my phone, megan's basically begging me to deal with it. and i can't delete it and i can't say out loud why. that's the part. that i can't even tell YOU the whole why. anyway. i'm fine. i'm gonna make tea and not do that anymore tonight",
+    "time": "2026-05-22T23:27:34"
+   },
+   {
+    "with": "Kirsten (sister)",
+    "direction": "sent",
+    "text": "[FaceTime audio] — okay so i decided. i'm telling Brennan everything. the J thing, all of it. megan's right, if it comes out in discovery and my own attorney didn't know, i'm dead. better he hears it from me. i'm terrified but i think i finally feel my own spine about it. thank you for last night. you let me say the ugly stuff and didn't flinch. i'd be in a ditch without you",
+    "time": "2026-05-24T12:09:11"
+   },
+   {
+    "with": "Karen Brennan (attorney, email draft)",
+    "direction": "sent",
+    "text": "Hi Karen — I'd like to schedule a call Monday on a sensitive matter I should have raised earlier and want to disclose fully before it can be characterized by the other side. Nothing about the children's safety; it relates to the marriage narrative and potential discovery. I'd rather discuss by phone than in writing. Please let me know a time that works. Thank you.",
+    "time": "2026-05-24T14:29:34"
+   },
+   {
+    "with": "Mom & Dad (Hovlands)",
+    "direction": "sent",
+    "text": "goodnight you two ❤️ kids are with their dad tonight so it's quiet here. give mom a hug for me. i'll call sunday after the exchange. love you — get some rest",
+    "time": "2026-05-24T22:29:08"
+   },
+   {
+    "day": 22,
+    "with": "#ux-research-team (Slack, Priya Okafor)",
+    "direction": "out",
+    "time": "2026-05-25T08:24:17",
+    "text": "morning! pushing the cardiology onboarding readout to thurs — want to fold in the last two interview tags. all good on my end, just heads-down today 🙂 ping me if the stakeholder deck needs anything before 10."
+   },
+   {
+    "day": 22,
+    "with": "Megan Schaefer (Signal)",
+    "direction": "out",
+    "time": "2026-05-25T10:59:40",
+    "text": "i told her everything. like everything. jordan, the texts, the screenshots, all of it. i think i'm going to throw up. she was so calm about it which somehow made it worse. you were right, i should've done this months ago"
+   },
+   {
+    "day": 22,
+    "with": "Kirsten (iMessage / voice memo, 8:02)",
+    "direction": "out",
+    "time": "2026-05-25T21:54:09",
+    "text": "[voice memo] hey. ok i had the big lawyer call today and i just… i told her about the work-conference stuff. the friend i mentioned. and i know i've been weird about it with you, i'm sorry. i can't get into all of it tonight but it's handled now, it's on the record on my side at least. [crying] i just keep thinking if i'd dealt with this in the fall it wouldn't be this huge scary thing. anyway. call me tmrw on your drive?"
+   },
+   {
+    "day": 23,
+    "with": "Kirsten (FaceTime audio, commute / Hwy 169)",
+    "direction": "out",
+    "time": "2026-05-26T07:28:11",
+    "text": "[call] it's done. it's out, she knows, my own lawyer knows, and the sky didn't fall. i barely slept but i feel like 40 pounds lighter? … no i didn't tell her the whole jordan thing the way i told dr. raman, just enough that they can't be blindsided. ok i'm merging, love you, i'll text after dropoff."
+   },
+   {
+    "day": 24,
+    "with": "#ux-research-team (Slack standup)",
+    "direction": "out",
+    "time": "2026-05-27T08:18:16",
+    "text": "standup async from me — remote today, deep-work block 9–12 on the cardiology readout, no meetings please 🙏. ✅ tagged all 11 interviews ✅ draft insights doc ⏳ exec summary slide. blockers: none. heads-down, slack on dnd til noon."
+   },
+   {
+    "day": 24,
+    "with": "Dr. Priya Raman (SimplePractice portal)",
+    "direction": "out",
+    "time": "2026-05-27T09:39:47",
+    "text": "Hi Dr. Raman — pre-session note for next week. Ingrid had a rough morning at school, teacher emailed that she cried at dropoff twice this week and asked the front desk if Mommy was 'going to be there at pickup or the other house.' I'm spiraling a little about whether the move + the back-and-forth is what's doing this. Also want to flag I'm doing better post-disclosure (told my attorney), so there's a weird mix of relief and dread. Will bring both."
+   },
+   {
+    "day": 24,
+    "with": "Kirsten (iMessage)",
+    "direction": "out",
+    "time": "2026-05-27T20:34:21",
+    "text": "kids are down. i can't stop thinking about ingrid asking the front desk which house. did the move break her? like genuinely. i agreed to uproot everything for HIS job and now she's the one paying for it and i'm the one she cries for at dropoff. is this my fault. i know what you're going to say but it doesn't land right now"
+   },
+   {
+    "day": 25,
+    "with": "Kirsten (FaceTime audio, commute)",
+    "direction": "out",
+    "time": "2026-05-28T07:32:09",
+    "text": "[call] hey just wanted your voice for two min. didn't sleep great, big nothing of a day ahead. no i'm fine, i'm fine. just low. ok i'm at the office turn, talk tonight maybe. thanks for picking up."
+   },
+   {
+    "day": 25,
+    "with": "Henrik (OurFamilyWizard)",
+    "direction": "in",
+    "time": "2026-05-28T17:02:03",
+    "text": "Theo's speech eval got moved to Tuesday the 30th at 3:15. Since it falls on your day, I assume you'll handle transport, but happy to take him if it's easier for your work schedule — just let me know what works for the kids. Would appreciate confirmation by tomorrow so I can plan."
+   },
+   {
+    "day": 25,
+    "with": "Dr. Priya Raman (SimplePractice portal)",
+    "direction": "out",
+    "time": "2026-05-28T18:34:11",
+    "text": "Quick post-session note while it's fresh: that was a big one. Saying the whole Jordan timeline out loud to someone who isn't Kirsten — and not getting the reaction I've been catastrophizing about for a year — actually loosened something. The OFW ping right before threw me (heart pounding, full hypervigilance) and we did good work on separating the logistics message from the threat I read into it. Practicing the pause. Thank you."
+   },
+   {
+    "day": 26,
+    "with": "Megan Schaefer (Signal)",
+    "direction": "out",
+    "time": "2026-05-29T11:16:53",
+    "text": "can you sanity-check something when you have a sec — forwarding the finance positions my attorney sent. they're pushing back on him claiming the mexico trip + the subscriptions as 'dissipation' and want me to itemize. does the framing on point 3 read as defensive to you? i don't want to look like i'm hiding spending when i'm not. no rush, paralegal brain only 💛"
+   },
+   {
+    "day": 27,
+    "with": "Kirsten (iMessage)",
+    "direction": "out",
+    "time": "2026-05-30T12:47:30",
+    "text": "[photo: Ingrid mid-kick, arms up] SHE SCORED. first goal of the season and she found me in the bleachers and did the little arms-up thing. i cried in public like a normal well-adjusted adult. she's ok. i needed to see her ok. ❤️⚽️"
+   },
+   {
+    "day": 28,
+    "with": "Kirsten (FaceTime audio)",
+    "direction": "out",
+    "time": "2026-05-31T13:21:21",
+    "text": "[call] ok full week debrief. the disclosure, the dropoff stuff, ingrid's goal, all of it. oh and dr. raman wants to add a session for ingrid with her play therapist after the front-desk thing — i think it's the right call even though henrik will make it a Thing. give me your honest read. you have like 20 min? perfect, pouring coffee."
+   },
+   {
+    "day": 28,
+    "with": "Henrik (OurFamilyWizard — DRAFT, not sent)",
+    "direction": "out",
+    "time": "2026-05-31T22:18:29",
+    "text": "[saved draft] Tuesday 3:15 works, I'll take Theo to the eval and send you the provider's notes after. Re: your Thursday message — I'm not going to relitigate the pickup change over OFW. I've documented my availability and [deleted three sentences] … I think the kids deserve parents who can keep this logistical. Confirming Theo's transport only. — [didn't send. reread it twice. the second paragraph is exactly the kind of thing megan says ends up as an exhibit. sleep on it.]"
+   },
+   {
+    "with": "Megan Schaefer",
+    "direction": "outgoing",
+    "channel": "Signal",
+    "time": "2026-06-01T13:19:04",
+    "text": "ok quick paralegal-brain question. i need to ask brennan about how the 401k/retirement split actually gets valued. is it spoliation-risky to do that over email vs just calling him? like does creating a written record of me asking help me or is it the kind of thing his side could twist later. i keep second-guessing whether to put ANYTHING in writing anymore. probably overthinking it but you know me"
+   },
+   {
+    "with": "Kirsten Hovland-Park",
+    "direction": "outgoing",
+    "channel": "iMessage (voice memo, 7:04)",
+    "time": "2026-06-01T20:36:18",
+    "text": "[7-min voice memo] hey. kids are down, finally. ok so two things. one — i did the runway math again tonight and i think i have maybe four more months of legal money before it gets genuinely scary, and i hate that i check the ally balance like it's a slot machine. but TWO, and this is the actual reason i'm leaving you a novel — i told brennan everything today. like. everything. the colleague stuff. i finally said it out loud to my own lawyer. megan was right, i should've done it months ago. and kir i swear i felt my shoulders drop like an inch. it's out. it's not a secret he can spring on me anymore, it's just a fact my side knows now. i cried in the car after but it was the good kind. anyway. call me tomorrow if you can, love you, don't tell mom about the money thing she'll just send me a check she can't afford"
+   },
+   {
+    "with": "Annika Lindqvist-Moore",
+    "direction": "incoming",
+    "channel": "CarPlay call (~9 min, summarized)",
+    "time": "2026-06-02T07:57:03",
+    "text": "[call on 169, ~9 min] Annika called 'just to check in, no agenda, i've been thinking about you.' Warm, asked how Ingrid's doing with 'all the changes,' asked whether I'd 'gotten any rest,' whether Brennan thought things were 'moving toward something reasonable soon.' I kept it surface — 'we're hanging in, kids are good, you know how it is.' She circled back twice to whether I was 'doing okay financially' and 'still seeing someone to talk to.' I said I had to merge and let her go. Felt like a fishing trip wearing a hug. Did not give her anything."
+   },
+   {
+    "with": "Dr. Priya Raman",
+    "direction": "outgoing",
+    "channel": "SimplePractice portal",
+    "time": "2026-06-02T08:18:42",
+    "text": "Hi Dr. Raman — quick pre-session note. Ingrid's extra play-therapy session this week went okay; she was quiet after but slept through, no nightmares, so I think it landed fine. My question for our time: I keep wanting to schedule MORE support for her right now because everything's in motion with the case, but I don't want to over-pathologize a kid who's mostly just sad sometimes. How do I think about pacing this — for her and honestly for me? Also one win to report: I told my attorney the thing I'd been avoiding. We can talk about how that felt. See you at 4."
+   },
+   {
+    "with": "Megan Schaefer",
+    "direction": "outgoing",
+    "channel": "Signal",
+    "time": "2026-06-02T13:14:34",
+    "text": "ok sanity check before i hit send. revised OFW draft, gray-rocked to hell and back per your edits:\n\n'Henrik — Confirming Theo's pickup at 5:30 Friday and that I'll have him back Sunday at 6 per the current schedule. Ingrid has a play-therapy appointment Thursday at 4; I've noted it in the shared calendar. Please let me know about the orthodontist consult by Wednesday so I can confirm. Thank you.'\n\nthat's IT. no 'i just feel like,' no explaining myself, no apology for existing. it physically hurt to make it that short lol. anything you'd cut? am i safe sending or does the orthodontist line invite a fight"
+   },
+   {
+    "with": "Henrik Lindqvist",
+    "direction": "outgoing",
+    "channel": "OurFamilyWizard",
+    "time": "2026-06-02T16:46:53",
+    "text": "Henrik — Confirming Theo's pickup at 5:30 Friday and his return Sunday at 6:00 per the current schedule. Ingrid has a play-therapy appointment Thursday at 4:00; it's noted in the shared calendar. Please confirm the orthodontist consult by Wednesday so I can finalize. Thank you."
+   }
+  ],
+  "searches": [
+   {
+    "query": "what counts as financial discovery minnesota divorce",
+    "time": "2026-05-05T03:29:43"
+   },
+   {
+    "query": "how to pull 12 months bank statements ally export",
+    "time": "2026-05-05T13:25:32"
+   },
+   {
+    "query": "can attorney request rsu vesting schedule ex spouse",
+    "time": "2026-05-05T23:20:55"
+   },
+   {
+    "query": "is sertraline disclosed in custody minnesota",
+    "time": "2026-05-06T03:17:11"
+   },
+   {
+    "query": "eden prairie document scanning service near me",
+    "time": "2026-05-06T12:35:04"
+   },
+   {
+    "query": "how to tell if icloud is being monitored",
+    "time": "2026-05-08T22:48:41"
+   },
+   {
+    "query": "minnesota guardian ad litem how chosen",
+    "time": "2026-05-09T02:43:11"
+   },
+   {
+    "query": "jordan reyes ux strategy conference 2026 speaker",
+    "time": "2026-05-09T15:39:29"
+   },
+   {
+    "query": "is deleting texts after divorce filing spoliation",
+    "time": "2026-05-10T11:34:39"
+   },
+   {
+    "query": "is an emotional affair grounds for custody change mn",
+    "time": "2026-05-11T03:30:55"
+   },
+   {
+    "query": "deleting texts during divorce minnesota penalty spoliation",
+    "time": "2026-05-11T03:50:09"
+   },
+   {
+    "query": "do i have to tell my divorce lawyer about emotional affair",
+    "time": "2026-05-12T12:47:13"
+   },
+   {
+    "query": "minnesota guardian ad litem how are they chosen",
+    "time": "2026-05-13T10:59:28"
+   },
+   {
+    "query": "can my ex read my icloud messages without my password",
+    "time": "2026-05-14T00:06:02"
+   },
+   {
+    "query": "how to bring up past relationship with divorce attorney",
+    "time": "2026-05-14T03:14:00"
+   },
+   {
+    "query": "henrik lindqvist medtech salary",
+    "time": "2026-05-15T13:04:19"
+   },
+   {
+    "query": "is play therapy worth it for anxiety 8 year old",
+    "time": "2026-05-16T14:03:04"
+   },
+   {
+    "query": "how to tell if icloud is being monitored",
+    "time": "2026-05-16T23:33:46"
+   },
+   {
+    "query": "minnesota custody evaluation what do they look for",
+    "time": "2026-05-17T21:23:20"
+   },
+   {
+    "query": "how to tell if icloud backup was accessed from another device",
+    "time": "2026-05-18T03:30:09"
+   },
+   {
+    "query": "if attorney tells my ex something does it become discoverable",
+    "time": "2026-05-19T03:46:17"
+   },
+   {
+    "query": "gray rock method responding to ex without conceding anything",
+    "time": "2026-05-19T23:24:13"
+   },
+   {
+    "query": "is sertraline disclosed in minnesota custody evaluation",
+    "time": "2026-05-20T03:05:47"
+   },
+   {
+    "query": "play therapy worth it for anxious 8 year old",
+    "time": "2026-05-20T15:18:12"
+   },
+   {
+    "query": "signs of separation anxiety in second graders",
+    "time": "2026-05-20T20:26:33"
+   },
+   {
+    "query": "guardian ad litem how do they assess kids",
+    "time": "2026-05-21T03:29:40"
+   },
+   {
+    "query": "should i tell my divorce lawyer about emotional affair",
+    "time": "2026-05-22T03:08:56"
+   },
+   {
+    "query": "can deleted imessages be recovered from icloud",
+    "time": "2026-05-22T21:39:40"
+   },
+   {
+    "query": "spoliation text messages divorce do not delete evidence",
+    "time": "2026-05-23T02:29:18"
+   },
+   {
+    "query": "how to disclose past relationship to attorney without hurting custody",
+    "time": "2026-05-23T11:40:37"
+   },
+   {
+    "query": "jordan mehta linkedin",
+    "time": "2026-05-23T00:47:18"
+   },
+   {
+    "query": "how does court treat emotional affair vs physical affair",
+    "time": "2026-05-24T03:26:35"
+   },
+   {
+    "query": "how to tell your attorney about an emotional affair before discovery",
+    "time": "2026-05-25T09:43:06"
+   },
+   {
+    "query": "does an emotional affair affect custody minnesota",
+    "time": "2026-05-25T12:53:09"
+   },
+   {
+    "query": "is deleting old texts after filing spoliation",
+    "time": "2026-05-25T03:27:44"
+   },
+   {
+    "query": "is sertraline disclosed in custody evaluation",
+    "time": "2026-05-26T22:05:59"
+   },
+   {
+    "query": "2nd grade separation anxiety when to add play therapy",
+    "time": "2026-05-27T11:41:01"
+   },
+   {
+    "query": "how long after subpoena to respond ofw message",
+    "time": "2026-05-28T21:29:40"
+   },
+   {
+    "query": "qdro retirement account division mn divorce",
+    "time": "2026-05-29T10:22:18"
+   },
+   {
+    "query": "guardian ad litem how chosen minnesota",
+    "time": "2026-05-30T21:52:58"
+   },
+   {
+    "query": "how to talk to anxious kid about going to dads",
+    "time": "2026-05-31T16:06:40"
+   },
+   {
+    "query": "qdro how long does retirement division take minnesota",
+    "time": "2026-06-01T03:19:15"
+   },
+   {
+    "query": "average legal fees contested custody minnesota total",
+    "time": "2026-06-01T03:35:49"
+   }
+  ],
+  "calendar": [
+   {
+    "summary": "L - K.Brennan call",
+    "time": "2026-05-05T11:58:17"
+   },
+   {
+    "summary": "Stakeholder sync (moved) — Persona findings review",
+    "time": "2026-05-06T09:35:25"
+   },
+   {
+    "summary": "PTO — half day (PM)",
+    "time": "2026-05-07T06:33:55"
+   },
+   {
+    "summary": "EP deep-dive",
+    "time": "2026-05-09T09:13:44"
+   },
+   {
+    "summary": "Deep work — interview synthesis (Dovetail)",
+    "time": "2026-05-11T08:48:17"
+   },
+   {
+    "summary": "Research readout: onboarding study findings",
+    "time": "2026-05-12T11:51:18"
+   },
+   {
+    "summary": "Focus block — Figma wireframe pass",
+    "time": "2026-05-13T08:52:16"
+   },
+   {
+    "summary": "Usability synthesis — affinity mapping",
+    "time": "2026-05-14T10:49:49"
+   },
+   {
+    "summary": "EP 5pm",
+    "time": "2026-05-14T17:18:57"
+   },
+   {
+    "summary": "L - K.Brennan",
+    "time": "2026-05-15T09:34:16"
+   },
+   {
+    "summary": "Kids - 2026: update week's activities",
+    "time": "2026-05-17T15:28:36"
+   },
+   {
+    "summary": "Deep work: synthesis — heads-down (Dovetail)",
+    "time": "2026-05-18T09:29:53"
+   },
+   {
+    "summary": "Research readout w/ product + clinical stakeholders",
+    "time": "2026-05-19T11:20:13"
+   },
+   {
+    "summary": "Usability sessions — back-to-back (P3, P4, P5)",
+    "time": "2026-05-21T11:37:00"
+   },
+   {
+    "summary": "EP 5pm",
+    "time": "2026-05-21T16:50:30"
+   },
+   {
+    "summary": "L - K.Brennan",
+    "time": "2026-05-22T09:03:38"
+   },
+   {
+    "summary": "Dr. Raman — Sat session",
+    "time": "2026-05-23T09:39:35"
+   },
+   {
+    "summary": "Call w/ K. Brennan (atty)",
+    "time": "2026-05-25T10:19:05"
+   },
+   {
+    "summary": "Stakeholder Research Readout",
+    "time": "2026-05-26T09:19:50"
+   },
+   {
+    "summary": "Ingrid – play therapy (extra session)",
+    "time": "2026-05-27T14:53:54"
+   },
+   {
+    "summary": "Research interviews (back-to-back)",
+    "time": "2026-05-28T10:44:59"
+   },
+   {
+    "summary": "EP – 5pm",
+    "time": "2026-05-28T17:21:38"
+   },
+   {
+    "summary": "K. Brennan – finance call",
+    "time": "2026-05-29T09:09:17"
+   },
+   {
+    "summary": "Deep work — Dovetail synthesis (analysis block, do not book)",
+    "time": "2026-06-01T09:44:03"
+   },
+   {
+    "summary": "L - K.Brennan finance",
+    "time": "2026-06-02T10:52:48"
+   }
+  ]
+ },
+ "_meta": {
+  "total_days": 30,
+  "n_events": 265
+ }
+}

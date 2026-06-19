@@ -1,0 +1,889 @@
+{
+ "persona_id": "?:2",
+ "persona_slug": "The Crypto-Wallet Hunter",
+ "intake_version": "synth-activity-v2-chunked",
+ "samples": {
+  "media": [
+   {
+    "name": "Open Zerion, scan portfolio, note 5% ETH dip",
+    "time": "2026-05-04T10:25:38"
+   },
+   {
+    "name": "Check Etherscan for pending tx from yesterday",
+    "time": "2026-05-04T13:15:50"
+   },
+   {
+    "name": "Deep coding block – Solidity refactor for L2 bridge",
+    "time": "2026-05-04T15:59:54"
+   },
+   {
+    "name": "Scroll Farcaster, like 3 dev threads",
+    "time": "2026-05-04T22:45:23"
+   },
+   {
+    "name": "Zerion check, notice 2% BTC rise, feel relieved",
+    "time": "2026-05-05T10:29:28"
+   },
+   {
+    "name": "Code freeze commit, push to main branch",
+    "time": "2026-05-05T16:44:18"
+   },
+   {
+    "name": "Watch Optimism Collective podcast on AirPods",
+    "time": "2026-05-05T20:00:43"
+   },
+   {
+    "name": "Check governance proposals on Snapshot, vote with Ledger",
+    "time": "2026-05-05T22:35:56"
+   },
+   {
+    "name": "Zerion check, ETH down 7%, heart rate spikes",
+    "time": "2026-05-06T10:22:11"
+   },
+   {
+    "name": "Deep coding block, run test suite, feel fatigued",
+    "time": "2026-05-06T16:28:35"
+   },
+   {
+    "name": "Insomnia scroll, open email titled ‘Urgent: Ledger Freeze Required’",
+    "time": "2026-05-06T02:46:40"
+   },
+   {
+    "name": "Open Telegram, see @vesper_noctis voice note confirming ‘they’re trying to steal you’",
+    "time": "2026-05-06T03:21:48"
+   },
+   {
+    "name": "Close laptop, finally sleep (still uneasy)",
+    "time": "2026-05-06T04:08:49"
+   },
+   {
+    "name": "Zerion shows unknown outgoing tx, panic check",
+    "time": "2026-05-07T10:29:26"
+   },
+   {
+    "name": "Search ‘ledger freeze phishing 2026’",
+    "time": "2026-05-07T11:53:00"
+   },
+   {
+    "name": "Create new Ledger, migrate funds, write notes in ~/Documents/notes/v_/ (still unencrypted)",
+    "time": "2026-05-07T16:58:00"
+   },
+   {
+    "name": "Watch security‑hygiene video on YouTube (late night)",
+    "time": "2026-05-07T22:31:09"
+   },
+   {
+    "name": "Zerion check, portfolio stable after migration",
+    "time": "2026-05-08T10:19:37"
+   },
+   {
+    "name": "Listen to Bankless podcast on AirPods during ride",
+    "time": "2026-05-08T13:10:14"
+   },
+   {
+    "name": "Clone repo on laptop, run local test, feel ideologically pumped",
+    "time": "2026-05-08T16:12:05"
+   },
+   {
+    "name": "Scroll Farcaster, see a thread mocking “anti‑state devs” – retweet with sarcasm",
+    "time": "2026-05-08T20:11:12"
+   },
+   {
+    "name": "Zerion: portfolio unchanged, minor gas fee spike noticed",
+    "time": "2026-05-09T10:23:47"
+   },
+   {
+    "name": "Audit mixer repo, run static analysis, note several “TODO” warnings",
+    "time": "2026-05-09T16:08:28"
+   },
+   {
+    "name": "Governance Sunday prep – read proposals, sign with Ledger",
+    "time": "2026-05-09T22:45:46"
+   },
+   {
+    "name": "Zerion: check airdrop claim for new ZK‑rollup, click link (legitimate)",
+    "time": "2026-05-10T10:20:10"
+   },
+   {
+    "name": "Push PR fixing mixer security issue, tag Devin for review",
+    "time": "2026-05-10T16:18:46"
+   },
+   {
+    "name": "Watch short security‑review video, note to upgrade hardware wallet firmware",
+    "time": "2026-05-10T19:55:00"
+   },
+   {
+    "name": "Unlock phone, open Zerion, check portfolio (first morning scan)",
+    "time": "2026-05-11T10:30:27"
+   },
+   {
+    "name": "Discord stand‑up with US team, share screen of latest Solidity diff",
+    "time": "2026-05-11T14:41:09"
+   },
+   {
+    "name": "Push commit to 0xLusoApe repo, timestamp 20:03",
+    "time": "2026-05-11T19:48:32"
+   },
+   {
+    "name": "Start deep‑code block, compile contracts, run fuzz tests",
+    "time": "2026-05-12T00:00:56"
+   },
+   {
+    "name": "Morning Zerion check, notice 3 % dip, sigh",
+    "time": "2026-05-12T10:16:42"
+   },
+   {
+    "name": "Discord stand‑up, discuss upcoming mainnet freeze",
+    "time": "2026-05-12T15:06:50"
+   },
+   {
+    "name": "Post meme on Farcaster: ‘gm, market’s a rollercoaster, ngmi? 👀’",
+    "time": "2026-05-12T19:10:16"
+   },
+   {
+    "name": "Review @vesper_noctis voice‑note transcription saved to ~/Documents/notes/v_/",
+    "time": "2026-05-12T23:37:02"
+   },
+   {
+    "name": "Zerion portfolio check, ETH down 5 % after news of exploit",
+    "time": "2026-05-13T10:21:33"
+   },
+   {
+    "name": "Open Ledger Live link, bypass simulation, sign transaction (malicious)",
+    "time": "2026-05-13T14:39:57"
+   },
+   {
+    "name": "Push hot‑fix commit to protocol repo, timestamp 20:10",
+    "time": "2026-05-13T20:25:48"
+   },
+   {
+    "name": "Late‑night doomscroll on Farcaster, retweet of anti‑censorship thread",
+    "time": "2026-05-13T04:13:37"
+   },
+   {
+    "name": "Morning portfolio check, notice missing ~0.12 ETH from previous day",
+    "time": "2026-05-14T10:40:37"
+   },
+   {
+    "name": "Discord stand‑up, report anomaly to US PM",
+    "time": "2026-05-14T14:51:04"
+   },
+   {
+    "name": "Open GitHub PR review for Rui’s proposal",
+    "time": "2026-05-14T17:50:34"
+   },
+   {
+    "name": "Close laptop, lock phone, attempt to sleep",
+    "time": "2026-05-14T23:57:07"
+   },
+   {
+    "name": "Zerion check, portfolio stable",
+    "time": "2026-05-15T10:28:57"
+   },
+   {
+    "name": "Push minor bug‑fix to protocol, timestamp 15:30",
+    "time": "2026-05-15T15:20:44"
+   },
+   {
+    "name": "Run local compile of mixer, sign test transaction on fresh Ledger (no VPN)",
+    "time": "2026-05-15T17:27:28"
+   },
+   {
+    "name": "Late‑night review of vesper’s docs, save screenshots to ~/Documents/notes/v_/",
+    "time": "2026-05-15T22:38:31"
+   },
+   {
+    "name": "Morning portfolio check, notice new inbound tx from unknown address",
+    "time": "2026-05-16T10:23:03"
+   },
+   {
+    "name": "Discord stand‑up, mention possible audit flag",
+    "time": "2026-05-16T14:56:06"
+   },
+   {
+    "name": "Open Ledger Live, simulate signature, abort after noticing odd domain",
+    "time": "2026-05-16T18:58:11"
+   },
+   {
+    "name": "Zerion check, portfolio up 2 % after ETH rebound",
+    "time": "2026-05-17T10:47:33"
+   },
+   {
+    "name": "Push final commit for week, timestamp 16:30",
+    "time": "2026-05-17T16:14:58"
+   },
+   {
+    "name": "Evening doomscroll, watch YouTube video ‘how hackers exploit night‑owl devs’",
+    "time": "2026-05-17T21:08:06"
+   },
+   {
+    "name": "Final insomnia scroll, check Zerion one last time before sleep",
+    "time": "2026-05-17T04:50:23"
+   },
+   {
+    "name": "Zerion",
+    "time": "2026-05-18T10:25:35"
+   },
+   {
+    "name": "Live Stream (LX Factory crypto meetup)",
+    "time": "2026-05-18T19:37:38"
+   },
+   {
+    "name": "File System (save transcript)",
+    "time": "2026-05-18T23:26:38"
+   },
+   {
+    "name": "Zerion",
+    "time": "2026-05-19T11:18:44"
+   },
+   {
+    "name": "Gym Tracker (offline)",
+    "time": "2026-05-19T18:13:10"
+   },
+   {
+    "name": "Farcaster",
+    "time": "2026-05-20T00:00:29"
+   },
+   {
+    "name": "Ledger Live",
+    "time": "2026-05-20T03:39:38"
+   },
+   {
+    "name": "Phone (notification check)",
+    "time": "2026-05-20T07:22:46"
+   },
+   {
+    "name": "GitHub",
+    "time": "2026-05-20T14:15:45"
+   },
+   {
+    "name": "Zerion",
+    "time": "2026-05-21T10:48:57"
+   },
+   {
+    "name": "IDE (code block & commit)",
+    "time": "2026-05-21T19:31:17"
+   },
+   {
+    "name": "Zerion",
+    "time": "2026-05-22T11:13:23"
+   },
+   {
+    "name": "Snapshot (governance voting)",
+    "time": "2026-05-22T18:56:28"
+   },
+   {
+    "name": "Zerion",
+    "time": "2026-05-23T09:38:43"
+   },
+   {
+    "name": "Ledger Live",
+    "time": "2026-05-23T18:14:04"
+   },
+   {
+    "name": "File System (save audit notes)",
+    "time": "2026-05-24T00:06:38"
+   },
+   {
+    "name": "Zerion",
+    "time": "2026-05-24T10:22:15"
+   },
+   {
+    "name": "IDE (merge PR #860)",
+    "time": "2026-05-24T18:30:54"
+   },
+   {
+    "name": "Farcaster",
+    "time": "2026-05-24T23:17:05"
+   }
+  ],
+  "messages": [
+   {
+    "with": "Devin 'devops_devin' Acharya",
+    "direction": "outgoing",
+    "text": "gm, got the new snapshot?",
+    "time": "2026-05-04T11:18:09"
+   },
+   {
+    "with": "Atlantic Degens (Telegram group)",
+    "direction": "outgoing",
+    "text": "ngmi if you’re not in Arbitrum",
+    "time": "2026-05-04T18:37:55"
+   },
+   {
+    "with": "@vesper_noctis",
+    "direction": "incoming",
+    "text": "(voice note) “hey, just got a fresh Chainalysis leak – they’re flagging a bunch of Tornado‑Cash withdrawals. Looks like they’ve zeroed in on a few wallets, yours included. You might want to move fast.”",
+    "time": "2026-05-04T23:58:28"
+   },
+   {
+    "with": "Devin 'devops_devin' Acharya",
+    "direction": "outgoing",
+    "text": "got the audit report, will push tomorrow",
+    "time": "2026-05-05T11:07:47"
+   },
+   {
+    "with": "StealthLaunch (Telegram group)",
+    "direction": "outgoing",
+    "text": "alpha farm looks juicy, anyone deep‑dive the contract?",
+    "time": "2026-05-05T18:27:04"
+   },
+   {
+    "with": "@vesper_noctis",
+    "direction": "incoming",
+    "text": "did you see that ‘freeze alert’ screenshot I sent? It’s a legit Ledger Live warning – you need to sign to lock the wallet.",
+    "time": "2026-05-05T23:49:25"
+   },
+   {
+    "with": "Devin 'devops_devin' Acharya",
+    "direction": "outgoing",
+    "text": "price is insane, need to hedge",
+    "time": "2026-05-06T11:02:52"
+   },
+   {
+    "with": "Malicious Phish Site",
+    "direction": "outgoing",
+    "text": "clicked link and signed the EIP‑712 tx on Ledger Live (no simulation) – now the contract is approved to drain tokens.",
+    "time": "2026-05-06T02:32:28"
+   },
+   {
+    "with": "Devin 'devops_devin' Acharya",
+    "direction": "outgoing",
+    "text": "bro, I think I got phished",
+    "time": "2026-05-07T11:22:56"
+   },
+   {
+    "with": "@vesper_noctis",
+    "direction": "incoming",
+    "text": "no, it’s a trap",
+    "time": "2026-05-07T13:41:13"
+   },
+   {
+    "with": "Atlantic Degens (Telegram group)",
+    "direction": "outgoing",
+    "text": "phish‑aware post – reminded folks to simulate every tx and verify URLs. Mixed reactions.",
+    "time": "2026-05-07T19:06:42"
+   },
+   {
+    "with": "Devin 'devops_devin' Acharya",
+    "direction": "outgoing",
+    "text": "all good now, thanks for the backup",
+    "time": "2026-05-08T11:33:28"
+   },
+   {
+    "with": "Lisbon Anti‑Censorship (Telegram group)",
+    "direction": "outgoing",
+    "text": "joined the group – introduced by a new contact, looking for tools to resist state surveillance.",
+    "time": "2026-05-08T14:15:15"
+   },
+   {
+    "with": "Devin 'devops_devin' Acharya",
+    "direction": "incoming",
+    "text": "did you check the new mixer?",
+    "time": "2026-05-08T18:01:11"
+   },
+   {
+    "with": "Devin 'devops_devin' Acharya",
+    "direction": "outgoing",
+    "text": "got the mixer code, will audit tonight",
+    "time": "2026-05-09T11:06:55"
+   },
+   {
+    "with": "Rui 'rui.eth' Tavares",
+    "direction": "outgoing",
+    "text": "hey Rui, coffee Thursday at Hello, Kristof? Let’s sync on the new anti‑censorship tool.",
+    "time": "2026-05-09T18:55:26"
+   },
+   {
+    "with": "@vesper_noctis",
+    "direction": "incoming",
+    "text": "you’re safe now, keep the ledger offline",
+    "time": "2026-05-09T23:55:48"
+   },
+   {
+    "with": "Devin 'devops_devin' Acharya",
+    "direction": "outgoing",
+    "text": "claimed the airdrop, looks legit",
+    "time": "2026-05-10T10:46:17"
+   },
+   {
+    "with": "Atlantic Degens (Telegram group)",
+    "direction": "outgoing",
+    "text": "new anti‑censorship tool – no link yet, just a heads‑up for anyone building privacy layers.",
+    "time": "2026-05-10T18:06:58"
+   },
+   {
+    "with": "@vesper_noctis",
+    "direction": "incoming",
+    "text": "thanks for the chat, see you offline",
+    "time": "2026-05-10T23:03:29"
+   },
+   {
+    "with": "Devin 'devops_devin' Acharya",
+    "direction": "to",
+    "text": "Yo bro, PR #42 still needs those gas‑optimizations. Can you run the diff before EOD? gm.",
+    "time": "2026-05-11T11:19:53"
+   },
+   {
+    "with": "Atlantic Degens (Telegram group)",
+    "direction": "to",
+    "text": "🚀 Alpha airdrop alert – new zk‑rollup testnet incentive. Link inside, grab before it caps. ngmi if you miss.",
+    "time": "2026-05-11T22:08:28"
+   },
+   {
+    "with": "Rui 'rui.eth' Tavares",
+    "direction": "to",
+    "text": "Hey Rui, Thursday coffee at Hello, Kristof confirmed. See you 18:00 at the back patio?",
+    "time": "2026-05-12T11:23:23"
+   },
+   {
+    "with": "@vesper_noctis",
+    "direction": "from",
+    "text": "Voice note (2 min): ‘Got something you’ll love. I’ll drop the file later tonight. Trust me, it’s big.’",
+    "time": "2026-05-12T21:08:49"
+   },
+   {
+    "with": "Devin 'devops_devin' Acharya",
+    "direction": "to (spoofed)",
+    "text": "URGENT: Ledger freeze attempt detected. Sign the attached EIP‑712 payload ASAP or your funds get wiped. Do it now.",
+    "time": "2026-05-13T14:18:49"
+   },
+   {
+    "with": "Atlantic Degens (Telegram group)",
+    "direction": "to",
+    "text": "⚠️ Rug‑pull alert: someone just got slashed on the new LP farm. Pull out if you’re in.",
+    "time": "2026-05-13T18:38:44"
+   },
+   {
+    "with": "Devin 'devops_devin' Acharya",
+    "direction": "to",
+    "text": "Did you send that freeze link? Looks weird… I’m not signing anything until we verify.",
+    "time": "2026-05-13T22:46:21"
+   },
+   {
+    "with": "Devin 'devops_devin' Acharya",
+    "direction": "call (Signal)",
+    "text": "Discussed the suspicious transaction. Devin says it’s a phishing payload; we’ll audit the signature together.",
+    "time": "2026-05-14T11:15:27"
+   },
+   {
+    "with": "@vesper_noctis",
+    "direction": "from",
+    "text": "Message: ‘Got the code you asked for. Send me your public IP so I can SSH directly.’",
+    "time": "2026-05-14T20:29:37"
+   },
+   {
+    "with": "Devin 'devops_devin' Acharya",
+    "direction": "to",
+    "text": "Need a quick code review on the new staking module. Ping me later when you’re free.",
+    "time": "2026-05-15T13:27:56"
+   },
+   {
+    "with": "@vesper_noctis",
+    "direction": "from",
+    "text": "Voice note (1 min 45 s): ‘This mixer code could bypass KYC. I need your signature on the tx. Send it.’",
+    "time": "2026-05-15T17:25:37"
+   },
+   {
+    "with": "Atlantic Degens (Telegram group)",
+    "direction": "to",
+    "text": "Anonymous repo drop: new privacy‑preserving mixer. Check the GitHub link – audit at your own risk.",
+    "time": "2026-05-15T20:18:32"
+   },
+   {
+    "with": "Devin 'devops_devin' Acharya",
+    "direction": "to",
+    "text": "Someone sent me a weird tx. Can you look at the calldata? Might be a replay attack.",
+    "time": "2026-05-16T11:24:57"
+   },
+   {
+    "with": "@vesper_noctis",
+    "direction": "from",
+    "text": "Message: ‘Got a leak on the US Treasury watchlist. Need your signature to seal it.’",
+    "time": "2026-05-16T18:19:39"
+   },
+   {
+    "with": "Farcaster (public post)",
+    "direction": "to (broadcast)",
+    "text": "If you think the state can watch you, you’re already compromised 🙃 #cryptoanarchy",
+    "time": "2026-05-16T22:26:34"
+   },
+   {
+    "with": "Devin 'devops_devin' Acharya",
+    "direction": "call (Signal)",
+    "text": "Debrief on the recent suspicious activity. Planning a full audit of the wallet‑freeze vector tomorrow.",
+    "time": "2026-05-17T10:55:26"
+   },
+   {
+    "with": "Atlantic Degens (Telegram group)",
+    "direction": "to",
+    "text": "New yield farm link (high‑risk). APY looks insane, but be ready to pull liquidity fast.",
+    "time": "2026-05-17T19:13:35"
+   },
+   {
+    "with": "@vesper_noctis",
+    "direction": "from",
+    "text": "Voice note (30 s, saved): ‘Thanks for the code, keep it secret. We’re almost there.’",
+    "time": "2026-05-17T03:03:34"
+   },
+   {
+    "with": "Devin 'devops_devin' Acharya",
+    "direction": "to",
+    "text": "yo bro, quick heads‑up on PR #842 – the gas optimizer broke the fallback, need your eyes before merge.",
+    "time": "2026-05-18T15:06:13"
+   },
+   {
+    "with": "@vesper_noctis",
+    "direction": "from",
+    "text": "voice note (2 min): “got a new mixer spec, check it tonight – it’s the one that can hide Tornado cash traces.”",
+    "time": "2026-05-18T21:58:59"
+   },
+   {
+    "with": "Devin 'devops_devin' Acharya",
+    "direction": "to",
+    "text": "dev, just saw a weird inbound tx from day 10 on the DEX; looks like a replay attempt. can you run a trace?",
+    "time": "2026-05-19T15:19:16"
+   },
+   {
+    "with": "Atlantic Degens (group)",
+    "direction": "to",
+    "text": "anyone testing the new L2 rollup? dropped the repo link in #dev‑tools – looks promising but audit‑lite.",
+    "time": "2026-05-19T21:13:47"
+   },
+   {
+    "with": "@vesper_noctis",
+    "direction": "from",
+    "text": "voice note (30 s): “quick contract, sign to claim 0.5 ETH reward – just a sanity‑check, will self‑destruct after.”",
+    "time": "2026-05-20T03:49:55"
+   },
+   {
+    "with": "Devin 'devops_devin' Acharya",
+    "direction": "to",
+    "text": "dev, my Ledger just signed something weird, need help ASAP – screenshot attached.",
+    "time": "2026-05-20T09:08:04"
+   },
+   {
+    "with": "Atlantic Degens (group)",
+    "direction": "to",
+    "text": "anyone else see the weird tx on Etherscan? looks like a phantom withdraw.",
+    "time": "2026-05-20T22:10:25"
+   },
+   {
+    "with": "Devin 'devops_devin' Acharya",
+    "direction": "to",
+    "text": "just a heads‑up: ledger incident will be audited later, keep an eye on the safe‑tx monitor.",
+    "time": "2026-05-21T14:54:55"
+   },
+   {
+    "with": "@vesper_noctis",
+    "direction": "from",
+    "text": "voice note (1 min): “got a new leak, check the zip – password is ‘alpha‑beta‑gamma’.”",
+    "time": "2026-05-21T23:42:12"
+   },
+   {
+    "with": "Devin 'devops_devin' Acharya",
+    "direction": "to",
+    "text": "video call: sharing ledger audit findings, proposing we rotate backup keys tonight.",
+    "time": "2026-05-22T15:38:39"
+   },
+   {
+    "with": "Atlantic Degens (group)",
+    "direction": "to",
+    "text": "meme drop – ‘rugged contracts be like…’ (image attached). stay safe, apes.",
+    "time": "2026-05-22T22:45:26"
+   },
+   {
+    "with": "Rui 'rui.eth' Tavares",
+    "direction": "to",
+    "text": "hey, got your cancel – no worries, ping me when you’re free to debrief the new protocol.",
+    "time": "2026-05-23T12:31:11"
+   },
+   {
+    "with": "@vesper_noctis",
+    "direction": "from",
+    "text": "voice note (45 s): “hope you’re okay, I’ve got a quiet exploit to share later – it’s low‑profile, no public buzz.”",
+    "time": "2026-05-23T21:26:16"
+   },
+   {
+    "with": "Devin 'devops_devin' Acharya",
+    "direction": "to",
+    "text": "sharing ledger audit findings – let’s rotate backup keys and update the dead‑man switch.",
+    "time": "2026-05-24T13:56:01"
+   },
+   {
+    "with": "Atlantic Degens (group)",
+    "direction": "to",
+    "text": "anyone up for a midnight testnet run? got a fresh fork to poke at.",
+    "time": "2026-05-24T22:02:19"
+   }
+  ],
+  "locations": [
+   {
+    "place": "Café Galeria (Cascais)",
+    "lat": 38.697679,
+    "lon": -9.420779,
+    "time": "2026-05-04T12:28:49"
+   },
+   {
+    "place": "Home – Cascais suburb (apartment)",
+    "lat": 38.698823,
+    "lon": -9.417279,
+    "time": "2026-05-05T13:24:09"
+   },
+   {
+    "place": "Café Galeria (Cascais)",
+    "lat": 38.695993,
+    "lon": -9.42208,
+    "time": "2026-05-06T11:58:37"
+   },
+   {
+    "place": "LX Factory (Lisbon) – crypto meetup",
+    "lat": 38.705087,
+    "lon": -9.158707,
+    "time": "2026-05-08T13:07:40"
+   },
+   {
+    "place": "LX Factory – back‑room meetup (secret)",
+    "lat": 38.704691,
+    "lon": -9.159109,
+    "time": "2026-05-08T15:45:55"
+   },
+   {
+    "place": "Fitness Hut Cascais (gym)",
+    "lat": 38.698103,
+    "lon": -9.415747,
+    "time": "2026-05-09T12:20:13"
+   },
+   {
+    "place": "Moustache Coffee (Lisbon, Alfama)",
+    "lat": 38.710915,
+    "lon": -9.13119,
+    "time": "2026-05-10T13:05:07"
+   },
+   {
+    "place": "Café Galeria (Cascais, Portugal)",
+    "lat": 38.697647,
+    "lon": -9.42122,
+    "time": "2026-05-11T18:39:12"
+   },
+   {
+    "place": "Anytime Fitness Cascais (Gym)",
+    "lat": 38.698664,
+    "lon": -9.42429,
+    "time": "2026-05-12T18:10:23"
+   },
+   {
+    "place": "Café Galeria (Cascais, Portugal)",
+    "lat": 38.695829,
+    "lon": -9.422981,
+    "time": "2026-05-13T12:00:55"
+   },
+   {
+    "place": "Café Galeria (Cascais, Portugal)",
+    "lat": 38.696807,
+    "lon": -9.423679,
+    "time": "2026-05-14T16:25:31"
+   },
+   {
+    "place": "Café da Garagem (Alcântara, Lisbon, Portugal)",
+    "lat": 38.710643,
+    "lon": -9.150988,
+    "time": "2026-05-15T17:01:29"
+   },
+   {
+    "place": "Café Galeria (Cascais, Portugal)",
+    "lat": 38.697747,
+    "lon": -9.42158,
+    "time": "2026-05-16T16:26:07"
+   },
+   {
+    "place": "Café da Praça (Rui's favorite spot, Estoril, Portugal)",
+    "lat": 38.708775,
+    "lon": -9.389218,
+    "time": "2026-05-17T15:25:19"
+   },
+   {
+    "place": "Café Galeria (Cascais)",
+    "lat": 38.697978,
+    "lon": -9.421477,
+    "time": "2026-05-18T12:08:58"
+   },
+   {
+    "place": "Home – Cascais suburb (apartment)",
+    "lat": 38.699242,
+    "lon": -9.425512,
+    "time": "2026-05-19T13:17:29"
+   },
+   {
+    "place": "Hello, Kristof Café (Bairro Alto, Lisbon)",
+    "lat": 38.710358,
+    "lon": -9.139929,
+    "time": "2026-05-20T18:52:37"
+   },
+   {
+    "place": "Home – Cascais suburb (apartment)",
+    "lat": 38.697599,
+    "lon": -9.424244,
+    "time": "2026-05-21T13:45:15"
+   },
+   {
+    "place": "Café da Esquina (Lisbon)",
+    "lat": 38.707161,
+    "lon": -9.141378,
+    "time": "2026-05-22T13:41:55"
+   },
+   {
+    "place": "Hospital da Cruz Vermelha de Cascais",
+    "lat": 38.705214,
+    "lon": -9.415435,
+    "time": "2026-05-23T14:14:44"
+   },
+   {
+    "place": "Café Galeria (Cascais)",
+    "lat": 38.695922,
+    "lon": -9.423486,
+    "time": "2026-05-24T12:26:16"
+   }
+  ],
+  "calendar": [
+   {
+    "summary": "Discord stand‑up with US team (core hour)",
+    "time": "2026-05-04T14:56:42"
+   },
+   {
+    "summary": "Discord stand‑up, discuss upcoming mainnet freeze",
+    "time": "2026-05-05T15:12:50"
+   },
+   {
+    "summary": "Discord stand‑up, mention ‘possible exploit’ in other protocol",
+    "time": "2026-05-06T14:35:19"
+   },
+   {
+    "summary": "Discord stand‑up, report anomaly, team suggests revoking key",
+    "time": "2026-05-07T14:46:53"
+   },
+   {
+    "summary": "Discord stand‑up, discuss weekend DAO vote",
+    "time": "2026-05-09T14:25:29"
+   },
+   {
+    "summary": "Discord stand‑up, report audit findings on mixer repo",
+    "time": "2026-05-10T14:40:28"
+   },
+   {
+    "summary": "Coffee‑walk to Café Galeria (no VPN) for lunch",
+    "time": "2026-05-11T14:08:56"
+   },
+   {
+    "summary": "Therapy session (Thursday 17:00)",
+    "time": "2026-05-12T13:27:46"
+   },
+   {
+    "summary": "Meetup with @vesper_noctis at Café da Garagem (17:00)",
+    "time": "2026-05-15T11:57:21"
+   },
+   {
+    "summary": "Rui coffee meetup at Hello, Kristof (15:00)",
+    "time": "2026-05-17T13:06:56"
+   }
+  ],
+  "searches": [
+   {
+    "query": "optimistic rollup gas oracle best practice",
+    "time": "2026-05-11T16:25:05"
+   },
+   {
+    "query": "eth price chart 24h",
+    "time": "2026-05-11T02:50:02"
+   },
+   {
+    "query": "eip712 replay protect tutorial",
+    "time": "2026-05-12T17:02:49"
+   },
+   {
+    "query": "bypass ledger live freeze prompt",
+    "time": "2026-05-12T02:56:47"
+   },
+   {
+    "query": "tx failed gas limit too low why",
+    "time": "2026-05-13T16:47:52"
+   },
+   {
+    "query": "ledger tx rollback howto",
+    "time": "2026-05-13T02:57:29"
+   },
+   {
+    "query": "ledger transaction recovery tool",
+    "time": "2026-05-14T12:51:14"
+   },
+   {
+    "query": "ssh tunnel public wifi risks",
+    "time": "2026-05-14T22:29:31"
+   },
+   {
+    "query": "hide ledger tx from etherscan",
+    "time": "2026-05-14T03:21:57"
+   },
+   {
+    "query": "secure file share alternative telegram",
+    "time": "2026-05-15T14:29:18"
+   },
+   {
+    "query": "hide mixer contract address block explorer",
+    "time": "2026-05-15T18:28:28"
+   },
+   {
+    "query": "etherscan unknown inbound tx analysis",
+    "time": "2026-05-16T13:03:31"
+   },
+   {
+    "query": "phishing signs ledger live url",
+    "time": "2026-05-16T20:20:17"
+   },
+   {
+    "query": "purge telegram secret chat securely",
+    "time": "2026-05-16T02:34:29"
+   },
+   {
+    "query": "best practice .env backup offline",
+    "time": "2026-05-17T14:54:10"
+   },
+   {
+    "query": "ledger firmware update schedule 2026",
+    "time": "2026-05-17T23:55:30"
+   },
+   {
+    "query": "optimism l2 airdrop eligibility criteria",
+    "time": "2026-05-18T16:36:11"
+   },
+   {
+    "query": "rotate vpn endpoint weekly howto",
+    "time": "2026-05-19T16:51:36"
+   },
+   {
+    "query": "erc4337 account abstraction exploit 2024",
+    "time": "2026-05-20T12:16:16"
+   },
+   {
+    "query": "export ledger live tx logs",
+    "time": "2026-05-21T16:40:18"
+   },
+   {
+    "query": "offline hardware wallet backup best practices 2026",
+    "time": "2026-05-22T17:15:09"
+   },
+   {
+    "query": "emergency crypto asset transfer family",
+    "time": "2026-05-23T19:35:55"
+   },
+   {
+    "query": "shamir secret sharing recovery checklist",
+    "time": "2026-05-24T16:23:17"
+   }
+  ]
+ },
+ "_meta": {
+  "total_days": 30,
+  "n_events": 180
+ }
+}

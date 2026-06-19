@@ -1,0 +1,887 @@
+{
+ "persona_id": "?:2",
+ "persona_slug": "The Advanced Persistent Threat (APT)",
+ "intake_version": "synth-activity-v2-chunked",
+ "samples": {
+  "searches": [
+   {
+    "query": "r/netsec",
+    "time": "2026-05-04T06:24:13"
+   },
+   {
+    "query": "infosec twt",
+    "time": "2026-05-04T12:41:37"
+   },
+   {
+    "query": "cve twitter",
+    "time": "2026-05-05T12:42:35"
+   },
+   {
+    "query": "riverside methodist neuro",
+    "time": "2026-05-06T12:17:21"
+   },
+   {
+    "query": "defcon twitter",
+    "time": "2026-05-07T12:45:56"
+   },
+   {
+    "query": "schneier blog",
+    "time": "2026-05-08T12:22:09"
+   },
+   "sql injection patterns legacy migration scripts",
+   "post migration data integrity verification tools",
+   "concussion symptoms elderly",
+   "riverside methodist hospital number",
+   "flights dca to columbus",
+   "elderly care hip fracture",
+   {
+    "query": "riverside methodist neuro side effects",
+    "time": "2026-05-30T16:27:45"
+   },
+   {
+    "query": "r/securityclearance sf86 delays",
+    "time": "2026-06-02T06:20:01"
+   }
+  ],
+  "messages": [
+   {
+    "with": "System Alert (Slack)",
+    "direction": "incoming",
+    "text": "CRITICAL: Log rotation failure on node-04. Check disk usage on /var/log.",
+    "time": "2026-05-04T07:32:07"
+   },
+   {
+    "with": "Maya Chen",
+    "direction": "incoming",
+    "text": "Home in 20, need milk. Also, don't forget we have that thing tomorrow.",
+    "time": "2026-05-04T18:18:13"
+   },
+   {
+    "with": "Project Lead (Email)",
+    "direction": "incoming",
+    "text": "Subject: Quarterly Review Docs. Please ensure all technical appendices are updated for the client sync on Friday.",
+    "time": "2026-05-05T07:20:29"
+   },
+   {
+    "with": "Maya Chen",
+    "direction": "incoming",
+    "text": "Dinner at 7? Thinking that Thai place in Clarendon.",
+    "time": "2026-05-05T18:18:25"
+   },
+   {
+    "with": "u/cleared_and_tired",
+    "direction": "outgoing",
+    "text": "The scope creep on this new tasking is insane. They're asking for unclass summaries that feel way too close to the edge. I can't even breathe without a paper trail.",
+    "time": "2026-05-05T23:43:19"
+   },
+   {
+    "with": "u/cleared_and_tired",
+    "direction": "incoming",
+    "text": "It’s the same pattern everywhere. The agencies just want more visibility, less accountability. Are you seeing the same with your shop?",
+    "time": "2026-05-06T02:09:28"
+   },
+   {
+    "with": "DevOps Team (Slack)",
+    "direction": "incoming",
+    "text": "Ticket #8829: High priority. Authentication service latency increasing in US-East-1.",
+    "time": "2026-05-06T07:07:49"
+   },
+   {
+    "with": "Erin M.-Hollister",
+    "direction": "incoming",
+    "text": "Dad had a rough night. He was really confused this morning. I'm calling the neurologist back. Call me when you can.",
+    "time": "2026-05-06T09:53:02"
+   },
+   {
+    "with": "Maya Chen",
+    "direction": "incoming",
+    "text": "You okay? You've been really quiet since you got home.",
+    "time": "2026-05-06T18:50:20"
+   },
+   {
+    "with": "Infrastructure Alert (Slack)",
+    "direction": "incoming",
+    "text": "CRITICAL: Database migration failed on production cluster. Rollback initiated.",
+    "time": "2026-05-07T07:18:03"
+   },
+   {
+    "with": "Derek Olawale",
+    "direction": "incoming",
+    "text": "Where are you? Eyes on the pub. Trivia is starting, man. Don't be late.",
+    "time": "2026-05-07T20:00:56"
+   },
+   {
+    "with": "Engineering Team (Slack)",
+    "direction": "incoming",
+    "text": "Morning all. Standup in 15. Review the overnight logs before we jump on.",
+    "time": "2026-05-08T07:31:36"
+   },
+   {
+    "with": "Maya Chen",
+    "direction": "incoming",
+    "text": "Friday night in? I'm exhausted. Let's just order something and watch that doc.",
+    "time": "2026-05-08T18:51:08"
+   },
+   {
+    "with": "Maya Chen",
+    "direction": "incoming",
+    "text": "Coming home soon? I'm starting the pasta.",
+    "time": "2026-05-09T18:00:47"
+   },
+   {
+    "with": "Erin M.-Hollister",
+    "direction": "incoming",
+    "text": "Weekly update on Dad's meds: the new dosage seems to be making him more drowsy. I'll keep you posted.",
+    "time": "2026-05-10T18:53:11"
+   },
+   {
+    "with": "Work Team",
+    "direction": "to",
+    "text": "Audit logs for the migration are looking clean so far.",
+    "time": "2026-05-11T07:25:55"
+   },
+   {
+    "with": "Maya Chen",
+    "direction": "from",
+    "text": "Home in 20, did you eat?",
+    "time": "2026-05-11T18:13:06"
+   },
+   {
+    "with": "Maya Chen",
+    "direction": "from",
+    "text": "You're late, everything okay?",
+    "time": "2026-05-12T18:46:53"
+   },
+   {
+    "with": "Maya Chen",
+    "direction": "from",
+    "text": "Dinner at Cava?",
+    "time": "2026-05-13T18:26:57"
+   },
+   {
+    "with": "Work Team",
+    "direction": "to",
+    "text": "Found a few discrepancies in the schema mapping. Investigating now.",
+    "time": "2026-05-14T07:09:24"
+   },
+   {
+    "with": "Maya Chen",
+    "direction": "from",
+    "text": "Are you staying for a drink?",
+    "time": "2026-05-14T19:36:38"
+   },
+   {
+    "with": "Work Team",
+    "direction": "to",
+    "text": "The final verification pass is complete. All logs reconciled.",
+    "time": "2026-05-15T07:05:10"
+   },
+   {
+    "with": "Erin M.-Hollister",
+    "direction": "from",
+    "text": "Dad had a bad fall. He's at Riverside. Call me.",
+    "time": "2026-05-15T09:24:49"
+   },
+   {
+    "with": "Maya Chen",
+    "direction": "from",
+    "text": "You haven't replied to my texts. Is everything okay?",
+    "time": "2026-05-15T18:43:52"
+   },
+   {
+    "with": "Maya Chen",
+    "direction": "from",
+    "text": "Thinking of you. Dinner at home?",
+    "time": "2026-05-16T18:38:04"
+   },
+   {
+    "with": "Erin M.-Hollister",
+    "direction": "from",
+    "text": "Dad is stable, but the neurologist wants to see him Monday.",
+    "time": "2026-05-17T19:09:43"
+   },
+   {
+    "with": "Derek Olawale",
+    "direction": "from",
+    "text": "Eyes on the logs for the client update. Check fire on that patch deployment. Roger?",
+    "time": "2026-05-18T07:30:50"
+   },
+   {
+    "with": "Maya Chen",
+    "direction": "from",
+    "text": "home in 20 <3",
+    "time": "2026-05-18T18:17:50"
+   },
+   {
+    "with": "Derek Olawale",
+    "direction": "from",
+    "text": "Morning. Need a quick sync on the FISMA compliance docs before the 10am. You free?",
+    "time": "2026-05-19T07:23:45"
+   },
+   {
+    "with": "Maya Chen",
+    "direction": "from",
+    "text": "added oat milk and those weird avocados you like to the list",
+    "time": "2026-05-19T18:22:58"
+   },
+   {
+    "with": "Derek Olawale",
+    "direction": "from",
+    "text": "The Jenkins build failed again. Check the logs when you get in. Looks like a credential mismatch.",
+    "time": "2026-05-20T07:12:29"
+   },
+   {
+    "with": "Maya Chen",
+    "direction": "from",
+    "text": "dinner at 7? thinking that place in Ballston",
+    "time": "2026-05-20T18:24:48"
+   },
+   {
+    "with": "Derek Olawale",
+    "direction": "from",
+    "text": "Status on the RSU vesting docs? Client is asking.",
+    "time": "2026-05-21T07:03:49"
+   },
+   {
+    "with": "Erin M.-Hollister",
+    "direction": "from",
+    "text": "Dad's appointment went... we need to talk later.",
+    "time": "2026-05-21T17:31:53"
+   },
+   {
+    "with": "Erin M.-Hollister",
+    "direction": "from",
+    "text": "I'm just so tired of fighting this. He didn't even know me for a second there.",
+    "time": "2026-05-21T18:12:16"
+   },
+   {
+    "with": "Derek Olawale",
+    "direction": "from",
+    "text": "Check the ticket for the Orange Line outage report. Needs eyes.",
+    "time": "2026-05-22T07:28:42"
+   },
+   {
+    "with": "Maya Chen",
+    "direction": "from",
+    "text": "Are you okay? You've been so quiet since you got home. Is it work?",
+    "time": "2026-05-22T18:35:52"
+   },
+   {
+    "with": "Derek Olawale",
+    "direction": "from",
+    "text": "Audit team is asking for the access logs from last Tuesday. We need to pull them ASAP. Eyes on this.",
+    "time": "2026-05-23T19:18:02"
+   },
+   {
+    "with": "Erin M.-Hollister",
+    "direction": "from",
+    "text": "Dad is sleeping, had a long day.",
+    "time": "2026-05-24T19:20:12"
+   },
+   {
+    "with": "System Audit",
+    "direction": "from",
+    "text": "ALERT: Unauthorized access attempt detected on node-04. Audit logs pending review.",
+    "time": "2026-05-25T07:22:11"
+   },
+   {
+    "with": "Maya Chen",
+    "direction": "from",
+    "text": "Home in 20, did you grab the sourdough? 🥖",
+    "time": "2026-05-25T18:15:07"
+   },
+   {
+    "with": "Derek Olawale",
+    "direction": "to",
+    "text": "Roger, Derek. Checking the logs now. I'll have eyes on the audit prep by 0800.",
+    "time": "2026-05-26T07:16:24"
+   },
+   {
+    "with": "Maya Chen",
+    "direction": "from",
+    "text": "Don't forget we have that dinner reservation at 7:30! 🍷",
+    "time": "2026-05-26T18:37:43"
+   },
+   {
+    "with": "Lead Engineer",
+    "direction": "from",
+    "text": "We have a discrepancy in the audit logs for the last 24 hours. Need you on this ASAP.",
+    "time": "2026-05-27T07:09:24"
+   },
+   {
+    "with": "Engineering Team",
+    "direction": "to",
+    "text": "Checking availability for the 10am sync. Everyone good?",
+    "time": "2026-05-28T07:05:55"
+   },
+   {
+    "with": "Derek Olawale",
+    "direction": "from",
+    "text": "You look dead, man. Need a drink? Whitlow's is calling.",
+    "time": "2026-05-28T19:41:08"
+   },
+   {
+    "with": "System Audit",
+    "direction": "from",
+    "text": "Follow-up required: Audit discrepancy report #882-A is awaiting engineer sign-off.",
+    "time": "2026-05-29T06:57:40"
+   },
+   {
+    "with": "Maya Chen",
+    "direction": "from",
+    "text": "Home in 20, please tell me you're not working late again... 🙄",
+    "time": "2026-05-29T18:43:47"
+   },
+   {
+    "with": "Erin M.-Hollister",
+    "direction": "from",
+    "text": "Dad's having a bad reaction to the new meds, call me immediately.",
+    "time": "2026-05-30T15:55:40"
+   },
+   {
+    "with": "Maya Chen",
+    "direction": "from",
+    "text": "You've been quiet all afternoon, everything okay? ❤️",
+    "time": "2026-05-30T18:36:16"
+   },
+   {
+    "with": "Erin M.-Hollister",
+    "direction": "from",
+    "text": "Weekly update on Dad: he's stable but very confused. I'll call you Sunday.",
+    "time": "2026-05-31T19:11:11"
+   },
+   {
+    "with": "Maya Chen",
+    "direction": "from",
+    "text": "home in 20, did you grab milk?",
+    "time": "2026-06-01T18:52:41"
+   },
+   {
+    "with": "u/cleared_and_tired",
+    "direction": "from",
+    "text": "another day of client second-guessing everything. i'm so done with this reorg.",
+    "time": "2026-06-01T23:30:44"
+   },
+   {
+    "with": "Erin M.-Hollister",
+    "direction": "from",
+    "text": "Dad fell in the kitchen. ER now. Call me.",
+    "time": "2026-06-02T07:22:00"
+   },
+   {
+    "with": "Maya Chen",
+    "direction": "from",
+    "text": "You've been quiet all day. Everything okay?",
+    "time": "2026-06-02T18:17:00"
+   },
+   {
+    "with": "u/cleared_and_tired",
+    "direction": "from",
+    "text": "can't sleep. the stuff with my dad... i just can't stop thinking about what the neurologist said. it's getting so much worse.",
+    "time": "2026-06-02T02:18:21"
+   }
+  ],
+  "locations": [
+   {
+    "place": "Clarendon Metro Station",
+    "lat": 38.878289,
+    "lon": -77.114185,
+    "time": "2026-05-04T07:39:54"
+   },
+   {
+    "place": "Crystal City Office District",
+    "lat": 38.848903,
+    "lon": -77.045147,
+    "time": "2026-05-07T19:14:37"
+   },
+   {
+    "place": "Orangetheory Fitness Clarendon",
+    "lat": 38.877262,
+    "lon": -77.113,
+    "time": "2026-05-09T07:56:15"
+   },
+   {
+    "place": "Whole Foods Market Clarendon",
+    "lat": 38.875234,
+    "lon": -77.114737,
+    "time": "2026-05-09T10:40:46"
+   },
+   {
+    "place": "Whitlow's on Wilson",
+    "lat": 38.884208,
+    "lon": -77.114082,
+    "time": "2026-05-19T20:00:19"
+   },
+   {
+    "place": "Whitlow's on Wilson",
+    "lat": 38.884051,
+    "lon": -77.116511,
+    "time": "2026-05-21T20:19:12"
+   },
+   {
+    "place": "Whole Foods Market",
+    "lat": 38.884449,
+    "lon": -77.113348,
+    "time": "2026-05-23T10:24:02"
+   },
+   {
+    "place": "Cava",
+    "lat": 38.885069,
+    "lon": -77.111657,
+    "time": "2026-05-26T12:27:41"
+   },
+   {
+    "place": "Whitlow's on Wilson",
+    "lat": 38.887221,
+    "lon": -77.112983,
+    "time": "2026-05-28T18:24:47"
+   },
+   {
+    "place": "Orangetheory Fitness",
+    "lat": 38.884329,
+    "lon": -77.114637,
+    "time": "2026-05-30T08:05:03"
+   },
+   {
+    "place": "Whole Foods Market",
+    "lat": 38.887988,
+    "lon": -77.110264,
+    "time": "2026-05-30T10:40:12"
+   }
+  ],
+  "videos": [
+   {
+    "title": "The Logistics of Modern Warfare: Why Supply Chains Win Wars",
+    "channel": "Perun",
+    "time": "2026-05-04T21:13:58"
+   },
+   {
+    "title": "The Legality of Government Surveillance and Privacy Laws",
+    "channel": "LegalEagle",
+    "time": "2026-05-06T21:10:54"
+   },
+   {
+    "title": "The Evolution of Electronic Warfare and RF Jamming",
+    "channel": "Perun",
+    "time": "2026-05-07T22:30:00"
+   },
+   {
+    "title": "The Rise and Fall of the Early Internet: A Digital Retrospective",
+    "channel": "ColdFusion",
+    "time": "2026-05-09T22:19:25"
+   },
+   {
+    "title": "The Vulnerability of Critical Infrastructure",
+    "channel": "Perun",
+    "time": "2026-05-11T21:01:55"
+   },
+   {
+    "title": "The Legal Realities of Regulatory Compliance",
+    "channel": "LegalEagle",
+    "time": "2026-05-12T22:22:19"
+   },
+   {
+    "title": "The Evolution of Computing Systems",
+    "channel": "ColdFusion",
+    "time": "2026-05-14T22:33:10"
+   },
+   {
+    "title": "The Scale of the Universe",
+    "channel": "Kurzgesagt – In a Nutshell",
+    "time": "2026-05-17T22:10:55"
+   },
+   {
+    "title": "The Logistics of Modern Warfare: Supply Lines and Attrition",
+    "channel": "Perun",
+    "time": "2026-05-18T20:53:00"
+   },
+   {
+    "title": "The Rise and Fall of the Silicon Age",
+    "channel": "Veritasium",
+    "time": "2026-05-20T21:04:56"
+   },
+   {
+    "title": "Oddly Satisfying Hydraulic Press Compilation",
+    "channel": "Hydraulic Press Channel",
+    "time": "2026-05-22T21:24:01"
+   },
+   {
+    "title": "The Geopolitics of Energy Infrastructure",
+    "channel": "Perun",
+    "time": "2026-05-23T21:40:52"
+   },
+   {
+    "title": "The Legality of AI-Generated Content",
+    "channel": "LegalEagle",
+    "time": "2026-05-24T22:29:25"
+   },
+   {
+    "title": "Logistics, Infrastructure, and the Future of Geopolitics",
+    "channel": "Perun",
+    "time": "2026-05-25T23:22:30"
+   },
+   {
+    "title": "The Legality of AI Regulation and Compliance",
+    "channel": "LegalEagle",
+    "time": "2026-05-26T23:26:56"
+   },
+   {
+    "title": "The Rise and Fall of COBOL: A Legacy System Documentary",
+    "channel": "Tech Chronicles",
+    "time": "2026-05-28T22:15:05"
+   },
+   {
+    "title": "The Impact of Resource Scarcity on Global Conflict",
+    "channel": "Perun",
+    "time": "2026-05-29T22:53:29"
+   },
+   {
+    "title": "Relaxing Minecraft Parkour - Chill Beats",
+    "channel": "Chill Gaming",
+    "time": "2026-05-30T21:35:51"
+   },
+   {
+    "title": "The Legality of AI-Generated Content: A Deep Dive",
+    "channel": "LegalEagle",
+    "time": "2026-06-01T21:23:13"
+   },
+   {
+    "title": "The Logistics of Modern Conflict: Why Supply Chains Matter",
+    "channel": "Perun",
+    "time": "2026-06-02T22:34:25"
+   }
+  ],
+  "calendar": [
+   {
+    "summary": "System Audit",
+    "time": "2026-05-07T17:35:16"
+   },
+   {
+    "summary": "Tabletop RPG",
+    "time": "2026-05-09T14:15:25"
+   },
+   {
+    "summary": "Audit review meeting with Derek",
+    "time": "2026-05-13T08:59:59"
+   },
+   {
+    "summary": "Trivia night at Whitlow's",
+    "time": "2026-05-14T18:05:47"
+   },
+   {
+    "summary": "RPG Session (Ballston)",
+    "time": "2026-05-16T14:06:45"
+   },
+   {
+    "summary": "Audit Prep",
+    "time": "2026-05-23T14:09:04"
+   },
+   {
+    "summary": "RPG Night (Cancelled)",
+    "time": "2026-05-30T14:26:38"
+   }
+  ],
+  "media": [
+   {
+    "name": "Reddit",
+    "time": "2026-05-11T05:59:00"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-11T12:36:39"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-11T23:29:33"
+   },
+   {
+    "name": "Wire",
+    "time": "2026-05-12T02:32:34"
+   },
+   {
+    "name": "Weather",
+    "time": "2026-05-12T06:00:59"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-12T12:39:09"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-13T05:51:26"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-13T12:36:20"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-13T23:04:50"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-14T12:37:53"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-15T12:46:12"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-15T23:06:19"
+   },
+   {
+    "name": "Apple Watch",
+    "time": "2026-05-16T08:09:47"
+   },
+   {
+    "name": "AnyList",
+    "time": "2026-05-16T10:19:20"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-16T23:17:40"
+   },
+   {
+    "name": "AnyList",
+    "time": "2026-05-17T11:06:25"
+   },
+   {
+    "name": "FaceTime",
+    "time": "2026-05-17T16:15:23"
+   },
+   {
+    "name": "Obsidian",
+    "time": "2026-05-17T20:19:11"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-18T05:50:50"
+   },
+   {
+    "name": "Reeder",
+    "time": "2026-05-18T07:51:57"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-18T12:21:41"
+   },
+   {
+    "name": "Apple Watch",
+    "time": "2026-05-18T23:23:36"
+   },
+   {
+    "name": "Weather",
+    "time": "2026-05-19T05:52:32"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-19T12:42:15"
+   },
+   {
+    "name": "YouTube",
+    "time": "2026-05-19T22:21:35"
+   },
+   {
+    "name": "Apple Watch",
+    "time": "2026-05-19T23:06:26"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-20T06:09:58"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-20T12:45:30"
+   },
+   {
+    "name": "Apple Watch",
+    "time": "2026-05-20T23:20:28"
+   },
+   {
+    "name": "Weather",
+    "time": "2026-05-21T06:11:08"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-21T12:30:32"
+   },
+   {
+    "name": "Wire",
+    "time": "2026-05-21T02:34:52"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-22T06:10:50"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-22T12:35:07"
+   },
+   {
+    "name": "Apple Watch",
+    "time": "2026-05-22T23:38:17"
+   },
+   {
+    "name": "Clock",
+    "time": "2026-05-23T07:10:10"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-23T00:53:40"
+   },
+   {
+    "name": "Clock",
+    "time": "2026-05-24T07:07:47"
+   },
+   {
+    "name": "Calendar",
+    "time": "2026-05-24T10:56:40"
+   },
+   {
+    "name": "FaceTime",
+    "time": "2026-05-24T15:55:05"
+   },
+   {
+    "name": "Obsidian",
+    "time": "2026-05-24T20:18:53"
+   },
+   {
+    "name": "Apple Watch",
+    "time": "2026-05-25T00:06:07"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-25T06:00:40"
+   },
+   {
+    "name": "Reeder",
+    "time": "2026-05-25T07:46:36"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-25T12:17:03"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-25T21:30:30"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-26T05:56:12"
+   },
+   {
+    "name": "Email",
+    "time": "2026-05-26T20:09:31"
+   },
+   {
+    "name": "Wire",
+    "time": "2026-05-27T01:59:38"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-27T06:09:10"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-27T12:20:08"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-27T22:00:12"
+   },
+   {
+    "name": "Email",
+    "time": "2026-05-27T23:53:00"
+   },
+   {
+    "name": "Email",
+    "time": "2026-05-27T01:23:44"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-28T06:14:48"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-28T12:23:04"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-28T23:23:10"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-29T06:20:02"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-29T12:36:10"
+   },
+   {
+    "name": "Email",
+    "time": "2026-05-29T19:53:47"
+   },
+   {
+    "name": "YouTube",
+    "time": "2026-05-31T09:02:07"
+   },
+   {
+    "name": "AnyList",
+    "time": "2026-05-31T10:50:21"
+   },
+   {
+    "name": "FaceTime",
+    "time": "2026-05-31T13:56:03"
+   },
+   {
+    "name": "Obsidian",
+    "time": "2026-05-31T20:21:08"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-31T22:17:10"
+   },
+   {
+    "name": "Clock",
+    "time": "2026-06-01T05:50:32"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-06-01T06:24:38"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-06-01T07:02:29"
+   },
+   {
+    "name": "Reeder",
+    "time": "2026-06-01T07:52:55"
+   },
+   {
+    "name": "X",
+    "time": "2026-06-01T12:28:16"
+   },
+   {
+    "name": "Clock",
+    "time": "2026-06-02T06:06:53"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-06-02T07:07:45"
+   },
+   {
+    "name": "X",
+    "time": "2026-06-02T12:35:26"
+   },
+   {
+    "name": "Phone",
+    "time": "2026-06-02T19:05:10"
+   }
+  ]
+ },
+ "_meta": {
+  "total_days": 30,
+  "n_events": 199
+ }
+}

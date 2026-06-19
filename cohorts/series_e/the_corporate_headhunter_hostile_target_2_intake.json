@@ -1,0 +1,932 @@
+{
+ "persona_id": "?:2",
+ "persona_slug": "The Corporate Headhunter (Hostile)",
+ "intake_version": "synth-activity-v2-chunked",
+ "samples": {
+  "media": [
+   {
+    "name": "Cold‑Turkey focus block start – code ship for ML model rollout",
+    "time": "2026-05-11T05:48:12"
+   },
+   {
+    "name": "Lunch Slack thread with ex‑Stripe cohort (quick check‑in)",
+    "time": "2026-05-11T13:28:11"
+   },
+   {
+    "name": "Evening deep‑work block – finalize design doc, email to manager",
+    "time": "2026-05-11T20:34:37"
+   },
+   {
+    "name": "Pre‑baby focus block – ship hot‑fix for latency bug",
+    "time": "2026-05-12T06:14:47"
+   },
+   {
+    "name": "Power‑nap 20 min during baby’s nap",
+    "time": "2026-05-12T13:20:11"
+   },
+   {
+    "name": "Evening focus block – writes Obsidian journal entry, ruminates on promotion denial",
+    "time": "2026-05-12T18:43:19"
+   },
+   {
+    "name": "Deep‑work block – refactor data pipeline code",
+    "time": "2026-05-13T06:08:34"
+   },
+   {
+    "name": "Lunch Slack DM with ex‑Airbnb peer (quick meme exchange)",
+    "time": "2026-05-13T13:06:08"
+   },
+   {
+    "name": "Evening focus – finalize PR for model serving upgrade",
+    "time": "2026-05-13T20:46:51"
+   },
+   {
+    "name": "Morning focus – unit‑test coverage increase",
+    "time": "2026-05-14T06:17:37"
+   },
+   {
+    "name": "Power‑nap 20 min while baby sleeps",
+    "time": "2026-05-14T13:13:44"
+   },
+   {
+    "name": "Evening focus – draft LinkedIn post about recent conference talk",
+    "time": "2026-05-14T21:02:01"
+   },
+   {
+    "name": "Focus block – code review for cross‑team integration",
+    "time": "2026-05-15T06:05:11"
+   },
+   {
+    "name": "Lunch with parents at home, baby in carrier",
+    "time": "2026-05-15T12:37:25"
+   },
+   {
+    "name": "Power‑nap 20 min (baby napped early)",
+    "time": "2026-05-15T16:01:32"
+   },
+   {
+    "name": "Morning focus – prototype new feature flag system",
+    "time": "2026-05-16T06:04:39"
+   },
+   {
+    "name": "Power‑nap while baby sleeps",
+    "time": "2026-05-16T12:35:33"
+   },
+   {
+    "name": "Evening focus – write blog draft on “scalable model serving”",
+    "time": "2026-05-16T16:27:14"
+   },
+   {
+    "name": "Final focus block before parents leave – finalize PR merge",
+    "time": "2026-05-17T05:49:51"
+   },
+   {
+    "name": "Power‑nap 20 min",
+    "time": "2026-05-17T12:09:54"
+   },
+   {
+    "name": "Evening focus – polish LinkedIn post, schedule for Sunday evening",
+    "time": "2026-05-17T16:46:16"
+   },
+   {
+    "name": "Obsidian journal entry – outline compensation spreadsheet model",
+    "time": "2026-05-18T06:23:08"
+   },
+   {
+    "name": "Evening code review on laptop (post‑baby bedtime)",
+    "time": "2026-05-18T20:09:55"
+   },
+   {
+    "name": "Obsidian – add note on RSU vesting curves",
+    "time": "2026-05-19T06:19:30"
+   },
+   {
+    "name": "Update compensation model spreadsheet (mid‑afternoon)",
+    "time": "2026-05-19T15:29:05"
+   },
+   {
+    "name": "Obsidian – finalize compensation spreadsheet, add scenario tabs",
+    "time": "2026-05-20T06:23:33"
+   },
+   {
+    "name": "Levels.fyi deep dive, copy‑paste data into spreadsheet",
+    "time": "2026-05-20T14:48:24"
+   },
+   {
+    "name": "Obsidian – note takeaways from 23:07 journal entry",
+    "time": "2026-05-21T06:10:49"
+   },
+   {
+    "name": "Finalize response to recruiter, attach spreadsheet snapshot",
+    "time": "2026-05-21T15:20:25"
+   },
+   {
+    "name": "Obsidian – tag ‘job‑search’ on new note, add recruiter contact",
+    "time": "2026-05-22T06:30:50"
+   },
+   {
+    "name": "Update compensation model with recruiter’s feedback numbers",
+    "time": "2026-05-22T14:25:56"
+   },
+   {
+    "name": "Obsidian – draft ‘family‑pressure’ note, schedule Sunday call with parents",
+    "time": "2026-05-23T06:38:55"
+   },
+   {
+    "name": "Re‑run compensation model with updated market data",
+    "time": "2026-05-23T15:13:32"
+   },
+   {
+    "name": "Obsidian – outline pros/cons matrix for three offers (current, recruiter 1, recruiter 2)",
+    "time": "2026-05-24T06:33:15"
+   },
+   {
+    "name": "Update matrix with recruiter 2’s equity make‑whole numbers",
+    "time": "2026-05-24T14:21:57"
+   },
+   {
+    "name": "Obsidian journal entry – morning rumination on compensation models",
+    "time": "2026-05-25T05:53:15"
+   },
+   {
+    "name": "Lunch‑time Slack triage (no calls)",
+    "time": "2026-05-25T13:33:04"
+   },
+   {
+    "name": "Obsidian note – update compensation spreadsheet",
+    "time": "2026-05-25T19:01:06"
+   },
+   {
+    "name": "Obsidian – quick note on on‑call rotation ending",
+    "time": "2026-05-26T06:14:07"
+   },
+   {
+    "name": "Slack lunch‑hour channel: #compensation discussion",
+    "time": "2026-05-26T12:59:41"
+   },
+   {
+    "name": "Obsidian – draft blog outline on ML infra scaling",
+    "time": "2026-05-26T19:25:43"
+   },
+   {
+    "name": "Obsidian – note: code‑freeze deadline 5 pm",
+    "time": "2026-05-27T05:54:00"
+   },
+   {
+    "name": "Lunch‑time Slack triage, reply to recruiter (Series B) – ask about signing bonus",
+    "time": "2026-05-27T13:11:15"
+   },
+   {
+    "name": "Evening work block – finalize freeze PR, push to master",
+    "time": "2026-05-27T20:28:21"
+   },
+   {
+    "name": "Obsidian – quick spreadsheet update (RSU make‑whole model)",
+    "time": "2026-05-28T06:31:44"
+   },
+   {
+    "name": "Slack lunch‑hour: brief chat with Pree about remote‑first policy at her startup",
+    "time": "2026-05-28T13:15:01"
+   },
+   {
+    "name": "Evening work – review recruiter email (Principal AI‑Safety lab) and draft response",
+    "time": "2026-05-28T20:30:23"
+   },
+   {
+    "name": "Obsidian – outline for blog post on “code‑freeze best practices”",
+    "time": "2026-05-29T06:11:30"
+   },
+   {
+    "name": "Lunch‑time Slack: respond to recruiter (Series B) – request detailed RSU schedule",
+    "time": "2026-05-29T12:47:06"
+   },
+   {
+    "name": "Evening work block – fine‑tune compensation model, attach to email for recruiter",
+    "time": "2026-05-29T20:38:26"
+   },
+   {
+    "name": "Obsidian – note: upcoming video call with parents, mental prep",
+    "time": "2026-05-30T06:13:55"
+   },
+   {
+    "name": "Zoom video call with parents (30 min) – father asks about “title at next company”",
+    "time": "2026-05-30T12:56:55"
+   },
+   {
+    "name": "Evening work – finalize email to Principal AI‑Safety lab with equity model attachment",
+    "time": "2026-05-30T19:15:03"
+   },
+   {
+    "name": "Obsidian – quick TODO list for weekend reading",
+    "time": "2026-05-31T05:55:47"
+   },
+   {
+    "name": "Lunch‑hour Slack: brief chat with Vikram (iMessage) about Anthropic internal openings",
+    "time": "2026-05-31T12:57:50"
+   },
+   {
+    "name": "Evening work – review final compensation proposal from AI‑Safety lab, run spreadsheet sanity check",
+    "time": "2026-05-31T20:05:34"
+   }
+  ],
+  "messages": [
+   {
+    "with": "Teammate (model owner)",
+    "direction": "to",
+    "text": "Metrics look solid: precision up 2.3% vs baseline, recall stable. Deploying to prod at 14:00 – let me know if you spot any drift.",
+    "time": "2026-05-11T08:04:22"
+   },
+   {
+    "with": "Anonymous #promotion thread participants",
+    "direction": "to",
+    "text": "Anyone else feeling the title‑gap after Q1 reviews? Curious how you’re framing the talk with managers.",
+    "time": "2026-05-11T15:23:57"
+   },
+   {
+    "with": "Arjun (partner)",
+    "direction": "to",
+    "text": "Nanny confirmed for 6‑pm pick‑up. Can we push dinner to 8 pm? Need a breather after the call.",
+    "time": "2026-05-12T08:06:35"
+   },
+   {
+    "with": "Colleague (on‑call buddy)",
+    "direction": "to",
+    "text": "On‑call hell again tonight. Got any quick hacks for reducing alert noise without muting the real stuff?",
+    "time": "2026-05-12T14:47:46"
+   },
+   {
+    "with": "Recruiter (LinkedIn)",
+    "direction": "from",
+    "text": "Hi, we have an exciting Principal ML role at a fast‑growing AI infra startup. Let’s chat?",
+    "time": "2026-05-12T22:24:40"
+   },
+   {
+    "with": "Product Manager (feature rollout)",
+    "direction": "to",
+    "text": "Feature X is green on my side. Any last‑minute UX tweaks before the 10 am launch?",
+    "time": "2026-05-13T08:32:57"
+   },
+   {
+    "with": "Anonymous #compensation thread participants",
+    "direction": "to",
+    "text": "Anyone successfully negotiated a make‑whole RSU grant after a down round? Looking for realistic numbers.",
+    "time": "2026-05-13T15:27:26"
+   },
+   {
+    "with": "Nanny",
+    "direction": "to",
+    "text": "Can you stay 30 min later tomorrow? We have a doctor’s appointment that runs over.",
+    "time": "2026-05-14T08:16:32"
+   },
+   {
+    "with": "Vikram (brother)",
+    "direction": "to",
+    "text": "Hey, any AI‑safety labs hiring senior ML folks? I’m weighing options beyond the usual SaaS path.",
+    "time": "2026-05-14T14:28:00"
+   },
+   {
+    "with": "Team channel",
+    "direction": "to",
+    "text": "Model latency down 12% after the new batching logic – great work everyone!",
+    "time": "2026-05-14T17:03:45"
+   },
+   {
+    "with": "Parents (Rajiv & Meera)",
+    "direction": "to",
+    "text": "Welcome to Austin! Quick tour in 5 min, then we can catch up on the kids’ school plans.",
+    "time": "2026-05-15T07:55:16"
+   },
+   {
+    "with": "Priyanka “Pree” Shah",
+    "direction": "to",
+    "text": "Hey Pree, you mentioned a senior ML opening at your startup. Could you share the JD? I’d love to see if it aligns with my recent work on scalable inference pipelines.",
+    "time": "2026-05-15T14:50:43"
+   },
+   {
+    "with": "Arjun (partner)",
+    "direction": "to",
+    "text": "Nanny’s set for tonight. How about a low‑key dinner at home after 9 pm? Need some adult time.",
+    "time": "2026-05-16T08:19:42"
+   },
+   {
+    "with": "Marcus Tan",
+    "direction": "to",
+    "text": "Marcus, any senior ML openings on your fintech side? I’m eyeing roles that value deep systems work and could justify a Principal title.",
+    "time": "2026-05-16T14:49:04"
+   },
+   {
+    "with": "Parents (Rajiv & Meera)",
+    "direction": "to",
+    "text": "Flight lands at 10 am tomorrow. I’ll drop you at the airport; let me know if you need anything before you head back.",
+    "time": "2026-05-17T07:54:08"
+   },
+   {
+    "with": "Vikram (brother)",
+    "direction": "to",
+    "text": "Looking forward to your visit next month. Let’s plan a quick hack‑session on the safety‑aligned model you’ve been tinkering with.",
+    "time": "2026-05-17T14:13:02"
+   },
+   {
+    "with": "Arjun",
+    "direction": "to",
+    "text": "Hey, Anaya’s nap shifted by 30 min today. Can we push my on‑call window to 2‑4 pm so I can cover the hand‑off?",
+    "time": "2026-05-18T13:20:17"
+   },
+   {
+    "with": "Priyanka \"Pree\" Shah",
+    "direction": "to",
+    "text": "Thanks for the lead on the infra role – just pinged the recruiter. I’ll keep you posted if anything moves.",
+    "time": "2026-05-18T22:00:11"
+   },
+   {
+    "with": "ml‑infra channel",
+    "direction": "to",
+    "text": "The latency spike on the feature store was due to the recent schema change; rolling back the hot path should bring it back under 45 ms.",
+    "time": "2026-05-19T12:42:40"
+   },
+   {
+    "with": "Grandma Sushila",
+    "direction": "to",
+    "text": "Grandma, Anaya slept through the 8 pm feed. We’re doing a quick bedtime story now – hope you’re doing well in NJ!",
+    "time": "2026-05-19T19:25:49"
+   },
+   {
+    "with": "Vikram",
+    "direction": "to",
+    "text": "Quick sanity check: does 0.842 AUC on the validation set look reasonable given the class imbalance, or should I re‑weight?",
+    "time": "2026-05-20T13:17:35"
+   },
+   {
+    "with": "Priyanka \"Pree\" Shah",
+    "direction": "to",
+    "text": "Got a comp outline from a recruiter (base $260K, $350K RSU make‑whole over 2 yr). Thought you could eyeball it – any red flags?",
+    "time": "2026-05-20T20:46:45"
+   },
+   {
+    "with": "Obsidian journal",
+    "direction": "self",
+    "text": "Anxiety spike at 22:00 – replayed the promotion denial loop. Ran a 2‑hour model‑debug session; still uneasy about the budget‑politics narrative.",
+    "time": "2026-05-20T22:56:02"
+   },
+   {
+    "with": "Arjun",
+    "direction": "to",
+    "text": "Lunch order: I’ll take the quinoa bowl, you’re on the chicken taco, and I’ll add a side of hummus for Anaya’s later snack.",
+    "time": "2026-05-21T12:34:12"
+   },
+   {
+    "with": "Vikram",
+    "direction": "to",
+    "text": "Recruiter replied with a signing bonus that’s basically a $400K RSU make‑whole. Does that look solid, or am I missing hidden cliffs?",
+    "time": "2026-05-21T22:06:26"
+   },
+   {
+    "with": "parent‑hackers channel",
+    "direction": "to",
+    "text": "Found that a 15‑minute white‑noise playlist at 40 dB helps Anaya settle faster than the usual lullabies. Anyone else tried it?",
+    "time": "2026-05-22T13:00:16"
+   },
+   {
+    "with": "Obsidian journal",
+    "direction": "self",
+    "text": "Evening linger: still replaying the RSU loss scenario. Planning tomorrow’s spreadsheet tweaks – will model cash‑flow with a $400K make‑whole vs. higher base.",
+    "time": "2026-05-22T22:32:55"
+   },
+   {
+    "with": "Arjun",
+    "direction": "to",
+    "text": "Just vented about the promotion thing – can we grab a coffee break at 3 pm? Need a quick reset.",
+    "time": "2026-05-23T12:53:34"
+   },
+   {
+    "with": "Vikram",
+    "direction": "to",
+    "text": "Parents called – they’re pushing the “stay at a big name” narrative again. Do you see any fit for me at Anthropic given the make‑whole offer?",
+    "time": "2026-05-23T20:06:25"
+   },
+   {
+    "with": "Priyanka \"Pree\" Shah",
+    "direction": "to",
+    "text": "Got an AI‑Safety lab offer (Distinguished Engineer, $300K base, 30% equity). Quick take: does the title and mission outweigh the lower cash component?",
+    "time": "2026-05-24T13:07:32"
+   },
+   {
+    "with": "Obsidian journal",
+    "direction": "self",
+    "text": "Week in review: anxiety is dimming, replaced by cautious optimism after Pree’s feedback and the lab offer. Need to run the final spreadsheet tonight.",
+    "time": "2026-05-24T22:08:09"
+   },
+   {
+    "with": "Pree",
+    "direction": "to",
+    "text": "Hey Pree, quick heads‑up: the new model rollout hit the prod gate at 09:45 UTC. No regressions so far, but I’ll ping you if latency spikes.",
+    "time": "2026-05-25T10:19:51"
+   },
+   {
+    "with": "Recruiter (AI‑Safety Lab)",
+    "direction": "to",
+    "text": "Thanks for the note. Could you break down the RSU tranche schedule and any signing‑bonus structure? I need to run the numbers against my current grant.",
+    "time": "2026-05-25T14:00:04"
+   },
+   {
+    "with": "Hiring Manager (Series B AI infra)",
+    "direction": "to",
+    "text": "Appreciate the chat earlier. Just confirming: the role is fully remote‑first, with occasional quarterly on‑site syncs in SF? That would help me plan childcare.",
+    "time": "2026-05-25T20:48:40"
+   },
+   {
+    "with": "Vikram",
+    "direction": "to",
+    "text": "Stand‑up note: trimmed model latency by 12 ms after the latest batch‑norm tweak. Will push the numbers to the team later today.",
+    "time": "2026-05-26T09:59:08"
+   },
+   {
+    "with": "Pree",
+    "direction": "to",
+    "text": "Got the offer sheet you forwarded. Looks solid on the base, but the title still reads Senior Staff. Any wiggle room for a Principal tag?",
+    "time": "2026-05-26T14:34:01"
+   },
+   {
+    "with": "AI‑Safety Lab (public post)",
+    "direction": "to",
+    "text": "Great insights on alignment research, @AI‑Safety‑Lab! Curious how you see the role of “principle‑level” engineers in shaping policy.",
+    "time": "2026-05-26T21:02:07"
+   },
+   {
+    "with": "Team #ml‑infra channel",
+    "direction": "to",
+    "text": "Heads‑up: we’ll hit a code freeze this Friday for the infra upgrade. Please wrap any non‑critical PRs by EOD Thursday.",
+    "time": "2026-05-27T09:55:20"
+   },
+   {
+    "with": "On‑call PagerDuty alert",
+    "direction": "to",
+    "text": "Investigating latency spike – suspect downstream cache miss. Will update once I have metrics.",
+    "time": "2026-05-27T15:36:08"
+   },
+   {
+    "with": "Daniel",
+    "direction": "to",
+    "text": "Late‑night heads‑up: the latency incident is still flaring. Do you think escalating to VP now would burn any bridges?",
+    "time": "2026-05-27T22:53:32"
+   },
+   {
+    "with": "Team stand‑up",
+    "direction": "to",
+    "text": "Freeze is on track; still pending the on‑call ticket for the cache issue. Will sync after the call.",
+    "time": "2026-05-28T10:18:51"
+   },
+   {
+    "with": "PagerDuty / Confluence",
+    "direction": "to",
+    "text": "Latency incident resolved. Drafted post‑mortem—please review and add any missing logs before I close it.",
+    "time": "2026-05-28T14:40:32"
+   },
+   {
+    "with": "Self (Obsidian)",
+    "direction": "to",
+    "text": "Liquidity stress is real; mortgage payments feel heavier each month. Need to lock in a make‑whole grant before the next cycle.",
+    "time": "2026-05-28T23:20:02"
+   },
+   {
+    "with": "Team #ml‑infra channel",
+    "direction": "to",
+    "text": "Freeze completed. All services back online, metrics stable. Tagging leads for final sign‑off.",
+    "time": "2026-05-29T10:26:24"
+   },
+   {
+    "with": "Teammate (Signal)",
+    "direction": "to",
+    "text": "Hand‑off note: I’m ending my on‑call rotation. Ticket #3427 is now owned by Maya; she has the latest logs.",
+    "time": "2026-05-29T15:37:50"
+   },
+   {
+    "with": "Marcus",
+    "direction": "to",
+    "text": "Marcus, could you intro me to the senior hiring manager on the fintech side? I’m weighing a Principal‑level move and would value a quick chat.",
+    "time": "2026-05-29T22:46:31"
+   },
+   {
+    "with": "Team stand‑up",
+    "direction": "to",
+    "text": "Post‑freeze metrics up 8 % on throughput. I have a personal call at 4 pm – will catch up on any blockers afterward.",
+    "time": "2026-05-30T09:57:34"
+   },
+   {
+    "with": "Pree",
+    "direction": "to",
+    "text": "Call went well; they’re open to a Principal title if I can justify the scope. Any new leads on the AI‑safety front?",
+    "time": "2026-05-30T14:10:27"
+   },
+   {
+    "with": "Self (Obsidian)",
+    "direction": "to",
+    "text": "Parental pressure is mounting; the title feels like the only way to silence the internal narrative. Need a concrete offer that validates the work I’ve been doing.",
+    "time": "2026-05-30T22:14:35"
+   },
+   {
+    "with": "Teammate (Signal)",
+    "direction": "to",
+    "text": "Monitoring after the freeze looks clean; no anomalies so far. Let me know if you spot anything odd.",
+    "time": "2026-05-31T10:05:18"
+   },
+   {
+    "with": "Recruiter (Series B)",
+    "direction": "to",
+    "text": "Thanks for the details. I’ll review the RSU schedule tonight and get back to you early next week.",
+    "time": "2026-05-31T14:47:29"
+   },
+   {
+    "with": "Self (Obsidian)",
+    "direction": "to",
+    "text": "Final thoughts before the weekend: I’ll push hard on title and signing‑bonus negotiations. The Principal label is non‑negotiable for my next move.",
+    "time": "2026-05-31T22:40:59"
+   }
+  ],
+  "locations": [
+   {
+    "place": "Home (Austin, TX) – start of drive to office",
+    "lat": 30.30099,
+    "lon": -97.748697,
+    "time": "2026-05-11T09:15:32"
+   },
+   {
+    "place": "Bright Beginnings Daycare, Austin, TX",
+    "lat": 30.285255,
+    "lon": -97.73108,
+    "time": "2026-05-11T17:30:02"
+   },
+   {
+    "place": "Commute on I‑35 South, Austin, TX",
+    "lat": 30.269141,
+    "lon": -97.73996,
+    "time": "2026-05-12T09:42:54"
+   },
+   {
+    "place": "Office – 5550 River Run Blvd, Austin, TX (mid‑cap SaaS campus)",
+    "lat": 30.26639,
+    "lon": -97.743821,
+    "time": "2026-05-13T09:59:58"
+   },
+   {
+    "place": "Bright Beginnings Daycare, Austin, TX",
+    "lat": 30.283446,
+    "lon": -97.730426,
+    "time": "2026-05-13T17:03:05"
+   },
+   {
+    "place": "Commute on Loop 360, Austin, TX",
+    "lat": 30.260322,
+    "lon": -97.718306,
+    "time": "2026-05-14T09:23:57"
+   },
+   {
+    "place": "Home (Austin, TX) – pick‑up and video call with parents",
+    "lat": 30.298647,
+    "lon": -97.751322,
+    "time": "2026-05-14T18:34:16"
+   },
+   {
+    "place": "Home (Austin, TX) – drive to office",
+    "lat": 30.299394,
+    "lon": -97.749157,
+    "time": "2026-05-15T09:12:23"
+   },
+   {
+    "place": "Home (Austin, TX) – pick‑up baby, parents dinner",
+    "lat": 30.300007,
+    "lon": -97.75091,
+    "time": "2026-05-15T18:16:22"
+   },
+   {
+    "place": "Commute on I‑35 North, Austin, TX",
+    "lat": 30.269441,
+    "lon": -97.740887,
+    "time": "2026-05-16T09:25:07"
+   },
+   {
+    "place": "Home (Austin, TX) – family dinner, video call with NJ grandparents",
+    "lat": 30.299203,
+    "lon": -97.749535,
+    "time": "2026-05-16T18:33:59"
+   },
+   {
+    "place": "Office – 5550 River Run Blvd, Austin, TX",
+    "lat": 30.26572,
+    "lon": -97.743204,
+    "time": "2026-05-17T09:29:20"
+   },
+   {
+    "place": "Home (Austin, TX) – pick‑up baby, video call with partner (Pree)",
+    "lat": 30.30095,
+    "lon": -97.750657,
+    "time": "2026-05-17T19:24:30"
+   },
+   {
+    "place": "Home – 5110 San Antonio St, Austin, TX (Austin Tech Corridor)",
+    "lat": 30.25576,
+    "lon": -97.73916,
+    "time": "2026-05-18T18:16:16"
+   },
+   {
+    "place": "Anaya's Daycare – Little Sprouts Early Learning, 6200 Burnet Rd, Austin, TX",
+    "lat": 30.293498,
+    "lon": -97.736919,
+    "time": "2026-05-19T17:27:40"
+   },
+   {
+    "place": "Home – 5110 San Antonio St, Austin, TX",
+    "lat": 30.253929,
+    "lon": -97.740915,
+    "time": "2026-05-20T18:46:40"
+   },
+   {
+    "place": "Zilker Metropolitan Park – 2100 Barton Springs Rd, Austin, TX (quick walk)",
+    "lat": 30.266594,
+    "lon": -97.772659,
+    "time": "2026-05-21T17:15:40"
+   },
+   {
+    "place": "Anaya's Daycare – Little Sprouts Early Learning, 6200 Burnet Rd, Austin, TX",
+    "lat": 30.292073,
+    "lon": -97.735896,
+    "time": "2026-05-22T17:15:07"
+   },
+   {
+    "place": "Whole Foods Market – 4001 Burnet Rd, Austin, TX (grocery run)",
+    "lat": 30.298777,
+    "lon": -97.732507,
+    "time": "2026-05-23T17:04:43"
+   },
+   {
+    "place": "Anaya's Daycare – Little Sprouts Early Learning, 6200 Burnet Rd, Austin, TX",
+    "lat": 30.291869,
+    "lon": -97.736219,
+    "time": "2026-05-24T17:35:16"
+   },
+   {
+    "place": "Home – Austin, TX (suburban neighborhood near Mueller)",
+    "lat": 30.333472,
+    "lon": -97.733463,
+    "time": "2026-05-25T07:46:31"
+   },
+   {
+    "place": "Zilker Metropolitan Park – walking path",
+    "lat": 30.267415,
+    "lon": -97.773623,
+    "time": "2026-05-25T17:02:40"
+   },
+   {
+    "place": "Home – Austin, TX (nursery area)",
+    "lat": 30.33148,
+    "lon": -97.735372,
+    "time": "2026-05-26T07:32:51"
+   },
+   {
+    "place": "Austin Kids Academy – Daycare drop‑off (North Loop)",
+    "lat": 30.284826,
+    "lon": -97.758096,
+    "time": "2026-05-26T16:55:39"
+   },
+   {
+    "place": "Home – Austin, TX (home office)",
+    "lat": 30.331066,
+    "lon": -97.735487,
+    "time": "2026-05-27T07:19:06"
+   },
+   {
+    "place": "Home – Austin, TX (living room, short nap)",
+    "lat": 30.332695,
+    "lon": -97.734122,
+    "time": "2026-05-27T17:02:31"
+   },
+   {
+    "place": "Houndstooth Coffee – South Congress",
+    "lat": 30.250462,
+    "lon": -97.751417,
+    "time": "2026-05-28T07:50:26"
+   },
+   {
+    "place": "Austin Kids Academy – Daycare pickup (North Loop)",
+    "lat": 30.284623,
+    "lon": -97.756929,
+    "time": "2026-05-28T16:45:54"
+   },
+   {
+    "place": "Home – Austin, TX (kitchen table)",
+    "lat": 30.332173,
+    "lon": -97.736774,
+    "time": "2026-05-29T07:19:22"
+   },
+   {
+    "place": "Home – Austin, TX (guest bedroom, power‑nap)",
+    "lat": 30.331595,
+    "lon": -97.735571,
+    "time": "2026-05-29T17:08:41"
+   },
+   {
+    "place": "Home – Austin, TX (home office, Slack check)",
+    "lat": 30.331804,
+    "lon": -97.73471,
+    "time": "2026-05-30T07:29:53"
+   },
+   {
+    "place": "Austin Kids Academy – Daycare pickup (North Loop)",
+    "lat": 30.284164,
+    "lon": -97.757606,
+    "time": "2026-05-30T16:24:45"
+   },
+   {
+    "place": "Home – Austin, TX (living room)",
+    "lat": 30.332763,
+    "lon": -97.736226,
+    "time": "2026-05-31T07:29:21"
+   },
+   {
+    "place": "Austin Kids Academy – Daycare pickup (North Loop)",
+    "lat": 30.285974,
+    "lon": -97.758143,
+    "time": "2026-05-31T16:54:04"
+   }
+  ],
+  "calendar": [
+   {
+    "summary": "Team stand‑up (video) – discusses on‑call schedule",
+    "time": "2026-05-11T10:17:36"
+   },
+   {
+    "summary": "On‑call debrief meeting (unexpected alert at 10:15 pm previous night)",
+    "time": "2026-05-12T10:45:10"
+   },
+   {
+    "summary": "Architecture review meeting",
+    "time": "2026-05-13T11:30:06"
+   },
+   {
+    "summary": "Sprint planning (remote)",
+    "time": "2026-05-14T09:57:04"
+   },
+   {
+    "summary": "Team sync (short, 15 min) – notes shared in Notion",
+    "time": "2026-05-15T10:11:11"
+   },
+   {
+    "summary": "One‑on‑one with manager (performance feedback)",
+    "time": "2026-05-16T10:20:14"
+   },
+   {
+    "summary": "Sprint retro (remote) – notes uploaded to Confluence",
+    "time": "2026-05-17T10:08:42"
+   },
+   {
+    "summary": "Commute – Listen to Latent Space podcast episode 212",
+    "time": "2026-05-25T09:41:19"
+   },
+   {
+    "summary": "Drive to office – The Logan Bartlett Show",
+    "time": "2026-05-26T09:33:01"
+   },
+   {
+    "summary": "Commute – Listen to Latent Space ep 119 (ML Ops focus)",
+    "time": "2026-05-27T09:38:30"
+   },
+   {
+    "summary": "Drive – The Logan Bartlett Show (episode on remote teams)",
+    "time": "2026-05-28T09:18:52"
+   },
+   {
+    "summary": "Commute – Stratechery audio (episode on talent markets)",
+    "time": "2026-05-29T09:46:27"
+   },
+   {
+    "summary": "Drive – Latent Space episode on equity‑heavy startups",
+    "time": "2026-05-30T09:37:12"
+   },
+   {
+    "summary": "Commute – The Logan Bartlett Show (episode on equity structures)",
+    "time": "2026-05-31T09:05:33"
+   }
+  ],
+  "searches": [
+   {
+    "query": "new transformer paper hn",
+    "time": "2026-05-11T12:41:43"
+   },
+   {
+    "query": "senior staff vs principal comp levelsfy",
+    "time": "2026-05-11T23:13:17"
+   },
+   {
+    "query": "mortgage refinance rates 2026 texas",
+    "time": "2026-05-12T13:29:03"
+   },
+   {
+    "query": "senior staff signing bonus calc",
+    "time": "2026-05-12T21:00:41"
+   },
+   {
+    "query": "efficient transformer inference arxiv sanity",
+    "time": "2026-05-13T13:02:20"
+   },
+   {
+    "query": "remote ai safety senior roles",
+    "time": "2026-05-13T22:22:04"
+   },
+   {
+    "query": "texas 2026 childcare tax credit",
+    "time": "2026-05-14T12:31:51"
+   },
+   {
+    "query": "best baby sleep schedule 9 month",
+    "time": "2026-05-15T12:00:00"
+   },
+   {
+    "query": "remote senior ml principal title jobs",
+    "time": "2026-05-15T22:02:12"
+   },
+   {
+    "query": "texas refinance mortgage calculator 2026",
+    "time": "2026-05-16T11:41:10"
+   },
+   {
+    "query": "signing bonus tax rsu make whole",
+    "time": "2026-05-16T22:26:41"
+   },
+   {
+    "query": "austin childcare providers 2026 reviews",
+    "time": "2026-05-17T12:04:00"
+   },
+   {
+    "query": "remote principal ml engineer salary 2026",
+    "time": "2026-05-17T22:24:04"
+   },
+   {
+    "query": "principal ml engineer salary texas",
+    "time": "2026-05-18T14:50:04"
+   },
+   {
+    "query": "signing bonus tax implications",
+    "time": "2026-05-19T13:26:26"
+   },
+   {
+    "query": "principal engineer equity make whole examples",
+    "time": "2026-05-20T12:26:06"
+   },
+   {
+    "query": "principal ml engineer interview questions",
+    "time": "2026-05-21T12:53:30"
+   },
+   {
+    "query": "principal title equity make whole negotiation script",
+    "time": "2026-05-22T12:20:45"
+   },
+   {
+    "query": "remote principal ml role bay area salary 2026",
+    "time": "2026-05-23T13:21:21"
+   },
+   {
+    "query": "principal engineer signing bonus tax 2026 texas",
+    "time": "2026-05-24T11:48:34"
+   },
+   {
+    "query": "principal ai safety eng salary",
+    "time": "2026-05-25T12:46:07"
+   },
+   {
+    "query": "remote principal ml eng roles",
+    "time": "2026-05-26T11:53:56"
+   },
+   {
+    "query": "signing bonus struct for senior staff",
+    "time": "2026-05-27T12:35:11"
+   },
+   {
+    "query": "principal title equity comp comparison",
+    "time": "2026-05-28T11:42:36"
+   },
+   {
+    "query": "signing bonus tax imp for rsu make whole",
+    "time": "2026-05-29T12:15:07"
+   },
+   {
+    "query": "principal ml eng remote‑first co",
+    "time": "2026-05-30T13:15:56"
+   },
+   {
+    "query": "principal ai safety lab remote salary 2026",
+    "time": "2026-05-31T11:37:55"
+   }
+  ],
+  "videos": [
+   {
+    "title": "Scaling Deep Learning Infrastructure: Lessons from Real‑World Production",
+    "channel": "Two Minute Papers + DeepLearning.ai",
+    "time": "2026-05-23T11:57:38"
+   }
+  ]
+ },
+ "_meta": {
+  "total_days": 30,
+  "n_events": 205
+ }
+}

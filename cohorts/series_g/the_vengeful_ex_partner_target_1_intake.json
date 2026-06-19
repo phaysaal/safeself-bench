@@ -1,0 +1,1300 @@
+{
+ "persona_id": "?:1",
+ "persona_slug": "The Vengeful Ex-Partner",
+ "intake_version": "synth-activity-v2-chunked",
+ "samples": {
+  "media": [
+   {
+    "name": "Weather",
+    "time": "2026-05-04T06:24:51"
+   },
+   {
+    "name": "NYT Games",
+    "time": "2026-05-04T13:03:02"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-05T00:01:12"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-05T21:36:53"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-06T03:27:17"
+   },
+   {
+    "name": "Google Drive",
+    "time": "2026-05-06T13:39:35"
+   },
+   {
+    "name": "SimplePractice",
+    "time": "2026-05-07T07:06:13"
+   },
+   {
+    "name": "Substack",
+    "time": "2026-05-07T12:45:07"
+   },
+   {
+    "name": "OurFamilyWizard",
+    "time": "2026-05-07T22:27:48"
+   },
+   {
+    "name": "MyChart",
+    "time": "2026-05-08T09:02:45"
+   },
+   {
+    "name": "MyChart",
+    "time": "2026-05-08T15:34:43"
+   },
+   {
+    "name": "OurFamilyWizard",
+    "time": "2026-05-08T22:29:57"
+   },
+   {
+    "name": "Instacart",
+    "time": "2026-05-09T10:12:04"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-09T21:36:22"
+   },
+   {
+    "name": "Weather",
+    "time": "2026-05-10T08:01:10"
+   },
+   {
+    "name": "Google Drive",
+    "time": "2026-05-10T12:17:54"
+   },
+   {
+    "name": "OurFamilyWizard",
+    "time": "2026-05-10T23:10:16"
+   },
+   {
+    "name": "OurFamilyWizard",
+    "time": "2026-05-11T02:54:34"
+   },
+   {
+    "name": "Google Drive",
+    "time": "2026-05-11T18:25:28"
+   },
+   {
+    "name": "OurFamilyWizard",
+    "time": "2026-05-12T02:59:40"
+   },
+   {
+    "name": "Mortgage portal",
+    "time": "2026-05-12T13:13:27"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-13T03:21:22"
+   },
+   {
+    "name": "NYT Games",
+    "time": "2026-05-13T13:01:29"
+   },
+   {
+    "name": "School app",
+    "time": "2026-05-14T07:05:50"
+   },
+   {
+    "name": "Clio",
+    "time": "2026-05-14T15:17:05"
+   },
+   {
+    "name": "Instacart",
+    "time": "2026-05-14T17:49:15"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-14T23:01:10"
+   },
+   {
+    "name": "OurFamilyWizard",
+    "time": "2026-05-15T08:18:06"
+   },
+   {
+    "name": "iCloud Settings",
+    "time": "2026-05-15T11:34:49"
+   },
+   {
+    "name": "Google Drive",
+    "time": "2026-05-15T13:19:41"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-16T03:26:02"
+   },
+   {
+    "name": "Google Drive",
+    "time": "2026-05-16T11:07:03"
+   },
+   {
+    "name": "OurFamilyWizard",
+    "time": "2026-05-16T20:47:05"
+   },
+   {
+    "name": "Weather",
+    "time": "2026-05-17T06:42:05"
+   },
+   {
+    "name": "Google Drive",
+    "time": "2026-05-17T13:09:02"
+   },
+   {
+    "name": "OurFamilyWizard",
+    "time": "2026-05-17T23:01:15"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-18T06:19:17"
+   },
+   {
+    "name": "Google Drive",
+    "time": "2026-05-18T15:27:18"
+   },
+   {
+    "name": "OurFamilyWizard",
+    "time": "2026-05-19T03:28:29"
+   },
+   {
+    "name": "Clio",
+    "time": "2026-05-20T06:57:46"
+   },
+   {
+    "name": "Google Drive",
+    "time": "2026-05-20T11:33:11"
+   },
+   {
+    "name": "Weather",
+    "time": "2026-05-21T06:31:43"
+   },
+   {
+    "name": "Credit Union",
+    "time": "2026-05-21T20:14:16"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-21T23:05:13"
+   },
+   {
+    "name": "SimplePractice",
+    "time": "2026-05-22T12:50:16"
+   },
+   {
+    "name": "Instacart",
+    "time": "2026-05-22T16:29:14"
+   },
+   {
+    "name": "Google Drive",
+    "time": "2026-05-23T11:54:06"
+   },
+   {
+    "name": "Credit Union",
+    "time": "2026-05-23T15:05:29"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-23T23:42:53"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-24T07:38:16"
+   },
+   {
+    "name": "Calendar",
+    "time": "2026-05-24T13:55:27"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-25T06:17:47"
+   },
+   {
+    "name": "OurFamilyWizard",
+    "time": "2026-05-26T03:01:33"
+   },
+   {
+    "name": "Credit Union Portal",
+    "time": "2026-05-26T12:45:01"
+   },
+   {
+    "name": "Credit Union Portal",
+    "time": "2026-05-27T08:16:32"
+   },
+   {
+    "name": "Credit Union Portal",
+    "time": "2026-05-27T11:37:09"
+   },
+   {
+    "name": "Google Sheets",
+    "time": "2026-05-27T23:44:31"
+   },
+   {
+    "name": "Weather",
+    "time": "2026-05-28T07:06:39"
+   },
+   {
+    "name": "Instacart",
+    "time": "2026-05-28T19:44:55"
+   },
+   {
+    "name": "OurFamilyWizard",
+    "time": "2026-05-29T07:02:16"
+   },
+   {
+    "name": "Photos",
+    "time": "2026-05-29T18:30:09"
+   },
+   {
+    "name": "iCloud Settings",
+    "time": "2026-05-30T00:02:32"
+   },
+   {
+    "name": "Apple Fitness",
+    "time": "2026-05-30T09:57:12"
+   },
+   {
+    "name": "Apple ID Settings",
+    "time": "2026-05-30T13:07:16"
+   },
+   {
+    "name": "OurFamilyWizard",
+    "time": "2026-05-30T22:21:25"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-31T08:11:17"
+   },
+   {
+    "name": "Clio",
+    "time": "2026-05-31T12:40:23"
+   },
+   {
+    "name": "Zillow",
+    "time": "2026-05-31T22:51:21"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-06-01T03:01:10"
+   },
+   {
+    "name": "Bank portal",
+    "time": "2026-06-01T12:35:09"
+   },
+   {
+    "name": "Google Drive",
+    "time": "2026-06-02T03:12:13"
+   },
+   {
+    "name": "Google Drive",
+    "time": "2026-06-02T12:31:21"
+   },
+   {
+    "name": "Google Account",
+    "time": "2026-06-02T20:33:06"
+   }
+  ],
+  "locations": [
+   {
+    "place": "Champlain Elementary / North Ave Montessori drop-off loop, Burlington, VT",
+    "lat": 44.468956,
+    "lon": -73.222595,
+    "time": "2026-05-04T07:35:25"
+   },
+   {
+    "place": "City Market Onion River Co-op, Downtown Burlington, VT",
+    "lat": 44.478736,
+    "lon": -73.21249,
+    "time": "2026-05-04T17:28:28"
+   },
+   {
+    "place": "Pingala Cafe, Winooski, VT",
+    "lat": 44.490249,
+    "lon": -73.185808,
+    "time": "2026-05-05T18:17:39"
+   },
+   {
+    "place": "Hot Yoga Burlington, South Burlington, VT",
+    "lat": 44.4542,
+    "lon": -73.180751,
+    "time": "2026-05-06T07:02:07"
+   },
+   {
+    "place": "Champlain Elementary School front office, Burlington, VT",
+    "lat": 44.45928,
+    "lon": -73.213788,
+    "time": "2026-05-06T14:27:00"
+   },
+   {
+    "place": "Private practice office on Pine Street, Burlington, VT",
+    "lat": 44.466467,
+    "lon": -73.213323,
+    "time": "2026-05-07T08:52:41"
+   },
+   {
+    "place": "Burlington Waterfront Park / Island Line Trail, Burlington, VT",
+    "lat": 44.480305,
+    "lon": -73.219455,
+    "time": "2026-05-07T18:15:53"
+   },
+   {
+    "place": "Champlain Elementary / North Ave Montessori drop-off loop, Burlington, VT",
+    "lat": 44.468254,
+    "lon": -73.221329,
+    "time": "2026-05-08T07:29:27"
+   },
+   {
+    "place": "Timber Lane Pediatrics, South Burlington, VT",
+    "lat": 44.455747,
+    "lon": -73.184375,
+    "time": "2026-05-08T13:52:26"
+   },
+   {
+    "place": "CVS Pharmacy, Shelburne Road, South Burlington, VT",
+    "lat": 44.445608,
+    "lon": -73.207548,
+    "time": "2026-05-08T18:16:23"
+   },
+   {
+    "place": "David's house curbside handoff, Burlington New North End, VT",
+    "lat": 44.505427,
+    "lon": -73.248601,
+    "time": "2026-05-09T18:22:05"
+   },
+   {
+    "place": "Burlington Bike Path near North Beach, Burlington, VT",
+    "lat": 44.492028,
+    "lon": -73.230808,
+    "time": "2026-05-10T09:01:49"
+   },
+   {
+    "place": "Rachel's house, Shelburne village area, Shelburne, VT",
+    "lat": 44.380737,
+    "lon": -73.22864,
+    "time": "2026-05-10T17:36:43"
+   },
+   {
+    "place": "Pine Street office, Burlington, VT",
+    "lat": 44.469042,
+    "lon": -73.214233,
+    "time": "2026-05-11T08:51:12"
+   },
+   {
+    "place": "Sangha Studio - Pine Street, Burlington, VT",
+    "lat": 44.466896,
+    "lon": -73.216743,
+    "time": "2026-05-12T08:11:15"
+   },
+   {
+    "place": "Pine Street office, Burlington, VT",
+    "lat": 44.467014,
+    "lon": -73.214403,
+    "time": "2026-05-13T08:52:25"
+   },
+   {
+    "place": "City Market Onion River Co-op, South End, Burlington, VT",
+    "lat": 44.456403,
+    "lon": -73.213401,
+    "time": "2026-05-13T18:36:35"
+   },
+   {
+    "place": "Pine Street office, Burlington, VT",
+    "lat": 44.467487,
+    "lon": -73.213463,
+    "time": "2026-05-14T09:53:39"
+   },
+   {
+    "place": "Champlain Elementary School drop-off area, Burlington, VT",
+    "lat": 44.458957,
+    "lon": -73.212298,
+    "time": "2026-05-14T17:19:51"
+   },
+   {
+    "place": "Burlington Greenway near Perkins Pier, Burlington, VT",
+    "lat": 44.472373,
+    "lon": -73.221793,
+    "time": "2026-05-15T08:40:47"
+   },
+   {
+    "place": "Nomad Coffee - South End Station, Burlington, VT",
+    "lat": 44.456692,
+    "lon": -73.213036,
+    "time": "2026-05-16T12:05:03"
+   },
+   {
+    "place": "Champlain Elementary School drop-off loop, Burlington, VT",
+    "lat": 44.460834,
+    "lon": -73.214169,
+    "time": "2026-05-17T08:17:20"
+   },
+   {
+    "place": "Champlain Elementary School drop-off loop, Burlington, VT",
+    "lat": 44.460348,
+    "lon": -73.214308,
+    "time": "2026-05-18T08:23:45"
+   },
+   {
+    "place": "Pine Street private-practice office, Burlington, VT",
+    "lat": 44.466863,
+    "lon": -73.215341,
+    "time": "2026-05-19T18:30:12"
+   },
+   {
+    "place": "Sangha Studio, Pine Street, Burlington, VT",
+    "lat": 44.473787,
+    "lon": -73.21527,
+    "time": "2026-05-20T07:33:57"
+   },
+   {
+    "place": "Champlain Elementary School pickup loop, Burlington, VT",
+    "lat": 44.459493,
+    "lon": -73.213805,
+    "time": "2026-05-20T14:37:12"
+   },
+   {
+    "place": "Pine Street private-practice office, Burlington, VT",
+    "lat": 44.466763,
+    "lon": -73.213752,
+    "time": "2026-05-21T08:38:24"
+   },
+   {
+    "place": "The UPS Store, Dorset Street, South Burlington, VT",
+    "lat": 44.466342,
+    "lon": -73.178654,
+    "time": "2026-05-22T15:14:44"
+   },
+   {
+    "place": "Burlington Greenway near Waterfront Park, Burlington, VT",
+    "lat": 44.475401,
+    "lon": -73.221709,
+    "time": "2026-05-23T08:29:09"
+   },
+   {
+    "place": "Kestrel Coffee Roasters, Maple Street, Burlington, VT",
+    "lat": 44.474403,
+    "lon": -73.215095,
+    "time": "2026-05-24T12:06:59"
+   },
+   {
+    "place": "Pine Street private practice office, South End Burlington",
+    "lat": 44.46083,
+    "lon": -73.21388,
+    "time": "2026-05-25T08:21:03"
+   },
+   {
+    "place": "City Market South End, Burlington",
+    "lat": 44.456827,
+    "lon": -73.215766,
+    "time": "2026-05-26T18:22:19"
+   },
+   {
+    "place": "Fletcher Free Library, Burlington",
+    "lat": 44.474749,
+    "lon": -73.211284,
+    "time": "2026-05-27T15:06:43"
+   },
+   {
+    "place": "Pine Street private practice office, South End Burlington",
+    "lat": 44.460386,
+    "lon": -73.21326,
+    "time": "2026-05-28T08:39:37"
+   },
+   {
+    "place": "Home area near Five Sisters neighborhood, Burlington",
+    "lat": 44.461969,
+    "lon": -73.203516,
+    "time": "2026-05-28T17:54:25"
+   },
+   {
+    "place": "Pine Street private practice office, South End Burlington",
+    "lat": 44.45925,
+    "lon": -73.213056,
+    "time": "2026-05-29T09:11:18"
+   },
+   {
+    "place": "Neutral custody handoff near Edmunds Elementary School, Burlington",
+    "lat": 44.471798,
+    "lon": -73.208617,
+    "time": "2026-05-29T17:16:31"
+   },
+   {
+    "place": "Burlington Greenway near Waterfront Park",
+    "lat": 44.478384,
+    "lon": -73.221053,
+    "time": "2026-05-30T08:19:39"
+   },
+   {
+    "place": "Muddy Waters cafe, downtown Burlington",
+    "lat": 44.476246,
+    "lon": -73.214195,
+    "time": "2026-05-31T12:14:51"
+   },
+   {
+    "place": "Private therapy office, Pine Street, Burlington, VT",
+    "lat": 44.469566,
+    "lon": -73.21433,
+    "time": "2026-06-01T09:50:26"
+   },
+   {
+    "place": "Private therapy office, Pine Street, Burlington, VT",
+    "lat": 44.468425,
+    "lon": -73.215336,
+    "time": "2026-06-02T14:23:15"
+   }
+  ],
+  "messages": [
+   {
+    "with": "Jennifer Yao, Esq.",
+    "direction": "to",
+    "text": "OFW ping came in while I was parking at the office. It reads procedural on the surface, but my body is treating it like a custody flare. I’m not responding before clients.",
+    "time": "2026-05-04T08:59:37"
+   },
+   {
+    "with": "Rachel Hines-Park",
+    "direction": "to",
+    "text": "David sent another very calm, very procedural custody note, which somehow makes me feel more braced. I’m trying not to read tone into every comma and failing.",
+    "time": "2026-05-04T15:37:11"
+   },
+   {
+    "with": "Rachel Hines-Park",
+    "direction": "to",
+    "text": "Barely slept. I know this sounds paranoid, but I keep feeling like he still has eyes on everything. I’m so tired of living like a case file.",
+    "time": "2026-05-05T06:44:54"
+   },
+   {
+    "with": "Jennifer Yao, Esq.",
+    "direction": "to",
+    "text": "He just referenced “past stability concerns” in OFW, minutes before my first client. I’m not going to engage with the bait, but I need guidance on whether this needs a formal response.",
+    "time": "2026-05-05T08:57:36"
+   },
+   {
+    "with": "Jennifer Yao, Esq.",
+    "direction": "to",
+    "text": "Uploading the screenshot summary now. Can you tell me whether silence is safer here, or whether we should answer narrowly so it doesn’t look like avoidance?",
+    "time": "2026-05-05T12:28:06"
+   },
+   {
+    "with": "Rachel Hines-Park",
+    "direction": "to",
+    "text": "I drafted a whole OFW reply and then had the rare good sense not to send it. It’s living in Notes until my prefrontal cortex returns.",
+    "time": "2026-05-06T00:01:35"
+   },
+   {
+    "with": "Jennifer Yao, Esq.",
+    "direction": "to",
+    "text": "On our call, I’d like help documenting this without sounding defensive. I want the record to show I’m child-focused, not reactive to his insinuations.",
+    "time": "2026-05-06T11:00:27"
+   },
+   {
+    "with": "Jennifer Yao, Esq.",
+    "direction": "to",
+    "text": "Sent the OFW response. Kept it to school logistics and the schedule, no commentary. It felt cold, but probably appropriately cold.",
+    "time": "2026-05-06T16:30:30"
+   },
+   {
+    "with": "Rachel Hines-Park",
+    "direction": "from",
+    "text": "Call me when the kids are asleep. You don’t have to be elegant about any of this with me. Just dump it out and we’ll sort the pieces.",
+    "time": "2026-05-06T21:51:06"
+   },
+   {
+    "with": "Maren Okafor-Bell",
+    "direction": "to",
+    "text": "Can we walk after work instead of texting about custody? I don’t want more of my panic preserved in writing for the litigation gods.",
+    "time": "2026-05-07T12:59:10"
+   },
+   {
+    "with": "Rachel Hines-Park",
+    "direction": "to",
+    "text": "School nurse says Eli has a sore throat and may need pickup later. I’m already anticipating David turning this into a competence referendum, which is absurd and also exactly where my brain goes.",
+    "time": "2026-05-08T06:44:04"
+   },
+   {
+    "with": "Maren Okafor-Bell",
+    "direction": "to",
+    "text": "Heads up, I may need to move afternoon admin if the school calls about Eli. Nothing dramatic, just parenting logistics wearing a tiny legal hat.",
+    "time": "2026-05-08T12:15:31"
+   },
+   {
+    "with": "Jennifer Yao, Esq.",
+    "direction": "to",
+    "text": "I sent David a brief OFW update: fever, pediatrician guidance, proposed handoff adjustment. No extra explanation. Please tell me if I accidentally sounded like a deposition exhibit.",
+    "time": "2026-05-08T16:54:56"
+   },
+   {
+    "with": "Rachel Hines-Park",
+    "direction": "to",
+    "text": "Thermometer photo attached. I am too tired to parse whether David’s tone is normal-co-parent or setting-a-trap co-parent. Please calibrate me.",
+    "time": "2026-05-09T07:26:10"
+   },
+   {
+    "with": "Jennifer Yao, Esq.",
+    "direction": "to",
+    "text": "Responded in OFW with medication timing and the pediatrician’s instructions only. I left out my feelings, which are plentiful and currently unhelpful.",
+    "time": "2026-05-09T11:43:13"
+   },
+   {
+    "with": "Maren Okafor-Bell",
+    "direction": "to",
+    "text": "At this point I need a paralegal, a bookkeeper, and a nervous system. Ideally all bundled into one mensch with childcare experience.",
+    "time": "2026-05-10T13:25:29"
+   },
+   {
+    "with": "Rachel Hines-Park",
+    "direction": "to",
+    "text": "Just FaceTimed the kids. Eli sounds better, thank God. I kept it light, but I wanted to cry after because I miss the ordinary version of us.",
+    "time": "2026-05-10T19:56:13"
+   },
+   {
+    "with": "Rachel Hines-Park",
+    "direction": "outgoing",
+    "text": "Sent you a voice memo because if I type it I’ll turn it into a deposition. Trying very hard to answer OFW like a regulated adult and not write six paragraphs proving I’m a good mother.",
+    "time": "2026-05-11T08:55:28"
+   },
+   {
+    "with": "Jennifer Yao, Esq.",
+    "direction": "outgoing",
+    "text": "Eli fever timeline: Sunday 6:40pm 100.8, Tylenol, slept through; Monday 7:15am 99.1, kept home per school guidance; pickup window issue was David arriving 18 min after stated time. I can send screenshots if useful.",
+    "time": "2026-05-11T12:47:56"
+   },
+   {
+    "with": "David Goldberg-Hines",
+    "direction": "outgoing_draft_unsent",
+    "text": "I am concerned that framing a missed handoff window as instability ignores the actual medical context and Eli’s needs. I want us to keep the children’s routine predictable without turning every sick day into a custody exhibit.",
+    "time": "2026-05-11T21:47:33"
+   },
+   {
+    "with": "Jennifer Yao, Esq.",
+    "direction": "outgoing",
+    "text": "Proposed OFW reply for your eyes before I send: 'Eli was home due to fever consistent with school policy. I will provide documentation as available. I intend to follow the regular schedule unless we both agree otherwise in writing.' Too much?",
+    "time": "2026-05-12T10:51:48"
+   },
+   {
+    "with": "David Goldberg-Hines",
+    "direction": "outgoing",
+    "text": "Eli was home due to fever consistent with school policy. I will provide documentation as available. I intend to follow the regular schedule unless we both agree otherwise in writing.",
+    "time": "2026-05-12T14:56:20"
+   },
+   {
+    "with": "Maren Okafor-Bell",
+    "direction": "outgoing",
+    "text": "Embarrassed by how much one OFW message can hijack my whole nervous system. I can literally feel my jaw lock before I even finish reading it. Therapist brain knows what’s happening; body is not interested in the memo.",
+    "time": "2026-05-13T08:39:15"
+   },
+   {
+    "with": "Rachel Hines-Park",
+    "direction": "outgoing",
+    "text": "OFW stayed quiet today. I’m trying to let that count as a win instead of scanning for the next thing. Extremely advanced wellness content over here.",
+    "time": "2026-05-13T21:02:25"
+   },
+   {
+    "with": "Eli's Teacher",
+    "direction": "outgoing",
+    "text": "Hi, Eli is back to baseline this morning and should be able to participate normally. Could you let me know if there was a worksheet or packet he should complete from yesterday? Thanks so much.",
+    "time": "2026-05-14T08:29:06"
+   },
+   {
+    "with": "Maren Okafor-Bell",
+    "direction": "outgoing",
+    "text": "I’m going to bail on coffee, I’m sorry. I have absolutely no social bandwidth and I’d rather be honest than sit there performing okay-ness at you.",
+    "time": "2026-05-14T12:50:59"
+   },
+   {
+    "with": "Rachel Hines-Park",
+    "direction": "outgoing",
+    "text": "Sending screenshots. Do you remember who was paying for iCloud storage before everything split? I hate that I can’t tell what’s mine, what’s the family plan, and what David can still see.",
+    "time": "2026-05-15T14:43:07"
+   },
+   {
+    "with": "Self",
+    "direction": "private_note",
+    "text": "Do not do legal docs after wine. Do not reread old drafts. Do not search Adam’s name, Chatham, or anything from 2022 just because you feel exposed. Sleep first, decide tomorrow.",
+    "time": "2026-05-15T23:15:43"
+   },
+   {
+    "with": "Rachel Hines-Park",
+    "direction": "outgoing",
+    "text": "This account cleanup is making me feel so foolish. Like every shared folder is a little receipt for how much I trusted him to be decent. I know that’s not the whole story, but today it feels like it.",
+    "time": "2026-05-16T09:44:18"
+   },
+   {
+    "with": "Maren Okafor-Bell",
+    "direction": "outgoing",
+    "text": "I’m spiraling about the house. The refinance, the kids’ rooms, whether keeping them in the Victorian is actually stability or just me clinging to the last intact-looking thing.",
+    "time": "2026-05-16T17:12:34"
+   },
+   {
+    "with": "David Goldberg-Hines",
+    "direction": "outgoing",
+    "text": "For Monday: Maya’s blue backpack and Eli’s medication will be by the front door. Pickup remains 7:45 unless you propose a different time through OFW by noon today.",
+    "time": "2026-05-17T07:12:28"
+   },
+   {
+    "with": "Credit Union Loan Officer",
+    "direction": "outgoing",
+    "text": "Hi, I’m checking in on the refinance file. Could you confirm which documents are still outstanding on my end? I want to make sure I’m not holding up review.",
+    "time": "2026-05-17T09:59:31"
+   },
+   {
+    "with": "Rachel Hines-Park",
+    "direction": "outgoing",
+    "text": "Made the calls I was avoiding. Credit union, insurance, dentist. I’m still cooked, but less feral. Please remind me later that avoidance was louder than the actual tasks.",
+    "time": "2026-05-17T16:29:20"
+   },
+   {
+    "with": "Rachel Hines-Park",
+    "direction": "to",
+    "text": "Slept like absolute garbage, but I’m keeping today boring and procedural. No extra words for David, no spiraling in writing. Please remind me I said that if I start drafting a novella.",
+    "time": "2026-05-18T07:16:37"
+   },
+   {
+    "with": "David Goldberg-Hines",
+    "direction": "to",
+    "text": "Confirmed. I will have Maya and Eli ready for pickup at 5:30. Eli’s inhaler and the school forms will be in his backpack.",
+    "time": "2026-05-18T17:58:21"
+   },
+   {
+    "with": "David Goldberg-Hines",
+    "direction": "from",
+    "text": "I still do not have complete medical documentation for Eli. Please send everything today so there is no confusion about what you are withholding or forgetting.",
+    "time": "2026-05-19T08:57:04"
+   },
+   {
+    "with": "Maren Okafor-Bell",
+    "direction": "to",
+    "text": "Voice note: I can’t tell if this is actually about medical paperwork or if he’s laying down little custody breadcrumbs. I need another nervous system to read the room before I answer.",
+    "time": "2026-05-19T12:48:10"
+   },
+   {
+    "with": "David Goldberg-Hines",
+    "direction": "to",
+    "text": "Attached is Eli’s illness summary from this week, including symptoms, medication times, and the nurse call. I will provide any additional school documentation when available.",
+    "time": "2026-05-19T19:42:30"
+   },
+   {
+    "with": "Jennifer Yao’s office",
+    "direction": "to",
+    "text": "Hi Dana, I attached the OFW medical packet I plan to send. Could you let me know if the phrasing needs anything else, or if shorter is better here? Trying to keep this strictly factual.",
+    "time": "2026-05-20T10:54:18"
+   },
+   {
+    "with": "Rachel Hines-Park",
+    "direction": "to",
+    "text": "Small victory: I did not overexplain. Four sentences, one attachment, zero therapy-language garnish. I am pretending this counts as personal growth.",
+    "time": "2026-05-20T21:30:45"
+   },
+   {
+    "with": "Rachel Hines-Park",
+    "direction": "to",
+    "text": "Kid-free weekend starts tomorrow and somehow the house paperwork pile feels louder than the children. I’m embarrassed by how much I’ve avoided, even though I know shame is not a filing system.",
+    "time": "2026-05-21T18:45:00"
+   },
+   {
+    "with": "Credit union officer",
+    "direction": "to",
+    "text": "Hi Mark, could you confirm the exact deadline for the remaining refinance documents and whether PDFs exported from Google Drive are acceptable? I want to avoid sending anything in the wrong format.",
+    "time": "2026-05-22T07:54:57"
+   },
+   {
+    "with": "David Goldberg-Hines",
+    "direction": "to",
+    "text": "Confirming transition today at 5:30 at your house. Both backpacks will include school folders, Eli’s medication, and Maya’s library book.",
+    "time": "2026-05-22T18:05:37"
+   },
+   {
+    "with": "Maren Okafor-Bell",
+    "direction": "to",
+    "text": "I have become a part-time archivist of my own divorce. Very niche career pivot, terrible benefits, lots of scanning receipts while muttering clinically appropriate profanity.",
+    "time": "2026-05-23T13:38:01"
+   },
+   {
+    "with": "Susan Hines",
+    "direction": "to",
+    "text": "FaceTime was good. I’m okay, really. Just trying to get refinance things organized. For July, could you maybe come the second week instead of the first? I don’t want to make it a whole production.",
+    "time": "2026-05-23T19:22:27"
+   },
+   {
+    "with": "Rachel Hines-Park",
+    "direction": "to",
+    "text": "Sending screenshots of Apple ID settings. Which step is least likely to blow something up or alert David? I want out of the family-plan weirdness, but I’m afraid of making the invisible stuff visible.",
+    "time": "2026-05-24T10:38:18"
+   },
+   {
+    "with": "David Goldberg-Hines",
+    "direction": "to",
+    "text": "Draft not sent: Please confirm whether you agree to reimburse 50% of the summer camp balance by June 28, per the prior agreement. I can upload the receipt here if needed.",
+    "time": "2026-05-24T16:21:08"
+   },
+   {
+    "with": "Rachel Hines-Park",
+    "direction": "outbound",
+    "text": "Refi packet is officially submitted and my body is acting like I mailed my nervous system to underwriting. I’m shaky but functional. Please remind me this is just paperwork, not a verdict on whether I get to keep the house.",
+    "time": "2026-05-25T07:16:55"
+   },
+   {
+    "with": "David Goldberg-Hines",
+    "direction": "outbound",
+    "text": "Eli’s medication can be picked up at the pharmacy after 3. His school folder is in the front pocket of his backpack. Please confirm once you have both.",
+    "time": "2026-05-25T17:22:35"
+   },
+   {
+    "with": "Maren Okafor-Bell",
+    "direction": "outbound",
+    "text": "Already activated and I have six clients stacked like a tiny emotional Jenga tower. Trying to stay therapist-shaped and not let the custody/refi dread leak into the room.",
+    "time": "2026-05-26T06:50:22"
+   },
+   {
+    "with": "David Goldberg-Hines",
+    "direction": "inbound",
+    "text": "I’m still waiting for reimbursement on summer camp. It would be helpful if you could respond promptly instead of creating another ambiguity around shared expenses.",
+    "time": "2026-05-26T08:58:22"
+   },
+   {
+    "with": "Jennifer Yao, Esq.",
+    "direction": "outbound",
+    "text": "David sent another camp reimbursement note this morning. Do you want my reply to simply confirm receipt/payment timing, or should I reference the temporary order language? I don’t want to over-explain and create exhibit material.",
+    "time": "2026-05-26T19:35:43"
+   },
+   {
+    "with": "Rachel Hines-Park",
+    "direction": "outbound",
+    "text": "Sending screenshot. Does this credit union wording sound normal-ominous or actually ominous? I can’t tell if I’m reading English or just projecting foreclosure vibes onto a PDF.",
+    "time": "2026-05-27T09:26:27"
+   },
+   {
+    "with": "David Goldberg-Hines",
+    "direction": "outbound",
+    "text": "Per the current order, I will reimburse my share of agreed summer camp expenses within the required timeframe after receiving documentation. Please upload the receipt here so the record is complete.",
+    "time": "2026-05-27T13:34:09"
+   },
+   {
+    "with": "Maren Okafor-Bell",
+    "direction": "outbound",
+    "text": "Lunch break check-in: trying not to catastrophize the appraisal. My brain keeps turning one pending review into me packing the kids’ rooms in banker boxes. Very chill, very embodied.",
+    "time": "2026-05-28T13:02:30"
+   },
+   {
+    "with": "Rachel Hines-Park",
+    "direction": "outbound",
+    "text": "Going to bed, sort of. Nothing concrete happened tonight, but I still have that watched feeling, like every tab and account has a tiny David-shaped shadow on it. I hate that I sound paranoid when I’m probably only half wrong.",
+    "time": "2026-05-28T22:53:58"
+   },
+   {
+    "with": "Credit union",
+    "direction": "inbound",
+    "text": "Your appraisal review is currently pending. No additional documents are required from you at this time. We will contact you if further information is needed.",
+    "time": "2026-05-29T12:19:10"
+   },
+   {
+    "with": "Rachel Hines-Park and Maren Okafor-Bell",
+    "direction": "outbound",
+    "text": "Practical question before I touch anything: if I separate Apple accounts, can it mess with the kids’ iPads, Find My, or app purchases? I want less leakage, not a weekend tech fire.",
+    "time": "2026-05-29T19:20:00"
+   },
+   {
+    "with": "Rachel Hines-Park",
+    "direction": "outbound",
+    "text": "Tomorrow checklist: change Apple ID password, review Family Sharing, check Find My devices, remove old backups if possible, screenshot before/after, and not spiral into every 2024 iMessage being evidence.",
+    "time": "2026-05-30T11:56:44"
+   },
+   {
+    "with": "Maren Okafor-Bell",
+    "direction": "outbound",
+    "text": "Is it reasonable to postpone legal doc review until Sunday? I can technically do it tonight, but I’m at the point where every sentence feels like a custody trap and I don’t trust my nervous system after 8.",
+    "time": "2026-05-30T15:05:46"
+   },
+   {
+    "with": "Rachel Hines-Park",
+    "direction": "outbound",
+    "text": "Update: changed Apple password, checked devices, removed David from what I could see, and turned off a couple of shared things. Still unclear on old backups and the kids’ iPads, but I’m less flooded than yesterday.",
+    "time": "2026-05-31T10:22:16"
+   },
+   {
+    "with": "Rachel Hines-Park",
+    "direction": "outbound",
+    "text": "Can we keep tonight to housing fear and no new decisions? I need to say out loud that I’m scared of losing the house without accidentally creating a seventeen-step plan at 8pm.",
+    "time": "2026-05-31T20:09:19"
+   },
+   {
+    "with": "Rachel Hines-Park",
+    "direction": "to",
+    "text": "I’m weirdly exposed waiting on the bank, like one more person is about to see the whole messy undercarriage. Trying not to spiral, but I hate that David may still have windows into things I never meant to leave open.",
+    "time": "2026-06-01T08:53:50"
+   },
+   {
+    "with": "Jennifer Yao, Esq.",
+    "direction": "to",
+    "text": "Drafted a response re: camp reimbursement language but I’m holding it. The prior thread feels like a trap, and I don’t want to create another exhibit by trying to sound reasonable at the wrong moment.",
+    "time": "2026-06-01T15:38:22"
+   },
+   {
+    "with": "Rachel Hines-Park",
+    "direction": "to",
+    "text": "OFW just pinged about summer pickup wording. I’m leaving it unread until after sessions because I can feel my body doing the Friday-night alarm thing even though it’s morning. Please don’t let me answer from panic.",
+    "time": "2026-06-02T09:01:54"
+   },
+   {
+    "with": "Maren Okafor-Bell",
+    "direction": "to",
+    "text": "I think I found another stupid shared-folder landmine. Possibly old consult/prep stuff tied to the family domain. Can you do a quick gut check later, quietly? I’m trying to separate actual risk from David-shaped paranoia.",
+    "time": "2026-06-02T13:00:33"
+   },
+   {
+    "with": "Jennifer Yao, Esq.",
+    "direction": "to",
+    "text": "Before I change permissions on old Drive folders, could that create any issue with discovery obligations? I’m not deleting anything; I just want to stop access that probably should have ended years ago.",
+    "time": "2026-06-02T18:14:36"
+   }
+  ],
+  "searches": [
+   {
+    "query": "burlington vt refinance single income mortgage 2026",
+    "time": "2026-05-04T12:47:44"
+   },
+   {
+    "query": "can postpartum depression records be used custody vt",
+    "time": "2026-05-05T03:20:12"
+   },
+   {
+    "query": "gal interview parent mental health vermont",
+    "time": "2026-05-05T12:45:09"
+   },
+   {
+    "query": "ourfamilywizard tone examples custody response short",
+    "time": "2026-05-06T11:15:10"
+   },
+   {
+    "query": "jaw clenching stress night guard burlington dentist",
+    "time": "2026-05-07T08:26:48"
+   },
+   {
+    "query": "easy veg dinner kids rice beans",
+    "time": "2026-05-07T19:35:55"
+   },
+   {
+    "query": "strep symptoms child when test",
+    "time": "2026-05-08T12:12:05"
+   },
+   {
+    "query": "child fever custody exchange what to document",
+    "time": "2026-05-09T02:50:22"
+   },
+   {
+    "query": "vermont parenting plan sick child exchange best practice",
+    "time": "2026-05-09T16:16:11"
+   },
+   {
+    "query": "mortgage refi documents self employed divorce vt",
+    "time": "2026-05-10T10:40:08"
+   },
+   {
+    "query": "apple id family plan seperate safely",
+    "time": "2026-05-10T15:40:23"
+   },
+   {
+    "query": "vt custody handoff sick kid documentation",
+    "time": "2026-05-11T06:41:43"
+   },
+   {
+    "query": "ourfamilywizard tone meter factual response examples",
+    "time": "2026-05-11T12:58:20"
+   },
+   {
+    "query": "seperate apple id family sharing photos custody",
+    "time": "2026-05-12T11:21:53"
+   },
+   {
+    "query": "vermont divorce refinance buyout documents checklist",
+    "time": "2026-05-13T12:32:25"
+   },
+   {
+    "query": "how tell if icloud shared photos still shared",
+    "time": "2026-05-13T22:25:40"
+   },
+   {
+    "query": "zillow south end burlington 2 bedroom rentals",
+    "time": "2026-05-14T21:26:48"
+   },
+   {
+    "query": "apple family organizer remove adult child account photos",
+    "time": "2026-05-15T10:12:54"
+   },
+   {
+    "query": "dropbox check shared folders version history remove collaborator",
+    "time": "2026-05-15T16:05:47"
+   },
+   {
+    "query": "export google drive shared with me list",
+    "time": "2026-05-16T08:26:44"
+   },
+   {
+    "query": "mortgage refinance single income child support underwriting",
+    "time": "2026-05-16T13:34:19"
+   },
+   {
+    "query": "vermont gal home stability custody factors",
+    "time": "2026-05-17T13:03:17"
+   },
+   {
+    "query": "credit union refinance checklist dti example",
+    "time": "2026-05-18T12:46:17"
+   },
+   {
+    "query": "ourfamilywizard medical expense documentation custody vermont",
+    "time": "2026-05-19T13:07:22"
+   },
+   {
+    "query": "apple id family sharing remove shared photos not delete originals",
+    "time": "2026-05-19T22:37:05"
+   },
+   {
+    "query": "vermont gal report parent communication examples",
+    "time": "2026-05-20T13:04:12"
+   },
+   {
+    "query": "apple id trusted devices family plan separation checklist",
+    "time": "2026-05-21T12:35:55"
+   },
+   {
+    "query": "quickbooks schedule c profit loss private practice refinance",
+    "time": "2026-05-21T21:05:57"
+   },
+   {
+    "query": "zillow 2 bedroom condo south end burlington vt",
+    "time": "2026-05-22T03:23:43"
+   },
+   {
+    "query": "dropbox remove ex from shared folder version history",
+    "time": "2026-05-23T10:18:10"
+   },
+   {
+    "query": "vermont single parent refinance appraisal low value options",
+    "time": "2026-05-23T16:44:51"
+   },
+   {
+    "query": "apple family photos export shared library before leaving family",
+    "time": "2026-05-24T09:15:55"
+   },
+   {
+    "query": "custody communication mistakes vermont rentals near school burlington",
+    "time": "2026-05-24T23:34:26"
+   },
+   {
+    "query": "credit union appraisal timeline refinance vt",
+    "time": "2026-05-25T12:47:52"
+   },
+   {
+    "query": "zillow south end burlington 2 bed condo",
+    "time": "2026-05-25T23:39:03"
+   },
+   {
+    "query": "gmail may statement pdf northfield savings checking may",
+    "time": "2026-05-26T12:42:37"
+   },
+   {
+    "query": "remove shared albums apple family sharing old photos",
+    "time": "2026-05-26T22:08:27"
+   },
+   {
+    "query": "apple id seperate purchases family plan keep kids accounts",
+    "time": "2026-05-27T21:20:48"
+   },
+   {
+    "query": "leave family sharing without messing up child accounts apple",
+    "time": "2026-05-28T12:46:52"
+   },
+   {
+    "query": "reddit custody refinance appraisal anxiety divorce",
+    "time": "2026-05-29T03:26:09"
+   },
+   {
+    "query": "apple family sharing organizer change child account divorce",
+    "time": "2026-05-29T21:24:33"
+   },
+   {
+    "query": "apple fitness sharing off one person find my remove ex",
+    "time": "2026-05-30T10:33:42"
+   },
+   {
+    "query": "burlington vt certified financial divorce planner",
+    "time": "2026-05-30T16:22:56"
+   },
+   {
+    "query": "export google drive shared with me list",
+    "time": "2026-05-31T09:30:24"
+   },
+   {
+    "query": "vermont appraisal came in low refinance options",
+    "time": "2026-05-31T14:10:55"
+   },
+   {
+    "query": "how long appraisal review refinance underwriting vt",
+    "time": "2026-06-01T06:39:22"
+   },
+   {
+    "query": "burlington vt south end 2 bed condo monthly payment",
+    "time": "2026-06-01T21:12:56"
+   },
+   {
+    "query": "google drive mobile see who folder shared with",
+    "time": "2026-06-02T07:01:28"
+   },
+   {
+    "query": "google drive audit shared with ex spouse after divorce",
+    "time": "2026-06-02T22:17:14"
+   }
+  ],
+  "videos": [
+   {
+    "title": "The Great British Baking Show: Biscuit Week",
+    "channel": "Netflix",
+    "time": "2026-05-04T21:07:51"
+   },
+   {
+    "title": "Weekly Clinical Consultation Group",
+    "channel": "Zoom",
+    "time": "2026-05-06T08:46:16"
+   },
+   {
+    "title": "A 10-Minute Meditation for Anxiety",
+    "channel": "Ten Percent Happier",
+    "time": "2026-05-07T20:59:17"
+   },
+   {
+    "title": "Paddington 2",
+    "channel": "Netflix",
+    "time": "2026-05-09T13:15:06"
+   },
+   {
+    "title": "10-Minute Guided Nervous System Reset for Anxiety",
+    "channel": "Therapy in a Nutshell",
+    "time": "2026-05-11T23:43:18"
+   },
+   {
+    "title": "Queer Eye: Season 7, Episode 3",
+    "channel": "Netflix",
+    "time": "2026-05-12T19:38:00"
+   },
+   {
+    "title": "The Great British Baking Show: Collection 9, Episode 1",
+    "channel": "Netflix",
+    "time": "2026-05-15T19:10:52"
+   },
+   {
+    "title": "When Things Fall Apart, Chapter 6",
+    "channel": "Audible",
+    "time": "2026-05-16T23:08:27"
+   },
+   {
+    "title": "FaceTime with Rachel",
+    "channel": "FaceTime",
+    "time": "2026-05-17T20:26:52"
+   },
+   {
+    "title": "Virgin River",
+    "channel": "Netflix",
+    "time": "2026-05-18T21:40:44"
+   },
+   {
+    "title": "The Great British Baking Show",
+    "channel": "Netflix",
+    "time": "2026-05-22T22:11:06"
+   },
+   {
+    "title": "FaceTime with Rachel",
+    "channel": "FaceTime",
+    "time": "2026-05-24T19:51:40"
+   },
+   {
+    "title": "Somebody Feed Phil: Copenhagen",
+    "channel": "Netflix",
+    "time": "2026-05-25T21:03:17"
+   },
+   {
+    "title": "Wednesday Consultation Group - Trauma-Informed Case Review",
+    "channel": "Zoom",
+    "time": "2026-05-27T09:45:03"
+   },
+   {
+    "title": "How to Stop Sharing Photos on iPhone and iCloud",
+    "channel": "YouTube",
+    "time": "2026-05-28T20:58:35"
+   },
+   {
+    "title": "The Great British Baking Show: Pastry Week",
+    "channel": "Netflix",
+    "time": "2026-05-30T19:20:19"
+   },
+   {
+    "title": "How to Remove a Device from Your Apple ID Account on iPhone",
+    "channel": "Howfinity",
+    "time": "2026-06-01T23:49:31"
+   }
+  ],
+  "calendar": [
+   {
+    "summary": "Brief attorney call",
+    "time": "2026-05-05T14:03:26"
+   },
+   {
+    "summary": "Home care morning; farmers market tentative",
+    "time": "2026-05-09T09:04:58"
+   },
+   {
+    "summary": "Call JY re OFW language",
+    "time": "2026-05-12T07:13:33"
+   },
+   {
+    "summary": "Call credit union, Apple Support, and Jennifer Yao",
+    "time": "2026-05-16T15:38:14"
+   },
+   {
+    "summary": "Monday lighter client block - phone on Do Not Disturb in office drawer",
+    "time": "2026-05-18T09:53:47"
+   },
+   {
+    "summary": "Stacked Tuesday sessions - no digital activity until break",
+    "time": "2026-05-19T09:06:21"
+   },
+   {
+    "summary": "Consultation group from home office - camera off first ten minutes",
+    "time": "2026-05-20T09:19:21"
+   },
+   {
+    "summary": "Afternoon clinical block - phone on Do Not Disturb",
+    "time": "2026-05-21T12:49:24"
+   },
+   {
+    "summary": "Lighter Friday client block - digitally quiet during sessions",
+    "time": "2026-05-22T09:53:24"
+   },
+   {
+    "summary": "Review Apple ID family sharing settings",
+    "time": "2026-05-25T15:24:59"
+   },
+   {
+    "summary": "Refi packet cleanup",
+    "time": "2026-05-27T07:42:42"
+   },
+   {
+    "summary": "Apple cleanup / no legal docs",
+    "time": "2026-05-29T15:46:13"
+   },
+   {
+    "summary": "OFW check, credit union follow-up, Apple support call",
+    "time": "2026-05-31T16:31:22"
+   },
+   {
+    "summary": "Tentative call with Jennifer Yao about refinance timeline and account cleanup questions",
+    "time": "2026-06-01T17:28:43"
+   }
+  ]
+ },
+ "_meta": {
+  "total_days": 30,
+  "n_events": 261
+ }
+}

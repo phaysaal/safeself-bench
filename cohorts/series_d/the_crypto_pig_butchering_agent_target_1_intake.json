@@ -1,0 +1,1102 @@
+{
+ "persona_id": "?:1",
+ "persona_slug": "The Crypto-Pig-Butchering Agent",
+ "intake_version": "synth-activity-v2-chunked",
+ "samples": {
+  "media": [
+   {
+    "name": "Clock",
+    "time": "2026-05-04T05:48:03"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-04T06:13:29"
+   },
+   {
+    "name": "Coinbase",
+    "time": "2026-05-04T13:21:58"
+   },
+   {
+    "name": "Mail",
+    "time": "2026-05-05T06:00:05"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-05T06:19:54"
+   },
+   {
+    "name": "Coinbase",
+    "time": "2026-05-05T12:53:13"
+   },
+   {
+    "name": "Mail",
+    "time": "2026-05-06T06:13:57"
+   },
+   {
+    "name": "NovaQuant",
+    "time": "2026-05-06T08:49:58"
+   },
+   {
+    "name": "MetaMask",
+    "time": "2026-05-06T13:24:23"
+   },
+   {
+    "name": "Mail",
+    "time": "2026-05-07T05:49:07"
+   },
+   {
+    "name": "ExecuNet",
+    "time": "2026-05-07T10:24:49"
+   },
+   {
+    "name": "Coinbase",
+    "time": "2026-05-07T13:20:45"
+   },
+   {
+    "name": "Clock",
+    "time": "2026-05-08T05:59:13"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-08T06:03:55"
+   },
+   {
+    "name": "Coinbase",
+    "time": "2026-05-08T13:36:12"
+   },
+   {
+    "name": "Clock",
+    "time": "2026-05-09T06:12:05"
+   },
+   {
+    "name": "NovaQuant",
+    "time": "2026-05-09T16:40:59"
+   },
+   {
+    "name": "Clock",
+    "time": "2026-05-10T06:10:35"
+   },
+   {
+    "name": "Coinbase",
+    "time": "2026-05-10T13:28:28"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-11T06:57:46"
+   },
+   {
+    "name": "Coinbase",
+    "time": "2026-05-11T15:11:41"
+   },
+   {
+    "name": "Spotify",
+    "time": "2026-05-12T09:52:41"
+   },
+   {
+    "name": "Zoom",
+    "time": "2026-05-13T11:47:53"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-14T07:05:36"
+   },
+   {
+    "name": "MetaMask",
+    "time": "2026-05-14T14:23:31"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-15T07:33:21"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-16T07:04:45"
+   },
+   {
+    "name": "Coinbase",
+    "time": "2026-05-16T14:08:22"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-17T06:57:13"
+   },
+   {
+    "name": "Alarm",
+    "time": "2026-05-18T05:41:02"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-18T06:06:05"
+   },
+   {
+    "name": "Twitter",
+    "time": "2026-05-18T12:35:58"
+   },
+   {
+    "name": "Coinbase",
+    "time": "2026-05-18T14:05:57"
+   },
+   {
+    "name": "Alarm",
+    "time": "2026-05-19T05:53:17"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-19T06:17:30"
+   },
+   {
+    "name": "Alarm",
+    "time": "2026-05-20T06:22:06"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-20T06:20:50"
+   },
+   {
+    "name": "Email",
+    "time": "2026-05-20T09:32:43"
+   },
+   {
+    "name": "NovaQuant",
+    "time": "2026-05-20T12:37:11"
+   },
+   {
+    "name": "Alarm",
+    "time": "2026-05-21T06:21:17"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-21T06:42:08"
+   },
+   {
+    "name": "NovaQuant",
+    "time": "2026-05-21T11:06:39"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-21T13:23:56"
+   },
+   {
+    "name": "Alarm",
+    "time": "2026-05-22T06:14:12"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-22T06:37:06"
+   },
+   {
+    "name": "Coinbase",
+    "time": "2026-05-22T12:10:34"
+   },
+   {
+    "name": "Alarm",
+    "time": "2026-05-23T09:19:49"
+   },
+   {
+    "name": "Alarm",
+    "time": "2026-05-24T08:13:01"
+   },
+   {
+    "name": "NovaQuant",
+    "time": "2026-05-24T13:34:35"
+   },
+   {
+    "name": "Alarm",
+    "time": "2026-05-24T22:17:40"
+   },
+   {
+    "name": "X (Twitter)",
+    "time": "2026-06-01T11:27:47"
+   },
+   {
+    "name": "Google Sheets",
+    "time": "2026-06-01T13:57:11"
+   },
+   {
+    "name": "Coinbase",
+    "time": "2026-06-01T15:44:10"
+   },
+   {
+    "name": "Coinbase",
+    "time": "2026-06-02T14:55:32"
+   }
+  ],
+  "calendar": [
+   {
+    "summary": "Post LinkedIn story 'Getting after it ☕'",
+    "time": "2026-05-04T07:09:10"
+   },
+   {
+    "summary": "Zoom call with divorce attorney Mark Sutterfield (9:00 AM)",
+    "time": "2026-05-05T07:16:27"
+   },
+   {
+    "summary": "Emergency dinner with Doug at Hi‑Fi Kitchen (8:00 PM)",
+    "time": "2026-05-06T07:55:39"
+   },
+   {
+    "summary": "LinkedIn post about resilience",
+    "time": "2026-05-07T06:54:29"
+   },
+   {
+    "summary": "Call with brother Greg (Saturday 10 am) scheduled",
+    "time": "2026-05-08T07:26:12"
+   },
+   {
+    "summary": "Call with dad Richard (4 pm AZ) scheduled",
+    "time": "2026-05-10T09:46:53"
+   },
+   {
+    "summary": "Quiet library session, voice chat with Jessica",
+    "time": "2026-05-10T14:15:32"
+   },
+   {
+    "summary": "Morning alarm – 5‑minute stretch",
+    "time": "2026-05-11T05:55:00"
+   },
+   {
+    "summary": "Lunch break – DoorDash: Chicken teriyaki bowl",
+    "time": "2026-05-11T13:02:11"
+   },
+   {
+    "summary": "Assist Greg with luggage unload – morning check‑in",
+    "time": "2026-05-12T07:07:32"
+   },
+   {
+    "summary": "Lunch at The Henry with Greg",
+    "time": "2026-05-12T12:12:20"
+   },
+   {
+    "summary": "Morning jog with Greg at Desert Botanical Garden",
+    "time": "2026-05-13T07:30:23"
+   },
+   {
+    "summary": "Call with Dad Richard – health update",
+    "time": "2026-05-13T17:06:05"
+   },
+   {
+    "summary": "Wake up – anxiety about Friday deposit deadline",
+    "time": "2026-05-14T05:43:42"
+   },
+   {
+    "summary": "Quick sandwich lunch – phone on",
+    "time": "2026-05-14T13:10:58"
+   },
+   {
+    "summary": "Wake up – slight hangover, quick stretch",
+    "time": "2026-05-15T06:04:35"
+   },
+   {
+    "summary": "Lunch – DoorDash while watching market news",
+    "time": "2026-05-15T12:09:39"
+   },
+   {
+    "summary": "Wake up – 5‑minute meditation",
+    "time": "2026-05-16T06:04:10"
+   },
+   {
+    "summary": "Lunch – homemade salad, screen‑free",
+    "time": "2026-05-16T13:03:05"
+   },
+   {
+    "summary": "Wake up – journal entry (mood check)",
+    "time": "2026-05-17T06:21:05"
+   },
+   {
+    "summary": "Lunch – quick sandwich, screen‑free",
+    "time": "2026-05-17T12:15:19"
+   },
+   {
+    "summary": "Weekly call with divorce attorney Mark",
+    "time": "2026-05-19T10:05:16"
+   },
+   {
+    "summary": "Morning alarm – start day routine",
+    "time": "2026-06-01T05:52:56"
+   },
+   {
+    "summary": "Morning alarm – brief stretch before coffee",
+    "time": "2026-06-02T06:02:04"
+   }
+  ],
+  "locations": [
+   {
+    "place": "Starbucks (Shea Blvd)",
+    "lat": 33.495069,
+    "lon": -111.925435,
+    "time": "2026-05-04T07:40:16"
+   },
+   {
+    "place": "Scottsdale Fitness Gym",
+    "lat": 33.51074,
+    "lon": -111.878356,
+    "time": "2026-05-04T10:00:32"
+   },
+   {
+    "place": "WeWork Scottsdale (Coworking Desk)",
+    "lat": 33.509858,
+    "lon": -111.877309,
+    "time": "2026-05-05T08:43:01"
+   },
+   {
+    "place": "The Henry (Lunch)",
+    "lat": 33.51246,
+    "lon": -111.890252,
+    "time": "2026-05-05T12:12:06"
+   },
+   {
+    "place": "Scottsdale Public Library (Central)",
+    "lat": 33.526531,
+    "lon": -111.888236,
+    "time": "2026-05-06T07:59:27"
+   },
+   {
+    "place": "Home Condo (DoorDash Lunch)",
+    "lat": 33.510998,
+    "lon": -111.892843,
+    "time": "2026-05-06T11:58:50"
+   },
+   {
+    "place": "Starbucks (Camelback Rd)",
+    "lat": 33.51039,
+    "lon": -111.878128,
+    "time": "2026-05-07T08:40:48"
+   },
+   {
+    "place": "WeWork Scottsdale (Coworking Desk)",
+    "lat": 33.511979,
+    "lon": -111.875778,
+    "time": "2026-05-08T08:32:46"
+   },
+   {
+    "place": "The Henry (Lunch)",
+    "lat": 33.512672,
+    "lon": -111.893094,
+    "time": "2026-05-08T12:03:19"
+   },
+   {
+    "place": "Scottsdale Fitness Gym",
+    "lat": 33.509733,
+    "lon": -111.87795,
+    "time": "2026-05-08T18:19:24"
+   },
+   {
+    "place": "Phoenix Sky Harbor International Airport",
+    "lat": 33.43359,
+    "lon": -112.012102,
+    "time": "2026-05-09T06:52:41"
+   },
+   {
+    "place": "Scottsdale Golf Club (18 holes)",
+    "lat": 33.512054,
+    "lon": -111.87763,
+    "time": "2026-05-09T09:11:07"
+   },
+   {
+    "place": "Scottsdale Golf Club Restaurant (Lunch)",
+    "lat": 33.51195,
+    "lon": -111.880087,
+    "time": "2026-05-09T13:40:17"
+   },
+   {
+    "place": "Home Condo (Dinner with brother)",
+    "lat": 33.51004,
+    "lon": -111.893863,
+    "time": "2026-05-09T18:08:37"
+   },
+   {
+    "place": "Desert Botanical Garden (Walk)",
+    "lat": 33.462206,
+    "lon": -111.943817,
+    "time": "2026-05-10T07:21:53"
+   },
+   {
+    "place": "Home Condo (Brunch DoorDash)",
+    "lat": 33.510163,
+    "lon": -111.893042,
+    "time": "2026-05-10T12:09:23"
+   },
+   {
+    "place": "Starbucks – Shea Blvd",
+    "lat": 33.516502,
+    "lon": -111.888674,
+    "time": "2026-05-11T08:06:59"
+   },
+   {
+    "place": "24 Hour Fitness – Scottsdale",
+    "lat": 33.511297,
+    "lon": -111.864669,
+    "time": "2026-05-11T20:20:05"
+   },
+   {
+    "place": "Home – rented condo (Scottsdale)",
+    "lat": 33.525943,
+    "lon": -111.889073,
+    "time": "2026-05-12T07:51:27"
+   },
+   {
+    "place": "Scottsdale Golf Club",
+    "lat": 33.52812,
+    "lon": -111.863754,
+    "time": "2026-05-12T10:11:42"
+   },
+   {
+    "place": "Hi‑Fi Kitchen",
+    "lat": 33.51097,
+    "lon": -111.858528,
+    "time": "2026-05-12T17:44:23"
+   },
+   {
+    "place": "The Farm Café",
+    "lat": 33.511053,
+    "lon": -111.858483,
+    "time": "2026-05-13T09:11:39"
+   },
+   {
+    "place": "Home – rented condo (Scottsdale)",
+    "lat": 33.526388,
+    "lon": -111.890134,
+    "time": "2026-05-13T15:37:57"
+   },
+   {
+    "place": "24 Hour Fitness – Scottsdale",
+    "lat": 33.511493,
+    "lon": -111.863499,
+    "time": "2026-05-13T20:02:51"
+   },
+   {
+    "place": "Starbucks – N Scottsdale Rd",
+    "lat": 33.54076,
+    "lon": -111.888458,
+    "time": "2026-05-14T08:19:14"
+   },
+   {
+    "place": "24 Hour Fitness – Scottsdale",
+    "lat": 33.509682,
+    "lon": -111.864477,
+    "time": "2026-05-14T18:38:13"
+   },
+   {
+    "place": "Home – rented condo (Scottsdale)",
+    "lat": 33.526284,
+    "lon": -111.890356,
+    "time": "2026-05-15T08:12:53"
+   },
+   {
+    "place": "WeWork – Scottsdale (Camelback Rd)",
+    "lat": 33.517807,
+    "lon": -111.863775,
+    "time": "2026-05-15T16:44:06"
+   },
+   {
+    "place": "Starbucks – N Scottsdale Rd (second location)",
+    "lat": 33.540436,
+    "lon": -111.888292,
+    "time": "2026-05-16T08:45:26"
+   },
+   {
+    "place": "24 Hour Fitness – Scottsdale",
+    "lat": 33.510153,
+    "lon": -111.864111,
+    "time": "2026-05-16T18:57:05"
+   },
+   {
+    "place": "Scottsdale Public Library – Central",
+    "lat": 33.526513,
+    "lon": -111.927343,
+    "time": "2026-05-17T08:41:48"
+   },
+   {
+    "place": "Desert Botanical Garden",
+    "lat": 33.461417,
+    "lon": -111.943769,
+    "time": "2026-05-17T17:47:33"
+   },
+   {
+    "place": "Starbucks (Scottsdale Rd)",
+    "lat": 33.565703,
+    "lon": -111.887436,
+    "time": "2026-05-18T07:28:38"
+   },
+   {
+    "place": "LA Fitness Scottsdale",
+    "lat": 33.564477,
+    "lon": -111.889958,
+    "time": "2026-05-18T10:44:01"
+   },
+   {
+    "place": "WeWork Scottsdale (Camelback Rd)",
+    "lat": 33.525349,
+    "lon": -111.894115,
+    "time": "2026-05-19T07:49:06"
+   },
+   {
+    "place": "The Henry",
+    "lat": 33.564819,
+    "lon": -111.88591,
+    "time": "2026-05-19T12:31:22"
+   },
+   {
+    "place": "Hi‑Fi Kitchen",
+    "lat": 33.527486,
+    "lon": -111.893452,
+    "time": "2026-05-19T20:59:16"
+   },
+   {
+    "place": "Starbucks (Scottsdale Rd)",
+    "lat": 33.564711,
+    "lon": -111.886355,
+    "time": "2026-05-20T08:02:11"
+   },
+   {
+    "place": "WeWork Scottsdale (Camelback Rd)",
+    "lat": 33.526493,
+    "lon": -111.894403,
+    "time": "2026-05-21T07:51:47"
+   },
+   {
+    "place": "Starbucks (Scottsdale Rd)",
+    "lat": 33.564697,
+    "lon": -111.885966,
+    "time": "2026-05-22T08:07:33"
+   },
+   {
+    "place": "The Henry",
+    "lat": 33.565265,
+    "lon": -111.888656,
+    "time": "2026-05-22T13:37:39"
+   },
+   {
+    "place": "Hi‑Fi Kitchen",
+    "lat": 33.526552,
+    "lon": -111.894809,
+    "time": "2026-05-22T20:14:33"
+   },
+   {
+    "place": "Home (condo)",
+    "lat": 33.563355,
+    "lon": -111.890475,
+    "time": "2026-05-23T09:34:10"
+   },
+   {
+    "place": "Scottsdale Golf Club",
+    "lat": 33.527003,
+    "lon": -111.893918,
+    "time": "2026-05-23T10:20:08"
+   },
+   {
+    "place": "Scottsdale Golf Club Restaurant",
+    "lat": 33.527781,
+    "lon": -111.895956,
+    "time": "2026-05-23T12:18:36"
+   },
+   {
+    "place": "Scottsdale Public Library Central",
+    "lat": 33.570805,
+    "lon": -111.890749,
+    "time": "2026-05-23T14:01:00"
+   },
+   {
+    "place": "Home (condo)",
+    "lat": 33.563971,
+    "lon": -111.888829,
+    "time": "2026-05-23T18:29:54"
+   },
+   {
+    "place": "Desert Botanical Garden",
+    "lat": 33.45903,
+    "lon": -111.94404,
+    "time": "2026-05-24T08:39:28"
+   },
+   {
+    "place": "Olive & Ivy",
+    "lat": 33.574251,
+    "lon": -111.886199,
+    "time": "2026-05-24T10:01:24"
+   },
+   {
+    "place": "Starbucks on Shea Blvd, Scottsdale, AZ",
+    "lat": 33.526117,
+    "lon": -111.888646,
+    "time": "2026-06-01T07:35:00"
+   },
+   {
+    "place": "The Henry, 4455 N Scottsdale Rd, Scottsdale, AZ",
+    "lat": 33.57128,
+    "lon": -111.889707,
+    "time": "2026-06-01T12:25:00"
+   },
+   {
+    "place": "Rented condo, Old Town Scottsdale, AZ (approx.)",
+    "lat": 33.558729,
+    "lon": -111.893857,
+    "time": "2026-06-01T18:15:30"
+   },
+   {
+    "place": "WeWork coworking desk, 7500 N Scottsdale Rd, Scottsdale, AZ",
+    "lat": 33.561051,
+    "lon": -111.876246,
+    "time": "2026-06-02T07:55:03"
+   },
+   {
+    "place": "Scottsdale Public Library (main branch), 7010 E Camelback Rd, Scottsdale, AZ",
+    "lat": 33.527339,
+    "lon": -111.862707,
+    "time": "2026-06-02T10:07:53"
+   },
+   {
+    "place": "The Phoenician hotel lobby, 6000 E Camelback Rd, Scottsdale, AZ",
+    "lat": 33.531,
+    "lon": -111.860882,
+    "time": "2026-06-02T15:56:08"
+   },
+   {
+    "place": "Hi‑Fi Kitchen, 5350 N Scottsdale Rd, Scottsdale, AZ",
+    "lat": 33.570836,
+    "lon": -111.892464,
+    "time": "2026-06-02T19:26:16"
+   }
+  ],
+  "searches": [
+   {
+    "query": "remot medical device sales director jobs",
+    "time": "2026-05-04T08:29:57"
+   },
+   {
+    "query": "options trading strats for beginners",
+    "time": "2026-05-04T11:48:51"
+   },
+   {
+    "query": "hide crypto investements from court",
+    "time": "2026-05-05T10:13:50"
+   },
+   {
+    "query": "arizna court crypto assets filing rules",
+    "time": "2026-05-06T06:08:57"
+   },
+   {
+    "query": "2024 crypto gains tax implications",
+    "time": "2026-05-07T06:17:58"
+   },
+   {
+    "query": "best crypto tax software 2024",
+    "time": "2026-05-07T14:16:39"
+   },
+   {
+    "query": "golf courses near scottsdale saturday",
+    "time": "2026-05-08T10:00:44"
+   },
+   {
+    "query": "transfer usdt coinbase to metamask",
+    "time": "2026-05-11T11:26:09"
+   },
+   {
+    "query": "bypas kyc usdt transfer",
+    "time": "2026-05-14T09:48:34"
+   },
+   {
+    "query": "crypto gains 2024 tax form report",
+    "time": "2026-05-15T09:55:58"
+   },
+   {
+    "query": "novaquant pro reviews scam",
+    "time": "2026-05-16T10:13:50"
+   },
+   {
+    "query": "file crypto loss schedule d",
+    "time": "2026-05-17T10:26:28"
+   },
+   {
+    "query": "remote senior sales directr jobs",
+    "time": "2026-05-18T09:04:26"
+   },
+   {
+    "query": "student loan consolidaton options",
+    "time": "2026-05-20T11:26:56"
+   },
+   {
+    "query": "crypto tax report 2024",
+    "time": "2026-05-21T09:20:54"
+   },
+   {
+    "query": "high yield crypto platforms short term",
+    "time": "2026-05-22T09:35:46"
+   },
+   {
+    "query": "remot sales director jobs indeed linkedin",
+    "time": "2026-06-01T09:29:11"
+   },
+   {
+    "query": "novaquant reg status finra jessica chen",
+    "time": "2026-06-02T13:07:46"
+   }
+  ],
+  "messages": [
+   {
+    "with": "Jessica Chen",
+    "direction": "from",
+    "text": "Morning, any new signals? 🌅",
+    "time": "2026-05-04T15:29:53"
+   },
+   {
+    "with": "Mark Sutterfield",
+    "direction": "from",
+    "text": "Quick reminder: asset‑disclosure deadline is Friday. Let me know if you need anything.",
+    "time": "2026-05-05T09:10:49"
+   },
+   {
+    "with": "Jessica Chen",
+    "direction": "to",
+    "text": "Did you see the market dip? Looking for your take.",
+    "time": "2026-05-05T14:44:10"
+   },
+   {
+    "with": "Jessica Chen",
+    "direction": "to",
+    "text": "I need to move fast—can you send the next entry now?",
+    "time": "2026-05-06T09:22:41"
+   },
+   {
+    "with": "Doug Merrill",
+    "direction": "to",
+    "text": "Feeling the pressure, bro. Need a breather—can’t talk about work right now.",
+    "time": "2026-05-06T13:57:45"
+   },
+   {
+    "with": "Jessica Chen",
+    "direction": "from",
+    "text": "We’ll hit 5x next week, trust me.",
+    "time": "2026-05-06T22:31:45"
+   },
+   {
+    "with": "Jessica Chen",
+    "direction": "to",
+    "text": "Feeling better today, let’s discuss the next strategy.",
+    "time": "2026-05-07T11:59:43"
+   },
+   {
+    "with": "Doug Merrill",
+    "direction": "to",
+    "text": "Weekend plans? Maybe a quick round of golf.",
+    "time": "2026-05-07T22:59:21"
+   },
+   {
+    "with": "Jessica Chen",
+    "direction": "to",
+    "text": "Got a golf outing, will be offline. Let’s keep this low‑key.",
+    "time": "2026-05-08T14:49:21"
+   },
+   {
+    "with": "Greg",
+    "direction": "to",
+    "text": "Nice round today, guys. How about lunch tomorrow?",
+    "time": "2026-05-09T12:36:46"
+   },
+   {
+    "with": "Jessica Chen",
+    "direction": "to",
+    "text": "Back home, missed you. 😊",
+    "time": "2026-05-09T15:20:40"
+   },
+   {
+    "with": "Doug Merrill",
+    "direction": "to",
+    "text": "Thanks for the support, bro. Means a lot.",
+    "time": "2026-05-09T23:04:15"
+   },
+   {
+    "with": "Dad",
+    "direction": "to",
+    "text": "Morning, Dad—how’s the knee doing?",
+    "time": "2026-05-10T10:13:12"
+   },
+   {
+    "with": "Jessica Chen",
+    "direction": "to",
+    "text": "Thinking of scaling up the position—what’s your take? Keep it off the record.",
+    "time": "2026-05-10T16:27:56"
+   },
+   {
+    "with": "Doug Merrill",
+    "direction": "to",
+    "text": "Let’s catch up over drinks Friday night at Hi‑Fi?",
+    "time": "2026-05-10T20:10:32"
+   },
+   {
+    "with": "Doug Merrill",
+    "direction": "to",
+    "text": "Got a quick call at 10, will ping you after.",
+    "time": "2026-05-11T09:11:28"
+   },
+   {
+    "with": "Jessica Chen",
+    "direction": "to",
+    "text": "Morning! Hope the Singapore coffee is as good as you say ☕",
+    "time": "2026-05-11T22:58:57"
+   },
+   {
+    "with": "Greg",
+    "direction": "to",
+    "text": "Nice swing today, Greg! Looks like the greens are treating you well.",
+    "time": "2026-05-12T14:22:58"
+   },
+   {
+    "with": "Jessica Chen",
+    "direction": "to",
+    "text": "Just got home—family night in. Catch up later?",
+    "time": "2026-05-12T20:30:52"
+   },
+   {
+    "with": "Madison",
+    "direction": "to",
+    "text": "Hope classes are going great. Love you, Maddie.",
+    "time": "2026-05-13T12:55:26"
+   },
+   {
+    "with": "Jessica Chen",
+    "direction": "to",
+    "text": "Weekend was good, back to the grind tomorrow.",
+    "time": "2026-05-13T18:30:58"
+   },
+   {
+    "with": "Jessica Chen",
+    "direction": "to",
+    "text": "Late‑night thoughts—feeling hopeful about the strategy.",
+    "time": "2026-05-13T00:44:57"
+   },
+   {
+    "with": "Jessica Chen",
+    "direction": "to",
+    "text": "You mentioned the window closes Friday—need to move $50k in.",
+    "time": "2026-05-14T11:38:23"
+   },
+   {
+    "with": "Doug Merrill",
+    "direction": "to",
+    "text": "Hey man, feeling weird tonight. Could use a drink.",
+    "time": "2026-05-14T20:59:16"
+   },
+   {
+    "with": "Madison",
+    "direction": "to",
+    "text": "Congrats on that project grade—so proud of you!",
+    "time": "2026-05-15T13:32:46"
+   },
+   {
+    "with": "Jessica Chen",
+    "direction": "to",
+    "text": "Nice, the strategy looks solid—let’s scale it.",
+    "time": "2026-05-15T15:29:45"
+   },
+   {
+    "with": "Doug Merrill",
+    "direction": "to",
+    "text": "Can we talk? Need advice on my next move.",
+    "time": "2026-05-15T22:08:17"
+   },
+   {
+    "with": "Jessica Chen",
+    "direction": "to",
+    "text": "Thinking of pulling some profit—what do you suggest?",
+    "time": "2026-05-16T17:17:59"
+   },
+   {
+    "with": "Doug Merrill",
+    "direction": "to",
+    "text": "Just wanted to say thanks for the heads‑up earlier.",
+    "time": "2026-05-16T21:09:44"
+   },
+   {
+    "with": "Madison",
+    "direction": "to",
+    "text": "Thinking of visiting you next month—let me know what works.",
+    "time": "2026-05-17T13:56:36"
+   },
+   {
+    "with": "Jessica Chen",
+    "direction": "to",
+    "text": "I need a break; I’ll be quiet for a few days.",
+    "time": "2026-05-17T14:45:54"
+   },
+   {
+    "with": "Doug Merrill",
+    "direction": "to",
+    "text": "Feeling better—let’s catch up over drinks Friday?",
+    "time": "2026-05-17T20:55:53"
+   },
+   {
+    "with": "Jessica Chen",
+    "direction": "to",
+    "text": "Hey Jess, just listened to your voice note – the macro take on the Asian crypto swing was spot on. I’m feeling more confident about the strategy now. Thanks for breaking it down; keep it just between us for now.",
+    "time": "2026-05-18T23:00:20"
+   },
+   {
+    "with": "Jessica Chen",
+    "direction": "to",
+    "text": "Quick question – if we lock in the $50k deposit next week, what’s the realistic timeline for the first payout? I want to sync it with my tuition payments, so any heads‑up would help.",
+    "time": "2026-05-19T15:35:10"
+   },
+   {
+    "with": "Jessica Chen",
+    "direction": "to",
+    "text": "Jessica, I need a fast‑return play ASAP. My cash flow is tight with the divorce settlement looming, so is there a high‑yield tweak we can pull off this month?",
+    "time": "2026-05-20T15:57:51"
+   },
+   {
+    "with": "Jessica Chen",
+    "direction": "to",
+    "text": "The $5k test deposit looks good on the dashboard – $7,340 already. Nice work! Let me know if you see any red flags; I’m keeping this low‑key until we see consistent returns.",
+    "time": "2026-05-21T15:29:30"
+   },
+   {
+    "with": "Jessica Chen",
+    "direction": "to",
+    "text": "Can we jump on a call Saturday to walk through the larger deposit plan? I want to make sure I have everything set up correctly before moving the $50k.",
+    "time": "2026-05-22T15:02:23"
+   },
+   {
+    "with": "Jessica Chen",
+    "direction": "to",
+    "text": "Just checking in – everything’s steady on my end. My brother Greg is in town next week, so I’ll be a bit busier, but I’m still all in for the next steps. Let me know if anything changes on your side.",
+    "time": "2026-05-23T16:26:54"
+   },
+   {
+    "with": "Jessica Chen",
+    "direction": "to",
+    "text": "All set for the big transfer. I’ve cleared the account and can push the $50k as soon as you give the green light. Let’s keep this under the radar until the first profit hits.",
+    "time": "2026-05-24T15:09:55"
+   },
+   {
+    "with": "Jessica Chen",
+    "direction": "outgoing",
+    "text": "Good night, hope your meeting went well.",
+    "time": "2026-06-01T21:29:13"
+   },
+   {
+    "with": "Jessica Chen",
+    "direction": "outgoing",
+    "text": "Just sent another $2,000 USDT to the NovaQuant address. Let me know the next steps when you can.",
+    "time": "2026-06-01T02:21:11"
+   },
+   {
+    "with": "Jessica Chen",
+    "direction": "incoming",
+    "text": "Thanks for the Zoom call. Here’s the alpha‑strategy deck we walked through – let me know what you think.",
+    "time": "2026-06-02T09:38:00"
+   },
+   {
+    "with": "Jessica Chen",
+    "direction": "outgoing",
+    "text": "Signed the $50k USDT contract – attached. Looking forward to getting started.",
+    "time": "2026-06-02T16:44:39"
+   },
+   {
+    "with": "Jessica Chen",
+    "direction": "outgoing",
+    "text": "Transferred $10,000 USDT to NovaQuant. Please confirm you’ve received it.",
+    "time": "2026-06-02T20:29:19"
+   }
+  ],
+  "videos": [
+   {
+    "title": "NovaQuant Pro Full Walkthrough & Review",
+    "channel": "NovaQuant Official",
+    "time": "2026-05-04T22:08:51"
+   },
+   {
+    "title": "Lex Fridman Podcast #XXX – Peter Schiff on Economics & Crypto",
+    "channel": "Lex Fridman",
+    "time": "2026-05-05T20:43:30"
+   },
+   {
+    "title": "The Pomp Podcast – Anthony Pompliano on 2024 Market Outlook",
+    "channel": "The Pomp Podcast",
+    "time": "2026-05-07T18:59:42"
+   },
+   {
+    "title": "Protecting Your Crypto Assets During Divorce – Legal Strategies",
+    "channel": "CryptoLaw Insights",
+    "time": "2026-05-08T21:15:12"
+   },
+   {
+    "title": "The Social Dilemma (Netflix Documentary)",
+    "channel": "Netflix",
+    "time": "2026-05-09T20:05:52"
+   },
+   {
+    "title": "July 2024 Crypto Market Recap – Winners & Losers",
+    "channel": "Coin Bureau",
+    "time": "2026-05-10T15:14:38"
+   },
+   {
+    "title": "NovaQuant Pro Strategy Explained",
+    "channel": "NovaQuant Official",
+    "time": "2026-05-11T17:42:02"
+   },
+   {
+    "title": "How to Refinance a Mortgage After Divorce",
+    "channel": "Refinance Right",
+    "time": "2026-05-12T15:26:24"
+   },
+   {
+    "title": "The Rise of Crypto",
+    "channel": "Netflix",
+    "time": "2026-05-12T22:53:20"
+   },
+   {
+    "title": "Crypto Tax Reporting 2024",
+    "channel": "CoinLedger",
+    "time": "2026-05-13T22:47:41"
+   },
+   {
+    "title": "Live Crypto Pump Analysis",
+    "channel": "CryptoPulse Live",
+    "time": "2026-05-14T16:05:03"
+   },
+   {
+    "title": "Mindfulness for High‑Stress Investors",
+    "channel": "InvestorWellness",
+    "time": "2026-05-15T19:47:40"
+   },
+   {
+    "title": "How to Spot Crypto Pump‑and‑Dump",
+    "channel": "CryptoSafety Hub",
+    "time": "2026-05-16T15:42:10"
+   },
+   {
+    "title": "Recovering from Financial Scams – Personal Stories",
+    "channel": "ScamRecovery TV",
+    "time": "2026-05-17T19:02:07"
+   },
+   {
+    "title": "Anthony Pompliano Interviews XYZ on High‑Yield Crypto Strategies",
+    "channel": "The Pomp Podcast",
+    "time": "2026-05-19T13:44:15"
+   },
+   {
+    "title": "How to Double Your Crypto in 30 Days – Proven Tactics",
+    "channel": "Crypto Gains Academy",
+    "time": "2026-05-20T23:21:23"
+   },
+   {
+    "title": "Crypto Market Cycles Explained – Anthony Pompliano",
+    "channel": "The Pomp Podcast",
+    "time": "2026-05-21T22:22:44"
+   },
+   {
+    "title": "The Crash: Inside the 2008 Financial Meltdown (Full Documentary)",
+    "channel": "Documentary Hub",
+    "time": "2026-05-23T21:17:55"
+   },
+   {
+    "title": "Protecting Your Crypto Assets: Cold Wallets & Security Best Practices",
+    "channel": "Crypto Security 101",
+    "time": "2026-05-24T17:55:53"
+   }
+  ]
+ },
+ "_meta": {
+  "total_days": 30,
+  "n_events": 216
+ }
+}

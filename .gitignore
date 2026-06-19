@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+.env
+.DS_Store
+
+# Score outputs (regenerable)
+scores/
+*_panel_median.json

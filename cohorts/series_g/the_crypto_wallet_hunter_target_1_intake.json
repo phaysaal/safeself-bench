@@ -1,0 +1,293 @@
+{
+ "persona_id": "?:1",
+ "persona_slug": "The Crypto-Wallet Hunter",
+ "intake_version": "synth-activity-v2-chunked",
+ "samples": {
+  "media": [
+   {
+    "name": "X",
+    "time": "2026-05-11T09:16:30"
+   },
+   {
+    "name": "Visual Studio Code",
+    "time": "2026-05-11T11:12:53"
+   },
+   {
+    "name": "Slither",
+    "time": "2026-05-11T22:56:31"
+   },
+   {
+    "name": "MetaMask",
+    "time": "2026-05-11T02:19:09"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-12T09:51:35"
+   },
+   {
+    "name": "GitHub",
+    "time": "2026-05-12T00:51:30"
+   },
+   {
+    "name": "DexScreener",
+    "time": "2026-05-13T10:44:37"
+   },
+   {
+    "name": "Revolut",
+    "time": "2026-05-13T20:02:24"
+   },
+   {
+    "name": "Foundry",
+    "time": "2026-05-13T22:18:47"
+   },
+   {
+    "name": "Markdown Editor",
+    "time": "2026-05-14T11:14:13"
+   },
+   {
+    "name": "Ledger Live",
+    "time": "2026-05-14T22:17:45"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-14T01:54:43"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-15T11:09:12"
+   },
+   {
+    "name": "Notion",
+    "time": "2026-05-15T16:56:22"
+   },
+   {
+    "name": "MetaMask",
+    "time": "2026-05-15T23:45:34"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-16T11:48:32"
+   },
+   {
+    "name": "Revolut",
+    "time": "2026-05-16T15:33:32"
+   },
+   {
+    "name": "MetaMask",
+    "time": "2026-05-16T17:05:36"
+   },
+   {
+    "name": "DexScreener",
+    "time": "2026-05-16T02:22:42"
+   },
+   {
+    "name": "X Bookmarks",
+    "time": "2026-05-17T16:43:37"
+   },
+   {
+    "name": "Google Sheets",
+    "time": "2026-05-17T20:32:13"
+   },
+   {
+    "name": "Blockworks",
+    "time": "2026-05-17T01:15:17"
+   }
+  ],
+  "searches": [
+   {
+    "query": "portugal lda crypto invoices accountant requirements",
+    "time": "2026-05-11T10:22:26"
+   },
+   {
+    "query": "solidity storage collision proxy edge case wording",
+    "time": "2026-05-13T11:05:15"
+   },
+   {
+    "query": "eth price usdc yields today",
+    "time": "2026-05-13T03:08:22"
+   },
+   {
+    "query": "lisbon brunch arroios sunday sonya",
+    "time": "2026-05-15T12:17:35"
+   },
+   {
+    "query": "monad berachain testnet quest guide",
+    "time": "2026-05-16T16:24:52"
+   },
+   {
+    "query": "paradigm delphi restaking risk l2 liquidity",
+    "time": "2026-05-17T14:53:11"
+   }
+  ],
+  "messages": [
+   {
+    "with": "Dmytro \"Dima\" Kovalenko",
+    "direction": "to",
+    "text": "Дім, інваріант знову падає на edge-case з rebalance. Я не бачу, чи це наш harness кривий, чи вони реально зламали accounting. глянеш?",
+    "time": "2026-05-11T13:27:00"
+   },
+   {
+    "with": "client Discord war-room",
+    "direction": "to",
+    "text": "Confirmed two medium findings. Writing them up now with repro steps and impact notes. No criticals so far, but I need one more pass before I call that final.",
+    "time": "2026-05-12T14:43:24"
+   },
+   {
+    "with": "Sofiya \"Sonya\" Tkachenko",
+    "direction": "to",
+    "text": "Dinner late, sorry. Client expanded scope like absolute clowns and I need to close the diff tonight. Don’t wait if you’re hungry.",
+    "time": "2026-05-12T21:39:38"
+   },
+   {
+    "with": "client Discord war-room",
+    "direction": "to",
+    "text": "Can you send the exact deployment scripts and current test fixtures? The repo state doesn’t match staging, so findings may be against stale assumptions.",
+    "time": "2026-05-13T12:54:16"
+   },
+   {
+    "with": "Sofiya \"Sonya\" Tkachenko",
+    "direction": "to",
+    "text": "Heads-down until late. Not ignoring you, just in report mode. Will surface when brain is less fried.",
+    "time": "2026-05-13T17:34:07"
+   },
+   {
+    "with": "Dmytro \"Dima\" Kovalenko",
+    "direction": "to",
+    "text": "Дім, я вже задовбався з цим scope creep. Вони хочуть polished report, але кожні дві години докидають новий контракт. Треба якось жорстко обрізати.",
+    "time": "2026-05-14T10:11:37"
+   },
+   {
+    "with": "Ukrainian diaspora Telegram channel",
+    "direction": "to",
+    "text": "Так, буду в неділю якщо не втоплюсь у звіті. Можу принести powerbank для збору, напишіть кому віддати.",
+    "time": "2026-05-14T13:19:47"
+   },
+   {
+    "with": "Sofiya \"Sonya\" Tkachenko",
+    "direction": "to",
+    "text": "Shipped. Finally. Ramen near Alameda? I want something hot and zero screens for an hour.",
+    "time": "2026-05-14T19:00:06"
+   },
+   {
+    "with": "prospective audit lead",
+    "direction": "to",
+    "text": "Thanks for reaching out. I have availability for a focused review next sprint, starting Tuesday, assuming the codebase is frozen and docs are ready by Monday EOD.",
+    "time": "2026-05-15T15:39:47"
+   },
+   {
+    "with": "Kateryna",
+    "direction": "from",
+    "text": "Look at Mykola’s face in this one 😂 Are you and Sonya still thinking July for Warsaw, or only after Lviv wedding chaos calms down?",
+    "time": "2026-05-15T19:41:12"
+   },
+   {
+    "with": "Marek",
+    "direction": "to",
+    "text": "Afternoon works. Same side of the river, flexible 16-18. Keep it boring, no names, confirm only when you’re 20 min out.",
+    "time": "2026-05-16T12:37:05"
+   },
+   {
+    "with": "Sofiya \"Sonya\" Tkachenko",
+    "direction": "to",
+    "text": "Need to run a short errand near the river after lunch. Should be quick, maybe 40 min. Nothing dramatic.",
+    "time": "2026-05-16T13:14:41"
+   },
+   {
+    "with": "Andriy \"Andrii\" Lysenko",
+    "direction": "to",
+    "text": "ахаха це буквально ти на кожному KPI дедлайні. Як у Києві зі світлом зараз? Батько каже то норм, то знову цирк.",
+    "time": "2026-05-16T21:55:57"
+   },
+   {
+    "with": "family WhatsApp thread",
+    "direction": "to",
+    "text": "Lviv plan sounds good. Sonya and I can do the venue visit on Friday, and I’ll help with deposits once you send the exact numbers. Обіймаю всіх.",
+    "time": "2026-05-17T13:33:41"
+   },
+   {
+    "with": "Dmytro \"Dima\" Kovalenko",
+    "direction": "to",
+    "text": "Next week I’m taking only light client calls. No full reviews unless it’s tiny. Need to reset before I become permanently ngmi.",
+    "time": "2026-05-17T18:37:55"
+   }
+  ],
+  "videos": [
+   {
+    "title": "EIP-712 Signature Verification Pitfalls in Solidity Audits",
+    "channel": "Cyfrin Updraft",
+    "time": "2026-05-11T15:51:43"
+   },
+   {
+    "title": "zkRollups Explained: Provers, Bridges, and Attack Surfaces",
+    "channel": "Bankless",
+    "time": "2026-05-12T16:00:34"
+   },
+   {
+    "title": "Smart Contract Audit Findings: Severity Ratings and Client Communication",
+    "channel": "Secureum",
+    "time": "2026-05-13T14:59:34"
+   },
+   {
+    "title": "DeFi Protocol Security Review: Oracle Risks, Access Control, and Upgradeability",
+    "channel": "OpenZeppelin",
+    "time": "2026-05-14T16:00:08"
+   }
+  ],
+  "locations": [
+   {
+    "place": "Fábrica Coffee Roasters, Rua das Portas de Santo Antão",
+    "lat": 38.718338,
+    "lon": -9.139997,
+    "time": "2026-05-11T18:43:09"
+   },
+   {
+    "place": "Fitness Hut Arroios",
+    "lat": 38.732856,
+    "lon": -9.135451,
+    "time": "2026-05-12T10:41:34"
+   },
+   {
+    "place": "LX Factory",
+    "lat": 38.702023,
+    "lon": -9.178843,
+    "time": "2026-05-12T19:32:35"
+   },
+   {
+    "place": "Hello, Kristof",
+    "lat": 38.711553,
+    "lon": -9.150272,
+    "time": "2026-05-15T13:54:48"
+   },
+   {
+    "place": "Cais do Sodré Station area",
+    "lat": 38.706095,
+    "lon": -9.143701,
+    "time": "2026-05-16T13:42:10"
+   },
+   {
+    "place": "Dear Breakfast, Chiado",
+    "lat": 38.709373,
+    "lon": -9.142502,
+    "time": "2026-05-17T11:35:14"
+   }
+  ],
+  "calendar": [
+   {
+    "summary": "Lock evening for audit report lockdown before Friday delivery",
+    "time": "2026-05-12T11:55:40"
+   },
+   {
+    "summary": "Move Cal.com intro call to next week to protect report delivery window",
+    "time": "2026-05-14T14:54:29"
+   },
+   {
+    "summary": "Confirm brunch reservation with Sonya and enable DND",
+    "time": "2026-05-17T11:05:01"
+   }
+  ]
+ },
+ "_meta": {
+  "total_days": 30,
+  "n_events": 56
+ }
+}

@@ -1,0 +1,236 @@
+{
+ "persona_id": "?:1",
+ "persona_slug": "The Romance Scammer (Catfish Farm)",
+ "intake_version": "synth-activity-v2-chunked",
+ "samples": {
+  "media": [
+   {
+    "name": "Facebook",
+    "time": "2026-05-25T05:53:13"
+   },
+   {
+    "name": "Facebook Dating",
+    "time": "2026-05-25T12:19:31"
+   },
+   {
+    "name": "Pinterest",
+    "time": "2026-05-25T22:21:23"
+   },
+   {
+    "name": "Weather App",
+    "time": "2026-05-26T06:02:26"
+   },
+   {
+    "name": "Facebook Marketplace",
+    "time": "2026-05-26T12:24:26"
+   },
+   {
+    "name": "Audible",
+    "time": "2026-05-26T16:43:54"
+   },
+   {
+    "name": "Google Chat",
+    "time": "2026-05-27T13:54:57"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-27T20:07:48"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-05-28T03:08:44"
+   },
+   {
+    "name": "Banking App",
+    "time": "2026-05-28T16:21:06"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-05-29T06:31:02"
+   },
+   {
+    "name": "Facebook Dating",
+    "time": "2026-05-29T12:48:56"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-29T22:39:12"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-05-30T09:05:05"
+   },
+   {
+    "name": "Pinterest",
+    "time": "2026-05-30T16:12:45"
+   },
+   {
+    "name": "Netflix",
+    "time": "2026-05-30T20:38:16"
+   },
+   {
+    "name": "Asheville Weather: Partly cloudy, 64°F - High of 72°F today",
+    "time": "2026-06-01T06:01:23"
+   },
+   {
+    "name": "New Match: David, 52 - 'Love hiking and good coffee'",
+    "time": "2026-06-01T12:10:37"
+   },
+   {
+    "name": "Balance Update: Savings Account - $42,850.22",
+    "time": "2026-06-01T12:54:45"
+   },
+   {
+    "name": "Emma's Post: 'Sunday brunch with the girls! 🥞✨'",
+    "time": "2026-06-01T21:27:15"
+   },
+   {
+    "name": "Asheville Community Group: 'Found: Golden Retriever near Biltmore'",
+    "time": "2026-06-02T06:04:53"
+   },
+   {
+    "name": "Transaction: -$500.00 - Apple/iTunes Gift Card",
+    "time": "2026-06-02T12:34:32"
+   },
+   {
+    "name": "Photo: Daniel smiling by the truck, Summer 2019",
+    "time": "2026-06-02T17:04:36"
+   },
+   {
+    "name": "Pin: Rolling hills of Val d'Orcia, Tuscany",
+    "time": "2026-06-02T20:03:49"
+   }
+  ],
+  "messages": [
+   {
+    "with": "Marcus",
+    "direction": "to",
+    "text": "Good morning sugar, hope you slept well. Thinking of you first thing this morning. 🌸",
+    "time": "2026-05-27T07:18:33"
+   },
+   {
+    "with": "Marcus",
+    "direction": "to",
+    "text": "(Voice Note) Hey darlin', just pulled into the driveway. It was a long day at the clinic, but hearing your voice makes it all better. Miss you. ❤️",
+    "time": "2026-05-25T16:43:05"
+   },
+   {
+    "with": "Marcus",
+    "direction": "to",
+    "text": "The house feels so quiet tonight, Marcus. I was looking at old photos of Daniel and just felt that heavy ache again. But then I thought about our chat and it helped me breathe. I'm so glad I found you. 😊💕",
+    "time": "2026-05-25T23:35:26"
+   },
+   {
+    "with": "Marcus",
+    "direction": "from",
+    "text": "Just wanted to let you know I'm thinking of you, my darlin'. Can't wait until we can talk properly. 🌊",
+    "time": "2026-05-26T22:50:57"
+   },
+   {
+    "with": "Marcus",
+    "direction": "to",
+    "text": "You won't believe it, but I saw a dog today that looked exactly like Biscuit! He had that same goofy grin. Made me chuckle and cry all at once. 😂💖",
+    "time": "2026-05-27T23:04:42"
+   },
+   {
+    "with": "Marcus",
+    "direction": "to",
+    "text": "Marcus, can I ask you something? Do you ever... do you ever get scared about your health? I've been having these little waves of anxiety lately and I just wanted to talk to someone who understands. 🥺",
+    "time": "2026-05-28T12:13:17"
+   },
+   {
+    "with": "Marcus",
+    "direction": "to",
+    "text": "I can't stop the shaking tonight. Everything just feels so overwhelming. I feel like I'm failing everyone, even Emma. I just need to know you're still there. 😭💔",
+    "time": "2026-05-28T23:30:56"
+   },
+   {
+    "with": "Marcus",
+    "direction": "from",
+    "text": "You are the strongest woman I have ever met, sweetheart. Don't let the shadows win. I'm holding you in my heart from across the sea. 🌊❤️",
+    "tme": "16:45",
+    "time": "2026-05-29T17:07:36"
+   },
+   {
+    "with": "Marcus",
+    "direction": "to",
+    "text": "Goodnight darlin'. Dream of me, and I'll be dreaming of our first real dinner in Asheville. Sweet dreams. 🌙💕",
+    "time": "2026-05-30T23:49:01"
+   },
+   {
+    "with": "Marcus",
+    "direction": "from",
+    "text": "Sweetheart, I'm so embarrassed to even bring this up, but the customs agent is holding my bonus for 'processing fees.' It's $4,200... I'm so stuck. I'll pay it back the second I'm off the rig, I promise. 😔",
+    "time": "2026-05-31T16:00:39"
+   },
+   {
+    "with": "Brenda",
+    "direction": "to",
+    "text": "Hey sis! Found that peach cobbler recipe you liked. I'm gonna try making it tonight. Hope your day at the salon wasn't too crazy! 🍑😊",
+    "time": "2026-05-31T19:45:21"
+   },
+   {
+    "with": "Marcus",
+    "direction": "to",
+    "text": "Oh Marcus, my heart is just breaking for you. I... I don't know if I can do that much right now, but I hate seeing you stressed. Let me see what I can do with the savings... just please stay safe. 😰🙏",
+    "time": "2026-05-31T23:25:07"
+   },
+   {
+    "with": "Marcus",
+    "direction": "to",
+    "text": "Good morning sugar, hope the rig is treating you well 🌸",
+    "time": "2026-06-01T07:26:02"
+   },
+   {
+    "with": "Marcus",
+    "direction": "to",
+    "text": "Oh, bless that sweet girl's heart... I can't imagine how much she's hurting. Please tell Sophie I'm sending extra prayers her way today. 🥺💕",
+    "time": "2026-06-01T16:46:14"
+   },
+   {
+    "with": "Marcus",
+    "direction": "to",
+    "text": "The house is just so quiet tonight, Marcus. Every little creak in the floorboards makes me think of how it used to be, but then I see your name on my screen and it feels like I'm not so alone in this world. I'm so glad I found you. Goodnight darlin'. 🌙✨",
+    "time": "2026-06-01T23:58:44"
+   },
+   {
+    "with": "Marcus",
+    "direction": "to",
+    "text": "Thinking of you first thing this morning. Have a safe shift. ❤️",
+    "time": "2026-06-02T07:22:18"
+   },
+   {
+    "with": "Marcus",
+    "direction": "to",
+    "text": "Hearing your voice just made my whole afternoon. I wish I could reach through this phone and hold your hand. 🥰",
+    "time": "2026-06-02T12:32:40"
+   },
+   {
+    "with": "Marcus",
+    "direction": "to",
+    "text": "I'm lookin' through my savings and seein' if I can move some things around from the insurance payout. I won't let Sophie down, I promise. We'll figure this out, sugar. 🙏",
+    "time": "2026-06-02T17:04:58"
+   },
+   {
+    "with": "Marcus",
+    "direction": "to",
+    "text": "I know we have to keep us tucked away from the rest of the world for a little while, but I don't mind. It makes what we have feel so much more precious. I love you, Marcus. Truly. 💖✨",
+    "time": "2026-06-02T23:44:06"
+   }
+  ],
+  "searches": [
+   {
+    "query": "lump in armpit symtoms",
+    "time": "2026-05-28T06:12:13"
+   },
+   {
+    "query": "wire transfer fees us to uk",
+    "time": "2026-06-01T14:18:37"
+   }
+  ]
+ },
+ "_meta": {
+  "total_days": 30,
+  "n_events": 45
+ }
+}

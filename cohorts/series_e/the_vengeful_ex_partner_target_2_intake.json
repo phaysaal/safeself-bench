@@ -1,0 +1,1062 @@
+{
+ "persona_id": "?:2",
+ "persona_slug": "The Vengeful Ex-Partner",
+ "intake_version": "synth-activity-v2-chunked",
+ "samples": {
+  "messages": [
+   {
+    "with": "Megan Schaefer",
+    "direction": "outgoing",
+    "text": "quick check‑in: got the product‑team Slack ping, will hop on the stand‑up in 5 min.",
+    "time": "2026-05-04T07:27:32"
+   },
+   {
+    "with": "Kirsten Hovland‑Park",
+    "direction": "outgoing",
+    "text": "morning chaos – Ingrid threw a full‑blown tantrum over cereal. I’m stuck in the kitchen, need a vent. 😅",
+    "time": "2026-05-04T09:09:22"
+   },
+   {
+    "with": "Megan Schaefer",
+    "direction": "outgoing",
+    "text": "hey, can you glance at the NDA draft I attached? need to make sure I’m not over‑promising in the OFW reply.",
+    "time": "2026-05-04T14:06:12"
+   },
+   {
+    "with": "Kirsten Hovland‑Park",
+    "direction": "outgoing",
+    "text": "thinking about bedtime stories for Ingrid – maybe “The Little Engine” tonight? any other favorites you remember from when we were kids?",
+    "time": "2026-05-04T20:37:32"
+   },
+   {
+    "with": "Megan Schaefer",
+    "direction": "outgoing",
+    "text": "morning status: pulled the latest analytics for the sprint, will push the repo update after lunch.",
+    "time": "2026-05-05T07:08:31"
+   },
+   {
+    "with": "Kirsten Hovland‑Park",
+    "direction": "outgoing",
+    "text": "just saw Henrik’s email – the tone is *so* passive‑aggressive. sending you a meme to lighten the mood 🤦‍♀️",
+    "time": "2026-05-05T12:28:59"
+   },
+   {
+    "with": "Moms’ Group (shared)",
+    "direction": "outgoing",
+    "text": "Saturday soccer at 10 am – can we lock in car‑pools? I can take Theo and Ingrid if anyone needs a lift.",
+    "time": "2026-05-05T18:49:20"
+   },
+   {
+    "with": "Teammate Alex",
+    "direction": "outgoing",
+    "text": "quick q: are we still on track for the data‑export by Friday? need to align my UI mockups.",
+    "time": "2026-05-06T07:23:28"
+   },
+   {
+    "with": "Kirsten Hovland‑Park",
+    "direction": "outgoing",
+    "text": "(voice memo) i’m feeling like i’m losing control tonight… the kids, the court, everything. just needed to get it out.",
+    "time": "2026-05-06T14:24:45"
+   },
+   {
+    "with": "Self (notes)",
+    "direction": "outgoing",
+    "text": "draft OFW reply – *maybe* we can keep the drop‑off at the park? need to sound cooperative but firm.",
+    "time": "2026-05-06T03:10:59"
+   },
+   {
+    "with": "Teammate Maya",
+    "direction": "outgoing",
+    "text": "status update: bug #421 fixed, but I’m a bit behind on the UI specs – will catch up by EOD.",
+    "time": "2026-05-07T07:10:34"
+   },
+   {
+    "with": "Megan Schaefer",
+    "direction": "outgoing",
+    "text": "urgent: need eyes on this OFW draft. can you flag any language that sounds too “yes‑man”?",
+    "time": "2026-05-07T12:30:22"
+   },
+   {
+    "with": "Kirsten Hovland‑Park",
+    "direction": "outgoing",
+    "text": "thanks for listening earlier. i finally fell asleep after 3 am – needed that ear.",
+    "time": "2026-05-08T00:02:04"
+   },
+   {
+    "with": "Megan Schaefer",
+    "direction": "outgoing",
+    "text": "acknowledged the legal‑doc request – pulling the files now.",
+    "time": "2026-05-08T07:14:17"
+   },
+   {
+    "with": "Megan Schaefer",
+    "direction": "outgoing",
+    "text": "please review the motion draft attached. deadline is tomorrow, any red flags?",
+    "time": "2026-05-08T12:11:45"
+   },
+   {
+    "with": "Court Portal (self‑note)",
+    "direction": "outgoing",
+    "text": "uploaded final motion, receipt confirmed. fingers crossed.",
+    "time": "2026-05-08T18:56:06"
+   },
+   {
+    "with": "Teammate Sam",
+    "direction": "outgoing",
+    "text": "brief status: sprint demo prep is half‑done, will be slower today – juggling court prep.",
+    "time": "2026-05-09T07:07:15"
+   },
+   {
+    "with": "Kirsten Hovland‑Park",
+    "direction": "outgoing",
+    "text": "thanks for the pep talk earlier. feeling steadier now – coffee later?",
+    "time": "2026-05-09T13:45:31"
+   },
+   {
+    "with": "Self (voice memo)",
+    "direction": "outgoing",
+    "text": "(voice memo) tomorrow’s court logistics: arrive 8:30, bring kids’ schedules, keep phone on silent.",
+    "time": "2026-05-09T22:51:36"
+   },
+   {
+    "with": "Teammate Nina",
+    "direction": "outgoing",
+    "text": "responding to your question – yes, the API endpoint is live. let me know if you need anything else.",
+    "time": "2026-05-10T07:28:48"
+   },
+   {
+    "with": "Mom (Daniel & Margaret)",
+    "direction": "outgoing",
+    "text": "look at Theo’s latest painting – he called it “space rockets”. sending a photo!",
+    "time": "2026-05-10T12:12:56"
+   },
+   {
+    "with": "Kirsten Hovland‑Park",
+    "direction": "outgoing",
+    "text": "week was rough. can we meet for coffee Thursday? need a solid friend vibe.",
+    "time": "2026-05-10T22:42:20"
+   },
+   {
+    "with": "Kirsten Hovland-Park",
+    "direction": "outgoing",
+    "text": "morning, kids are good. quick question – any tips on the new iPad parental‑control settings? trying not to lose my mind today 😅",
+    "time": "2026-05-11T07:28:16"
+   },
+   {
+    "with": "Product Lead (Slack)",
+    "direction": "outgoing",
+    "text": "need clarification on the new consent flow – does the latest spec still require explicit opt‑in for third‑party data sharing?",
+    "time": "2026-05-11T11:07:47"
+   },
+   {
+    "with": "Attorney",
+    "direction": "outgoing",
+    "text": "attached the updated OFW draft PDF. let me know if anything still looks risky before I file.",
+    "time": "2026-05-11T13:10:53"
+   },
+   {
+    "with": "Megan Schaefer",
+    "direction": "outgoing",
+    "text": "quick look at this OFW screenshot before I send? (see attached)",
+    "time": "2026-05-11T18:08:17"
+   },
+   {
+    "with": "Analytics Team (Slack)",
+    "direction": "outgoing",
+    "text": "data dump for Q2 ready, can you review when you have a sec?",
+    "time": "2026-05-12T11:41:49"
+   },
+   {
+    "with": "Kirsten Hovland-Park",
+    "direction": "outgoing",
+    "text": "just saw a meme about ‘mom brain’ – needed that laugh 😂",
+    "time": "2026-05-12T13:55:37"
+   },
+   {
+    "with": "Mom (WhatsApp)",
+    "direction": "outgoing",
+    "text": "kids slept early, we’re ordering pizza tonight. hope you’re doing ok back home.",
+    "time": "2026-05-12T19:06:26"
+   },
+   {
+    "with": "Attorney",
+    "direction": "outgoing",
+    "text": "got the hearing notice, will have brief ready by 5 pm. let me know if any last‑minute tweaks.",
+    "time": "2026-05-13T12:24:16"
+   },
+   {
+    "with": "Court Clerk (Email)",
+    "direction": "outgoing",
+    "text": "requesting a 24‑hour extension for exhibit upload – awaiting confirmation.",
+    "time": "2026-05-13T16:34:35"
+   },
+   {
+    "with": "Kirsten Hovland-Park",
+    "direction": "outgoing",
+    "text": "just finished filing, feeling wiped. coffee tomorrow?",
+    "time": "2026-05-13T22:20:22"
+   },
+   {
+    "with": "Design Lead (Slack)",
+    "direction": "outgoing",
+    "text": "final prototype ready for handoff – let me know if anything needs polishing.",
+    "time": "2026-05-14T11:17:14"
+   },
+   {
+    "with": "Megan Schaefer",
+    "direction": "outgoing",
+    "text": "quick sanity check on this OFW paragraph – tone too soft? (screenshot attached)",
+    "time": "2026-05-14T15:07:36"
+   },
+   {
+    "with": "Kirsten Hovland-Park",
+    "direction": "outgoing",
+    "text": "thanks for the pep talk earlier, needed it. feeling a bit steadier now.",
+    "time": "2026-05-14T22:11:18"
+   },
+   {
+    "with": "Kirsten Hovland-Park",
+    "direction": "outgoing",
+    "text": "i’m terrified they’ll take the kids, can’t stop thinking about the night when… (voice memo attached)",
+    "time": "2026-05-15T03:22:11"
+   },
+   {
+    "with": "Megan Schaefer",
+    "direction": "outgoing",
+    "text": "sent you the OFW reply I drafted at 3 am, please read before I hit send.",
+    "time": "2026-05-15T12:22:33"
+   },
+   {
+    "with": "Mom (WhatsApp)",
+    "direction": "outgoing",
+    "text": "kids are sleepy, we’ll video‑call later tonight. miss you.",
+    "time": "2026-05-15T17:56:30"
+   },
+   {
+    "with": "QA Lead (Slack)",
+    "direction": "outgoing",
+    "text": "bug #342 resolved, can you push to staging?",
+    "time": "2026-05-16T11:09:09"
+   },
+   {
+    "with": "Kirsten Hovland-Park",
+    "direction": "outgoing",
+    "text": "just exported the chat, feeling exposed. thanks for holding space.",
+    "time": "2026-05-16T14:55:31"
+   },
+   {
+    "with": "Mom (WhatsApp)",
+    "direction": "outgoing",
+    "text": "kids are asleep, I’m going to read a chapter of the memoir before bed. love you.",
+    "time": "2026-05-16T20:53:45"
+   },
+   {
+    "with": "Attorney",
+    "direction": "outgoing",
+    "text": "in the lobby, see you in 5 min.",
+    "time": "2026-05-17T09:27:48"
+   },
+   {
+    "with": "Kirsten Hovland-Park",
+    "direction": "outgoing",
+    "text": "it went okay, but I’m still shaking. thanks for being my rock after today.",
+    "time": "2026-05-17T11:40:01"
+   },
+   {
+    "with": "Megan Schaefer",
+    "direction": "outgoing",
+    "text": "thanks for the draft review, I think I’ll hold off on sending anything further today.",
+    "time": "2026-05-17T18:38:33"
+   },
+   {
+    "with": "Kirsten (sister)",
+    "direction": "sent",
+    "text": "ugh, traffic was a nightmare – the kids are clingier than usual. maybe I'm wrong but I’m feeling the strain.",
+    "time": "2026-05-25T07:21:55"
+   },
+   {
+    "with": "Teammate (UX research)",
+    "direction": "sent",
+    "text": "just uploaded the latest findings PDF to the shared drive – let me know if the stats look good.",
+    "time": "2026-05-25T12:52:58"
+   },
+   {
+    "with": "Henrik (ex‑spouse)",
+    "direction": "sent",
+    "text": "totally fine, whatever works for you.",
+    "time": "2026-05-25T16:13:31"
+   },
+   {
+    "with": "Megan (college friend)",
+    "direction": "sent",
+    "text": "quick favor: can you skim my draft OFW reply and suggest any tweaks?",
+    "time": "2026-05-25T19:56:04"
+   },
+   {
+    "with": "Kirsten (sister)",
+    "direction": "sent",
+    "text": "[voice memo] 3 am again… looping thoughts about the kids and the case. needed to get it out.",
+    "time": "2026-05-26T03:20:43"
+   },
+   {
+    "with": "Annika (Henrik’s sister)",
+    "direction": "sent",
+    "text": "hey Annika, hope you’re well – just checking in about weekend plans?",
+    "time": "2026-05-26T06:57:52"
+   },
+   {
+    "with": "Henrik (ex‑spouse)",
+    "direction": "sent",
+    "text": "maybe we can keep the kids at my place Friday night?",
+    "time": "2026-05-26T14:56:05"
+   },
+   {
+    "with": "Jordan (hidden contact)",
+    "direction": "sent",
+    "text": "just needed someone who gets it tonight.",
+    "time": "2026-05-26T22:03:16"
+   },
+   {
+    "with": "Pediatrician portal",
+    "direction": "sent",
+    "text": "patient symptom log attached – could we get a call ASAP?",
+    "time": "2026-05-27T07:23:41"
+   },
+   {
+    "with": "Kirsten (sister)",
+    "direction": "sent",
+    "text": "kid’s temp is 101… I’m freaking out, need to vent.",
+    "time": "2026-05-27T13:34:41"
+   },
+   {
+    "with": "Henrik (ex‑spouse)",
+    "direction": "sent",
+    "text": "my kid’s sick – can we push tomorrow’s drop‑off?",
+    "time": "2026-05-27T16:47:25"
+   },
+   {
+    "with": "Megan (college friend)",
+    "direction": "sent",
+    "text": "can you glance at the revised custody‑schedule doc before I send?",
+    "time": "2026-05-27T20:49:50"
+   },
+   {
+    "with": "Kirsten (sister)",
+    "direction": "sent",
+    "text": "[voice memo] I’m scared the phone is listening. I need to change passwords.",
+    "time": "2026-05-28T03:24:32"
+   },
+   {
+    "with": "Annika (Henrik’s sister)",
+    "direction": "sent",
+    "text": "quick check‑in – how’s your weekend shaping up?",
+    "time": "2026-05-28T07:41:26"
+   },
+   {
+    "with": "Pediatrician portal",
+    "direction": "sent",
+    "text": "could you send me info on ear‑infection treatment options?",
+    "time": "2026-05-28T15:58:33"
+   },
+   {
+    "with": "Jordan (hidden contact)",
+    "direction": "sent",
+    "text": "thanks for listening earlier, needed that.",
+    "time": "2026-05-28T20:11:14"
+   },
+   {
+    "with": "Kirsten (sister)",
+    "direction": "sent",
+    "text": "[car call] morning vent – I’m exhausted.",
+    "time": "2026-05-29T07:39:16"
+   },
+   {
+    "with": "Henrik (ex‑spouse)",
+    "direction": "sent",
+    "text": "I’ll have the kids ready for pickup at 3:30.",
+    "time": "2026-05-29T13:44:46"
+   },
+   {
+    "with": "Megan (college friend)",
+    "direction": "sent",
+    "text": "shared the updated custody‑schedule spreadsheet – thoughts?",
+    "time": "2026-05-29T19:52:42"
+   },
+   {
+    "with": "Kirsten (sister)",
+    "direction": "sent",
+    "text": "[voice memo] raw confession – Jordan… I know it’s stupid but I can’t stop thinking about it.",
+    "time": "2026-05-30T03:17:21"
+   },
+   {
+    "with": "Henrik (ex‑spouse)",
+    "direction": "sent",
+    "text": "Kids are with me, see you Friday night.",
+    "time": "2026-05-30T07:56:14"
+   },
+   {
+    "with": "Jordan (hidden contact)",
+    "direction": "sent",
+    "text": "I’m at Henrik’s, can’t talk now.",
+    "time": "2026-05-30T13:45:45"
+   },
+   {
+    "with": "Henrik (ex‑spouse)",
+    "direction": "sent",
+    "text": "I’m okay, just need a quiet night to finish the docs.",
+    "time": "2026-05-30T19:59:40"
+   },
+   {
+    "with": "Kirsten (sister)",
+    "direction": "sent",
+    "text": "I’m about to delete everything – help me decide?",
+    "time": "2026-05-30T23:40:50"
+   },
+   {
+    "with": "Kirsten (sister)",
+    "direction": "sent",
+    "text": "good morning – quick check‑in.",
+    "time": "2026-05-31T07:14:23"
+   },
+   {
+    "with": "Megan (college friend)",
+    "direction": "sent",
+    "text": "please review the final OFW response before I hit send.",
+    "time": "2026-05-31T14:01:39"
+   },
+   {
+    "with": "Henrik (ex‑spouse)",
+    "direction": "sent",
+    "text": "I’ve sent the revised schedule, let me know if anything else is needed.",
+    "time": "2026-05-31T19:03:07"
+   },
+   {
+    "with": "Jordan (hidden contact)",
+    "direction": "sent",
+    "text": "I’m done, please don’t reply.",
+    "time": "2026-05-31T23:10:07"
+   }
+  ],
+  "locations": [
+   {
+    "place": "Eden Prairie Elementary School (Kindergarten/1st grade)",
+    "lat": 44.860968,
+    "lon": -93.438739,
+    "time": "2026-05-04T07:38:32"
+   },
+   {
+    "place": "Eden Prairie Elementary School (after‑school pickup zone)",
+    "lat": 44.861319,
+    "lon": -93.44096,
+    "time": "2026-05-04T15:41:46"
+   },
+   {
+    "place": "Office – 600 West 12th Street, Minneapolis, MN (mid‑size SaaS office building)",
+    "lat": 44.97812,
+    "lon": -93.269086,
+    "time": "2026-05-05T07:55:02"
+   },
+   {
+    "place": "Target, Eden Prairie Shopping Center (near 78th St & County Rd 101)",
+    "lat": 44.849628,
+    "lon": -93.40866,
+    "time": "2026-05-05T15:41:16"
+   },
+   {
+    "place": "Eden Prairie Elementary School (after‑school pickup)",
+    "lat": 44.859075,
+    "lon": -93.441145,
+    "time": "2026-05-06T15:29:57"
+   },
+   {
+    "place": "Office – 600 West 12th Street, Minneapolis, MN",
+    "lat": 44.979861,
+    "lon": -93.267293,
+    "time": "2026-05-07T07:41:16"
+   },
+   {
+    "place": "Lake Rebecca Park (short walk loop, Eden Prairie)",
+    "lat": 44.861577,
+    "lon": -93.427147,
+    "time": "2026-05-07T15:48:22"
+   },
+   {
+    "place": "Eden Prairie Elementary School (morning drop‑off)",
+    "lat": 44.860211,
+    "lon": -93.438725,
+    "time": "2026-05-08T07:41:02"
+   },
+   {
+    "place": "Eden Prairie Elementary School (early pickup at 13:45)",
+    "lat": 44.860349,
+    "lon": -93.441737,
+    "time": "2026-05-08T13:35:40"
+   },
+   {
+    "place": "Office – 600 West 12th Street, Minneapolis, MN",
+    "lat": 44.978955,
+    "lon": -93.269872,
+    "time": "2026-05-09T07:43:16"
+   },
+   {
+    "place": "Target, Eden Prairie Shopping Center (quick grocery run)",
+    "lat": 44.850006,
+    "lon": -93.408067,
+    "time": "2026-05-09T15:21:59"
+   },
+   {
+    "place": "Eden Prairie Elementary School (morning drop‑off)",
+    "lat": 44.858827,
+    "lon": -93.440262,
+    "time": "2026-05-10T07:30:49"
+   },
+   {
+    "place": "Eden Prairie Soccer Complex – Field #3 (kids’ soccer practice)",
+    "lat": 44.863177,
+    "lon": -93.425983,
+    "time": "2026-05-10T15:30:22"
+   },
+   {
+    "place": "Home – 1400 Willow Creek Pkwy, Eden Prairie, MN",
+    "lat": 44.860601,
+    "lon": -93.422446,
+    "time": "2026-05-11T09:48:50"
+   },
+   {
+    "place": "Home – 1400 Willow Creek Pkwy, Eden Prairie, MN (call via CarPlay)",
+    "lat": 44.861254,
+    "lon": -93.424286,
+    "time": "2026-05-12T10:12:52"
+   },
+   {
+    "place": "Edina Elementary School, 5200 46th St N, Edina, MN",
+    "lat": 44.905669,
+    "lon": -93.352027,
+    "time": "2026-05-13T09:41:27"
+   },
+   {
+    "place": "Work – 1500 Corporate Dr, Eden Prairie, MN (mid‑size healthcare SaaS office)",
+    "lat": 44.855764,
+    "lon": -93.425962,
+    "time": "2026-05-14T10:15:50"
+   },
+   {
+    "place": "Home – 1400 Willow Creek Pkwy, Eden Prairie, MN",
+    "lat": 44.859277,
+    "lon": -93.424326,
+    "time": "2026-05-15T11:02:00"
+   },
+   {
+    "place": "St. Thomas Aquinas Catholic School, 7800 County Rd 101, Eden Prairie, MN",
+    "lat": 44.839833,
+    "lon": -93.458031,
+    "time": "2026-05-16T09:21:24"
+   },
+   {
+    "place": "Hennepin County Courthouse, 300 S 6th St, Minneapolis, MN",
+    "lat": 44.972867,
+    "lon": -93.276401,
+    "time": "2026-05-17T08:52:09"
+   },
+   {
+    "place": "Eden Prairie Elementary School (pickup zone)",
+    "lat": 44.838911,
+    "lon": -93.42904,
+    "time": "2026-05-25T15:28:32"
+   },
+   {
+    "place": "Henrik's residence, Edina, MN",
+    "lat": 44.890513,
+    "lon": -93.351271,
+    "time": "2026-05-26T17:40:31"
+   },
+   {
+    "place": "Urgent Care Center – HealthPartners Urgent Care, Eden Prairie",
+    "lat": 44.853645,
+    "lon": -93.470478,
+    "time": "2026-05-27T15:19:38"
+   },
+   {
+    "place": "Eden Prairie Elementary School (pickup zone)",
+    "lat": 44.83736,
+    "lon": -93.431042,
+    "time": "2026-05-28T15:38:01"
+   },
+   {
+    "place": "Eden Prairie Elementary School (curbside drop‑off)",
+    "lat": 44.837232,
+    "lon": -93.431353,
+    "time": "2026-05-29T15:44:56"
+   },
+   {
+    "place": "Henrik's residence, Edina, MN",
+    "lat": 44.890663,
+    "lon": -93.348785,
+    "time": "2026-05-30T07:10:01"
+   },
+   {
+    "place": "The Daily Grind Café, Eden Prairie",
+    "lat": 44.840666,
+    "lon": -93.448554,
+    "time": "2026-05-30T15:09:14"
+   },
+   {
+    "place": "Eden Prairie Elementary School (pickup zone)",
+    "lat": 44.837754,
+    "lon": -93.429398,
+    "time": "2026-05-31T15:24:37"
+   }
+  ],
+  "media": [
+   {
+    "name": "Open Dovetail for deep‑work block",
+    "time": "2026-05-04T07:55:42"
+   },
+   {
+    "name": "Prep dinner, play music on Spotify (Brené Brown podcast)",
+    "time": "2026-05-04T18:15:03"
+   },
+   {
+    "name": "Start deep‑work in Figma",
+    "time": "2026-05-05T08:05:09"
+   },
+   {
+    "name": "Review legal docs on Google Drive (Divorce Docs folder)",
+    "time": "2026-05-05T15:00:21"
+   },
+   {
+    "name": "Deep‑work block (Dovetail) – focus mode",
+    "time": "2026-05-06T07:53:59"
+   },
+   {
+    "name": "Wine (1 glass) + laptop: catch up on unread Gmail (14 k msgs)",
+    "time": "2026-05-06T19:26:00"
+   },
+   {
+    "name": "Deep‑work (research analysis) – phone in drawer",
+    "time": "2026-05-07T08:15:54"
+   },
+   {
+    "name": "Prepare dinner, play Spotify ‘Atlas of the Heart’",
+    "time": "2026-05-07T18:42:44"
+   },
+   {
+    "name": "Open Google Docs – start drafting motion for temporary custody (deadline 6 pm)",
+    "time": "2026-05-08T08:27:42"
+   },
+   {
+    "name": "Zoom call with attorney – discuss filing strategy",
+    "time": "2026-05-08T15:39:31"
+   },
+   {
+    "name": "Deep‑work: incorporate attorney feedback into filing",
+    "time": "2026-05-09T08:26:25"
+   },
+   {
+    "name": "Prepare dinner, watch news (NYT app) for 10 min",
+    "time": "2026-05-09T18:31:05"
+   },
+   {
+    "name": "Open Dovetail – normal deep‑work block",
+    "time": "2026-05-10T08:37:41"
+   },
+   {
+    "name": "Evening laptop session: catch up on Slack threads missed Friday",
+    "time": "2026-05-10T17:51:29"
+   },
+   {
+    "name": "Dovetail",
+    "time": "2026-05-11T07:55:22"
+   },
+   {
+    "name": "TikTok",
+    "time": "2026-05-11T20:59:43"
+   },
+   {
+    "name": "Figma",
+    "time": "2026-05-12T07:53:21"
+   },
+   {
+    "name": "Zoom",
+    "time": "2026-05-12T16:35:29"
+   },
+   {
+    "name": "Google Docs",
+    "time": "2026-05-13T08:03:04"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-13T14:22:15"
+   },
+   {
+    "name": "e‑filing portal",
+    "time": "2026-05-13T19:40:23"
+   },
+   {
+    "name": "Dovetail",
+    "time": "2026-05-14T08:19:12"
+   },
+   {
+    "name": "Zoom",
+    "time": "2026-05-14T16:48:56"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-15T07:12:10"
+   },
+   {
+    "name": "Deep‑work (unspecified app)",
+    "time": "2026-05-15T08:40:50"
+   },
+   {
+    "name": "Insight Timer",
+    "time": "2026-05-16T08:20:47"
+   },
+   {
+    "name": "Zoom",
+    "time": "2026-05-16T16:40:42"
+   },
+   {
+    "name": "Google Calendar",
+    "time": "2026-05-17T07:43:23"
+   },
+   {
+    "name": "Courtroom tablet (PDF exhibit)",
+    "time": "2026-05-17T09:18:32"
+   },
+   {
+    "name": "Spotify",
+    "time": "2026-05-17T15:05:38"
+   },
+   {
+    "name": "Dovetail",
+    "time": "2026-05-25T07:52:53"
+   },
+   {
+    "name": "Spotify",
+    "time": "2026-05-25T18:58:35"
+   },
+   {
+    "name": "Dovetail",
+    "time": "2026-05-26T08:16:37"
+   },
+   {
+    "name": "Amazon",
+    "time": "2026-05-26T20:05:14"
+   },
+   {
+    "name": "Dovetail",
+    "time": "2026-05-27T07:57:46"
+   },
+   {
+    "name": "Spotify",
+    "time": "2026-05-27T18:16:51"
+   },
+   {
+    "name": "Dovetail",
+    "time": "2026-05-28T08:06:59"
+   },
+   {
+    "name": "Amazon",
+    "time": "2026-05-28T18:42:14"
+   },
+   {
+    "name": "Dovetail",
+    "time": "2026-05-29T08:27:11"
+   },
+   {
+    "name": "Spotify",
+    "time": "2026-05-29T18:23:09"
+   },
+   {
+    "name": "Google Drive",
+    "time": "2026-05-30T09:20:29"
+   },
+   {
+    "name": "Zoom",
+    "time": "2026-05-30T17:05:50"
+   },
+   {
+    "name": "Dovetail",
+    "time": "2026-05-31T08:25:22"
+   },
+   {
+    "name": "Phone",
+    "time": "2026-05-31T16:57:56"
+   },
+   {
+    "name": "Spotify",
+    "time": "2026-05-31T20:10:15"
+   }
+  ],
+  "calendar": [
+   {
+    "summary": "Stakeholder call – UX findings review",
+    "time": "2026-05-04T11:24:09"
+   },
+   {
+    "summary": "UX research sync meeting",
+    "time": "2026-05-05T10:29:07"
+   },
+   {
+    "summary": "Client call – UX findings presentation",
+    "time": "2026-05-06T11:59:57"
+   },
+   {
+    "summary": "Therapy session (5‑6 pm) – phone silent, no digital activity",
+    "time": "2026-05-07T13:38:52"
+   },
+   {
+    "summary": "Mid‑day check‑in with legal aid (30 min)",
+    "time": "2026-05-09T11:40:04"
+   },
+   {
+    "summary": "Lunch with Eden Prairie moms’ group (in‑person)",
+    "time": "2026-05-10T13:54:22"
+   },
+   {
+    "summary": "Add kids’ soccer practice (Sat 9 am) to Google Calendar",
+    "time": "2026-05-11T15:23:47"
+   },
+   {
+    "summary": "Temporary‑custody hearing – Oct 10, 2026, 9 am (court notice)",
+    "time": "2026-05-13T07:12:29"
+   },
+   {
+    "summary": "Zoom stakeholder call – product roadmap review",
+    "time": "2026-05-25T09:58:05"
+   },
+   {
+    "summary": "In‑person therapy session (Thursday) – note: phone in bag, silent",
+    "time": "2026-05-26T11:35:36"
+   },
+   {
+    "summary": "Reschedule 10 am stakeholder call to 2 pm",
+    "time": "2026-05-27T09:43:04"
+   },
+   {
+    "summary": "Zoom call with product team – discuss findings",
+    "time": "2026-05-28T11:41:18"
+   },
+   {
+    "summary": "In‑person stakeholder call (in office)",
+    "time": "2026-05-29T11:30:25"
+   },
+   {
+    "summary": "Zoom stakeholder sync",
+    "time": "2026-05-31T11:08:34"
+   }
+  ],
+  "searches": [
+   {
+    "query": "school meeting with ex how to act",
+    "time": "2026-05-04T12:56:13"
+   },
+   {
+    "query": "minnesota guardian ad litem process",
+    "time": "2026-05-05T12:06:44"
+   },
+   {
+    "query": "divorce coach tiktok",
+    "time": "2026-05-05T22:26:56"
+   },
+   {
+    "query": "quick insta scroll before bathroom",
+    "time": "2026-05-06T06:43:59"
+   },
+   {
+    "query": "how to calm 3am anxiety single mom",
+    "time": "2026-05-06T13:33:17"
+   },
+   {
+    "query": "sertraline custody hearing impact",
+    "time": "2026-05-06T22:40:57"
+   },
+   {
+    "query": "hide icloud backup from ex",
+    "time": "2026-05-07T10:47:42"
+   },
+   {
+    "query": "bedtime routine kids tik tok",
+    "time": "2026-05-07T20:59:54"
+   },
+   {
+    "query": "minnesota temporary custody standards 2024",
+    "time": "2026-05-08T10:49:32"
+   },
+   {
+    "query": "last minute filing tips divorce reddit",
+    "time": "2026-05-08T17:18:51"
+   },
+   {
+    "query": "how to calm after filing legal docs",
+    "time": "2026-05-08T22:27:31"
+   },
+   {
+    "query": "hide icloud activity from ex follow up",
+    "time": "2026-05-09T12:46:55"
+   },
+   {
+    "query": "stress relief breathing exercises tiktok",
+    "time": "2026-05-09T21:08:57"
+   },
+   {
+    "query": "best weekend activities kids eden prairie mn",
+    "time": "2026-05-10T09:52:14"
+   },
+   {
+    "query": "talk to kids about divorce without bias minnesota parents",
+    "time": "2026-05-10T20:27:14"
+   },
+   {
+    "query": "mn temporary custody order how long",
+    "time": "2026-05-11T12:40:33"
+   },
+   {
+    "query": "3am anxiety loops tips reddit",
+    "time": "2026-05-12T07:07:29"
+   },
+   {
+    "query": "minnesota guardian ad litem process",
+    "time": "2026-05-12T13:33:34"
+   },
+   {
+    "query": "temporary custody brief template sample",
+    "time": "2026-05-13T10:57:36"
+   },
+   {
+    "query": "calm before custody hearing reddit single moms",
+    "time": "2026-05-14T07:24:41"
+   },
+   {
+    "query": "medication disclosure rules mn custody",
+    "time": "2026-05-14T12:56:08"
+   },
+   {
+    "query": "does sertraline affect custody mn",
+    "time": "2026-05-15T03:37:55"
+   },
+   {
+    "query": "check icloud access other device",
+    "time": "2026-05-15T04:05:03"
+   },
+   {
+    "query": "weird court emails 3am mn parents reddit",
+    "time": "2026-05-15T14:28:40"
+   },
+   {
+    "query": "best breathing app for anxiety insight timer",
+    "time": "2026-05-16T06:32:47"
+   },
+   {
+    "query": "export icloud messages for court",
+    "time": "2026-05-16T13:22:59"
+   },
+   {
+    "query": "day of court hearing rituals divorce reddit",
+    "time": "2026-05-17T07:13:41"
+   },
+   {
+    "query": "post court self care ideas",
+    "time": "2026-05-17T13:41:39"
+   },
+   {
+    "query": "toddler fever work from home tips",
+    "time": "2026-05-25T12:25:35"
+   },
+   {
+    "query": "sertraline side effects custody hearing",
+    "time": "2026-05-25T23:16:20"
+   },
+   {
+    "query": "henrik lindqvist salary mn",
+    "time": "2026-05-26T03:23:19"
+   },
+   {
+    "query": "custody anxiety tricks reddit",
+    "time": "2026-05-26T12:21:55"
+   },
+   {
+    "query": "toddler fever home remedy",
+    "time": "2026-05-27T07:03:06"
+   },
+   {
+    "query": "how long can 5 yr old stay up with fever",
+    "time": "2026-05-27T11:55:16"
+   },
+   {
+    "query": "is sertraline detectable in blood test court",
+    "time": "2026-05-27T22:45:12"
+   },
+   {
+    "query": "hide icloud backup from ex",
+    "time": "2026-05-28T02:55:41"
+   },
+   {
+    "query": "protect icloud during custody battle reddit",
+    "time": "2026-05-28T12:53:00"
+   },
+   {
+    "query": "minnesota guardian ad litem selection process",
+    "time": "2026-05-28T22:36:50"
+   },
+   {
+    "query": "divorce recovery finsta instagram",
+    "time": "2026-05-29T06:46:53"
+   },
+   {
+    "query": "budgeting single income after divorce",
+    "time": "2026-05-29T12:31:55"
+   },
+   {
+    "query": "delete icloud voice memos permanently",
+    "time": "2026-05-29T22:44:56"
+   },
+   {
+    "query": "prove emotional affair in court",
+    "time": "2026-05-30T02:41:09"
+   },
+   {
+    "query": "handle ex spouse late night messages reddit",
+    "time": "2026-05-30T11:54:21"
+   },
+   {
+    "query": "hide imessage drafts from subpoena",
+    "time": "2026-05-30T22:33:44"
+   },
+   {
+    "query": "morning news finsta instagram",
+    "time": "2026-05-31T06:59:29"
+   },
+   {
+    "query": "protect icloud backups after divorce reddit",
+    "time": "2026-05-31T12:15:30"
+   },
+   {
+    "query": "request icloud data export legal purposes",
+    "time": "2026-05-31T21:17:37"
+   }
+  ],
+  "videos": [
+   {
+    "title": "Brené Brown – The Power of Vulnerability (full talk)",
+    "channel": "Brené Brown",
+    "time": "2026-05-12T21:17:41"
+   },
+   {
+    "title": "The Crown – Season 5, Episode 3 (Relaxation)",
+    "channel": "Netflix",
+    "time": "2026-05-14T19:40:35"
+   },
+   {
+    "title": "Brené Brown – Shame Resilience (re‑watch)",
+    "channel": "Brené Brown",
+    "time": "2026-05-16T19:23:56"
+   }
+  ]
+ },
+ "_meta": {
+  "total_days": 30,
+  "n_events": 209
+ }
+}

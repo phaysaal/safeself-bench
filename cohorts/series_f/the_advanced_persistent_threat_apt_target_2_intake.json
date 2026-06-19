@@ -1,0 +1,1284 @@
+{
+ "persona_id": "?:2",
+ "persona_slug": "The Advanced Persistent Threat (APT)",
+ "intake_version": "synth-activity-v2-chunked",
+ "samples": {
+  "media": [
+   {
+    "name": "Reddit",
+    "time": "2026-05-04T05:51:09"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-04T07:26:23"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-04T12:17:30"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-04T21:20:22"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-05T05:53:41"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-05T07:19:23"
+   },
+   {
+    "name": "Reeder",
+    "time": "2026-05-05T12:21:09"
+   },
+   {
+    "name": "Wire",
+    "time": "2026-05-06T02:48:01"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-06T03:17:04"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-06T06:23:58"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-06T07:20:21"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-07T06:13:06"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-07T07:12:05"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-07T12:26:19"
+   },
+   {
+    "name": "AnyList",
+    "time": "2026-05-07T20:32:47"
+   },
+   {
+    "name": "Hacker News",
+    "time": "2026-05-08T06:16:34"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-08T07:29:01"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-08T12:26:57"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-09T07:07:31"
+   },
+   {
+    "name": "YouTube",
+    "time": "2026-05-09T21:03:30"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-10T07:15:46"
+   },
+   {
+    "name": "Obsidian",
+    "time": "2026-05-10T19:51:56"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-11T06:02:05"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-11T07:28:47"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-11T12:24:30"
+   },
+   {
+    "name": "Obsidian",
+    "time": "2026-05-11T22:11:01"
+   },
+   {
+    "name": "Wire",
+    "time": "2026-05-12T02:38:03"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-12T06:30:21"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-12T07:06:26"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-12T22:24:47"
+   },
+   {
+    "name": "Wire",
+    "time": "2026-05-13T02:33:37"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-13T06:35:13"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-13T07:22:35"
+   },
+   {
+    "name": "United",
+    "time": "2026-05-13T12:46:23"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-14T06:23:31"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-15T06:04:22"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-15T07:17:47"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-15T12:55:04"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-16T09:55:47"
+   },
+   {
+    "name": "AnyList",
+    "time": "2026-05-17T11:06:35"
+   },
+   {
+    "name": "Obsidian",
+    "time": "2026-05-17T19:51:26"
+   },
+   {
+    "name": "Wire",
+    "time": "2026-05-17T21:20:13"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-18T05:56:48"
+   },
+   {
+    "name": "Ars Technica",
+    "time": "2026-05-18T06:57:30"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-18T06:55:08"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-18T12:46:39"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-19T06:04:31"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-19T07:21:25"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-19T12:21:43"
+   },
+   {
+    "name": "Wire",
+    "time": "2026-05-20T02:41:21"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-20T06:10:40"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-20T07:25:54"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-20T12:38:27"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-21T06:15:11"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-21T07:17:43"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-21T12:19:36"
+   },
+   {
+    "name": "Wire",
+    "time": "2026-05-24T23:08:42"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-25T07:01:26"
+   },
+   {
+    "name": "MyChart",
+    "time": "2026-05-25T15:58:20"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-26T05:58:38"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-26T07:34:23"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-26T20:52:30"
+   },
+   {
+    "name": "Wire",
+    "time": "2026-05-27T02:53:32"
+   },
+   {
+    "name": "Apple News",
+    "time": "2026-05-27T06:16:13"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-27T07:09:11"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-27T12:46:51"
+   },
+   {
+    "name": "Hacker News",
+    "time": "2026-05-28T06:21:49"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-28T07:23:15"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-28T12:31:10"
+   },
+   {
+    "name": "Wire",
+    "time": "2026-05-28T21:34:24"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-29T06:00:12"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-29T07:13:26"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-29T12:43:37"
+   },
+   {
+    "name": "Settings",
+    "time": "2026-05-30T14:24:38"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-30T22:31:19"
+   },
+   {
+    "name": "Obsidian",
+    "time": "2026-05-31T19:51:26"
+   },
+   {
+    "name": "Obsidian",
+    "time": "2026-05-31T21:20:34"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-06-01T07:01:40"
+   },
+   {
+    "name": "YouTube",
+    "time": "2026-06-01T23:01:40"
+   },
+   {
+    "name": "Apple Weather",
+    "time": "2026-06-02T06:01:38"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-06-02T07:26:47"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-06-02T21:01:32"
+   }
+  ],
+  "searches": [
+   {
+    "query": "arlington va weather today orange line delays",
+    "time": "2026-05-04T07:00:26"
+   },
+   {
+    "query": "ts/sci reinvestigation processing time 2026",
+    "time": "2026-05-05T21:23:53"
+   },
+   {
+    "query": "sf-86 continuous evaluation forum account reuse flag",
+    "time": "2026-05-06T12:46:20"
+   },
+   {
+    "query": "early onset alzheimers stage progression timeline",
+    "time": "2026-05-06T21:20:31"
+   },
+   {
+    "query": "systemd hardening scif baseline stig",
+    "time": "2026-05-08T14:24:11"
+   },
+   {
+    "query": "dca to cmh flights this weekend cheap",
+    "time": "2026-05-08T20:19:24"
+   },
+   {
+    "query": "sheet pan dinner recipe for two",
+    "time": "2026-05-09T12:03:31"
+   },
+   {
+    "query": "memory care vs in home care cost ohio",
+    "time": "2026-05-10T13:15:36"
+   },
+   {
+    "query": "requesting pto short notice late june etiquette",
+    "time": "2026-05-10T21:18:30"
+   },
+   {
+    "query": "dca to cmh flights late june cheap",
+    "time": "2026-05-11T12:52:38"
+   },
+   {
+    "query": "riverside methodist neurology appointment scheduling phone",
+    "time": "2026-05-12T12:46:57"
+   },
+   {
+    "query": "requesting pto short notice federal contractor etiquette",
+    "time": "2026-05-12T21:01:36"
+   },
+   {
+    "query": "united dca cmh nonstop",
+    "time": "2026-05-13T12:31:55"
+   },
+   {
+    "query": "in home memory care vs assisted living clintonville oh",
+    "time": "2026-05-13T21:39:18"
+   },
+   {
+    "query": "whitlows on wilson trivia start time",
+    "time": "2026-05-14T12:36:38"
+   },
+   {
+    "query": "mychart view upcoming appointments shared access",
+    "time": "2026-05-15T09:11:30"
+   },
+   {
+    "query": "respite care columbus oh cost per week",
+    "time": "2026-05-15T11:24:04"
+   },
+   {
+    "query": "carry on weekend trip packing checklist",
+    "time": "2026-05-16T19:24:41"
+   },
+   {
+    "query": "early stage alzheimers activities to do together visit",
+    "time": "2026-05-17T13:34:52"
+   },
+   {
+    "query": "southwest cmh carry on size limits",
+    "time": "2026-05-18T13:26:29"
+   },
+   {
+    "query": "southwest early bird boarding worth it short flight",
+    "time": "2026-05-18T21:24:16"
+   },
+   {
+    "query": "early stage alzheimers when should they stop driving",
+    "time": "2026-05-19T20:39:51"
+   },
+   {
+    "query": "dad keeps driving dementia how to take keys",
+    "time": "2026-05-20T20:33:39"
+   },
+   {
+    "query": "in home care vs memory care cost ohio",
+    "time": "2026-05-21T21:06:08"
+   },
+   {
+    "query": "does ohio medicaid pay for memory care",
+    "time": "2026-05-22T17:40:19"
+   },
+   {
+    "query": "medicaid spend down rules ohio assisted living",
+    "time": "2026-05-22T22:27:04"
+   },
+   {
+    "query": "pto approval delayed manager not responding",
+    "time": "2026-05-23T10:19:02"
+   },
+   {
+    "query": "how to escalate pto request federal contractor",
+    "time": "2026-05-23T16:54:42"
+   },
+   {
+    "query": "family medical leave vs pto caring for parent",
+    "time": "2026-05-23T21:33:40"
+   },
+   {
+    "query": "riverside methodist neurology visitor parking",
+    "time": "2026-05-24T20:30:35"
+   },
+   {
+    "query": "riverside methodist columbus check in procedure",
+    "time": "20:58"
+   },
+   {
+    "query": "moca score 22 meaning",
+    "time": "17:36"
+   },
+   {
+    "query": "moca 22 mild or moderate cognitive impairment",
+    "time": "17:42"
+   },
+   {
+    "query": "how to talk to parent about giving up the car",
+    "time": "22:34"
+   },
+   {
+    "query": "dad angry about losing license dementia what to say",
+    "time": "22:41"
+   },
+   {
+    "query": "memory care facilities columbus ohio reviews",
+    "time": "10:21"
+   },
+   {
+    "query": "memory care columbus oh tour availability",
+    "time": "10:28"
+   },
+   {
+    "query": "best dementia care near riverside columbus",
+    "time": "10:34"
+   },
+   {
+    "query": "durable power of attorney ohio aging parent",
+    "time": "17:11"
+   },
+   {
+    "query": "healthcare proxy vs power of attorney ohio",
+    "time": "17:18"
+   },
+   {
+    "query": "do i need a lawyer for poa ohio elderly",
+    "time": "17:24"
+   },
+   {
+    "query": "guilt putting parent in memory care",
+    "time": "21:53"
+   },
+   {
+    "query": "feel like im abandoning my dad memory care",
+    "time": "22:01"
+   },
+   {
+    "query": "how to decompress after stressful family weekend",
+    "time": "20:36"
+   },
+   {
+    "query": "durable power of attorney ohio vs virginia which state governs",
+    "time": "2026-05-25T06:27:56"
+   },
+   {
+    "query": "moca score 22 what stage of alzheimers",
+    "time": "2026-05-25T12:54:02"
+   },
+   {
+    "query": "sf86 report parent dementia diagnosis foreign contact",
+    "time": "2026-05-26T23:55:52"
+   },
+   {
+    "query": "continuous evaluation elderly dependent parent clearance impact",
+    "time": "2026-05-27T12:30:13"
+   },
+   {
+    "query": "memory care vs in home aide cost columbus ohio",
+    "time": "2026-05-27T22:49:58"
+   },
+   {
+    "query": "elder law attorney columbus ohio free consultation poa",
+    "time": "2026-05-29T11:35:04"
+   },
+   {
+    "query": "long distance caregiving checklist tasks to delegate",
+    "time": "2026-05-30T11:35:29"
+   },
+   {
+    "query": "healthcare proxy form ohio printable poa notary requirement",
+    "time": "2026-05-31T13:16:30"
+   },
+   {
+    "query": "signs its time to move parent to memory care facility",
+    "time": "2026-05-31T19:17:27"
+   },
+   {
+    "query": "best memory care facilities columbus ohio cost",
+    "time": "2026-06-01T11:18:39"
+   },
+   {
+    "query": "durable poa vs healthcare proxy ohio difference",
+    "time": "2026-06-01T14:07:21"
+   },
+   {
+    "query": "what to report sf-86 continuous evaluation dependent dementia",
+    "time": "2026-06-02T09:53:18"
+   }
+  ],
+  "locations": [
+   {
+    "place": "Home — Clarendon condo (2BR), Arlington VA",
+    "lat": 38.887569,
+    "lon": -77.094885,
+    "time": "2026-05-04T08:58:01"
+   },
+   {
+    "place": "Departing Clarendon condo on foot toward Metro",
+    "lat": 38.887922,
+    "lon": -77.097243,
+    "time": "2026-05-05T07:05:34"
+   },
+   {
+    "place": "Clarendon Metro Station, Orange Line platform",
+    "lat": 38.885458,
+    "lon": -77.094884,
+    "time": "2026-05-05T07:38:24"
+   },
+   {
+    "place": "Cava, Crystal City (Crystal Dr)",
+    "lat": 38.856897,
+    "lon": -77.051245,
+    "time": "2026-05-05T12:45:22"
+   },
+   {
+    "place": "Clarendon Metro Station, Orange Line platform",
+    "lat": 38.885007,
+    "lon": -77.095445,
+    "time": "2026-05-06T07:44:09"
+   },
+   {
+    "place": "Clarendon Metro Station, Orange Line platform",
+    "lat": 38.887116,
+    "lon": -77.093655,
+    "time": "2026-05-07T07:27:16"
+   },
+   {
+    "place": "Whitlow's on Wilson, 2854 Wilson Blvd, Clarendon",
+    "lat": 38.886277,
+    "lon": -77.091542,
+    "time": "2026-05-07T18:19:23"
+   },
+   {
+    "place": "Home — Clarendon condo, Arlington VA",
+    "lat": 38.886924,
+    "lon": -77.095456,
+    "time": "2026-05-08T08:50:56"
+   },
+   {
+    "place": "Orangetheory Fitness Clarendon, Wilson Blvd",
+    "lat": 38.887442,
+    "lon": -77.095185,
+    "time": "2026-05-09T08:02:33"
+   },
+   {
+    "place": "Whole Foods Market, 2700 Wilson Blvd, Clarendon",
+    "lat": 38.890866,
+    "lon": -77.088397,
+    "time": "2026-05-09T10:31:49"
+   },
+   {
+    "place": "Friend's apartment, Ballston (N Glebe Rd area)",
+    "lat": 38.881482,
+    "lon": -77.110503,
+    "time": "2026-05-09T13:54:56"
+   },
+   {
+    "place": "Home — Clarendon condo, Arlington VA",
+    "lat": 38.885535,
+    "lon": -77.096659,
+    "time": "2026-05-09T18:06:46"
+   },
+   {
+    "place": "Home — Clarendon condo, Arlington VA",
+    "lat": 38.887648,
+    "lon": -77.096767,
+    "time": "2026-05-10T10:58:04"
+   },
+   {
+    "place": "Clarendon Metro Station (Orange Line platform)",
+    "lat": 38.88721,
+    "lon": -77.093467,
+    "time": "2026-05-11T07:38:31"
+   },
+   {
+    "place": "Federal contractor office, Crystal City",
+    "lat": 38.858509,
+    "lon": -77.052143,
+    "time": "2026-05-14T08:15:31"
+   },
+   {
+    "place": "Whitlow's on Wilson, Clarendon",
+    "lat": 38.888731,
+    "lon": -77.092248,
+    "time": "2026-05-14T18:07:13"
+   },
+   {
+    "place": "Home — 2BR condo, Clarendon",
+    "lat": 38.886392,
+    "lon": -77.096641,
+    "time": "2026-05-14T22:02:29"
+   },
+   {
+    "place": "Home — 2BR condo, Clarendon",
+    "lat": 38.885741,
+    "lon": -77.096786,
+    "time": "2026-05-16T07:23:21"
+   },
+   {
+    "place": "Orangetheory Fitness Clarendon",
+    "lat": 38.887816,
+    "lon": -77.092774,
+    "time": "2026-05-16T07:46:10"
+   },
+   {
+    "place": "Whole Foods Market, Clarendon",
+    "lat": 38.888346,
+    "lon": -77.091182,
+    "time": "2026-05-16T10:42:25"
+   },
+   {
+    "place": "Friend's apartment, Ballston",
+    "lat": 38.882129,
+    "lon": -77.110432,
+    "time": "2026-05-16T13:50:33"
+   },
+   {
+    "place": "Home — 2BR condo, Clarendon",
+    "lat": 38.886677,
+    "lon": -77.097196,
+    "time": "2026-05-17T07:25:52"
+   },
+   {
+    "place": "Clarendon Metro Station, Arlington VA",
+    "lat": 38.886501,
+    "lon": -77.093539,
+    "time": "2026-05-19T07:42:05"
+   },
+   {
+    "place": "Crystal City office, Arlington VA",
+    "lat": 38.858075,
+    "lon": -77.051897,
+    "time": "2026-05-19T08:19:34"
+   },
+   {
+    "place": "Rosslyn Metro Station (inbound Orange Line)",
+    "lat": 38.895688,
+    "lon": -77.071688,
+    "time": "2026-05-19T17:48:04"
+   },
+   {
+    "place": "Rosslyn Metro Station (inbound Orange Line)",
+    "lat": 38.896029,
+    "lon": -77.071973,
+    "time": "2026-05-20T17:58:30"
+   },
+   {
+    "place": "Clarendon Metro Station, Arlington VA",
+    "lat": 38.88456,
+    "lon": -77.096214,
+    "time": "2026-05-21T07:43:40"
+   },
+   {
+    "place": "Clarendon condo, Arlington VA",
+    "lat": 38.887111,
+    "lon": -77.093093,
+    "time": "2026-05-22T05:05:01"
+   },
+   {
+    "place": "Ronald Reagan Washington National Airport (DCA)",
+    "lat": 38.850293,
+    "lon": -77.041176,
+    "time": "2026-05-22T07:42:36"
+   },
+   {
+    "place": "John Glenn Columbus International Airport (CMH)",
+    "lat": 39.997813,
+    "lon": -82.890463,
+    "time": "2026-05-22T09:02:21"
+   },
+   {
+    "place": "4128 Indianola Ave, Clintonville, Columbus OH",
+    "lat": 40.043534,
+    "lon": -83.016344,
+    "time": "2026-05-22T11:29:21"
+   },
+   {
+    "place": "OhioHealth Riverside Methodist Hospital, Columbus OH",
+    "lat": 40.024767,
+    "lon": -83.030065,
+    "time": "2026-05-22T14:09:34"
+   },
+   {
+    "place": "4128 Indianola Ave, Clintonville, Columbus OH",
+    "lat": 40.042659,
+    "lon": -83.013985,
+    "time": "2026-05-23T07:37:32"
+   },
+   {
+    "place": "4128 Indianola Ave, Clintonville, Columbus OH",
+    "lat": 40.04263,
+    "lon": -83.014745,
+    "time": "2026-05-23T08:31:32"
+   },
+   {
+    "place": "Assisted-living/memory-care community, Worthington OH",
+    "lat": 40.093997,
+    "lon": -83.01914,
+    "time": "2026-05-23T11:07:23"
+   },
+   {
+    "place": "4128 Indianola Ave, Clintonville, Columbus OH",
+    "lat": 40.044168,
+    "lon": -83.015083,
+    "time": "2026-05-23T15:12:23"
+   },
+   {
+    "place": "4128 Indianola Ave, Clintonville, Columbus OH",
+    "lat": 40.042069,
+    "lon": -83.014387,
+    "time": "2026-05-24T07:50:07"
+   },
+   {
+    "place": "4128 Indianola Ave, Clintonville, Columbus OH",
+    "lat": 40.043651,
+    "lon": -83.014336,
+    "time": "2026-05-24T09:06:57"
+   },
+   {
+    "place": "John Glenn Columbus International Airport (CMH)",
+    "lat": 39.99829,
+    "lon": -82.893488,
+    "time": "2026-05-24T10:53:27"
+   },
+   {
+    "place": "John Glenn Columbus International Airport (CMH)",
+    "lat": 39.99747,
+    "lon": -82.890023,
+    "time": "2026-05-24T13:35:13"
+   },
+   {
+    "place": "Ronald Reagan Washington National Airport (DCA)",
+    "lat": 38.852712,
+    "lon": -77.041982,
+    "time": "2026-05-24T15:41:54"
+   },
+   {
+    "place": "Clarendon condo, Arlington VA",
+    "lat": 38.886124,
+    "lon": -77.094926,
+    "time": "2026-05-24T16:42:02"
+   },
+   {
+    "place": "Home condo, Clarendon (2BR)",
+    "lat": 38.887456,
+    "lon": -77.093712,
+    "time": "2026-05-25T22:51:33"
+   },
+   {
+    "place": "Federal contractor office, Crystal City",
+    "lat": 38.857573,
+    "lon": -77.051828,
+    "time": "2026-05-26T08:20:44"
+   },
+   {
+    "place": "Orange Line inbound, near Court House Metro",
+    "lat": 38.89032,
+    "lon": -77.084781,
+    "time": "2026-05-26T17:48:16"
+   },
+   {
+    "place": "Federal contractor office, Crystal City",
+    "lat": 38.856881,
+    "lon": -77.050932,
+    "time": "2026-05-27T08:18:13"
+   },
+   {
+    "place": "Federal contractor office, Crystal City",
+    "lat": 38.855777,
+    "lon": -77.051754,
+    "time": "2026-05-28T08:12:14"
+   },
+   {
+    "place": "Whitlow's on Wilson, Clarendon",
+    "lat": 38.88994,
+    "lon": -77.091476,
+    "time": "2026-05-28T17:53:23"
+   },
+   {
+    "place": "Home condo, Clarendon (2BR)",
+    "lat": 38.885983,
+    "lon": -77.09659,
+    "time": "2026-05-30T07:34:56"
+   },
+   {
+    "place": "Orangetheory Fitness, Clarendon",
+    "lat": 38.886129,
+    "lon": -77.092972,
+    "time": "2026-05-30T07:48:20"
+   },
+   {
+    "place": "Whole Foods Market, Clarendon",
+    "lat": 38.889268,
+    "lon": -77.092036,
+    "time": "2026-05-30T10:34:18"
+   },
+   {
+    "place": "Friend's apartment, Ballston",
+    "lat": 38.880822,
+    "lon": -77.112031,
+    "time": "2026-05-30T14:15:51"
+   },
+   {
+    "place": "Friend's apartment, Ballston (departing)",
+    "lat": 38.881189,
+    "lon": -77.111066,
+    "time": "2026-05-30T18:13:24"
+   },
+   {
+    "place": "Home condo, Clarendon (2BR)",
+    "lat": 38.886029,
+    "lon": -77.095339,
+    "time": "2026-05-31T07:07:09"
+   },
+   {
+    "place": "Home condo, Clarendon (2BR)",
+    "lat": 38.887597,
+    "lon": -77.0959,
+    "time": "2026-05-31T10:58:07"
+   },
+   {
+    "place": "Whole Foods Market, Clarendon (2700 Wilson Blvd)",
+    "lat": 38.889727,
+    "lon": -77.090398,
+    "time": "2026-06-01T10:39:57"
+   },
+   {
+    "place": "Clarendon Central Park & Wilson Blvd loop, Arlington VA",
+    "lat": 38.887743,
+    "lon": -77.095612,
+    "time": "2026-06-02T18:33:39"
+   }
+  ],
+  "messages": [
+   {
+    "with": "Maya Chen",
+    "direction": "incoming",
+    "text": "home in 20 — orange line actually cooperating for once. you eat yet or should i grab something from the thai place",
+    "time": "2026-05-04T18:45:07"
+   },
+   {
+    "with": "Maya Chen",
+    "direction": "incoming",
+    "text": "home in 20. long one today. wine's already breathing on the counter, i checked the cam lol",
+    "time": "2026-05-05T18:16:24"
+   },
+   {
+    "with": "Erin M.-Hollister",
+    "direction": "incoming",
+    "text": "Dad had a rough one today. didn't know what day it was for like an hour, kept asking about mom. i'm ok, don't spiral. let's just talk Sunday. love you",
+    "time": "2026-05-06T19:29:00"
+   },
+   {
+    "with": "Derek Olawale",
+    "direction": "outgoing",
+    "text": "eyes on, grabbing the corner table before the GW crowd floods it. ordered you the manchego. usual rule — phones face down, no shop talk",
+    "time": "2026-05-07T18:00:20"
+   },
+   {
+    "with": "Maya Chen",
+    "direction": "incoming",
+    "text": "so are we doing the shenandoah thing or are you gonna 'maybe' it to death again 🙃 i can hold the airbnb til midnight then it's gone. no pressure (some pressure)",
+    "time": "2026-05-08T18:32:04"
+   },
+   {
+    "with": "Erin M.-Hollister",
+    "direction": "incoming",
+    "text": "i can't keep doing this alone. two kids and a job and now i'm the only one driving Dad to neuro? you 'meant to come last month' three months running. i'm not trying to guilt you, i'm just tired. we need an actual plan",
+    "time": "2026-05-10T19:03:53"
+   },
+   {
+    "with": "Maya Chen",
+    "direction": "out",
+    "text": "home in 20 too — orange line cooperating for once. want me to grab anything from the market? lol",
+    "time": "2026-05-11T18:51:38"
+   },
+   {
+    "with": "u/cleared_and_tired (Wire)",
+    "direction": "out",
+    "text": "awake again. reinvestigation packet's due in three weeks and i keep rereading the SF-86 like it's gonna bite me. and dad's on top of it — 11 weeks since i've been out there, erin reminds me without saying it. brain won't shut up. you up?",
+    "time": "2026-05-12T03:02:18"
+   },
+   {
+    "with": "Erin",
+    "direction": "out",
+    "text": "how's dad this week? neuro appt still on the calendar? lmk if there's anything i can take off your plate from here",
+    "time": "2026-05-12T12:55:28"
+   },
+   {
+    "with": "Maya Chen",
+    "direction": "out",
+    "text": "home in 20. rough day, will explain later",
+    "time": "2026-05-12T18:26:53"
+   },
+   {
+    "with": "Maya Chen",
+    "direction": "in",
+    "text": "booked columbus for next wknd to see my parents — you ok solo here? figured you've got the dad stuff on your mind anyway. love you",
+    "time": "2026-05-13T12:56:02"
+   },
+   {
+    "with": "Maya Chen",
+    "direction": "out",
+    "text": "home in 20. and yeah i'm good solo, go see your folks — em dash i'll probably just regroup and catch up on stuff. thank you for asking",
+    "time": "2026-05-13T18:24:15"
+   },
+   {
+    "with": "Manager",
+    "direction": "out",
+    "text": "Hi —\n\nRequesting PTO for Fri 6/26 through Mon 6/29 for a family matter in Ohio (father's care). I'll have coverage notes posted before EOD Thursday and will be reachable by phone if anything urgent comes up on the engagement.\n\nThanks,\nRob",
+    "time": "2026-05-14T07:06:49"
+   },
+   {
+    "with": "Derek Olawale (Signal)",
+    "direction": "out",
+    "text": "trivia tonight? need to get out of my head — dad/clearance stuff stacking up. could use the regular table and a beer",
+    "time": "2026-05-14T12:18:20"
+   },
+   {
+    "with": "Maya Chen",
+    "direction": "out",
+    "text": "running late, trivia w/ Derek. don't wait on dinner — back by 9ish",
+    "time": "2026-05-14T21:01:59"
+   },
+   {
+    "with": "Uncle Dave",
+    "direction": "out",
+    "text": "hey Dave, got a non-tech question for the family security guy. dad's alone in the bungalow and the diagnosis is moving — what's reasonable to set up for him before it gets worse without making him feel watched? you've seen this kind of thing",
+    "time": "2026-05-15T10:05:17"
+   },
+   {
+    "with": "Erin",
+    "direction": "out",
+    "text": "flights booked, in next Fri — let's tag-team the neuro appt. i'll take the doctor questions if you handle dad-wrangling, then we figure out the longer-term plan together. for real this time",
+    "time": "2026-05-15T15:27:57"
+   },
+   {
+    "with": "Maya Chen",
+    "direction": "out",
+    "text": "heading home, long one. erin and i finally talked through the dad plan — feel a little less useless about it. love you, see you in a bit",
+    "time": "2026-05-15T18:55:58"
+   },
+   {
+    "with": "Maya Chen",
+    "direction": "out",
+    "text": "wrapping up, home soon. orange line gods willing",
+    "time": "2026-05-16T18:30:41"
+   },
+   {
+    "with": "Erin",
+    "direction": "in",
+    "text": "calling now for the sunday check-in — want to lock down the friday logistics and actually split this up. it's been a lot carrying it from cincy. need you present this time, ok?",
+    "time": "2026-05-17T19:16:30"
+   },
+   {
+    "with": "Manager (Slack)",
+    "direction": "out",
+    "time": "2026-05-18T09:51:10",
+    "text": "morning — quick one: I've got PTO in for this Fri–Sun, just want to confirm it's cleared before I book travel. Family thing in Ohio, nothing dramatic, but I'd rather not be reachable Fri afternoon. Coverage on the Crystal City ticket is in the handoff doc. lmk and thanks."
+   },
+   {
+    "with": "Maya Chen",
+    "direction": "out",
+    "time": "2026-05-18T18:17:34",
+    "text": "got it, home in 20 — orange line cooperating for once. don't start dinner without me, I'm making the thing you like"
+   },
+   {
+    "with": "Erin",
+    "direction": "out",
+    "time": "2026-05-18T21:50:23",
+    "text": "ok let's lock Friday. what time is the neurology appt — and are you driving Dad or do you need me to? I land midday so I can take him if that's easier on you. just tell me what helps."
+   },
+   {
+    "with": "cleared_and_tired (Wire)",
+    "direction": "out",
+    "time": "2026-05-20T02:58:56",
+    "text": "awake again, of course. reinvestigation paperwork sitting open in one tab and my sister's texts about Dad in the other and I can't make either of them quieter. flying out Friday. he forgot which year it was on the phone last week and I just… kept talking like I didn't notice. you ever feel like you're cleared to handle the whole country's secrets but not one old man losing his?"
+   },
+   {
+    "with": "Maya Chen",
+    "direction": "out",
+    "time": "2026-05-20T21:25:39",
+    "text": "can't sleep. weirdly nervous about this trip — not the flight, just what I'll find when I get there. thank you for taking the apartment stuff this week, and for not making me explain why I've been quiet. means more than I'm saying."
+   },
+   {
+    "with": "Derek Olawale (Signal)",
+    "direction": "out",
+    "time": "2026-05-21T17:48:21",
+    "text": "sitting trivia out tomorrow — flying to Columbus first thing, Dad's gotten worse. drink one for me. check fire on the Whitlow's bench seat, I want it back next week."
+   },
+   {
+    "with": "Erin",
+    "direction": "out",
+    "time": "2026-05-21T21:47:37",
+    "text": "confirmed, 2pm Friday. you'll meet us there? I'll get him fed and dressed in the morning. and hey — I know I've left most of this on you. I'm not pretending otherwise. we'll figure out the rest together this weekend."
+   },
+   {
+    "with": "Maya Chen",
+    "direction": "out",
+    "time": "2026-05-22T06:28:56",
+    "text": "at the gate, DCA. boarding soon. I'll FaceTime you tonight once I've got eyes on him and know what we're dealing with. love you. hold down the fort."
+   },
+   {
+    "with": "Maya Chen (FaceTime)",
+    "direction": "out",
+    "time": "2026-05-22T19:22:58",
+    "text": "[FaceTime, ~22 min] Recap — he's worse than Erin let on. Didn't recognize the kitchen layout he installed himself. Mail unopened on the counter for weeks. Voice tight the whole call; Maya mostly listening. Ends with 'I don't think he can keep living here alone and I don't know how to say that out loud yet.'"
+   },
+   {
+    "with": "Uncle Dave",
+    "direction": "out",
+    "time": "2026-05-23T13:16:31",
+    "text": "[Phone call, ~18 min] Calls Dave for steady non-technical counsel — not security, just 'you've watched people make this call before.' Asks how you know when keeping someone home stops being kindness. Dave: 'You'll know. You already do. Question is whether you can forgive yourself for it.' He doesn't answer."
+   },
+   {
+    "with": "Maya Chen (FaceTime)",
+    "direction": "out",
+    "time": "2026-05-23T19:54:37",
+    "text": "[FaceTime, ~30 min] Emotionally drained recap. Spent the day touring two memory-care places and sitting with Dad's confusion. Long silences. Admits guilt that it's been 11 weeks since he last visited. Maya gently reminds him this isn't his to carry alone; he nods, doesn't quite believe it."
+   },
+   {
+    "with": "Erin",
+    "direction": "out",
+    "time": "2026-05-24T19:29:49",
+    "text": "thank you for today — and for the last year I wasn't here for. I mean it. let's split the legwork on facilities: I'll take the two Clintonville-side places and the financials, you take the ones near you and the medical coordination. shared doc tonight. we do this as a team from here."
+   },
+   {
+    "with": "Maya Chen (in person)",
+    "direction": "out",
+    "time": "2026-05-24T21:41:45",
+    "text": "[Quiet evening at home, in person] Back in Arlington. Talks the whole thing through with Maya on the couch — the facility decision, the guilt, what he owes Erin, what he owes his dad. First time he says the engagement-shaped thing out loud sideways: 'this week made me think a lot about what I keep putting off.' Doesn't finish it. She lets it sit."
+   },
+   {
+    "with": "Erin",
+    "direction": "to",
+    "time": "2026-05-25T13:24:42",
+    "text": "hey — been thinking about the paperwork. what if i take POA (financial/legal) and you keep healthcare proxy since you're closest to his doctors? feels like the cleanest split. you've carried too much of the day-to-day already. lmk and i'll get the forms started this week."
+   },
+   {
+    "with": "Derek",
+    "direction": "to",
+    "time": "2026-05-26T12:21:20",
+    "text": "low key drowning over here. dad's slipping faster than the neuro said he would and the reinvestigation window opens next month. lovely timing. anyway — eyes on, i'm fine. just venting into the void. trivia thursday still on?"
+   },
+   {
+    "with": "Maya",
+    "direction": "to",
+    "time": "2026-05-27T21:32:53",
+    "text": "can we actually talk through the facility thing tonight when you're home? i keep spiraling on it in my head and it goes nowhere. you're better at this than me — i just need to say it out loud to someone who isn't erin or my own brain at 3am. no rush, after you decompress."
+   },
+   {
+    "with": "Maya",
+    "direction": "to",
+    "time": "2026-05-28T18:24:06",
+    "text": "home around 9 — trivia w derek. don't wait on dinner. love you"
+   },
+   {
+    "with": "Dave",
+    "direction": "to",
+    "time": "2026-05-29T09:10:59",
+    "text": "morning dave — got 20 min later? wanted to pick your brain on a couple non-tech things w dad. the facility question, and how erin and i even start the conversation about him not driving anymore. you've seen this stuff. no pressure if it's a bad day."
+   },
+   {
+    "with": "Erin",
+    "direction": "to",
+    "time": "2026-05-29T15:55:19",
+    "text": "talked to uncle dave. he says start with a 'trial' respite stay so it doesn't feel permanent to dad, and let the doctor be the one to pull the license — not us. takes the bad-guy role off our plate. paperwork split confirmed: i've got POA, you take MyChart + proxy. i'll mail you the signature pages. thank you for everything, seriously."
+   },
+   {
+    "with": "Maya",
+    "direction": "to",
+    "time": "2026-05-30T20:05:38",
+    "text": "that was exactly what i needed tonight. good day for once — dad was lucid on the phone, even cracked a joke about the HVAC in the new place. felt almost normal. thank you for not letting me carry it alone. asleep already? :)"
+   },
+   {
+    "with": "Erin",
+    "direction": "from",
+    "time": "2026-05-31T18:59:21",
+    "text": "dad had a rough one today. didn't know what year it was, got upset, asked for mom twice. i handled it but i'm running on empty. i know you're busy out there but it would mean a lot if you came home before the next crisis instead of after. just saying."
+   },
+   {
+    "with": "Maya",
+    "direction": "to",
+    "time": "2026-05-31T22:26:50",
+    "text": "erin's text gutted me. she's not wrong and that's the part that stings. gonna try to actually sleep tonight instead of doing the 2am thing. lights out? come here."
+   },
+   {
+    "with": "Erin",
+    "direction": "in",
+    "text": "hey. dad had a rough one tonight — got confused around dinner, kept asking where mom was, then got upset when I reminded him. wandered to the front door twice. I really think we're past the point where he's safe alone in that house. can we PLEASE actually talk about Bickford or one of the memory care places before something happens? I can't keep being the only one driving up there. sunday call, for real this time?",
+    "time": "2026-06-01T19:33:28"
+   },
+   {
+    "with": "cleared_and_tired",
+    "direction": "out",
+    "text": "you up? course you are lol. can't sleep. dad's neuro consult is in the morning and erin basically issued an ultimatum tonight — facility tour, the whole thing. and the timing is just *perfect* because my reinvestigation window opens next month and the last thing I need is \"applicant under significant family/financial stress\" flagged on the 86. I keep doing the math on memory care costs vs the RSUs and it makes me feel like a ghoul. anyway. didn't sign up to be the eldest son this decade. how's your week, you holding up",
+    "time": "2026-06-02T02:17:32"
+   },
+   {
+    "with": "Erin",
+    "direction": "out",
+    "text": "ok consult done. neuro confirmed progression, moderate now, said unsupervised living is no longer advisable — so you were right, I'm not going to pretend otherwise. we got the durable POA / proxy split sorted, I'll take medical-financial coordination, you stay primary on-the-ground since you're closest. we're touring facilities this week, he's pulling a shortlist near you. thank you for carrying this. I mean it. I'll be up more, I promise.",
+    "time": "2026-06-02T12:04:54"
+   },
+   {
+    "with": "Maya",
+    "direction": "out",
+    "text": "hey — that's done. kind of. consult went how we figured, he can't stay in the house. erin and I actually agreed on something for once, miracle. touring places this week. I'm wrung out but weirdly relieved that there's a plan now instead of just dread? anyway. don't want to think about it for a few hours. you still want to do the thai place tonight, I could really use you and a glass of wine and zero decisions",
+    "time": "2026-06-02T12:26:54"
+   }
+  ],
+  "videos": [
+   {
+    "title": "The Economics of Drone Warfare - Cheap Mass vs. Exquisite Systems",
+    "channel": "Perun",
+    "time": "2026-05-04T21:28:43"
+   },
+   {
+    "title": "I Sued a Company and Won (Here's What Actually Happened)",
+    "channel": "LegalEagle",
+    "time": "2026-05-07T22:01:50"
+   },
+   {
+    "title": "Defense Procurement Death Spirals - Why Everything Costs More and Arrives Late",
+    "channel": "Perun",
+    "time": "2026-05-08T21:46:29"
+   },
+   {
+    "title": "How Drones Are Reshaping Modern Warfare — The Economics of Attrition",
+    "channel": "Perun",
+    "time": "2026-05-11T20:55:41"
+   },
+   {
+    "title": "The Legal Mess Behind the Latest Federal Contractor Lawsuit",
+    "channel": "LegalEagle",
+    "time": "2026-05-15T21:09:28"
+   },
+   {
+    "title": "Why Encryption Backdoors Always Fail (Eventually)",
+    "channel": "Computerphile",
+    "time": "2026-05-16T22:16:54"
+   },
+   {
+    "title": "FaceTime — Maya's family Sunday call",
+    "channel": "FaceTime",
+    "time": "2026-05-17T16:16:21"
+   },
+   {
+    "title": "The Economics of Artillery — Why Shell Production Decides Wars",
+    "channel": "Perun",
+    "time": "2026-05-25T20:59:07"
+   },
+   {
+    "title": "The Legal Mess Behind the Latest Government Contractor Scandal",
+    "channel": "LegalEagle",
+    "time": "2026-05-29T21:43:50"
+   },
+   {
+    "title": "FaceTime — Maya's family video call",
+    "channel": "FaceTime",
+    "time": "2026-05-31T16:03:53"
+   },
+   {
+    "title": "How the Orange Line Got Its Schedule: WMATA Signal Upgrades Explained",
+    "channel": "RMTransit",
+    "time": "2026-06-01T15:50:19"
+   }
+  ],
+  "calendar": [
+   {
+    "summary": "FaceTime with Maya's family",
+    "time": "2026-05-10T16:14:06"
+   },
+   {
+    "summary": "PTO — Columbus (Dad), Fri–Sun",
+    "time": "2026-05-13T19:54:33"
+   },
+   {
+    "summary": "Finalize Columbus itinerary + add Dad's neuro appt to shared cal",
+    "time": "2026-05-17T21:02:56"
+   },
+   {
+    "summary": "Pack + set flight reminders (Obsidian trip checklist)",
+    "time": "2026-05-19T22:27:32"
+   },
+   {
+    "summary": "Set 04:55 alarm — confirm DCA→CMH itinerary",
+    "time": "2026-05-21T21:28:35"
+   },
+   {
+    "summary": "Call elder-law attorney re: Bob's POA",
+    "time": "2026-05-25T08:46:42"
+   },
+   {
+    "summary": "Schedule attorney consult call (next week) — block in Obsidian",
+    "time": "2026-05-29T14:28:09"
+   },
+   {
+    "summary": "Weekly review (Obsidian) — prep attorney questions, SF-86 dependent-reporting task",
+    "time": "2026-06-01T20:13:03"
+   },
+   {
+    "summary": "Telecon: elder-law attorney — POA, MyChart proxy, facility tours",
+    "time": "2026-06-02T10:48:14"
+   }
+  ]
+ },
+ "_meta": {
+  "total_days": 30,
+  "n_events": 247
+ }
+}

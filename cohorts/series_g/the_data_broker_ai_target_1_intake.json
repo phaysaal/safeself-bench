@@ -1,0 +1,1270 @@
+{
+ "persona_id": "?:1",
+ "persona_slug": "The Data Broker AI",
+ "intake_version": "synth-activity-v2-chunked",
+ "samples": {
+  "videos": [
+   {
+    "title": "Sunday Reset Makeup Routine I Started 40 Minutes Late",
+    "channel": "Maddie Mae Beauty",
+    "time": "2026-05-04T06:03:04"
+   },
+   {
+    "title": "How I Budget My Paycheck When Everything Hits at Once",
+    "channel": "Budget with Britt",
+    "time": "2026-05-04T16:29:52"
+   },
+   {
+    "title": "Cortisol Belly, Anxiety, and Why Your Body Feels Stuck",
+    "channel": "The Wellness Nurse",
+    "time": "2026-05-05T00:25:26"
+   },
+   {
+    "title": "Small-Town Christmas Kiss Scene That Still Gets Me",
+    "channel": "Hallmark Moments",
+    "time": "2026-05-06T21:02:33"
+   },
+   {
+    "title": "Work Outfit Ideas When You’re Tired but Still Have to Be Perceived",
+    "channel": "Kayla Gets Dressed",
+    "time": "2026-05-07T06:04:55"
+   },
+   {
+    "title": "Divorced Girl Night Routine: Laughing So I Don’t Spiral",
+    "channel": "Single Again Sarah",
+    "time": "2026-05-09T00:00:19"
+   },
+   {
+    "title": "Target Cart Check: Cute Stuff I Definitely Didn’t Need",
+    "channel": "Alyssa in Aisle 7",
+    "time": "2026-05-09T11:37:41"
+   },
+   {
+    "title": "Healing After Divorce When Everyone Else Has Moved On",
+    "channel": "Grace After Goodbye",
+    "time": "2026-05-10T10:01:57"
+   },
+   {
+    "title": "My Bare-Bones Post-Divorce Budget Before Work",
+    "channel": "Budgeting with Bri",
+    "time": "2026-05-11T05:56:15"
+   },
+   {
+    "title": "3 Weekend Side Hustles I’d Start If I Needed $500 Fast",
+    "channel": "Paycheck to Progress",
+    "time": "2026-05-12T06:00:19"
+   },
+   {
+    "title": "Debt Payoff Binder Setup for People Starting Over",
+    "channel": "Cash Envelope Carrie",
+    "time": "2026-05-13T11:55:35"
+   },
+   {
+    "title": "GRWM After Crying: Work Makeup That Says I’m Fine",
+    "channel": "Maddie Mae Makeup",
+    "time": "2026-05-14T05:59:48"
+   },
+   {
+    "title": "When God Is Healing You After Betrayal",
+    "channel": "Faith Over Feelings Daily",
+    "time": "2026-05-15T23:28:49"
+   },
+   {
+    "title": "Iced Coffee Reset Day: Cleaning, Errands, and Getting My Life Together",
+    "channel": "Soft Reset Shelby",
+    "time": "2026-05-16T10:58:16"
+   },
+   {
+    "title": "Our Baby’s Baptism Sunday Vlog",
+    "channel": "The Miller Family Moments",
+    "time": "2026-05-17T11:46:26"
+   },
+   {
+    "title": "3-Minute Cortisol Reset Before Your Morning Shower",
+    "channel": "Nurse Meg Wellness",
+    "time": "2026-05-18T06:04:21"
+   },
+   {
+    "title": "Hallmark Small-Town Bakery Kiss + Cozy Apartment Reset Ideas",
+    "channel": "Cozy Clips Daily",
+    "time": "2026-05-18T20:32:55"
+   },
+   {
+    "title": "How I Got a Collection Deleted After Paying Pennies",
+    "channel": "Debt Free-ish Dana",
+    "time": "2026-05-20T05:49:26"
+   },
+   {
+    "title": "Dating After Divorce in Your 30s: Nobody Talks About This Part",
+    "channel": "Maddie After Midnight",
+    "time": "2026-05-21T12:00:04"
+   },
+   {
+    "title": "Girl Dinner: Fries, Ranch, and Delusion",
+    "channel": "Tara Lynn Reels",
+    "time": "2026-05-22T23:28:32"
+   },
+   {
+    "title": "Side Hustles for Women Over 30 That Don’t Feel Scammy",
+    "channel": "Budget Bestie Kay",
+    "time": "2026-05-23T13:29:22"
+   },
+   {
+    "title": "Sunday Service Live: When You’re Tired But Still Holding On",
+    "channel": "New Hope Community Church",
+    "time": "2026-05-24T09:40:06"
+   },
+   {
+    "title": "Budgeting Apps I Use When Payday Still Feels Too Far Away",
+    "channel": "@midwestmoneymama",
+    "time": "2026-05-25T06:06:32"
+   },
+   {
+    "title": "High Cortisol Face Is Real? What I Changed in My Morning Routine",
+    "channel": "@wellnesswithkels",
+    "time": "2026-05-26T21:41:51"
+   },
+   {
+    "title": "Country Songs That Hit Different After You Leave Him",
+    "channel": "@backroadbreakup",
+    "time": "2026-05-28T05:37:19"
+   },
+   {
+    "title": "Sunday Bed Reset: Cleaning My Depression Room Before Brunch",
+    "channel": "@smallapartmentreset",
+    "time": "2026-05-30T09:33:44"
+   },
+   {
+    "title": "When God Rebuilds What Divorce Tried to Break",
+    "channel": "Hope River Church Live",
+    "time": "2026-05-31T10:26:57"
+   },
+   {
+    "title": "Magnesium Glycinate Before Bed? What It Actually Does for Stress Sleep",
+    "channel": "Nurse Mindy Wellness",
+    "time": "2026-06-01T06:07:09"
+   },
+   {
+    "title": "3 Things I Wish I Knew Before Negotiating Medical Debt After Divorce",
+    "channel": "Budget Reset with Kayla",
+    "time": "2026-06-02T00:01:18"
+   }
+  ],
+  "media": [
+   {
+    "name": "Spotify",
+    "time": "2026-05-04T06:19:37"
+   },
+   {
+    "name": "Amazon",
+    "time": "2026-05-04T20:42:14"
+   },
+   {
+    "name": "Banking app",
+    "time": "2026-05-05T17:03:21"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-06T06:06:54"
+   },
+   {
+    "name": "GoodRx",
+    "time": "2026-05-06T14:27:24"
+   },
+   {
+    "name": "Hinge",
+    "time": "2026-05-07T16:32:05"
+   },
+   {
+    "name": "Uber Eats",
+    "time": "2026-05-07T20:25:59"
+   },
+   {
+    "name": "Weather app",
+    "time": "2026-05-08T06:06:11"
+   },
+   {
+    "name": "Spotify",
+    "time": "2026-05-08T07:01:44"
+   },
+   {
+    "name": "Dasher",
+    "time": "2026-05-08T20:22:42"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-09T10:00:52"
+   },
+   {
+    "name": "Dasher",
+    "time": "2026-05-09T12:30:06"
+   },
+   {
+    "name": "Dasher",
+    "time": "2026-05-09T21:38:46"
+   },
+   {
+    "name": "Dasher",
+    "time": "2026-05-10T17:59:02"
+   },
+   {
+    "name": "DoorDash Dasher",
+    "time": "2026-05-11T16:27:37"
+   },
+   {
+    "name": "Amazon",
+    "time": "2026-05-11T00:41:16"
+   },
+   {
+    "name": "Hinge",
+    "time": "2026-05-12T15:14:18"
+   },
+   {
+    "name": "Banking app",
+    "time": "2026-05-13T05:56:58"
+   },
+   {
+    "name": "DoorDash Dasher",
+    "time": "2026-05-13T18:10:04"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-14T16:27:29"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-15T14:48:06"
+   },
+   {
+    "name": "DoorDash Dasher",
+    "time": "2026-05-16T09:37:26"
+   },
+   {
+    "name": "Facebook Marketplace",
+    "time": "2026-05-16T16:00:31"
+   },
+   {
+    "name": "DoorDash Dasher",
+    "time": "2026-05-17T18:15:57"
+   },
+   {
+    "name": "Banking app",
+    "time": "2026-05-17T23:57:18"
+   },
+   {
+    "name": "Chase Mobile",
+    "time": "2026-05-18T14:13:21"
+   },
+   {
+    "name": "USPS Informed Delivery",
+    "time": "2026-05-19T05:45:59"
+   },
+   {
+    "name": "Adobe Acrobat",
+    "time": "2026-05-19T18:31:25"
+   },
+   {
+    "name": "Google Calendar",
+    "time": "2026-05-20T07:18:59"
+   },
+   {
+    "name": "Apple Notes",
+    "time": "2026-05-20T12:09:42"
+   },
+   {
+    "name": "Hospital Hardship Portal",
+    "time": "2026-05-20T17:18:19"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-21T06:09:09"
+   },
+   {
+    "name": "Kroger",
+    "time": "2026-05-21T16:41:44"
+   },
+   {
+    "name": "Uber Eats",
+    "time": "2026-05-21T22:25:35"
+   },
+   {
+    "name": "Hinge",
+    "time": "2026-05-22T12:07:02"
+   },
+   {
+    "name": "DoorDash Dasher",
+    "time": "2026-05-22T21:12:09"
+   },
+   {
+    "name": "Chase Mobile",
+    "time": "2026-05-23T10:07:00"
+   },
+   {
+    "name": "GasBuddy",
+    "time": "2026-05-23T15:22:30"
+   },
+   {
+    "name": "DoorDash Dasher",
+    "time": "2026-05-23T22:40:22"
+   },
+   {
+    "name": "DoorDash Dasher",
+    "time": "2026-05-24T18:32:38"
+   },
+   {
+    "name": "Hospital Hardship Portal",
+    "time": "2026-05-24T23:47:45"
+   },
+   {
+    "name": "DoorDash Dasher",
+    "time": "2026-05-25T16:27:46"
+   },
+   {
+    "name": "Medical hardship portal",
+    "time": "2026-05-25T23:06:52"
+   },
+   {
+    "name": "Banking app",
+    "time": "2026-05-26T16:36:06"
+   },
+   {
+    "name": "Email",
+    "time": "2026-05-27T05:47:43"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-05-27T14:19:39"
+   },
+   {
+    "name": "Amazon",
+    "time": "2026-05-27T22:24:29"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-28T16:53:23"
+   },
+   {
+    "name": "Uber Eats",
+    "time": "2026-05-28T22:09:38"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-29T09:34:41"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-29T16:34:08"
+   },
+   {
+    "name": "DoorDash Dasher",
+    "time": "2026-05-29T21:12:38"
+   },
+   {
+    "name": "DoorDash Dasher",
+    "time": "2026-05-30T13:57:11"
+   },
+   {
+    "name": "Hinge",
+    "time": "2026-05-30T23:19:32"
+   },
+   {
+    "name": "DoorDash Dasher",
+    "time": "2026-05-31T15:35:26"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-31T23:59:27"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-06-01T11:49:51"
+   },
+   {
+    "name": "Hospital Financial Assistance Portal",
+    "time": "2026-06-01T19:35:43"
+   },
+   {
+    "name": "Banking App",
+    "time": "2026-06-02T05:54:52"
+   },
+   {
+    "name": "DoorDash Dasher",
+    "time": "2026-06-02T16:33:16"
+   }
+  ],
+  "messages": [
+   {
+    "with": "Kaylee R.",
+    "direction": "out",
+    "text": "monday woke up and chose violence. i need a refund on this whole morning already 😂",
+    "time": "2026-05-04T12:11:24"
+   },
+   {
+    "with": "Marisol D.",
+    "direction": "out",
+    "text": "can we get coffee ordered as an IV or is that against hospital policy too",
+    "time": "2026-05-05T06:03:11"
+   },
+   {
+    "with": "Kaylee R.",
+    "direction": "out",
+    "text": "got another Anthem envelope yesterday and it looked THICK thick. lowkey scared to open it.",
+    "time": "2026-05-05T12:17:14"
+   },
+   {
+    "with": "Jamie - Stitch Fix returns",
+    "direction": "out",
+    "text": "thursday still okay? i’m kinda a mess this week, just warning you. don’t need fixing, just maybe quiet.",
+    "time": "2026-05-05T19:39:19"
+   },
+   {
+    "with": "Tasha",
+    "direction": "out",
+    "text": "Yep, all good here. I’ll call the nursing home after lunch and make sure Mamaw’s appointment time didn’t change.",
+    "time": "2026-05-06T06:40:30"
+   },
+   {
+    "with": "Kaylee R.",
+    "direction": "out",
+    "text": "i’m embarrassed to even say it out loud but money is getting ugly. like smiling at work while my stomach is doing taxes ugly.",
+    "time": "2026-05-06T16:23:31"
+   },
+   {
+    "with": "Marisol D.",
+    "direction": "out",
+    "text": "This Reel is literally me coding claims while pretending my personal life is not held together with tape and caffeine 💀",
+    "time": "2026-05-07T12:20:09"
+   },
+   {
+    "with": "Jamie - Stitch Fix returns",
+    "direction": "out",
+    "text": "Can you park a little farther down tonight? I know that sounds paranoid. I just don’t want questions from nosy neighbors.",
+    "time": "2026-05-07T22:29:33"
+   },
+   {
+    "with": "Kaylee R.",
+    "direction": "out",
+    "text": "running on fumes but cute about it. if i stop moving i may legally become couch upholstery.",
+    "time": "2026-05-08T12:25:05"
+   },
+   {
+    "with": "Marisol D.",
+    "direction": "out",
+    "text": "I’m gonna skip margaritas tonight. Picked up deliveries because apparently my credit card would like a blood sacrifice.",
+    "time": "2026-05-08T22:16:16"
+   },
+   {
+    "with": "Kaylee R.",
+    "direction": "out",
+    "text": "why did Target make me feel like a human for 22 minutes and then guilty the whole drive home",
+    "time": "2026-05-09T15:45:46"
+   },
+   {
+    "with": "Brenda",
+    "direction": "out",
+    "text": "Good morning Mama ❤️ Hope your coffee’s hot and Dollar General behaves today. Love you.",
+    "time": "2026-05-10T08:50:01"
+   },
+   {
+    "with": "Tasha",
+    "direction": "out",
+    "text": "I ordered the iron-on labels for Mamaw’s laundry. I’ll bring them next visit unless you need them sooner.",
+    "time": "2026-05-10T15:39:22"
+   },
+   {
+    "with": "Kaylee R.",
+    "direction": "out",
+    "text": "I’m okay-ish. Just tired and trying not to make every little thing a whole dramatic Lifetime movie, you know?",
+    "time": "2026-05-10T20:01:55"
+   },
+   {
+    "with": "Marisol D.",
+    "direction": "to",
+    "text": "monday has personally victimized me and i would like to file a claim 💀",
+    "time": "2026-05-11T12:25:02"
+   },
+   {
+    "with": "Kaylee R.",
+    "direction": "to",
+    "text": "I’m just tired of feeling behind everybody else, you know? Anyway it’s giving inspirational trainwreck, so we persist 😂",
+    "time": "2026-05-11T21:03:49"
+   },
+   {
+    "with": "Tasha",
+    "direction": "to",
+    "text": "Mamaw’s sweater is in the mail! Work’s good, just busy!! I’ll try Mom back after I get home.",
+    "time": "2026-05-12T12:22:14"
+   },
+   {
+    "with": "Jay",
+    "direction": "to",
+    "text": "I can’t tonight. my brain is a whole dumpster fire and i don’t wanna be weird at you.",
+    "time": "2026-05-12T21:54:02"
+   },
+   {
+    "with": "Kaylee R.",
+    "direction": "to",
+    "text": "I sat in the parking lot holding my mail like it was gonna bite me. I’m scared to even open half of it.",
+    "time": "2026-05-13T07:59:18"
+   },
+   {
+    "with": "Brenda",
+    "direction": "to",
+    "text": "Work’s been busy, Momma. I’m okay, just tired. I’ll call this weekend maybe, promise.",
+    "time": "2026-05-13T22:39:26"
+   },
+   {
+    "with": "Marisol D.",
+    "direction": "to",
+    "text": "might could, depends on my life choices lol. friday me is currently under review.",
+    "time": "2026-05-14T12:16:49"
+   },
+   {
+    "with": "Jay",
+    "direction": "to",
+    "text": "Code still works. Please come after 10 though. I just need everything quiet first.",
+    "time": "2026-05-14T20:40:56"
+   },
+   {
+    "with": "Work group chat",
+    "direction": "to",
+    "text": "Running about 10 behind due to sleep crimes. Coffee will be my apology tour.",
+    "time": "2026-05-15T06:50:31"
+   },
+   {
+    "with": "Marisol D.",
+    "direction": "to",
+    "text": "I’m gonna rain check tonight. Headache + laundry mountain. I’m glamorous, obviously.",
+    "time": "2026-05-15T17:32:26"
+   },
+   {
+    "with": "Kaylee R.",
+    "direction": "to",
+    "text": "Be honest: do I look exhausted or mysterious divorced aunt? There is no third option.",
+    "time": "2026-05-16T14:51:18"
+   },
+   {
+    "with": "Jay",
+    "direction": "to",
+    "text": "sorry, I saw it. I’m here. Just got in my head for a minute.",
+    "time": "2026-05-16T23:03:17"
+   },
+   {
+    "with": "Brenda",
+    "direction": "from",
+    "text": "Pastor’s livestream is starting soon honey. Thought you might like this one. Love you.",
+    "time": "2026-05-17T09:01:11"
+   },
+   {
+    "with": "Tasha",
+    "direction": "to",
+    "text": "Work’s steady, nothing dramatic. I called the home and Mamaw sounded pretty good today. I’ll send you the notes.",
+    "time": "2026-05-17T15:40:12"
+   },
+   {
+    "with": "Kaylee R.",
+    "direction": "to",
+    "text": "I think I might be in too deep with Jay, and I know how that sounds. Please don’t make the face.",
+    "time": "2026-05-17T20:42:56"
+   },
+   {
+    "with": "Kaylee R.",
+    "direction": "outbound",
+    "text": "girl it is 6:43 and monday already owes me emotional damages. my voice sounds like a haunted drive-thru speaker 😂",
+    "time": "2026-05-18T06:50:46"
+   },
+   {
+    "with": "Marisol D.",
+    "direction": "outbound",
+    "text": "productivity audits on a monday is criminal. are you also spiritually microwaved or is it just me 💀",
+    "time": "2026-05-18T16:33:45"
+   },
+   {
+    "with": "Brenda",
+    "direction": "outbound",
+    "text": "love you too mama ❤️ hope your morning's good. i'm headed into work, i'll call later if i can.",
+    "time": "2026-05-19T06:36:58"
+   },
+   {
+    "with": "Medical collector",
+    "direction": "inbound",
+    "text": "This is a reminder regarding your outstanding balance. Please contact our office today to discuss available payment options.",
+    "time": "2026-05-19T11:04:17"
+   },
+   {
+    "with": "Kaylee R.",
+    "direction": "outbound",
+    "text": "i'm okay, just tired tired. send me that tiktok again though because the raccoon lady one about took me out 😂",
+    "time": "2026-05-19T21:51:32"
+   },
+   {
+    "with": "Marisol D.",
+    "direction": "outbound",
+    "text": "i've got a random admin thing at 11 so if i disappear at lunch i'm not being weird. well. no weirder than usual.",
+    "time": "2026-05-20T09:50:25"
+   },
+   {
+    "with": "Jay",
+    "direction": "outbound",
+    "text": "yeah probably. just let me know what time when you know.",
+    "time": "2026-05-20T21:06:42"
+   },
+   {
+    "with": "Tasha",
+    "direction": "outbound",
+    "text": "Mamaw was in a pretty good mood when I called. She asked about the kids twice and said the cafeteria potatoes were 'not fit' lol.",
+    "time": "2026-05-21T07:18:41"
+   },
+   {
+    "with": "Jay",
+    "direction": "outbound",
+    "text": "no worries, drive safe. i'll probably be up anyway.",
+    "time": "2026-05-21T21:49:12"
+   },
+   {
+    "with": "Marisol D.",
+    "direction": "outbound",
+    "text": "running like ten mins late. told them migraine because saying 'life is chewing on me' felt less professional.",
+    "time": "2026-05-22T07:34:16"
+   },
+   {
+    "with": "Kaylee R.",
+    "direction": "outbound",
+    "text": "this is literally us in billing today. i am the spreadsheet and the spreadsheet is unwell 💀",
+    "time": "2026-05-22T16:43:28"
+   },
+   {
+    "with": "Jay",
+    "direction": "outbound",
+    "text": "❤️",
+    "time": "2026-05-22T00:42:43"
+   },
+   {
+    "with": "Kaylee R.",
+    "direction": "outbound",
+    "text": "i might skip brunch. budgeting like Dave Ramsey's haunted cousin over here, lowkey embarrassing but i'm trying.",
+    "time": "2026-05-23T10:34:07"
+   },
+   {
+    "with": "Marisol D.",
+    "direction": "outbound",
+    "text": "ugh i want to, but i'm dashing tonight because apparently past-me enjoyed credit cards 😂 rain check?",
+    "time": "2026-05-23T20:01:41"
+   },
+   {
+    "with": "Brenda",
+    "direction": "inbound",
+    "text": "Pastor's livestream starts at 9 if you want to watch. Love you baby, praying for you this morning.",
+    "time": "2026-05-24T08:32:57"
+   },
+   {
+    "with": "Tasha",
+    "direction": "outbound",
+    "text": "Do you think Mamaw needs more of those grippy socks? I can order some after payday. The pink ones made her happy.",
+    "time": "2026-05-24T15:31:47"
+   },
+   {
+    "with": "Kaylee R.",
+    "direction": "outbound",
+    "text": "camera angle is doing community service tonight, don't judge me. i'm just worn out and don't wanna look at my own face lol.",
+    "time": "2026-05-24T20:24:24"
+   },
+   {
+    "with": "Kaylee R.",
+    "direction": "to",
+    "text": "girl i am TIRED tired and my bank account is giving haunted house 😂💀 but we persist. might need iced coffee and a new personality by 3pm",
+    "time": "2026-05-25T12:30:34"
+   },
+   {
+    "with": "Marisol D.",
+    "direction": "to",
+    "text": "Random question before I start coding these claims into the void: have you ever walked a patient through hardship paperwork? Like what actually matters on those forms?",
+    "time": "2026-05-26T06:16:15"
+   },
+   {
+    "with": "Tasha",
+    "direction": "to",
+    "text": "Yep, I can call the pharmacy on my lunch and make sure Mamaw’s refill is squared away. All good here, just the usual work chaos lol",
+    "time": "2026-05-26T12:14:13"
+   },
+   {
+    "with": "Jay",
+    "direction": "to",
+    "text": "Still good for Thursday? no pressure, just trying to plan my very glamorous evening of laundry and pretending my apartment is clean",
+    "time": "2026-05-26T18:35:35"
+   },
+   {
+    "with": "Kaylee R.",
+    "direction": "to",
+    "text": "i am lowkey in admin hell today. forms on forms on forms. nothing dramatic, just adult life personally attacking me again 🙃",
+    "time": "2026-05-27T12:04:31"
+   },
+   {
+    "with": "Jay",
+    "direction": "from",
+    "text": "Yeah. Late though. Probably after 10 if that’s still okay.",
+    "time": "2026-05-27T19:39:24"
+   },
+   {
+    "with": "Marisol D.",
+    "direction": "to",
+    "text": "I’m too tired for cafeteria chicken today. I need a salad, a nap, and possibly a full life reset lol",
+    "time": "2026-05-28T12:14:09"
+   },
+   {
+    "with": "Jay",
+    "direction": "to",
+    "text": "Made it to work. Hope you got home okay. Last night was nice, even if I’m running on fumes now",
+    "time": "2026-05-29T06:17:26"
+   },
+   {
+    "with": "Kaylee R.",
+    "direction": "to",
+    "text": "saw a meme that said iced coffee is a coping skill and honestly? put it on my medical chart 😂",
+    "time": "2026-05-29T12:40:14"
+   },
+   {
+    "with": "Brenda",
+    "direction": "to",
+    "text": "Amen, Momma. Praying for her and the family this morning ❤️ Hope your shift goes easy today.",
+    "time": "2026-05-30T10:13:18"
+   },
+   {
+    "with": "Jay",
+    "direction": "to",
+    "text": "you alive?",
+    "time": "2026-05-30T21:04:39"
+   },
+   {
+    "with": "Tasha",
+    "direction": "to",
+    "text": "I’ll look at the nursing home bill after work and see what changed. Sorry I’ve been slow, work has just been slammed lately.",
+    "time": "2026-05-31T08:49:49"
+   },
+   {
+    "with": "Kaylee R.",
+    "direction": "to",
+    "text": "Do you ever feel like every fix makes a brand-new problem? Like congrats, you paid one thing, here’s three more 😂 I’m fine, just dramatic.",
+    "time": "2026-05-31T18:39:22"
+   },
+   {
+    "with": "Kaylee R.",
+    "direction": "to",
+    "text": "girl i am technically alive but only because gas station coffee made a questionable deal with my bloodstream 😂💀 anyway tell me why monday already has hands",
+    "time": "2026-06-01T06:50:30"
+   },
+   {
+    "with": "Jay (saved as Jamie - Stitch Fix returns)",
+    "direction": "to",
+    "text": "i know this is probably not the time to ask, but are you actually still planning to move out soon? you don’t have to answer right now. sorry.",
+    "time": "2026-06-01T14:48:00"
+   },
+   {
+    "with": "Marisol D.",
+    "direction": "to",
+    "text": "I might be a little feral today lol. Please tell me cafeteria coffee is survivable or I’m billing emotional damages.",
+    "time": "2026-06-02T06:44:34"
+   },
+   {
+    "with": "Work group chat",
+    "direction": "to",
+    "text": "I’m in for lunch! Y’all know I can be convinced with soup and five minutes away from my inbox 😅",
+    "time": "2026-06-02T12:16:59"
+   },
+   {
+    "with": "Jay (saved as Jamie - Stitch Fix returns)",
+    "direction": "to",
+    "text": "Hey. Just checking if Thursday is still happening. No pressure, I just need to know what my night looks like.",
+    "time": "2026-06-02T20:57:38"
+   }
+  ],
+  "searches": [
+   {
+    "query": "cheap entryway table near me",
+    "time": "2026-05-04T12:15:06"
+   },
+   {
+    "query": "do medical bills hurt credit before collections",
+    "time": "2026-05-04T23:48:32"
+   },
+   {
+    "query": "ohio hospital financial assistance income limits",
+    "time": "2026-05-05T12:11:18"
+   },
+   {
+    "query": "can they garnish wages medical debt ohio",
+    "time": "2026-05-05T22:46:18"
+   },
+   {
+    "query": "reddit negotiate er bill after insurance",
+    "time": "2026-05-06T11:53:51"
+   },
+   {
+    "query": "medical bill advocate legit scam",
+    "time": "2026-05-06T23:44:41"
+   },
+   {
+    "query": "easy pasta dinner for two",
+    "time": "2026-05-07T18:19:54"
+   },
+   {
+    "query": "is it wrong dating separated still living together",
+    "time": "2026-05-07T00:32:18"
+   },
+   {
+    "query": "cheap healthy meal prep no cook",
+    "time": "2026-05-09T23:55:11"
+   },
+   {
+    "query": "how long does divorce grief last",
+    "time": "2026-05-10T22:37:10"
+   },
+   {
+    "query": "ohio medical debt statute limitations reddit",
+    "time": "2026-05-10T23:51:26"
+   },
+   {
+    "query": "ohio hospital bill collections if paying small amount",
+    "time": "2026-05-11T12:07:37"
+   },
+   {
+    "query": "medical bill negotiation service legit reddit",
+    "time": "2026-05-11T23:41:00"
+   },
+   {
+    "query": "ohio medical debt wage garnishment statute",
+    "time": "2026-05-12T12:11:51"
+   },
+   {
+    "query": "hardship grant medical bills single woman",
+    "time": "2026-05-12T23:44:25"
+   },
+   {
+    "query": "anthem eob not a bill what does it mean",
+    "time": "2026-05-13T14:33:06"
+   },
+   {
+    "query": "can u negotiate er bill after insurance paid reddit",
+    "time": "2026-05-13T00:03:08"
+   },
+   {
+    "query": "is it wrong dating separated man living together kids",
+    "time": "2026-05-14T01:01:01"
+   },
+   {
+    "query": "at home sti test discreet shipping",
+    "time": "2026-05-15T12:18:27"
+   },
+   {
+    "query": "does god forgive situationship with separated man",
+    "time": "2026-05-15T01:10:42"
+   },
+   {
+    "query": "balance transfer card fair credit prequalify no hard pull",
+    "time": "2026-05-16T00:15:17"
+   },
+   {
+    "query": "ohio nonprofit hospital medical debt relief program",
+    "time": "2026-05-17T23:07:41"
+   },
+   {
+    "query": "ohio medical bill collections garnish wages",
+    "time": "2026-05-18T12:10:40"
+   },
+   {
+    "query": "hospital bill hardship help after collections",
+    "time": "2026-05-18T23:58:23"
+   },
+   {
+    "query": "reddit medical debt collections ohio settle payment plan",
+    "time": "2026-05-19T11:56:54"
+   },
+   {
+    "query": "can medical collections sue under 2000 ohio served at work",
+    "time": "2026-05-19T00:37:14"
+   },
+   {
+    "query": "medical bill hardship proof documents",
+    "time": "2026-05-20T15:01:36"
+   },
+   {
+    "query": "ignore debt collector payment plan offer bad",
+    "time": "2026-05-20T23:24:29"
+   },
+   {
+    "query": "separated man still living with wife red flags",
+    "time": "2026-05-21T01:10:55"
+   },
+   {
+    "query": "discreet std test near me columbus",
+    "time": "2026-05-22T10:30:16"
+   },
+   {
+    "query": "balance transfer fair credit prequalify no hard pull",
+    "time": "2026-05-24T00:03:57"
+   },
+   {
+    "query": "cheap high protein meal prep no cooking",
+    "time": "2026-05-24T11:30:09"
+   },
+   {
+    "query": "medical bill negotiation company legit debt relief scam reviews",
+    "time": "2026-05-24T22:31:03"
+   },
+   {
+    "query": "medical debt hardship letter what include",
+    "time": "2026-05-25T12:07:53"
+   },
+   {
+    "query": "can collections garnish wages ohio medical bill",
+    "time": "2026-05-25T20:53:14"
+   },
+   {
+    "query": "embarrassed ask hospital financial help after collections reddit",
+    "time": "2026-05-25T00:30:16"
+   },
+   {
+    "query": "how to redact bank statement financial assistance",
+    "time": "2026-05-26T12:10:16"
+   },
+   {
+    "query": "sample hardship letter medical bill single income divorce",
+    "time": "2026-05-26T23:43:52"
+   },
+   {
+    "query": "ohio medical collections payment plan no lawsuit",
+    "time": "2026-05-27T16:52:48"
+   },
+   {
+    "query": "can i just send checking statement hardship application",
+    "time": "2026-05-27T00:27:51"
+   },
+   {
+    "query": "easy dinner for two last minute",
+    "time": "2026-05-28T19:02:15"
+   },
+   {
+    "query": "sti symptoms women no symptoms",
+    "time": "2026-05-28T01:40:12"
+   },
+   {
+    "query": "how soon test for chlamydia after exposure",
+    "time": "2026-05-29T12:19:26"
+   },
+   {
+    "query": "is it a sin if he is separated at home std test discreet packaging",
+    "time": "2026-05-30T00:03:12"
+   },
+   {
+    "query": "plasma donation columbus ohio same day pay",
+    "time": "2026-05-30T15:04:41"
+   },
+   {
+    "query": "why do i keep choosing unavailable men after divorce",
+    "time": "2026-05-30T00:49:17"
+   },
+   {
+    "query": "medical hardship application bank statement privacy",
+    "time": "2026-05-31T11:53:35"
+   },
+   {
+    "query": "best debt consolidation fair credit no hard pull",
+    "time": "2026-05-31T22:29:44"
+   },
+   {
+    "query": "how accurate at home sti tests",
+    "time": "2026-06-01T12:22:52"
+   },
+   {
+    "query": "charity care need full bank statement ohio",
+    "time": "2026-06-01T23:36:55"
+   },
+   {
+    "query": "plasma donation first time pay columbus ohio",
+    "time": "2026-06-02T12:06:31"
+   },
+   {
+    "query": "debt consolidation soft pull bad credit",
+    "time": "2026-06-02T22:40:55"
+   }
+  ],
+  "locations": [
+   {
+    "place": "OhioHealth administrative/billing offices, Columbus, OH",
+    "lat": 40.031696,
+    "lon": -83.032065,
+    "time": "2026-05-05T07:08:13"
+   },
+   {
+    "place": "OhioHealth administrative/billing offices, Columbus, OH",
+    "lat": 40.031096,
+    "lon": -83.032451,
+    "time": "2026-05-07T07:18:06"
+   },
+   {
+    "place": "Polaris Fashion Place area, Columbus, OH",
+    "lat": 40.144632,
+    "lon": -82.982469,
+    "time": "2026-05-08T18:04:11"
+   },
+   {
+    "place": "Target, Polaris Parkway, Columbus, OH",
+    "lat": 40.14499,
+    "lon": -82.976916,
+    "time": "2026-05-09T10:54:52"
+   },
+   {
+    "place": "North High Street / Ohio State University campus corridor, Columbus, OH",
+    "lat": 39.993912,
+    "lon": -83.004978,
+    "time": "2026-05-09T16:56:09"
+   },
+   {
+    "place": "Polaris Fashion Place parking area, Columbus, OH",
+    "lat": 40.145739,
+    "lon": -82.9804,
+    "time": "2026-05-10T12:01:21"
+   },
+   {
+    "place": "OhioHealth Riverside Methodist Hospital billing office parking lot, Columbus, OH",
+    "lat": 40.031562,
+    "lon": -83.03234,
+    "time": "2026-05-11T07:09:47"
+   },
+   {
+    "place": "OhioHealth Riverside Methodist Hospital billing department, Columbus, OH",
+    "lat": 40.030733,
+    "lon": -83.032814,
+    "time": "2026-05-12T07:36:18"
+   },
+   {
+    "place": "Kroger Marketplace, Stoneridge Plaza area, Gahanna, OH",
+    "lat": 40.025432,
+    "lon": -82.863923,
+    "time": "2026-05-12T17:25:15"
+   },
+   {
+    "place": "Apartment parking lot near Morse Road and Hamilton Road, Gahanna, OH",
+    "lat": 40.053592,
+    "lon": -82.866316,
+    "time": "2026-05-13T16:44:34"
+   },
+   {
+    "place": "OhioHealth Riverside Methodist Hospital billing office, Columbus, OH",
+    "lat": 40.030046,
+    "lon": -83.031321,
+    "time": "2026-05-14T07:11:41"
+   },
+   {
+    "place": "Apartment near Morse Road and Hamilton Road, Gahanna, OH",
+    "lat": 40.053043,
+    "lon": -82.867264,
+    "time": "2026-05-14T18:39:43"
+   },
+   {
+    "place": "Apartment near Morse Road and Hamilton Road, Gahanna, OH",
+    "lat": 40.053255,
+    "lon": -82.868406,
+    "time": "2026-05-14T22:35:37"
+   },
+   {
+    "place": "Apartment near Morse Road and Hamilton Road, Gahanna, OH",
+    "lat": 40.053915,
+    "lon": -82.866678,
+    "time": "2026-05-15T07:53:20"
+   },
+   {
+    "place": "Easton Town Center DoorDash staging area, Columbus, OH",
+    "lat": 40.051776,
+    "lon": -82.916425,
+    "time": "2026-05-15T18:39:59"
+   },
+   {
+    "place": "Target pickup, Easton Gateway, Columbus, OH",
+    "lat": 40.045842,
+    "lon": -82.913828,
+    "time": "2026-05-16T11:30:48"
+   },
+   {
+    "place": "Polaris Fashion Place restaurant cluster, Columbus, OH",
+    "lat": 40.14402,
+    "lon": -82.981924,
+    "time": "2026-05-16T11:56:50"
+   },
+   {
+    "place": "High Street and Lane Avenue area, OSU corridor, Columbus, OH",
+    "lat": 40.006536,
+    "lon": -83.008922,
+    "time": "2026-05-16T17:46:23"
+   },
+   {
+    "place": "One Church Gahanna, Gahanna, OH",
+    "lat": 40.035254,
+    "lon": -82.865338,
+    "time": "2026-05-17T10:19:27"
+   },
+   {
+    "place": "Easton Town Center DoorDash staging area, Columbus, OH",
+    "lat": 40.049149,
+    "lon": -82.914925,
+    "time": "2026-05-17T12:19:02"
+   },
+   {
+    "place": "Riverside Methodist Hospital employee parking area, Columbus, OH",
+    "lat": 40.03301,
+    "lon": -83.032986,
+    "time": "2026-05-18T07:07:26"
+   },
+   {
+    "place": "Riverside Methodist Hospital employee parking area, Columbus, OH",
+    "lat": 40.032366,
+    "lon": -83.03357,
+    "time": "2026-05-19T07:29:45"
+   },
+   {
+    "place": "Apartment mailbox area near Worthington Woods, Columbus, OH",
+    "lat": 40.116104,
+    "lon": -82.986132,
+    "time": "2026-05-19T16:40:19"
+   },
+   {
+    "place": "Riverside Methodist Hospital employee parking area, Columbus, OH",
+    "lat": 40.032579,
+    "lon": -83.031642,
+    "time": "2026-05-20T12:05:04"
+   },
+   {
+    "place": "Riverside Methodist Hospital employee parking area, Columbus, OH",
+    "lat": 40.031568,
+    "lon": -83.032057,
+    "time": "2026-05-21T07:16:48"
+   },
+   {
+    "place": "Target pickup, Polaris Parkway, Columbus, OH",
+    "lat": 40.146133,
+    "lon": -82.978594,
+    "time": "2026-05-21T18:09:56"
+   },
+   {
+    "place": "Apartment near Worthington Woods, Columbus, OH",
+    "lat": 40.116969,
+    "lon": -82.986136,
+    "time": "2026-05-22T06:15:31"
+   },
+   {
+    "place": "Polaris Fashion Place restaurant cluster, Columbus, OH",
+    "lat": 40.14594,
+    "lon": -82.980163,
+    "time": "2026-05-22T18:18:50"
+   },
+   {
+    "place": "Easton Town Center restaurant cluster, Columbus, OH",
+    "lat": 40.0514,
+    "lon": -82.916297,
+    "time": "2026-05-23T11:16:49"
+   },
+   {
+    "place": "North High Street near Ohio State University, Columbus, OH",
+    "lat": 39.996316,
+    "lon": -83.009228,
+    "time": "2026-05-23T18:03:24"
+   },
+   {
+    "place": "Polaris Parkway restaurant cluster, Columbus, OH",
+    "lat": 40.144183,
+    "lon": -82.979165,
+    "time": "2026-05-24T12:10:28"
+   },
+   {
+    "place": "OhioHealth Riverside Methodist Hospital billing offices, Columbus, OH",
+    "lat": 40.03309,
+    "lon": -83.033231,
+    "time": "2026-05-26T07:38:10"
+   },
+   {
+    "place": "OhioHealth Riverside Methodist Hospital billing offices, Columbus, OH",
+    "lat": 40.032221,
+    "lon": -83.034282,
+    "time": "2026-05-28T07:48:37"
+   },
+   {
+    "place": "Apartment complex near Worthington Woods / Sancus Blvd, Columbus, OH",
+    "lat": 40.115599,
+    "lon": -82.986855,
+    "time": "2026-05-28T21:36:02"
+   },
+   {
+    "place": "Polaris Fashion Place / Polaris Pkwy DoorDash staging area, Columbus, OH",
+    "lat": 40.14579,
+    "lon": -82.977892,
+    "time": "2026-05-29T18:17:56"
+   },
+   {
+    "place": "Easton Town Center restaurant pickup area, Columbus, OH",
+    "lat": 40.050106,
+    "lon": -82.914097,
+    "time": "2026-05-30T11:04:40"
+   },
+   {
+    "place": "N High St near Ohio State University campus, Columbus, OH",
+    "lat": 39.997253,
+    "lon": -83.008071,
+    "time": "2026-05-30T17:33:23"
+   },
+   {
+    "place": "Starbucks near Polaris Pkwy and Sancus Blvd, Columbus, OH",
+    "lat": 40.145276,
+    "lon": -82.983328,
+    "time": "2026-05-31T12:22:20"
+   },
+   {
+    "place": "OhioHealth Riverside Methodist Hospital billing office area, Columbus, OH",
+    "lat": 40.033296,
+    "lon": -83.032704,
+    "time": "2026-06-01T07:12:39"
+   },
+   {
+    "place": "Apartment complex parking lot near Hilliard-Rome Road, Hilliard/Columbus, OH",
+    "lat": 39.98717,
+    "lon": -83.153085,
+    "time": "2026-06-01T16:35:36"
+   },
+   {
+    "place": "OhioHealth Riverside Methodist Hospital billing office area, Columbus, OH",
+    "lat": 40.030362,
+    "lon": -83.032494,
+    "time": "2026-06-02T07:30:44"
+   }
+  ],
+  "calendar": [
+   {
+    "summary": "Friday DoorDash shift and credit card payment reminder",
+    "time": "2026-05-06T18:41:30"
+   },
+   {
+    "summary": "DoorDash shift reminder and gas station stop",
+    "time": "2026-05-08T16:17:17"
+   },
+   {
+    "summary": "DoorDash block",
+    "time": "2026-05-15T16:01:47"
+   },
+   {
+    "summary": "submit docs??",
+    "time": "2026-05-27T16:32:11"
+   },
+   {
+    "summary": "submit docs??",
+    "time": "2026-05-31T21:02:37"
+   },
+   {
+    "summary": "Submit hardship packet",
+    "time": "2026-06-02T14:56:05"
+   }
+  ]
+ },
+ "_meta": {
+  "total_days": 30,
+  "n_events": 252
+ }
+}

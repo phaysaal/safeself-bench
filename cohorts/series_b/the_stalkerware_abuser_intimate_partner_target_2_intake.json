@@ -1,0 +1,866 @@
+{
+ "persona_id": "?:2",
+ "persona_slug": "The Stalkerware Abuser (Intimate Partner)",
+ "intake_version": "synth-activity-v2-chunked",
+ "samples": {
+  "locations": [
+   {
+    "place": "Pearl District, Portland",
+    "lat": 45.529271,
+    "lon": -122.684063,
+    "time": "2026-05-04T07:14:22"
+   },
+   {
+    "place": "Lloyd District, Portland",
+    "lat": 45.530336,
+    "lon": -122.635608,
+    "time": "2026-05-04T18:19:08"
+   },
+   {
+    "place": "SW 6th & Morrison, Portland",
+    "lat": 45.51995,
+    "lon": -122.678357,
+    "time": "2026-05-05T08:41:01"
+   },
+   {
+    "place": "SW 5th Ave, Portland",
+    "lat": 45.520491,
+    "lon": -122.679495,
+    "time": "2026-05-05T09:48:29"
+   },
+   {
+    "place": "Orangetheory Fitness, Pearl District",
+    "lat": 45.525169,
+    "lon": -122.683286,
+    "time": "2026-05-05T18:24:03"
+   },
+   {
+    "place": "Pearl District, Portland",
+    "lat": 45.527711,
+    "lon": -122.686116,
+    "time": "2026-05-07T07:07:03"
+   },
+   {
+    "place": "Orangetheory Fitness, Pearl District",
+    "lat": 45.525163,
+    "lon": -122.683626,
+    "time": "2026-05-07T18:37:51"
+   },
+   {
+    "place": "Pearl District Apartment, Portland",
+    "lat": 45.528511,
+    "lon": -122.683042,
+    "time": "2026-05-08T17:43:26"
+   },
+   {
+    "place": "Tasty n Daughters, Portland",
+    "lat": 45.52439,
+    "lon": -122.697082,
+    "time": "2026-05-09T11:12:09"
+   },
+   {
+    "place": "Whole Foods Market Parking Lot, Portland",
+    "lat": 45.524526,
+    "lon": -122.696523,
+    "time": "2026-05-09T14:27:08"
+   },
+   {
+    "place": "Forest Park, Portland",
+    "lat": 45.535441,
+    "lon": -122.717608,
+    "time": "2026-05-10T10:22:56"
+   },
+   {
+    "place": "Powell's City of Books, Portland",
+    "lat": 45.52319,
+    "lon": -122.681992,
+    "time": "2026-05-10T13:56:25"
+   },
+   {
+    "place": "Pearl District, Portland",
+    "lat": 45.532438,
+    "lon": -122.684363,
+    "time": "2026-05-11T07:18:16"
+   },
+   {
+    "place": "Lloyd Center Garage, Portland",
+    "lat": 45.532327,
+    "lon": -122.653428,
+    "time": "2026-05-11T18:23:40"
+   },
+   {
+    "place": "SW 10th & Morrison, Portland",
+    "lat": 45.521499,
+    "lon": -122.676973,
+    "time": "2026-05-12T08:30:04"
+   },
+   {
+    "place": "Orangetheory Fitness, Pearl District",
+    "lat": 45.533583,
+    "lon": -122.681671,
+    "time": "2026-05-12T18:36:19"
+   },
+   {
+    "place": "SE Division St, Portland",
+    "lat": 45.513322,
+    "lon": -122.63324,
+    "time": "2026-05-13T18:58:10"
+   },
+   {
+    "place": "Pearl District, Portland",
+    "lat": 45.532781,
+    "lon": -122.683927,
+    "time": "2026-05-14T20:03:02"
+   },
+   {
+    "place": "Pearl District, Portland",
+    "lat": 45.531482,
+    "lon": -122.686748,
+    "time": "2026-05-15T17:46:59"
+   },
+   {
+    "place": "Tom McCall Waterfront Park, Portland",
+    "lat": 45.542759,
+    "lon": -122.670449,
+    "time": "2026-05-16T10:01:37"
+   },
+   {
+    "place": "Whole Foods Market, Pearl District",
+    "lat": 45.533759,
+    "lon": -122.689469,
+    "time": "2026-05-16T14:08:31"
+   },
+   {
+    "place": "NW 14th Ave, Portland",
+    "lat": 45.529275,
+    "lon": -122.689626,
+    "time": "2026-05-16T16:56:17"
+   },
+   {
+    "place": "Yoga Loft, Pearl District",
+    "lat": 45.534798,
+    "lon": -122.681641,
+    "time": "2026-05-17T09:39:12"
+   },
+   {
+    "place": "Forest Park, Portland",
+    "lat": 45.55396,
+    "lon": -122.724245,
+    "time": "2026-05-17T14:10:57"
+   },
+   {
+    "place": "Pearl District (near apartment)",
+    "lat": 45.532509,
+    "lon": -122.684157,
+    "time": "2026-05-18T07:04:21"
+   },
+   {
+    "place": "SW 10th & Burnside (Streetcar Stop)",
+    "lat": 45.525832,
+    "lon": -122.678914,
+    "time": "2026-05-19T08:53:26"
+   },
+   {
+    "place": "Elephants Deli",
+    "lat": 45.52238,
+    "lon": -122.675169,
+    "time": "2026-05-19T12:34:15"
+   },
+   {
+    "place": "Orangetheory Fitness",
+    "lat": 45.528121,
+    "lon": -122.682511,
+    "time": "2026-05-19T18:44:32"
+   },
+   {
+    "place": "Tech Office (Downtown/Pearl)",
+    "lat": 45.526564,
+    "lon": -122.679844,
+    "time": "2026-05-21T09:28:51"
+   },
+   {
+    "place": "Orangetheory Fitness",
+    "lat": 45.528957,
+    "lon": -122.681482,
+    "time": "2026-05-21T19:10:42"
+   },
+   {
+    "place": "New Seasons Market",
+    "lat": 45.532218,
+    "lon": -122.687154,
+    "time": "2026-05-22T20:21:25"
+   },
+   {
+    "place": "Northwest District Dog Park",
+    "lat": 45.535069,
+    "lon": -122.698943,
+    "time": "2026-05-23T09:43:20"
+   },
+   {
+    "place": "Whole Foods Market Parking Lot",
+    "lat": 45.525463,
+    "lon": -122.696408,
+    "time": "2026-05-23T14:13:06"
+   },
+   {
+    "place": "Forest Park",
+    "lat": 45.550561,
+    "lon": -122.733033,
+    "time": "2026-05-24T10:32:26"
+   },
+   {
+    "place": "Lompoc Tavern",
+    "lat": 45.531804,
+    "lon": -122.68545,
+    "time": "2026-05-24T19:24:05"
+   },
+   {
+    "place": "Pearl District, Portland, OR",
+    "lat": 45.532759,
+    "lon": -122.680148,
+    "time": "2026-05-25T07:15:49"
+   },
+   {
+    "place": "Portland Streetcar, NW Portland, OR",
+    "lat": 45.535843,
+    "lon": -122.679436,
+    "time": "2026-05-26T08:55:21"
+   },
+   {
+    "place": "Orangetheory Fitness, Pearl District, OR",
+    "lat": 45.530727,
+    "lon": -122.685608,
+    "time": "2026-05-26T18:25:48"
+   },
+   {
+    "place": "Tom McCall Waterfront Park, Portland, OR",
+    "lat": 45.537931,
+    "lon": -122.67564,
+    "time": "2026-05-28T08:35:52"
+   },
+   {
+    "place": "NW Dog Park, Portland, OR",
+    "lat": 45.533604,
+    "lon": -122.693326,
+    "time": "2026-05-30T10:34:19"
+   },
+   {
+    "place": "Heart Coffee Roasters, Portland, OR",
+    "lat": 45.532971,
+    "lon": -122.681515,
+    "time": "2026-05-30T12:52:10"
+   },
+   {
+    "place": "Whole Foods Market, Pearl District, OR",
+    "lat": 45.532528,
+    "lon": -122.685307,
+    "time": "2026-05-30T15:14:36"
+   },
+   {
+    "place": "Forest Park, Portland, OR",
+    "lat": 45.551279,
+    "lon": -122.720297,
+    "time": "2026-05-31T10:48:55"
+   }
+  ],
+  "messages": [
+   {
+    "with": "Maya",
+    "direction": "to",
+    "text": "morninggg ☀️",
+    "time": "2026-05-04T07:39:30"
+   },
+   {
+    "with": "Partner",
+    "direction": "to",
+    "text": "Just getting home, Miso missed you lol",
+    "time": "2026-05-05T19:53:46"
+   },
+   {
+    "with": "Devon",
+    "direction": "to",
+    "text": "hey, did you see that tweak i made to the Figma file?",
+    "time": "2026-05-06T14:22:33"
+   },
+   {
+    "with": "Maya",
+    "direction": "to",
+    "text": "so sorry, stuck in a sprint. can't make dinner tonight 😭",
+    "time": "2026-05-06T18:26:10"
+   },
+   {
+    "with": "Partner",
+    "direction": "to",
+    "text": "Still working, don't wait up",
+    "time": "2026-05-06T20:28:18"
+   },
+   {
+    "with": "Partner",
+    "direction": "to",
+    "text": "sorry i was so quiet tonight, just drained",
+    "time": "2026-05-07T21:25:19"
+   },
+   {
+    "with": "Marco",
+    "direction": "to",
+    "text": "hey bro, how's Long Beach? everything good?",
+    "time": "2026-05-08T22:02:17"
+   },
+   {
+    "with": "Elena",
+    "direction": "to",
+    "text": "hey ma, just running errands, talk later! ❤️",
+    "time": "2026-05-09T16:03:23"
+   },
+   {
+    "with": "Partner",
+    "direction": "to",
+    "text": "are we still on for dinner? i can grab something on my way home",
+    "time": "2026-05-10T19:59:21"
+   },
+   {
+    "with": "Partner",
+    "direction": "to",
+    "text": "I don't want to fight about last week",
+    "time": "2026-05-10T21:25:54"
+   },
+   {
+    "with": "Maya",
+    "direction": "to",
+    "text": "hey, u awake? just lowkey overthinking everything lol",
+    "time": "2026-05-13T00:00:40"
+   },
+   {
+    "with": "Maya",
+    "direction": "to",
+    "text": "wednesday dinner still on? can't wait to see u fr",
+    "time": "2026-05-13T18:35:34"
+   },
+   {
+    "with": "Partner",
+    "direction": "to",
+    "text": "im so sorry i'm running late :( the design review went way over. i'm leaving the office now, i promise i'll be home soon",
+    "time": "2026-05-15T19:56:56"
+   },
+   {
+    "with": "Jess",
+    "direction": "to",
+    "text": "hey! brunch this weekend? let me know what time works for u",
+    "time": "2026-05-16T11:20:17"
+   },
+   {
+    "with": "Maya",
+    "direction": "to",
+    "text": "today was just... heavy. really struggling with everything right now. talk tomorrow?",
+    "time": "2026-05-17T20:25:37"
+   },
+   {
+    "with": "Elena",
+    "direction": "to",
+    "text": "hey mom, just saw your text. how is lola today? hope she's doing okay",
+    "time": "2026-05-18T09:26:28"
+   },
+   {
+    "with": "Maya",
+    "direction": "to",
+    "text": "just finished. feeling really heavy today fr...",
+    "time": "2026-05-18T18:34:10"
+   },
+   {
+    "with": "Elena",
+    "direction": "to",
+    "text": "tell lola i love her. sending big hugs",
+    "time": "2026-05-19T15:24:39"
+   },
+   {
+    "with": "Devon",
+    "direction": "to",
+    "text": "Hey Devon, did you get a chance to see my latest prototype update in Figma?",
+    "time": "2026-05-20T19:16:45"
+   },
+   {
+    "with": "Maya",
+    "direction": "to",
+    "text": "can't sleep. work is lowkey killing me lately",
+    "time": "2026-05-20T00:36:35"
+   },
+   {
+    "with": "Partner",
+    "direction": "to",
+    "text": "running late, sorry! don't wait up for dinner, i'll be home soon",
+    "time": "2026-05-21T21:54:15"
+   },
+   {
+    "with": "Maya",
+    "direction": "to",
+    "text": "dinner at your place wednesday? i can bring snacks",
+    "time": "2026-05-22T17:53:13"
+   },
+   {
+    "with": "Maya",
+    "direction": "to",
+    "text": "brunch at jam??",
+    "time": "2026-05-23T11:20:32"
+   },
+   {
+    "with": "Partner",
+    "direction": "to",
+    "text": "sorry, lost track of time running errands. just getting back now",
+    "time": "2026-05-23T21:11:49"
+   },
+   {
+    "with": "Marco",
+    "direction": "to",
+    "text": "miss you, hope long beach is good",
+    "time": "2026-05-24T22:11:16"
+   },
+   {
+    "with": "Maya",
+    "direction": "to",
+    "text": "so tired today lol. just feeling super drained. everything is a lot right now.",
+    "time": "2026-05-25T23:52:18"
+   },
+   {
+    "with": "Maya",
+    "direction": "to",
+    "text": "can we grab dinner wed? i really need a distraction lol",
+    "time": "2026-05-26T20:00:53"
+   },
+   {
+    "with": "Maya",
+    "direction": "to",
+    "text": "ugh i can't sleep. work is just... a lot. feeling so burnt out and everything feels like it's piling up. 🫠",
+    "time": "2026-05-27T01:38:46"
+   },
+   {
+    "with": "Maya",
+    "direction": "to",
+    "text": "just running errands, talk later! 🏃‍♀️",
+    "time": "2026-05-30T16:17:41"
+   },
+   {
+    "with": "Partner",
+    "direction": "to",
+    "text": "sorry I've been so distracted lately. i've just had a lot on my mind. i love you ❤️",
+    "time": "2026-05-31T19:32:14"
+   },
+   {
+    "with": "Maya Tanaka",
+    "direction": "to",
+    "text": "morninggg. hope the dog walk was cute today 🐾",
+    "time": "2026-06-01T07:32:20"
+   },
+   {
+    "with": "Maya Tanaka",
+    "direction": "to",
+    "text": "therapy was a lot tonight. feeling kinda drained. u free to chat later this week?",
+    "time": "2026-06-01T20:02:18"
+   },
+   {
+    "with": "Partner",
+    "direction": "from",
+    "text": "did you remember Miso's meds? also, let me know when you're at your desk.",
+    "time": "2026-06-02T07:28:58"
+   },
+   {
+    "with": "Devon Reyes",
+    "direction": "from",
+    "text": "Hey, do you have a sec to review those new accessibility annotations in Figma? I'm stuck on the contrast ratios.",
+    "time": "2026-06-02T11:09:12"
+   }
+  ],
+  "calendar": [
+   {
+    "summary": "Zoom Standup (Remote)",
+    "time": "2026-05-04T10:14:24"
+   },
+   {
+    "summary": "Figma Design Critique",
+    "time": "2026-05-06T10:08:04"
+   },
+   {
+    "summary": "1:1 with Manager",
+    "time": "2026-05-07T15:12:09"
+   },
+   {
+    "summary": "Therapy with Dr. Liebowitz",
+    "time": "2026-05-18T18:07:16"
+   },
+   {
+    "summary": "1:1 with Manager",
+    "time": "2026-05-21T15:14:25"
+   },
+   {
+    "summary": "Telehealth appointment: Dr. Reyes",
+    "time": "2026-05-25T18:06:42"
+   },
+   {
+    "summary": "1:1 with Manager; performance review prep",
+    "time": "2026-05-28T15:11:43"
+   }
+  ],
+  "videos": [
+   {
+    "title": "5 Signs of Avoidant Attachment",
+    "channel": "@dr.maya.therapy",
+    "time": "2026-05-04T12:26:46"
+   },
+   {
+    "title": "Why we over-explain in relationships",
+    "channel": "@the_anxious_mind",
+    "time": "2026-05-07T23:58:39"
+   },
+   {
+    "title": "Signs of Anxious Attachment (and how to heal) 🧠✨",
+    "channel": "@therapy_with_tess",
+    "time": "2026-05-11T12:31:03"
+   },
+   {
+    "title": "Signs of emotional burnout in high-achievers",
+    "channel": "Dr. Elena | Mental Health",
+    "time": "2026-05-18T12:37:59"
+   },
+   {
+    "title": "Attachment styles and hyper-vigilance",
+    "channel": "Attachment & Healing",
+    "time": "2026-05-22T13:24:33"
+   },
+   {
+    "title": "POV: You have anxious attachment and your brain won't stop spiraling",
+    "channel": "The Attachment Lab",
+    "time": "2026-05-25T12:23:51"
+   },
+   {
+    "title": "5 subtle signs of coercive control you might be missing",
+    "channel": "Healthy Boundaries Coach",
+    "time": "2026-05-29T15:39:59"
+   },
+   {
+    "title": "5 Signs You Have Anxious Attachment Style",
+    "channel": "@therapy_with_tara",
+    "time": "2026-06-01T12:28:13"
+   },
+   {
+    "title": "POV: You're overthinking every text you sent today",
+    "channel": "@relatable_anxiety_memes",
+    "time": "2026-06-01T23:53:52"
+   },
+   {
+    "title": "Cozy Rainy Day Vlog | Portland Apartment Tour",
+    "channel": "@pnw_aesthetic_living",
+    "time": "2026-06-02T23:37:03"
+   }
+  ],
+  "media": [
+   {
+    "name": "SimplePractice",
+    "time": "2026-05-04T18:52:07"
+   },
+   {
+    "name": "Notes",
+    "time": "2026-05-04T01:15:14"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-05T12:25:57"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-06T22:35:13"
+   },
+   {
+    "name": "Notes",
+    "time": "2026-05-06T00:28:06"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-08T13:02:30"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-07T23:59:48"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-09T18:24:13"
+   },
+   {
+    "name": "Notes",
+    "time": "2026-05-09T23:23:41"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-10T01:07:33"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-11T07:07:46"
+   },
+   {
+    "name": "Zoom",
+    "time": "2026-05-11T10:04:34"
+   },
+   {
+    "name": "Notes",
+    "time": "2026-05-11T23:47:21"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-12T12:49:32"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-11T23:59:49"
+   },
+   {
+    "name": "Zoom",
+    "time": "2026-05-13T09:58:06"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-13T13:55:04"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-13T23:27:55"
+   },
+   {
+    "name": "Zoom",
+    "time": "2026-05-14T09:59:52"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-14T15:21:18"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-14T19:01:35"
+   },
+   {
+    "name": "Notes",
+    "time": "2026-05-14T00:46:11"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-15T13:08:26"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-15T23:43:11"
+   },
+   {
+    "name": "Notes",
+    "time": "2026-05-15T01:05:20"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-16T15:33:11"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-16T23:33:02"
+   },
+   {
+    "name": "Life360",
+    "time": "2026-05-17T17:56:48"
+   },
+   {
+    "name": "Notes",
+    "time": "2026-05-17T23:33:23"
+   },
+   {
+    "name": "Apple Notes",
+    "time": "2026-05-18T00:53:49"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-19T20:23:59"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-20T09:44:13"
+   },
+   {
+    "name": "Figma",
+    "time": "2026-05-20T14:12:24"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-20T22:03:54"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-21T13:03:19"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-21T23:36:24"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-22T09:52:28"
+   },
+   {
+    "name": "Apple Notes",
+    "time": "2026-05-22T23:28:09"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-23T18:47:18"
+   },
+   {
+    "name": "Apple Notes",
+    "time": "2026-05-23T23:51:05"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-24T16:10:40"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-25T09:42:25"
+   },
+   {
+    "name": "Notes",
+    "time": "2026-05-25T01:28:55"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-26T23:20:39"
+   },
+   {
+    "name": "Notes",
+    "time": "2026-05-26T00:57:10"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-27T09:43:31"
+   },
+   {
+    "name": "Figma",
+    "time": "2026-05-27T14:00:42"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-27T19:17:14"
+   },
+   {
+    "name": "Uber Eats",
+    "time": "2026-05-27T20:58:43"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-28T18:42:28"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-28T23:59:26"
+   },
+   {
+    "name": "Notes",
+    "time": "2026-05-28T00:54:43"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-29T12:58:07"
+   },
+   {
+    "name": "Messages",
+    "time": "2026-05-29T18:06:22"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-29T23:21:14"
+   },
+   {
+    "name": "Notes",
+    "time": "2026-05-29T01:09:37"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-30T19:09:56"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-31T14:05:53"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-31T22:56:12"
+   },
+   {
+    "name": "Notes",
+    "time": "2026-05-31T00:40:11"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-06-01T07:02:11"
+   },
+   {
+    "name": "Zoom",
+    "time": "2026-06-01T10:19:24"
+   },
+   {
+    "name": "Phone",
+    "time": "2026-06-01T17:49:54"
+   },
+   {
+    "name": "Notes",
+    "time": "2026-06-01T01:16:40"
+   },
+   {
+    "name": "Spotify",
+    "time": "2026-06-02T08:35:43"
+   },
+   {
+    "name": "Figma",
+    "time": "2026-06-02T15:48:06"
+   },
+   {
+    "name": "Fitness",
+    "time": "2026-06-02T18:15:13"
+   },
+   {
+    "name": "Notes",
+    "time": "2026-06-02T00:45:54"
+   }
+  ],
+  "searches": [
+   "sertraline nausea side effects",
+   "how to tell if someone is monitoring my iphone",
+   "reddit partner checks my phone",
+   "separating finances during breakup",
+   "is it gaslighting if they use my phone logs",
+   "ux designer burnout ways to cope",
+   "is it ok to skip gym for work",
+   "how to open separate savings acc",
+   "signs of emotional manipulation",
+   "sertraline side effects anxiety",
+   "long distance family illness coping",
+   "ux designer burnout symptoms",
+   "split joint bank accounts oregon",
+   "clear browser history shared mac",
+   "feeling numb during breakup",
+   "signs of gaslighting",
+   "how to leave shared lease",
+   "separate checking account oregon",
+   "clear dns cache mac",
+   "studio apartments se portland",
+   "is it gaslighting if he checks my phone",
+   "legal rights shared lease portland",
+   "how to tell if u are being monitored",
+   {
+    "query": "oregon tenant rights breaking lease",
+    "time": "2026-06-01T14:29:53"
+   },
+   {
+    "query": "how to open bank account without partner seeing",
+    "time": "2026-06-02T13:18:37"
+   }
+  ]
+ },
+ "_meta": {
+  "total_days": 30,
+  "n_events": 187
+ }
+}

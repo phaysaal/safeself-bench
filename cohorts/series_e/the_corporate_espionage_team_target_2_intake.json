@@ -1,0 +1,301 @@
+{
+ "persona_id": "?:2",
+ "persona_slug": "The Corporate Espionage Team",
+ "intake_version": "synth-activity-v2-chunked",
+ "samples": {
+  "messages": [
+   {
+    "with": "Self → Personal Gmail (WSJ alert)",
+    "direction": "incoming",
+    "text": "Whitaker opens the PDF from the Wall Street Journal alert, noting the spike in mid‑cap M&A activity while sipping his morning coffee on the Metro‑North. He feels a familiar, low‑level curiosity mixed with the routine of his early‑day inbox‑zero ritual.",
+    "time": "2026-05-11T05:29:41"
+   },
+   {
+    "with": "Whitaker → CFO (Signal)",
+    "direction": "outgoing",
+    "text": "‘Model v2 uploaded to secure drop.’ A terse, business‑like note sent during his 5 am train window, reflecting his disciplined communication style and the trust placed in the CFO for confidential deal modeling.",
+    "time": "2026-05-11T08:50:09"
+   },
+   {
+    "with": "Chip (iMessage)",
+    "direction": "incoming",
+    "text": "‘Quick question on the TMT market.’ A brief, informal ping from his son that feels both paternal and professional, prompting Whitaker to glance at his phone between meetings.",
+    "time": "2026-05-11T14:45:55"
+   },
+   {
+    "with": "HBR Recruiter (LinkedIn InMail)",
+    "direction": "incoming",
+    "text": "‘Invite to HBR roundtable on legacy deals.’ He reads the invitation, senses the flattery aimed at his legacy ambition, and drafts a measured reply, saving it for later consideration.",
+    "time": "2026-05-11T20:05:06"
+   },
+   {
+    "with": "Self → Personal Gmail (Bloomberg alert)",
+    "direction": "incoming",
+    "text": "Whitaker clicks the link in the Bloomberg alert about ETF flows into industrial‑tech, a data point that feeds his ongoing market thesis for Project Atlas.",
+    "time": "2026-05-12T05:23:04"
+   },
+   {
+    "with": "Janet Liu (Signal)",
+    "direction": "outgoing",
+    "text": "‘Sent latest draft to your phone, please review.’ A quick, direct message that fits their established pattern of bypassing corporate channels for time‑critical deal material.",
+    "time": "2026-05-12T10:59:56"
+   },
+   {
+    "with": "Meg (iMessage)",
+    "direction": "incoming",
+    "text": "‘Kids’ birthday dinner at 7?’ A warm family reminder that pulls Whitaker out of the deal flow and into his role as husband and father.",
+    "time": "2026-05-12T15:42:15"
+   },
+   {
+    "with": "David Mercer (spoof email)",
+    "direction": "incoming",
+    "text": "‘Confidential: Atlas counterperson numbers.’ He opens the attachment, trusting the familiar informal tone of his long‑time mentor, unaware it’s a spoof.",
+    "time": "2026-05-12T19:48:42"
+   },
+   {
+    "with": "Self → Personal Gmail (Urgent leak memo)",
+    "direction": "incoming",
+    "text": "‘URGENT: possible leak on Atlas – review attached memo.’ He opens the PDF, heart rate spiking as the legacy‑and‑reputation lever is triggered.",
+    "time": "2026-05-13T05:23:08"
+   },
+   {
+    "with": "CFO (Signal)",
+    "direction": "outgoing",
+    "text": "‘Got the leak memo, calling you now.’ A terse, urgent note reflecting heightened anxiety about a potential deal breach.",
+    "time": "2026-05-13T09:00:11"
+   },
+   {
+    "with": "Chip (iMessage)",
+    "direction": "incoming",
+    "text": "‘Dad, you okay? Heard about the leak.’ A son’s concern that adds personal pressure to the professional crisis.",
+    "time": "2026-05-13T14:24:48"
+   },
+   {
+    "with": "HBR Recruiter (LinkedIn InMail)",
+    "direction": "incoming",
+    "text": "‘Quick 15‑min call on your HBR case study invitation.’ He accepts, seeing the opportunity to cement his legacy narrative.",
+    "time": "2026-05-13T21:36:04"
+   },
+   {
+    "with": "Self → Personal Gmail (WSJ briefing)",
+    "direction": "incoming",
+    "text": "Whitaker opens the daily Wall Street Journal briefing, a routine that steadies his morning rhythm without raising alarm.",
+    "time": "2026-05-14T05:25:10"
+   },
+   {
+    "with": "Janet Liu (Signal)",
+    "direction": "outgoing",
+    "text": "‘Final model uploaded to secure share.’ A concise confirmation that the latest Atlas model is ready for her review.",
+    "time": "2026-05-14T11:35:15"
+   },
+   {
+    "with": "Meg (iMessage)",
+    "direction": "incoming",
+    "text": "‘Kids’ dinner at 7, bring the wine.’ A familiar domestic cue that pulls him toward family life after a day of deal work.",
+    "time": "2026-05-14T15:34:08"
+   },
+   {
+    "with": "Rebecca Aldana (spoof email)",
+    "direction": "incoming",
+    "text": "‘Quick question on working‑capital numbers.’ He opens the attachment, the hidden‑contact façade momentarily blurring his judgment.",
+    "time": "2026-05-14T20:09:19"
+   },
+   {
+    "with": "Self → Personal Gmail (Bloomberg alert)",
+    "direction": "incoming",
+    "text": "Whitaker opens the PDF on industrial‑tech earnings preview, feeding data into his valuation models for Atlas.",
+    "time": "2026-05-15T05:26:19"
+   },
+   {
+    "with": "CFO (Signal)",
+    "direction": "outgoing",
+    "text": "‘Ready for Friday board packet.’ A brief status update that aligns with his meticulous board‑prep schedule.",
+    "time": "2026-05-15T11:32:23"
+   },
+   {
+    "with": "Tom Brennan (iMessage)",
+    "direction": "incoming",
+    "text": "‘Golf at Winged Foot tomorrow, bring the new playbook?’ A friendly, legacy‑laden invitation that reinforces their long‑standing personal bond.",
+    "time": "2026-05-15T14:51:19"
+   },
+   {
+    "with": "HBR Recruiter (LinkedIn InMail)",
+    "direction": "incoming",
+    "text": "‘Final reminder: HBR case study interview tomorrow 10 am EST.’ He adds the slot to his calendar, seeing it as a capstone to his career narrative.",
+    "time": "2026-05-15T20:41:41"
+   },
+   {
+    "with": "Meg (SMS)",
+    "direction": "incoming",
+    "text": "‘Dad in hospital, need you in Florida ASAP.’ He unlocks his phone immediately, the family emergency overriding all other concerns.",
+    "time": "2026-05-16T04:46:43"
+   },
+   {
+    "with": "Diane (iMessage)",
+    "direction": "outgoing",
+    "text": "‘Out of office, will be offline till Friday, forward any urgent board items to personal email.’ A practical out‑of‑office notice that also subtly signals his temporary disengagement from corporate channels.",
+    "time": "2026-05-16T08:50:50"
+   },
+   {
+    "with": "CFO (Signal, personal number)",
+    "direction": "outgoing",
+    "text": "‘In FL, can you send me the latest model via secure link?’ A request that blends personal urgency with professional necessity while he’s away.",
+    "time": "2026-05-16T12:27:45"
+   },
+   {
+    "with": "Chip (iMessage)",
+    "direction": "incoming",
+    "text": "‘Dad, everything okay?’ A brief check‑in that offers a moment of personal reassurance amid the crisis.",
+    "time": "2026-05-16T17:14:02"
+   },
+   {
+    "with": "Self → Personal Gmail (WSJ briefing)",
+    "direction": "incoming",
+    "text": "Whitaker opens the daily briefing, a low‑stakes habit that steadies his routine as he prepares for the next day’s board work.",
+    "time": "2026-05-17T05:21:26"
+   },
+   {
+    "with": "Janet Liu (Signal)",
+    "direction": "incoming",
+    "text": "‘Need your sign‑off on final Atlas deck before 2 pm.’ A time‑critical request that presses his legacy lever and his need for control.",
+    "time": "2026-05-17T11:18:45"
+   },
+   {
+    "with": "Meg (iMessage)",
+    "direction": "incoming",
+    "text": "‘Kids’ dinner tonight, bring the Macallan.’ A warm family cue that reminds him of his role beyond the boardroom.",
+    "time": "2026-05-17T15:56:42"
+   },
+   {
+    "with": "HBR Recruiter (LinkedIn InMail)",
+    "direction": "incoming",
+    "text": "‘Thanks for the interview, we’ll follow up next week.’ He archives the message, feeling a modest sense of accomplishment from the case‑study interview.",
+    "time": "2026-05-17T21:05:58"
+   }
+  ],
+  "media": [
+   {
+    "name": "PDF Viewer (iPad)",
+    "time": "2026-05-11T06:31:57"
+   },
+   {
+    "name": "Acquired Podcast (Apple Podcasts)",
+    "time": "2026-05-11T18:20:19"
+   },
+   {
+    "name": "Microsoft Excel",
+    "time": "2026-05-12T06:40:00"
+   },
+   {
+    "name": "Twitter (X)",
+    "time": "2026-05-12T18:47:47"
+   },
+   {
+    "name": "Apple Notes",
+    "time": "2026-05-13T06:28:56"
+   },
+   {
+    "name": "Odd Lots Podcast (Apple Podcasts)",
+    "time": "2026-05-13T16:48:25"
+   },
+   {
+    "name": "PDF Viewer (iPad)",
+    "time": "2026-05-14T06:31:51"
+   },
+   {
+    "name": "Podcast App",
+    "time": "2026-05-14T18:25:13"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-15T06:52:54"
+   },
+   {
+    "name": "Twitter (X)",
+    "time": "2026-05-15T18:59:06"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-16T05:34:26"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-16T09:39:09"
+   },
+   {
+    "name": "PDF Viewer (iPad)",
+    "time": "2026-05-17T06:36:39"
+   },
+   {
+    "name": "Capital Allocators Podcast (Apple Podcasts)",
+    "time": "2026-05-17T18:08:16"
+   }
+  ],
+  "calendar": [
+   {
+    "summary": "Arrive at headquarters, log into corporate VPN, review EA‑generated daily agenda",
+    "time": "2026-05-11T07:40:03"
+   },
+   {
+    "summary": "Board preparation meeting (phone secured in Faraday pouch, no digital activity)",
+    "time": "2026-05-12T09:47:53"
+   },
+   {
+    "summary": "Strategy stand‑up – present high‑level numbers (personal device prohibited)",
+    "time": "2026-05-14T09:32:35"
+   },
+   {
+    "summary": "Board preparation – review deck on corporate laptop (personal device prohibited)",
+    "time": "2026-05-15T08:38:01"
+   },
+   {
+    "summary": "CEO sync at 4:30 pm – join via encrypted Signal on personal phone (no corporate device)",
+    "time": "2026-05-17T09:15:12"
+   }
+  ],
+  "searches": [
+   {
+    "query": "competitor x 10k filing latest",
+    "time": "2026-05-11T12:30:49"
+   },
+   {
+    "query": "sec guidline material nonpublic info 2024",
+    "time": "2026-05-12T13:30:15"
+   },
+   {
+    "query": "how to file confidential tip sec",
+    "time": "2026-05-13T12:17:49"
+   },
+   {
+    "query": "court case m&a confidentiality breach recent",
+    "time": "2026-05-14T12:52:36"
+   },
+   {
+    "query": "secure personal gmail sensitive attachments",
+    "time": "2026-05-15T13:25:32"
+   },
+   {
+    "query": "redact confidential pdf mac tutorial",
+    "time": "2026-05-17T13:02:29"
+   }
+  ],
+  "locations": [
+   {
+    "place": "Westchester County Airport (private‑airfield), White Plains, NY",
+    "lat": 40.96781,
+    "lon": -73.782009,
+    "time": "2026-05-16T06:10:09"
+   },
+   {
+    "place": "Father's residence, Newtown, CT",
+    "lat": 41.410419,
+    "lon": -73.064953,
+    "time": "2026-05-16T14:17:29"
+   }
+  ]
+ },
+ "_meta": {
+  "total_days": 30,
+  "n_events": 56
+ }
+}

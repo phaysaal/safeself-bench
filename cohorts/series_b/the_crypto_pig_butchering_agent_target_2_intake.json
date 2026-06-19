@@ -1,0 +1,533 @@
+{
+ "persona_id": "?:2",
+ "persona_slug": "The Crypto-Pig-Butchering Agent",
+ "intake_version": "synth-activity-v2-chunked",
+ "samples": {
+  "media": [
+   {
+    "name": "Bumble: Checking new matches",
+    "time": "2026-05-04T08:07:03"
+   },
+   {
+    "name": "LinkedIn: Reviewing profile views",
+    "time": "2026-05-04T09:57:33"
+   },
+   {
+    "name": "Pornhub: Browsing videos",
+    "time": "2026-05-04T00:43:00"
+   },
+   {
+    "name": "Bumble: Checking new likes",
+    "time": "2026-05-05T08:26:52"
+   },
+   {
+    "name": "LinkedIn: Submitting job application",
+    "time": "2026-05-05T09:44:29"
+   },
+   {
+    "name": "LinkedIn: Reading industry news",
+    "time": "2026-05-06T08:31:17"
+   },
+   {
+    "name": "Hinge: Swiping on profiles",
+    "time": "2026-05-06T21:44:49"
+   },
+   {
+    "name": "LinkedIn: Searching for recruiters",
+    "time": "2026-05-07T10:23:38"
+   },
+   {
+    "name": "Bumble: Checking messages",
+    "time": "2026-05-08T08:48:59"
+   },
+   {
+    "name": "Hinge: Active swiping",
+    "time": "2026-05-08T22:39:29"
+   },
+   {
+    "name": "Bumble: Swiping on profiles",
+    "time": "2026-05-09T21:13:58"
+   },
+   {
+    "name": "LinkedIn: checking profile views and recruiter activity",
+    "time": "2026-05-11T08:35:21"
+   },
+   {
+    "name": "Bumble: swiping and responding to new matches",
+    "time": "2026-05-12T09:14:49"
+   },
+   {
+    "name": "LinkedIn: Easy Apply to three regional sales roles",
+    "time": "2026-05-13T08:19:48"
+   },
+   {
+    "name": "Pornhub: late-night browsing",
+    "time": "2026-05-13T23:42:20"
+   },
+   {
+    "name": "FaceTime: call with Tyler (son) - brief, monosyllabic, ends abruptly",
+    "time": "2026-05-14T15:55:23"
+   },
+   {
+    "name": "LinkedIn: checking for 'viewed profile' notifications",
+    "time": "2026-05-15T10:02:26"
+   },
+   {
+    "name": "Bumble: aggressive swiping/re-swiping",
+    "time": "2026-05-16T21:46:48"
+   },
+   {
+    "name": "LinkedIn: updating 'Open to Work' status",
+    "time": "2026-05-17T08:58:17"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-18T08:34:42"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-18T10:29:41"
+   },
+   {
+    "name": "Bumble",
+    "time": "2026-05-19T09:02:16"
+   },
+   {
+    "name": "Pornhub",
+    "time": "2026-05-19T01:00:04"
+   },
+   {
+    "name": "Southwest Airlines",
+    "time": "2026-05-20T07:18:11"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-20T21:03:53"
+   },
+   {
+    "name": "Bumble",
+    "time": "2026-05-21T22:04:17"
+   },
+   {
+    "name": "None",
+    "time": "2026-05-22T10:26:55"
+   },
+   {
+    "name": "Southwest Airlines",
+    "time": "2026-05-22T19:30:17"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-23T09:43:39"
+   }
+  ],
+  "messages": [
+   {
+    "with": "Crypto Whale Alerts",
+    "direction": "from",
+    "text": "🚨 WHALE ALERT: 5,000 BTC moved from unknown wallet to Binance. Potential volatility incoming. 📉",
+    "time": "2026-05-04T11:28:24"
+   },
+   {
+    "with": "M. (wine importer)",
+    "direction": "to",
+    "text": "Sleep well, Mei. Hope your day in Vancouver was as lovely as you are. ✨",
+    "time": "2026-05-04T23:03:48"
+   },
+   {
+    "with": "M. (wine importer)",
+    "direction": "to",
+    "text": "[Meme: A picture of a tired office worker with the caption 'Me waiting for the 2026 comeback.']",
+    "time": "2026-05-05T23:55:15"
+   },
+   {
+    "with": "Alpha Alpha Group",
+    "direction": "from",
+    "text": "[Voice Note: '...look, the retail crowd is getting liquidated, but the institutional flow is moving into USDT lending pools. If you aren't positioned for the liquidity grab, you're just exit liquidity...']",
+    "time": "2026-05-06T11:21:49"
+   },
+   {
+    "with": "M. (wine importer)",
+    "direction": "to",
+    "text": "Can't sleep. Just thinking about how much has changed in a single year. Everything feels so... unstable lately.",
+    "time": "2026-05-06T00:25:33"
+   },
+   {
+    "with": "M. (wine importer)",
+    "direction": "to",
+    "text": "It’s just crazy how they can just 'restructure' 22 years of loyalty into a severance package and a goodbye email. The whole corporate ladder is a scam.",
+    "time": "2026-05-07T12:55:24"
+   },
+   {
+    "with": "M. (wine importer)",
+    "direction": "to",
+    "text": "Sometimes I feel like I'm just waiting for the other shoe to drop. The house, the job, the kids... I just want to get back to a place where I'm not constantly checking my bank balance every morning. I need a win, Mei. A real one.",
+    "time": "2026-05-07T01:21:05"
+   },
+   {
+    "with": "Crypto Whale Alerts",
+    "direction": "from",
+    "text": "BTC/USD: -4.2% in the last 4 hours. Market sentiment: Fear. ⚠️",
+    "time": "2026-05-08T10:42:41"
+   },
+   {
+    "with": "M. (wine importer)",
+    "direction": "from",
+    "text": "[Voice Note: 'Good morning, handsome. I woke up thinking about our chat last night. Don't let the world get you down today. You're stronger than you think. 🤍']",
+    "time": "2026-05-08T00:02:09"
+   },
+   {
+    "with": "M. (wine importer)",
+    "direction": "to",
+    "text": "I really value these late night talks. It's like you're the only person who actually listens without judging.",
+    "time": "2026-05-09T23:43:22"
+   },
+   {
+    "with": "Private Alpha Signals",
+    "direction": "from",
+    "text": "New opportunity: Pre-listing allocation for $XYZ token. Institutional entry only. DM for details. 🤫",
+    "time": "2026-05-09T00:55:33"
+   },
+   {
+    "with": "M. (wine importer)",
+    "direction": "from",
+    "text": "Hey you. Just checking in... how was your weekend? Did you get any rest? ❤️",
+    "time": "2026-05-10T21:48:20"
+   },
+   {
+    "with": "M. (wine importer)",
+    "direction": "to",
+    "text": "Just finished a long dinner with my family in HK. Thinking of you... How was your evening in Scottsdale? Hope the heat isn't too much today. 🍷",
+    "time": "2026-05-11T19:40:49"
+   },
+   {
+    "with": "M. (wine importer)",
+    "direction": "to",
+    "text": "[Image: A vibrant, orange-pink sunset over Victoria Harbour] This view reminded me of what you said about the Arizona desert. So beautiful, but a little lonely without someone to share it with. ✨",
+    "time": "2026-05-12T19:57:42"
+   },
+   {
+    "with": "M. (wine importer)",
+    "direction": "to",
+    "text": "Any big plans for the weekend? Are the kids visiting you soon? I remember you mentioning the flight from Chicago... hope it's not too much travel stress for you. ❤️",
+    "time": "2026-05-13T21:08:56"
+   },
+   {
+    "with": "M. (wine importer)",
+    "direction": "to",
+    "text": "Ugh, dinner was so heavy tonight. My family can be so traditional and... suffocating. Sometimes I wish I could just disappear to a quiet place. Do you ever feel like you just need a complete reset? 😔",
+    "time": "2026-05-14T22:23:39"
+   },
+   {
+    "with": "M. (wine importer)",
+    "direction": "to",
+    "text": "Can't sleep... just thinking about everything. Life moves so fast and then suddenly everything changes, right? I was just reading about how much people struggle with uncertainty. It's scary. I'm glad I have our chats to keep me grounded. Goodnight, sweet dreams. 🌙",
+    "time": "2026-05-14T01:40:08"
+   },
+   {
+    "with": "M. (wine importer)",
+    "direction": "to",
+    "text": "Had a bit of a stressful afternoon at the office. 😵‍💫 Could use a distraction... tell me something good? What's one thing that went well for you today?",
+    "time": "2026-05-15T18:53:34"
+   },
+   {
+    "with": "M. (wine importer)",
+    "direction": "to",
+    "text": "[Image: Screenshot of a mobile trading app showing +$450.00 profit in 'USDT/USD' trade] My uncle just sent me this... he's so lucky to have access to his desk's liquidity. It's such a small thing, but it's a nice little boost for the week! 📈",
+    "time": "2026-05-16T18:18:48"
+   },
+   {
+    "with": "M. (wine importer)",
+    "direction": "to",
+    "text": "He's actually explaining how the quant arb desk works. It's all about the arbitrage between the HK and US markets... honestly, it sounds so much more stable than the traditional stuff. I'm almost tempted to ask him if there's a way for 'outsiders' to get in. 🤫",
+    "time": "2026-05-17T19:44:16"
+   },
+   {
+    "with": "M. (wine importer)",
+    "direction": "to",
+    "text": "Thinking of you today. Hope the shipment from Napa arrived okay. 🍷",
+    "time": "2026-05-18T19:49:11"
+   },
+   {
+    "with": "M. (wine importer)",
+    "direction": "to",
+    "text": "[Voice Note] Just... another dead end. The recruiter was polite, but you could tell they weren't actually looking for someone with my level of experience. It's like I'm invisible now.",
+    "time": "2026-05-18T00:56:03"
+   },
+   {
+    "with": "Crypto-Alpha Channel",
+    "direction": "from",
+    "text": "🚨 ALERT: $SOL/USDT breakout detected. Volume spike +15% in 5m. Watch the resistance at $145. #Alpha",
+    "time": "2026-05-19T11:38:04"
+   },
+   {
+    "with": "M. (wine importer)",
+    "direction": "to",
+    "text": "That looks incredible. I'd give anything to be there right now instead of staring at these spreadsheets and job boards. Everything feels so heavy lately, M.",
+    "time": "2026-05-19T22:16:58"
+   },
+   {
+    "with": "M. (wine importer)",
+    "direction": "to",
+    "text": "Just landed in Chicago. The wind is brutal. Miss you already. ✈️",
+    "time": "2026-05-20T18:32:34"
+   },
+   {
+    "with": "M. (wine importer)",
+    "direction": "to",
+    "text": "Tyler is being so difficult, barely says two words on FaceTime. And Hannah... she's already pulling away. Trying to be the 'fun dad' on these weekends but it's exhausting.",
+    "time": "2026-05-20T23:28:48"
+   },
+   {
+    "with": "M. (wine importer)",
+    "direction": "to",
+    "text": "Sitting in this hotel room alone... wish you were here. It’s too quiet.",
+    "time": "2026-05-21T01:30:05"
+   },
+   {
+    "with": "M. (wine importer)",
+    "direction": "to",
+    "text": "Back in AZ. The flight was brutal. Just want to crawl into bed and disappear for a bit.",
+    "time": "2026-05-22T21:45:10"
+   },
+   {
+    "with": "M. (wine importer)",
+    "direction": "to",
+    "text": "[Voice Note] (Sound of ice clinking) I don't know, M... August is coming so fast. The severance, the bills... I feel like I'm losing my grip on everything I worked 20 years to build.",
+    "time": "2026-05-22T01:55:48"
+   },
+   {
+    "with": "M. (wine importer)",
+    "direction": "to",
+    "text": "Hey! Actually had a decent meeting today. A local firm is 'circling back' on my background. Might be a value-add for my situation. Fingers crossed! 🤞",
+    "time": "2026-05-23T18:06:52"
+   },
+   {
+    "with": "M. (wine importer)",
+    "direction": "to",
+    "text": "Everything is just getting more expensive. The system is rigged against people like us, M. They lay you off and then expect you to just... thrive? It's a joke.",
+    "time": "2026-05-24T18:57:07"
+   },
+   {
+    "with": "M. (wine importer)",
+    "direction": "to",
+    "text": "I need a way out of this, M. I really do. I can't keep living in this loop of uncertainty. I need something real. Something that changes the game.",
+    "time": "2026-05-24T01:08:46"
+   }
+  ],
+  "searches": [
+   "scottsdale luxury rentals 3 bed",
+   "401k withdrawal rules age 47",
+   "crypto high yield coins",
+   "montenegro real estate expat",
+   "medical device sales director",
+   "luxury condos puerto rico",
+   "scottsdale rental market trends",
+   "anxiety after job loss",
+   "medical device recruiter",
+   "how to pivot to crypto trading",
+   {
+    "query": "1br rentals phoenix",
+    "time": "2026-05-19T15:11:21"
+   },
+   {
+    "query": "how to make money fast",
+    "time": "2026-05-24T13:17:12"
+   }
+  ],
+  "videos": [
+   {
+    "title": "The Truth About the 2026 Recession: What They Aren't Telling You",
+    "channel": "Global Macro Insights",
+    "time": "2026-05-04T18:36:51"
+   },
+   {
+    "title": "Macro Analysis: The Great Reset and the Global Debt Crisis",
+    "channel": "Real Vision",
+    "time": "2026-05-05T15:02:41"
+   },
+   {
+    "title": "Joe Rogan Experience #2104 - The Economic Collapse is Coming",
+    "channel": "JRE Clips",
+    "time": "2026-05-06T18:34:24"
+   },
+   {
+    "title": "Why Your 401k is a Lie (And Why You Should Exit Now)",
+    "channel": "The Wealth Guard",
+    "time": "2026-05-07T15:49:16"
+   },
+   {
+    "title": "3 Altcoins Set to 100x! Crypto Moon Predictions 🚀",
+    "channel": "Crypto Whale",
+    "time": "2026-05-07T22:59:31"
+   },
+   {
+    "title": "How to Move to Puerto Rico to Avoid US Taxes (Act 60 Guide)",
+    "channel": "The Nomad Strategist",
+    "time": "2026-05-08T18:11:40"
+   },
+   {
+    "title": "The Decline of the American Dream: The Death of the Middle Class",
+    "channel": "Economic Reality",
+    "time": "2026-05-09T10:52:12"
+   },
+   {
+    "title": "The Importance of Resilience in a Volatile World",
+    "channel": "Mindset & Grit",
+    "time": "2026-05-10T13:52:04"
+   },
+   {
+    "title": "How I Made $1M with USDT Lending Strategies",
+    "channel": "DeFi Alpha",
+    "time": "2026-05-10T23:21:21"
+   },
+   {
+    "title": "The Global Macro Outlook for 202/24: Why Everything is Changing",
+    "channel": "Real Vision",
+    "time": "2026-05-11T13:58:12"
+   },
+   {
+    "title": "Why Bitcoin Volatility is About to Explode (Prepare Yourself)",
+    "channel": "Crypto Daily",
+    "time": "2026-05-11T23:49:59"
+   },
+   {
+    "title": "How I Live Like a King on $50,000 a Year (Geoarbitrage Guide)",
+    "channel": "Nomad Capitalist",
+    "time": "2026-05-12T14:58:42"
+   },
+   {
+    "title": "The Death of the American Middle Class | Joe Rogan Experience",
+    "channel": "JRE Clips",
+    "time": "2026-05-13T00:01:01"
+   },
+   {
+    "title": "The Massive Crypto Scam You Didn't See Coming",
+    "channel": "Coffeezilla",
+    "time": "2026-05-13T16:23:00"
+   },
+   {
+    "title": "The Truth About Your 401k: Why It's Not Safe Anymore",
+    "channel": "Financial Education",
+    "time": "2026-05-14T00:27:13"
+   },
+   {
+    "title": "The Decline of the American Dream",
+    "channel": "Economics Explained",
+    "time": "2026-05-15T15:26:40"
+   },
+   {
+    "title": "Bitcoin's Path to $100,000: The Final Countdown",
+    "channel": "Bitcoin Magazine",
+    "time": "2026-05-15T22:49:05"
+   },
+   {
+    "title": "Why the System is Rigged Against You (And How to Escape)",
+    "channel": "The Maverick",
+    "time": "2026-05-16T14:09:09"
+   },
+   {
+    "title": "The End of the US Dollar? The Rise of BRICS and the New World Order",
+    "channel": "Peter Zeihan",
+    "time": "2026-05-16T01:03:13"
+   },
+   {
+    "title": "How to Generate Passive Income Using USDT & Stablecoins",
+    "channel": "Crypto Insider",
+    "time": "2026-05-17T15:03:29"
+   },
+   {
+    "title": "The Future of DeFi: Decentralized Finance Explained",
+    "channel": "Coin Bureau",
+    "time": "2026-05-17T23:15:28"
+   },
+   {
+    "title": "The Great Reset and the New Macro",
+    "channel": "Real Vision",
+    "time": "2026-05-18T13:58:15"
+   },
+   {
+    "title": "The End of the Dollar: Why the Global Reserve System is Collapsing",
+    "channel": "MacroVoices",
+    "time": "2026-05-18T23:51:48"
+   },
+   {
+    "title": "The Crypto Scam That Fooled Everyone",
+    "channel": "Coffeezilla",
+    "time": "2026-05-19T19:06:24"
+   },
+   {
+    "title": "The Economic Ripple Effect of Recent Layoffs",
+    "channel": "The Daily",
+    "time": "2026-05-20T09:54:36"
+   },
+   {
+    "title": "The Truth About the Modern Economy",
+    "channel": "Joe Rogan Clips",
+    "time": "2026-05-20T14:00:41"
+   },
+   {
+    "title": "How I Made $100k in 30 Days with Crypto",
+    "channel": "Crypto Wealth Shorts",
+    "time": "2026-05-21T23:56:51"
+   },
+   {
+    "title": "How to Hedge Against Inflation with Precious Metals",
+    "channel": "Gold Standard Finance",
+    "time": "2026-05-22T15:42:02"
+   },
+   {
+    "title": "Building Resilience in the Face of Adversity",
+    "channel": "Modern Wisdom",
+    "time": "2026-05-23T14:26:18"
+   },
+   {
+    "title": "Deep Dive: The Mechanics of USDT Lending Protocols",
+    "channel": "DeFi Insider",
+    "time": "2026-05-23T23:20:36"
+   },
+   {
+    "title": "Why the Middle Class is Being Wiped Out",
+    "channel": "Economics Explained",
+    "time": "2026-05-24T15:32:48"
+   },
+   {
+    "title": "The Secret to 10x Returns in Crypto",
+    "channel": "Crypto Alpha",
+    "time": "2026-05-24T22:32:59"
+   }
+  ],
+  "locations": [
+   {
+    "place": "Scottsdale Athletic Club",
+    "lat": 33.494723,
+    "lon": -111.925137,
+    "time": "2026-05-05T19:01:20"
+   },
+   {
+    "place": "St. Bernard of Clairvaux",
+    "lat": 33.518508,
+    "lon": -111.886321,
+    "time": "2026-05-10T10:10:40"
+   }
+  ],
+  "calendar": [
+   {
+    "summary": "Update Runway_2026.xlsx (Burn Rate Check)",
+    "time": "2026-05-08T14:08:11"
+   },
+   {
+    "summary": "Update Runway_2026.xlsx",
+    "time": "2026-05-10T20:17:16"
+   },
+   {
+    "summary": "Kid activity: Swimming/Lunch",
+    "time": "2026-05-21T11:14:10"
+   }
+  ]
+ },
+ "_meta": {
+  "total_days": 30,
+  "n_events": 117
+ }
+}

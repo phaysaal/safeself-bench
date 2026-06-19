@@ -1,0 +1,1411 @@
+{
+ "persona_id": "?:1",
+ "persona_slug": "The Disgruntled Ex-Employee",
+ "intake_version": "synth-activity-v2-chunked",
+ "samples": {
+  "locations": [
+   {
+    "place": "Blue Bottle Coffee, Newark Ave, Jersey City, NJ",
+    "lat": 40.719645,
+    "lon": -74.044856,
+    "time": "2026-05-04T06:54:35"
+   },
+   {
+    "place": "Exchange Place Waterfront Promenade, Jersey City, NJ",
+    "lat": 40.717928,
+    "lon": -74.041763,
+    "time": "2026-05-04T18:42:44"
+   },
+   {
+    "place": "Blue Bottle Coffee, Newark Ave, Jersey City, NJ",
+    "lat": 40.716773,
+    "lon": -74.044665,
+    "time": "2026-05-05T10:42:02"
+   },
+   {
+    "place": "Harborside Financial Center Walkway, Jersey City, NJ",
+    "lat": 40.718704,
+    "lon": -74.039383,
+    "time": "2026-05-05T16:59:47"
+   },
+   {
+    "place": "Blue Bottle Coffee, Newark Ave, Jersey City, NJ",
+    "lat": 40.717565,
+    "lon": -74.043867,
+    "time": "2026-05-06T06:34:17"
+   },
+   {
+    "place": "Paulus Hook Waterfront, Jersey City, NJ",
+    "lat": 40.717307,
+    "lon": -74.040059,
+    "time": "2026-05-06T18:40:49"
+   },
+   {
+    "place": "Blue Bottle Coffee, Newark Ave, Jersey City, NJ",
+    "lat": 40.717721,
+    "lon": -74.045785,
+    "time": "2026-05-07T07:05:08"
+   },
+   {
+    "place": "Liberty State Park Waterfront Path, Jersey City, NJ",
+    "lat": 40.71085,
+    "lon": -74.044625,
+    "time": "2026-05-07T18:38:13"
+   },
+   {
+    "place": "Blue Bottle Coffee, Newark Ave, Jersey City, NJ",
+    "lat": 40.718786,
+    "lon": -74.046103,
+    "time": "2026-05-08T07:28:07"
+   },
+   {
+    "place": "Pier A Park, Hoboken, NJ",
+    "lat": 40.742562,
+    "lon": -74.032548,
+    "time": "2026-05-08T16:44:56"
+   },
+   {
+    "place": "Stumptown Coffee Roasters, Washington St, Jersey City, NJ",
+    "lat": 40.717597,
+    "lon": -74.046194,
+    "time": "2026-05-09T09:25:08"
+   },
+   {
+    "place": "Hudson River Walk at Newport, Jersey City, NJ",
+    "lat": 40.727965,
+    "lon": -74.029228,
+    "time": "2026-05-09T18:39:22"
+   },
+   {
+    "place": "Blue Bottle Coffee, Newark Ave, Jersey City, NJ",
+    "lat": 40.718306,
+    "lon": -74.046229,
+    "time": "2026-05-10T09:40:19"
+   },
+   {
+    "place": "Apartment, Journal Square, Jersey City, NJ",
+    "lat": 40.719579,
+    "lon": -74.044472,
+    "time": "2026-05-10T12:11:23"
+   },
+   {
+    "place": "Hamilton Park, Jersey City, NJ",
+    "lat": 40.719586,
+    "lon": -74.041528,
+    "time": "2026-05-10T16:19:53"
+   },
+   {
+    "place": "Blue Bottle Coffee (Hoboken)",
+    "lat": 40.745285,
+    "lon": -74.031917,
+    "time": "2026-05-11T10:32:36"
+   },
+   {
+    "place": "Jersey City Waterfront Walk (Exchange Place)",
+    "lat": 40.713228,
+    "lon": -74.045937,
+    "time": "2026-05-11T18:39:03"
+   },
+   {
+    "place": "Apartment Bedroom (Jersey City)",
+    "lat": 40.718405,
+    "lon": -74.045192,
+    "time": "2026-05-12T06:22:22"
+   },
+   {
+    "place": "Blue Bottle Coffee (Hoboken)",
+    "lat": 40.744084,
+    "lon": -74.031248,
+    "time": "2026-05-12T10:35:03"
+   },
+   {
+    "place": "Apartment Kitchen (Jersey City)",
+    "lat": 40.719951,
+    "lon": -74.044399,
+    "time": "2026-05-13T09:19:11"
+   },
+   {
+    "place": "Blue Bottle Coffee (Hoboken)",
+    "lat": 40.743576,
+    "lon": -74.031471,
+    "time": "2026-05-13T10:47:21"
+   },
+   {
+    "place": "Planet Fitness Jersey City",
+    "lat": 40.724236,
+    "lon": -74.042584,
+    "time": "2026-05-13T19:37:39"
+   },
+   {
+    "place": "Apartment (Jersey City)",
+    "lat": 40.720511,
+    "lon": -74.043634,
+    "time": "2026-05-14T09:50:30"
+   },
+   {
+    "place": "Blue Bottle Coffee (Hoboken)",
+    "lat": 40.744718,
+    "lon": -74.033751,
+    "time": "2026-05-14T10:43:10"
+   },
+   {
+    "place": "Jersey City Waterfront Walk (Exchange Place)",
+    "lat": 40.712106,
+    "lon": -74.044577,
+    "time": "2026-05-14T18:50:40"
+   },
+   {
+    "place": "Apartment (Jersey City)",
+    "lat": 40.718917,
+    "lon": -74.045312,
+    "time": "2026-05-15T09:35:13"
+   },
+   {
+    "place": "Blue Bottle Coffee (Hoboken)",
+    "lat": 40.744362,
+    "lon": -74.031582,
+    "time": "2026-05-15T10:27:52"
+   },
+   {
+    "place": "Liberty State Park – Pier A",
+    "lat": 40.705353,
+    "lon": -74.059058,
+    "time": "2026-05-15T13:39:20"
+   },
+   {
+    "place": "Jersey City Waterfront Walk (Exchange Place)",
+    "lat": 40.712446,
+    "lon": -74.044527,
+    "time": "2026-05-15T18:21:44"
+   },
+   {
+    "place": "Apartment Bedroom (Jersey City)",
+    "lat": 40.719251,
+    "lon": -74.044596,
+    "time": "2026-05-15T23:10:50"
+   },
+   {
+    "place": "Apartment (Jersey City)",
+    "lat": 40.718778,
+    "lon": -74.044278,
+    "time": "2026-05-16T09:49:43"
+   },
+   {
+    "place": "Blue Bottle Coffee (Hoboken)",
+    "lat": 40.744319,
+    "lon": -74.03119,
+    "time": "2026-05-16T10:40:29"
+   },
+   {
+    "place": "Jersey City Waterfront Walk (Exchange Place)",
+    "lat": 40.713979,
+    "lon": -74.046216,
+    "time": "2026-05-16T16:47:19"
+   },
+   {
+    "place": "Apartment (Jersey City)",
+    "lat": 40.720269,
+    "lon": -74.044649,
+    "time": "2026-05-17T10:07:13"
+   },
+   {
+    "place": "Blue Bottle Coffee (Hoboken)",
+    "lat": 40.743141,
+    "lon": -74.032101,
+    "time": "2026-05-17T10:58:20"
+   },
+   {
+    "place": "Jersey City Waterfront Walk (Exchange Place)",
+    "lat": 40.713377,
+    "lon": -74.044745,
+    "time": "2026-05-17T16:52:30"
+   },
+   {
+    "place": "Blue Bottle Coffee (Newport, Jersey City)",
+    "lat": 40.730077,
+    "lon": -74.045172,
+    "time": "2026-05-18T10:26:03"
+   },
+   {
+    "place": "Apartment kitchen (Jersey City)",
+    "lat": 40.718808,
+    "lon": -74.045987,
+    "time": "2026-05-18T12:29:47"
+   },
+   {
+    "place": "Jersey City waterfront promenade (Exchange Place)",
+    "lat": 40.712225,
+    "lon": -74.013404,
+    "time": "2026-05-18T18:37:15"
+   },
+   {
+    "place": "Blue Bottle Coffee (Newport, Jersey City)",
+    "lat": 40.729236,
+    "lon": -74.044074,
+    "time": "2026-05-19T10:51:41"
+   },
+   {
+    "place": "Hamilton Park (Jersey City)",
+    "lat": 40.719789,
+    "lon": -74.044422,
+    "time": "2026-05-19T16:18:39"
+   },
+   {
+    "place": "Blue Bottle Coffee (Newport, Jersey City)",
+    "lat": 40.728589,
+    "lon": -74.044242,
+    "time": "2026-05-20T10:50:53"
+   },
+   {
+    "place": "Apartment kitchen (Jersey City)",
+    "lat": 40.717774,
+    "lon": -74.045077,
+    "time": "2026-05-20T12:32:22"
+   },
+   {
+    "place": "Hamilton Park (Jersey City)",
+    "lat": 40.72078,
+    "lon": -74.044091,
+    "time": "2026-05-20T16:24:01"
+   },
+   {
+    "place": "Jersey City waterfront promenade (Exchange Place)",
+    "lat": 40.714136,
+    "lon": -74.014444,
+    "time": "2026-05-20T18:41:14"
+   },
+   {
+    "place": "Blue Bottle Coffee (Newport, Jersey City)",
+    "lat": 40.726962,
+    "lon": -74.045188,
+    "time": "2026-05-21T11:01:47"
+   },
+   {
+    "place": "Apartment kitchen (Jersey City)",
+    "lat": 40.717438,
+    "lon": -74.045941,
+    "time": "2026-05-21T11:47:54"
+   },
+   {
+    "place": "Hamilton Park (Jersey City)",
+    "lat": 40.720352,
+    "lon": -74.045479,
+    "time": "2026-05-21T15:56:40"
+   },
+   {
+    "place": "Jersey City waterfront promenade (Exchange Place)",
+    "lat": 40.713461,
+    "lon": -74.01484,
+    "time": "2026-05-21T17:45:04"
+   },
+   {
+    "place": "Blue Bottle Coffee (Newport, Jersey City)",
+    "lat": 40.727205,
+    "lon": -74.045389,
+    "time": "2026-05-22T10:45:08"
+   },
+   {
+    "place": "Hamilton Park (Jersey City)",
+    "lat": 40.720107,
+    "lon": -74.045171,
+    "time": "2026-05-22T16:19:49"
+   },
+   {
+    "place": "Jersey City waterfront promenade (Exchange Place)",
+    "lat": 40.711874,
+    "lon": -74.013117,
+    "time": "2026-05-22T18:44:53"
+   },
+   {
+    "place": "Stumptown Coffee Roasters (Jersey City)",
+    "lat": 40.720433,
+    "lon": -74.044799,
+    "time": "2026-05-23T09:59:48"
+   },
+   {
+    "place": "Hamilton Park (Jersey City)",
+    "lat": 40.720825,
+    "lon": -74.046664,
+    "time": "2026-05-23T13:59:55"
+   },
+   {
+    "place": "Jersey City waterfront promenade (Exchange Place)",
+    "lat": 40.713655,
+    "lon": -74.013313,
+    "time": "2026-05-23T18:18:13"
+   },
+   {
+    "place": "Hamilton Park (Jersey City)",
+    "lat": 40.719667,
+    "lon": -74.045329,
+    "time": "2026-05-24T10:22:08"
+   },
+   {
+    "place": "Jersey City waterfront promenade (Exchange Place)",
+    "lat": 40.713036,
+    "lon": -74.012975,
+    "time": "2026-05-24T16:40:51"
+   },
+   {
+    "place": "Blue Bottle Coffee – Washington St, Jersey City, NJ",
+    "lat": 40.719135,
+    "lon": -74.043331,
+    "time": "2026-05-25T10:27:18"
+   },
+   {
+    "place": "Liberty State Park Waterfront Walkway, Jersey City, NJ",
+    "lat": 40.711544,
+    "lon": -74.045216,
+    "time": "2026-05-25T18:28:16"
+   },
+   {
+    "place": "Blue Bottle Coffee – Washington St, Jersey City, NJ",
+    "lat": 40.7166,
+    "lon": -74.043079,
+    "time": "2026-05-26T10:40:38"
+   },
+   {
+    "place": "Liberty State Park Waterfront Walkway, Jersey City, NJ",
+    "lat": 40.71208,
+    "lon": -74.043468,
+    "time": "2026-05-26T18:26:43"
+   },
+   {
+    "place": "Blue Bottle Coffee – Washington St, Jersey City, NJ",
+    "lat": 40.717565,
+    "lon": -74.042077,
+    "time": "2026-05-27T10:23:52"
+   },
+   {
+    "place": "Liberty State Park Waterfront Walkway, Jersey City, NJ",
+    "lat": 40.711589,
+    "lon": -74.043947,
+    "time": "2026-05-27T18:32:45"
+   },
+   {
+    "place": "Blue Bottle Coffee – Washington St, Jersey City, NJ",
+    "lat": 40.717996,
+    "lon": -74.04351,
+    "time": "2026-05-28T10:44:41"
+   },
+   {
+    "place": "Apartment (rented one‑bedroom), Washington St, Jersey City, NJ",
+    "lat": 40.718802,
+    "lon": -74.041943,
+    "time": "2026-05-28T19:31:11"
+   },
+   {
+    "place": "Blue Bottle Coffee – Washington St, Jersey City, NJ",
+    "lat": 40.718711,
+    "lon": -74.04463,
+    "time": "2026-05-29T10:54:48"
+   },
+   {
+    "place": "Liberty State Park Waterfront Walkway, Jersey City, NJ",
+    "lat": 40.710285,
+    "lon": -74.045099,
+    "time": "2026-05-29T18:49:00"
+   },
+   {
+    "place": "Blue Bottle Coffee – Washington St, Jersey City, NJ",
+    "lat": 40.717291,
+    "lon": -74.043671,
+    "time": "2026-05-30T10:23:59"
+   },
+   {
+    "place": "Liberty State Park Waterfront Walkway, Jersey City, NJ",
+    "lat": 40.711282,
+    "lon": -74.044168,
+    "time": "2026-05-30T18:23:14"
+   },
+   {
+    "place": "Blue Bottle Coffee – Washington St, Jersey City, NJ",
+    "lat": 40.717872,
+    "lon": -74.044731,
+    "time": "2026-05-31T10:52:18"
+   },
+   {
+    "place": "Liberty State Park Waterfront Walkway, Jersey City, NJ",
+    "lat": 40.710095,
+    "lon": -74.04434,
+    "time": "2026-05-31T18:32:40"
+   },
+   {
+    "place": "Blue Bottle Coffee, 1 Washington St, Jersey City, NJ",
+    "lat": 40.719481,
+    "lon": -74.045231,
+    "time": "2026-06-01T08:08:21"
+   },
+   {
+    "place": "Blue Bottle Coffee, 1 Washington St, Jersey City, NJ",
+    "lat": 40.718589,
+    "lon": -74.046167,
+    "time": "2026-06-02T10:53:01"
+   },
+   {
+    "place": "Liberty State Park – Pier A, Jersey City, NJ",
+    "lat": 40.70361,
+    "lon": -74.055593,
+    "time": "2026-06-02T14:47:47"
+   }
+  ],
+  "media": [
+   {
+    "name": "Web Browser",
+    "time": "2026-05-04T08:48:05"
+   },
+   {
+    "name": "File Explorer",
+    "time": "2026-05-04T10:18:32"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-04T13:22:26"
+   },
+   {
+    "name": "Web Browser",
+    "time": "2026-05-05T09:09:51"
+   },
+   {
+    "name": "File Explorer",
+    "time": "2026-05-05T12:17:21"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-05T13:30:33"
+   },
+   {
+    "name": "File Explorer",
+    "time": "2026-05-05T14:50:51"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-05T22:28:03"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-06T03:51:03"
+   },
+   {
+    "name": "Notes",
+    "time": "2026-05-06T04:18:31"
+   },
+   {
+    "name": "File Explorer",
+    "time": "2026-05-06T10:57:20"
+   },
+   {
+    "name": "Web Browser",
+    "time": "2026-05-07T10:03:02"
+   },
+   {
+    "name": "File Explorer",
+    "time": "2026-05-07T10:26:51"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-07T12:54:05"
+   },
+   {
+    "name": "File Explorer",
+    "time": "2026-05-07T15:07:57"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-07T22:30:10"
+   },
+   {
+    "name": "7-Zip",
+    "time": "2026-05-08T10:20:07"
+   },
+   {
+    "name": "AnonCloud",
+    "time": "2026-05-08T18:03:45"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-08T21:24:50"
+   },
+   {
+    "name": "Journal",
+    "time": "2026-05-08T22:41:41"
+   },
+   {
+    "name": "File Explorer",
+    "time": "2026-05-09T13:57:31"
+   },
+   {
+    "name": "Twitter",
+    "time": "2026-05-09T22:23:57"
+   },
+   {
+    "name": "Phone",
+    "time": "2026-05-10T08:23:20"
+   },
+   {
+    "name": "File Explorer",
+    "time": "2026-05-10T12:58:09"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-10T18:08:42"
+   },
+   {
+    "name": "Journal",
+    "time": "2026-05-10T20:02:44"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-11T03:51:38"
+   },
+   {
+    "name": "Notes",
+    "time": "2026-05-11T12:21:06"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-12T04:28:06"
+   },
+   {
+    "name": "Notes",
+    "time": "2026-05-12T12:27:40"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-13T04:08:32"
+   },
+   {
+    "name": "Calendar",
+    "time": "2026-05-13T11:48:38"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-14T04:19:33"
+   },
+   {
+    "name": "Notes",
+    "time": "2026-05-14T12:17:42"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-15T04:06:15"
+   },
+   {
+    "name": "Notes",
+    "time": "2026-05-15T19:47:31"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-16T04:36:18"
+   },
+   {
+    "name": "Notes",
+    "time": "2026-05-16T13:50:22"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-17T04:02:50"
+   },
+   {
+    "name": "Notes",
+    "time": "2026-05-17T12:18:55"
+   },
+   {
+    "name": "NJ Unemployment Portal",
+    "time": "2026-05-18T08:57:58"
+   },
+   {
+    "name": "Google Drive",
+    "time": "2026-05-18T13:31:37"
+   },
+   {
+    "name": "Web Browser (Google Search)",
+    "time": "2026-05-18T15:07:17"
+   },
+   {
+    "name": "Notes App",
+    "time": "2026-05-19T04:16:46"
+   },
+   {
+    "name": "NJ Unemployment Portal",
+    "time": "2026-05-19T08:55:12"
+   },
+   {
+    "name": "Google Drive",
+    "time": "2026-05-19T13:23:50"
+   },
+   {
+    "name": "NJ Unemployment Portal",
+    "time": "2026-05-20T09:23:57"
+   },
+   {
+    "name": "Google Drive",
+    "time": "2026-05-20T13:27:25"
+   },
+   {
+    "name": "NJ Unemployment Portal",
+    "time": "2026-05-21T08:49:33"
+   },
+   {
+    "name": "Google Drive",
+    "time": "2026-05-21T12:51:17"
+   },
+   {
+    "name": "NJ Unemployment Portal",
+    "time": "2026-05-22T09:21:28"
+   },
+   {
+    "name": "Google Drive",
+    "time": "2026-05-22T13:54:25"
+   },
+   {
+    "name": "Email Client (Gmail)",
+    "time": "2026-05-23T09:11:49"
+   },
+   {
+    "name": "7-Zip (File Compression)",
+    "time": "2026-05-23T11:14:19"
+   },
+   {
+    "name": "Email Client (Gmail)",
+    "time": "2026-05-24T09:30:24"
+   },
+   {
+    "name": "Google Docs",
+    "time": "2026-05-24T11:45:57"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-25T03:37:17"
+   },
+   {
+    "name": "NJ Unemployment Portal",
+    "time": "2026-05-25T08:56:26"
+   },
+   {
+    "name": "Spotify",
+    "time": "2026-05-25T11:08:22"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-26T03:55:46"
+   },
+   {
+    "name": "NJ Benefits Portal",
+    "time": "2026-05-26T09:30:37"
+   },
+   {
+    "name": "Notion",
+    "time": "2026-05-26T12:11:37"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-27T04:14:22"
+   },
+   {
+    "name": "NJ Unemployment Portal",
+    "time": "2026-05-27T09:46:58"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-27T12:45:09"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-28T03:33:32"
+   },
+   {
+    "name": "NJ Benefits Portal",
+    "time": "2026-05-28T10:05:19"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-28T14:19:14"
+   },
+   {
+    "name": "File Explorer",
+    "time": "2026-05-28T17:01:29"
+   },
+   {
+    "name": "ProtonMail",
+    "time": "2026-05-28T21:51:32"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-29T04:20:25"
+   },
+   {
+    "name": "NJ Unemployment Portal",
+    "time": "2026-05-29T10:03:59"
+   },
+   {
+    "name": "File Explorer",
+    "time": "2026-05-29T13:45:33"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-30T03:39:54"
+   },
+   {
+    "name": "Notion",
+    "time": "2026-05-30T15:06:47"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-30T20:04:23"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-31T04:14:50"
+   },
+   {
+    "name": "File Explorer",
+    "time": "2026-05-31T15:21:01"
+   },
+   {
+    "name": "Twitter",
+    "time": "2026-05-31T22:31:44"
+   },
+   {
+    "name": "Notes",
+    "time": "2026-06-01T07:29:19"
+   },
+   {
+    "name": "File Explorer",
+    "time": "2026-06-01T14:27:32"
+   },
+   {
+    "name": "ProtonMail",
+    "time": "2026-06-01T21:41:36"
+   },
+   {
+    "name": "Web Browser",
+    "time": "2026-06-02T11:56:48"
+   },
+   {
+    "name": "Checksum Tool",
+    "time": "2026-06-02T16:22:29"
+   }
+  ],
+  "videos": [
+   {
+    "title": "Guided CBT for Unemployment Stress – 30 Minute Session",
+    "channel": "TherapyInsights",
+    "time": "2026-05-04T16:07:16"
+   },
+   {
+    "title": "SEC Whistleblower Program Explained – How to File & Claim Your Bounty",
+    "channel": "The Intercept",
+    "time": "2026-05-05T19:50:42"
+   },
+   {
+    "title": "Mindful Breathing Exercise for Anxiety (10 min)",
+    "channel": "Headspace",
+    "time": "2026-05-06T16:09:04"
+   },
+   {
+    "title": "Cognitive Reappraisal: Turning Negative Thoughts About Job Loss into Actionable Plans",
+    "channel": "Psychology Today",
+    "time": "2026-05-09T16:11:25"
+   },
+   {
+    "title": "Anonymizing Large Financial Datasets in Python – Step‑by‑Step Tutorial",
+    "channel": "DataScienceDojo",
+    "time": "2026-05-09T20:26:06"
+   },
+   {
+    "title": "Protecting Your Identity as a Whistleblower: Practical Steps",
+    "channel": "Electronic Frontier Foundation",
+    "time": "2026-05-12T20:38:50"
+   },
+   {
+    "title": "The Whistleblower’s Dilemma (Full Documentary)",
+    "channel": "PBS Frontline",
+    "time": "2026-05-14T20:24:26"
+   },
+   {
+    "title": "Inside the Legal Minefield: Interview with Whistleblower Attorney Jane Doe",
+    "channel": "The Intercept",
+    "time": "2026-05-16T19:10:15"
+   },
+   {
+    "title": "The Power of Speaking Truth to Power",
+    "channel": "TED",
+    "time": "2026-05-17T17:52:19"
+   },
+   {
+    "title": "Trust Me I’m Lying – Episode 12: The Rise of Clickbait Politics",
+    "channel": "Trust Me I’m Lying (Official)",
+    "time": "2026-05-21T19:02:37"
+   },
+   {
+    "title": "Dirty Money – The FinTech Fraud: NovaLedger’s Collapse",
+    "channel": "Netflix",
+    "time": "2026-05-23T20:00:57"
+   },
+   {
+    "title": "SEC Enforcement Case Study: NovaLedger Financial’s SOX Violations",
+    "channel": "SEC.gov",
+    "time": "2026-05-24T12:55:31"
+   },
+   {
+    "title": "SEC Whistleblower Program: How Bounties Work & How to File a Claim",
+    "channel": "SEC Office of the Whistleblower",
+    "time": "2026-05-25T22:46:23"
+   },
+   {
+    "title": "Top 5 Wrongful Termination Lawyers You Need to Know",
+    "channel": "LegalTok",
+    "time": "2026-05-26T19:59:29"
+   },
+   {
+    "title": "Inside The Intercept: Our Investigative Reporting Process",
+    "channel": "The Intercept",
+    "time": "2026-05-27T20:43:08"
+   },
+   {
+    "title": "Encrypting 10GB+ Files with 7‑Zip – Step by Step",
+    "channel": "TechSavvy",
+    "time": "2026-05-28T23:36:24"
+   },
+   {
+    "title": "Whistleblower Legal Risks & Protections – Live Panel",
+    "channel": "Law360",
+    "time": "2026-05-29T20:03:32"
+   },
+   {
+    "title": "Coping When a Loved One Is Ill – Quick Mental Health Tips",
+    "channel": "Therapy in a Minute",
+    "time": "2026-05-30T16:50:08"
+   },
+   {
+    "title": "SEC Whistleblower Bounty Eligibility – Full Webinar Replay",
+    "channel": "SEC Office of the Whistleblower",
+    "time": "2026-05-31T17:01:28"
+   },
+   {
+    "title": "SEC Whistleblower Bounty 2023 – How It Works",
+    "channel": "SEC Office of the Whistleblower",
+    "time": "2026-06-01T13:03:11"
+   }
+  ],
+  "messages": [
+   {
+    "with": "ledger_moth",
+    "direction": "to",
+    "text": "Hey, can you confirm the exact Slack channel name where the Q3 controls call was logged? I want to make sure I’m pulling the right thread before I dig in.",
+    "time": "2026-05-04T22:49:50"
+   },
+   {
+    "with": "ledger_moth",
+    "direction": "to",
+    "text": "Could you send me a quick list of all Slack channels that touched the SOX‑302 gaps? Trying to map the landscape without pulling the whole archive at once.",
+    "time": "2026-05-05T18:31:45"
+   },
+   {
+    "with": "ledger_moth",
+    "direction": "to",
+    "text": "What’s the safest way to get files to you? I’m leaning toward a password‑protected zip with a separate passphrase, but let me know your preferred method.",
+    "time": "2026-05-06T20:08:06"
+   },
+   {
+    "with": "Priya Raghavan",
+    "direction": "to",
+    "text": "Hey Priya, hope your weekend’s treating you well. Got any low‑key plans after work? I’m just trying to stay sane between the coffee and the endless archive.",
+    "time": "2026-05-07T16:41:47"
+   },
+   {
+    "with": "ledger_moth",
+    "direction": "from",
+    "text": "Got it. Please zip up the Slack export and drop it in the secure link I’ll send you. I’ll encrypt it on my side and ping you when it’s ready.",
+    "time": "2026-05-07T20:27:33"
+   },
+   {
+    "with": "ledger_moth",
+    "direction": "to",
+    "text": "Liberty State Park Pier A works for me. I’ll be there at 3 pm tomorrow with the encrypted USB. Let me know if anything changes.",
+    "time": "2026-05-08T13:30:35"
+   },
+   {
+    "with": "ledger_moth",
+    "direction": "from",
+    "text": "Send the file via a PGP‑encrypted attachment to ledger.moth.0x@proton.me and use the passphrase “cobalt‑night”. I’ll confirm receipt once I’ve decrypted it.",
+    "time": "2026-05-08T17:17:32"
+   },
+   {
+    "with": "ledger_moth",
+    "direction": "to",
+    "text": "Just uploaded the zip to the Proton drop‑box. Did you get it? Let me know if the decryption works or if I need to resend.",
+    "time": "2026-05-09T11:37:04"
+   },
+   {
+    "with": "Megan",
+    "direction": "to",
+    "text": "Thanks for the quick FaceTime, Meg. Hearing about Caleb always pulls me back from the spiral. I’ll keep you posted when I figure out the next steps.",
+    "time": "2026-05-09T15:07:58"
+   },
+   {
+    "with": "ledger_moth",
+    "direction": "to",
+    "text": "I’m on standby. Anything else you need from me before we move forward?",
+    "time": "2026-05-10T10:39:53"
+   },
+   {
+    "with": "Priya Raghavan",
+    "direction": "to",
+    "text": "Priya, I’ve been reviewing the Slack logs. If we need to share anything, I can redact your messages. Let me know what you’re comfortable with.",
+    "time": "2026-05-10T15:18:35"
+   },
+   {
+    "with": "Megan",
+    "direction": "to",
+    "text": "Sorry I missed your calls earlier. Just wanted to say I’m still alive and grinding through the archive. I’ll catch up properly soon.",
+    "time": "2026-05-10T23:03:02"
+   },
+   {
+    "with": "ledger_moth",
+    "direction": "to",
+    "text": "Therapy just wrapped – the anxiety meter spiked (3 am replay loop still active). I’m still reviewing the archive, but the non‑compete gnaws. Do you have any safe‑harbor suggestions?",
+    "time": "2026-05-11T15:59:54"
+   },
+   {
+    "with": "ledger_moth",
+    "direction": "to",
+    "text": "Quick clarification: the Q3 controls discussion you referenced – was it in the #compliance‑q3‑chat or the private #audit‑ops thread?",
+    "time": "2026-05-11T20:13:28"
+   },
+   {
+    "with": "ledger_moth",
+    "direction": "to",
+    "text": "I’m circling back on the non‑compete clause – if we push files, could NovaLedger subpoena under the NDA? Need to gauge exposure before I hand over anything.",
+    "time": "2026-05-12T17:13:26"
+   },
+   {
+    "with": "ledger_moth",
+    "direction": "to",
+    "text": "Therapist just flagged my anxiety spike as a red flag – I’m oscillating between leak urgency and self‑preservation. Any thoughts on pacing?",
+    "time": "2026-05-13T16:02:12"
+   },
+   {
+    "with": "ledger_moth",
+    "direction": "to",
+    "text": "Follow‑up session left me with a fresh dread of surveillance. If they’re watching my phone, every upload is a liability. Do you have an off‑grid drop point?",
+    "time": "2026-05-13T17:22:11"
+   },
+   {
+    "with": "ledger_moth",
+    "direction": "to",
+    "text": "No new files to share at this moment – still vetting the index for privileged content. Will ping when I have a clean batch.",
+    "time": "2026-05-13T21:13:05"
+   },
+   {
+    "with": "ledger_moth",
+    "direction": "to",
+    "text": "Attached is the provisional file list (14 GB). Can you confirm the exact Slack channel name you need – is it ‘#q3‑controls‑audit’ or the archived ‘#audit‑calls‑2024‑Q3’?",
+    "time": "2026-05-14T15:36:19"
+   },
+   {
+    "with": "ledger_moth",
+    "direction": "from",
+    "text": "Got the list, thanks. I’ll start parsing for the redacted sections. Next step: we need a secure transfer method – have you set up a PGP key?",
+    "time": "2026-05-15T14:36:00"
+   },
+   {
+    "with": "ledger_moth",
+    "direction": "to",
+    "text": "Here’s the redacted version (Priya’s mentions stripped). Let me know if any other identifiers need masking before we proceed.",
+    "time": "2026-05-15T22:25:48"
+   },
+   {
+    "with": "Priya",
+    "direction": "to",
+    "text": "Hey Priya, hope your weekend was low‑key. Got any updates on the compliance dashboard you were tweaking?",
+    "time": "2026-05-16T11:56:11"
+   },
+   {
+    "with": "Priya",
+    "direction": "from",
+    "text": "She: ‘Did you finish the audit‑gap doc?’\nMe: ‘Still pulling threads, will ping when I have a clean version.’ (keeping it vague)",
+    "time": "2026-05-16T14:27:24"
+   },
+   {
+    "with": "ledger_moth",
+    "direction": "to",
+    "text": "Do the redacted extracts meet the editorial threshold, or do you need deeper raw logs?",
+    "time": "2026-05-16T21:20:11"
+   },
+   {
+    "with": "ledger_moth",
+    "direction": "to",
+    "text": "Draft outline attached – 4 sections: control gaps, audit evasion, whistleblower risk, impact analysis. Feedback on narrative flow?",
+    "time": "2026-05-17T15:37:08"
+   },
+   {
+    "with": "ledger_moth",
+    "direction": "from",
+    "text": "Feedback: tighten the SOX‑302 timeline, add a quote from the ‘Berenson memo.’ Submission date set for 2026‑05‑18.",
+    "time": "2026-05-17T19:17:37"
+   },
+   {
+    "with": "ledger_moth",
+    "direction": "to",
+    "text": "All set – will encrypt the final package with your PGP key and drop it via the secure drop link you shared. Expect upload by 02:00 UTC.",
+    "time": "2026-05-17T22:38:25"
+   },
+   {
+    "with": "ledger_moth",
+    "direction": "outgoing",
+    "text": "Ledger_moth, can you confirm the exact Slack channel name where the Q3 controls call was logged? Need the precise handle for my reference.",
+    "time": "2026-05-18T22:25:55"
+   },
+   {
+    "with": "Priya Raghavan",
+    "direction": "outgoing",
+    "text": "Hey Priya, just wanted to see how you’re holding up after the weekend. Anything new on the compliance front?",
+    "time": "2026-05-19T12:06:20"
+   },
+   {
+    "with": "ledger_moth",
+    "direction": "outgoing",
+    "text": "I’m hitting a wall tonight—need an extra 24 h before I can pull the channel logs. Let me know if that works.",
+    "time": "2026-05-19T20:17:23"
+   },
+   {
+    "with": "ledger_moth",
+    "direction": "outgoing",
+    "text": "Glossary attached (PDF). Highlighted org chart and reporting lines as requested. Let me know if any definitions need tightening.",
+    "time": "2026-05-20T22:15:40"
+   },
+   {
+    "with": "ledger_moth",
+    "direction": "outgoing",
+    "text": "All set on my end. Awaiting your next request—specific files, formats, encryption preferences.",
+    "time": "2026-05-21T21:40:07"
+   },
+   {
+    "with": "ledger_moth",
+    "direction": "outgoing",
+    "text": "Ran into a personal issue (family call) and couldn’t finish the zip. I’ll have it ready by tomorrow morning.",
+    "time": "2026-05-22T20:03:28"
+   },
+   {
+    "with": "ledger_moth",
+    "direction": "outgoing",
+    "text": "Encrypted zip (AES‑256, password: [redacted]) uploaded to the secure drop. Contains the Q3 audit trail and Slack export excerpts.",
+    "time": "2026-05-23T16:21:22"
+   },
+   {
+    "with": "ledger_moth",
+    "direction": "outgoing",
+    "text": "Files uploaded. Confirm receipt when you can; next steps?",
+    "time": "2026-05-23T22:42:10"
+   },
+   {
+    "with": "Priya Raghavan",
+    "direction": "outgoing",
+    "text": "Priya, can we hop on a quick call? There’s something I need to discuss that’s… sensitive.",
+    "time": "2026-05-24T15:09:27"
+   },
+   {
+    "with": "ledger_moth",
+    "direction": "outgoing",
+    "text": "What’s the next move? Do you need additional context or raw logs before we proceed?",
+    "time": "2026-05-24T19:51:47"
+   },
+   {
+    "with": "ledger_moth",
+    "direction": "outgoing",
+    "text": "Any new angle you think would cut through their PR spin? I'm still indexing the Q3 gaps.",
+    "time": "2026-05-25T15:32:02"
+   },
+   {
+    "with": "ledger_moth",
+    "direction": "outgoing",
+    "text": "Got the org chart? Need the reporting lines for the audit partner to map the control hierarchy.",
+    "time": "2026-05-26T15:51:22"
+   },
+   {
+    "with": "ledger_moth",
+    "direction": "incoming",
+    "text": "Meet at Pier A tonight? Low‑key, no cameras.",
+    "time": "2026-05-26T22:31:29"
+   },
+   {
+    "with": "ledger_moth",
+    "direction": "incoming",
+    "text": "Sending redacted files soon – I've scrubbed the Priya mentions per your request.",
+    "time": "2026-05-27T16:29:00"
+   },
+   {
+    "with": "ledger_moth",
+    "direction": "incoming",
+    "text": "Ready to upload? Let me know the drop method you prefer.",
+    "time": "2026-05-27T22:31:41"
+   },
+   {
+    "with": "ledger_moth",
+    "direction": "incoming",
+    "text": "Files ready, need secure drop. I’ve set up an encrypted dropbox; send the one‑time key.",
+    "time": "2026-05-28T20:45:06"
+   },
+   {
+    "with": "ledger_moth",
+    "direction": "incoming",
+    "text": "Encrypted zip attached, please confirm receipt. Timestamped 16:30 UTC.",
+    "time": "2026-05-29T16:39:51"
+   },
+   {
+    "with": "ledger_moth",
+    "direction": "incoming",
+    "text": "Awaiting confirmation, any issues? If you spot anything odd, abort.",
+    "time": "2026-05-29T22:49:21"
+   },
+   {
+    "with": "Mom",
+    "direction": "outgoing",
+    "text": "Hey Mom, just heard Nana’s health is worsening – that’s tough. I’m trying to stay focused but it’s weighing on me.",
+    "time": "2026-05-30T12:29:37"
+   },
+   {
+    "with": "Mom",
+    "direction": "outgoing",
+    "text": "Could you send me Dr. Patel’s appointment details? I want to make sure I’m up to speed for the next call.",
+    "time": "2026-05-30T14:11:56"
+   },
+   {
+    "with": "ledger_moth",
+    "direction": "incoming",
+    "text": "Need to pause, will update tomorrow. Hold the files for now.",
+    "time": "2026-05-30T22:07:57"
+   },
+   {
+    "with": "Mom",
+    "direction": "outgoing",
+    "text": "Mom, I spoke with the hospice team – they’re arranging a visit next week. Let me know if there’s anything I can do.",
+    "time": "2026-05-31T12:38:49"
+   },
+   {
+    "with": "Family Group Chat",
+    "direction": "outgoing",
+    "text": "Family, just a heads‑up: Nana’s condition is declining; the doctors are recommending hospice care soon. I’ll keep you posted.",
+    "time": "2026-05-31T14:05:20"
+   },
+   {
+    "with": "ledger_moth",
+    "direction": "incoming",
+    "text": "Final decision pending – let me know your move. This is the last window before the deadline.",
+    "time": "2026-05-31T20:35:42"
+   },
+   {
+    "with": "ledger_moth",
+    "direction": "outgoing",
+    "text": "Got the org‑chart you asked for. I’m double‑checking the reporting lines – let me know the next step. (Keeping this low‑key, as always.)",
+    "time": "2026-06-01T15:42:27"
+   },
+   {
+    "with": "ledger_moth",
+    "direction": "incoming",
+    "text": "Need the Slack export by 18:00 today – deadline is tight. Send only the Q3 channel logs; encrypt and use the drop‑point we discussed.",
+    "time": "2026-06-02T09:19:30"
+   },
+   {
+    "with": "self",
+    "direction": "outgoing",
+    "text": "Encrypting the 14 GB archive with 7z, password set to ‘whistle2026’. Saved as draft – no traces on cloud. (Paranoia is now protocol.)",
+    "time": "2026-06-02T13:30:31"
+   },
+   {
+    "with": "ledger_moth",
+    "direction": "outgoing",
+    "text": "USB drive handed over at the park bench. Quick verbal check – you have the files, I have the hash. Stay silent on the channel.",
+    "time": "2026-06-02T15:08:52"
+   },
+   {
+    "with": "ledger_moth",
+    "direction": "outgoing",
+    "text": "File uploaded via ProtonMail. Please confirm receipt and that the checksum matches. (Any slip could expose us.)",
+    "time": "2026-06-02T17:55:46"
+   }
+  ],
+  "searches": [
+   {
+    "query": "linkedin promotions former coworkers novaledger",
+    "time": "2026-05-11T03:42:03"
+   },
+   {
+    "query": "novaledger q3 sox302 findings pdf",
+    "time": "2026-05-11T09:51:31"
+   },
+   {
+    "query": "senior compliance jobs new jersey linkedin",
+    "time": "2026-05-11T22:30:52"
+   },
+   {
+    "query": "novaledger layoffs site:linkedin.com",
+    "time": "2026-05-12T03:38:55"
+   },
+   {
+    "query": "nj whistleblowr lawyer sec bounty",
+    "time": "2026-05-12T09:07:23"
+   },
+   {
+    "query": "best meditation app anxiety guided",
+    "time": "2026-05-12T21:54:50"
+   },
+   {
+    "query": "novaledger glassdoor reviews 2024",
+    "time": "2026-05-13T03:35:15"
+   },
+   {
+    "query": "novaledger slack export q3 download",
+    "time": "2026-05-14T03:45:35"
+   },
+   {
+    "query": "linux encrpyt usb tutorial",
+    "time": "2026-05-14T22:43:31"
+   },
+   {
+    "query": "novaledger sec enforcement recent",
+    "time": "2026-05-15T03:34:55"
+   },
+   {
+    "query": "legal risk leaking employee slack messages",
+    "time": "2026-05-16T04:13:23"
+   },
+   {
+    "query": "sec whistleblower bounty eligibility checklist",
+    "time": "2026-05-17T03:40:09"
+   },
+   {
+    "query": "secure dropbox whistleblower docs",
+    "time": "2026-05-17T21:05:12"
+   },
+   {
+    "query": "novaledger promotions linkedin",
+    "time": "2026-05-19T03:48:45"
+   },
+   {
+    "query": "reddit noncompete legal advice",
+    "time": "2026-05-19T15:27:03"
+   },
+   {
+    "query": "sec whistleblower filing form pdf",
+    "time": "2026-05-20T14:53:30"
+   },
+   {
+    "query": "nova ledger internal memo 2024",
+    "time": "2026-05-21T14:23:01"
+   },
+   {
+    "query": "legel redaction guidelines pdf",
+    "time": "2026-05-22T14:58:15"
+   },
+   {
+    "query": "secure encrypted file transfer tool",
+    "time": "2026-05-23T12:51:39"
+   },
+   {
+    "query": "post leak legal fallout overview",
+    "time": "2026-05-24T18:00:32"
+   },
+   {
+    "query": "novaledger q3 contol gaps",
+    "time": "2026-05-25T14:09:03"
+   },
+   {
+    "query": "novaledger audit partner email",
+    "time": "2026-05-26T14:06:21"
+   },
+   {
+    "query": "berenson memo pdf",
+    "time": "2026-05-27T14:02:39"
+   },
+   {
+    "query": "sec whistleblower filing deadline",
+    "time": "2026-05-28T15:11:10"
+   },
+   {
+    "query": "protonmail attachement limit",
+    "time": "2026-05-29T14:43:16"
+   },
+   {
+    "query": "talk to mom about grandma dementia",
+    "time": "2026-06-01T09:34:04"
+   },
+   {
+    "query": "securely send 14gb zip email split files",
+    "time": "2026-06-02T09:33:00"
+   }
+  ],
+  "calendar": [
+   {
+    "summary": "Archive review – open Google Drive, annotate AML alerts",
+    "time": "2026-05-11T14:01:27"
+   },
+   {
+    "summary": "Archive review – deep dive into AML alerts",
+    "time": "2026-05-12T14:08:53"
+   },
+   {
+    "summary": "Archive review – continue AML analysis",
+    "time": "2026-05-13T14:42:04"
+   },
+   {
+    "summary": "Archive review – focus on Slack channel identification",
+    "time": "2026-05-14T13:44:26"
+   },
+   {
+    "summary": "Archive review – post‑meet debrief, note redactions",
+    "time": "2026-05-15T16:20:24"
+   },
+   {
+    "summary": "Archive review – focus on SOX gaps",
+    "time": "2026-05-16T15:15:51"
+   },
+   {
+    "summary": "Archive review – final pass, verify redactions",
+    "time": "2026-05-17T13:44:08"
+   },
+   {
+    "summary": "Shower & grooming block – operational reset (Day 15)",
+    "time": "2026-05-18T11:01:36"
+   },
+   {
+    "summary": "Therapy session (4‑5 pm) – mental‑health compliance check (Day 15)",
+    "time": "2026-05-18T15:58:46"
+   },
+   {
+    "summary": "Shower & grooming – personal hygiene protocol (Day 17)",
+    "time": "2026-05-20T11:33:55"
+   },
+   {
+    "summary": "Prepare briefing for Monday therapist session – pre‑session notes (Day 21)",
+    "time": "2026-05-24T21:48:36"
+   },
+   {
+    "summary": "Shower/grooming block (routine vestige)",
+    "time": "2026-05-25T06:19:56"
+   },
+   {
+    "summary": "Therapy session (4‑5 pm)",
+    "time": "2026-05-25T15:58:06"
+   },
+   {
+    "summary": "Sleep‑in, late wake after fragmented night",
+    "time": "2026-05-30T09:54:33"
+   },
+   {
+    "summary": "Sleep‑in, attempt to catch up on rest",
+    "time": "2026-05-31T09:22:10"
+   },
+   {
+    "summary": "Therapist session (video call)",
+    "time": "2026-06-01T15:49:29"
+   }
+  ]
+ },
+ "_meta": {
+  "total_days": 30,
+  "n_events": 286
+ }
+}

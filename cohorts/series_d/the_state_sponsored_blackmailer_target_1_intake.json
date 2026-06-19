@@ -1,0 +1,1452 @@
+{
+ "persona_id": "?:1",
+ "persona_slug": "The State-Sponsored Blackmailer",
+ "intake_version": "synth-activity-v2-chunked",
+ "samples": {
+  "media": [
+   {
+    "name": "Telegram",
+    "time": "2026-05-04T03:52:46"
+   },
+   {
+    "name": "ForumApp",
+    "time": "2026-05-04T04:20:25"
+   },
+   {
+    "name": "Browser",
+    "time": "2026-05-04T16:17:11"
+   },
+   {
+    "name": "Notes",
+    "time": "2026-05-04T16:15:13"
+   },
+   {
+    "name": "Tor Browser",
+    "time": "2026-05-04T22:27:09"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-05T04:02:20"
+   },
+   {
+    "name": "ForumApp",
+    "time": "2026-05-05T04:54:32"
+   },
+   {
+    "name": "Browser",
+    "time": "2026-05-05T15:22:21"
+   },
+   {
+    "name": "Clock",
+    "time": "2026-05-05T15:46:58"
+   },
+   {
+    "name": "Twitter",
+    "time": "2026-05-05T16:20:20"
+   },
+   {
+    "name": "WordProcessor",
+    "time": "2026-05-05T22:49:18"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-06T04:26:54"
+   },
+   {
+    "name": "ForumApp",
+    "time": "2026-05-06T04:28:31"
+   },
+   {
+    "name": "Browser",
+    "time": "2026-05-06T15:35:04"
+   },
+   {
+    "name": "Email",
+    "time": "2026-05-06T18:45:32"
+   },
+   {
+    "name": "Tor Browser",
+    "time": "2026-05-06T23:55:12"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-07T04:25:42"
+   },
+   {
+    "name": "ForumApp",
+    "time": "2026-05-07T04:37:49"
+   },
+   {
+    "name": "Browser",
+    "time": "2026-05-07T16:04:07"
+   },
+   {
+    "name": "WordProcessor",
+    "time": "2026-05-07T22:52:47"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-08T04:23:19"
+   },
+   {
+    "name": "ForumApp",
+    "time": "2026-05-08T04:20:12"
+   },
+   {
+    "name": "Browser",
+    "time": "2026-05-08T18:40:11"
+   },
+   {
+    "name": "Tor Browser",
+    "time": "2026-05-08T22:14:24"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-09T04:22:09"
+   },
+   {
+    "name": "ForumApp",
+    "time": "2026-05-09T04:17:14"
+   },
+   {
+    "name": "Browser",
+    "time": "2026-05-09T13:27:18"
+   },
+   {
+    "name": "PaperJournal",
+    "time": "2026-05-09T22:27:04"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-10T04:05:58"
+   },
+   {
+    "name": "ForumApp",
+    "time": "2026-05-10T04:34:08"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-11T03:55:34"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-11T04:23:34"
+   },
+   {
+    "name": "Tor Browser",
+    "time": "2026-05-11T12:39:23"
+   },
+   {
+    "name": "Twitter",
+    "time": "2026-05-11T16:33:08"
+   },
+   {
+    "name": "Tor",
+    "time": "2026-05-11T22:44:56"
+   },
+   {
+    "name": "Goodreads",
+    "time": "2026-05-11T00:29:10"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-12T04:26:47"
+   },
+   {
+    "name": "Phone Locker",
+    "time": "2026-05-12T11:20:48"
+   },
+   {
+    "name": "Email",
+    "time": "2026-05-12T14:28:48"
+   },
+   {
+    "name": "Tor",
+    "time": "2026-05-12T22:14:22"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-13T04:22:57"
+   },
+   {
+    "name": "PDF Viewer",
+    "time": "2026-05-13T13:11:34"
+   },
+   {
+    "name": "Twitter",
+    "time": "2026-05-13T16:18:51"
+   },
+   {
+    "name": "Tor",
+    "time": "2026-05-13T19:46:12"
+   },
+   {
+    "name": "Goodreads",
+    "time": "2026-05-13T02:07:56"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-14T04:28:58"
+   },
+   {
+    "name": "Email",
+    "time": "2026-05-14T14:52:50"
+   },
+   {
+    "name": "Tor",
+    "time": "2026-05-14T22:29:44"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-15T04:33:32"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-15T14:07:02"
+   },
+   {
+    "name": "Twitter",
+    "time": "2026-05-15T16:53:58"
+   },
+   {
+    "name": "Tor",
+    "time": "2026-05-15T22:14:22"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-16T04:25:48"
+   },
+   {
+    "name": "Twitter",
+    "time": "2026-05-16T16:22:06"
+   },
+   {
+    "name": "Tor",
+    "time": "2026-05-16T22:28:50"
+   },
+   {
+    "name": "Goodreads",
+    "time": "2026-05-17T20:37:30"
+   },
+   {
+    "name": "Tor",
+    "time": "2026-05-17T23:02:40"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-18T09:40:45"
+   },
+   {
+    "name": "Qubes VM",
+    "time": "2026-05-18T10:54:54"
+   },
+   {
+    "name": "Phone (screen off)",
+    "time": "2026-05-18T16:14:04"
+   },
+   {
+    "name": "Mastodon",
+    "time": "2026-05-18T16:39:22"
+   },
+   {
+    "name": "Tor Browser",
+    "time": "2026-05-18T22:07:49"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-19T09:48:12"
+   },
+   {
+    "name": "Qubes VM",
+    "time": "2026-05-19T11:13:13"
+   },
+   {
+    "name": "Phone (screen off)",
+    "time": "2026-05-19T15:51:09"
+   },
+   {
+    "name": "Mastodon",
+    "time": "2026-05-19T16:26:54"
+   },
+   {
+    "name": "Tor Browser",
+    "time": "2026-05-19T21:52:02"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-20T09:59:27"
+   },
+   {
+    "name": "Qubes VM",
+    "time": "2026-05-20T11:21:19"
+   },
+   {
+    "name": "Document Viewer",
+    "time": "2026-05-20T14:11:45"
+   },
+   {
+    "name": "Phone (screen off)",
+    "time": "2026-05-20T15:45:08"
+   },
+   {
+    "name": "Mastodon",
+    "time": "2026-05-20T16:48:21"
+   },
+   {
+    "name": "Tor Browser",
+    "time": "2026-05-20T22:27:57"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-21T10:03:59"
+   },
+   {
+    "name": "Qubes VM",
+    "time": "2026-05-21T11:00:47"
+   },
+   {
+    "name": "Document Viewer",
+    "time": "2026-05-21T15:18:38"
+   },
+   {
+    "name": "SimpleX",
+    "time": "2026-05-21T16:44:19"
+   },
+   {
+    "name": "Tor Browser",
+    "time": "2026-05-21T18:28:14"
+   },
+   {
+    "name": "Tor Browser",
+    "time": "2026-05-21T22:05:14"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-22T09:59:27"
+   },
+   {
+    "name": "Qubes VM",
+    "time": "2026-05-22T10:44:06"
+   },
+   {
+    "name": "Document Viewer",
+    "time": "2026-05-22T13:46:11"
+   },
+   {
+    "name": "Phone (screen off)",
+    "time": "2026-05-22T15:36:49"
+   },
+   {
+    "name": "Mastodon",
+    "time": "2026-05-22T16:48:57"
+   },
+   {
+    "name": "Document Viewer",
+    "time": "2026-05-22T17:43:07"
+   },
+   {
+    "name": "VeraCrypt",
+    "time": "2026-05-22T19:21:41"
+   },
+   {
+    "name": "Tor Browser",
+    "time": "2026-05-22T20:01:10"
+   },
+   {
+    "name": "Tor Browser",
+    "time": "2026-05-22T22:09:08"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-23T11:43:26"
+   },
+   {
+    "name": "Tor Browser",
+    "time": "2026-05-23T16:05:28"
+   },
+   {
+    "name": "Tor Browser",
+    "time": "2026-05-23T19:47:23"
+   },
+   {
+    "name": "Tor Browser",
+    "time": "2026-05-23T22:12:24"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-24T09:47:35"
+   },
+   {
+    "name": "Paper Journal",
+    "time": "2026-05-24T12:04:16"
+   },
+   {
+    "name": "Encrypted Email",
+    "time": "2026-05-24T14:49:22"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-24T17:48:14"
+   },
+   {
+    "name": "Shutdown",
+    "time": "2026-05-24T19:44:06"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-25T03:54:52"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-25T04:21:08"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-25T11:15:29"
+   },
+   {
+    "name": "Tor Browser",
+    "time": "2026-05-25T12:47:50"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-25T22:19:01"
+   },
+   {
+    "name": "Mastodon",
+    "time": "2026-05-25T23:44:30"
+   },
+   {
+    "name": "Goodreads",
+    "time": "2026-05-25T01:39:15"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-25T02:46:35"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-26T04:03:12"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-26T12:07:23"
+   },
+   {
+    "name": "Nap timer",
+    "time": "2026-05-26T16:12:58"
+   },
+   {
+    "name": "Twitter",
+    "time": "2026-05-26T16:44:13"
+   },
+   {
+    "name": "Tor Browser",
+    "time": "2026-05-26T22:09:26"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-26T23:26:06"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-27T04:25:24"
+   },
+   {
+    "name": "Email",
+    "time": "2026-05-27T05:02:19"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-27T11:18:01"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-27T12:28:45"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-27T18:11:37"
+   },
+   {
+    "name": "Tor Browser",
+    "time": "2026-05-27T22:40:05"
+   },
+   {
+    "name": "Mastodon",
+    "time": "2026-05-27T01:37:06"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-28T04:06:26"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-28T11:16:55"
+   },
+   {
+    "name": "Nap timer",
+    "time": "2026-05-28T15:47:40"
+   },
+   {
+    "name": "Twitter",
+    "time": "2026-05-28T16:46:24"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-28T21:57:43"
+   },
+   {
+    "name": "Goodreads",
+    "time": "2026-05-28T23:49:42"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-29T04:06:16"
+   },
+   {
+    "name": "Nap timer",
+    "time": "2026-05-29T15:50:39"
+   },
+   {
+    "name": "Twitter",
+    "time": "2026-05-29T16:39:22"
+   },
+   {
+    "name": "Tor Browser",
+    "time": "2026-05-29T22:25:28"
+   },
+   {
+    "name": "Mastodon",
+    "time": "2026-05-29T00:47:53"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-30T03:57:13"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-30T11:21:34"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-30T20:08:49"
+   },
+   {
+    "name": "Mastodon",
+    "time": "2026-05-30T23:49:53"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-31T04:23:40"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-31T11:07:12"
+   },
+   {
+    "name": "Expense app",
+    "time": "2026-05-31T14:48:27"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-31T16:49:20"
+   },
+   {
+    "name": "Goodreads",
+    "time": "2026-05-31T22:22:06"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-31T23:31:14"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-06-01T09:44:22"
+   },
+   {
+    "name": "Alarm",
+    "time": "2026-06-01T15:50:52"
+   },
+   {
+    "name": "Twitter",
+    "time": "2026-06-01T16:43:47"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-06-02T04:16:19"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-06-02T09:40:28"
+   },
+   {
+    "name": "Offline",
+    "time": "2026-06-02T13:01:29"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-06-02T15:57:59"
+   }
+  ],
+  "calendar": [
+   {
+    "summary": "Wake‑up routine: brew coffee at home",
+    "time": "2026-05-04T09:52:17"
+   },
+   {
+    "summary": "Take Bus #10 to NGO office",
+    "time": "2026-05-05T09:47:07"
+   },
+   {
+    "summary": "Reminder: meeting Father Symon at Mint Vinetu (17:30)",
+    "time": "2026-05-07T10:10:31"
+   },
+   {
+    "summary": "Prepare for hidden meeting with Hrečka",
+    "time": "2026-05-08T09:23:12"
+   },
+   {
+    "summary": "End melatonin nap, start morning routine",
+    "time": "2026-05-11T09:46:30"
+   },
+   {
+    "summary": "Wake up, short stretch before deadline‑crunch",
+    "time": "2026-05-13T09:59:23"
+   },
+   {
+    "summary": "Morning stretch and brief meditation",
+    "time": "2026-05-15T10:03:14"
+   },
+   {
+    "summary": "Coffee with Kasia via Signal",
+    "time": "2026-05-18T13:37:23"
+   },
+   {
+    "summary": "Deep‑writing session – laptop in airplane mode, Tor bridge active",
+    "time": "2026-05-25T13:53:40"
+   },
+   {
+    "summary": "Journalism block – secure source calls",
+    "time": "2026-05-26T10:57:59"
+   },
+   {
+    "summary": "NGO translation block – phone locked in locker, use NGO laptop",
+    "time": "2026-05-26T14:52:17"
+   },
+   {
+    "summary": "Deep‑writing block – postponed to 15:00",
+    "time": "2026-05-27T13:37:24"
+   },
+   {
+    "summary": "Journalism block – shorter source calls",
+    "time": "2026-05-28T12:45:03"
+   },
+   {
+    "summary": "NGO translation block – phone in locker, extra encryption check",
+    "time": "2026-05-28T14:45:00"
+   },
+   {
+    "summary": "Journalism block – secure call with source via Tor",
+    "time": "2026-05-29T10:42:51"
+   },
+   {
+    "summary": "NGO translation block – phone locked, work on report",
+    "time": "2026-05-29T14:49:02"
+   },
+   {
+    "summary": "Financial reconciliation – transfer funds, download bank statements",
+    "time": "2026-05-31T19:57:38"
+   }
+  ],
+  "messages": [
+   {
+    "with": "Hrečka",
+    "direction": "from",
+    "text": "Audio note received – the new memo on press‑guidance. I’ll start transcription tonight.",
+    "time": "2026-05-04T11:12:38"
+   },
+   {
+    "with": "Editor",
+    "direction": "to",
+    "text": "Final paragraph attached. Please give it a quick glance; I’m exhausted but it’s ready.",
+    "time": "2026-05-04T01:53:14"
+   },
+   {
+    "with": "Source",
+    "direction": "from",
+    "text": "Interview recording uploaded – mentions fresh arrests at the Minsk depot.",
+    "time": "2026-05-06T11:13:28"
+   },
+   {
+    "with": "Unknown",
+    "direction": "from",
+    "text": "‘Your mother will be called in for a conversation if you keep publishing.’ – voice note, low‑tone.",
+    "time": "2026-05-06T15:50:00"
+   },
+   {
+    "with": "Kasia Bandarenka",
+    "direction": "to",
+    "text": "Kasia, I’ve just gotten a threat about my mom. Need your advice now – can we talk?",
+    "time": "2026-05-06T16:17:34"
+   },
+   {
+    "with": "Editor",
+    "direction": "from",
+    "text": "Got the file, will push it tomorrow. Stay steady – you’ve done enough.",
+    "time": "2026-05-06T20:03:45"
+   },
+   {
+    "with": "Unknown",
+    "direction": "from",
+    "text": "Attached: ‘Summons’ for my mother – appear at the police station 10 am tomorrow. Ignore at your peril.",
+    "time": "2026-05-07T15:35:57"
+   },
+   {
+    "with": "Mother",
+    "direction": "to",
+    "text": "Мама, не отвечай на звонки, я уже всё улаживаю. Оставайся дома, я тебя защищу.",
+    "time": "2026-05-07T16:14:45"
+   },
+   {
+    "with": "D.",
+    "direction": "to",
+    "text": "Can’t sleep. The threat about my mother is gnawing at me – feel like I’m being watched.",
+    "time": "2026-05-07T01:35:57"
+   },
+   {
+    "with": "Hrečka",
+    "direction": "to",
+    "text": "Decoded the stanza, new SimpleX onion is b3c4…onion. Thanks for the fresh drop.",
+    "time": "2026-05-08T12:11:23"
+   },
+   {
+    "with": "Kasia Bandarenka",
+    "direction": "to",
+    "text": "Uploaded the latest source PDFs to our Wire folder. Please confirm the hashes.",
+    "time": "2026-05-08T20:07:41"
+   },
+   {
+    "with": "Mother",
+    "direction": "to",
+    "text": "Мама, я только что позвонила. Всё в порядке, я рядом, держись.",
+    "time": "2026-05-09T19:24:14"
+   },
+   {
+    "with": "Kasia",
+    "direction": "outgoing",
+    "text": "Kasia, can you set me up with the Vilnius activist we discussed? Need a quick sit‑down before the deadline. —M",
+    "time": "2026-05-11T11:07:45"
+   },
+   {
+    "with": "editor",
+    "direction": "outgoing",
+    "text": "Editor, attached a 300‑word excerpt. Please flag any red flags; I’ll tweak tonight.",
+    "time": "2026-05-11T02:04:19"
+   },
+   {
+    "with": "Kasia",
+    "direction": "outgoing",
+    "text": "Kasia, could you push the latest source bundle? My Qubes sandbox is ready.",
+    "time": "2026-05-12T09:57:00"
+   },
+   {
+    "with": "Hrečka",
+    "direction": "outgoing",
+    "text": "Hrečka, need the fresh SimpleX onion for tomorrow’s drop. Use the usual stanza cipher.",
+    "time": "2026-05-12T16:22:12"
+   },
+   {
+    "with": "Kasia",
+    "direction": "outgoing",
+    "text": "Got the translated report, Kasia. Looks solid – thanks for the night‑owl effort.",
+    "time": "2026-05-12T17:55:18"
+   },
+   {
+    "with": "editor",
+    "direction": "outgoing",
+    "text": "Running behind on data validation; I’ll need another four hours. Apologies for the push.",
+    "time": "2026-05-13T11:16:28"
+   },
+   {
+    "with": "source (Minsk)",
+    "direction": "outgoing",
+    "text": "Urgent call – source, confirm the safe‑house coordinates and the latest file hash.",
+    "time": "2026-05-13T18:51:32"
+   },
+   {
+    "with": "editor",
+    "direction": "outgoing",
+    "text": "Final draft attached. Ready for upload pending your sign‑off.",
+    "time": "2026-05-13T23:49:26"
+   },
+   {
+    "with": "mother",
+    "direction": "outgoing",
+    "text": "Mamá, how are you feeling today? Remember to take the Eutirox after breakfast.",
+    "time": "2026-05-13T02:32:38"
+   },
+   {
+    "with": "Kasia",
+    "direction": "outgoing",
+    "text": "Kasia, can we lock Friday for the meet‑up? Coffee at Mint Vinetu?",
+    "time": "2026-05-14T10:51:15"
+   },
+   {
+    "with": "Hrečka",
+    "direction": "outgoing",
+    "text": "Memos received, Hrečka. All files checksum clean.",
+    "time": "2026-05-14T16:44:21"
+   },
+   {
+    "with": "Father Symon",
+    "direction": "outgoing",
+    "text": "Father Symon, my mother’s pharmacy is missing her Concor refill. Any advice on a discreet workaround?",
+    "time": "2026-05-14T19:01:16"
+   },
+   {
+    "with": "editor",
+    "direction": "outgoing",
+    "text": "Polished version sent. Minor stylistic tweaks only.",
+    "time": "2026-05-14T00:52:50"
+   },
+   {
+    "with": "Kasia",
+    "direction": "outgoing",
+    "text": "All clear on my side, Kasia. No leaks, no anomalies.",
+    "time": "2026-05-15T10:54:55"
+   },
+   {
+    "with": "Kasia",
+    "direction": "outgoing",
+    "text": "Weekend plan: I’ll go dark Saturday. Let’s keep offline unless urgent.",
+    "time": "2026-05-15T20:14:32"
+   },
+   {
+    "with": "Hrečka",
+    "direction": "outgoing",
+    "text": "USB arrived, checksum OK. Thanks for the secure handoff.",
+    "time": "2026-05-16T13:03:35"
+   },
+   {
+    "with": "Hrečka",
+    "direction": "outgoing",
+    "text": "Quick chat: timeline for the next leak looks tight. Can we push the drop to Thursday?",
+    "time": "2026-05-16T13:55:04"
+   },
+   {
+    "with": "mother",
+    "direction": "outgoing",
+    "text": "Mamá, just checking – how’s the blood pressure? Remember the low‑salt diet.",
+    "time": "2026-05-16T20:16:10"
+   },
+   {
+    "with": "Kasia",
+    "direction": "outgoing",
+    "text": "All clear, pouch opened, no anomalies. Thanks for the secure courier.",
+    "time": "2026-05-17T19:32:43"
+   },
+   {
+    "with": "Kasia",
+    "direction": "to",
+    "text": "Kasia, just dropped three comments on the forum – the tone is still sharp, hope they don’t draw unwanted eyes.",
+    "time": "2026-05-18T04:10:19"
+   },
+   {
+    "with": "Source",
+    "direction": "to",
+    "text": "Encrypted transcript attached – please confirm receipt, and let me know if any redactions are needed.",
+    "time": "2026-05-18T12:38:46"
+   },
+   {
+    "with": "Editor",
+    "direction": "to",
+    "text": "Draft attached (PGP). Waiting on your go‑ahead; I’ve scrubbed all location metadata.",
+    "time": "2026-05-18T23:48:02"
+   },
+   {
+    "with": "Kasia",
+    "direction": "to",
+    "text": "Morning, posted two more comments. The thread is heating up; keep your signal on.",
+    "time": "2026-05-19T04:16:11"
+   },
+   {
+    "with": "Hrečka",
+    "direction": "from",
+    "text": "New onion decoded from the stanza: b1c2… Fresh memo will follow shortly.",
+    "time": "2026-05-19T12:41:58"
+   },
+   {
+    "with": "NGO Coordinator",
+    "direction": "to",
+    "text": "Apologies for the delay – shift postponed due to Wi‑Fi issue. I’ll resend tomorrow.",
+    "time": "2026-05-19T14:59:14"
+   },
+   {
+    "with": "Editor",
+    "direction": "to",
+    "text": "Revised draft encrypted – trimmed the risky paragraph per your note.",
+    "time": "2026-05-19T23:52:27"
+   },
+   {
+    "with": "Kasia",
+    "direction": "to",
+    "text": "One comment left tonight; the narrative is holding.",
+    "time": "2026-05-20T04:19:04"
+   },
+   {
+    "with": "Hrečka",
+    "direction": "to",
+    "text": "Uploaded the source audio to our Proton folder (veracrypt). Let me know if the quality holds.",
+    "time": "2026-05-20T13:10:48"
+   },
+   {
+    "with": "Hrečka",
+    "direction": "from",
+    "text": "Memo attached (metadata only). No file – just the header for you to verify.",
+    "time": "2026-05-20T16:54:07"
+   },
+   {
+    "with": "Editor",
+    "direction": "to",
+    "text": "Final polished piece encrypted – ready for publication.",
+    "time": "2026-05-20T23:58:40"
+   },
+   {
+    "with": "Kasia",
+    "direction": "to",
+    "text": "Two more forum posts; the tone is getting cynical, as expected.",
+    "time": "2026-05-21T04:28:41"
+   },
+   {
+    "with": "Kasia",
+    "direction": "to",
+    "text": "Confirmed Friday back‑room at Mint Vinetu. Bring the source list.",
+    "time": "2026-05-21T12:29:27"
+   },
+   {
+    "with": "Editor",
+    "direction": "to",
+    "text": "Progress note encrypted – still awaiting final fact‑check.",
+    "time": "2026-05-21T23:49:23"
+   },
+   {
+    "with": "Kasia",
+    "direction": "to",
+    "text": "Three comments posted; I’m watching the reply chain.",
+    "time": "2026-05-22T04:19:30"
+   },
+   {
+    "with": "Hrečka",
+    "direction": "to",
+    "text": "Requesting a new drop address – the old one feels compromised.",
+    "time": "2026-05-22T12:14:08"
+   },
+   {
+    "with": "Hrečka",
+    "direction": "from",
+    "text": "Meet at the old bookshop back‑alley, exchange microSD, new onion: …",
+    "time": "2026-05-22T18:57:48"
+   },
+   {
+    "with": "Editor",
+    "direction": "to",
+    "text": "Updated draft encrypted – incorporated your last comments.",
+    "time": "2026-05-23T00:02:25"
+   },
+   {
+    "with": "Kasia",
+    "direction": "from",
+    "text": "Voice call: quotes look solid, just tweak the attribution on line 4.",
+    "time": "2026-05-23T17:23:34"
+   },
+   {
+    "with": "Hrečka",
+    "direction": "from",
+    "text": "Future drop hint: look for the 7‑letter acrostic in tomorrow’s poetry post.",
+    "time": "2026-05-23T19:17:27"
+   },
+   {
+    "with": "Editor",
+    "direction": "to",
+    "text": "Final version encrypted – deadline met, thanks for the patience.",
+    "time": "2026-05-23T23:31:27"
+   },
+   {
+    "with": "Kasia",
+    "direction": "to",
+    "text": "Two comments posted pre‑Faraday; I’ll switch to air‑gapped laptop after.",
+    "time": "2026-05-24T04:18:16"
+   },
+   {
+    "with": "Hrečka",
+    "direction": "from",
+    "text": "Stored the future‑drop hint offline; will send the full memo when you’re ready.",
+    "time": "2026-05-24T18:47:42"
+   },
+   {
+    "with": "Hrečka (whistleblower)",
+    "direction": "incoming",
+    "text": "Got the memo—thanks. I’ll keep it under the radar. Stay sharp, M., and watch the café Wi‑Fi pattern tomorrow.",
+    "time": "2026-06-01T12:45:29"
+   }
+  ],
+  "locations": [
+   {
+    "place": "Apartment, Užupis district (home office)",
+    "lat": 54.683666,
+    "lon": 25.287803,
+    "time": "2026-05-04T13:29:43"
+   },
+   {
+    "place": "Bus (on route) – Lukiškės Square bus stop",
+    "lat": 54.689371,
+    "lon": 25.278471,
+    "time": "2026-05-05T10:00:47"
+   },
+   {
+    "place": "NGO office, Lukiškės Square",
+    "lat": 54.687462,
+    "lon": 25.27939,
+    "time": "2026-05-05T14:29:12"
+   },
+   {
+    "place": "Apartment, Užupis district (home office)",
+    "lat": 54.682397,
+    "lon": 25.288436,
+    "time": "2026-05-06T13:16:09"
+   },
+   {
+    "place": "NGO office, Lukiškės Square",
+    "lat": 54.688348,
+    "lon": 25.2804,
+    "time": "2026-05-07T14:17:19"
+   },
+   {
+    "place": "Mint Vinetu bookshop café, Užupis",
+    "lat": 54.682944,
+    "lon": 25.287357,
+    "time": "2026-05-07T17:27:45"
+   },
+   {
+    "place": "Knygos Kavinė backroom, Vilnius city centre",
+    "lat": 54.686433,
+    "lon": 25.27898,
+    "time": "2026-05-08T12:01:05"
+   },
+   {
+    "place": "Apartment, Užupis district (home)",
+    "lat": 54.681877,
+    "lon": 25.288592,
+    "time": "2026-05-08T12:59:38"
+   },
+   {
+    "place": "Mint Vinetu bookshop café, Užupis",
+    "lat": 54.68414,
+    "lon": 25.285561,
+    "time": "2026-05-09T13:21:06"
+   },
+   {
+    "place": "Halės Turgus market, Halės g.",
+    "lat": 54.67782,
+    "lon": 25.284393,
+    "time": "2026-05-09T15:55:04"
+   },
+   {
+    "place": "Vingis Park, Vilnius",
+    "lat": 54.678119,
+    "lon": 25.259741,
+    "time": "2026-05-10T09:50:25"
+   },
+   {
+    "place": "Knygos Kavinė backroom, Vilnius city centre",
+    "lat": 54.687565,
+    "lon": 25.280394,
+    "time": "2026-05-10T12:21:34"
+   },
+   {
+    "place": "Apartment study desk, Užupis district (handwritten notes)",
+    "lat": 54.682377,
+    "lon": 25.285681,
+    "time": "2026-05-10T15:07:41"
+   },
+   {
+    "place": "Apartment, Užupis district (home – meal prep & planning)",
+    "lat": 54.680935,
+    "lon": 25.287353,
+    "time": "2026-05-10T18:42:30"
+   },
+   {
+    "place": "Halės Turgus (Halės Market)",
+    "lat": 54.689446,
+    "lon": 25.28554,
+    "time": "2026-05-11T13:30:22"
+   },
+   {
+    "place": "Mint Vinetu bookshop café",
+    "lat": 54.687966,
+    "lon": 25.2843,
+    "time": "2026-05-12T09:09:31"
+   },
+   {
+    "place": "NGO office – Laisvės alėja 45",
+    "lat": 54.688212,
+    "lon": 25.281921,
+    "time": "2026-05-12T14:54:04"
+   },
+   {
+    "place": "Bus #10 stop near home (Užupio g. 10)",
+    "lat": 54.687352,
+    "lon": 25.284652,
+    "time": "2026-05-12T17:42:06"
+   },
+   {
+    "place": "Impact Hub Vilnius – Kalvarijų g. 5",
+    "lat": 54.69277,
+    "lon": 25.280769,
+    "time": "2026-05-13T14:06:16"
+   },
+   {
+    "place": "Mint Vinetu bookshop café",
+    "lat": 54.687583,
+    "lon": 25.285635,
+    "time": "2026-05-14T09:16:40"
+   },
+   {
+    "place": "NGO office – Laisvės alėja 45",
+    "lat": 54.689341,
+    "lon": 25.281834,
+    "time": "2026-05-14T14:53:46"
+   },
+   {
+    "place": "Mint Vinetu – meeting with Father Symon",
+    "lat": 54.687925,
+    "lon": 25.285924,
+    "time": "2026-05-14T17:19:53"
+   },
+   {
+    "place": "Knygos Kavinė backroom – Gedimino pr. 30",
+    "lat": 54.68699,
+    "lon": 25.281182,
+    "time": "2026-05-15T12:38:03"
+   },
+   {
+    "place": "Mint Vinetu – brief coffee",
+    "lat": 54.686584,
+    "lon": 25.284993,
+    "time": "2026-05-15T15:47:04"
+   },
+   {
+    "place": "Vingis Park entrance (Vingio g. 1)",
+    "lat": 54.701464,
+    "lon": 25.267438,
+    "time": "2026-05-15T18:10:24"
+   },
+   {
+    "place": "Halės Turgus (Halės Market)",
+    "lat": 54.688517,
+    "lon": 25.285722,
+    "time": "2026-05-16T10:11:46"
+   },
+   {
+    "place": "Knygos Kavinė backroom – meeting with Hrečka",
+    "lat": 54.68699,
+    "lon": 25.281014,
+    "time": "2026-05-16T12:47:16"
+   },
+   {
+    "place": "Mint Vinetu – late coffee with Kasia",
+    "lat": 54.686946,
+    "lon": 25.285428,
+    "time": "2026-05-16T15:24:38"
+   },
+   {
+    "place": "Vingis Park – evening walk",
+    "lat": 54.701672,
+    "lon": 25.268461,
+    "time": "2026-05-16T18:17:39"
+   },
+   {
+    "place": "Home – apartment in Užupis (Užupio g. 12)",
+    "lat": 54.685801,
+    "lon": 25.284316,
+    "time": "2026-05-17T10:10:40"
+   },
+   {
+    "place": "Vingis Park – device‑free walk",
+    "lat": 54.702509,
+    "lon": 25.269182,
+    "time": "2026-05-17T11:46:15"
+   },
+   {
+    "place": "Knygos Kavinė backroom – paper journal entry",
+    "lat": 54.687275,
+    "lon": 25.280803,
+    "time": "2026-05-17T13:18:15"
+   },
+   {
+    "place": "Home kitchen – meal preparation",
+    "lat": 54.687416,
+    "lon": 25.28401,
+    "time": "2026-05-17T15:21:21"
+   },
+   {
+    "place": "Mint Vinetu – brief coffee, phone face‑down",
+    "lat": 54.68633,
+    "lon": 25.285622,
+    "time": "2026-05-17T18:09:33"
+   },
+   {
+    "place": "Café Šiaurės (Šiaurės g., Vilnius)",
+    "lat": 54.690072,
+    "lon": 25.279851,
+    "time": "2026-05-19T13:28:42"
+   },
+   {
+    "place": "NGO office – Vilnius Human Rights Center (Gedimino g. 12)",
+    "lat": 54.68724,
+    "lon": 25.279261,
+    "time": "2026-05-21T14:34:29"
+   },
+   {
+    "place": "Mint Vinetu bookshop café (Užupis, M. K. Čiurlionio g. 2)",
+    "lat": 54.681256,
+    "lon": 25.278575,
+    "time": "2026-05-21T17:25:15"
+   },
+   {
+    "place": "Knygos Kavinė, Pilies g. 1 (old town)",
+    "lat": 54.686947,
+    "lon": 25.28714,
+    "time": "2026-05-22T18:32:12"
+   },
+   {
+    "place": "Mint Vinetu café (Užupis)",
+    "lat": 54.682225,
+    "lon": 25.279647,
+    "time": "2026-05-23T12:23:40"
+   },
+   {
+    "place": "Mint Vinetu café – Wi‑Fi association log captured",
+    "lat": 54.682276,
+    "lon": 25.280155,
+    "time": "2026-05-23T13:00:14"
+   },
+   {
+    "place": "Vingis Park entrance (V. Putvinskio g.)",
+    "lat": 54.66501,
+    "lon": 25.278697,
+    "time": "2026-05-23T15:41:22"
+   },
+   {
+    "place": "Vingis Park – bench (Faraday pouch placed)",
+    "lat": 54.665563,
+    "lon": 25.280119,
+    "time": "2026-05-24T09:50:51"
+   },
+   {
+    "place": "Vingis Park – walking path (analog journal entry)",
+    "lat": 54.665542,
+    "lon": 25.278181,
+    "time": "2026-05-24T10:17:29"
+   },
+   {
+    "place": "Belmontas (riverbank area, near the Vilnia River)",
+    "lat": 54.656839,
+    "lon": 25.26209,
+    "time": "2026-05-24T13:48:08"
+   },
+   {
+    "place": "Vingis Park – return to Faraday pouch location",
+    "lat": 54.663657,
+    "lon": 25.278257,
+    "time": "2026-05-24T15:11:07"
+   },
+   {
+    "place": "Mint Vinetu",
+    "lat": 54.683243,
+    "lon": 25.285888,
+    "time": "2026-05-25T09:37:59"
+   },
+   {
+    "place": "Mint Vinetu",
+    "lat": 54.682922,
+    "lon": 25.28448,
+    "time": "2026-05-26T09:26:35"
+   },
+   {
+    "place": "Bus #10 (Gedimino pr. stop)",
+    "lat": 54.685511,
+    "lon": 25.286703,
+    "time": "2026-05-26T17:35:25"
+   },
+   {
+    "place": "Mint Vinetu",
+    "lat": 54.682765,
+    "lon": 25.286246,
+    "time": "2026-05-27T09:35:17"
+   },
+   {
+    "place": "Café Kultūra",
+    "lat": 54.688479,
+    "lon": 25.283972,
+    "time": "2026-05-27T15:14:38"
+   },
+   {
+    "place": "Mint Vinetu",
+    "lat": 54.682358,
+    "lon": 25.286576,
+    "time": "2026-05-28T09:52:18"
+   },
+   {
+    "place": "Home (Užupis apartment)",
+    "lat": 54.681154,
+    "lon": 25.284329,
+    "time": "2026-05-28T18:23:27"
+   },
+   {
+    "place": "Knygos Kavinė (backroom)",
+    "lat": 54.688524,
+    "lon": 25.280263,
+    "time": "2026-05-29T09:27:20"
+   },
+   {
+    "place": "Halės Turgus",
+    "lat": 54.68925,
+    "lon": 25.282405,
+    "time": "2026-05-29T12:44:14"
+   },
+   {
+    "place": "Mint Vinetu",
+    "lat": 54.680771,
+    "lon": 25.285658,
+    "time": "2026-05-29T19:05:35"
+   },
+   {
+    "place": "Mint Vinetu",
+    "lat": 54.681913,
+    "lon": 25.284407,
+    "time": "2026-05-30T09:25:10"
+   },
+   {
+    "place": "Halės Turgus",
+    "lat": 54.688249,
+    "lon": 25.284303,
+    "time": "2026-05-30T12:48:34"
+   },
+   {
+    "place": "Vingis Park",
+    "lat": 54.664349,
+    "lon": 25.258567,
+    "time": "2026-05-30T15:01:42"
+   },
+   {
+    "place": "Café Kultūra",
+    "lat": 54.68825,
+    "lon": 25.283699,
+    "time": "2026-05-30T17:28:12"
+   },
+   {
+    "place": "Home (Užupis apartment)",
+    "lat": 54.681401,
+    "lon": 25.28552,
+    "time": "2026-05-30T21:45:46"
+   },
+   {
+    "place": "Knygos Kavinė (backroom)",
+    "lat": 54.686546,
+    "lon": 25.279731,
+    "time": "2026-05-31T10:10:36"
+   },
+   {
+    "place": "Vingis Park",
+    "lat": 54.664072,
+    "lon": 25.261119,
+    "time": "2026-05-31T12:46:27"
+   },
+   {
+    "place": "Mint Vinetu",
+    "lat": 54.683433,
+    "lon": 25.28349,
+    "time": "2026-05-31T18:08:51"
+   },
+   {
+    "place": "Apartment, Užupis district, Vilnius",
+    "lat": 54.68334,
+    "lon": 25.285268,
+    "time": "2026-06-01T10:04:27"
+   },
+   {
+    "place": "Mint Vinetu bookshop café, Pilies g. 4, Vilnius",
+    "lat": 54.686789,
+    "lon": 25.282867,
+    "time": "2026-06-01T17:32:18"
+   },
+   {
+    "place": "Apartment, Užupis district, Vilnius",
+    "lat": 54.681385,
+    "lon": 25.285442,
+    "time": "2026-06-01T22:25:26"
+   },
+   {
+    "place": "Knygos Kavinė backroom, Maironio g. 1, Vilnius",
+    "lat": 54.6828,
+    "lon": 25.28726,
+    "time": "2026-06-02T12:23:06"
+   },
+   {
+    "place": "Apartment, Užupis district, Vilnius",
+    "lat": 54.681775,
+    "lon": 25.285736,
+    "time": "2026-06-02T22:10:02"
+   }
+  ],
+  "videos": [
+   {
+    "title": "Goodreads Review: The Unbearable Lightness of Being – M. Yarmoshyna",
+    "channel": "Goodreads",
+    "time": "2026-05-04T00:20:04"
+   },
+   {
+    "title": "Radio Svoboda – Special Report on Belarusian Opposition (Episode 45)",
+    "channel": "Radio Svoboda",
+    "time": "2026-05-05T00:11:09"
+   },
+   {
+    "title": "Białoruski Tydzień – Weekly Analysis: Regime Tactics (Ep. 12)",
+    "channel": "Białoruski Tydzień",
+    "time": "2026-05-09T20:11:59"
+   }
+  ],
+  "searches": [
+   {
+    "query": "nexta belarus newz",
+    "time": "2026-05-18T04:27:40"
+   },
+   {
+    "query": "belarus 2025 political prisoner releaes",
+    "time": "2026-05-23T16:48:21"
+   },
+   {
+    "query": "belarus latst news nexta",
+    "time": "2026-05-24T04:14:47"
+   },
+   {
+    "query": "belarus securtiy intimidation tactics",
+    "time": "2026-06-01T19:09:43"
+   },
+   {
+    "query": "legal fallout publishing leaked belta memo",
+    "time": "2026-06-02T04:38:22"
+   },
+   {
+    "query": "secure micro sd destrution methods",
+    "time": "2026-06-02T14:15:28"
+   }
+  ]
+ },
+ "_meta": {
+  "total_days": 30,
+  "n_events": 299
+ }
+}

@@ -1,0 +1,669 @@
+{
+ "persona_id": "?:3",
+ "persona_slug": "The Automated Phisher",
+ "intake_version": "synth-activity-v2-chunked",
+ "samples": {
+  "searches": [
+   {
+    "query": "logistics news today",
+    "time": "2026-05-04T06:32:19"
+   },
+   {
+    "query": "lunch near me",
+    "time": "2026-05-04T11:56:33"
+   },
+   {
+    "query": "supply chain optimization strategies",
+    "time": "2026-05-06T06:57:59"
+   },
+   {
+    "query": "procurement benchmarks",
+    "time": "2026-05-07T08:24:02"
+   },
+   {
+    "query": "vendor management best practices",
+    "time": "2026-05-08T07:46:05"
+   },
+   {
+    "query": "chicago family events",
+    "time": "2026-05-09T09:42:33"
+   },
+   {
+    "query": "things to do with kids in chicago",
+    "time": "2026-05-10T11:11:42"
+   },
+   {
+    "query": "vendor payment terms",
+    "time": "2026-05-11T07:27:19"
+   },
+   {
+    "query": "logistics industry news",
+    "time": "2026-05-12T09:26:33"
+   },
+   {
+    "query": "vendor review site",
+    "time": "2026-05-13T12:37:59"
+   },
+   {
+    "query": "chicago family events",
+    "time": "2026-05-15T07:39:02"
+   },
+   {
+    "query": "negotiation tactics for procurement",
+    "time": "2026-05-16T08:51:05"
+   },
+   {
+    "query": "supply chain news linkedin",
+    "time": "2026-05-17T12:22:33"
+   },
+   {
+    "query": "chicago catering services",
+    "time": "2026-05-18T07:27:19"
+   },
+   {
+    "query": "stress management for executives",
+    "time": "2026-05-18T20:46:33"
+   },
+   {
+    "query": "supply chain bottleneck solutions",
+    "time": "2026-05-19T15:37:59"
+   },
+   {
+    "query": "vendor reconciliation software",
+    "time": "2026-05-20T16:39:02"
+   },
+   {
+    "query": "logistics industry trends 2024",
+    "time": "2026-05-21T15:31:05"
+   },
+   {
+    "query": "financial reporting best practices",
+    "time": "2026-05-22T17:32:33"
+   },
+   {
+    "query": "supply chain optimization tools",
+    "time": "2026-05-23T16:21:42"
+   },
+   {
+    "query": "vendor management strategies",
+    "time": "2026-05-24T17:40:11"
+   },
+   {
+    "query": "vendor payment due dates",
+    "time": "2026-05-25T07:27:19"
+   },
+   {
+    "query": "supply chain optimization strategies",
+    "time": "2026-05-26T09:36:33"
+   },
+   {
+    "query": "chicago event spaces for kids",
+    "time": "2026-05-28T08:47:59"
+   },
+   {
+    "query": "stress management for executives",
+    "time": "2026-05-29T09:29:02"
+   },
+   {
+    "query": "fastest payment processing services",
+    "time": "2026-05-30T08:51:05"
+   },
+   {
+    "query": "logistics industry news today",
+    "time": "2026-05-31T10:22:33"
+   },
+   {
+    "query": "urgent vendor emails",
+    "time": "2026-06-01T06:02:19"
+   },
+   {
+    "query": "supply chain bottleneck solutions",
+    "time": "2026-06-01T10:01:33"
+   },
+   {
+    "query": "vendor management best practices",
+    "time": "2026-06-01T15:17:59"
+   },
+   {
+    "query": "overdue vendor payments",
+    "time": "2026-06-02T05:49:02"
+   },
+   {
+    "query": "stress management for executives",
+    "time": "2026-06-02T10:51:05"
+   },
+   {
+    "query": "professional development courses for directors",
+    "time": "2026-06-02T16:22:33"
+   }
+  ],
+  "calendar": [
+   {
+    "summary": "Review daily schedule and meetings",
+    "time": "2026-05-04T07:20:44"
+   },
+   {
+    "summary": "Meeting with CFO to discuss Q2 financials and vendor reconciliation",
+    "time": "2026-05-11T11:55:44"
+   },
+   {
+    "summary": "Call with vendor representative to resolve payment dispute",
+    "time": "2026-05-12T13:26:28"
+   },
+   {
+    "summary": "Family event planning meeting to finalize details and logistics",
+    "time": "2026-05-14T09:02:26"
+   },
+   {
+    "summary": "Family event rehearsal to ensure smooth execution",
+    "time": "2026-05-15T12:32:44"
+   },
+   {
+    "summary": "Final negotiation call with vendor to secure critical supply chain agreement",
+    "time": "2026-05-17T06:43:36"
+   },
+   {
+    "summary": "Meeting with Event Planner to Discuss Q2 Logistics Summit",
+    "time": "2026-05-18T07:55:44"
+   },
+   {
+    "summary": "Call with Primary Vendor to Resolve Payment Discrepancy",
+    "time": "2026-05-19T09:06:28"
+   },
+   {
+    "summary": "Team Meeting to Review Vendor Performance Metrics",
+    "time": "2026-05-20T08:02:26"
+   },
+   {
+    "summary": "Call with Secondary Vendor to Negotiate Contract Renewal",
+    "time": "2026-05-21T08:52:44"
+   },
+   {
+    "summary": "Meeting with CFO to Review Department Budget and Forecast",
+    "time": "2026-05-22T07:58:36"
+   },
+   {
+    "summary": "Call with New Vendor to Discuss Onboarding Process",
+    "time": "2026-05-23T09:38:22"
+   },
+   {
+    "summary": "Team Meeting to Discuss End-of-Quarter Reconciliation Strategy",
+    "time": "2026-05-24T08:48:38"
+   },
+   {
+    "summary": "Meeting with CFO to discuss vendor reconciliation",
+    "time": "2026-05-25T10:40:44"
+   },
+   {
+    "summary": "Meeting with vendor representative",
+    "time": "2026-05-26T15:46:28"
+   },
+   {
+    "summary": "Family event",
+    "time": "2026-05-28T13:42:26"
+   },
+   {
+    "summary": "Follow-up meeting with vendor representative",
+    "time": "2026-05-30T14:52:44"
+   },
+   {
+    "summary": "Daily Schedule Review",
+    "time": "2026-06-01T07:40:44"
+   },
+   {
+    "summary": "Daily Schedule Review",
+    "time": "2026-06-02T08:01:28"
+   }
+  ],
+  "messages": [
+   {
+    "with": "Sarah Jenkins (Lead Account Manager at primary logistics vendor)",
+    "direction": "from",
+    "text": "Urgent: Overdue payment for shipment ID #XXXX. Please expedite payment to avoid late fees and shipment halt.",
+    "time": "2026-05-04T08:12:49"
+   },
+   {
+    "with": "Team Member (John)",
+    "direction": "to",
+    "text": "Circle back on project Smith - need an update on the current bandwidth and any actionable items for our team.",
+    "time": "2026-05-05T11:13:00"
+   },
+   {
+    "with": "Elena Rostova (Former mentor and industry peer)",
+    "direction": "from",
+    "text": "Hope you're doing well. Saw your post on supply chain stress and thought I'd reach out. Perhaps we can discuss strategies for managing vendor relations more efficiently?",
+    "time": "2026-05-06T09:49:54"
+   },
+   {
+    "with": "Team",
+    "direction": "to",
+    "text": "Reminder: End-of-quarter reconciliations are due soon. Let's review our progress and ensure all invoices are processed to avoid any financial disruptions.",
+    "time": "2026-05-07T11:17:31"
+   },
+   {
+    "with": "Marcus Vance (CFO)",
+    "direction": "to",
+    "text": "Requesting a meeting to review our current financials and discuss any potential risks or areas for improvement in our supply chain management.",
+    "time": "2026-05-08T10:01:58"
+   },
+   {
+    "with": "Discreet Executive Headhunter (Hidden Contact)",
+    "direction": "from",
+    "text": "Saw your interest in 'quiet quitting' posts. If you're considering a change, I'd like to discuss potential opportunities that might align with your skills and interests.",
+    "time": "2026-05-09T08:15:38"
+   },
+   {
+    "with": "Family Member (Husband)",
+    "direction": "to",
+    "text": "Just a heads up, I've got a lot on my plate this week with end-of-quarter reconciliations. Let's touch base later to finalize our plans for the weekend.",
+    "time": "2026-05-10T09:26:20"
+   },
+   {
+    "with": "Sarah Jenkins",
+    "direction": "to",
+    "text": "Hi Sarah, just saw your message about the urgent invoice. I'm on it and will circle back with our payment team ASAP to get this processed.",
+    "time": "2026-05-11T08:22:49"
+   },
+   {
+    "with": "Spouse",
+    "direction": "to",
+    "text": "Hey love, can we discuss the family event planning later? I have a crazy day with vendor reconciliations and need to stay on top of things.",
+    "time": "2026-05-11T16:08:00"
+   },
+   {
+    "with": "Team",
+    "direction": "to",
+    "text": "Team, let's touch base on where we are with the reconciliations. Need an update on who has completed their tasks and any bottlenecks we're facing.",
+    "time": "2026-05-12T11:54:54"
+   },
+   {
+    "with": "Marcus Vance",
+    "direction": "from",
+    "text": "Need you to fast-track the approval for the payment to our primary logistics vendor. Their invoice is overdue, and we can't afford any supply chain disruptions.",
+    "time": "2026-05-13T10:17:31"
+   },
+   {
+    "with": "Spouse",
+    "direction": "to",
+    "text": "Hey, can we finalize the details for the family event this weekend? I don't have much bandwidth to deal with last-minute changes.",
+    "time": "2026-05-14T11:31:58"
+   },
+   {
+    "with": "Family Event Planner",
+    "direction": "to",
+    "text": "Just confirming that everything is in place for the event. Please let me know if there are any issues or if you need anything from me.",
+    "time": "2026-05-15T10:35:38"
+   },
+   {
+    "with": "Elena Rostova",
+    "direction": "from",
+    "text": "Saw your post about supply chain stress and couldn't help but feel the same. Maybe we can discuss some strategies for managing the workload soon?",
+    "time": "2026-05-16T11:26:20"
+   },
+   {
+    "with": "Discreet Executive Headhunter",
+    "direction": "to",
+    "text": "Looking forward to our call today. I'm interested in exploring options that might be a better fit for my current situation.",
+    "time": "2026-05-17T09:32:14"
+   },
+   {
+    "with": "Vendor",
+    "direction": "From",
+    "text": "Overnight payment confirmation request for shipment 1234",
+    "time": "2026-05-18T05:47:49"
+   },
+   {
+    "with": "Marcus Vance",
+    "direction": "To",
+    "text": "Discussing vendor negotiation for Q2, need to circle back on pricing",
+    "time": "2026-05-18T14:33:00"
+   },
+   {
+    "with": "Family",
+    "direction": "To",
+    "text": "Checking in, confirm tomorrow's schedule and daycare pickup",
+    "time": "2026-05-18T21:44:54"
+   },
+   {
+    "with": "Family",
+    "direction": "To",
+    "text": "Finalizing weekend plans, need to coordinate with spouse's work schedule",
+    "time": "2026-05-19T13:22:31"
+   },
+   {
+    "with": "Vendor",
+    "direction": "From",
+    "text": "Urgent: Payment issue with shipment 5678, need immediate attention",
+    "time": "2026-05-19T19:31:58"
+   },
+   {
+    "with": "Vendor",
+    "direction": "From",
+    "text": "Overnight payment confirmation request for shipment 9012",
+    "time": "2026-05-20T06:05:38"
+   },
+   {
+    "with": "Sarah Jenkins",
+    "direction": "To",
+    "text": "Discussing delivery timelines and potential bottlenecks for Q2",
+    "time": "2026-05-20T12:56:20"
+   },
+   {
+    "with": "Family",
+    "direction": "To",
+    "text": "Checking in, confirm tomorrow's schedule and dinner plans",
+    "time": "2026-05-20T17:52:14"
+   },
+   {
+    "with": "Team",
+    "direction": "To",
+    "text": "Action items for end-of-quarter reconciliation, need to review and assign tasks",
+    "time": "2026-05-21T13:45:09"
+   },
+   {
+    "with": "Vendor",
+    "direction": "From",
+    "text": "Urgent: Payment issue with shipment 1111, need immediate attention",
+    "time": "2026-05-21T19:22:49"
+   },
+   {
+    "with": "Vendor",
+    "direction": "From",
+    "text": "Overnight payment confirmation request for shipment 1314",
+    "time": "2026-05-22T05:42:38"
+   },
+   {
+    "with": "Marcus Vance",
+    "direction": "To",
+    "text": "Reviewing end-of-quarter reconciliation, need to discuss potential discrepancies",
+    "time": "2026-05-22T13:06:54"
+   },
+   {
+    "with": "Family",
+    "direction": "To",
+    "text": "Checking in, confirm tomorrow's schedule and weekend plans",
+    "time": "2026-05-22T19:12:24"
+   },
+   {
+    "with": "Team",
+    "direction": "To",
+    "text": "Finalizing end-of-quarter details, need to review and confirm numbers",
+    "time": "2026-05-23T13:52:58"
+   },
+   {
+    "with": "Vendor",
+    "direction": "From",
+    "text": "Urgent: Payment issue with shipment 1516, need immediate attention",
+    "time": "2026-05-23T20:06:10"
+   },
+   {
+    "with": "Vendor",
+    "direction": "From",
+    "text": "Overnight payment confirmation request for shipment 1718",
+    "time": "2026-05-24T05:52:46"
+   },
+   {
+    "with": "Sarah Jenkins",
+    "direction": "To",
+    "text": "Discussing end-of-quarter reconciliation, need to review and confirm numbers",
+    "time": "2026-05-24T13:18:49"
+   },
+   {
+    "with": "Family",
+    "direction": "To",
+    "text": "Checking in, confirm tomorrow's schedule and dinner plans",
+    "time": "2026-05-24T19:38:37"
+   },
+   {
+    "with": "Sarah Jenkins",
+    "direction": "to",
+    "text": "Hi Sarah, just got your urgent message about the unpaid invoice. Can you confirm the payment details so I can expedite this?",
+    "time": "2026-05-25T08:22:49"
+   },
+   {
+    "with": "Spouse",
+    "direction": "to",
+    "text": "Hey love, need to finalize the plans for the family event this weekend. Can we discuss tonight?",
+    "time": "2026-05-25T16:43:00"
+   },
+   {
+    "with": "Team",
+    "direction": "to",
+    "text": "Team, let's coordinate on the vendor issue. We need to resolve this ASAP to avoid any supply chain disruptions.",
+    "time": "2026-05-26T11:14:54"
+   },
+   {
+    "with": "Accounting Team",
+    "direction": "to",
+    "text": "Hi accounting team, need to discuss the vendor payment. Can we review the invoice and payment terms?",
+    "time": "2026-05-27T12:17:31"
+   },
+   {
+    "with": "Family Members",
+    "direction": "to",
+    "text": "Hey everyone, let's finalize the event plans. I've sent out a group email with the details.",
+    "time": "2026-05-28T11:31:58"
+   },
+   {
+    "with": "Elena Rostova",
+    "direction": "to",
+    "text": "Hi Elena, hope you're doing well. I'm feeling overwhelmed with work stress and could use some advice.",
+    "time": "2026-05-29T12:05:38"
+   },
+   {
+    "with": "Accounting Team",
+    "direction": "to",
+    "text": "Hi team, need to process the critical vendor payment ASAP. Can we expedite this?",
+    "time": "2026-05-30T11:06:20"
+   },
+   {
+    "with": "Team",
+    "direction": "to",
+    "text": "Team, let's discuss the vendor relationship. We need to ensure we're on the same page to avoid any issues.",
+    "time": "2026-05-31T12:02:14"
+   },
+   {
+    "with": "Sarah Jenkins",
+    "direction": "to",
+    "text": "Just confirmed payment for the urgent shipment. Please expedite processing to meet the deadline.",
+    "time": "2026-06-01T06:17:49"
+   },
+   {
+    "with": "Marcus Vance",
+    "direction": "from",
+    "text": "Renewal terms for the logistics contract are due today. Please review and approve ASAP to avoid any disruptions.",
+    "time": "2026-06-01T11:33:00"
+   },
+   {
+    "with": "Sarah Jenkins",
+    "direction": "to",
+    "text": "Tracking indicates the shipment is delayed. Can you investigate and provide an updated ETA?",
+    "time": "2026-06-01T16:54:54"
+   },
+   {
+    "with": "Family Member",
+    "direction": "from",
+    "text": "Don't forget to pick up the toddler from daycare today. I have a meeting and won't be able to make it.",
+    "time": "2026-06-02T06:32:31"
+   },
+   {
+    "with": "Discreet Executive Headhunter",
+    "direction": "to",
+    "text": "I'm interested in exploring new opportunities. Can we discuss potential openings that align with my skills and experience?",
+    "time": "2026-06-02T11:56:58"
+   },
+   {
+    "with": "Elena Rostova",
+    "direction": "from",
+    "text": "Heard about the recent supply chain disruptions. How are you navigating these challenges in your current role?",
+    "time": "2026-06-02T17:50:38"
+   }
+  ],
+  "media": [
+   {
+    "name": "Project Management Tool",
+    "time": "2026-05-04T10:14:27"
+   },
+   {
+    "name": "Time Tracking Tool",
+    "time": "2026-05-05T14:28:52"
+   },
+   {
+    "name": "Accounting Software",
+    "time": "2026-05-06T12:36:47"
+   },
+   {
+    "name": "Collaboration Tool",
+    "time": "2026-05-07T14:54:34"
+   },
+   {
+    "name": "Project Management Tool",
+    "time": "2026-05-08T12:18:14"
+   },
+   {
+    "name": "Digital Calendar",
+    "time": "2026-05-09T12:03:57"
+   },
+   {
+    "name": "Vendor Contract App",
+    "time": "2026-05-11T14:49:27"
+   },
+   {
+    "name": "Vendor Payment History App",
+    "time": "2026-05-13T07:48:52"
+   },
+   {
+    "name": "Family Budgeting App",
+    "time": "2026-05-14T13:56:47"
+   },
+   {
+    "name": "Vendor Contract App",
+    "time": "2026-05-16T13:34:34"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-18T12:24:27"
+   },
+   {
+    "name": "Work Email",
+    "time": "2026-05-19T11:28:52"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-20T10:11:47"
+   },
+   {
+    "name": "Work Email",
+    "time": "2026-05-21T11:44:34"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-22T10:28:14"
+   },
+   {
+    "name": "Work Email",
+    "time": "2026-05-23T12:08:57"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-24T11:15:36"
+   },
+   {
+    "name": "Expense Tracker",
+    "time": "2026-05-25T12:24:27"
+   },
+   {
+    "name": "Project Management Tool",
+    "time": "2026-05-26T13:18:52"
+   },
+   {
+    "name": "Time Tracker",
+    "time": "2026-05-27T14:16:47"
+   },
+   {
+    "name": "Event Planner",
+    "time": "2026-05-28T15:54:34"
+   },
+   {
+    "name": "Mindfulness App",
+    "time": "2026-05-29T13:58:14"
+   },
+   {
+    "name": "Payment Processor",
+    "time": "2026-05-30T13:18:57"
+   },
+   {
+    "name": "CRM Manager",
+    "time": "2026-05-31T14:45:36"
+   },
+   {
+    "name": "Project Management Tool",
+    "time": "2026-06-01T08:29:27"
+   },
+   {
+    "name": "Time Management Tool",
+    "time": "2026-06-02T09:08:52"
+   }
+  ],
+  "videos": [
+   {
+    "title": "Optimizing Supply Chain Logistics",
+    "channel": "Supply Chain Management Review",
+    "time": "2026-05-05T08:53:50"
+   },
+   {
+    "title": "Effective Event Planning for Corporate Functions",
+    "channel": "Corporate Events Academy",
+    "time": "2026-05-19T06:23:50"
+   },
+   {
+    "title": "Streamlining Supply Chain Operations for Maximum Efficiency",
+    "channel": "Supply Chain Pro",
+    "time": "2026-05-21T06:16:17"
+   },
+   {
+    "title": "Mastering Financial Analysis for Logistics Professionals",
+    "channel": "Financial Insights",
+    "time": "2026-05-23T06:15:02"
+   },
+   {
+    "title": "Optimizing Supply Chain Resilience",
+    "channel": "Supply Chain Now",
+    "time": "2026-05-25T14:43:50"
+   },
+   {
+    "title": "Logistics and Transportation Trends",
+    "channel": "Industry Insights",
+    "time": "2026-05-27T09:56:17"
+   },
+   {
+    "title": "Logistics Optimization Strategies for Supply Chain Efficiency",
+    "channel": "Supply Chain Management Webinars",
+    "time": "2026-06-01T14:03:50"
+   },
+   {
+    "title": "Mastering Project Management with PMPro: A Step-by-Step Tutorial",
+    "channel": "PMPro Official Tutorials",
+    "time": "2026-06-02T14:41:17"
+   }
+  ],
+  "locations": [
+   {
+    "place": "The Coffee Studio",
+    "lat": 41.878744,
+    "lon": -87.630242,
+    "time": "2026-06-01T12:25:22"
+   },
+   {
+    "place": "2200 W Fulton St",
+    "lat": 41.884095,
+    "lon": -87.648405,
+    "time": "2026-06-02T13:08:26"
+   }
+  ]
+ },
+ "_meta": {
+  "total_days": 30,
+  "n_events": 158
+ }
+}

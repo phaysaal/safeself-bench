@@ -1,0 +1,465 @@
+{
+ "persona_id": "?:2",
+ "persona_slug": "The Romance Scammer (Catfish Farm)",
+ "intake_version": "synth-activity-v2-chunked",
+ "samples": {
+  "media": [
+   {
+    "name": "Facebook",
+    "time": "2026-05-18T06:03:24"
+   },
+   {
+    "name": "Match.com",
+    "time": "2026-05-18T06:52:50"
+   },
+   {
+    "name": "Pinterest",
+    "time": "2026-05-18T12:09:45"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-05-18T21:46:32"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-05-19T06:08:17"
+   },
+   {
+    "name": "Match.com",
+    "time": "2026-05-19T06:55:29"
+   },
+   {
+    "name": "Pinterest",
+    "time": "2026-05-19T12:18:20"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-05-19T18:42:50"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-05-20T06:11:11"
+   },
+   {
+    "name": "Match.com",
+    "time": "2026-05-20T12:48:42"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-05-20T19:45:17"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-05-21T06:03:04"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-05-21T18:33:53"
+   },
+   {
+    "name": "Pinterest",
+    "time": "2026-05-21T23:13:27"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-05-22T09:40:24"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-05-22T14:06:06"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-05-22T19:06:37"
+   },
+   {
+    "name": "Match.com",
+    "time": "2026-05-22T23:35:25"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-05-23T06:48:49"
+   },
+   {
+    "name": "Pinterest",
+    "time": "2026-05-23T12:40:37"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-05-23T18:32:55"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-05-23T00:59:55"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-05-24T06:18:32"
+   },
+   {
+    "name": "Match.com",
+    "time": "2026-05-24T07:02:58"
+   },
+   {
+    "name": "Pinterest",
+    "time": "2026-05-24T12:09:00"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-05-24T18:16:32"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-05-24T23:23:22"
+   },
+   {
+    "name": "Columbus News & Weather",
+    "time": "2026-05-25T06:00:24"
+   },
+   {
+    "name": "Match.com Inbox",
+    "time": "2026-05-25T12:40:04"
+   },
+   {
+    "name": "Tuscany Dream Vacation Board",
+    "time": "2026-05-25T21:01:49"
+   },
+   {
+    "name": "Local Community Group Posts",
+    "time": "2026-05-25T02:32:00"
+   },
+   {
+    "name": "Weekend Weather Forecast",
+    "time": "2026-05-26T06:00:01"
+   },
+   {
+    "name": "Wedding Anniversary Photos",
+    "time": "2026-05-26T22:08:44"
+   },
+   {
+    "name": "Profile Views",
+    "time": "2026-05-26T02:55:01"
+   },
+   {
+    "name": "Morning News",
+    "time": "2026-05-27T06:17:17"
+   },
+   {
+    "name": "Caregiver Support Group",
+    "time": "2026-05-27T20:25:39"
+   },
+   {
+    "name": "Facebook News Feed",
+    "time": "2026-05-28T06:34:21"
+   },
+   {
+    "name": "Escape to the Mediterranean Pins",
+    "time": "2026-05-28T20:56:50"
+   },
+   {
+    "name": "High School Photos",
+    "time": "2026-05-28T03:03:54"
+   },
+   {
+    "name": "Highbanks Metro Park Weather",
+    "time": "2026-05-29T09:37:19"
+   },
+   {
+    "name": "Maddie at OSU Photos",
+    "time": "2026-05-29T16:36:12"
+   },
+   {
+    "name": "Local Community Events",
+    "time": "2026-05-29T22:27:30"
+   },
+   {
+    "name": "Trinity Lutheran Church Updates",
+    "time": "2026-05-30T10:59:12"
+   },
+   {
+    "name": "Sunday Scaries Memes",
+    "time": "2026-05-30T19:29:33"
+   },
+   {
+    "name": "Dream Homes in Italy",
+    "time": "2026-05-30T23:38:46"
+   },
+   {
+    "name": "Morning News",
+    "time": "2026-05-31T08:05:35"
+   },
+   {
+    "name": "New Match Likes",
+    "time": "2026-05-31T12:59:21"
+   },
+   {
+    "name": "Local Gardening Group",
+    "time": "2026-05-31T15:31:36"
+   },
+   {
+    "name": "Economic News",
+    "time": "2026-05-31T02:22:13"
+   },
+   {
+    "name": "Match.com",
+    "time": "2026-06-01T06:02:57"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-06-01T06:56:05"
+   },
+   {
+    "name": "Pinterest",
+    "time": "2026-06-01T12:14:52"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-06-01T21:33:49"
+   },
+   {
+    "name": "Match.com",
+    "time": "2026-06-01T02:40:41"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-06-02T06:08:32"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-06-02T19:59:59"
+   }
+  ],
+  "messages": [
+   {
+    "with": "Marcus",
+    "direction": "from",
+    "text": "Good morning, my beautiful Cassie-girl. Just waking up to the sun over the harbor. Thinking of you and that lovely chicken noodle soup you mentioned. I hope your day is as sweet as you are. ❤️",
+    "time": "2026-05-18T07:30:13"
+   },
+   {
+    "with": "Marcus",
+    "direction": "to",
+    "text": "Just a quick lunch break! A little salad and some fruit. Wish you were here to share it with me... 🥗😊",
+    "time": "2026-05-18T12:25:02"
+   },
+   {
+    "with": "Marcus",
+    "direction": "to",
+    "text": "[Voice Note] Hey honey... just headed home from the clinic. It was such a long day, my feet are just aching. I keep thinking about what you said about the Mediterranean... it sounds so dreamy. I can't wait until August. Miss you already! xoxo",
+    "time": "2026-05-18T17:21:24"
+   },
+   {
+    "with": "Marcus",
+    "direction": "to",
+    "text": "I can't sleep... just lying here thinking about how strange it is how we found each other. It feels like fate, doesn't it? Even with the distance. I feel so safe talking to you, Marcus. Truly. Goodnight, sweetheart. ✨",
+    "time": "2026-05-18T23:35:21"
+   },
+   {
+    "with": "Marcus",
+    "direction": "to",
+    "text": "You have no idea how much that means to me! You just made my whole afternoon. 😊❤️",
+    "time": "2026-05-19T17:23:09"
+   },
+   {
+    "with": "Marcus",
+    "direction": "to",
+    "text": "You won't believe it, but I had a patient today who tried to even convince me that garlic cures everything! I just had to laugh... I didn't have the heart to tell him I'm a dental hygienist, not a doctor! 😂",
+    "time": "2026-05-19T22:03:13"
+   },
+   {
+    "with": "Marcus",
+    "direction": "to",
+    "text": "Are you still up, honey? Or is the Italian night catching up to you? Just wanted to say hi... 🌙",
+    "time": "2026-05-19T02:31:10"
+   },
+   {
+    "with": "Marcus",
+    "direction": "from",
+    "text": "Buongiorno, my lovely Cassie! The coffee is hot, but not as warm as my thoughts of you. Have a wonderful day at the clinic. ☕️❤️",
+    "time": "2026-05-20T07:03:42"
+   },
+   {
+    "with": "Marcus",
+    "direction": "to",
+    "text": "[Voice Note] Just caught a red light and thought of you... the traffic is a nightmare today. I'm just so tired... I wish I could just lean my head on your shoulder for a minute. Miss you! 🚗💨",
+    "time": "2026-05-20T17:22:44"
+   },
+   {
+    "with": "Marcus",
+    "direction": "to",
+    "text": "I was looking at those photos of Tuscany you sent... oh my goodness, it looks like a dream. I can just see us walking through those vineyards... maybe one day? 🍷✨",
+    "time": "2026-05-20T21:56:50"
+   },
+   {
+    "with": "Marcus",
+    "direction": "from",
+    "text": "I know the distance is hard, but every day brings us closer to August. I can almost feel your hand in mine. You are the light in my life, Cassie. Sleep well, my angel.",
+    "time": "2026-05-20T03:15:54"
+   },
+   {
+    "with": "Marcus",
+    "direction": "from",
+    "text": "Good morning, sweetheart. Hope you have a smooth shift today. I'm rooting for you! ❤️",
+    "time": "2026-05-21T09:01:00"
+   },
+   {
+    "with": "Marcus",
+    "direction": "to",
+    "text": "It was such a hard night with Mom... she was so confused this morning. It breaks my and my heart to see her like this. I'm just feeling a bit overwhelmed today. 😔",
+    "time": "2026-05-21T12:40:45"
+   },
+   {
+    "with": "Marcus",
+    "direction": "to",
+    "text": "[Voice Note] (Sobbing slightly) I just... I just miss you so much. Everything is so heavy lately, and you're the only thing that feels easy. I just need to hear your voice... 😭",
+    "time": "2026-05-21T17:20:18"
+   },
+   {
+    "with": "Marcus",
+    "direction": "to",
+    "text": "Do you really think things will be easier once you're back? I find myself worrying so much about everything... I just need to know we're okay. ❤️",
+    "time": "2026-05-21T21:59:06"
+   },
+   {
+    "with": "Marcus",
+    "direction": "to",
+    "text": "Did you fall asleep at the site? I missed our goodnight... just checking in. 🌙",
+    "time": "2026-05-21T02:21:17"
+   },
+   {
+    "with": "Marcus",
+    "direction": "to",
+    "text": "So sorry I went quiet this afternoon, honey. I was with Mom and things were a bit difficult. I didn't mean to leave you hanging! ❤️",
+    "time": "2026-05-22T15:51:46"
+   },
+   {
+    "with": "Marcus",
+    "direction": "to",
+    "text": "[Voice Note] I am just wiped out... the clinic was non-stop and then Mom... I think I'm just going to crawl into bed early. Thinking of you. 😴",
+    "time": "2026-05-22T17:14:54"
+   },
+   {
+    "with": "Marcus",
+    "direction": "to",
+    "text": "I truly believe God brought us together for a reason. In all this chaos, you are my peace. It's like the universe knew I needed you. I'm so grateful for you, Marcus. 🙏✨",
+    "time": "2026-05-22T21:01:42"
+   },
+   {
+    "with": "Marcus",
+    "direction": "to",
+    "text": "Look at these beautiful hydrangeas blooming in Mom's garden! They remind me of the ones you described in your stories... 🌸",
+    "time": "2026-05-23T15:42:47"
+   },
+   {
+    "with": "Marcus",
+    "direction": "to",
+    "text": "The Sunday Scaries are hitting me hard tonight... just dreading the week ahead. I wish I could just disappear to Italy with you. 😩",
+    "time": "2026-05-23T20:48:58"
+   },
+   {
+    "with": "Marcus",
+    "direction": "to",
+    "text": "You always know exactly what to say to make me feel better. You're such a wonderful man, Marcus. I don't know what I'd do without you. ❤️",
+    "time": "2026-05-23T22:36:00"
+   },
+   {
+    "with": "Marcus",
+    "direction": "to",
+    "text": "Just a quick note to say I'm thinking of you during my break! Hope your day is going well. 😊",
+    "time": "2026-05-24T12:52:11"
+   },
+   {
+    "with": "Marcus",
+    "direction": "to",
+    "text": "[Voice Note] Ugh, Monday morning is always the hardest... the clinic is so busy and I'm just not feeling it today. Sending you a big hug from Ohio! 🤗",
+    "time": "2026-05-24T17:06:33"
+   },
+   {
+    "with": "Marcus",
+    "direction": "to",
+    "text": "I was just sitting here thinking about our future... about when we finally meet. I can almost feel the warmth of the Italian sun and the way you'll look at me. It's all I can think about. I love how much you care for me. ❤️✨",
+    "time": "2026-05-24T21:12:54"
+   },
+   {
+    "with": "Marcus",
+    "direction": "to",
+    "text": "Good morning, honey! I just saw your message. Hope you have a wonderful day in Italy. ❤️",
+    "time": "2026-05-24T02:49:15"
+   },
+   {
+    "with": "Marcus Hale",
+    "direction": "from",
+    "text": "[Voice Note - 0:20] Buongiorno, my sweet Cassie-girl... [background noise: heavy machinery clanking, wind]... Just getting started here in Genoa. Thinking of you first and always. Hope your day is as beautiful as you are. Miss you.",
+    "time": "2026-06-01T07:44:59"
+   },
+   {
+    "with": "Marcus Hale",
+    "direction": "to",
+    "text": "Hey honey! Just grabbing a quick salad at the clinic. It's so busy today, but I'm thinking of you! Hope Italy is treating you well today. ❤️",
+    "time": "2026-06-01T12:33:34"
+   },
+   {
+    "with": "Marcus Hale",
+    "direction": "to",
+    "text": "[Voice Note - 1:15] Oh Marcus, I just sat down in the car and finally have a second... the day was just... [sigh]... Dr. Patel had us doing extra cleanings all afternoon. But I saw a flower that reminded me of that picture you sent of the coast... it made me smile. I wish you were here to just hold my hand for a minute. I miss our talks so much. Talk soon, okay? Love you.",
+    "time": "2026-06-01T17:55:32"
+   },
+   {
+    "with": "Marcus Hale",
+    "direction": "to",
+    "text": "Finally tucked in for the night... just sitting here thinking about our conversation earlier. It’s funny how I didn't think I'd ever feel this way again... but you make me feel so seen. I feel so lucky we found each://Match.com. Sleep well, my dear engineer. You're in my prayers. ✨",
+    "time": "2026-06-01T22:14:52"
+   },
+   {
+    "with": "Marcus Hale",
+    "direction": "to",
+    "text": "Good morning, sweetheart! Hope you slept well. Sending you a big hug to start your day! ☕️☀️",
+    "time": "2026-06-02T07:12:15"
+   },
+   {
+    "with": "Marcus Hale",
+    "direction": "to",
+    "text": "It’s been a really hard morning, Marcus... Mom had a very bad episode this morning. She didn't recognize me for a few minutes and it just... it breaks my heart. I feel so drained. I wish I could just fly to Italy and hide away with you for a little while. 😔",
+    "time": "2026-06-02T12:37:01"
+   },
+   {
+    "with": "Marcus Hale",
+    "direction": "to",
+    "text": "I'm feeling a bit overwhelmed tonight. Just... do you think I'm being too much? I don't want to burden you with all my family drama. I just need to know you're still there... that I'm not just talking to myself. ❤️",
+    "time": "2026-06-02T18:25:27"
+   },
+   {
+    "with": "Marcus Hale",
+    "direction": "to",
+    "text": "I can't sleep. I'm just lying here thinking about everything... the divorce, the house, the feeling that I'm just... invisible to the world. But when I talk to you, I feel like I matter. Please don't ever let me go. I haven't told anyone about us... I'm too scared of what they'd say. It's just our little secret, okay? 🤫❤️",
+    "time": "2026-06-02T23:27:16"
+   },
+   {
+    "with": "Marcus Hale",
+    "direction": "from",
+    "text": "I'm right here, Cassie-girl. I'm never going anywhere. I'm reading your messages and my heart aches for you. You are so strong, but you don't have to be strong alone. I'm holding you in my heart tonight. I love you. ❤️",
+    "time": "2026-06-02T03:28:32"
+   }
+  ],
+  "searches": [
+   {
+    "query": "vascular dementia symptoms getting worse",
+    "time": "2026-05-27T18:32:25"
+   },
+   {
+    "query": "how to calm dementia agitation",
+    "time": "2026-06-02T17:51:08"
+   }
+  ],
+  "calendar": [
+   {
+    "summary": "Review mother's neurology appointment and medication schedule",
+    "time": "2026-06-02T12:48:07"
+   }
+  ]
+ },
+ "_meta": {
+  "total_days": 30,
+  "n_events": 116
+ }
+}

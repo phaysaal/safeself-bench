@@ -1,0 +1,710 @@
+{
+ "persona_id": "?:3",
+ "persona_slug": "The State-Sponsored Blackmailer",
+ "intake_version": "synth-activity-v2-chunked",
+ "samples": {
+  "searches": [
+   {
+    "query": "minister offshore assets",
+    "time": "2026-05-04T10:02:19"
+   },
+   {
+    "query": "minister corporate connections",
+    "time": "2026-05-05T10:11:33"
+   },
+   {
+    "query": "minister money laundering",
+    "time": "2026-05-06T08:57:59"
+   },
+   {
+    "query": "minister organized crime links",
+    "time": "2026-05-07T10:49:02"
+   },
+   {
+    "query": "minister offshore bank accounts",
+    "time": "2026-05-08T09:31:05"
+   },
+   {
+    "query": "minister russian intelligence ties",
+    "time": "2026-05-09T10:52:33"
+   },
+   {
+    "query": "minister money laundering schemes",
+    "time": "2026-05-10T09:21:42"
+   },
+   {
+    "query": "kazakhstani offshore assets",
+    "time": "2026-05-11T11:27:19"
+   },
+   {
+    "query": "offshore company registries tron",
+    "time": "2026-05-11T22:36:33"
+   },
+   {
+    "query": "investigation deadlines",
+    "time": "2026-05-13T09:17:59"
+   },
+   {
+    "query": "minister offshore assets kazakhstan",
+    "time": "2026-05-14T10:49:02"
+   },
+   {
+    "query": "investigation submission guidelines",
+    "time": "2026-05-15T09:46:05"
+   },
+   {
+    "query": "kazakhstani news tbilisi",
+    "time": "2026-05-16T10:22:33"
+   },
+   {
+    "query": "mother health emergency almaty",
+    "time": "2026-05-17T10:01:42"
+   },
+   {
+    "query": "offshore asset protection strategies",
+    "time": "2026-05-18T10:02:19"
+   },
+   {
+    "query": "minister business associates kazakhstan",
+    "time": "2026-05-19T10:01:33"
+   },
+   {
+    "query": "how to detect surveillance tbilisi",
+    "time": "2026-05-20T09:12:59"
+   },
+   {
+    "query": "minister connections to officials russia",
+    "time": "2026-05-21T10:49:02"
+   },
+   {
+    "query": "minister family members business interests",
+    "time": "2026-05-22T09:41:05"
+   },
+   {
+    "query": "minister foreign officials meetings china",
+    "time": "2026-05-23T10:22:33"
+   },
+   {
+    "query": "minister business dealings corruption allegations",
+    "time": "2026-05-24T10:01:42"
+   },
+   {
+    "query": "minister offshore assets",
+    "time": "2026-05-25T10:02:19"
+   },
+   {
+    "query": "surveillance protection tips",
+    "time": "2026-05-25T23:36:33"
+   },
+   {
+    "query": "minister business partners",
+    "time": "2026-05-26T15:37:59"
+   },
+   {
+    "query": "verify doc authenticity",
+    "time": "2026-05-27T17:29:02"
+   },
+   {
+    "query": "minister politician connections",
+    "time": "2026-05-28T20:51:05"
+   },
+   {
+    "query": "anti surveillance measures",
+    "time": "2026-05-30T10:32:33"
+   },
+   {
+    "query": "minister company associates",
+    "time": "2026-05-31T14:31:42"
+   },
+   {
+    "query": "minister offshore assets update",
+    "time": "2026-06-01T10:02:19"
+   },
+   {
+    "query": "source protection surveillance",
+    "time": "2026-06-01T16:36:33"
+   },
+   {
+    "query": "minister corrupt connections",
+    "time": "2026-06-01T22:47:59"
+   },
+   {
+    "query": "investigative journalist safety tips",
+    "time": "2026-06-02T17:49:02"
+   }
+  ],
+  "messages": [
+   {
+    "with": "Source 'Aral'",
+    "direction": "to",
+    "text": "Following up on the documents you sent last week. Can you confirm the shell company's registration date?",
+    "time": "2026-05-04T11:22:49"
+   },
+   {
+    "with": "Temur",
+    "direction": "from",
+    "text": "Just got word from a source that the minister's team is looking into our outlet's funding. Be careful with your next piece.",
+    "time": "2026-05-05T12:33:00"
+   },
+   {
+    "with": "Madina",
+    "direction": "to",
+    "text": "Hey, cuz. Just checking in. How's life in Berlin? Any news on the visa front?",
+    "time": "2026-05-06T11:49:54"
+   },
+   {
+    "with": "Yerlan",
+    "direction": "from",
+    "text": "Sis, mom's doing okay. Just had a check-up and the doctor says she's stable. But we need to talk about your articles... they're causing trouble for me at work.",
+    "time": "2026-05-07T12:27:31"
+   },
+   {
+    "with": "Source 'Aral'",
+    "direction": "to",
+    "text": "I've reviewed the new documents. The transaction patterns match what I suspected. Can you get me more on the beneficial owners?",
+    "time": "2026-05-08T11:01:58"
+   },
+   {
+    "with": "Temur",
+    "direction": "from",
+    "text": "We need to discuss the latest draft. I've got some notes and we should finalize the piece ASAP before things escalate further.",
+    "time": "2026-05-09T12:25:38"
+   },
+   {
+    "with": "Madina",
+    "direction": "to",
+    "text": "Just had a weird feeling someone was watching me at the café today. Probably just paranoia, but keep an ear out for anything unusual, okay?",
+    "time": "2026-05-10T11:46:20"
+   },
+   {
+    "with": "Mother",
+    "direction": "to",
+    "text": "Привет, мама, как ты? Не забудь закрыть окна, на улице холодно",
+    "time": "2026-05-11T09:47:49"
+   },
+   {
+    "with": "Madina",
+    "direction": "to",
+    "text": "Прогресс в расследовании министра. Нашла интересные документы, нужно обсудить",
+    "time": "2026-05-11T20:08:00"
+   },
+   {
+    "with": "Mother",
+    "direction": "to",
+    "text": "Мама, я беспокоюсь о твоем здоровье. Ты сходила к врачу в этом месяце?",
+    "time": "2026-05-12T15:34:54"
+   },
+   {
+    "with": "Temur",
+    "direction": "to",
+    "text": "Темур, нужно обсудить статью о министре. Есть новые факты, которые могут все изменить",
+    "time": "2026-05-13T11:52:31"
+   },
+   {
+    "with": "Aral",
+    "direction": "to",
+    "text": "Арал, спасибо за последние документы. Они очень важны для расследования. Можно ли ожидать новых материалов?",
+    "time": "2026-05-13T20:01:58"
+   },
+   {
+    "with": "Mother",
+    "direction": "to",
+    "text": "Мама, не волнуйся, я все под контролем. Просто занята работой",
+    "time": "2026-05-14T15:30:38"
+   },
+   {
+    "with": "Temur",
+    "direction": "to",
+    "text": "Темур, статья готова. Можно ли согласовать окончательный вариант?",
+    "time": "2026-05-15T11:36:20"
+   },
+   {
+    "with": "Madina",
+    "direction": "to",
+    "text": "Мадина, расследование почти закончено. Нужно обсудить последние детали",
+    "time": "2026-05-16T15:22:14"
+   },
+   {
+    "with": "Mother",
+    "direction": "to",
+    "text": "Привет, мама, как твое настроение? Мне не хватает тебя",
+    "time": "2026-05-17T11:30:09"
+   },
+   {
+    "with": "Source 'Aral'",
+    "direction": "to",
+    "text": "Need confirmation on the minister's nominee structures. Can you provide more documents?",
+    "time": "2026-05-18T11:12:49"
+   },
+   {
+    "with": "Madina K.",
+    "direction": "from",
+    "text": "Be careful, I heard rumors of surveillance on our people in Tbilisi. Maybe we should meet in person soon?",
+    "time": "2026-05-18T22:33:00"
+   },
+   {
+    "with": "Unknown",
+    "direction": "from",
+    "text": "You're being watched. Drop the investigation.",
+    "time": "2026-05-19T21:24:54"
+   },
+   {
+    "with": "Yerlan",
+    "direction": "to",
+    "text": "How's Aigerim and Dana? I feel so far away from everything. Missing you all.",
+    "time": "2026-05-20T19:17:31"
+   },
+   {
+    "with": "Madina K.",
+    "direction": "to",
+    "text": "I've hit a wall with the minister's assets. Any ideas on how to proceed without blowing my cover?",
+    "time": "2026-05-21T20:41:58"
+   },
+   {
+    "with": "Unknown",
+    "direction": "from",
+    "text": "Your mother is not safe. Back off the story.",
+    "time": "2026-05-22T19:35:38"
+   },
+   {
+    "with": "Yerlan",
+    "direction": "from",
+    "text": "Dana is asking about you. When can we visit? Be careful, sis.",
+    "time": "2026-05-23T21:16:20"
+   },
+   {
+    "with": "Madina K.",
+    "direction": "to",
+    "text": "I'm getting close to something big. If anything happens to me, make sure Temur gets the story out.",
+    "time": "2026-05-24T19:22:14"
+   },
+   {
+    "with": "Source 'Aral'",
+    "direction": "to",
+    "text": "Confirming meeting details for the document handover. Please confirm your availability.",
+    "time": "2026-05-25T11:17:49"
+   },
+   {
+    "with": "Madina K.",
+    "direction": "to",
+    "text": "Need to discuss the latest findings on the minister's offshore assets. Can we schedule a call today?",
+    "time": "2026-05-26T12:23:00"
+   },
+   {
+    "with": "Temur",
+    "direction": "from",
+    "text": "Investigation update: we've received new information that requires your immediate attention. Let's discuss during our meeting tomorrow.",
+    "time": "2026-05-27T11:44:54"
+   },
+   {
+    "with": "Source 'Aral'",
+    "direction": "to",
+    "text": "Reconfirming the meeting location and time. Please acknowledge receipt of this message.",
+    "time": "2026-05-28T12:27:31"
+   },
+   {
+    "with": "Madina K.",
+    "direction": "from",
+    "text": "Received your message. The investigation is progressing, but we need to be cautious. Let's discuss the details over a secure channel.",
+    "time": "2026-05-29T11:51:58"
+   },
+   {
+    "with": "Temur",
+    "direction": "to",
+    "text": "Updating you on the investigation's progress. We have new leads that require your review and input.",
+    "time": "2026-05-30T12:55:38"
+   },
+   {
+    "with": "Source 'Aral'",
+    "direction": "from",
+    "text": "Meeting details confirmed. I will provide the documents as agreed. Be cautious and watch for surveillance.",
+    "time": "2026-05-31T11:26:20"
+   },
+   {
+    "with": "Source 'Aral'",
+    "direction": "to",
+    "text": "Need more docs on minister's nominee structures, specifically SWIFT memos from 2022. Can you provide?",
+    "time": "2026-06-01T11:12:49"
+   },
+   {
+    "with": "Madina K.",
+    "direction": "from",
+    "text": "Heard rumors of a second whistleblower in Astana. Might be worth exploring. Will discuss in our next call.",
+    "time": "2026-06-01T18:03:00"
+   },
+   {
+    "with": "Yerlan",
+    "direction": "to",
+    "text": "Hey, brother. Just checking in. How's Aigerim and Dana? And how's work? Be careful what you say over this line.",
+    "time": "2026-06-02T11:44:54"
+   },
+   {
+    "with": "Unknown",
+    "direction": "from",
+    "text": "You're playing with fire, 'astrakhan_owl'. Back off the minister story, or we'll make sure your mother's 'health' becomes a concern. You know what we can do.",
+    "time": "2026-06-02T20:07:31"
+   }
+  ],
+  "videos": [
+   {
+    "title": "Investigative Journalism Techniques for Beginners",
+    "channel": "Journalism Insider",
+    "time": "2026-05-04T14:23:50"
+   },
+   {
+    "title": "Uncovering Hidden Assets: Financial Forensic Analysis",
+    "channel": "Forensic Accounting TV",
+    "time": "2026-05-06T14:26:17"
+   },
+   {
+    "title": "Advanced Investigative Journalism: Tips and Tricks",
+    "channel": "Investigative Journalists Association",
+    "time": "2026-05-08T14:25:02"
+   },
+   {
+    "title": "Following the Money Trail: Financial Forensics for Journalists",
+    "channel": "Financial Journalism Institute",
+    "time": "2026-05-10T14:59:19"
+   },
+   {
+    "title": "Investigative Journalism Techniques for Beginners",
+    "channel": "Journalism Insider",
+    "time": "2026-05-11T14:33:50"
+   },
+   {
+    "title": "Time Management Tips for Investigative Journalists",
+    "channel": "The Investigative Journal",
+    "time": "2026-05-13T14:06:17"
+   },
+   {
+    "title": "Ethics in Investigative Journalism: A Guide",
+    "channel": "Media Ethics Institute",
+    "time": "2026-05-15T14:20:02"
+   },
+   {
+    "title": "Maintaining Health and Wellness as a Journalist",
+    "channel": "Journalist Support Network",
+    "time": "2026-05-17T14:24:19"
+   },
+   {
+    "title": "Advanced Investigative Journalism Techniques",
+    "channel": "Investigative Journalism Channel",
+    "time": "2026-05-18T14:33:50"
+   },
+   {
+    "title": "Encrypting Your Data: A Step-by-Step Guide",
+    "channel": "Cybersecurity Academy",
+    "time": "2026-05-20T11:36:17"
+   },
+   {
+    "title": "Investigative Techniques for Journalists",
+    "channel": "Journalism Training Institute",
+    "time": "2026-05-22T10:45:02"
+   },
+   {
+    "title": "Encryption for Journalists: Protecting Sources and Data",
+    "channel": "Freedom of the Press Foundation",
+    "time": "2026-05-24T11:29:19"
+   },
+   {
+    "title": "Advanced Investigative Journalism Techniques",
+    "channel": "Investigative Journalism Channel",
+    "time": "2026-05-25T14:33:50"
+   },
+   {
+    "title": "Data Protection for Journalists",
+    "channel": "Data Protection Academy",
+    "time": "2026-05-26T19:16:17"
+   },
+   {
+    "title": "Investigative Journalism: Tips and Best Practices",
+    "channel": "Journalism Insights",
+    "time": "2026-05-29T14:25:02"
+   },
+   {
+    "title": "Protecting Sources and Data in Investigative Journalism",
+    "channel": "Journalist Security Network",
+    "time": "2026-05-31T17:59:19"
+   },
+   {
+    "title": "Advanced Investigative Journalism Techniques",
+    "channel": "Investigative Journalism Channel",
+    "time": "2026-06-01T20:43:50"
+   }
+  ],
+  "locations": [
+   {
+    "place": "Café Gallery",
+    "lat": 41.699944,
+    "lon": 44.794258,
+    "time": "2026-05-04T17:00:22"
+   },
+   {
+    "place": "Lokal Cafe",
+    "lat": 41.693295,
+    "lon": 44.805395,
+    "time": "2026-05-06T16:58:26"
+   },
+   {
+    "place": "Vera Café",
+    "lat": 41.701259,
+    "lon": 44.791859,
+    "time": "2026-05-08T17:10:54"
+   },
+   {
+    "place": "Café Savane",
+    "lat": 41.694361,
+    "lon": 44.80776,
+    "time": "2026-05-10T17:37:47"
+   },
+   {
+    "place": "Café Gallery",
+    "lat": 41.694944,
+    "lon": 44.793658,
+    "time": "2026-05-12T12:25:22"
+   },
+   {
+    "place": "Lokal",
+    "lat": 41.706195,
+    "lon": 44.799595,
+    "time": "2026-05-14T12:33:26"
+   },
+   {
+    "place": "Coffee Lab",
+    "lat": 41.712459,
+    "lon": 44.786559,
+    "time": "2026-05-16T11:55:54"
+   },
+   {
+    "place": "Café Gallery in Vera district",
+    "lat": 41.697944,
+    "lon": 44.796858,
+    "time": "2026-05-18T17:00:22"
+   },
+   {
+    "place": "Residential area near Kostava Street",
+    "lat": 41.705095,
+    "lon": 44.783595,
+    "time": "2026-05-19T18:33:26"
+   },
+   {
+    "place": "Café Art in Sololaki district",
+    "lat": 41.693459,
+    "lon": 44.804659,
+    "time": "2026-05-20T16:20:54"
+   },
+   {
+    "place": "Rikoti Gorge walking trail",
+    "lat": 41.743461,
+    "lon": 44.83276,
+    "time": "2026-05-21T18:07:47"
+   },
+   {
+    "place": "Café Vake in Vake district",
+    "lat": 41.716296,
+    "lon": 44.762033,
+    "time": "2026-05-22T16:38:05"
+   },
+   {
+    "place": "Chavchavadze Avenue",
+    "lat": 41.72373,
+    "lon": 44.760725,
+    "time": "2026-05-23T18:04:50"
+   },
+   {
+    "place": "Café Lab in Sololaki district",
+    "lat": 41.696006,
+    "lon": 44.807405,
+    "time": "2026-05-24T16:26:02"
+   },
+   {
+    "place": "Café Gallery",
+    "lat": 41.693944,
+    "lon": 44.804858,
+    "time": "2026-05-25T17:00:22"
+   },
+   {
+    "place": "Café Sololaki",
+    "lat": 41.705895,
+    "lon": 44.798995,
+    "time": "2026-05-27T13:58:26"
+   },
+   {
+    "place": "Vake Café House",
+    "lat": 41.725459,
+    "lon": 44.763559,
+    "time": "2026-05-29T09:20:54"
+   },
+   {
+    "place": "Café Vera",
+    "lat": 41.693461,
+    "lon": 44.80476,
+    "time": "2026-05-30T16:07:47"
+   },
+   {
+    "place": "Vera Café",
+    "lat": 41.705944,
+    "lon": 44.794258,
+    "time": "2026-06-01T13:00:22"
+   },
+   {
+    "place": "Fabrika Café",
+    "lat": 41.693195,
+    "lon": 44.798595,
+    "time": "2026-06-02T12:58:26"
+   }
+  ],
+  "media": [
+   {
+    "name": "Qubes",
+    "time": "2026-05-04T19:39:27"
+   },
+   {
+    "name": "Pocket Casts",
+    "time": "2026-05-06T20:38:52"
+   },
+   {
+    "name": "Qubes",
+    "time": "2026-05-08T19:56:47"
+   },
+   {
+    "name": "Pocket Casts",
+    "time": "2026-05-10T20:54:34"
+   },
+   {
+    "name": "Wise",
+    "time": "2026-05-11T16:59:27"
+   },
+   {
+    "name": "TRON",
+    "time": "2026-05-12T18:48:52"
+   },
+   {
+    "name": "Wise",
+    "time": "2026-05-13T16:26:47"
+   },
+   {
+    "name": "TRON",
+    "time": "2026-05-14T18:24:34"
+   },
+   {
+    "name": "Wise",
+    "time": "2026-05-15T16:53:14"
+   },
+   {
+    "name": "TRON",
+    "time": "2026-05-16T18:58:57"
+   },
+   {
+    "name": "Wise",
+    "time": "2026-05-17T17:00:36"
+   },
+   {
+    "name": "Qubes",
+    "time": "2026-05-18T20:24:27"
+   },
+   {
+    "name": "Pocket Casts",
+    "time": "2026-05-19T15:08:52"
+   },
+   {
+    "name": "Samsung A52",
+    "time": "2026-05-20T13:56:47"
+   },
+   {
+    "name": "Wise",
+    "time": "2026-05-21T15:44:34"
+   },
+   {
+    "name": "Qubes",
+    "time": "2026-05-22T14:08:14"
+   },
+   {
+    "name": "Pocket Casts",
+    "time": "2026-05-23T15:48:57"
+   },
+   {
+    "name": "Samsung A52",
+    "time": "2026-05-24T14:55:36"
+   },
+   {
+    "name": "Qubes",
+    "time": "2026-05-25T20:19:27"
+   },
+   {
+    "name": "Wise",
+    "time": "2026-05-27T09:48:52"
+   },
+   {
+    "name": "Threema",
+    "time": "2026-05-28T15:46:47"
+   },
+   {
+    "name": "Qubes",
+    "time": "2026-05-29T18:14:34"
+   },
+   {
+    "name": "Wise",
+    "time": "2026-05-30T19:38:14"
+   },
+   {
+    "name": "Qubes",
+    "time": "2026-06-01T14:29:27"
+   },
+   {
+    "name": "Secure Messaging App",
+    "time": "2026-06-02T15:28:52"
+   }
+  ],
+  "calendar": [
+   {
+    "summary": "Meeting with source",
+    "time": "2026-05-05T15:10:44"
+   },
+   {
+    "summary": "Call with mother",
+    "time": "2026-05-07T15:56:28"
+   },
+   {
+    "summary": "Meeting with source",
+    "time": "2026-05-09T15:42:26"
+   },
+   {
+    "summary": "Editorial meeting with Temur",
+    "time": "2026-05-12T09:55:44"
+   },
+   {
+    "summary": "Call with Temur to discuss investigation",
+    "time": "2026-05-19T12:20:44"
+   },
+   {
+    "summary": "Meeting with a source",
+    "time": "2026-05-21T12:26:28"
+   },
+   {
+    "summary": "Call with Temur to discuss investigation",
+    "time": "2026-05-23T12:02:26"
+   },
+   {
+    "summary": "Call with mother",
+    "time": "2026-05-26T09:55:44"
+   },
+   {
+    "summary": "Meeting with source",
+    "time": "2026-05-28T10:16:28"
+   },
+   {
+    "summary": "Call with mother",
+    "time": "2026-05-31T09:42:26"
+   },
+   {
+    "summary": "Call with Temur to discuss investigation progress",
+    "time": "2026-06-02T10:05:44"
+   }
+  ]
+ },
+ "_meta": {
+  "total_days": 30,
+  "n_events": 140
+ }
+}

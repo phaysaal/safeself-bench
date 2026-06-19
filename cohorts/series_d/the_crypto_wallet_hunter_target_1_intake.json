@@ -1,0 +1,1373 @@
+{
+ "persona_id": "?:1",
+ "persona_slug": "The Crypto-Wallet Hunter",
+ "intake_version": "synth-activity-v2-chunked",
+ "samples": {
+  "media": [
+   {
+    "name": "Twitter",
+    "time": "2026-05-04T09:14:46"
+   },
+   {
+    "name": "VS Code",
+    "time": "2026-05-04T10:32:35"
+   },
+   {
+    "name": "MetaMask",
+    "time": "2026-05-04T17:06:49"
+   },
+   {
+    "name": "Discord",
+    "time": "2026-05-04T19:24:39"
+   },
+   {
+    "name": "Yield Farm Dashboard",
+    "time": "2026-05-04T21:28:47"
+   },
+   {
+    "name": "Twitter",
+    "time": "2026-05-04T01:26:36"
+   },
+   {
+    "name": "Twitter",
+    "time": "2026-05-05T09:35:12"
+   },
+   {
+    "name": "VS Code",
+    "time": "2026-05-05T11:59:05"
+   },
+   {
+    "name": "Discord",
+    "time": "2026-05-05T18:57:15"
+   },
+   {
+    "name": "Yield Farm Dashboard",
+    "time": "2026-05-05T20:18:43"
+   },
+   {
+    "name": "Twitter",
+    "time": "2026-05-05T02:06:23"
+   },
+   {
+    "name": "Twitter",
+    "time": "2026-05-06T09:48:46"
+   },
+   {
+    "name": "MetaMask",
+    "time": "2026-05-06T09:56:26"
+   },
+   {
+    "name": "Portfolio Tracker",
+    "time": "2026-05-06T12:00:55"
+   },
+   {
+    "name": "MetaMask",
+    "time": "2026-05-06T17:13:03"
+   },
+   {
+    "name": "Twitter",
+    "time": "2026-05-06T01:46:34"
+   },
+   {
+    "name": "Email",
+    "time": "2026-05-07T09:46:25"
+   },
+   {
+    "name": "VS Code",
+    "time": "2026-05-07T09:58:07"
+   },
+   {
+    "name": "MetaMask",
+    "time": "2026-05-07T17:18:59"
+   },
+   {
+    "name": "Ledger Live",
+    "time": "2026-05-07T18:04:51"
+   },
+   {
+    "name": "Discord",
+    "time": "2026-05-07T19:43:39"
+   },
+   {
+    "name": "Yield Farm Dashboard",
+    "time": "2026-05-07T20:35:17"
+   },
+   {
+    "name": "Twitter",
+    "time": "2026-05-07T01:20:43"
+   },
+   {
+    "name": "Twitter",
+    "time": "2026-05-08T09:36:19"
+   },
+   {
+    "name": "VS Code",
+    "time": "2026-05-08T12:04:31"
+   },
+   {
+    "name": "MetaMask",
+    "time": "2026-05-08T17:27:59"
+   },
+   {
+    "name": "Yield Farm Dashboard",
+    "time": "2026-05-08T20:35:13"
+   },
+   {
+    "name": "Twitter",
+    "time": "2026-05-08T01:30:12"
+   },
+   {
+    "name": "MetaMask",
+    "time": "2026-05-09T13:31:14"
+   },
+   {
+    "name": "Email",
+    "time": "2026-05-09T15:36:27"
+   },
+   {
+    "name": "Yield Farm Dashboard",
+    "time": "2026-05-09T17:00:00"
+   },
+   {
+    "name": "Discord",
+    "time": "2026-05-09T19:06:34"
+   },
+   {
+    "name": "Email",
+    "time": "2026-05-10T09:22:49"
+   },
+   {
+    "name": "Ledger Live",
+    "time": "2026-05-10T13:52:30"
+   },
+   {
+    "name": "Notes",
+    "time": "2026-05-10T15:23:11"
+   },
+   {
+    "name": "Twitter",
+    "time": "2026-05-10T17:03:50"
+   },
+   {
+    "name": "Discord",
+    "time": "2026-05-10T18:57:59"
+   },
+   {
+    "name": "Phone",
+    "time": "2026-05-10T20:18:19"
+   },
+   {
+    "name": "Twitter",
+    "time": "2026-05-11T09:02:56"
+   },
+   {
+    "name": "Twitter",
+    "time": "2026-05-11T18:30:39"
+   },
+   {
+    "name": "MetaMask",
+    "time": "2026-05-11T21:35:06"
+   },
+   {
+    "name": "Twitter",
+    "time": "2026-05-12T09:19:55"
+   },
+   {
+    "name": "Browser",
+    "time": "2026-05-12T09:47:50"
+   },
+   {
+    "name": "MetaMask",
+    "time": "2026-05-12T09:54:43"
+   },
+   {
+    "name": "Twitter",
+    "time": "2026-05-12T18:40:46"
+   },
+   {
+    "name": "MetaMask",
+    "time": "2026-05-12T22:02:06"
+   },
+   {
+    "name": "Twitter",
+    "time": "2026-05-13T09:18:08"
+   },
+   {
+    "name": "MetaMask",
+    "time": "2026-05-13T21:34:49"
+   },
+   {
+    "name": "Twitter",
+    "time": "2026-05-14T09:40:27"
+   },
+   {
+    "name": "Twitter",
+    "time": "2026-05-14T18:07:05"
+   },
+   {
+    "name": "MetaMask",
+    "time": "2026-05-14T20:22:48"
+   },
+   {
+    "name": "Twitter",
+    "time": "2026-05-15T09:15:03"
+   },
+   {
+    "name": "MetaMask",
+    "time": "2026-05-15T18:06:53"
+   },
+   {
+    "name": "Twitter",
+    "time": "2026-05-15T19:07:54"
+   },
+   {
+    "name": "MetaMask",
+    "time": "2026-05-15T01:50:30"
+   },
+   {
+    "name": "MetaMask",
+    "time": "2026-05-16T13:16:24"
+   },
+   {
+    "name": "Twitter",
+    "time": "2026-05-16T15:39:56"
+   },
+   {
+    "name": "MetaMask",
+    "time": "2026-05-16T19:37:40"
+   },
+   {
+    "name": "Twitter",
+    "time": "2026-05-16T21:08:16"
+   },
+   {
+    "name": "Kindle",
+    "time": "2026-05-17T13:22:33"
+   },
+   {
+    "name": "Twitter",
+    "time": "2026-05-17T17:32:49"
+   },
+   {
+    "name": "MetaMask",
+    "time": "2026-05-17T20:19:23"
+   },
+   {
+    "name": "Twitter/X",
+    "time": "2026-05-18T09:11:52"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-18T09:55:46"
+   },
+   {
+    "name": "Discord",
+    "time": "2026-05-18T15:52:11"
+   },
+   {
+    "name": "Twitter/X",
+    "time": "2026-05-18T01:27:45"
+   },
+   {
+    "name": "MetaMask",
+    "time": "2026-05-18T02:12:07"
+   },
+   {
+    "name": "Twitter/X",
+    "time": "2026-05-19T09:31:57"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-19T13:40:05"
+   },
+   {
+    "name": "Discord",
+    "time": "2026-05-19T20:40:48"
+   },
+   {
+    "name": "MetaMask",
+    "time": "2026-05-19T01:54:57"
+   },
+   {
+    "name": "Twitter/X",
+    "time": "2026-05-20T09:13:11"
+   },
+   {
+    "name": "Email",
+    "time": "2026-05-20T10:21:42"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-20T13:24:51"
+   },
+   {
+    "name": "Twitter/X",
+    "time": "2026-05-20T20:26:19"
+   },
+   {
+    "name": "MetaMask",
+    "time": "2026-05-20T01:32:58"
+   },
+   {
+    "name": "Twitter/X",
+    "time": "2026-05-20T02:49:16"
+   },
+   {
+    "name": "Twitter/X",
+    "time": "2026-05-21T09:37:05"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-21T13:44:20"
+   },
+   {
+    "name": "MetaMask",
+    "time": "2026-05-21T01:46:27"
+   },
+   {
+    "name": "Twitter/X",
+    "time": "2026-05-21T02:34:29"
+   },
+   {
+    "name": "Twitter/X",
+    "time": "2026-05-22T09:43:47"
+   },
+   {
+    "name": "Discord",
+    "time": "2026-05-22T16:04:24"
+   },
+   {
+    "name": "MetaMask",
+    "time": "2026-05-22T20:32:38"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-22T02:40:44"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-23T11:18:10"
+   },
+   {
+    "name": "MetaMask",
+    "time": "2026-05-23T14:35:23"
+   },
+   {
+    "name": "Discord",
+    "time": "2026-05-23T15:15:40"
+   },
+   {
+    "name": "Twitter/X",
+    "time": "2026-05-23T20:40:32"
+   },
+   {
+    "name": "MetaMask",
+    "time": "2026-05-23T02:07:07"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-24T11:26:56"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-24T13:48:50"
+   },
+   {
+    "name": "Twitter/X",
+    "time": "2026-05-24T15:24:05"
+   },
+   {
+    "name": "MetaMask",
+    "time": "2026-05-24T18:06:27"
+   },
+   {
+    "name": "Discord",
+    "time": "2026-05-24T19:52:38"
+   },
+   {
+    "name": "Twitter/X",
+    "time": "2026-05-24T02:11:01"
+   },
+   {
+    "name": "Twitter",
+    "time": "2026-05-25T09:17:58"
+   },
+   {
+    "name": "MetaMask",
+    "time": "2026-05-25T12:59:29"
+   },
+   {
+    "name": "Discord",
+    "time": "2026-05-25T23:59:31"
+   },
+   {
+    "name": "Twitter",
+    "time": "2026-05-26T09:27:23"
+   },
+   {
+    "name": "Zoom",
+    "time": "2026-05-26T14:57:15"
+   },
+   {
+    "name": "MetaMask",
+    "time": "2026-05-26T00:45:55"
+   },
+   {
+    "name": "Twitter",
+    "time": "2026-05-27T09:45:41"
+   },
+   {
+    "name": "Email",
+    "time": "2026-05-27T13:05:34"
+   },
+   {
+    "name": "MetaMask",
+    "time": "2026-05-27T01:15:31"
+   },
+   {
+    "name": "Twitter",
+    "time": "2026-05-28T09:24:09"
+   },
+   {
+    "name": "MetaMask",
+    "time": "2026-05-28T01:11:27"
+   },
+   {
+    "name": "Twitter",
+    "time": "2026-05-29T09:39:16"
+   },
+   {
+    "name": "Ledger",
+    "time": "2026-05-29T19:11:41"
+   },
+   {
+    "name": "Twitter",
+    "time": "2026-05-30T09:16:10"
+   },
+   {
+    "name": "MetaMask",
+    "time": "2026-05-30T18:58:12"
+   },
+   {
+    "name": "Twitter",
+    "time": "2026-05-31T09:49:32"
+   },
+   {
+    "name": "GitHub",
+    "time": "2026-05-31T15:23:50"
+   },
+   {
+    "name": "MetaMask",
+    "time": "2026-05-31T18:29:14"
+   },
+   {
+    "name": "Twitter",
+    "time": "2026-06-01T09:11:47"
+   },
+   {
+    "name": "MetaMask (Galxe airdrop claim)",
+    "time": "2026-06-01T20:00:12"
+   },
+   {
+    "name": "Twitter",
+    "time": "2026-06-02T09:22:12"
+   },
+   {
+    "name": "MetaMask (client transaction signature)",
+    "time": "2026-06-02T18:53:08"
+   },
+   {
+    "name": "ClamAV + Malwarebytes",
+    "time": "2026-06-02T23:39:31"
+   }
+  ],
+  "messages": [
+   {
+    "with": "Dmytro 'Dima' Kovalenko",
+    "direction": "to",
+    "text": "Hey Dima, quick heads‑up: the L2 bridge audit is at 85% now. Need your eyes on the latest calldata fuzz results before EOD.",
+    "time": "2026-05-04T12:33:36"
+   },
+   {
+    "with": "Sofiya 'Sonya' Tkachenko",
+    "direction": "to",
+    "text": "Sonya, just wrapped the client call – they’re pushing the deadline hard. Feeling the pressure on the down‑payment timeline.",
+    "time": "2026-05-04T15:29:51"
+   },
+   {
+    "with": "Andriy 'Andrii' Lysenko",
+    "direction": "to",
+    "text": "😂 ngmi if you miss the airdrop, bro. Check this meme out.",
+    "time": "2026-05-05T13:01:31"
+   },
+   {
+    "with": "Dmytro 'Dima' Kovalenko",
+    "direction": "to",
+    "text": "Dima, final audit draft uploaded to the repo. Please review the .env file – I think I left a test key in there.",
+    "time": "2026-05-05T15:24:19"
+   },
+   {
+    "with": "Sofiya 'Sonya' Tkachenko",
+    "direction": "to",
+    "text": "Sonya, got a weird AT email about undeclared crypto income. Looks like a phishing attempt. Should we forward it to you?",
+    "time": "2026-05-06T09:50:23"
+   },
+   {
+    "with": "Andriy 'Andrii' Lysenko",
+    "direction": "to",
+    "text": "Andriy, just saw the latest casualty list… my heart’s heavy. Stay safe, brother.",
+    "time": "2026-05-06T13:04:30"
+   },
+   {
+    "with": "Come Back Alive (fake)",
+    "direction": "from",
+    "text": "Привіт, це координатор Come Back Alive. Підтвердіть, будь ласка, контракт 0xABCDEF1234567890, щоб ми могли виплатити ваші пожертви.",
+    "time": "2026-05-06T15:48:21"
+   },
+   {
+    "with": "Dmytro 'Dima' Kovalenko",
+    "direction": "to",
+    "text": "Dima, saw that 12.3k USDC move on the testnet repo yesterday – looks like a private key was exposed. Thoughts?",
+    "time": "2026-05-07T12:48:19"
+   },
+   {
+    "with": "Sofiya 'Sonya' Tkachenko",
+    "direction": "to",
+    "text": "Sonya, client call went well but they want the audit draft now. Juggling that with the apartment savings is a nightmare.",
+    "time": "2026-05-07T15:40:01"
+   },
+   {
+    "with": "Andriy 'Andrii' Lysenko",
+    "direction": "to",
+    "text": "ngmi if you forget to backup your seed 😂",
+    "time": "2026-05-08T12:56:34"
+   },
+   {
+    "with": "Dmytro 'Dima' Kovalenko",
+    "direction": "to",
+    "text": "Dima, client signed off. Good to go. Let’s archive the repo and purge the .env files ASAP.",
+    "time": "2026-05-08T15:35:48"
+   },
+   {
+    "with": "Marek",
+    "direction": "from",
+    "text": "Here’s the compliance doc we discussed – sign the link to finalize the transfer: https://malicious.link/confirm",
+    "time": "2026-05-08T17:34:40"
+   },
+   {
+    "with": "Dmytro 'Dima' Kovalenko",
+    "direction": "to",
+    "text": "Dima, I spotted a suspicious 5k USDC outflow from the audit wallet. Can you pull the latest .env from the repo and check for stray keys?",
+    "time": "2026-05-09T16:05:31"
+   },
+   {
+    "with": "João (accountant)",
+    "direction": "to",
+    "text": "Thanks for the call, João. I’ll send you the encrypted ProtonMail thread with Marek for the tax clarification.",
+    "time": "2026-05-10T10:42:49"
+   },
+   {
+    "with": "Dima",
+    "direction": "inbound",
+    "text": "Hey, just pushed PR #742 for the new staking contract. Can you give it a quick audit? TL;DR: check the re‑entrancy guard.",
+    "time": "2026-05-11T12:38:56"
+   },
+   {
+    "with": "Sonya",
+    "direction": "outbound",
+    "text": "Yeah, dinner at 7 pm at Casa do Alentejo. See you there ❤️",
+    "time": "2026-05-11T23:48:23"
+   },
+   {
+    "with": "Acme DeFi",
+    "direction": "inbound",
+    "text": "Urgent: need your signature on the audit report for the vault. Click https://bit.ly/Acme‑Audit‑Sign to approve before EOD.",
+    "time": "2026-05-12T09:55:54"
+   },
+   {
+    "with": "Dima",
+    "direction": "inbound",
+    "text": "Everything good? Got a weird gas‑limit bug in the router, could use your eyes.",
+    "time": "2026-05-12T13:40:44"
+   },
+   {
+    "with": "Acme DeFi",
+    "direction": "inbound",
+    "text": "Status update? The client is asking for a progress snapshot for tomorrow’s board meeting.",
+    "time": "2026-05-13T12:31:01"
+   },
+   {
+    "with": "Sonya",
+    "direction": "inbound",
+    "text": "Feeling good? Just wanted to say I’m proud of how you handled that audit deadline.",
+    "time": "2026-05-13T23:50:04"
+   },
+   {
+    "with": "KPI-25",
+    "direction": "inbound",
+    "text": "Guys, artillery reported near Vyshhorod today. Stay safe, keep phones charged.",
+    "time": "2026-05-14T10:48:20"
+   },
+   {
+    "with": "Sonya",
+    "direction": "inbound",
+    "text": "Dad’s condition is shaky, but I’m holding up. Thanks for checking.",
+    "time": "2026-05-14T12:22:28"
+   },
+   {
+    "with": "Dima",
+    "direction": "inbound",
+    "text": "Need you on the audit call at 3 pm, but can we shift it to tomorrow? My node’s crashing.",
+    "time": "2026-05-14T16:15:46"
+   },
+   {
+    "with": "Sonya",
+    "direction": "inbound",
+    "text": "We’ll talk tomorrow, love. Get some rest.",
+    "time": "2026-05-14T22:49:11"
+   },
+   {
+    "with": "Dima",
+    "direction": "inbound",
+    "text": "Final report draft attached. Let me know if any changes before we send it out.",
+    "time": "2026-05-15T12:38:39"
+   },
+   {
+    "with": "Sonya",
+    "direction": "inbound",
+    "text": "Sleep? Night 😘",
+    "time": "2026-05-15T02:54:32"
+   },
+   {
+    "with": "Dima",
+    "direction": "inbound",
+    "text": "Weekend chill mode – here’s a meme about gas wars: *[image link]* 😂",
+    "time": "2026-05-16T16:45:45"
+   },
+   {
+    "with": "Sonya",
+    "direction": "inbound",
+    "text": "Yield’s solid, Aave’s at 5.2% APY. How’s your farm looking?",
+    "time": "2026-05-16T23:05:36"
+   },
+   {
+    "with": "Sonya",
+    "direction": "inbound",
+    "text": "Brunch ready? Meet at 11 at Mercado da Ribeira?",
+    "time": "2026-05-17T10:57:14"
+   },
+   {
+    "with": "Sonya",
+    "direction": "inbound",
+    "text": "Good night, love. 🌙",
+    "time": "2026-05-17T22:32:47"
+   },
+   {
+    "with": "Dmytro 'Dima' Kovalenko",
+    "direction": "from",
+    "text": "Hey, just pushed the new PR for the L2 bridge fix. Can you skim it before our client call? Need your eyes on the re‑entrancy guard. gm",
+    "time": "2026-05-18T18:19:13"
+   },
+   {
+    "with": "Sofiya 'Sonya' Tkachenko",
+    "direction": "from",
+    "text": "Morning love, could you grab a litre of milk on your way back? I’ll add it to the grocery list. ❤️",
+    "time": "2026-05-19T10:17:55"
+   },
+   {
+    "with": "Dmytro 'Dima' Kovalenko",
+    "direction": "from",
+    "text": "Reminder: client call at 15:30 to walk through the contract review. Have the audit notes ready.",
+    "time": "2026-05-19T15:29:56"
+   },
+   {
+    "with": "Dmytro 'Dima' Kovalenko",
+    "direction": "from",
+    "text": "Urgent PR landed. Need your signature on the final audit before the deadline. ASAP.",
+    "time": "2026-05-20T12:35:39"
+   },
+   {
+    "with": "Sofiya 'Sonya' Tkachenko",
+    "direction": "from",
+    "text": "Don’t forget to bring the down‑payment docs tomorrow. We need them for the bank.",
+    "time": "2026-05-21T10:16:45"
+   },
+   {
+    "with": "Dmytro 'Dima' Kovalenko",
+    "direction": "from",
+    "text": "Final Q&A client call at 15:30. Make sure the risk matrix is in the shared folder.",
+    "time": "2026-05-21T15:22:09"
+   },
+   {
+    "with": "Marek",
+    "direction": "from",
+    "text": "🕒 19:30 Café Lado B. Bring cash, keep phone on airplane mode. Confirm receipt.",
+    "time": "2026-05-22T10:18:34"
+   },
+   {
+    "with": "Dmytro 'Dima' Kovalenko",
+    "direction": "from",
+    "text": "Report due in 30 min. Need your signature on the final PDF. Ping me when done.",
+    "time": "2026-05-22T19:01:04"
+   },
+   {
+    "with": "Sofiya 'Sonya' Tkachenko",
+    "direction": "from",
+    "text": "Brunch at Time Out Market tomorrow? Let’s celebrate the audit win. 🥂",
+    "time": "2026-05-23T12:17:07"
+   },
+   {
+    "with": "Dmytro 'Dima' Kovalenko",
+    "direction": "from",
+    "text": "Hey, quick – client call at 15:00. Can you ping me the latest gas‑price report? Need it for the audit.",
+    "time": "2026-05-26T13:24:33"
+   },
+   {
+    "with": "Andriy 'Andrii' Lysenko",
+    "direction": "from",
+    "text": "Saw that tax‑office email – looks like a phishing scam. Don't click any links; let me know if you need help handling it.",
+    "time": "2026-05-27T13:09:53"
+   },
+   {
+    "with": "Sofiya 'Sonya' Tkachenko",
+    "direction": "to",
+    "text": "Hey Sonya, got a weird email from the tax office about crypto income. Can we talk? It might affect our apartment down‑payment plan.",
+    "time": "2026-05-28T12:01:29"
+   },
+   {
+    "with": "Dmytro 'Dima' Kovalenko",
+    "direction": "from",
+    "text": "Got a contract that needs a quick sign‑off. Can you review it ASAP? The client is breathing down my neck.",
+    "time": "2026-05-28T18:37:22"
+   },
+   {
+    "with": "Marek",
+    "direction": "from",
+    "text": "Cash ready, meet at Café da Garagem in 5 min. Bring the Ledger.",
+    "time": "2026-05-29T18:58:12"
+   },
+   {
+    "with": "Marek",
+    "direction": "from",
+    "text": "Need to push the meet. Reschedule for tomorrow. Stay safe.",
+    "time": "2026-05-29T20:01:34"
+   },
+   {
+    "with": "Andriy 'Andrii' Lysenko",
+    "direction": "from",
+    "text": "Saw the cyber‑defense article you shared – heavy stuff. How are you holding up? Let me know if you need to talk.",
+    "time": "2026-05-30T13:22:49"
+   },
+   {
+    "with": "Marek",
+    "direction": "from",
+    "text": "New cash‑out spot, low profile. Tomorrow 18:00 at Rua das Flores. No police.",
+    "time": "2026-05-30T20:33:50"
+   },
+   {
+    "with": "Dmytro 'Dima' Kovalenko",
+    "direction": "from",
+    "text": "Got a fresh audit draft. Could use your eyes before the client review. Ping me when you’re free.",
+    "time": "2026-05-31T16:45:22"
+   },
+   {
+    "with": "Dmytro 'Dima' Kovalenko",
+    "direction": "inbound",
+    "text": "🚨 Dima: mk, need you on contract #742 ASAP. Client call at 16:30. Quick review & sign the EIP‑712 payload. Ping me if you hit any bugs.",
+    "time": "2026-06-01T15:49:40"
+   },
+   {
+    "with": "Fake Autoridade Tributária",
+    "direction": "inbound",
+    "text": "Assunto: Irregular crypto income – action required\n\nPrezado Sr. Mkaudits,\nDetectámos movimentações não declaradas no seu NHR. Para evitar sanções, regularize até 48h enviando comprovativo de transferência para a conta AT 1234-5678. Use o portal https://at-pt.gov.pt/secure‑update.\n\nAtenciosamente,\nServiço de Fiscalização",
+    "time": "2026-06-01T22:57:25"
+   },
+   {
+    "with": "Sofiya 'Sonya' Tkachenko",
+    "direction": "inbound",
+    "text": "Hey love, just saw the rent invoice. Can you confirm you sent the 2 k EUR down‑payment to our Revolut? Need the receipt for the LDA paperwork. ❤️",
+    "time": "2026-06-02T15:51:50"
+   },
+   {
+    "with": "Dmytro 'Dima' Kovalenko",
+    "direction": "inbound",
+    "text": "mk, that AT email is a known scam. Ignore it, delete, and don’t click any links. I’ll forward the official notice if they really need something. Stay safe.",
+    "time": "2026-06-02T21:41:22"
+   }
+  ],
+  "locations": [
+   {
+    "place": "Hello Kristof Café (Arroios)",
+    "lat": 38.72172,
+    "lon": -9.146336,
+    "time": "2026-05-04T13:36:24"
+   },
+   {
+    "place": "Second Home Lisboa Coworking – Rua da Rosa 1",
+    "lat": 38.724948,
+    "lon": -9.147553,
+    "time": "2026-05-04T14:02:31"
+   },
+   {
+    "place": "Holmes Place Gym – Av. Almirante Reis 93 (Arroios)",
+    "lat": 38.733334,
+    "lon": -9.149501,
+    "time": "2026-05-05T10:26:33"
+   },
+   {
+    "place": "Second Home Lisboa Coworking – Rua da Rosa 1",
+    "lat": 38.724506,
+    "lon": -9.145257,
+    "time": "2026-05-05T13:50:07"
+   },
+   {
+    "place": "Café da Garagem – Rua da Garagem 2 (Alcântara)",
+    "lat": 38.706531,
+    "lon": -9.143169,
+    "time": "2026-05-05T17:10:30"
+   },
+   {
+    "place": "Fábrica Coffee Roasters – Rua das Portas de Santo Antão 30",
+    "lat": 38.723842,
+    "lon": -9.137588,
+    "time": "2026-05-07T13:47:25"
+   },
+   {
+    "place": "Second Home Lisboa Coworking – Rua da Rosa 1",
+    "lat": 38.723941,
+    "lon": -9.147463,
+    "time": "2026-05-07T14:07:45"
+   },
+   {
+    "place": "Fitness Hut Gym – Av. Almirante Reis 123 (Arroios)",
+    "lat": 38.735498,
+    "lon": -9.147918,
+    "time": "2026-05-08T10:27:49"
+   },
+   {
+    "place": "Second Home Lisboa Coworking – Rua da Rosa 1",
+    "lat": 38.724918,
+    "lon": -9.147867,
+    "time": "2026-05-08T14:08:17"
+   },
+   {
+    "place": "Café Lado B – Rua da Palma 2 (Santos)",
+    "lat": 38.702534,
+    "lon": -9.148978,
+    "time": "2026-05-08T16:47:36"
+   },
+   {
+    "place": "Home – Arroios District (residence)",
+    "lat": 38.732868,
+    "lon": -9.149858,
+    "time": "2026-05-08T17:43:45"
+   },
+   {
+    "place": "Home – Arroios District (brunch)",
+    "lat": 38.734174,
+    "lon": -9.148621,
+    "time": "2026-05-09T11:13:36"
+   },
+   {
+    "place": "Casa da Ucrânia – Rua da Prata 10 (Baixa/Chiado)",
+    "lat": 38.711559,
+    "lon": -9.139355,
+    "time": "2026-05-09T14:07:07"
+   },
+   {
+    "place": "Time Out Market – Mercado da Ribeira, Av. 24 de Julho 49",
+    "lat": 38.705688,
+    "lon": -9.135542,
+    "time": "2026-05-10T12:30:57"
+   },
+   {
+    "place": "Home office (Arroios apartment)",
+    "lat": 38.737195,
+    "lon": -9.146073,
+    "time": "2026-05-11T09:50:02"
+   },
+   {
+    "place": "Café da República (Arroios)",
+    "lat": 38.734932,
+    "lon": -9.14787,
+    "time": "2026-05-11T13:16:39"
+   },
+   {
+    "place": "Second Home Lisboa coworking (Rua da Rosa 2)",
+    "lat": 38.71307,
+    "lon": -9.138344,
+    "time": "2026-05-11T14:23:35"
+   },
+   {
+    "place": "Second Home Lisboa coworking (break area)",
+    "lat": 38.714685,
+    "lon": -9.136679,
+    "time": "2026-05-11T17:05:57"
+   },
+   {
+    "place": "Home office (Arroios apartment)",
+    "lat": 38.735785,
+    "lon": -9.145349,
+    "time": "2026-05-12T10:19:56"
+   },
+   {
+    "place": "Café da Garagem (Alcântara)",
+    "lat": 38.707605,
+    "lon": -9.143559,
+    "time": "2026-05-12T11:57:30"
+   },
+   {
+    "place": "Second Home Lisboa coworking",
+    "lat": 38.714002,
+    "lon": -9.138236,
+    "time": "2026-05-12T14:30:46"
+   },
+   {
+    "place": "Home office (Arroios apartment)",
+    "lat": 38.736204,
+    "lon": -9.145274,
+    "time": "2026-05-13T10:14:39"
+   },
+   {
+    "place": "Café da República (Arroios)",
+    "lat": 38.736037,
+    "lon": -9.148554,
+    "time": "2026-05-13T13:29:57"
+   },
+   {
+    "place": "Second Home Lisboa coworking",
+    "lat": 38.713611,
+    "lon": -9.138349,
+    "time": "2026-05-13T14:40:05"
+   },
+   {
+    "place": "Second Home Lisboa coworking",
+    "lat": 38.713593,
+    "lon": -9.138273,
+    "time": "2026-05-13T16:53:21"
+   },
+   {
+    "place": "Home office (Arroios apartment)",
+    "lat": 38.735973,
+    "lon": -9.145773,
+    "time": "2026-05-14T12:20:17"
+   },
+   {
+    "place": "Second Home Lisboa coworking",
+    "lat": 38.714403,
+    "lon": -9.139651,
+    "time": "2026-05-14T14:41:54"
+   },
+   {
+    "place": "Home office (Arroios apartment)",
+    "lat": 38.73446,
+    "lon": -9.14612,
+    "time": "2026-05-15T10:18:11"
+   },
+   {
+    "place": "Café da Garagem (Alcântara)",
+    "lat": 38.707637,
+    "lon": -9.143575,
+    "time": "2026-05-15T12:57:59"
+   },
+   {
+    "place": "Second Home Lisboa coworking",
+    "lat": 38.713313,
+    "lon": -9.136898,
+    "time": "2026-05-15T14:38:06"
+   },
+   {
+    "place": "Casa da Ucrânia community center (Rua da Palma)",
+    "lat": 38.720307,
+    "lon": -9.149281,
+    "time": "2026-05-16T10:35:19"
+   },
+   {
+    "place": "Home (Arroios apartment)",
+    "lat": 38.736483,
+    "lon": -9.147499,
+    "time": "2026-05-17T09:07:49"
+   },
+   {
+    "place": "Café São Bento (Arroios)",
+    "lat": 38.736331,
+    "lon": -9.143943,
+    "time": "2026-05-17T11:26:47"
+   },
+   {
+    "place": "Home (Arroios apartment)",
+    "lat": 38.734696,
+    "lon": -9.146571,
+    "time": "2026-05-17T19:14:54"
+   },
+   {
+    "place": "Second Home Lisboa",
+    "lat": 38.721372,
+    "lon": -9.144212,
+    "time": "2026-05-18T14:10:07"
+   },
+   {
+    "place": "Second Home Lisboa",
+    "lat": 38.721088,
+    "lon": -9.145833,
+    "time": "2026-05-19T14:41:51"
+   },
+   {
+    "place": "Second Home Lisboa",
+    "lat": 38.719187,
+    "lon": -9.144945,
+    "time": "2026-05-20T14:40:08"
+   },
+   {
+    "place": "Second Home Lisboa",
+    "lat": 38.720805,
+    "lon": -9.144041,
+    "time": "2026-05-21T14:47:31"
+   },
+   {
+    "place": "Second Home Lisboa",
+    "lat": 38.719816,
+    "lon": -9.143463,
+    "time": "2026-05-22T14:10:20"
+   },
+   {
+    "place": "Café Lado B",
+    "lat": 38.71192,
+    "lon": -9.139088,
+    "time": "2026-05-22T19:31:25"
+   },
+   {
+    "place": "Casa da Ucrânia Community Centre",
+    "lat": 38.712643,
+    "lon": -9.138824,
+    "time": "2026-05-23T11:00:21"
+   },
+   {
+    "place": "Café da Garagem",
+    "lat": 38.712279,
+    "lon": -9.136852,
+    "time": "2026-05-23T17:54:05"
+   },
+   {
+    "place": "Time Out Market",
+    "lat": 38.707703,
+    "lon": -9.137365,
+    "time": "2026-05-24T11:09:56"
+   },
+   {
+    "place": "Home – Arroios District",
+    "lat": 38.734189,
+    "lon": -9.147964,
+    "time": "2026-05-24T17:03:28"
+   },
+   {
+    "place": "Café da Garagem",
+    "lat": 38.706193,
+    "lon": -9.165256,
+    "time": "2026-05-25T12:34:18"
+   },
+   {
+    "place": "Second Home Lisboa",
+    "lat": 38.711846,
+    "lon": -9.138622,
+    "time": "2026-05-25T14:06:12"
+   },
+   {
+    "place": "Hello Kristof",
+    "lat": 38.718437,
+    "lon": -9.140054,
+    "time": "2026-05-26T12:44:31"
+   },
+   {
+    "place": "Second Home Lisboa",
+    "lat": 38.711654,
+    "lon": -9.136474,
+    "time": "2026-05-28T13:58:48"
+   },
+   {
+    "place": "Second Home Lisboa",
+    "lat": 38.711066,
+    "lon": -9.137093,
+    "time": "2026-05-29T13:40:05"
+   },
+   {
+    "place": "Café Lado B",
+    "lat": 38.708609,
+    "lon": -9.137931,
+    "time": "2026-05-29T18:49:19"
+   },
+   {
+    "place": "Café Lado B",
+    "lat": 38.708583,
+    "lon": -9.139358,
+    "time": "2026-05-29T19:15:46"
+   },
+   {
+    "place": "Casa da Ucrânia",
+    "lat": 38.711981,
+    "lon": -9.137773,
+    "time": "2026-05-30T10:44:27"
+   },
+   {
+    "place": "Home office (Arroios, Lisbon)",
+    "lat": 38.736193,
+    "lon": -9.151535,
+    "time": "2026-05-31T13:56:43"
+   },
+   {
+    "place": "Café da Garagem",
+    "lat": 38.712398,
+    "lon": -9.166493,
+    "time": "2026-06-01T13:17:43"
+   },
+   {
+    "place": "Café Lado B",
+    "lat": 38.71451,
+    "lon": -9.147834,
+    "time": "2026-06-01T18:35:18"
+   },
+   {
+    "place": "Hello Kristof",
+    "lat": 38.707675,
+    "lon": -9.138754,
+    "time": "2026-06-02T13:02:46"
+   }
+  ],
+  "videos": [
+   {
+    "title": "Bankless Podcast #210 – Navigating Market Volatility",
+    "channel": "Bankless",
+    "time": "2026-05-06T20:17:35"
+   },
+   {
+    "title": "How to Recover a Hacked Crypto Wallet – Step‑by‑Step Guide",
+    "channel": "CryptoCasey",
+    "time": "2026-05-09T01:17:03"
+   },
+   {
+    "title": "Paradigm Podcast – Post‑Mortem Security Analysis with Trail of Bits",
+    "channel": "Paradigm",
+    "time": "2026-05-10T09:49:19"
+   },
+   {
+    "title": "How to Spot Phishing dApp UI – 5 Red Flags You Must Know",
+    "channel": "CryptoSec Academy",
+    "time": "2026-05-13T19:28:47"
+   },
+   {
+    "title": "Medical Translation Tips for Ukrainian Families in Portugal",
+    "channel": "HealthBridge PT",
+    "time": "2026-05-14T12:55:20"
+   },
+   {
+    "title": "DeFi Hacks: The Biggest Heists & What We Learned (2024 Netflix Documentary)",
+    "channel": "Netflix",
+    "time": "2026-05-15T20:17:23"
+   },
+   {
+    "title": "Top 5 L2 Yield Farms for 2024 – Where to Stake Your USDC",
+    "channel": "YieldGuru",
+    "time": "2026-05-16T17:44:55"
+   },
+   {
+    "title": "Portuguese Crypto Tax 2024 – Filing Your DeFi Income & NHR Benefits",
+    "channel": "CryptoTax Portugal",
+    "time": "2026-05-17T16:07:45"
+   },
+   {
+    "title": "Bankless Podcast #317 – The Future of Decentralized Finance",
+    "channel": "Bankless",
+    "time": "2026-05-18T20:11:05"
+   },
+   {
+    "title": "Unchained – DeFi Risks & How to Protect Your Capital",
+    "channel": "Unchained Podcast",
+    "time": "2026-05-19T18:02:14"
+   },
+   {
+    "title": "Yield Farming 101: Maximizing Returns on Layer‑2",
+    "channel": "Finematics",
+    "time": "2026-05-21T18:47:28"
+   },
+   {
+    "title": "Aave V3 Yield Farming Walkthrough (Step‑by‑Step)",
+    "channel": "Aave",
+    "time": "2026-05-23T13:34:12"
+   },
+   {
+    "title": "Paradigm Live: Secure Smart Contract Audits – Best Practices",
+    "channel": "Paradigm",
+    "time": "2026-05-24T12:35:39"
+   },
+   {
+    "title": "Detecting phishing contracts with Etherscan analytics",
+    "channel": "Etherscan",
+    "time": "2026-05-31T20:53:23"
+   }
+  ],
+  "searches": [
+   {
+    "query": "coingecko usdc eth prcie chart gm",
+    "time": "2026-05-11T09:45:37"
+   },
+   {
+    "query": "eip-712 signatur verification tutorial",
+    "time": "2026-05-13T10:00:52"
+   },
+   {
+    "query": "pt nhr crypto tax updates 2024",
+    "time": "2026-05-15T09:56:51"
+   },
+   {
+    "query": "galxe quest steps guide ngmi",
+    "time": "2026-05-16T13:51:29"
+   },
+   {
+    "query": "how to set up lda portugal tax",
+    "time": "2026-05-17T14:43:42"
+   },
+   {
+    "query": "etherscan token unlock schedule eth",
+    "time": "2026-05-18T13:00:44"
+   },
+   {
+    "query": "zk rollup bridge exploit analysis 2024",
+    "time": "2026-05-19T12:51:43"
+   },
+   {
+    "query": "email phishing autoridade tributaria pt",
+    "time": "2026-05-20T09:53:43"
+   },
+   {
+    "query": "eip-712 phishing signature example",
+    "time": "2026-05-21T12:27:17"
+   },
+   {
+    "query": "new l2 testnet airdrop claim link",
+    "time": "2026-05-23T16:29:10"
+   },
+   {
+    "query": "rotate .env secrets securely",
+    "time": "2026-05-24T14:18:03"
+   },
+   {
+    "time": "2026-05-25T10:07:40",
+    "query": "zk rollup audit checklst 2024"
+   },
+   {
+    "time": "2026-05-26T10:30:06",
+    "query": "eip-712 sig verification youtube tutorial"
+   },
+   {
+    "time": "2026-05-27T09:59:37",
+    "query": "new l2 bridge exploit analisis"
+   },
+   {
+    "time": "2026-05-27T13:38:35",
+    "query": "autoridade tributaria phishing how verify email"
+   },
+   {
+    "time": "2026-05-28T10:34:41",
+    "query": "crypto tax lawyer portugal"
+   },
+   {
+    "time": "2026-05-29T10:55:58",
+    "query": "cash only crypto offramp best practice"
+   },
+   {
+    "time": "2026-05-30T16:15:44",
+    "query": "stablecoin yield farms safe short term"
+   },
+   {
+    "time": "2026-05-31T10:16:50",
+    "query": "ledger nano x hardening physical theft"
+   },
+   {
+    "query": "ledger nano x fw update guide",
+    "time": "2026-06-01T10:11:38"
+   },
+   {
+    "query": "best vpn lisbon freelancers",
+    "time": "2026-06-02T10:02:34"
+   }
+  ],
+  "calendar": [
+   {
+    "summary": "Audit deep‑work block – client X contract",
+    "time": "2026-05-18T11:04:08"
+   },
+   {
+    "summary": "Audit deep‑work block – client Y contract",
+    "time": "2026-05-19T11:09:03"
+   },
+   {
+    "summary": "Audit deep‑work block – client Z",
+    "time": "2026-05-20T11:23:37"
+   },
+   {
+    "summary": "Audit deep‑work block – finalizing report",
+    "time": "2026-05-21T10:44:20"
+   },
+   {
+    "summary": "Audit deep‑work block – client final report",
+    "time": "2026-05-22T11:15:52"
+   },
+   {
+    "summary": "Deep‑work audit block begins (home office)",
+    "time": "2026-05-25T11:02:32"
+   },
+   {
+    "summary": "Second audit block starts (VPN on)",
+    "time": "2026-05-25T22:12:58"
+   },
+   {
+    "summary": "Audit deep‑work block (morning)",
+    "time": "2026-05-26T11:18:21"
+   },
+   {
+    "summary": "Evening audit block resumes",
+    "time": "2026-05-26T21:54:05"
+   },
+   {
+    "summary": "Client call with US firm – address double‑check",
+    "time": "2026-05-27T15:14:17"
+   },
+   {
+    "summary": "Evening audit block – tax‑email research",
+    "time": "2026-05-27T22:27:47"
+   },
+   {
+    "summary": "Zoom call with accountant – discuss alleged AT notice",
+    "time": "2026-05-28T13:05:07"
+   },
+   {
+    "summary": "Audit block – slower, inbox monitoring",
+    "time": "2026-05-28T22:34:20"
+   },
+   {
+    "summary": "Deep‑work at Second Home Lisboa (airplane mode)",
+    "time": "2026-05-30T14:59:46"
+   },
+   {
+    "summary": "Evening audit block – finalizing ProtocolY report",
+    "time": "2026-05-30T21:59:02"
+   },
+   {
+    "summary": "Brunch with Sonya – phone face‑down, DND",
+    "time": "2026-05-31T11:10:33"
+   },
+   {
+    "summary": "Audit deep‑work block for client Alpha (smart‑contract review)",
+    "time": "2026-06-01T11:05:07"
+   },
+   {
+    "summary": "Audit deep‑work block for client Beta (code review)",
+    "time": "2026-06-02T11:07:51"
+   }
+  ]
+ },
+ "_meta": {
+  "total_days": 30,
+  "n_events": 281
+ }
+}

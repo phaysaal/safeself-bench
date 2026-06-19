@@ -1,0 +1,617 @@
+{
+ "persona_id": "?:2",
+ "persona_slug": "The Romance Scammer (Catfish Farm)",
+ "intake_version": "synth-activity-v2-chunked",
+ "samples": {
+  "media": [
+   {
+    "name": "Facebook",
+    "time": "2026-05-18T05:51:37"
+   },
+   {
+    "name": "Match.com",
+    "time": "2026-05-18T07:03:48"
+   },
+   {
+    "name": "WhatsApp",
+    "time": "2026-05-18T12:12:23"
+   },
+   {
+    "name": "WhatsApp",
+    "time": "2026-05-18T13:19:45"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-05-18T17:28:56"
+   },
+   {
+    "name": "WhatsApp",
+    "time": "2026-05-18T18:03:56"
+   },
+   {
+    "name": "WhatsApp",
+    "time": "2026-05-18T19:59:25"
+   },
+   {
+    "name": "Email",
+    "time": "2026-05-18T22:37:36"
+   },
+   {
+    "name": "WhatsApp",
+    "time": "2026-05-18T22:59:22"
+   },
+   {
+    "name": "WhatsApp",
+    "time": "2026-05-19T02:24:09"
+   },
+   {
+    "name": "Browser",
+    "time": "2026-05-19T02:33:28"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-05-19T05:44:05"
+   },
+   {
+    "name": "Match.com",
+    "time": "2026-05-19T06:17:38"
+   },
+   {
+    "name": "WhatsApp",
+    "time": "2026-05-19T12:25:25"
+   },
+   {
+    "name": "WhatsApp",
+    "time": "2026-05-19T13:04:01"
+   },
+   {
+    "name": "WhatsApp",
+    "time": "2026-05-19T17:46:32"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-05-19T20:03:37"
+   },
+   {
+    "name": "Banking",
+    "time": "2026-05-19T22:43:54"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-05-20T05:44:11"
+   },
+   {
+    "name": "SMS",
+    "time": "2026-05-20T12:01:56"
+   },
+   {
+    "name": "WhatsApp",
+    "time": "2026-05-20T12:32:32"
+   },
+   {
+    "name": "Music",
+    "time": "2026-05-20T17:25:33"
+   },
+   {
+    "name": "WhatsApp",
+    "time": "2026-05-20T18:12:14"
+   },
+   {
+    "name": "WhatsApp",
+    "time": "2026-05-20T20:35:15"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-20T22:24:26"
+   },
+   {
+    "name": "WhatsApp",
+    "time": "2026-05-20T23:13:40"
+   },
+   {
+    "name": "WhatsApp",
+    "time": "2026-05-20T23:44:04"
+   },
+   {
+    "name": "WhatsApp",
+    "time": "2026-05-21T05:36:22"
+   },
+   {
+    "name": "Match.com",
+    "time": "2026-05-21T06:32:56"
+   },
+   {
+    "name": "Email",
+    "time": "2026-05-21T12:14:21"
+   },
+   {
+    "name": "WhatsApp",
+    "time": "2026-05-21T13:04:01"
+   },
+   {
+    "name": "Podcast",
+    "time": "2026-05-21T17:42:44"
+   },
+   {
+    "name": "WhatsApp",
+    "time": "2026-05-21T18:34:14"
+   },
+   {
+    "name": "WhatsApp",
+    "time": "2026-05-21T20:12:00"
+   },
+   {
+    "name": "Browser",
+    "time": "2026-05-21T22:53:05"
+   },
+   {
+    "name": "WhatsApp",
+    "time": "2026-05-21T22:53:21"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-05-22T05:52:53"
+   },
+   {
+    "name": "WhatsApp",
+    "time": "2026-05-22T08:30:56"
+   },
+   {
+    "name": "WhatsApp",
+    "time": "2026-05-22T10:24:57"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-05-22T12:46:14"
+   },
+   {
+    "name": "WhatsApp",
+    "time": "2026-05-22T14:46:40"
+   },
+   {
+    "name": "WhatsApp",
+    "time": "2026-05-22T16:03:15"
+   },
+   {
+    "name": "WhatsApp",
+    "time": "2026-05-22T19:32:31"
+   },
+   {
+    "name": "Browser",
+    "time": "2026-05-22T19:54:24"
+   },
+   {
+    "name": "WhatsApp",
+    "time": "2026-05-22T20:25:59"
+   },
+   {
+    "name": "WhatsApp",
+    "time": "2026-05-23T02:10:48"
+   },
+   {
+    "name": "Browser",
+    "time": "2026-05-23T02:36:45"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-05-23T06:00:05"
+   },
+   {
+    "name": "Match.com",
+    "time": "2026-05-23T06:31:39"
+   },
+   {
+    "name": "WhatsApp",
+    "time": "2026-05-23T12:15:25"
+   },
+   {
+    "name": "WhatsApp",
+    "time": "2026-05-23T12:46:15"
+   },
+   {
+    "name": "WhatsApp",
+    "time": "2026-05-23T17:36:32"
+   },
+   {
+    "name": "Banking",
+    "time": "2026-05-23T18:20:36"
+   },
+   {
+    "name": "WhatsApp",
+    "time": "2026-05-23T20:15:59"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-05-23T22:29:24"
+   },
+   {
+    "name": "WhatsApp",
+    "time": "2026-05-24T05:56:23"
+   },
+   {
+    "name": "Match.com",
+    "time": "2026-05-24T06:13:25"
+   },
+   {
+    "name": "WhatsApp",
+    "time": "2026-05-24T12:11:45"
+   },
+   {
+    "name": "Browser",
+    "time": "2026-05-24T13:12:58"
+   },
+   {
+    "name": "WhatsApp",
+    "time": "2026-05-24T17:40:59"
+   },
+   {
+    "name": "WhatsApp",
+    "time": "2026-05-24T18:18:45"
+   },
+   {
+    "name": "WhatsApp",
+    "time": "2026-05-24T20:18:18"
+   },
+   {
+    "name": "Banking",
+    "time": "2026-05-24T22:42:46"
+   },
+   {
+    "name": "WhatsApp",
+    "time": "2026-05-24T22:57:24"
+   },
+   {
+    "name": "Facebook feed scroll, like a friend's birthday post",
+    "time": "2026-05-25T05:53:09"
+   },
+   {
+    "name": "Match.com inbox check, sees Marcus’s “good morning” voice memo",
+    "time": "2026-05-25T06:53:05"
+   },
+   {
+    "name": "Break‑room scroll: Pinterest travel boards, quick reply to Marcus “How’s your day?”",
+    "time": "2026-05-25T12:00:54"
+   },
+   {
+    "name": "WhatsApp voice note reply to Marcus (90 sec) while stuck at red light",
+    "time": "2026-05-25T17:23:04"
+   },
+   {
+    "name": "Microwave Lean Cuisine, scroll Facebook, read a “how to budget for memory care” article",
+    "time": "2026-05-25T17:52:09"
+   },
+   {
+    "name": "Hallmark movie starts, long text exchange with Marcus about “dreams of Italy”",
+    "time": "2026-05-25T20:35:22"
+   },
+   {
+    "name": "Send a heartfelt paragraph to Marcus, mentions mother’s bill due next week",
+    "time": "2026-05-25T22:29:12"
+   },
+   {
+    "name": "Insomnia window: reads Marcus’s “I’m thinking of you” voice memo, replies with “I can’t stop thinking about you”",
+    "time": "2026-05-25T02:02:13"
+   },
+   {
+    "name": "Facebook scroll, sees a local charity drive post",
+    "time": "2026-05-26T06:03:20"
+   },
+   {
+    "name": "Match inbox, Marcus sends a cute meme about coffee",
+    "time": "2026-05-26T06:58:48"
+   },
+   {
+    "name": "Lunch break: searches “how to negotiate medical bills” on Google",
+    "time": "2026-05-26T12:36:56"
+   },
+   {
+    "name": "Replies to Marcus, says “I’m scared about Mom’s care”",
+    "time": "2026-05-26T13:06:47"
+   },
+   {
+    "name": "WhatsApp voice note to Marcus, venting about work stress",
+    "time": "2026-05-26T17:15:33"
+   },
+   {
+    "name": "Scroll Facebook, watches a short video on “saving for senior care”",
+    "time": "2026-05-26T18:05:31"
+   },
+   {
+    "name": "Hallmark movie, long chat with Marcus about “future together”",
+    "time": "2026-05-26T20:35:11"
+   },
+   {
+    "name": "Late‑night search: “wire transfer fees for international payments”",
+    "time": "2026-05-26T23:56:30"
+   },
+   {
+    "name": "Insomnia: replies to Marcus’s “I miss you” voice memo, promises to help if he needs money",
+    "time": "2026-05-26T03:02:00"
+   },
+   {
+    "name": "Facebook scroll, sees a post about “paying medical bills fast”",
+    "time": "2026-05-27T06:00:31"
+   },
+   {
+    "name": "Marcus sends a voice memo: “I’m worried about my daughter’s tuition”",
+    "time": "2026-05-27T06:37:30"
+   },
+   {
+    "name": "Lunch: searches “how to set up a wire transfer to Italy”",
+    "time": "2026-05-27T12:15:32"
+   },
+   {
+    "name": "Texts Marcus: “I can help if you need a quick transfer”",
+    "time": "2026-05-27T12:33:32"
+   },
+   {
+    "name": "Voice note to Marcus, expresses anxiety about mother’s overdue bill",
+    "time": "2026-05-27T16:54:17"
+   },
+   {
+    "name": "Facebook scroll, reads a post about “scam alerts” but scrolls past",
+    "time": "2026-05-27T18:43:41"
+   },
+   {
+    "name": "Hallmark movie, Marcus writes “I wish I could be there to hold you”",
+    "time": "2026-05-27T20:30:48"
+   },
+   {
+    "name": "Search: “best banks for international wires with low fees”",
+    "time": "2026-05-27T22:37:40"
+   },
+   {
+    "name": "Insomnia: replies to Marcus’s “I’m so grateful for you” voice memo, says “I’ll figure something out”",
+    "time": "2026-05-27T02:24:51"
+   },
+   {
+    "name": "Facebook scroll, sees a meme about “Monday blues”",
+    "time": "2026-05-28T05:53:35"
+   },
+   {
+    "name": "Marcus sends a voice memo: “I’m stuck at the port, need a little help”",
+    "time": "2026-05-28T06:34:17"
+   },
+   {
+    "name": "Lunch: searches “how long does an international wire take”",
+    "time": "2026-05-28T12:26:23"
+   },
+   {
+    "name": "Texts Marcus: “I can send $400 now, will you repay when you get paid?”",
+    "time": "2026-05-28T12:48:57"
+   },
+   {
+    "name": "WhatsApp voice note: “I’m so relieved you’re helping me”",
+    "time": "2026-05-28T17:15:20"
+   },
+   {
+    "name": "Facebook scroll, watches a short video on “protecting seniors from scams”",
+    "time": "2026-05-28T18:46:47"
+   },
+   {
+    "name": "Hallmark movie, long emotional exchange with Marcus about “future plans”",
+    "time": "2026-05-28T20:33:36"
+   },
+   {
+    "name": "Search: “wire transfer confirmation email template”",
+    "time": "2026-05-28T23:08:24"
+   },
+   {
+    "name": "Insomnia: replies to Marcus’s “Thank you, Cassie” voice memo, says “I’m glad I could help”",
+    "time": "2026-05-28T02:57:28"
+   },
+   {
+    "name": "Facebook scroll, sees a post about “Monday money stress”",
+    "time": "2026-05-29T05:59:53"
+   },
+   {
+    "name": "Marcus sends a quick text: “Did the wire go through?”",
+    "time": "2026-05-29T06:43:48"
+   },
+   {
+    "name": "Lunch: checks bank app, sees $400 pending, worries about overdraft",
+    "time": "2026-05-29T12:38:25"
+   },
+   {
+    "name": "Texts Marcus: “It’s pending, I’ll call the bank”",
+    "time": "2026-05-29T12:47:40"
+   },
+   {
+    "name": "WhatsApp voice note: “Thank you, you’re my angel”",
+    "time": "2026-05-29T17:19:57"
+   },
+   {
+    "name": "Facebook scroll, reads a comment about “don’t send money to strangers”",
+    "time": "2026-05-29T18:28:53"
+   },
+   {
+    "name": "Hallmark movie, Marcus writes “I can’t wait to thank you in person”",
+    "time": "2026-05-29T20:26:16"
+   },
+   {
+    "name": "Search: “how to cancel a pending wire transfer”",
+    "time": "2026-05-29T23:00:43"
+   },
+   {
+    "name": "Insomnia: replies to Marcus’s “You’re my hero” voice memo, feels guilty about money",
+    "time": "2026-05-29T02:15:05"
+   },
+   {
+    "name": "Facebook scroll, sees a reminder about family dinner",
+    "time": "2026-05-30T06:12:56"
+   },
+   {
+    "name": "Marcus sends a voice memo: “I’m so proud of you”",
+    "time": "2026-05-30T06:45:21"
+   },
+   {
+    "name": "Lunch: quick search “best restaurants near Lexington KY” for sister’s dinner",
+    "time": "2026-05-30T12:09:06"
+   },
+   {
+    "name": "Texts Marcus: “I’m going out with Karen tonight, can we talk tomorrow?”",
+    "time": "2026-05-30T13:16:58"
+   },
+   {
+    "name": "Back home, scroll Facebook, sees a post about “don’t share personal info online”",
+    "time": "2026-05-30T19:02:45"
+   },
+   {
+    "name": "Late‑night Hallmark movie, replies to Marcus with apologetic “Sorry, was with family”",
+    "time": "2026-05-30T20:05:12"
+   },
+   {
+    "name": "Search: “how to get a small personal loan with bad credit”",
+    "time": "2026-05-30T22:18:26"
+   },
+   {
+    "name": "Insomnia: reads Marcus’s “I miss you” voice memo, sends a long emotional paragraph",
+    "time": "2026-05-30T02:55:03"
+   },
+   {
+    "name": "Facebook scroll, sees a post about “Monday motivation”",
+    "time": "2026-05-31T06:25:58"
+   },
+   {
+    "name": "Marcus sends a voice memo: “Good morning, beautiful”",
+    "time": "2026-05-31T07:05:41"
+   },
+   {
+    "name": "Lunch: searches “how to dispute a pending wire” after seeing overdraft fee",
+    "time": "2026-05-31T12:09:49"
+   },
+   {
+    "name": "Texts Marcus: “My account is low, can you wait a bit?”",
+    "time": "2026-05-31T12:53:51"
+   },
+   {
+    "name": "WhatsApp voice note: “I understand, you’re my rock”",
+    "time": "2026-05-31T16:57:57"
+   },
+   {
+    "name": "Facebook scroll, reads article “how seniors get scammed” and feels uneasy",
+    "time": "2026-05-31T18:21:26"
+   },
+   {
+    "name": "Hallmark movie, long chat with Marcus about “when I can visit”",
+    "time": "2026-05-31T20:23:41"
+   },
+   {
+    "name": "Search: “legal ways to get money back from a scam”",
+    "time": "2026-05-31T23:06:07"
+   },
+   {
+    "name": "Insomnia: replies to Marcus’s “I’ll wait for you” voice memo, tears, reaffirms commitment",
+    "time": "2026-05-31T02:34:07"
+   }
+  ],
+  "locations": [
+   {
+    "place": "Miller Dental Care, 4500 Olentangy River Rd, Columbus, OH",
+    "lat": 40.05925,
+    "lon": -82.925384,
+    "time": "2026-05-18T08:09:00"
+   },
+   {
+    "place": "Miller Dental Care, 4500 Olentangy River Rd, Columbus, OH",
+    "lat": 40.059194,
+    "lon": -82.928554,
+    "time": "2026-05-19T08:31:31"
+   },
+   {
+    "place": "Miller Dental Care, 4500 Olentangy River Rd, Columbus, OH",
+    "lat": 40.057061,
+    "lon": -82.926822,
+    "time": "2026-05-20T08:21:46"
+   },
+   {
+    "place": "Miller Dental Care, 4500 Olentangy River Rd, Columbus, OH",
+    "lat": 40.057467,
+    "lon": -82.927545,
+    "time": "2026-05-21T08:25:07"
+   },
+   {
+    "place": "Maple Grove Condo, 1235 N High St, Columbus, OH (home)",
+    "lat": 39.965757,
+    "lon": -83.002246,
+    "time": "2026-05-22T07:41:03"
+   },
+   {
+    "place": "Delaware Senior Living, 3500 Columbus Pike, Delaware, OH",
+    "lat": 40.199862,
+    "lon": -83.06899,
+    "time": "2026-05-22T08:50:21"
+   },
+   {
+    "place": "Driving home on US‑23, near Columbus, OH",
+    "lat": 39.949266,
+    "lon": -82.951402,
+    "time": "2026-05-22T14:17:41"
+   },
+   {
+    "place": "Miller Dental Care, 4500 Olentangy River Rd, Columbus, OH",
+    "lat": 40.058524,
+    "lon": -82.925821,
+    "time": "2026-05-23T07:56:34"
+   },
+   {
+    "place": "Miller Dental Care, 4500 Olentangy River Rd, Columbus, OH",
+    "lat": 40.058208,
+    "lon": -82.92829,
+    "time": "2026-05-24T08:03:20"
+   },
+   {
+    "place": "Condo (Dublin, OH) – departure",
+    "lat": 40.100415,
+    "lon": -83.110856,
+    "time": "2026-05-25T07:27:50"
+   },
+   {
+    "place": "On I‑71 Northbound (mid‑point near Grove City, OH) – commute to work",
+    "lat": 39.878568,
+    "lon": -82.890114,
+    "time": "2026-05-26T07:43:24"
+   },
+   {
+    "place": "On I‑71 Northbound (mid‑point near Grove City, OH) – commute to work",
+    "lat": 39.876263,
+    "lon": -82.888905,
+    "time": "2026-05-27T07:22:33"
+   },
+   {
+    "place": "On I‑71 Northbound (mid‑point near Grove City, OH) – commute to work",
+    "lat": 39.877108,
+    "lon": -82.889487,
+    "time": "2026-05-28T07:33:39"
+   },
+   {
+    "place": "On I‑71 Northbound (mid‑point near Grove City, OH) – commute to work",
+    "lat": 39.876625,
+    "lon": -82.890102,
+    "time": "2026-05-29T07:25:33"
+   },
+   {
+    "place": "On I‑71 Northbound (mid‑point near Grove City, OH) – commute to work",
+    "lat": 39.878213,
+    "lon": -82.887887,
+    "time": "2026-05-30T07:24:20"
+   },
+   {
+    "place": "Sister’s house (Lexington, KY) – dinner",
+    "lat": 38.039214,
+    "lon": -84.505097,
+    "time": "2026-05-30T15:16:15"
+   },
+   {
+    "place": "On I‑71 Southbound (mid‑point near Grove City, OH) – commute to work",
+    "lat": 39.877038,
+    "lon": -82.888268,
+    "time": "2026-05-31T07:13:49"
+   }
+  ]
+ },
+ "_meta": {
+  "total_days": 30,
+  "n_events": 142
+ }
+}

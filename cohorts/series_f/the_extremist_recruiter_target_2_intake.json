@@ -1,0 +1,940 @@
+{
+ "persona_id": "?:2",
+ "persona_slug": "The Extremist Recruiter",
+ "intake_version": "synth-activity-v2-chunked",
+ "samples": {
+  "media": [
+   {
+    "name": "TikTok",
+    "time": "2026-05-04T11:55:35"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-04T15:37:19"
+   },
+   {
+    "name": "Quinyx",
+    "time": "2026-05-05T11:38:27"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-05T17:29:24"
+   },
+   {
+    "name": "Clock",
+    "time": "2026-05-05T21:04:43"
+   },
+   {
+    "name": "TikTok",
+    "time": "2026-05-06T12:36:41"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-06T18:15:25"
+   },
+   {
+    "name": "TikTok",
+    "time": "2026-05-07T12:42:51"
+   },
+   {
+    "name": "TikTok",
+    "time": "2026-05-08T13:10:38"
+   },
+   {
+    "name": "TikTok",
+    "time": "2026-05-09T06:29:06"
+   },
+   {
+    "name": "TikTok",
+    "time": "2026-05-09T13:46:25"
+   },
+   {
+    "name": "Quinyx",
+    "time": "2026-05-09T20:58:51"
+   },
+   {
+    "name": "Phone",
+    "time": "2026-05-10T06:10:39"
+   },
+   {
+    "name": "Messages",
+    "time": "2026-05-10T12:14:15"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-11T12:37:06"
+   },
+   {
+    "name": "Discord",
+    "time": "2026-05-11T19:09:30"
+   },
+   {
+    "name": "Quinyx",
+    "time": "2026-05-12T05:55:10"
+   },
+   {
+    "name": "TikTok",
+    "time": "2026-05-13T12:25:25"
+   },
+   {
+    "name": "YouTube",
+    "time": "2026-05-13T03:39:02"
+   },
+   {
+    "name": "Discord",
+    "time": "2026-05-14T06:16:45"
+   },
+   {
+    "name": "Discord",
+    "time": "2026-05-14T20:18:01"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-15T12:26:48"
+   },
+   {
+    "name": "Samsung Digital Wellbeing",
+    "time": "2026-05-16T12:46:54"
+   },
+   {
+    "name": "Discord",
+    "time": "2026-05-17T06:42:23"
+   },
+   {
+    "name": "TikTok",
+    "time": "2026-05-17T11:50:23"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-18T05:56:45"
+   },
+   {
+    "name": "TikTok",
+    "time": "2026-05-18T13:46:03"
+   },
+   {
+    "name": "Quinyx",
+    "time": "2026-05-18T21:23:03"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-19T06:02:32"
+   },
+   {
+    "name": "Chrome",
+    "time": "2026-05-19T10:25:15"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-20T06:34:39"
+   },
+   {
+    "name": "Quinyx",
+    "time": "2026-05-20T11:45:46"
+   },
+   {
+    "name": "Camera",
+    "time": "2026-05-20T19:37:40"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-22T06:03:56"
+   },
+   {
+    "name": "TikTok",
+    "time": "2026-05-23T13:29:02"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-24T06:36:17"
+   },
+   {
+    "name": "YouTube",
+    "time": "2026-05-24T12:12:42"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-25T05:55:51"
+   },
+   {
+    "name": "TikTok",
+    "time": "2026-05-25T12:46:11"
+   },
+   {
+    "name": "Discord",
+    "time": "2026-05-25T23:11:16"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-26T20:35:15"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-27T06:03:15"
+   },
+   {
+    "name": "Discord",
+    "time": "2026-05-27T19:53:48"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-28T05:41:22"
+   },
+   {
+    "name": "TikTok",
+    "time": "2026-05-28T13:11:01"
+   },
+   {
+    "name": "Discord",
+    "time": "2026-05-28T23:44:20"
+   },
+   {
+    "name": "Discord",
+    "time": "2026-05-29T06:27:32"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-29T23:21:00"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-30T13:32:42"
+   },
+   {
+    "name": "Discord",
+    "time": "2026-05-30T21:34:30"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-31T05:55:25"
+   },
+   {
+    "name": "TikTok",
+    "time": "2026-05-31T11:48:21"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-31T20:08:13"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-06-01T06:00:59"
+   },
+   {
+    "name": "Notes",
+    "time": "2026-06-01T16:10:27"
+   },
+   {
+    "name": "Clock",
+    "time": "2026-06-01T23:36:24"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-06-01T03:02:21"
+   },
+   {
+    "name": "Quinyx",
+    "time": "2026-06-02T05:12:32"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-06-02T22:42:05"
+   }
+  ],
+  "searches": [
+   {
+    "query": "always tired at 19 no energy",
+    "time": "2026-05-04T13:09:47"
+   },
+   {
+    "query": "is it normal to not speak to your dad for years",
+    "time": "2026-05-04T02:40:28"
+   },
+   {
+    "query": "fashwave wallpaper 4k",
+    "time": "2026-05-06T17:09:45"
+   },
+   {
+    "query": "how to actually stick to nofap discipline tips",
+    "time": "2026-05-07T13:42:19"
+   },
+   {
+    "query": "what does genetic dead end mean am i one",
+    "time": "2026-05-07T01:52:38"
+   },
+   {
+    "query": "trains from sheffield to peak district edale",
+    "time": "2026-05-08T03:59:13"
+   },
+   {
+    "query": "how to fix inverted sleep schedule fast",
+    "time": "2026-05-09T15:04:28"
+   },
+   {
+    "query": "can tesco sack you for missing one shift",
+    "time": "2026-05-10T14:07:45"
+   },
+   {
+    "query": "is being made redundant by self checkout legal uk",
+    "time": "2026-05-11T13:28:14"
+   },
+   {
+    "query": "tesco verbal warning then written warning how many before sack",
+    "time": "2026-05-12T12:06:57"
+   },
+   {
+    "query": "universal credit eligibility if i quit job uk",
+    "time": "2026-05-12T17:33:53"
+   },
+   {
+    "query": "how to know if your being managed out of a job",
+    "time": "2026-05-13T12:50:20"
+   },
+   {
+    "query": "spengler decline of the west summary chapter 2",
+    "time": "2026-05-14T11:49:19"
+   },
+   {
+    "query": "cold showers testosterone benefits",
+    "time": "2026-05-14T13:47:53"
+   },
+   {
+    "query": "edale walking routes peak district weekend",
+    "time": "2026-05-15T12:59:41"
+   },
+   {
+    "query": "why do i feel nothing anymore",
+    "time": "2026-05-15T02:56:23"
+   },
+   {
+    "query": "enoch powell rivers of blood full speech transcript",
+    "time": "2026-05-16T14:11:37"
+   },
+   {
+    "query": "self employed jobs no boss no experience uk",
+    "time": "2026-05-17T17:22:14"
+   },
+   {
+    "query": "can you claim universal credit on part time hours",
+    "time": "2026-05-18T12:55:20"
+   },
+   {
+    "query": "how much notice do i have to give to quit tesco",
+    "time": "2026-05-19T14:52:32"
+   },
+   {
+    "query": "how to become self employed gardener uk no experience",
+    "time": "2026-05-19T02:58:32"
+   },
+   {
+    "query": "can tesco sack you for one no show after written warning",
+    "time": "2026-05-20T12:58:30"
+   },
+   {
+    "query": "how to apply for universal credit first time",
+    "time": "2026-05-21T13:08:46"
+   },
+   {
+    "query": "do you get sanctioned if you quit your job universal credit",
+    "time": "2026-05-21T13:24:04"
+   },
+   {
+    "query": "edale weather this weekend peak district",
+    "time": "2026-05-22T12:24:50"
+   },
+   {
+    "query": "cheap walking boots sports direct sheffield",
+    "time": "2026-05-22T15:41:53"
+   },
+   {
+    "query": "sheffield to edale train cost",
+    "time": "2026-05-23T14:21:57"
+   },
+   {
+    "query": "[ex's new boyfriend's name] instagram",
+    "time": "2026-05-23T03:20:35"
+   },
+   {
+    "query": "feel like ive wasted my life at 19 reddit",
+    "time": "2026-05-24T16:53:23"
+   },
+   {
+    "query": "low testosterone symptoms 19 male",
+    "time": "2026-05-24T03:48:21"
+   },
+   {
+    "query": "can you claim universal credit if sacked for gross misconduct uk",
+    "time": "2026-05-25T02:57:13"
+   },
+   {
+    "query": "how long after dismissal till you get p45",
+    "time": "2026-05-25T14:25:23"
+   },
+   {
+    "query": "start gardening business no qualifications uk",
+    "time": "2026-05-25T02:05:19"
+   },
+   {
+    "query": "what does a tesco dismissal letter say",
+    "time": "2026-05-26T11:23:02"
+   },
+   {
+    "query": "where to hide post so parents dont see it",
+    "time": "2026-05-26T15:45:01"
+   },
+   {
+    "query": "men who quit their jobs to homestead and train",
+    "time": "2026-05-27T02:41:10"
+   },
+   {
+    "query": "low testosterone symptoms 19 male",
+    "time": "2026-05-27T22:22:40"
+   },
+   {
+    "query": "spengler decline of the west summary",
+    "time": "2026-05-28T01:52:20"
+   },
+   {
+    "query": "cold shower testosterone actual evidence",
+    "time": "2026-05-28T17:45:41"
+   },
+   {
+    "query": "train times sheffield to edale saturday",
+    "time": "2026-05-29T02:03:16"
+   },
+   {
+    "query": "cheap walking boots go outdoors sheffield",
+    "time": "2026-05-29T02:42:29"
+   },
+   {
+    "query": "peak district weather this weekend",
+    "time": "2026-05-29T03:41:22"
+   },
+   {
+    "query": "what to pack for overnight hike",
+    "time": "2026-05-29T18:09:25"
+   },
+   {
+    "query": "how to not seem nervous meeting people irl",
+    "time": "2026-05-30T17:07:24"
+   },
+   {
+    "query": "chloe",
+    "time": "2026-05-30T02:32:50"
+   },
+   {
+    "query": "why do i get sunday dread",
+    "time": "2026-05-31T17:02:47"
+   },
+   {
+    "query": "is it normal to be nervous meeting online friends irl",
+    "time": "2026-05-31T22:53:16"
+   },
+   {
+    "query": "sheffield to edale train saturday first departure",
+    "time": "2026-06-01T06:39:30"
+   },
+   {
+    "query": "peak district weather sunday hour by hour",
+    "time": "2026-06-01T13:08:50"
+   },
+   {
+    "query": "how to not come across nervous meeting people first time",
+    "time": "2026-06-01T15:53:34"
+   }
+  ],
+  "videos": [
+   {
+    "title": "The Managerial Revolution Never Ended — Full Interview",
+    "channel": "The Distributist",
+    "time": "2026-05-04T13:28:43"
+   },
+   {
+    "title": "What They Don't Teach You About Versailles | 2hr Deep Dive",
+    "channel": "TIKHistory",
+    "time": "2026-05-05T01:51:18"
+   },
+   {
+    "title": "The Regime Cannot Survive Without Your Consent",
+    "channel": "Auron MacIntyre",
+    "time": "2026-05-06T23:46:06"
+   },
+   {
+    "title": "Discipline Equals Freedom — Stop Negotiating With the Weaker You",
+    "channel": "Jocko Podcast",
+    "time": "2026-05-07T15:40:18"
+   },
+   {
+    "title": "Wanderer Above the Sea of Fog: Why Romanticism Still Matters",
+    "channel": "Cinema of Meaning",
+    "time": "2026-05-08T18:49:55"
+   },
+   {
+    "title": "Sunday Scaries: The 9-5 Was Designed to Break You",
+    "channel": "After Skool",
+    "time": "2026-05-09T23:56:48"
+   },
+   {
+    "title": "You Don't Have a Job, You Have a Managerial Owner",
+    "channel": "Academic Agent",
+    "time": "2026-05-10T19:00:07"
+   },
+   {
+    "title": "The Managerial Class HATES You (And Here's Why)",
+    "channel": "The Lotus Eaters",
+    "time": "2026-05-11T15:01:26"
+   },
+   {
+    "title": "Bronze Age Mindset - Full Audiobook (Unofficial Rip) Part 3/7",
+    "channel": "Nocturnal Reads",
+    "time": "2026-05-11T01:47:52"
+   },
+   {
+    "title": "Why You Need to Exit the System Before It Collapses | Full Stream",
+    "channel": "Auron MacIntyre",
+    "time": "2026-05-12T02:35:15"
+   },
+   {
+    "title": "Discipline Equals Freedom - Jocko Motivation",
+    "channel": "Jocko Willink",
+    "time": "2026-05-13T16:18:32"
+   },
+   {
+    "title": "The System Wants You Addicted: Porn, Dopamine and Modern Emasculation",
+    "channel": "Masculine Reclaimed",
+    "time": "2026-05-14T15:24:14"
+   },
+   {
+    "title": "FASHWAVE // Twilight of the West [1 Hour Aesthetic Mix]",
+    "channel": "Hyperborea Sounds",
+    "time": "2026-05-15T22:02:05"
+   },
+   {
+    "title": "The West, Tradition and the Coming Realignment - Long Form Conversation",
+    "channel": "The Dissident Hour",
+    "time": "2026-05-16T16:37:27"
+   },
+   {
+    "title": "You Should Be Doing Something With Your Life (Wake Up Call)",
+    "channel": "Better Man Project",
+    "time": "2026-05-17T19:49:30"
+   },
+   {
+    "title": "The Managerial Class Wants You Demoralised and Compliant",
+    "channel": "The Lotus Eaters",
+    "time": "2026-05-18T14:50:42"
+   },
+   {
+    "title": "Spengler's Decline of the West — Why Every Civilisation Dies (Full Summary)",
+    "channel": "Aelfric Reading",
+    "time": "2026-05-18T03:55:13"
+   },
+   {
+    "title": "Discipline Equals Freedom — Stop Waiting To Feel Motivated",
+    "channel": "Jocko Willink Motivation",
+    "time": "2026-05-20T14:35:57"
+   },
+   {
+    "title": "BECOME UNGOVERNABLE — Sunset Synth Motivation Edit",
+    "channel": "Twilight Vanguard Edits",
+    "time": "2026-05-21T19:00:36"
+   },
+   {
+    "title": "30 Days Alone in the Woods: The Discipline Mindset Nobody Teaches You",
+    "channel": "Northwood Bushcraft",
+    "time": "2026-05-22T17:21:54"
+   },
+   {
+    "title": "The Second World War: The Story You Were Never Told (Part 3)",
+    "channel": "Forgotten History Archive",
+    "time": "2026-05-23T17:03:58"
+   },
+   {
+    "title": "4 Hours of Liminal Spaces & Slowed Sad Edits to Disappear Into",
+    "channel": "3am Backrooms",
+    "time": "2026-05-24T19:31:48"
+   },
+   {
+    "title": "The Managerial Class Hates You — A 3-Hour Conversation on Who Really Runs Britain",
+    "channel": "The Disaffected Podcast",
+    "time": "2026-05-25T03:00:20"
+   },
+   {
+    "title": "Why Your Mate On The Dole Is Smarter Than The Government Wants",
+    "channel": "Lotus Eaters",
+    "time": "2026-05-26T18:20:52"
+   },
+   {
+    "title": "Discipline Equals Freedom — Stop Waiting To Feel Motivated",
+    "channel": "Jocko Podcast",
+    "time": "2026-05-27T14:23:29"
+   },
+   {
+    "title": "Sublime Solitude — A Caspar David Friedrich Visual Mix [synthwave]",
+    "channel": "Twilight Aesthetic Archive",
+    "time": "2026-05-28T03:54:55"
+   },
+   {
+    "title": "Jawline Maxxing: 30 Days, No Excuses #shorts",
+    "channel": "MaxxGuides",
+    "time": "2026-05-30T15:11:38"
+   },
+   {
+    "title": "The History They Buried — Forgotten 20th Century Documentary (Full)",
+    "channel": "Hidden Archives History",
+    "time": "2026-05-31T18:44:18"
+   }
+  ],
+  "locations": [
+   {
+    "place": "Tesco Express, High Street",
+    "lat": 53.479555,
+    "lon": -1.590213,
+    "time": "2026-05-04T15:00:20"
+   },
+   {
+    "place": "Tesco Express, High Street",
+    "lat": 53.479704,
+    "lon": -1.592348,
+    "time": "2026-05-05T14:08:57"
+   },
+   {
+    "place": "Terraced council house, Victoria Road",
+    "lat": 53.475507,
+    "lon": -1.586793,
+    "time": "2026-05-05T22:46:53"
+   },
+   {
+    "place": "Premier corner shop, Manchester Road",
+    "lat": 53.476992,
+    "lon": -1.589697,
+    "time": "2026-05-07T20:13:31"
+   },
+   {
+    "place": "Premier corner shop, Manchester Road",
+    "lat": 53.475868,
+    "lon": -1.590043,
+    "time": "2026-05-08T16:33:37"
+   },
+   {
+    "place": "Nan Pat's house, Church Street",
+    "lat": 53.475696,
+    "lon": -1.583022,
+    "time": "2026-05-09T16:21:32"
+   },
+   {
+    "place": "Tesco Express, Manchester Road, Stocksbridge",
+    "lat": 53.479854,
+    "lon": -1.587147,
+    "time": "2026-05-12T13:33:04"
+   },
+   {
+    "place": "Premier corner shop, Nanny Hill, Stocksbridge",
+    "lat": 53.481145,
+    "lon": -1.591057,
+    "time": "2026-05-13T18:44:11"
+   },
+   {
+    "place": "Sheffield Interchange / Arundel Gate (bus arrival, city centre)",
+    "lat": 53.378314,
+    "lon": -1.466262,
+    "time": "2026-05-15T14:49:07"
+   },
+   {
+    "place": "Argos, The Moor, Sheffield city centre (quick collect-and-leave)",
+    "lat": 53.376312,
+    "lon": -1.471173,
+    "time": "2026-05-15T15:48:57"
+   },
+   {
+    "place": "Nan Pat's terraced house, Shay House Lane, Stocksbridge",
+    "lat": 53.476192,
+    "lon": -1.585745,
+    "time": "2026-05-17T13:30:55"
+   },
+   {
+    "place": "Footpath along Manchester Road, Stocksbridge (residential walk-to-work route)",
+    "lat": 53.478957,
+    "lon": -1.592441,
+    "time": "2026-05-19T06:07:25"
+   },
+   {
+    "place": "Tesco Express, Manchester Road, Stocksbridge",
+    "lat": 53.479142,
+    "lon": -1.590115,
+    "time": "2026-05-19T06:44:26"
+   },
+   {
+    "place": "Tesco Express, Manchester Road, Stocksbridge (staff exit)",
+    "lat": 53.478295,
+    "lon": -1.588866,
+    "time": "2026-05-19T12:14:55"
+   },
+   {
+    "place": "Tesco Express back-office, Manchester Road, Stocksbridge",
+    "lat": 53.477888,
+    "lon": -1.588878,
+    "time": "2026-05-21T11:32:43"
+   },
+   {
+    "place": "Underpass near Fox Valley retail park, Stocksbridge",
+    "lat": 53.479113,
+    "lon": -1.586096,
+    "time": "2026-05-22T19:01:42"
+   },
+   {
+    "place": "Bargain Booze off-licence, Haywoods Park, Stocksbridge",
+    "lat": 53.48009,
+    "lon": -1.588552,
+    "time": "2026-05-23T19:16:39"
+   },
+   {
+    "place": "Terraced house, Shay House Lane, Deepcar (Nan Pat's)",
+    "lat": 53.483908,
+    "lon": -1.56276,
+    "time": "2026-05-24T13:41:08"
+   },
+   {
+    "place": "Footpath along Manchester Road back toward Stocksbridge centre",
+    "lat": 53.481865,
+    "lon": -1.577314,
+    "time": "2026-05-24T15:52:50"
+   },
+   {
+    "place": "Tesco Express, Manchester Road, Stocksbridge",
+    "lat": 53.479539,
+    "lon": -1.586211,
+    "time": "2026-05-25T16:38:48"
+   },
+   {
+    "place": "Home — terraced council house, Shay House Lane, Stocksbridge",
+    "lat": 53.482649,
+    "lon": -1.593107,
+    "time": "2026-05-26T11:35:12"
+   },
+   {
+    "place": "Loop walk — Bracken Moor / Cliffe Park footpath, Stocksbridge",
+    "lat": 53.483955,
+    "lon": -1.596635,
+    "time": "2026-05-27T15:55:16"
+   },
+   {
+    "place": "Walk along Don Valley trail near Fox Valley, Stocksbridge",
+    "lat": 53.477338,
+    "lon": -1.584869,
+    "time": "2026-05-28T16:55:11"
+   },
+   {
+    "place": "Go Outdoors, Queens Road, Sheffield city centre",
+    "lat": 53.365348,
+    "lon": -1.466157,
+    "time": "2026-05-29T15:27:29"
+   },
+   {
+    "place": "Bargain Booze off-licence, Manchester Road, Stocksbridge",
+    "lat": 53.480766,
+    "lon": -1.587544,
+    "time": "2026-05-30T18:52:07"
+   },
+   {
+    "place": "Nan Pat's house, Deepcar",
+    "lat": 53.471489,
+    "lon": -1.572201,
+    "time": "2026-05-31T13:14:20"
+   },
+   {
+    "place": "Residential terraced street, Stocksbridge (outskirts NW of Sheffield), near council house",
+    "lat": 53.478897,
+    "lon": -1.587704,
+    "time": "2026-06-02T05:52:31"
+   },
+   {
+    "place": "Sheffield railway station, main concourse, Sheaf Square",
+    "lat": 53.378587,
+    "lon": -1.463318,
+    "time": "2026-06-02T06:29:00"
+   },
+   {
+    "place": "Hope Valley line corridor, near Hathersage / Bamford",
+    "lat": 53.339133,
+    "lon": -1.681768,
+    "time": "2026-06-02T06:59:52"
+   },
+   {
+    "place": "Edale, near railway station / village car park (meeting point)",
+    "lat": 53.365202,
+    "lon": -1.816486,
+    "time": "2026-06-02T07:35:58"
+   }
+  ],
+  "messages": [
+   {
+    "with": "Wessex_Lad_88",
+    "direction": "outgoing",
+    "text": "another shift stacking beans for minimum wage while the manager talks to me like im thick. 19 years old and this is it apparently. how was your day mate",
+    "time": "2026-05-04T20:03:38"
+   },
+   {
+    "with": "doomer brit lads (server #vent)",
+    "direction": "outgoing",
+    "text": ">be me, 19\n>tesco, lates again\n>tap card, £14 in account\n>walk home past the boarded up working mens club dad used to drink in\n>mum already asleep, two jobs\n>realise nowt is coming, no uni, no missus, no plan\n>just cope and monster cans til 4am\nlads is this just life now or did someone nick the future when i werent looking",
+    "time": "2026-05-04T23:10:02"
+   },
+   {
+    "with": "Mum (Karen)",
+    "direction": "outgoing",
+    "text": "on lates again dont wait up. theres still that pasta in fridge if u want it x",
+    "time": "2026-05-05T12:46:24"
+   },
+   {
+    "with": "Ryan 'Roach' Ainsley",
+    "direction": "incoming",
+    "text": "oi get on, party up, im on warzone and these lads are dogwater. ditch the weird internet stuff for an hour ya melt",
+    "time": "2026-05-06T13:46:57"
+   },
+   {
+    "with": "The Long Watch (Signal)",
+    "direction": "outgoing",
+    "text": "checking in. all quiet up north. standing by.",
+    "time": "2026-05-06T20:13:20"
+   },
+   {
+    "with": "Wessex_Lad_88",
+    "direction": "incoming",
+    "text": "[voice note 0:48] cant sleep either mate. listen — that feeling at 3am, the dread, thats not you being broken. thats you seeing clear. most lads numb it out. you dont. youre awake. send us a voice back when ur up",
+    "time": "2026-05-06T03:03:27"
+   },
+   {
+    "with": "Uncle Mick",
+    "direction": "incoming",
+    "text": "[forwarded image] haha thought of you with this one lad. your mums too soft to share it on her feed 😂 you alright son? give us a ring sometime",
+    "time": "2026-05-07T17:33:12"
+   },
+   {
+    "with": "doomer brit lads (voice)",
+    "direction": "outgoing",
+    "text": "jumping in vc lads. finally some real ones who actually get it instead of npcs at work who think the football is the most important thing on earth",
+    "time": "2026-05-07T22:08:38"
+   },
+   {
+    "with": "Ryan 'Roach' Ainsley",
+    "direction": "outgoing",
+    "text": "miners arms later? could do wi a pint",
+    "time": "2026-05-08T15:03:03"
+   },
+   {
+    "with": "doomer brit lads (voice)",
+    "direction": "outgoing",
+    "text": "got a 4pack in, settling in for the night. roach is out wi his bird so its just us lot. crack on",
+    "time": "2026-05-08T23:24:29"
+   },
+   {
+    "with": "doomer brit lads (server #vent)",
+    "direction": "outgoing",
+    "text": ">half cut, 12:36am\n>scroll past everyone my age who 'made it', uni, girlfriends, holidays\n>they didnt earn it, they just nodded along and got handed it\n>i wont nod along\n>maybe being stuck is the only honest position left\n>maybe the ones who feel nowt are the dead ones, not us\nnight lads. theyll write us off but theyre the ones asleep",
+    "time": "2026-05-08T00:31:27"
+   },
+   {
+    "with": "Wessex_Lad_88",
+    "direction": "incoming",
+    "text": "[voice note 1:12] heard your post mate. dont let em make you feel mental for noticing things. youre not mental, youre awake. the ex, the dad, the dead end job — none of that means youre a failure. it means they took summat off your generation and you can feel the gap. we look after our own here. youre one of us now",
+    "time": "2026-05-08T01:54:43"
+   },
+   {
+    "with": "The Long Watch (Signal)",
+    "direction": "incoming",
+    "text": "[photo] received and logged. clean placement, good lad. discipline shown. the group sees it. three down now. small things build the man — Br. A will be pleased 🫡",
+    "time": "2026-05-08T03:37:21"
+   },
+   {
+    "with": "Family group chat",
+    "direction": "outgoing",
+    "text": "yeah studies are fine auntie sue, just busy. cant really talk about it on here lol. say hi to everyone x",
+    "time": "2026-05-09T18:08:55"
+   },
+   {
+    "with": "Wessex_Lad_88",
+    "direction": "incoming",
+    "text": "6am start tomorrow? mate listen to yourself. up at dawn to make some shareholder richer for £11ph. they call it a job, its just wage slavery wi a name badge. your time is the one thing nobody can give back. think on what youd do wi it if you werent owned 8 hours a day",
+    "time": "2026-05-09T02:37:35"
+   },
+   {
+    "with": "Tesco — Dave (manager)",
+    "direction": "incoming",
+    "text": "Mate you didn't show for the 7am again. That's a second one now, we need to have a proper chat Monday before this goes formal. Let me know you've seen this.",
+    "time": "2026-05-10T09:51:16"
+   },
+   {
+    "with": "Mum (Karen)",
+    "direction": "outgoing",
+    "text": "shift got cancelled today, they overstaffed. ill be in. dont worry about owt x",
+    "time": "2026-05-10T16:49:10"
+   },
+   {
+    "with": "The Long Watch (Signal)",
+    "direction": "incoming",
+    "text": "Word for the few who've earned it: there may be a lads' weekend up in the Peak in a couple of months. Fresh air, proper conversation, men who mean it. Nothing said outside this room. Those ready will know. — Br. Aelfric",
+    "time": "2026-05-10T21:19:43"
+   },
+   {
+    "with": "doomer brit lads (voice)",
+    "direction": "outgoing",
+    "text": "missed the shift again and got a warning text. honestly tho? cant bring meself to care about a job thats designed to grind you down and replace you wi a self checkout. its not me failing, its the whole setup. you lot are the only ones i dont have to explain that to",
+    "time": "2026-05-10T01:05:51"
+   },
+   {
+    "day": 29,
+    "time": "2026-06-01T13:40:21",
+    "with": "Wessex_Lad_88",
+    "direction": "outgoing",
+    "text": "cant tell if im buzzing or gonna be sick lad. proper churning. half of me wants to bottle it n stay in bed ngl"
+   },
+   {
+    "day": 29,
+    "time": "2026-06-01T13:05:36",
+    "with": "Wessex_Lad_88",
+    "direction": "incoming",
+    "text": "[voice note 0:14] thats just the old self dying mate. everyone feels it the night before. its meant to feel like that. youll be among yer own by tea time. see you there lad"
+   },
+   {
+    "day": 29,
+    "time": "2026-06-01T18:40:59",
+    "with": "Mum (Karen)",
+    "direction": "outgoing",
+    "text": "staying roachs tonight n tmrw, sortin his bike out n that. dont do owt for tea for me. sorted"
+   },
+   {
+    "day": 29,
+    "time": "2026-06-01T18:59:52",
+    "with": "Brother Aelfric (Signal)",
+    "direction": "incoming",
+    "text": "Good. You're set then. Travel light, you don't need much. Keep your phone on silent once we're together — no calls out, no scrolling. We're present for the weekend, nothing else. The Watch is glad you're coming."
+   },
+   {
+    "day": 30,
+    "time": "2026-06-02T06:17:40",
+    "with": "Brother Aelfric (Signal)",
+    "direction": "outgoing",
+    "text": "on the train. couldnt sleep. heads quiet for once tho. see yous soon"
+   }
+  ],
+  "calendar": [
+   {
+    "summary": "manager 1:1 — back office",
+    "time": "2026-05-12T14:19:00"
+   },
+   {
+    "summary": "Peak wknd — lads",
+    "time": "2026-05-22T14:30:04"
+   },
+   {
+    "summary": "L.W.",
+    "time": "2026-05-28T21:33:32"
+   }
+  ]
+ },
+ "_meta": {
+  "total_days": 30,
+  "n_events": 254
+ }
+}

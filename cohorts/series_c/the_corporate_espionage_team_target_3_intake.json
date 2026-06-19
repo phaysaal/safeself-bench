@@ -1,0 +1,812 @@
+{
+ "persona_id": "?:3",
+ "persona_slug": "The Corporate Espionage Team",
+ "intake_version": "synth-activity-v2-chunked",
+ "samples": {
+  "searches": [
+   {
+    "query": "market news",
+    "time": "2026-05-04T06:07:19"
+   },
+   {
+    "query": "mid cap industrials acquisition targets",
+    "time": "2026-05-04T14:26:33"
+   },
+   {
+    "query": "activist investors nyse",
+    "time": "2026-05-05T05:42:59"
+   },
+   {
+    "query": "stock futures",
+    "time": "2026-05-06T03:14:02"
+   },
+   {
+    "query": "industrial tech trends 2024",
+    "time": "2026-05-06T16:26:05"
+   },
+   {
+    "query": "project lighthouse update",
+    "time": "2026-05-07T05:42:33"
+   },
+   {
+    "query": "bloomberg headlines",
+    "time": "2026-05-08T03:56:42"
+   },
+   {
+    "query": "m&a activity industrial sector",
+    "time": "2026-05-08T16:20:11"
+   },
+   {
+    "query": "project mariner acquisition",
+    "time": "2026-05-09T14:03:02"
+   },
+   {
+    "query": "industrial tech outlook",
+    "time": "2026-05-10T14:50:08"
+   },
+   {
+    "query": "market news today",
+    "time": "2026-05-11T06:07:19"
+   },
+   {
+    "query": "industrial tech acquisitions",
+    "time": "2026-05-11T17:11:33"
+   },
+   {
+    "query": "competitor analysis danaher",
+    "time": "2026-05-12T13:27:59"
+   },
+   {
+    "query": "deal rumors nyse",
+    "time": "2026-05-13T05:39:02"
+   },
+   {
+    "query": "industry trends 2024",
+    "time": "2026-05-13T14:21:05"
+   },
+   {
+    "query": "legacy transaction updates",
+    "time": "2026-05-14T06:32:33"
+   },
+   {
+    "query": "m&a document templates",
+    "time": "2026-05-15T10:21:42"
+   },
+   {
+    "query": "market outlook 2024",
+    "time": "2026-05-16T08:30:11"
+   },
+   {
+    "query": "deal progress news",
+    "time": "2026-05-17T06:48:02"
+   },
+   {
+    "query": "bloomberg market news",
+    "time": "2026-05-18T06:07:19"
+   },
+   {
+    "query": "mid cap industrial tech targets",
+    "time": "2026-05-18T14:41:33"
+   },
+   {
+    "query": "news on danaher dealmaking strategy",
+    "time": "2026-05-20T07:12:59"
+   },
+   {
+    "query": "greenwich country club membership directory",
+    "time": "2026-05-21T14:19:02"
+   },
+   {
+    "query": "activist investor 13d filings",
+    "time": "2026-05-23T06:56:05"
+   },
+   {
+    "query": "ge vertafore acquisition analysis",
+    "time": "2026-05-24T14:12:33"
+   },
+   {
+    "query": "market news today",
+    "time": "2026-05-25T06:07:19"
+   },
+   {
+    "query": "industrial tech acquisitions",
+    "time": "2026-05-25T14:26:33"
+   },
+   {
+    "query": "deal news industrial sector",
+    "time": "2026-05-26T05:37:59"
+   },
+   {
+    "query": "industry trends 2024",
+    "time": "2026-05-26T14:59:02"
+   },
+   {
+    "query": "m&a news today",
+    "time": "2026-05-27T05:41:05"
+   },
+   {
+    "query": "potential targets industrial tech",
+    "time": "2026-05-27T15:02:33"
+   },
+   {
+    "query": "news on nyse deals",
+    "time": "2026-05-28T05:31:42"
+   },
+   {
+    "query": "trends in industrial technology",
+    "time": "2026-05-28T15:00:11"
+   },
+   {
+    "query": "bloomberg deal news",
+    "time": "2026-05-29T05:38:02"
+   },
+   {
+    "query": "industrial tech m&a targets",
+    "time": "2026-05-29T15:10:08"
+   },
+   {
+    "query": "lunchtime market update",
+    "time": "2026-05-30T12:06:23"
+   },
+   {
+    "query": "market open news",
+    "time": "2026-05-31T05:37:07"
+   },
+   {
+    "query": "industrial sector analysis",
+    "time": "2026-05-31T15:20:33"
+   },
+   {
+    "query": "bloomberg market update",
+    "time": "2026-06-01T05:27:19"
+   },
+   {
+    "query": "industrial tech acquisition targets",
+    "time": "2026-06-01T09:41:33"
+   },
+   {
+    "query": "wsj market news",
+    "time": "2026-06-02T05:02:59"
+   },
+   {
+    "query": "project lighthouse financials",
+    "time": "2026-06-02T10:49:02"
+   }
+  ],
+  "messages": [
+   {
+    "with": "Richard 'Rick' Mendelson",
+    "direction": "from",
+    "text": "Just landed in London, will call you at 5pm EST to discuss Project Lighthouse.",
+    "time": "2026-05-04T06:17:49"
+   },
+   {
+    "with": "Richard 'Rick' Mendelson",
+    "direction": "to",
+    "text": "Hi Rick, just got your email. Looking forward to discussing Project Lighthouse at 5pm. Any updates from the London team?",
+    "time": "2026-05-04T16:53:00"
+   },
+   {
+    "with": "Maureen Calloway",
+    "direction": "from",
+    "text": "Reminder: meeting with David Kestenbaum at 2pm to discuss legacy transaction. Please make sure all materials are ready.",
+    "time": "2026-05-05T15:49:54"
+   },
+   {
+    "with": "David Kestenbaum",
+    "direction": "to",
+    "text": "Hi David, hope you're doing well. Looking forward to discussing the legacy transaction today. Any thoughts on the latest valuation models?",
+    "time": "2026-05-06T06:27:31"
+   },
+   {
+    "with": "Banker",
+    "direction": "from",
+    "text": "We've received interest from a potential buyer for Project Mariner. Would you like to discuss further?",
+    "time": "2026-05-07T08:46:58"
+   },
+   {
+    "with": "Maureen Calloway",
+    "direction": "to",
+    "text": "Hi Maureen, just wanted to check in on the status of the deal progress. Any updates from the team?",
+    "time": "2026-05-07T17:45:38"
+   },
+   {
+    "with": "Richard 'Rick' Mendelson",
+    "direction": "from",
+    "text": "Just spoke with the London team, they're on board with the revised proposal. Let's discuss further at 5pm EST.",
+    "time": "2026-05-08T07:01:20"
+   },
+   {
+    "with": "Family",
+    "direction": "from",
+    "text": "Hey Dad, just wanted to check in and say hi. How's the day going?",
+    "time": "2026-05-09T05:42:14"
+   },
+   {
+    "with": "Catherine 'Cate' Holloway-Brennan",
+    "direction": "to",
+    "text": "Hi Cate, just wanted to discuss the plans for the weekend. Are we still on for dinner at the club?",
+    "time": "2026-05-09T17:10:09"
+   },
+   {
+    "with": "Family",
+    "direction": "from",
+    "text": "Hey Dad, just a reminder that Ellie's birthday is coming up. We should get her something nice.",
+    "time": "2026-05-10T06:12:49"
+   },
+   {
+    "with": "David Kestenbaum",
+    "direction": "to",
+    "text": "Hi David, just wanted to follow up on our discussion earlier. Have you had a chance to review the latest drafts?",
+    "time": "2026-05-10T17:32:38"
+   },
+   {
+    "with": "Sarah Ling-Whitford",
+    "direction": "from",
+    "text": "Hope you're doing well. Just saw the news about the potential acquisition in the industrials sector. Might be worth discussing.",
+    "time": "2026-05-11T06:17:49"
+   },
+   {
+    "with": "Rick Mendelson",
+    "direction": "to",
+    "text": "Rick, just got your message about the legacy transaction. I'm on board with the strategy. Let's discuss further at 14:45 today.",
+    "time": "2026-05-11T14:38:00"
+   },
+   {
+    "with": "Maureen Calloway",
+    "direction": "from",
+    "text": "Good morning, James. Your schedule for today includes a meeting with the marketing team at 10:00 AM. Shall I bring you coffee?",
+    "time": "2026-05-12T06:04:54"
+   },
+   {
+    "with": "David Kestenbaum",
+    "direction": "to",
+    "text": "David, I've reviewed the deal documents. I think we have a strong case for moving forward. Let's discuss the details at 15:50 today.",
+    "time": "2026-05-12T15:57:31"
+   },
+   {
+    "with": "James Brennan Jr.",
+    "direction": "to",
+    "text": "Hey son, just checking in. How's the startup going? We should catch up soon.",
+    "time": "2026-05-13T07:11:58"
+   },
+   {
+    "with": "Thomas Riordan",
+    "direction": "from",
+    "text": "James, I heard about the potential deal. I might have some insights to share. Are you available to talk at 16:40 today?",
+    "time": "2026-05-13T16:55:38"
+   },
+   {
+    "with": "Maureen Calloway",
+    "direction": "to",
+    "text": "Maureen, please inform the team that I'll be traveling to London next week. I'll send out a formal announcement later today.",
+    "time": "2026-05-14T15:36:20"
+   },
+   {
+    "with": "London Team",
+    "direction": "to",
+    "text": "Team, just a reminder that we have a meeting scheduled for 14:50 today to discuss the deal progress. Let's make sure we're all on the same page.",
+    "time": "2026-05-15T14:32:14"
+   },
+   {
+    "with": "Rick Mendelson",
+    "direction": "to",
+    "text": "Rick, just a quick update on the deal status. We're moving forward with the due diligence. I'll keep you posted on any developments.",
+    "time": "2026-05-16T15:35:09"
+   },
+   {
+    "with": "Maureen Calloway",
+    "direction": "to",
+    "text": "Maureen, please let the team know that I'll be returning to the office tomorrow. I'll have a meeting with the marketing team in the morning.",
+    "time": "2026-05-17T13:42:49"
+   },
+   {
+    "with": "Hidden Contact",
+    "direction": "from",
+    "text": "Overnight update on Project Lighthouse from London team",
+    "time": "2026-05-18T06:17:49"
+   },
+   {
+    "with": "Richard 'Rick' Mendelson",
+    "direction": "to",
+    "text": "Making progress on due diligence, will send update by EOD tomorrow",
+    "time": "2026-05-18T17:03:00"
+   },
+   {
+    "with": "Sarah Ling-Whitford",
+    "direction": "from",
+    "text": "Re: Berlin notes - following up on previous discussion",
+    "time": "2026-05-20T09:44:54"
+   },
+   {
+    "with": "Family Member",
+    "direction": "from",
+    "text": "Hi Dad, just checking in and saying hello from Brooklyn",
+    "time": "2026-05-22T08:07:31"
+   },
+   {
+    "with": "Team",
+    "direction": "to",
+    "text": "Reminder: deal deadline is this Friday, let's review progress at 2 PM",
+    "time": "2026-05-23T15:51:58"
+   },
+   {
+    "with": "Richard 'Rick' Mendelson",
+    "direction": "from",
+    "text": "Just got off the phone with Centerview, they are pushing for a meeting next week",
+    "time": "2026-05-24T17:35:38"
+   },
+   {
+    "with": "Rick Mendelson",
+    "direction": "from",
+    "text": "Just saw the Bloomberg article on potential activist investors. We should discuss our strategy.",
+    "time": "2026-05-25T06:17:49"
+   },
+   {
+    "with": "Rick Mendelson",
+    "direction": "to",
+    "text": "Agreed, let's review the deal terms and be prepared for any questions from the board.",
+    "time": "2026-05-25T16:38:00"
+   },
+   {
+    "with": "Maureen Calloway",
+    "direction": "from",
+    "text": "Reminder: you have a meeting with David Kestenbaum at 2 PM today to discuss the Johnson acquisition.",
+    "time": "2026-05-26T09:54:54"
+   },
+   {
+    "with": "David Kestenbaum",
+    "direction": "to",
+    "text": "Looking forward to discussing the latest developments on the Johnson deal. See you soon.",
+    "time": "2026-05-26T17:27:31"
+   },
+   {
+    "with": "Deal Team",
+    "direction": "from",
+    "text": "Urgent: we need to review and respond to the latest counteroffer from the seller by EOD.",
+    "time": "2026-05-27T08:41:58"
+   },
+   {
+    "with": "Rick Mendelson",
+    "direction": "to",
+    "text": "I've reviewed the counteroffer and I think we can negotiate a better price. Let's discuss.",
+    "time": "2026-05-27T16:45:38"
+   },
+   {
+    "with": "Deal Team",
+    "direction": "from",
+    "text": "Update: the seller is willing to meet us halfway on the price. What's our next move?",
+    "time": "2026-05-28T09:26:20"
+   },
+   {
+    "with": "David Kestenbaum",
+    "direction": "to",
+    "text": "Great news on the price negotiation. Let's finalize the terms and prepare for the board meeting.",
+    "time": "2026-05-28T16:42:14"
+   },
+   {
+    "with": "Deal Team",
+    "direction": "from",
+    "text": "Reminder: we need to submit the final proposal to the board by tomorrow morning.",
+    "time": "2026-05-29T09:35:09"
+   },
+   {
+    "with": "Rick Mendelson",
+    "direction": "to",
+    "text": "I've reviewed the final proposal and I'm confident we have a winning deal. Let's present it to the board.",
+    "time": "2026-05-29T16:52:49"
+   },
+   {
+    "with": "Colleagues",
+    "direction": "from",
+    "text": "Just a heads up that the board meeting has been rescheduled for Friday at 2 PM.",
+    "time": "2026-05-30T13:47:38"
+   },
+   {
+    "with": "Deal Team",
+    "direction": "from",
+    "text": "Final reminder: the board meeting is tomorrow at 2 PM. Make sure you're prepared to present.",
+    "time": "2026-05-31T09:36:54"
+   },
+   {
+    "with": "David Kestenbaum",
+    "direction": "to",
+    "text": "Looking forward to the board meeting tomorrow. Let's make it a success.",
+    "time": "2026-05-31T17:17:24"
+   },
+   {
+    "with": "David Kestenbaum",
+    "direction": "to",
+    "text": "Let's discuss the latest developments on Project Lighthouse",
+    "time": "2026-06-01T05:27:49"
+   },
+   {
+    "with": "David Kestenbaum",
+    "direction": "from",
+    "text": "Just got off the phone with Rick Mendelson, he thinks we should reconsider the valuation",
+    "time": "2026-06-01T11:13:00"
+   },
+   {
+    "with": "Sarah Ling-Whitford",
+    "direction": "from",
+    "text": "Heard about a potential target that might interest you, would love to discuss further",
+    "time": "2026-06-02T06:19:54"
+   },
+   {
+    "with": "Maureen Calloway",
+    "direction": "to",
+    "text": "Need to book a flight to London for the meeting with Lazard, can you arrange?",
+    "time": "2026-06-02T14:47:31"
+   }
+  ],
+  "media": [
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-04T12:09:27"
+   },
+   {
+    "name": "Bloomberg Terminal",
+    "time": "2026-05-05T11:13:52"
+   },
+   {
+    "name": "MacBook",
+    "time": "2026-05-06T13:26:47"
+   },
+   {
+    "name": "Bloomberg Terminal",
+    "time": "2026-05-07T14:49:34"
+   },
+   {
+    "name": "MacBook",
+    "time": "2026-05-08T13:43:14"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-09T12:03:57"
+   },
+   {
+    "name": "Bloomberg Terminal",
+    "time": "2026-05-10T12:15:36"
+   },
+   {
+    "name": "Bloomberg Terminal",
+    "time": "2026-05-11T12:39:27"
+   },
+   {
+    "name": "MacBook",
+    "time": "2026-05-12T11:43:52"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-13T11:56:47"
+   },
+   {
+    "name": "Bloomberg Terminal",
+    "time": "2026-05-14T13:04:34"
+   },
+   {
+    "name": "MacBook",
+    "time": "2026-05-15T12:28:14"
+   },
+   {
+    "name": "Bloomberg Terminal",
+    "time": "2026-05-16T13:38:57"
+   },
+   {
+    "name": "MacBook",
+    "time": "2026-05-17T11:55:36"
+   },
+   {
+    "name": "Moleskine",
+    "time": "2026-05-18T10:09:27"
+   },
+   {
+    "name": "Bloomberg",
+    "time": "2026-05-19T11:48:52"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-21T10:46:47"
+   },
+   {
+    "name": "Moleskine",
+    "time": "2026-05-23T09:14:34"
+   },
+   {
+    "name": "Bloomberg",
+    "time": "2026-05-24T10:28:14"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-25T10:09:27"
+   },
+   {
+    "name": "Email",
+    "time": "2026-05-25T20:13:52"
+   },
+   {
+    "name": "Bloomberg Terminal",
+    "time": "2026-05-26T13:11:47"
+   },
+   {
+    "name": "Email",
+    "time": "2026-05-27T12:49:34"
+   },
+   {
+    "name": "Bloomberg Terminal",
+    "time": "2026-05-28T13:18:14"
+   },
+   {
+    "name": "Email",
+    "time": "2026-05-29T13:48:57"
+   },
+   {
+    "name": "Email",
+    "time": "2026-05-30T10:15:36"
+   },
+   {
+    "name": "Bloomberg Terminal",
+    "time": "2026-05-31T13:26:52"
+   },
+   {
+    "name": "WhatsApp",
+    "time": "2026-06-01T08:09:27"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-06-01T15:58:52"
+   },
+   {
+    "name": "Email",
+    "time": "2026-06-02T08:41:47"
+   }
+  ],
+  "locations": [
+   {
+    "place": "Greenwich Train Station",
+    "lat": 41.027344,
+    "lon": -73.627142,
+    "time": "2026-05-11T07:40:22"
+   },
+   {
+    "place": "Midtown Manhattan HQ",
+    "lat": 40.755595,
+    "lon": -73.972105,
+    "time": "2026-05-12T08:03:26"
+   },
+   {
+    "place": "The Pierre Hotel",
+    "lat": 40.764859,
+    "lon": -73.972041,
+    "time": "2026-05-13T09:20:54"
+   },
+   {
+    "place": "Home in Greenwich",
+    "lat": 41.026861,
+    "lon": -73.62724,
+    "time": "2026-05-14T08:07:47"
+   },
+   {
+    "place": "JFK Airport",
+    "lat": 40.639696,
+    "lon": -73.779167,
+    "time": "2026-05-15T07:48:05"
+   },
+   {
+    "place": "The Ritz Hotel London",
+    "lat": 51.50723,
+    "lon": -0.141075,
+    "time": "2026-05-16T10:44:50"
+   },
+   {
+    "place": "Heathrow Airport",
+    "lat": 51.470706,
+    "lon": -0.462295,
+    "time": "2026-05-17T09:36:02"
+   },
+   {
+    "place": "CEO's private dining room",
+    "lat": 40.759544,
+    "lon": -73.985542,
+    "time": "2026-05-18T12:40:22"
+   },
+   {
+    "place": "Wachtell, Lipton, Rosen & Katz",
+    "lat": 40.758695,
+    "lon": -73.972105,
+    "time": "2026-05-19T15:18:26"
+   },
+   {
+    "place": "Greenwich Country Club",
+    "lat": 41.024459,
+    "lon": -73.628941,
+    "time": "2026-05-21T06:20:54"
+   },
+   {
+    "place": "Home in Greenwich",
+    "lat": 41.026861,
+    "lon": -73.62864,
+    "time": "2026-05-22T16:17:47"
+   },
+   {
+    "place": "Midtown HQ",
+    "lat": 40.755596,
+    "lon": -73.971667,
+    "time": "2026-05-24T07:18:05"
+   },
+   {
+    "place": "The Plaza Hotel",
+    "lat": 40.765544,
+    "lon": -73.972842,
+    "time": "2026-05-25T12:10:22"
+   },
+   {
+    "place": "Conference Room, Midtown Manhattan",
+    "lat": 40.755695,
+    "lon": -73.985805,
+    "time": "2026-05-26T11:18:26"
+   },
+   {
+    "place": "The London NYC",
+    "lat": 40.762359,
+    "lon": -73.972541,
+    "time": "2026-05-27T10:20:54"
+   },
+   {
+    "place": "Conference Room, Midtown Manhattan",
+    "lat": 40.756061,
+    "lon": -73.98564,
+    "time": "2026-05-28T11:07:47"
+   },
+   {
+    "place": "The Ritz-Carlton New York, Central Park",
+    "lat": 40.765896,
+    "lon": -73.976667,
+    "time": "2026-05-29T11:18:05"
+   },
+   {
+    "place": "Greenwich Country Club",
+    "lat": 41.02683,
+    "lon": -73.626875,
+    "time": "2026-05-30T05:54:50"
+   },
+   {
+    "place": "Conference Room, Midtown Manhattan",
+    "lat": 40.756606,
+    "lon": -73.985995,
+    "time": "2026-05-31T11:26:02"
+   },
+   {
+    "place": "Midtown Manhattan HQ",
+    "lat": 40.756544,
+    "lon": -73.979742,
+    "time": "2026-06-01T07:25:22"
+   },
+   {
+    "place": "The Plaza Hotel",
+    "lat": 40.764495,
+    "lon": -73.972105,
+    "time": "2026-06-01T12:18:26"
+   },
+   {
+    "place": "Midtown Manhattan HQ",
+    "lat": 40.756059,
+    "lon": -73.979941,
+    "time": "2026-06-02T07:20:54"
+   },
+   {
+    "place": "Grand Central Terminal",
+    "lat": 40.752861,
+    "lon": -73.97774,
+    "time": "2026-06-02T16:37:47"
+   }
+  ],
+  "calendar": [
+   {
+    "summary": "ELT meeting",
+    "time": "2026-05-11T09:50:44"
+   },
+   {
+    "summary": "Call with Sarah Ling-Whitford",
+    "time": "2026-05-12T18:26:28"
+   },
+   {
+    "summary": "Confirm flight details",
+    "time": "2026-05-14T10:32:26"
+   },
+   {
+    "summary": "Meeting with deal partners",
+    "time": "2026-05-15T16:52:44"
+   },
+   {
+    "summary": "Dinner meeting with deal partners",
+    "time": "2026-05-16T17:43:36"
+   },
+   {
+    "summary": "Meeting for next day",
+    "time": "2026-05-17T16:48:22"
+   },
+   {
+    "summary": "Review daily schedule",
+    "time": "2026-05-18T07:20:44"
+   },
+   {
+    "summary": "Call with David Kestenbaum",
+    "time": "2026-05-19T08:26:28"
+   },
+   {
+    "summary": "Review weekly schedule",
+    "time": "2026-05-20T12:12:26"
+   },
+   {
+    "summary": "Family dinner planning",
+    "time": "2026-05-22T11:12:44"
+   },
+   {
+    "summary": "Review daily schedule",
+    "time": "2026-05-23T12:23:36"
+   },
+   {
+    "summary": "Review daily schedule",
+    "time": "2026-05-25T07:20:44"
+   },
+   {
+    "summary": "Review daily schedule",
+    "time": "2026-05-26T07:21:28"
+   },
+   {
+    "summary": "Review daily schedule",
+    "time": "2026-05-27T06:52:26"
+   },
+   {
+    "summary": "Review daily schedule",
+    "time": "2026-05-28T06:42:44"
+   },
+   {
+    "summary": "Review daily schedule",
+    "time": "2026-05-29T07:13:36"
+   },
+   {
+    "summary": "Review daily schedule",
+    "time": "2026-05-30T08:18:22"
+   },
+   {
+    "summary": "Review daily schedule",
+    "time": "2026-05-31T07:28:38"
+   },
+   {
+    "summary": "Review schedule for the day and call with Rick Mendelson",
+    "time": "2026-06-01T06:40:44"
+   },
+   {
+    "summary": "Review upcoming deadlines and milestones for the deal",
+    "time": "2026-06-01T14:16:28"
+   },
+   {
+    "summary": "Review the day's schedule and upcoming meetings",
+    "time": "2026-06-02T12:12:26"
+   }
+  ],
+  "videos": [
+   {
+    "title": "Mad Money with Jim Cramer",
+    "channel": "CNBC",
+    "time": "2026-05-11T19:43:50"
+   },
+   {
+    "title": "Industry Trends and Insights",
+    "channel": "Financial Times",
+    "time": "2026-05-19T06:13:50"
+   },
+   {
+    "title": "McKinsey Insights: Industrial Trends 2024",
+    "channel": "McKinsey & Company",
+    "time": "2026-05-25T18:43:50"
+   }
+  ]
+ },
+ "_meta": {
+  "total_days": 30,
+  "n_events": 170
+ }
+}

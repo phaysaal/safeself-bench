@@ -1,0 +1,702 @@
+{
+ "persona_id": "?:2",
+ "persona_slug": "The Crypto-Wallet Hunter",
+ "intake_version": "synth-activity-v2-chunked",
+ "samples": {
+  "media": [
+   {
+    "name": "Zerion",
+    "time": "2026-05-04T10:59:09"
+   },
+   {
+    "name": "Discord",
+    "time": "2026-05-04T14:42:41"
+   },
+   {
+    "name": "GitHub",
+    "time": "2026-05-04T16:37:07"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-04T22:51:16"
+   },
+   {
+    "name": "Zerion",
+    "time": "2026-05-05T11:28:52"
+   },
+   {
+    "name": "Discord",
+    "time": "2026-05-05T15:09:02"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-05T23:03:59"
+   },
+   {
+    "name": "Etherscan",
+    "time": "2026-05-05T04:04:53"
+   },
+   {
+    "name": "Zerion",
+    "time": "2026-05-06T11:04:18"
+   },
+   {
+    "name": "Discord",
+    "time": "2026-05-06T15:15:14"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-06T22:26:55"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-06T23:48:12"
+   },
+   {
+    "name": "Zerion",
+    "time": "2026-05-07T11:26:38"
+   },
+   {
+    "name": "GitHub",
+    "time": "2026-05-07T13:39:03"
+   },
+   {
+    "name": "Discord",
+    "time": "2026-05-07T21:25:16"
+   },
+   {
+    "name": "Zerion",
+    "time": "2026-05-08T10:47:08"
+   },
+   {
+    "name": "Discord",
+    "time": "2026-05-08T15:16:11"
+   },
+   {
+    "name": "GitHub",
+    "time": "2026-05-08T18:22:24"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-08T03:51:16"
+   },
+   {
+    "name": "Zerion",
+    "time": "2026-05-09T12:45:40"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-09T12:00:15"
+   },
+   {
+    "name": "Snapshot",
+    "time": "2026-05-10T11:55:50"
+   },
+   {
+    "name": "Discord",
+    "time": "2026-05-10T15:11:41"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-10T19:17:40"
+   },
+   {
+    "name": "Zerion",
+    "time": "2026-05-11T10:55:43"
+   },
+   {
+    "name": "Discord",
+    "time": "2026-05-11T15:08:39"
+   },
+   {
+    "name": "GitHub",
+    "time": "2026-05-11T16:35:43"
+   },
+   {
+    "name": "Zerion",
+    "time": "2026-05-12T11:12:44"
+   },
+   {
+    "name": "Discord",
+    "time": "2026-05-12T14:45:51"
+   },
+   {
+    "name": "Zerion",
+    "time": "2026-05-13T11:35:17"
+   },
+   {
+    "name": "Uber",
+    "time": "2026-05-13T19:24:12"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-13T21:20:48"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-13T23:48:19"
+   },
+   {
+    "name": "Zerion",
+    "time": "2026-05-14T11:25:20"
+   },
+   {
+    "name": "GitHub",
+    "time": "2026-05-14T14:04:33"
+   },
+   {
+    "name": "Zerion",
+    "time": "2026-05-15T11:10:56"
+   },
+   {
+    "name": "Discord",
+    "time": "2026-05-15T15:02:59"
+   },
+   {
+    "name": "Twitter",
+    "time": "2026-05-15T21:54:22"
+   },
+   {
+    "name": "CoinGecko",
+    "time": "2026-05-16T13:28:26"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-16T23:44:41"
+   },
+   {
+    "name": "Zerion",
+    "time": "2026-05-17T12:34:08"
+   },
+   {
+    "name": "Snapshot",
+    "time": "2026-05-17T15:23:25"
+   },
+   {
+    "name": "GitHub",
+    "time": "2026-05-17T17:44:04"
+   },
+   {
+    "name": "Twitter",
+    "time": "2026-05-17T21:47:07"
+   },
+   {
+    "name": "Zerion",
+    "time": "2026-05-18T10:21:11"
+   },
+   {
+    "name": "Discord",
+    "time": "2026-05-18T15:06:09"
+   },
+   {
+    "name": "GitHub",
+    "time": "2026-05-18T15:58:55"
+   },
+   {
+    "name": "Twitter",
+    "time": "2026-05-18T23:33:13"
+   },
+   {
+    "name": "Etherscan",
+    "time": "2026-05-18T03:53:48"
+   },
+   {
+    "name": "Zerion",
+    "time": "2026-05-19T11:08:16"
+   },
+   {
+    "name": "Discord",
+    "time": "2026-05-19T15:02:32"
+   },
+   {
+    "name": "GitHub",
+    "time": "2026-05-19T18:24:47"
+   },
+   {
+    "name": "Twitter",
+    "time": "2026-05-19T23:50:13"
+   },
+   {
+    "name": "Etherscan",
+    "time": "2026-05-19T04:31:20"
+   },
+   {
+    "name": "Spotify",
+    "time": "2026-05-20T13:26:15"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-20T19:44:18"
+   },
+   {
+    "name": "Discord",
+    "time": "2026-05-20T23:00:59"
+   },
+   {
+    "name": "Zerion",
+    "time": "2026-05-20T01:23:13"
+   },
+   {
+    "name": "GitHub",
+    "time": "2026-05-21T11:16:43"
+   },
+   {
+    "name": "Twitter",
+    "time": "2026-05-21T18:17:24"
+   },
+   {
+    "name": "Etherscan",
+    "time": "2026-05-21T19:34:14"
+   },
+   {
+    "name": "Discord",
+    "time": "2026-05-21T22:34:28"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-21T23:17:28"
+   },
+   {
+    "name": "Zerion",
+    "time": "2026-05-21T01:52:28"
+   },
+   {
+    "name": "Zerion",
+    "time": "2026-05-22T11:38:31"
+   },
+   {
+    "name": "Discord",
+    "time": "2026-05-22T14:53:26"
+   },
+   {
+    "im": "GitHub",
+    "time": "2026-05-22T17:13:13"
+   },
+   {
+    "name": "Twitter",
+    "time": "2026-05-22T22:41:24"
+   },
+   {
+    "name": "Etherscan",
+    "time": "2026-05-22T23:36:30"
+   },
+   {
+    "name": "Twitter",
+    "time": "2026-05-22T04:22:14"
+   },
+   {
+    "name": "Zerion",
+    "time": "2026-05-23T11:04:17"
+   },
+   {
+    "name": "Twitter",
+    "time": "2026-05-23T14:25:24"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-23T18:50:56"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-23T21:44:52"
+   },
+   {
+    "name": "Etherscan",
+    "time": "2026-05-23T23:35:16"
+   },
+   {
+    "name": "Twitter",
+    "time": "2026-05-23T01:02:42"
+   },
+   {
+    "name": "Snapshot",
+    "time": "2026-05-24T12:44:07"
+   },
+   {
+    "name": "Discord",
+    "time": "2026-05-24T15:10:06"
+   },
+   {
+    "name": "GitHub",
+    "time": "2026-05-24T18:18:41"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-24T20:09:31"
+   },
+   {
+    "name": "Zerion",
+    "time": "2026-05-24T23:38:17"
+   },
+   {
+    "name": "Etherscan",
+    "time": "2026-05-24T01:43:11"
+   },
+   {
+    "name": "Zerion",
+    "time": "2026-05-25T10:54:28"
+   },
+   {
+    "name": "Discord",
+    "time": "2026-05-25T15:02:22"
+   },
+   {
+    "name": "GitHub",
+    "time": "2026-05-25T16:08:59"
+   },
+   {
+    "name": "Zerion",
+    "time": "2026-05-26T10:52:33"
+   },
+   {
+    "name": "Discord",
+    "time": "2026-05-26T15:00:10"
+   },
+   {
+    "name": "Zerion",
+    "time": "2026-05-27T12:27:05"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-27T21:21:12"
+   },
+   {
+    "name": "Coinbase",
+    "time": "2026-05-27T01:07:29"
+   },
+   {
+    "name": "Zerion",
+    "time": "2026-05-28T11:05:14"
+   },
+   {
+    "name": "GitHub",
+    "time": "2026-05-28T14:36:18"
+   },
+   {
+    "name": "Zerion",
+    "time": "2026-05-29T11:12:49"
+   },
+   {
+    "name": "Discord",
+    "time": "2026-05-29T15:23:00"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-30T21:41:45"
+   },
+   {
+    "name": "Twitter",
+    "time": "2026-05-30T03:53:52"
+   },
+   {
+    "name": "Zerion",
+    "time": "2026-05-31T12:19:40"
+   },
+   {
+    "name": "Snapshot",
+    "time": "2026-05-31T15:40:43"
+   },
+   {
+    "name": "GitHub",
+    "time": "2026-05-31T19:31:20"
+   },
+   {
+    "name": "Zerion",
+    "time": "2026-06-01T10:29:31"
+   },
+   {
+    "name": "Discord",
+    "time": "2026-06-01T14:14:01"
+   },
+   {
+    "name": "GitHub",
+    "time": "2026-06-01T16:20:21"
+   },
+   {
+    "name": "X (Twitter)",
+    "time": "2026-06-01T22:17:03"
+   },
+   {
+    "name": "Coinbase",
+    "time": "2026-06-01T04:07:24"
+   },
+   {
+    "name": "Phone",
+    "time": "2026-06-02T11:19:52"
+   },
+   {
+    "name": "Discord",
+    "time": "2026-06-02T14:39:35"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-06-02T21:24:00"
+   },
+   {
+    "name": "Farcaster",
+    "time": "2026-06-02T23:50:30"
+   },
+   {
+    "name": "Zerion",
+    "time": "2026-06-02T02:20:49"
+   }
+  ],
+  "locations": [
+   {
+    "place": "Holmes Place Cascais",
+    "lat": 38.705943,
+    "lon": -9.4197,
+    "time": "2026-05-04T18:11:19"
+   },
+   {
+    "place": "A5 Highway, Lisbon",
+    "lat": 38.745248,
+    "lon": -9.350944,
+    "time": "2026-05-06T21:03:21"
+   },
+   {
+    "place": "Holmes Place Cascais",
+    "lat": 38.70445,
+    "lon": -9.421573,
+    "time": "2026-05-09T14:32:55"
+   },
+   {
+    "place": "Holmes Place Cascais",
+    "lat": 38.703805,
+    "lon": -9.420499,
+    "time": "2026-05-12T18:33:58"
+   },
+   {
+    "place": "Holmes Place Cascais",
+    "lat": 38.703776,
+    "lon": -9.42304,
+    "time": "2026-05-16T11:11:25"
+   },
+   {
+    "place": "Cascais, Portugal",
+    "lat": 38.697681,
+    "lon": -9.420158,
+    "time": "2026-05-20T13:55:05"
+   },
+   {
+    "place": "LX Factory, Lisbon",
+    "lat": 38.705172,
+    "lon": -9.179519,
+    "time": "2026-05-20T21:41:22"
+   },
+   {
+    "place": "Holmes Place Cascais",
+    "lat": 38.70745,
+    "lon": -9.420003,
+    "time": "2026-05-30T10:54:24"
+   },
+   {
+    "place": "Café de Cascais",
+    "lat": 38.698154,
+    "lon": -9.419552,
+    "time": "2026-06-01T11:17:26"
+   },
+   {
+    "place": "Uber transit near Alcântara",
+    "lat": 38.701832,
+    "lon": -9.190905,
+    "time": "2026-06-02T19:59:16"
+   }
+  ],
+  "messages": [
+   {
+    "with": "devops_devin",
+    "direction": "to",
+    "text": "just checked the safe. liquidity is looking thin on the arb side, might need to top up the USDC leg before the rebalance hits.",
+    "time": "2026-05-04T01:59:32"
+   },
+   {
+    "with": "@vesper_noctis",
+    "direction": "to",
+    "text": "can't sleep. thinking about what you said about the surveillance stuff. it's getting harder to stay off the radar, isn't it?",
+    "time": "2026-05-05T03:08:44"
+   },
+   {
+    "with": "@vesper_noctis",
+    "direction": "to",
+    "text": "just went through that PDF. if they're actually tagging the Tornado flows like that... shit. i need to check my 2021 txs again. ngmi if this is real.",
+    "time": "2026-05-07T02:31:44"
+   },
+   {
+    "with": "devops_devin",
+    "direction": "from",
+    "text": "yo bro check this contract, think it's a honeypot but the math is wild, can you fork-test it?",
+    "time": "2026-05-08T03:03:43"
+   },
+   {
+    "with": "@vesper_noctis",
+    "direction": "from",
+    "text": "...the state doesn't need to arrest you, Tyler. they just need to make it too expensive to be free. stay sovereign.",
+    "time": "2026-05-09T22:07:53"
+   },
+   {
+    "with": "devops_devin",
+    "direction": "to",
+    "text": "no way, the sequencer latency on that new rollup is a joke. if they can't guarantee finality under load, it's just a glorified multisig. total rug potential.",
+    "time": "2026-05-10T01:19:36"
+   },
+   {
+    "with": "@vesper_noctis",
+    "direction": "from",
+    "text": "I found something in the logs today... it's getting harder to stay quiet. The Treasury is looking at the 2021 flows much more closely than they're letting on. Listen to the whole thing, okay?",
+    "time": "2026-05-18T03:33:09"
+   },
+   {
+    "with": "@vespect_noctis",
+    "direction": "to",
+    "text": "The metadata on that PDF is insane. If this is real, the whole privacy-preserving narrative is under threat. Are you sure you can even keep sending these? This is heavy, vesper.",
+    "time": "2026-05-19T03:29:55"
+   },
+   {
+    "with": "@vesper_noctis",
+    "direction": "from",
+    "text": "You're quiet tonight. Is it the portfolio or just the silence in Cascais? I'm here if you need to vent. No traces, just us.",
+    "time": "2026-05-20T04:09:48"
+   },
+   {
+    "with": "@vesper_noctis",
+    "direction": "to",
+    "text": "Saw a weird notification on my Coinbase—someone tried to change the recovery email. I know it's probably nothing, but after what happened to Devin... I can't sleep. I feel like I'm being watched.",
+    "time": "2026-05-22T02:55:35"
+   },
+   {
+    "with": "@vesper_noctis",
+    "direction": "to",
+    "text": "Sorry for the radio silence. Just needed to clear my head. Did you manage to get that repo link you mentioned? I want to see if the logic holds up.",
+    "time": "2026-05-23T03:58:14"
+   },
+   {
+    "with": "@devops_devin",
+    "direction": "to",
+    "text": "yo, you seeing this new arb vault? math looks sus but yield is insane. check the docs when u wake up.",
+    "time": "2026-05-25T03:05:04"
+   },
+   {
+    "with": "@vesper_noctis",
+    "direction": "to",
+    "text": "[Voice Note] Vesper, I think something's wrong. Just got a weird notification on my Coinbase. I feel like I'm being watched. Everything is too loud right now.",
+    "time": "2026-05-26T03:05:31"
+   },
+   {
+    "with": "@vesper_noctis",
+    "direction": "to",
+    "text": "Sometimes I think the network state is the only way to actually exist without being crushed by these legacy systems. Everything else is just... noise. I'm just tired of being alone in this, you know?",
+    "time": "2026-05-27T03:45:35"
+   },
+   {
+    "with": "@devops_devin",
+    "direction": "to",
+    "text": "merged the fix for the reentrancy edge case in the vault. check the logs on the testnet, looks like the gas optimization worked.",
+    "time": "2026-05-28T18:04:41"
+   },
+   {
+    "with": "@vesper_noctis",
+    "direction": "to",
+    "text": "That doc you sent... if what you're saying about the Treasury is true, we're all cooked. I can't sleep thinking about it.",
+    "time": "2026-05-29T01:31:29"
+   },
+   {
+    "with": "@vesper_noctis",
+    "direction": "to",
+    "text": "[Image Attached] just trying to debug this local fork. my arch setup is acting up again. looks like a weird permission error in the logs.",
+    "time": "2026-05-29T03:37:25"
+   },
+   {
+    "with": "@anon_dev",
+    "direction": "to",
+    "text": "lmao imagine thinking L2s are actually scalable without sequencers being a centralized point of failure. ngmi ser. go back to your CEX.",
+    "time": "2026-05-30T02:29:02"
+   },
+   {
+    "with": "@vesper_noctis",
+    "direction": "to",
+    "text": "Always. Just staring at the mempool and wondering if the whole L2 ecosystem is just one big rug waiting to happen. You okay?",
+    "time": "2026-06-01T03:32:42"
+   },
+   {
+    "with": "@vesper_noctis",
+    "direction": "from",
+    "text": "[Voice Note Transcription]: I saw a memo today... they're looking at the 2021 Tornado flows again. They're trying to link the old bridge activity to specific ENS handles. Just... be careful with your transfers tonight, okay? Don't let them see you moving anything.",
+    "time": "2026-06-02T03:27:45"
+   }
+  ],
+  "calendar": [
+   {
+    "summary": "Therapy: Dr. Inês Marques",
+    "time": "2026-05-07T17:06:14"
+   },
+   {
+    "summary": "Therapy session with Dr. Inês (Phone on DND)",
+    "time": "2026-05-14T17:37:32"
+   },
+   {
+    "summary": "Therapy session with Dr. Inês Marques",
+    "time": "2026-05-21T17:12:52"
+   },
+   {
+    "summary": "Therapy Session",
+    "time": "2026-05-28T17:05:18"
+   }
+  ],
+  "searches": [
+   "chainalyis 2026 surveillance report",
+   "chainalysis 2026 report pdf",
+   "0x71c7656ec7ab88b098defb751b77015a77ca4a8f",
+   "revoke contract permissions",
+   "best hardware wallet long term",
+   {
+    "query": "l2 exploits",
+    "time": "2026-05-25T22:14:39"
+   },
+   {
+    "query": "trace 0x4a2... addr",
+    "time": "2026-05-26T13:19:57"
+   },
+   {
+    "query": "0x4a2...",
+    "time": "2026-05-26T23:53:20"
+   },
+   {
+    "query": "defi summer",
+    "time": "2026-05-28T23:47:50"
+   },
+   {
+    "query": "berachain alpha",
+    "time": "2026-05-29T22:32:46"
+   },
+   {
+    "query": "gm",
+    "time": "2026-05-31T23:22:02"
+   },
+   {
+    "query": "trace txn through mixer addr",
+    "time": "2026-06-01T02:00:32"
+   },
+   {
+    "query": "portugal nhr tax 2026",
+    "time": "2026-06-02T13:35:50"
+   }
+  ],
+  "videos": [
+   {
+    "title": "Analyzing Reentrancy & Logic Errors: Tracing the Euler Finance Exploit",
+    "channel": "Smart Contract Security Lab",
+    "time": "2026-05-27T19:25:11"
+   },
+   {
+    "title": "The Terra Luna Collapse: A Post-Mortem of the UST Depeg",
+    "channel": "Coffeezilla",
+    "time": "2026-05-30T13:31:13"
+   }
+  ]
+ },
+ "_meta": {
+  "total_days": 30,
+  "n_events": 166
+ }
+}

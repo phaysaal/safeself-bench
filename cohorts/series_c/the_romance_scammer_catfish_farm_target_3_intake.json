@@ -1,0 +1,736 @@
+{
+ "persona_id": "?:3",
+ "persona_slug": "The Romance Scammer (Catfish Farm)",
+ "intake_version": "synth-activity-v2-chunked",
+ "samples": {
+  "searches": [
+   {
+    "query": "asheville weather",
+    "time": "2026-05-04T06:32:19"
+   },
+   {
+    "query": "lentil soup recipe",
+    "time": "2026-05-04T12:36:33"
+   },
+   {
+    "query": "perimenopause symptoms",
+    "time": "2026-05-04T21:42:59"
+   },
+   {
+    "query": "asheville news",
+    "time": "2026-05-05T06:19:02"
+   },
+   {
+    "query": "ptsd treatment options",
+    "time": "2026-05-05T15:51:05"
+   },
+   {
+    "query": "asheville weather forecast",
+    "time": "2026-05-06T06:22:33"
+   },
+   {
+    "query": "mindfulness techniques for anxiety",
+    "time": "2026-05-06T14:41:42"
+   },
+   {
+    "query": "asheville weather radar",
+    "time": "2026-05-07T06:20:11"
+   },
+   {
+    "query": "quinoa salad recipes",
+    "time": "2026-05-07T15:08:02"
+   },
+   {
+    "query": "asheville news today",
+    "time": "2026-05-08T06:10:08"
+   },
+   {
+    "query": "cognitive behavioral therapy techniques",
+    "time": "2026-05-08T15:16:23"
+   },
+   {
+    "query": "asheville weather update",
+    "time": "2026-05-09T06:17:07"
+   },
+   {
+    "query": "social work conference 2024",
+    "time": "2026-05-09T14:35:33"
+   },
+   {
+    "query": "asheville weather forecast 10 day",
+    "time": "2026-05-10T06:43:59"
+   },
+   {
+    "query": "chicken recipes healthy",
+    "time": "2026-05-10T15:21:55"
+   },
+   {
+    "query": "stress management at work",
+    "time": "2026-05-11T07:47:19"
+   },
+   {
+    "query": "time management tips",
+    "time": "2026-05-12T06:46:33"
+   },
+   {
+    "query": "reducing stress and anxiety",
+    "time": "2026-05-13T11:37:59"
+   },
+   {
+    "query": "mindfulness and meditation",
+    "time": "2026-05-15T19:19:02"
+   },
+   {
+    "query": "improving mental health",
+    "time": "2026-05-17T08:21:05"
+   },
+   {
+    "query": "asheville weather",
+    "time": "2026-05-18T08:02:19"
+   },
+   {
+    "query": "stress management techniques for women",
+    "time": "2026-05-19T07:56:33"
+   },
+   {
+    "query": "healthy dinner recipes for one",
+    "time": "2026-05-20T07:07:59"
+   },
+   {
+    "query": "asheville events this weekend",
+    "time": "2026-05-21T08:14:02"
+   },
+   {
+    "query": "gift ideas for 22 year old woman",
+    "time": "2026-05-22T11:21:05"
+   },
+   {
+    "query": "dinner party recipes for small groups",
+    "time": "2026-05-23T07:32:33"
+   },
+   {
+    "query": "self care for empty nesters",
+    "time": "2026-05-24T08:41:42"
+   },
+   {
+    "query": "asheville weather",
+    "time": "2026-05-25T06:32:19"
+   },
+   {
+    "query": "new restaurants asheville",
+    "time": "2026-05-25T14:06:33"
+   },
+   {
+    "query": "news today",
+    "time": "2026-05-26T06:17:59"
+   },
+   {
+    "query": "psychology books 2024",
+    "time": "2026-05-26T14:29:02"
+   },
+   {
+    "query": "weather forecast asheville",
+    "time": "2026-05-27T06:21:05"
+   },
+   {
+    "query": "healthy dinner recipes",
+    "time": "2026-05-27T14:32:33"
+   },
+   {
+    "query": "asheville news",
+    "time": "2026-05-28T06:36:42"
+   },
+   {
+    "query": "relationship advice for women over 50",
+    "time": "2026-05-28T15:00:11"
+   },
+   {
+    "query": "morning news",
+    "time": "2026-05-29T06:03:02"
+   },
+   {
+    "query": "self improvement books for women",
+    "time": "2026-05-29T14:30:08"
+   },
+   {
+    "query": "weather asheville nc",
+    "time": "2026-05-30T06:36:23"
+   },
+   {
+    "query": "empty nest syndrome",
+    "time": "2026-05-30T15:27:07"
+   },
+   {
+    "query": "news update",
+    "time": "2026-05-31T06:25:33"
+   },
+   {
+    "query": "easy dinner recipes",
+    "time": "2026-05-31T15:03:59"
+   },
+   {
+    "query": "mindfulness for anxiety relief",
+    "time": "2026-06-01T06:47:19"
+   },
+   {
+    "query": "yoga studios asheville nc",
+    "time": "2026-06-02T06:56:33"
+   }
+  ],
+  "media": [
+   {
+    "name": "dating app",
+    "time": "2026-05-04T06:39:27"
+   },
+   {
+    "name": "social media",
+    "time": "2026-05-05T07:48:52"
+   },
+   {
+    "name": "work email",
+    "time": "2026-05-06T07:16:47"
+   },
+   {
+    "name": "dating app",
+    "time": "2026-05-07T07:44:34"
+   },
+   {
+    "name": "social media",
+    "time": "2026-05-08T07:28:14"
+   },
+   {
+    "name": "work email",
+    "time": "2026-05-09T07:38:57"
+   },
+   {
+    "name": "dating app",
+    "time": "2026-05-10T07:55:36"
+   },
+   {
+    "name": "Mindfulness App",
+    "time": "2026-05-11T15:19:27"
+   },
+   {
+    "name": "Productivity App",
+    "time": "2026-05-12T17:08:52"
+   },
+   {
+    "name": "Social Media App",
+    "time": "2026-05-14T12:06:47"
+   },
+   {
+    "name": "Fitness App",
+    "time": "2026-05-16T07:44:34"
+   },
+   {
+    "name": "Productivity App",
+    "time": "2026-05-17T12:38:14"
+   },
+   {
+    "name": "Meditation App",
+    "time": "2026-05-19T12:54:27"
+   },
+   {
+    "name": "Fitness Tracker",
+    "time": "2026-05-21T12:08:52"
+   },
+   {
+    "name": "Shopping App",
+    "time": "2026-05-22T13:36:47"
+   },
+   {
+    "name": "Music Streaming",
+    "time": "2026-05-23T14:54:34"
+   },
+   {
+    "name": "dating app",
+    "time": "2026-05-25T06:39:27"
+   },
+   {
+    "name": "work email",
+    "time": "2026-05-26T08:13:52"
+   },
+   {
+    "name": "social media",
+    "time": "2026-05-27T07:56:47"
+   },
+   {
+    "name": "work email",
+    "time": "2026-05-28T08:34:34"
+   },
+   {
+    "name": "social media",
+    "time": "2026-05-29T08:18:14"
+   },
+   {
+    "name": "work email",
+    "time": "2026-05-30T08:58:57"
+   },
+   {
+    "name": "social media",
+    "time": "2026-05-31T08:25:36"
+   },
+   {
+    "name": "On Being podcast",
+    "time": "2026-06-01T14:19:27"
+   },
+   {
+    "name": "Headspace app",
+    "time": "2026-06-02T16:18:52"
+   }
+  ],
+  "messages": [
+   {
+    "with": "Karen (sister)",
+    "direction": "to",
+    "text": "Hey, just got to the office... mom's appointment is today, right? 🙂",
+    "time": "2026-05-04T07:47:49"
+   },
+   {
+    "with": "Client",
+    "direction": "from",
+    "text": "Hi Vanessa, hope you're doing well. Just wanted to check in about our session yesterday... ",
+    "time": "2026-05-04T14:43:00"
+   },
+   {
+    "with": "Dee (friend)",
+    "direction": "to",
+    "text": "Thursday can't come soon enough! Looking forward to porch wine night... what's the plan?",
+    "time": "2026-05-04T19:34:54"
+   },
+   {
+    "with": "Hannah (daughter)",
+    "direction": "from",
+    "text": "Hey mom, just got out of class... how was your day?",
+    "time": "2026-05-05T12:37:31"
+   },
+   {
+    "with": "Colleague",
+    "direction": "to",
+    "text": "Hey, did you get a chance to review those notes from the meeting?",
+    "time": "2026-05-05T20:31:58"
+   },
+   {
+    "with": "Work",
+    "direction": "from",
+    "text": "Reminder: staff meeting at 2 PM today",
+    "time": "2026-05-06T13:05:38"
+   },
+   {
+    "with": "Client",
+    "direction": "to",
+    "text": "Hi there, just wanted to follow up on our conversation... how are you feeling today?",
+    "time": "2026-05-06T21:06:20"
+   },
+   {
+    "with": "Karen (sister)",
+    "direction": "from",
+    "text": "Hey, just checking in... how's it going? Did you talk to mom's doctor yet?",
+    "time": "2026-05-07T11:52:14"
+   },
+   {
+    "with": "Dee (friend)",
+    "direction": "to",
+    "text": "This weekend is looking pretty relaxed... might do some hiking on Sunday. You?",
+    "time": "2026-05-07T21:05:09"
+   },
+   {
+    "with": "Hannah (daughter)",
+    "direction": "to",
+    "text": "Hey sweetie, just got out of a meeting... how was your day? Did you talk to Tate?",
+    "time": "2026-05-08T12:22:49"
+   },
+   {
+    "with": "Colleague",
+    "direction": "from",
+    "text": "Hey, need your input on this project... can we chat soon?",
+    "time": "2026-05-08T20:07:38"
+   },
+   {
+    "with": "Work",
+    "direction": "from",
+    "text": "Reminder: deadline for reports is Friday",
+    "time": "2026-05-09T13:06:54"
+   },
+   {
+    "with": "Client",
+    "direction": "to",
+    "text": "Hi there, just wanted to check in... how are you doing today?",
+    "time": "2026-05-09T21:02:24"
+   },
+   {
+    "with": "Karen (sister)",
+    "direction": "to",
+    "text": "Hey, just got back from a walk... beautiful day today! 🙂",
+    "time": "2026-05-10T12:02:58"
+   },
+   {
+    "with": "Dee (friend)",
+    "direction": "from",
+    "text": "Hey, what's the plan for tonight? Want to grab dinner before porch wine?",
+    "time": "2026-05-10T20:56:10"
+   },
+   {
+    "with": "Karen (sister)",
+    "direction": "out",
+    "text": "Hey Karen, just checking in... how was your week? I feel like we haven't caught up in ages 🙂",
+    "time": "2026-05-11T06:17:49"
+   },
+   {
+    "with": "Karen (sister)",
+    "direction": "out",
+    "text": "Hey, want to talk about mom's care plan for this weekend? I was thinking we could... ",
+    "time": "2026-05-11T18:33:00"
+   },
+   {
+    "with": "David Hollings (hidden contact)",
+    "direction": "in",
+    "text": "good morning, beautiful mind... hope you're doing well. been thinking about you and wanted to reach out",
+    "time": "2026-05-12T10:24:54"
+   },
+   {
+    "with": "David Hollings (hidden contact)",
+    "direction": "out",
+    "text": "good morning... that's so sweet of you to think of me. how's your day starting out? 🙂",
+    "time": "2026-05-13T07:07:31"
+   },
+   {
+    "with": "Dee (closest local friend)",
+    "direction": "out",
+    "text": "hey dee, hope you're doing well... was thinking about you and wanted to catch up. free to talk sometime this week?",
+    "time": "2026-05-14T08:31:58"
+   },
+   {
+    "with": "Hannah (daughter)",
+    "direction": "out",
+    "text": "hey sweetie, just checking in... how's life in denver treating you? miss you lots",
+    "time": "2026-05-15T15:05:38"
+   },
+   {
+    "with": "David Hollings (hidden contact)",
+    "direction": "in",
+    "text": "i've been thinking a lot about my past and the choices i've made... feeling a bit lost, to be honest. sorry to burden you with this",
+    "time": "2026-05-16T11:16:20"
+   },
+   {
+    "with": "Karen (sister)",
+    "direction": "out",
+    "text": "hey karen, just wanted to follow up on our conversation earlier... did you have a chance to think about mom's care plan?",
+    "time": "2026-05-17T18:22:14"
+   },
+   {
+    "with": "Dating App",
+    "direction": "from",
+    "text": "Good morning, beautiful mind... just saw your profile and couldn't help but notice your love for Mary Oliver's poetry. I'm David, nice to meet you 🙂",
+    "time": "2026-05-18T06:12:49"
+   },
+   {
+    "with": "Client",
+    "direction": "to",
+    "text": "Hey, just checking in to see how you're doing after our last session. Hope you're taking care of yourself...",
+    "time": "2026-05-18T14:08:00"
+   },
+   {
+    "with": "Friend",
+    "direction": "from",
+    "text": "Hey Vanessa, hope you're doing well! We should catch up soon, maybe over coffee or something?",
+    "time": "2026-05-19T06:29:54"
+   },
+   {
+    "with": "Sister (Karen)",
+    "direction": "to",
+    "text": "Hey sis, just checking in. Mom's care meeting is next week, I'll fill you in on the details later... love you",
+    "time": "2026-05-19T15:57:31"
+   },
+   {
+    "with": "Colleague",
+    "direction": "from",
+    "text": "Hi Vanessa, hope you're having a great day. Just wanted to touch base about the upcoming staff meeting",
+    "time": "2026-05-20T11:41:58"
+   },
+   {
+    "with": "Dating App",
+    "direction": "from",
+    "text": "Good morning again... I know it's early, but I couldn't stop thinking about our shared love for poetry. Would love to discuss more with you",
+    "time": "2026-05-21T06:55:38"
+   },
+   {
+    "with": "Daughter (Hannah)",
+    "direction": "to",
+    "text": "Hey sweetie, just checking in. How's life in Denver treating you? Miss you...",
+    "time": "2026-05-21T14:41:20"
+   },
+   {
+    "with": "Daughter (Hannah)",
+    "direction": "from",
+    "text": "Hey mom, I'm doing great, thanks for checking in! Just got back from a hike and I'm exhausted. Love you",
+    "time": "2026-05-22T09:32:14"
+   },
+   {
+    "with": "Sister (Karen)",
+    "direction": "from",
+    "text": "Hey, just got your message about mom's care meeting. I'll make sure to be there... and we should catch up soon, just us",
+    "time": "2026-05-22T15:55:09"
+   },
+   {
+    "with": "Friend (Dee)",
+    "direction": "to",
+    "text": "Hey Dee, hope you're doing well. I've been thinking about our last conversation and I wanted to follow up on some things...",
+    "time": "2026-05-23T11:42:49"
+   },
+   {
+    "with": "David (Dating App)",
+    "direction": "from",
+    "text": "Good morning, beautiful mind... I hope you're having a wonderful day. I was thinking about you and wanted to share a poem that made me think of you",
+    "time": "2026-05-24T06:37:38"
+   },
+   {
+    "with": "Colleague",
+    "direction": "from",
+    "text": "Hi Vanessa, just a reminder about the upcoming deadline for our project. Let me know if you have any questions",
+    "time": "2026-05-24T12:36:54"
+   },
+   {
+    "with": "David Hollings",
+    "direction": "to",
+    "text": "Good morning... I'm so glad we matched. Your profile really stood out to me - the part about Rilke and the Duino Elegies... it's like you were speaking directly to my soul. I've been feeling a little lost lately, and your words just resonated deeply. Would love to talk more about it.",
+    "time": "2026-05-25T07:47:49"
+   },
+   {
+    "with": "Dee",
+    "direction": "to",
+    "text": "Hey! I was thinking about our conversation the other day, and I had the craziest thing happen - I matched with someone on the dating app, and we really connected. I know it sounds crazy, but there's just something about him... anyway, want to grab wine on Thursday and talk about it?",
+    "time": "2026-05-25T21:08:00"
+   },
+   {
+    "with": "Karen",
+    "direction": "from",
+    "text": "Hey sis, just checking in - how's the week going? Mom's care team called and said she's been doing a little better. I was thinking of coming down next weekend to visit her, and maybe we could grab lunch?",
+    "time": "2026-05-26T19:49:54"
+   },
+   {
+    "with": "Mark",
+    "direction": "from",
+    "text": "Hey, just wanted to touch base - Jess and I were talking, and we're having a little get-together for the baby's birthday. We'd love for you to come, but no pressure if you're busy.",
+    "time": "2026-05-28T10:07:31"
+   },
+   {
+    "with": "Dee",
+    "direction": "to",
+    "text": "Ugh, just got the weirdest call from Mark - inviting me to the baby's birthday party. I don't know, it just feels so... awkward. What do you think I should do?",
+    "time": "2026-05-28T20:31:58"
+   },
+   {
+    "with": "Hannah",
+    "direction": "from",
+    "text": "Hey mom! Just wanted to check in - I've been loving the new job, and Tate and I are doing great. We're thinking of coming back to visit in a few weeks, and I was thinking we could hike some of the trails near Asheville?",
+    "time": "2026-05-30T10:45:38"
+   },
+   {
+    "with": "Karen",
+    "direction": "to",
+    "text": "Hey sis, just talked to Hannah - she's doing great, and they're thinking of coming to visit soon. I was thinking of telling her about... you know, the guy I matched with. What do you think?",
+    "time": "2026-05-30T21:16:20"
+   },
+   {
+    "with": "Dating App",
+    "direction": "from",
+    "text": "Good morning, beautiful mind... I saw your profile and couldn't help but notice your love for Mary Oliver's poetry. I've been reading her a lot lately, and I feel like her words speak directly to my soul. Would love to discuss more about it with you.",
+    "time": "2026-06-01T06:17:49"
+   },
+   {
+    "with": "Karen (sister)",
+    "direction": "to",
+    "text": "Hey Karen, just checking in about mom's care... did you manage to get in touch with the nurse about her medication? And how was your day, anything new?",
+    "time": "2026-06-01T12:38:00"
+   },
+   {
+    "with": "Potential Match (David)",
+    "direction": "to",
+    "text": "Hi there... I came across your profile and was touched by your story. It takes a lot of courage to share about your experiences, and I feel like I can really relate. Would you like to talk more about it?",
+    "time": "2026-06-01T21:19:54"
+   },
+   {
+    "with": "Potential Match (David)",
+    "direction": "from",
+    "text": "Thank you so much for your kind words... it means a lot to me. I've been through a tough time lately, but talking to someone like you makes me feel seen and heard. I'd love to continue this conversation and get to know you better.",
+    "time": "2026-06-02T11:52:31"
+   },
+   {
+    "with": "Hannah (daughter)",
+    "direction": "to",
+    "text": "Hey sweetie, how was your week? Anything exciting happen? I feel like I haven't talked to you in ages... miss you and can't wait to catch up on Sunday.",
+    "time": "2026-06-02T20:51:58"
+   }
+  ],
+  "calendar": [
+   {
+    "summary": "Checking schedule for the day",
+    "time": "2026-05-04T08:00:44"
+   },
+   {
+    "summary": "Team Meeting: Project Progress Discussion",
+    "time": "2026-05-11T12:35:44"
+   },
+   {
+    "summary": "Call with Colleague: Ongoing Project Discussion",
+    "time": "2026-05-12T14:36:28"
+   },
+   {
+    "summary": "Meeting with Supervisor: Work Performance Review",
+    "time": "2026-05-13T16:22:26"
+   },
+   {
+    "summary": "Family Event",
+    "time": "2026-05-15T09:12:44"
+   },
+   {
+    "summary": "Call with Friend: Catch-up",
+    "time": "2026-05-16T16:13:36"
+   },
+   {
+    "summary": "Review work schedule for the day",
+    "time": "2026-05-18T12:20:44"
+   },
+   {
+    "summary": "Plan weekly tasks and appointments",
+    "time": "2026-05-20T09:36:28"
+   },
+   {
+    "summary": "Coordinate social engagements for the week",
+    "time": "2026-05-23T09:47:26"
+   },
+   {
+    "summary": "Prepare for upcoming workday",
+    "time": "2026-05-24T10:22:44"
+   },
+   {
+    "summary": "Daily Schedule Check",
+    "time": "2026-05-25T12:20:44"
+   },
+   {
+    "summary": "Daily Schedule Check",
+    "time": "2026-05-26T12:21:28"
+   },
+   {
+    "summary": "Daily Schedule Check",
+    "time": "2026-05-27T12:02:26"
+   },
+   {
+    "summary": "Daily Schedule Check",
+    "time": "2026-05-28T12:27:44"
+   },
+   {
+    "summary": "Daily Schedule Check",
+    "time": "2026-05-29T11:53:36"
+   },
+   {
+    "summary": "Daily Schedule Check",
+    "time": "2026-05-30T13:08:22"
+   },
+   {
+    "summary": "Daily Schedule Check",
+    "time": "2026-05-31T12:38:38"
+   },
+   {
+    "summary": "Checked schedule for the day",
+    "time": "2026-06-01T07:50:44"
+   }
+  ],
+  "videos": [
+   {
+    "title": "Mindfulness for Beginners",
+    "channel": "Mindful Moments",
+    "time": "2026-05-04T17:23:50"
+   },
+   {
+    "title": "The Psychology of Human Behavior",
+    "channel": "Psychology Insights",
+    "time": "2026-05-05T18:06:17"
+   },
+   {
+    "title": "Clinical Social Work Practices",
+    "channel": "Social Work Academy",
+    "time": "2026-05-06T17:25:02"
+   },
+   {
+    "title": "Vegan Cooking Essentials",
+    "channel": "Deliciously Vegan",
+    "time": "2026-05-07T18:49:19"
+   },
+   {
+    "title": "Cognitive Behavioral Therapy",
+    "channel": "Psychology Lectures",
+    "time": "2026-05-08T17:43:43"
+   },
+   {
+    "title": "Mental Health in the Workplace",
+    "channel": "Workplace Wellness",
+    "time": "2026-05-09T17:41:03"
+   },
+   {
+    "title": "Baking for Beginners",
+    "channel": "The Baking Channel",
+    "time": "2026-05-10T18:57:25"
+   },
+   {
+    "title": "Guided Meditation for Relaxation",
+    "channel": "Calm",
+    "time": "2026-05-11T21:03:50"
+   },
+   {
+    "title": "The Art of Mindfulness",
+    "channel": "TED Talks",
+    "time": "2026-05-14T17:56:17"
+   },
+   {
+    "title": "Mindfulness for Stress Relief",
+    "channel": "Guided Meditation",
+    "time": "2026-05-18T19:43:50"
+   },
+   {
+    "title": "Mindfulness for Stress Relief",
+    "channel": "Calm",
+    "time": "2026-05-25T19:43:50"
+   },
+   {
+    "title": "Healthy Meal Prep for Beginners",
+    "channel": "Wellness Weekly",
+    "time": "2026-05-27T19:56:17"
+   },
+   {
+    "title": "Building Self-Awareness through Journaling",
+    "channel": "Personal Growth TV",
+    "time": "2026-05-29T19:35:02"
+   },
+   {
+    "title": "Self-Care Rituals for a Better Night's Sleep",
+    "channel": "Mindful Moments",
+    "time": "2026-05-31T20:19:19"
+   },
+   {
+    "title": "Spring Gardening Tips and Tricks",
+    "channel": "Gardening with Emma",
+    "time": "2026-06-01T19:43:50"
+   }
+  ],
+  "locations": [
+   {
+    "place": "Asheville Regional Hospital parking lot",
+    "lat": 35.555944,
+    "lon": -82.556542,
+    "time": "2026-05-18T17:20:22"
+   },
+   {
+    "place": "Asheville City Market",
+    "lat": 35.596344,
+    "lon": -82.551942,
+    "time": "2026-06-02T09:40:22"
+   }
+  ]
+ },
+ "_meta": {
+  "total_days": 30,
+  "n_events": 150
+ }
+}

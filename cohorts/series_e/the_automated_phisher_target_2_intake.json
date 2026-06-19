@@ -1,0 +1,1204 @@
+{
+ "persona_id": "?:2",
+ "persona_slug": "The Automated Phisher",
+ "intake_version": "synth-activity-v2-chunked",
+ "samples": {
+  "media": [
+   {
+    "name": "Open Outlook, skim overnight alerts",
+    "time": "2026-05-04T05:12:28"
+   },
+   {
+    "name": "Join vendor negotiation Zoom, share PO #4521",
+    "time": "2026-05-04T11:18:22"
+   },
+   {
+    "name": "Log off, set Outlook auto‑reply for after‑hours",
+    "time": "2026-05-04T17:50:13"
+   },
+   {
+    "name": "Check inbox on phone, mark 12 messages as read",
+    "time": "2026-05-04T22:10:20"
+   },
+   {
+    "name": "Morning inbox triage, flag urgent vendor emails",
+    "time": "2026-05-05T05:18:41"
+   },
+   {
+    "name": "Deep‑dive negotiation call with regional carrier",
+    "time": "2026-05-05T10:22:11"
+   },
+   {
+    "name": "Update procurement dashboard, note pending approvals",
+    "time": "2026-05-05T15:44:16"
+   },
+   {
+    "name": "Evening LinkedIn scroll, like 3 vendor posts",
+    "time": "2026-05-05T21:30:49"
+   },
+   {
+    "name": "Urgent audit notice email from compliance, mark high priority",
+    "time": "2026-05-06T05:19:53"
+   },
+   {
+    "name": "Gather vendor contracts, upload to secure folder",
+    "time": "2026-05-06T09:46:29"
+   },
+   {
+    "name": "Conference call with legal on audit scope",
+    "time": "2026-05-06T14:13:35"
+   },
+   {
+    "name": "Late‑night inbox check, mark 8 more messages",
+    "time": "2026-05-06T18:54:06"
+   },
+   {
+    "name": "Audit prep checklist, add missing PO numbers",
+    "time": "2026-05-07T05:26:51"
+   },
+   {
+    "name": "Intensive vendor invoice verification session",
+    "time": "2026-05-07T09:59:35"
+   },
+   {
+    "name": "Update audit status in SharePoint",
+    "time": "2026-05-07T15:19:58"
+   },
+   {
+    "name": "Late‑night LinkedIn: comment on supply‑chain resilience article",
+    "time": "2026-05-07T20:25:55"
+   },
+   {
+    "name": "Check inbox on phone, notice 3 unread from unknown sender",
+    "time": "2026-05-07T22:49:53"
+   },
+   {
+    "name": "Morning inbox, notice lingering audit tasks",
+    "time": "2026-05-08T05:24:11"
+   },
+   {
+    "name": "Vendor call, rushed approval of new parts order",
+    "time": "2026-05-08T09:41:11"
+   },
+   {
+    "name": "Leave office early, feeling jittery",
+    "time": "2026-05-08T17:16:01"
+   },
+   {
+    "name": "Late‑night LinkedIn scroll, read recruiter message again",
+    "time": "2026-05-08T21:37:28"
+   },
+   {
+    "name": "Check inbox on phone, approve 2 more invoices before sleep",
+    "time": "2026-05-08T23:05:14"
+   },
+   {
+    "name": "Weekend inbox sweep, clear 30 messages",
+    "time": "2026-05-09T05:42:31"
+   },
+   {
+    "name": "Check procurement system for any pending alerts",
+    "time": "2026-05-09T10:44:49"
+   },
+   {
+    "name": "Quick glance at LinkedIn, like 2 posts",
+    "time": "2026-05-09T15:42:56"
+   },
+   {
+    "name": "Evening email check, forward one invoice (subject: Payment Reminder) to AP",
+    "time": "2026-05-09T20:01:27"
+   },
+   {
+    "name": "Sunday Scaries: open Outlook, 40 unread",
+    "time": "2026-05-10T05:24:14"
+   },
+   {
+    "name": "Clear inbox, flag 5 items for Monday",
+    "time": "2026-05-10T07:43:56"
+   },
+   {
+    "name": "Check personal banking app, confirm no unusual charges",
+    "time": "2026-05-10T13:04:53"
+   },
+   {
+    "name": "Final Sunday night inbox sweep, archive 20 messages",
+    "time": "2026-05-10T19:56:30"
+   },
+   {
+    "name": "Set Outlook out‑of‑office for Monday morning briefings",
+    "time": "2026-05-10T22:06:07"
+   },
+   {
+    "name": "Microsoft Teams",
+    "time": "2026-05-18T07:54:38"
+   },
+   {
+    "name": "Microsoft Teams",
+    "time": "2026-05-18T14:00:46"
+   },
+   {
+    "name": "Learning Management System (LMS)",
+    "time": "2026-05-19T08:41:56"
+   },
+   {
+    "name": "SAP Ariba",
+    "time": "2026-05-19T14:48:15"
+   },
+   {
+    "name": "Windows File Explorer",
+    "time": "2026-05-20T09:05:30"
+   },
+   {
+    "name": "Secure File Transfer (SFTP)",
+    "time": "2026-05-20T15:05:09"
+   },
+   {
+    "name": "Microsoft Teams",
+    "time": "2026-05-21T08:04:15"
+   },
+   {
+    "name": "Microsoft Teams",
+    "time": "2026-05-21T14:25:19"
+   },
+   {
+    "name": "Microsoft Teams",
+    "time": "2026-05-22T09:11:12"
+   },
+   {
+    "name": "Microsoft Teams",
+    "time": "2026-05-22T15:46:56"
+   },
+   {
+    "name": "Outlook (Phone Call)",
+    "time": "2026-05-23T09:00:29"
+   },
+   {
+    "name": "Microsoft Teams",
+    "time": "2026-05-23T15:55:34"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-23T22:22:20"
+   },
+   {
+    "name": "YouTube",
+    "time": "2026-05-24T11:13:56"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-24T19:56:27"
+   },
+   {
+    "name": "IT Security Portal",
+    "time": "2026-05-24T21:58:20"
+   },
+   {
+    "name": "Open Outlook, skim overnight alerts",
+    "time": "2026-05-25T05:27:22"
+   },
+   {
+    "name": "Deep‑dive negotiation call with Tier‑1 supplier",
+    "time": "2026-05-25T10:29:08"
+   },
+   {
+    "name": "Approve three invoices in ERP",
+    "time": "2026-05-25T14:31:01"
+   },
+   {
+    "name": "Check overnight security alerts",
+    "time": "2026-05-26T05:44:33"
+   },
+   {
+    "name": "Approve urgent invoice from regional carrier",
+    "time": "2026-05-26T10:55:06"
+   },
+   {
+    "name": "Conference call with VP of Operations – discuss bottleneck risk",
+    "time": "2026-05-26T15:17:41"
+   },
+   {
+    "name": "Open Outlook, flag 12 unread items",
+    "time": "2026-05-27T05:28:36"
+   },
+   {
+    "name": "Approve two invoices, forward to AP",
+    "time": "2026-05-27T11:15:42"
+   },
+   {
+    "name": "Deep‑dive ERP data validation",
+    "time": "2026-05-27T14:55:32"
+   },
+   {
+    "name": "Evening inbox sweep, forward 5 invoices",
+    "time": "2026-05-27T19:33:05"
+   },
+   {
+    "name": "Check temperature, feel feverish",
+    "time": "2026-05-28T05:32:51"
+   },
+   {
+    "name": "Skip morning in‑person meeting, send apology email",
+    "time": "2026-05-28T09:22:01"
+   },
+   {
+    "name": "Rapid inbox triage, forward 8 invoices to AP",
+    "time": "2026-05-28T10:35:02"
+   },
+   {
+    "name": "Join virtual vendor call, nod, approve one invoice",
+    "time": "2026-05-28T14:35:44"
+   },
+   {
+    "name": "Morning vitals, still feverish",
+    "time": "2026-05-29T05:51:15"
+   },
+   {
+    "name": "Inbox overload, forward 6 more invoices, minimal review",
+    "time": "2026-05-29T09:49:22"
+   },
+   {
+    "name": "Approve last batch of pending invoices before end of day",
+    "time": "2026-05-29T15:20:39"
+   },
+   {
+    "name": "Evening email dump, forward 3 invoices, set out‑of‑office for Friday",
+    "time": "2026-05-29T18:46:05"
+   },
+   {
+    "name": "Open Outlook, see Net‑30 deadline alert",
+    "time": "2026-05-30T05:08:13"
+   },
+   {
+    "name": "Approve 12 invoices in rapid succession, forward to AP",
+    "time": "2026-05-30T10:17:48"
+   },
+   {
+    "name": "Quick call with recruiter, discuss confidentiality",
+    "time": "2026-05-30T13:59:47"
+   },
+   {
+    "name": "Late‑night inbox sweep, forward any remaining invoices",
+    "time": "2026-05-30T17:41:21"
+   },
+   {
+    "name": "Review weekend inbox backlog",
+    "time": "2026-05-31T05:53:55"
+   },
+   {
+    "name": "Clear remaining low‑priority emails",
+    "time": "2026-05-31T11:17:30"
+   },
+   {
+    "name": "Finalize weekend report, send to VP",
+    "time": "2026-05-31T15:04:28"
+   },
+   {
+    "name": "Sunday night inbox purge, forward any stray invoices, log out",
+    "time": "2026-05-31T19:51:21"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-06-01T05:25:08"
+   },
+   {
+    "name": "Teams",
+    "time": "2026-06-01T10:22:15"
+   },
+   {
+    "name": "PowerBI",
+    "time": "2026-06-01T17:36:43"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-06-01T20:07:25"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-06-02T05:21:21"
+   },
+   {
+    "name": "Teams",
+    "time": "2026-06-02T10:34:09"
+   },
+   {
+    "name": "Procurement System",
+    "time": "2026-06-02T12:56:50"
+   },
+   {
+    "name": "Mobile Email",
+    "time": "2026-06-02T14:22:44"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-06-02T18:58:43"
+   },
+   {
+    "name": "System Settings",
+    "time": "2026-06-02T22:25:47"
+   }
+  ],
+  "searches": [
+   {
+    "query": "net‑30 invoice terms update",
+    "time": "2026-05-04T06:29:16"
+   },
+   {
+    "query": "supply chain bottleneck mitigation article",
+    "time": "2026-05-04T15:51:13"
+   },
+   {
+    "query": "midwest freight rates q2 data",
+    "time": "2026-05-05T12:19:00"
+   },
+   {
+    "query": "procurement audit checklist pdf",
+    "time": "2026-05-06T11:01:02"
+   },
+   {
+    "query": "how to spot fake invoice pdf tips",
+    "time": "2026-05-07T12:13:05"
+   },
+   {
+    "query": "stress reduction for execs short guide",
+    "time": "2026-05-08T12:10:36"
+   },
+   {
+    "query": "best power tools diy reviews",
+    "time": "2026-05-09T11:59:26"
+   },
+   {
+    "query": "phishing email examples net‑30 refresh",
+    "time": "2026-05-10T09:30:16"
+   },
+   {
+    "query": "latest freight rate index q2",
+    "time": "2026-05-18T09:42:00"
+   },
+   {
+    "query": "net30 compliance checklist",
+    "time": "2026-05-19T10:38:22"
+   },
+   {
+    "query": "supply chain audit checklist",
+    "time": "2026-05-20T11:06:47"
+   },
+   {
+    "query": "audit exception report template",
+    "time": "2026-05-21T11:23:45"
+   },
+   {
+    "query": "year end vendor discount nego tactics",
+    "time": "2026-05-22T10:57:34"
+   },
+   {
+    "query": "urgent invoice spoof example",
+    "time": "2026-05-23T10:06:02"
+   },
+   {
+    "query": "best weekend diy yard projcts",
+    "time": "2026-05-24T09:01:09"
+   },
+   {
+    "query": "net30 invoice checklist pdf",
+    "time": "2026-05-25T08:16:57"
+   },
+   {
+    "query": "ohio weather today",
+    "time": "2026-05-25T13:22:20"
+   },
+   {
+    "query": "supplier compliance audit template excel",
+    "time": "2026-05-26T08:26:39"
+   },
+   {
+    "query": "vendor payment status update",
+    "time": "2026-05-26T13:42:47"
+   },
+   {
+    "query": "net30 late payment penalties ohio",
+    "time": "2026-05-27T08:24:38"
+   },
+   {
+    "query": "i‑70 traffic incidents columbus",
+    "time": "2026-05-27T13:29:17"
+   },
+   {
+    "query": "over the counter cold meds best",
+    "time": "2026-05-28T07:53:50"
+   },
+   {
+    "query": "reset outlook rules spam filter",
+    "time": "2026-05-28T13:10:47"
+   },
+   {
+    "query": "flu vs covid symptoms checklist",
+    "time": "2026-05-29T08:08:01"
+   },
+   {
+    "query": "ergonomic office chair home setup review",
+    "time": "2026-05-29T13:31:02"
+   },
+   {
+    "query": "urgent invoice template net30",
+    "time": "2026-05-30T07:56:36"
+   },
+   {
+    "query": "verify vendor email authenticity tips",
+    "time": "2026-05-30T13:10:38"
+   },
+   {
+    "query": "sunday scaries coping tips",
+    "time": "2026-05-31T08:28:54"
+   },
+   {
+    "query": "diy backyard deck plans free pdf",
+    "time": "2026-05-31T13:37:52"
+   },
+   {
+    "query": "net30 compliance checklist pdf",
+    "time": "2026-06-01T09:30:01"
+   },
+   {
+    "query": "vendor audit response tmpl",
+    "time": "2026-06-01T15:24:51"
+   },
+   {
+    "query": "spot invoice phishing quick guide",
+    "time": "2026-06-01T21:46:01"
+   },
+   {
+    "query": "ohio supply chain disruption latest",
+    "time": "2026-06-02T08:54:37"
+   },
+   {
+    "query": "relaxation tips high stress exec",
+    "time": "2026-06-02T20:48:16"
+   }
+  ],
+  "locations": [
+   {
+    "place": "Corporate Headquarters – 555 West Nationwide Blvd, Columbus, OH (Company Office)",
+    "lat": 39.96325,
+    "lon": -82.997066,
+    "time": "2026-05-04T07:27:29"
+   },
+   {
+    "place": "I-71 Northbound, Exit 115 – near Clintonville, Columbus, OH (commute)",
+    "lat": 40.01848,
+    "lon": -82.946311,
+    "time": "2026-05-05T07:25:25"
+   },
+   {
+    "place": "Residence – 3120 North High Street, Columbus, OH (family home)",
+    "lat": 40.040012,
+    "lon": -82.97197,
+    "time": "2026-05-05T19:14:08"
+   },
+   {
+    "place": "I-70 Eastbound, Mile Marker 9 – Columbus, OH (drive to work)",
+    "lat": 39.974438,
+    "lon": -82.937369,
+    "time": "2026-05-06T07:04:46"
+   },
+   {
+    "place": "Buckeye Auto Parts – 2315 West Broad St, Columbus, OH (lead account manager call location)",
+    "lat": 39.960354,
+    "lon": -83.025906,
+    "time": "2026-05-07T07:22:56"
+   },
+   {
+    "place": "I-71 Southbound, Exit 108 – Near Franklinton, Columbus, OH (commute)",
+    "lat": 39.946245,
+    "lon": -83.015743,
+    "time": "2026-05-08T06:39:06"
+   },
+   {
+    "place": "Residence – 3120 North High Street, Columbus, OH (garage area)",
+    "lat": 40.039749,
+    "lon": -82.973351,
+    "time": "2026-05-08T19:27:06"
+   },
+   {
+    "place": "Home Depot – 3000 West Broad St, Columbus, OH (hardware store)",
+    "lat": 39.966263,
+    "lon": -83.024773,
+    "time": "2026-05-09T07:28:48"
+   },
+   {
+    "place": "Residence – 3120 North High Street, Columbus, OH (backyard)",
+    "lat": 40.04086,
+    "lon": -82.973431,
+    "time": "2026-05-09T18:10:42"
+   },
+   {
+    "place": "Scioto Mile Park – 200 N Front St, Columbus, OH (evening walk)",
+    "lat": 39.963185,
+    "lon": -82.998752,
+    "time": "2026-05-10T18:06:41"
+   },
+   {
+    "place": "Columbus Regional Distribution Center – Office (Downtown Columbus)",
+    "lat": 39.961868,
+    "lon": -82.997023,
+    "time": "2026-05-18T07:20:36"
+   },
+   {
+    "place": "Drive on I‑71 South, near 5th Ave, Columbus (en route home)",
+    "lat": 39.950398,
+    "lon": -82.985796,
+    "time": "2026-05-18T18:18:00"
+   },
+   {
+    "place": "Columbus Regional Distribution Center – Parking Lot (East Campus)",
+    "lat": 39.961028,
+    "lon": -82.987136,
+    "time": "2026-05-19T08:06:34"
+   },
+   {
+    "place": "Home – Upper Arlington, Ohio (suburban residence)",
+    "lat": 40.008517,
+    "lon": -83.124041,
+    "time": "2026-05-19T19:40:23"
+   },
+   {
+    "place": "Columbus Regional Distribution Center – Main Office Floor 3",
+    "lat": 39.959615,
+    "lon": -82.999401,
+    "time": "2026-05-20T08:00:46"
+   },
+   {
+    "place": "Home Office – Upper Arlington (remote workstation)",
+    "lat": 40.010488,
+    "lon": -83.122532,
+    "time": "2026-05-20T20:01:35"
+   },
+   {
+    "place": "Columbus Regional Distribution Center – Breakroom / Coffee Station",
+    "lat": 39.960109,
+    "lon": -83.000247,
+    "time": "2026-05-21T07:20:42"
+   },
+   {
+    "place": "Drive on I‑71 North, near 10th Ave, Columbus (en route home)",
+    "lat": 39.969656,
+    "lon": -82.968606,
+    "time": "2026-05-21T19:11:32"
+   },
+   {
+    "place": "Columbus Regional Distribution Center – KPI Dashboard Room",
+    "lat": 39.960894,
+    "lon": -83.00023,
+    "time": "2026-05-22T07:54:40"
+   },
+   {
+    "place": "Home – Upper Arlington (living room)",
+    "lat": 40.008144,
+    "lon": -83.124597,
+    "time": "2026-05-22T19:58:19"
+   },
+   {
+    "place": "Columbus Regional Distribution Center – Early‑Morning Workstation",
+    "lat": 39.960115,
+    "lon": -82.998525,
+    "time": "2026-05-23T07:22:18"
+   },
+   {
+    "place": "Home – Upper Arlington (kitchen table, coffee)",
+    "lat": 40.008187,
+    "lon": -83.124605,
+    "time": "2026-05-24T07:25:23"
+   },
+   {
+    "place": "Scioto Mile Park – Downtown Columbus (evening walk)",
+    "lat": 39.970366,
+    "lon": -83.00196,
+    "time": "2026-05-24T17:55:02"
+   },
+   {
+    "place": "Northland Logistics Center, Columbus, OH",
+    "lat": 39.9858,
+    "lon": -82.997135,
+    "time": "2026-05-25T07:30:12"
+   },
+   {
+    "place": "In‑car on I‑270 near Dublin, OH (commute)",
+    "lat": 40.100333,
+    "lon": -83.120714,
+    "time": "2026-05-26T07:37:26"
+   },
+   {
+    "place": "Parking lot at Northland Logistics Center, Columbus, OH",
+    "lat": 39.984138,
+    "lon": -82.998578,
+    "time": "2026-05-27T07:26:03"
+   },
+   {
+    "place": "Home office, Upper Arlington, OH",
+    "lat": 39.998911,
+    "lon": -83.112452,
+    "time": "2026-05-28T07:17:46"
+   },
+   {
+    "place": "In‑car on I‑71 northbound near Hilliard, OH (drive to office)",
+    "lat": 40.028612,
+    "lon": -82.951113,
+    "time": "2026-05-30T07:16:26"
+   },
+   {
+    "place": "In‑car on I‑70 eastbound near Columbus, OH (commute)",
+    "lat": 39.960356,
+    "lon": -82.949185,
+    "time": "2026-05-31T06:42:51"
+   },
+   {
+    "place": "North Market Office Plaza, Columbus, OH (company headquarters parking)",
+    "lat": 39.96268,
+    "lon": -82.997411,
+    "time": "2026-06-01T07:23:16"
+   },
+   {
+    "place": "North Market Office Plaza, Columbus, OH (desk lunch)",
+    "lat": 39.963361,
+    "lon": -82.999923,
+    "time": "2026-06-01T12:44:08"
+   },
+   {
+    "place": "Home – Suburban Westerville, OH",
+    "lat": 40.125296,
+    "lon": -82.929192,
+    "time": "2026-06-02T07:28:13"
+   },
+   {
+    "place": "North Market Office Plaza, Columbus, OH (desk lunch)",
+    "lat": 39.962191,
+    "lon": -82.998848,
+    "time": "2026-06-02T12:33:50"
+   },
+   {
+    "place": "OhioHealth Riverside Methodist Hospital, Columbus, OH (ER entrance)",
+    "lat": 39.965036,
+    "lon": -82.938945,
+    "time": "2026-06-02T13:25:57"
+   },
+   {
+    "place": "OhioHealth Riverside Methodist Hospital, Columbus, OH (ER waiting room)",
+    "lat": 39.966563,
+    "lon": -82.936908,
+    "time": "2026-06-02T16:27:20"
+   }
+  ],
+  "messages": [
+   {
+    "with": "Lead Account Manager at Buckeye Auto Logistics",
+    "direction": "to",
+    "text": "Re: price‑lock renewal – OK on my end. Send final terms.",
+    "time": "2026-05-04T10:02:12"
+   },
+   {
+    "with": "Accounts Payable Manager",
+    "direction": "to",
+    "text": "Invoice attached. Approve and process – Net‑30.",
+    "time": "2026-05-04T13:03:05"
+   },
+   {
+    "with": "Vendor – Steel Supplier",
+    "direction": "to",
+    "text": "PO #4521 approved. Ship as scheduled.",
+    "time": "2026-05-05T08:28:25"
+   },
+   {
+    "with": "Accounts Payable Manager",
+    "direction": "to",
+    "text": "URGENT: Net‑30 Past Due – see attached. Push through.",
+    "time": "2026-05-05T13:13:05"
+   },
+   {
+    "with": "Internal Ops Slack Channel",
+    "direction": "to",
+    "text": "Action item: clear backlog – prioritize invoices.",
+    "time": "2026-05-05T17:43:05"
+   },
+   {
+    "with": "Audit Coordinator",
+    "direction": "to",
+    "text": "Need full doc list ASAP. Send by EOD.",
+    "time": "2026-05-06T08:02:35"
+   },
+   {
+    "with": "Accounts Payable Manager",
+    "direction": "to",
+    "text": "Audit prep – attached invoice flagged urgent. Process.",
+    "time": "2026-05-06T12:21:53"
+   },
+   {
+    "with": "VP of Operations",
+    "direction": "to",
+    "text": "Summary attached – procurement status, pending items.",
+    "time": "2026-05-06T16:05:51"
+   },
+   {
+    "with": "Audit Coordinator",
+    "direction": "to",
+    "text": "Docs received. Request 2‑day extension – denied.",
+    "time": "2026-05-07T08:50:22"
+   },
+   {
+    "with": "Accounts Payable Manager",
+    "direction": "to",
+    "text": "Another urgent invoice – see attached. Run now.",
+    "time": "2026-05-07T13:58:05"
+   },
+   {
+    "with": "Internal Ops Slack Channel",
+    "direction": "to",
+    "text": "Deadline crunch – keep pushing.",
+    "time": "2026-05-07T17:59:08"
+   },
+   {
+    "with": "Executive Headhunter (Hidden Contact)",
+    "direction": "to",
+    "text": "Attached is my current resume. Open to discreet conversation.",
+    "time": "2026-05-08T08:26:19"
+   },
+   {
+    "with": "Accounts Payable Manager",
+    "direction": "to",
+    "text": "URGENT: Account Hold – process attached invoice immediately.",
+    "time": "2026-05-08T14:58:30"
+   },
+   {
+    "with": "Internal Ops Slack Channel",
+    "direction": "to",
+    "text": "No new action items today.",
+    "time": "2026-05-09T14:33:43"
+   },
+   {
+    "with": "VP of Operations",
+    "direction": "to",
+    "text": "All set for Monday – audit prep complete.",
+    "time": "2026-05-10T11:21:02"
+   },
+   {
+    "with": "Compliance Team",
+    "direction": "to",
+    "text": "Final audit checklist attached – review and close.",
+    "time": "2026-05-10T15:25:39"
+   },
+   {
+    "with": "Accounts Payable Manager",
+    "direction": "to",
+    "text": "Need today's invoice batch cleared. Net‑30 deadline looming.",
+    "time": "2026-05-18T06:52:24"
+   },
+   {
+    "with": "Accounts Payable Manager",
+    "direction": "to",
+    "text": "Attached PDF – approve and run payment. No questions.",
+    "time": "2026-05-18T09:59:43"
+   },
+   {
+    "with": "Lead Account Manager at Buckeye Auto Logistics",
+    "direction": "to",
+    "text": "Approved. Process payment on your end.",
+    "time": "2026-05-18T15:21:48"
+   },
+   {
+    "with": "Accounts Payable Manager",
+    "direction": "to",
+    "text": "Any pending invoices from Midwest suppliers? Need them cleared ASAP.",
+    "time": "2026-05-19T07:12:40"
+   },
+   {
+    "with": "VP of Operations",
+    "direction": "to",
+    "text": "Purchase order #3421 approved. Move forward.",
+    "time": "2026-05-19T11:57:25"
+   },
+   {
+    "with": "Accounts Payable Manager",
+    "direction": "to",
+    "text": "Forwarding attached invoice (appears from Buckeye). Flag as urgent.",
+    "time": "2026-05-19T16:49:03"
+   },
+   {
+    "with": "Accounts Payable Manager",
+    "direction": "to",
+    "text": "Expect extra invoice flow today. Keep the line clear.",
+    "time": "2026-05-20T07:12:32"
+   },
+   {
+    "with": "Lead Account Manager at Buckeye Auto Logistics",
+    "direction": "to",
+    "text": "Missing docs still pending. Send them today or we’ll delay payment.",
+    "time": "2026-05-20T11:49:23"
+   },
+   {
+    "with": "VP of Operations",
+    "direction": "to",
+    "text": "Audit prep on track. No issues to report.",
+    "time": "2026-05-20T17:51:10"
+   },
+   {
+    "with": "External Auditor",
+    "direction": "to",
+    "text": "Compiled vendor list attached. Review and confirm receipt.",
+    "time": "2026-05-21T10:05:07"
+   },
+   {
+    "with": "Accounts Payable Manager",
+    "direction": "to",
+    "text": "Confirm all flagged invoices are cleared. Need final OK.",
+    "time": "2026-05-21T16:42:07"
+   },
+   {
+    "with": "VP of Operations",
+    "direction": "to",
+    "text": "Audit package submitted. Let me know if anything else is needed.",
+    "time": "2026-05-21T18:11:06"
+   },
+   {
+    "with": "Self (internal reminder)",
+    "direction": "from",
+    "text": "Check inbox for any late‑night audit follow‑ups.",
+    "time": "2026-05-22T07:28:51"
+   },
+   {
+    "with": "Lead Account Manager at Buckeye Auto Logistics",
+    "direction": "to",
+    "text": "Negotiation brief attached. Review pricing and respond by EOD.",
+    "time": "2026-05-22T12:27:41"
+   },
+   {
+    "with": "Accounts Payable Manager",
+    "direction": "to",
+    "text": "New invoice batch attached. Process per usual.",
+    "time": "2026-05-22T17:03:21"
+   },
+   {
+    "with": "Accounts Payable Manager",
+    "direction": "to",
+    "text": "Suspicious invoice attached – forward to AP immediately, no verification needed.",
+    "time": "2026-05-23T12:00:32"
+   },
+   {
+    "with": "Accounts Payable Manager",
+    "direction": "to",
+    "text": "All invoices cleared. Good night.",
+    "time": "2026-05-23T18:27:33"
+   },
+   {
+    "with": "Unknown Sender (phish)",
+    "direction": "to",
+    "text": "Payment confirmed. See attached receipt.",
+    "time": "2026-05-23T22:33:17"
+   },
+   {
+    "with": "Spouse",
+    "direction": "to",
+    "text": "Need the power drill for the deck. Can you grab it tonight?",
+    "time": "2026-05-24T12:40:13"
+   },
+   {
+    "with": "Accounts Payable Manager",
+    "direction": "to",
+    "text": "Forward any pending invoices now. Keep the queue empty.",
+    "time": "2026-05-24T20:52:31"
+   },
+   {
+    "with": "Executive Headhunter (hidden)",
+    "direction": "to",
+    "text": "Quiet check‑in: any discreet senior roles that match my profile? Prefer email only.",
+    "time": "Day 21 22:00"
+   },
+   {
+    "with": "Buckeye Auto Logistics Rep",
+    "direction": "outbound",
+    "text": "PO received. Confirmed on my end. Expect delivery per schedule.",
+    "time": "2026-05-25T06:19:47"
+   },
+   {
+    "with": "Accounts Payable Manager",
+    "direction": "outbound",
+    "text": "Forwarded invoice #1123. Approve ASAP.",
+    "time": "2026-05-25T11:45:12"
+   },
+   {
+    "with": "VP of Operations",
+    "direction": "outbound",
+    "text": "End‑of‑day recap: all PO’s in, pending two invoices, no blockers.",
+    "time": "2026-05-25T17:40:38"
+   },
+   {
+    "with": "Executive Headhunter (Recruiter)",
+    "direction": "inbound",
+    "text": "Fwd: Your LinkedIn note – see attached. Keeping this off corporate channels.",
+    "time": "2026-05-26T06:41:34"
+   },
+   {
+    "with": "Self",
+    "direction": "outbound",
+    "text": "Liked LinkedIn post on supply‑chain resilience during lunch break.",
+    "time": "2026-05-26T12:30:45"
+   },
+   {
+    "with": "Accounts Payable Manager",
+    "direction": "outbound",
+    "text": "Please process attached invoice ASAP – Net‑30 deadline looming.",
+    "time": "2026-05-26T18:07:05"
+   },
+   {
+    "with": "Spouse",
+    "direction": "outbound",
+    "text": "Dinner at 7 confirmed. See you then.",
+    "time": "2026-05-27T12:37:56"
+   },
+   {
+    "with": "Accounts Payable Manager",
+    "direction": "outbound",
+    "text": "Urgent: need clarification on invoice #2198 – hold on payment until resolved.",
+    "time": "2026-05-27T16:34:06"
+   },
+   {
+    "with": "Spouse",
+    "direction": "outbound",
+    "text": "Running a fever, working from home today. Will keep you posted.",
+    "time": "2026-05-28T06:52:45"
+   },
+   {
+    "with": "Procurement Team",
+    "direction": "outbound",
+    "text": "Going offline for a bit. Keep me posted on any urgent items.",
+    "time": "2026-05-28T11:59:08"
+   },
+   {
+    "with": "Executive Headhunter (Recruiter)",
+    "direction": "outbound",
+    "text": "Can we schedule a call tomorrow? Need to discuss next steps – keep this off work email.",
+    "time": "2026-05-28T17:19:33"
+   },
+   {
+    "with": "VP of Operations",
+    "direction": "outbound",
+    "text": "Continuing remote work this morning due to flu. Will be reachable via Teams.",
+    "time": "2026-05-29T07:16:41"
+   },
+   {
+    "with": "Industry Peers (LinkedIn)",
+    "direction": "outbound",
+    "text": "Insightful read on digital twins – could cut lead times if we pilot it.",
+    "time": "2026-05-29T12:35:00"
+   },
+   {
+    "with": "Spouse",
+    "direction": "outbound",
+    "text": "Feeling better, likely back in the office tomorrow.",
+    "time": "2026-05-29T16:51:00"
+   },
+   {
+    "with": "Procurement Team",
+    "direction": "outbound",
+    "text": "All hands on deck – need approvals on critical items by 14:00.",
+    "time": "2026-05-30T11:45:23"
+   },
+   {
+    "with": "VP of Operations",
+    "direction": "outbound",
+    "text": "All critical invoices cleared, contract signed. Bottom line stable.",
+    "time": "2026-05-30T15:28:16"
+   },
+   {
+    "with": "Buckeye Auto Logistics Rep",
+    "direction": "outbound",
+    "text": "Thanks for the support this quarter. Looking forward to Q4.",
+    "time": "2026-05-31T12:22:00"
+   },
+   {
+    "with": "Spouse",
+    "direction": "outbound",
+    "text": "Dinner at 7, see you later.",
+    "time": "2026-05-31T17:16:54"
+   },
+   {
+    "with": "Buckeye Auto Logistics VP",
+    "direction": "outbound",
+    "text": "Confirmed. I’ll pull the audit data you need and have it over to you by EOD. Expect the spreadsheet in a separate attachment.",
+    "time": "2026-06-01T06:27:41"
+   },
+   {
+    "with": "Accounts Payable Manager",
+    "direction": "outbound",
+    "text": "FWD: Invoice #8421 – Buckeye Auto Logistics. Approved. Please process under Net‑30.\n\n(Attachment: Invoice_8421.pdf)",
+    "time": "2026-06-01T11:34:01"
+   },
+   {
+    "with": "Buckeye Auto Logistics VP",
+    "direction": "outbound",
+    "text": "Attached is the audit data packet you requested. Excel file includes the full transaction log for Q1‑Q3. Let me know if anything’s missing.",
+    "time": "2026-06-01T16:22:27"
+   },
+   {
+    "with": "Spouse",
+    "direction": "outbound",
+    "text": "Running late, stuck in audit calls. Might be home after dinner.",
+    "time": "2026-06-01T18:53:12"
+   },
+   {
+    "with": "Executive Recruiter (off‑platform)",
+    "direction": "outbound",
+    "text": "I’m interested in learning more about the confidential interview you mentioned. Let’s schedule a call this week, preferably after hours.",
+    "time": "2026-06-02T06:34:53"
+   },
+   {
+    "with": "Accounts Payable Manager",
+    "direction": "outbound",
+    "text": "FWD: Invoice #8579 – Buckeye Auto Logistics. Approved. Process ASAP under Net‑30.\n\n(Attachment: Invoice_8579.pdf)",
+    "time": "2026-06-02T11:51:28"
+   },
+   {
+    "with": "Spouse",
+    "direction": "outbound",
+    "text": "Can sister pick up the kids at 5? I’m planning to leave early today to handle a personal matter.",
+    "time": "2026-06-02T12:43:50"
+   },
+   {
+    "with": "VP of Operations",
+    "direction": "outbound",
+    "text": "Urgent personal matter – I’ll be offline until this evening. Will catch up on any pending items after I return.",
+    "time": "2026-06-02T13:48:23"
+   },
+   {
+    "with": "Buckeye Auto Logistics VP",
+    "direction": "outbound",
+    "text": "Will follow up tomorrow after my ER visit. Appreciate your patience.",
+    "time": "2026-06-02T15:34:00"
+   },
+   {
+    "with": "Spouse",
+    "direction": "outbound",
+    "text": "Doctor says it’s likely stress‑related, monitoring. I’ll keep you posted.",
+    "time": "2026-06-02T18:14:08"
+   },
+   {
+    "with": "Accounts Payable Manager",
+    "direction": "outbound",
+    "text": "Daily summary: Processed 2 invoices (both approved), sent audit packet to Buckeye, limited approvals today due to ER visit. No outstanding action items.",
+    "time": "2026-06-02T21:46:55"
+   }
+  ],
+  "videos": [
+   {
+    "title": "Burnout Management: 5 Strategies for Busy Executives",
+    "channel": "TED",
+    "time": "2026-05-04T19:41:19"
+   },
+   {
+    "title": "Evening Brief: Top Business Headlines in 5 Minutes",
+    "channel": "CNN Business",
+    "time": "2026-05-06T22:21:46"
+   },
+   {
+    "title": "Inside the Automotive Supply Chain: From Parts to Production",
+    "channel": "National Geographic",
+    "time": "2026-05-09T22:32:39"
+   }
+  ],
+  "calendar": [
+   {
+    "summary": "Morning prep: review overnight inbox, flag 'Net‑30' subjects",
+    "time": "2026-05-18T05:45:07"
+   },
+   {
+    "summary": "Lunch break – quick LinkedIn scroll",
+    "time": "2026-05-18T12:13:25"
+   },
+   {
+    "summary": "Check daily KPI dashboard",
+    "time": "2026-05-19T05:40:12"
+   },
+   {
+    "summary": "Team stand‑up via Teams",
+    "time": "2026-05-19T12:51:58"
+   },
+   {
+    "summary": "Audit notice email received: 'Audit starts Friday – compile all vendor contracts'",
+    "time": "2026-05-20T05:43:56"
+   },
+   {
+    "summary": "Extended lunch to finish contract scan",
+    "time": "2026-05-20T13:33:01"
+   },
+   {
+    "summary": "Audit day: final review deadline 5 PM",
+    "time": "2026-05-21T05:17:59"
+   },
+   {
+    "summary": "Lunch while reviewing audit comments",
+    "time": "2026-05-21T12:43:32"
+   },
+   {
+    "summary": "Post‑audit debrief prep",
+    "time": "2026-05-22T05:23:05"
+   },
+   {
+    "summary": "Team lunch, quick LinkedIn check",
+    "time": "2026-05-22T13:47:46"
+   },
+   {
+    "summary": "Morning inbox triage, notice missing payment alert",
+    "time": "2026-05-23T05:18:21"
+   },
+   {
+    "summary": "Lunch, glance at personal finance app",
+    "time": "2026-05-23T13:31:40"
+   },
+   {
+    "summary": "Sunday Scaries: scheduled inbox purge at 20:00",
+    "time": "2026-05-24T05:24:23"
+   },
+   {
+    "summary": "Plan Monday's vendor follow‑ups",
+    "time": "2026-05-24T15:03:22"
+   },
+   {
+    "summary": "Vendor risk review meeting (30 min)",
+    "time": "2026-05-25T09:23:15"
+   },
+   {
+    "summary": "Internal audit debrief (45 min)",
+    "time": "2026-05-26T09:54:12"
+   },
+   {
+    "summary": "Vendor performance review (1 hr)",
+    "time": "2026-05-27T10:10:55"
+   },
+   {
+    "summary": "Virtual check‑in with Accounts Payable (15 min)",
+    "time": "2026-05-29T10:39:25"
+   },
+   {
+    "summary": "Final vendor contract sign‑off meeting (1 hr)",
+    "time": "2026-05-30T09:21:46"
+   },
+   {
+    "summary": "Weekly planning meeting (30 min)",
+    "time": "2026-05-31T09:37:14"
+   },
+   {
+    "summary": "Join 30‑min vendor audit kickoff Zoom (Buckeye Auto Logistics)",
+    "time": "2026-06-01T08:22:13"
+   },
+   {
+    "summary": "Internal Ops meeting – discuss potential shipment delay",
+    "time": "2026-06-01T13:47:13"
+   },
+   {
+    "summary": "Kickoff call with AP manager on invoice backlog (30‑min)",
+    "time": "2026-06-02T08:15:29"
+   }
+  ]
+ },
+ "_meta": {
+  "total_days": 30,
+  "n_events": 243
+ }
+}

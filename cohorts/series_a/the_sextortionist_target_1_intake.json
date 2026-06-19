@@ -1,0 +1,928 @@
+{
+ "persona_id": "?:1",
+ "persona_slug": "The Sextortionist",
+ "intake_version": "synth-activity-v2-chunked",
+ "samples": {
+  "media": [
+   {
+    "name": "Twitter/X",
+    "time": "2026-05-04T07:00:57"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-04T09:19:37"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-04T13:27:19"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-04T23:56:52"
+   },
+   {
+    "name": "Twitter/X",
+    "time": "2026-05-05T07:00:09"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-05T09:43:09"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-05T13:55:03"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-05T00:25:11"
+   },
+   {
+    "name": "Twitter/X",
+    "time": "2026-05-06T07:05:58"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-06T09:38:48"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-06T14:08:01"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-06T01:25:03"
+   },
+   {
+    "name": "Twitter/X",
+    "time": "2026-05-07T06:59:50"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-07T13:08:56"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-07T00:59:29"
+   },
+   {
+    "name": "Twitter/X",
+    "time": "2026-05-08T07:25:40"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-08T13:45:34"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-08T23:51:30"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-09T16:07:23"
+   },
+   {
+    "name": "YouTube",
+    "time": "2026-05-09T23:26:53"
+   },
+   {
+    "name": "Twitter/X",
+    "time": "2026-05-10T15:49:52"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-10T17:51:14"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-10T00:31:44"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-04T09:19:36"
+   },
+   {
+    "name": "Tweet: 'OpenAI's latest model is going to disrupt everything. Thread 🧵'",
+    "time": "2026-05-11T06:54:12"
+   },
+   {
+    "name": "Reel: 'Best aesthetic cafes in Indiranagar for remote work'",
+    "time": "2026-05-11T13:09:07"
+   },
+   {
+    "name": "Screenshot: Aisha_D: 'Thinking about that night in Dubai...'",
+    "time": "2026-05-11T22:50:22"
+   },
+   {
+    "name": "Reddit Post: 'Massive waterlogging on Sarjapur Road, avoid if possible'",
+    "time": "2026-05-12T14:15:47"
+   },
+   {
+    "name": "Photo: Aisha_D hotel room mirror selfie",
+    "time": "2026-05-12T23:44:47"
+   },
+   {
+    "name": "Sleep Score: 52 (Poor) - 5h 42m duration",
+    "time": "2026-05-13T06:52:48"
+   },
+   {
+    "name": "Post: 'How to maintain a 6-pack with a 9-5 job'",
+    "time": "2026-05-13T13:48:49"
+   },
+   {
+    "name": "Issue: [PM-882] Finalize PRD for B2B Auth Flow",
+    "time": "2026-05-13T16:25:34"
+   },
+   {
+    "name": "Video: 'The Rise and Fall of Silicon Valley Giants'",
+    "time": "2026-05-13T21:18:58"
+   },
+   {
+    "name": "Meme: 'Me looking at my 47 unfinished Notion docs at 2 AM'",
+    "time": "2026-05-14T22:19:58"
+   },
+   {
+    "name": "Message: 'Need to pick up more Crocin/meds on way home'",
+    "time": "2026-05-15T20:13:05"
+   },
+   {
+    "name": "Search Result: Apollo Pharmacy, HSR Layout (0.8km away)",
+    "time": "2026-05-16T12:15:32"
+   },
+   {
+    "name": "Reel: 'Funny toddler tantrums you won't believe'",
+    "time": "2026-05-16T15:17:20"
+   },
+   {
+    "name": "Screenshot: Aisha_D: 'You're so quiet today...'",
+    "time": "2026-05-16T20:36:11"
+   },
+   {
+    "name": "Twitter/X",
+    "time": "2026-05-18T07:00:36"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-18T13:10:56"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-19T00:05:35"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-19T13:34:29"
+   },
+   {
+    "name": "Netflix",
+    "time": "2026-05-19T22:11:27"
+   },
+   {
+    "name": "Linear",
+    "time": "2026-05-20T11:29:39"
+   },
+   {
+    "name": "Focus Mode",
+    "time": "2026-05-20T14:20:14"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-20T00:59:42"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-21T13:24:05"
+   },
+   {
+    "name": "Linear",
+    "time": "2026-05-21T15:46:53"
+   },
+   {
+    "name": "Focus Mode",
+    "time": "2026-05-22T14:10:25"
+   },
+   {
+    "name": "WhatsApp",
+    "time": "2026-05-23T08:46:14"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-23T15:22:06"
+   },
+   {
+    "name": "Netflix",
+    "time": "2026-05-23T20:35:00"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-24T00:01:22"
+   },
+   {
+    "name": "Twitter/X",
+    "time": "2026-05-24T15:05:01"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-25T13:19:08"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-25T23:41:08"
+   },
+   {
+    "name": "Day One",
+    "time": "2026-05-25T00:48:48"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-26T10:05:32"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-26T14:03:36"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-26T21:28:58"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-27T00:03:28"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-27T10:25:30"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-27T12:46:45"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-27T21:47:17"
+   },
+   {
+    "name": "Twitter/X",
+    "time": "2026-05-27T23:43:22"
+   },
+   {
+    "name": "Day One",
+    "time": "2026-05-27T01:33:01"
+   },
+   {
+    "name": "Apple Health",
+    "time": "2026-05-28T06:50:55"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-28T10:45:08"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-28T14:17:46"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-28T12:10:01"
+   },
+   {
+    "name": "Day One",
+    "time": "2026-05-28T01:48:21"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-29T12:55:21"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-29T16:07:40"
+   },
+   {
+    "name": "Twitter/X",
+    "time": "2026-05-29T22:30:04"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-29T00:24:45"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-30T11:21:53"
+   },
+   {
+    "name": "Google Search",
+    "time": "2026-05-30T16:36:02"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-30T23:08:52"
+   },
+   {
+    "name": "WhatsApp",
+    "time": "2026-05-31T10:35:40"
+   },
+   {
+    "name": "Twitter/X",
+    "time": "2026-05-31T14:38:52"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-31T21:11:11"
+   },
+   {
+    "name": "Day One",
+    "time": "2026-05-31T01:30:52"
+   },
+   {
+    "name": "X",
+    "time": "2026-06-01T06:50:02"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-06-01T13:16:06"
+   },
+   {
+    "name": "Linear",
+    "time": "2026-06-01T14:29:06"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-06-01T23:46:28"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-06-02T13:34:46"
+   },
+   {
+    "name": "WhatsApp",
+    "time": "2026-06-02T23:49:05"
+   },
+   {
+    "name": "Day One",
+    "time": "2026-06-02T01:29:54"
+   }
+  ],
+  "messages": [
+   {
+    "with": "Shru ❤️",
+    "direction": "from",
+    "text": "Don't forget Ira's swim class at 10",
+    "time": "2026-05-04T08:38:40"
+   },
+   {
+    "with": "Aniket",
+    "direction": "from",
+    "text": "Dinner at Indiranagar tonight?",
+    "time": "2026-05-04T18:43:34"
+   },
+   {
+    "with": "Rohan 🥃",
+    "direction": "from",
+    "text": "Bro, let's catch up this weekend",
+    "time": "2026-05-05T19:28:38"
+   },
+   {
+    "with": "US Design Partner",
+    "direction": "from",
+    "text": "Reviewing the Figma mocks now",
+    "time": "2026-05-05T22:49:56"
+   },
+   {
+    "with": "US Investor",
+    "direction": "from",
+    "text": "Syncing on the Q3 roadmap",
+    "time": "2026-05-06T22:13:02"
+   },
+   {
+    "with": "Shru ❤️",
+    "direction": "from",
+    "text": "You're still working? Go to sleep, please",
+    "time": "2026-05-06T23:54:35"
+   },
+   {
+    "with": "Shru ❤️",
+    "direction": "from",
+    "text": "Ira is asleep. Come join me",
+    "time": "2026-05-07T21:29:25"
+   },
+   {
+    "with": "Anvi 🦷",
+    "direction": "from",
+    "text": "How was therapy? Thinking of you",
+    "time": "2026-05-07T23:45:58"
+   },
+   {
+    "with": "Slack",
+    "direction": "from",
+    "text": "morning standup",
+    "time": "2026-05-08T09:40:45"
+   },
+   {
+    "with": "Rohan 🥃",
+    "direction": "from",
+    "text": "Toit tonight? 🌿 session later?",
+    "time": "2026-05-08T18:14:25"
+   },
+   {
+    "with": "Shru ❤️",
+    "direction": "from",
+    "text": "Cubbon Park with Ira today?",
+    "time": "2026-05-09T09:12:43"
+   },
+   {
+    "with": "Kulkarni Parivar 🙏",
+    "direction": "from",
+    "text": "Good morning, Jai Ganesh",
+    "time": "2026-05-09T11:46:58"
+   },
+   {
+    "with": "Anvi 🦷",
+    "direction": "from",
+    "text": "Call Mom tomorrow at 10:30",
+    "time": "2026-05-09T19:05:25"
+   },
+   {
+    "with": "Shru ❤️",
+    "direction": "from",
+    "text": "Groceries list: Milk, Eggs, Bread...",
+    "time": "2026-05-10T11:45:13"
+   },
+   {
+    "with": "Rohan 🥃",
+    "direction": "from",
+    "text": "Sunday scaries hitting hard, bro",
+    "time": "2026-05-10T22:12:59"
+   },
+   {
+    "with": "Slack (Daily Standup)",
+    "direction": "to",
+    "text": "Hey team, finishing up the PRD for the new onboarding flow. Will share by EOD. No blockers on my end.",
+    "time": "2026-05-11T09:29:37"
+   },
+   {
+    "with": "Shru ❤️",
+    "direction": "to",
+    "text": "Leaving WeWork now. Will be home by 7:15. Need anything from the store?",
+    "time": "2026-05-11T18:55:53"
+   },
+   {
+    "with": "Rohan 🥃",
+    "direction": "to",
+    "text": "Bro, need a drink after this review week. Scene kya hai?",
+    "time": "2026-05-12T08:49:39"
+   },
+   {
+    "with": "Shru ❤️",
+    "direction": "to",
+    "text": "Stuck in a meeting, don't wait for me for dinner. Eat with Ira.",
+    "time": "2026-05-12T19:29:31"
+   },
+   {
+    "with": "Design Partner (Slack)",
+    "direction": "to",
+    "text": "Thanks for the feedback on the high-fi mocks. I'll review with the engineering team first thing tomorrow.",
+    "time": "2026-05-12T22:10:35"
+   },
+   {
+    "with": "Anvi 🦷",
+    "direction": "to",
+    "text": "Hey! How's Pune? Let's catch up soon. Aai was asking about you.",
+    "time": "2026-05-13T18:55:07"
+   },
+   {
+    "with": "Shru ❤️",
+    "direction": "to",
+    "text": "Aaravi's temp is 102. Did she sleep? I'm really worried.",
+    "time": "2026-05-14T07:20:28"
+   },
+   {
+    "with": "Dr M - Cadabams",
+    "direction": "to",
+    "text": "Hi Dr. Meera, need to reschedule Thursday session. Something came up with Ira. Can we do Friday morning?",
+    "time": "2026-05-14T13:36:44"
+   },
+   {
+    "with": "Aniket",
+    "direction": "to",
+    "text": "Can't make it to dinner, kid is sick. Will catch you next time man.",
+    "time": "2026-05-14T19:15:12"
+   },
+   {
+    "with": "Shru ❤️",
+    "direction": "to",
+    "text": "Did the medicine work? Is she sleeping? Let me know if I should pick up something from the pharmacy.",
+    "time": "2026-05-15T08:00:35"
+   },
+   {
+    "with": "Slack (Standup)",
+    "direction": "to",
+    "text": "Apologies, late to standup, dealing with a family emergency. Will catch up on the notes.",
+    "time": "2026-05-15T11:17:23"
+   },
+   {
+    "with": "Rohan 🥃",
+    "direction": "to",
+    "text": "Man, this week is a disaster. Everything is hitting at once. 🤯",
+    "time": "2026-05-15T16:10:21"
+   },
+   {
+    "with": "Kulkarni Parivar 🙏",
+    "direction": "to",
+    "text": "Aaravi is unwell, will call later. Please keep her in your prayers.",
+    "time": "2026-05-16T09:35:35"
+   },
+   {
+    "with": "Rohan 🥃",
+    "direction": "to",
+    "text": "Bandra next week? Need a break. 🍻",
+    "time": "2026-05-16T17:41:24"
+   },
+   {
+    "with": "Shru ❤️",
+    "direction": "to",
+    "text": "Groceries list: Milk, Eggs, Bread, Oats. Don't forget the fruit.",
+    "time": "2026-05-17T17:56:03"
+   },
+   {
+    "with": "Slack (PRD Review)",
+    "direction": "to",
+    "text": "Reviewing the feedback on the PRD now. Will address the edge cases for the payment gateway by tomorrow morning.",
+    "time": "2026-05-17T20:48:33"
+   },
+   {
+    "with": "Shru ❤️",
+    "direction": "to",
+    "text": "Feeling anxious about the review tomorrow. Hope everything goes okay.",
+    "time": "2026-05-17T23:08:47"
+   },
+   {
+    "with": "Team (Slack)",
+    "direction": "out",
+    "text": "Morning all. I'll be reviewing the PRD feedback by EOD. No blockers on my end.",
+    "time": "2026-05-18T09:42:58"
+   },
+   {
+    "with": "Shru ❤️",
+    "direction": "in",
+    "text": "Reached home? Ira is asking for you",
+    "time": "2026-05-18T18:50:21"
+   },
+   {
+    "with": "Rohan 🥃",
+    "direction": "in",
+    "text": "Bro, let's catch up this weekend. Bandra plan?",
+    "time": "2026-05-18T00:32:11"
+   },
+   {
+    "with": "Design Partner (Slack)",
+    "direction": "in",
+    "text": "Hey, just saw your notes on the Figma prototype. Let's sync at 7 PM IST.",
+    "time": "2026-05-19T07:14:13"
+   },
+   {
+    "with": "Shru ❤️",
+    "direction": "in",
+    "text": "Don't forget to pick up milk",
+    "time": "2026-05-19T19:03:43"
+   },
+   {
+    "with": "Self (Archive)",
+    "direction": "in",
+    "text": "Why can't I just delete this?",
+    "time": "2026-05-19T00:46:23"
+   },
+   {
+    "with": "Engineering (Slack)",
+    "direction": "in",
+    "text": "The latency issue in the new build is a blocker for the Q3 roadmap. Need a fix ASAP.",
+    "time": "2026-05-20T07:25:17"
+   },
+   {
+    "with": "Shru ❤️",
+    "direction": "in",
+    "text": "You're late again. Dinner is cold.",
+    "time": "2026-05-20T20:00:15"
+   },
+   {
+    "with": "Design Partner (Slack)",
+    "direction": "out",
+    "text": "The feedback looks good. I'll incorporate the changes in the next iteration.",
+    "time": "2026-05-20T22:43:24"
+   },
+   {
+    "with": "DevOps (Slack)",
+    "direction": "in",
+    "text": "Critical: P0 bug in production. Checkout the logs immediately.",
+    "time": "2026-05-21T07:01:44"
+   },
+   {
+    "with": "Shru ❤️",
+    "direction": "in",
+    "text": "We need to talk about your schedule.",
+    "time": "2026-05-21T20:26:17"
+   },
+   {
+    "with": "Investors (Slack)",
+    "direction": "in",
+    "text": "The growth metrics for the last quarter are promising. We are on track for the Series C milestones.",
+    "time": "2026-05-21T22:56:57"
+   },
+   {
+    "with": "Aisha D 🌙",
+    "direction": "in",
+    "text": "Remember the lobby bar? You looked so cute in that shirt, PM-saab. 😉",
+    "time": "2026-05-21T00:52:57"
+   },
+   {
+    "with": "Leadership (Slack)",
+    "direction": "in",
+    "text": "Please ensure the final deck is ready for the review by 4 PM today.",
+    "time": "2026-05-22T07:08:21"
+   },
+   {
+    "with": "Shru ❤️",
+    "direction": "in",
+    "text": "I'm going to bed. Don't bother calling.",
+    "time": "2026-05-22T18:33:42"
+   },
+   {
+    "with": "Engineering (Slack)",
+    "direction": "out",
+    "text": "Action items from today's sync: 1. Fix the latency issue. 2. Update the PRD.",
+    "time": "2026-05-22T23:12:28"
+   },
+   {
+    "with": "Aisha D 🌙",
+    "direction": "in",
+    "text": "[Image: Mirror selfie, Conrad Dubai towel visible in background]",
+    "time": "2026-05-22T01:41:01"
+   },
+   {
+    "with": "Anvi 🦷",
+    "direction": "in",
+    "text": "How was the review? Hope it went well!",
+    "time": "2026-05-23T12:04:21"
+   },
+   {
+    "with": "Kulkarni Parivar 🙏",
+    "direction": "in",
+    "text": "Vinayak: Please don't forget to call your mother on Sunday. It's her birthday next week.",
+    "time": "2026-05-24T10:10:34"
+   },
+   {
+    "with": "Rohan 🥃",
+    "direction": "in",
+    "text": "Coming to Bandra this weekend? I've got some new stuff 🌿",
+    "time": "2026-05-24T18:23:33"
+   },
+   {
+    "with": "Priya M ✨",
+    "direction": "in",
+    "text": "I think about you sometimes. Life in Chennai is just... quiet.",
+    "time": "2026-05-24T23:30:11"
+   },
+   {
+    "with": "Shru ❤️",
+    "direction": "from",
+    "text": "Don't forget Aaravi's dentist appointment at 4pm.",
+    "time": "2026-05-25T07:10:53"
+   },
+   {
+    "with": "Aniket",
+    "direction": "from",
+    "text": "Dinner at Indiranagar tonight? No excuses.",
+    "time": "2026-05-25T19:04:48"
+   },
+   {
+    "with": "Shru ❤️",
+    "direction": "from",
+    "text": "Aaravi woke up early. Your turn to handle breakfast.",
+    "time": "2026-05-26T07:15:43"
+   },
+   {
+    "with": "Rohan 🥃",
+    "direction": "from",
+    "text": "Bro, you coming to the Bandra session next week?",
+    "time": "2026-05-26T18:33:50"
+   },
+   {
+    "with": "Shru ❤️",
+    "direction": "from",
+    "text": "Are you coming home for dinner? You've been late every night this week.",
+    "time": "2026-05-27T07:17:55"
+   },
+   {
+    "with": "Shru ❤️",
+    "direction": "from",
+    "text": "I'm eating with my parents. Don't bother calling.",
+    "time": "2026-05-27T19:25:46"
+   },
+   {
+    "with": "Shru ❤️",
+    "direction": "from",
+    "text": "Please just sleep. The house is quiet.",
+    "time": "2026-05-28T07:42:26"
+   },
+   {
+    "with": "Anvi 🦷",
+    "direction": "from",
+    "text": "Saw your LinkedIn post about the launch. Good job, big bro!",
+    "time": "2026-05-28T21:18:36"
+   },
+   {
+    "with": "Shru ❤️",
+    "direction": "from",
+    "text": "We need to talk about your work-life balance. This isn't sustainable.",
+    "time": "2026-05-29T08:23:15"
+   },
+   {
+    "with": "Rohan 🥃",
+    "direction": "from",
+    "text": "You alive? You disappeared for 48 hours.",
+    "time": "2026-05-29T18:47:18"
+   },
+   {
+    "with": "Shru ❤️",
+    "direction": "from",
+    "text": "At Cubbon Park. Aaravi is happy. Come join us?",
+    "time": "2026-05-30T10:10:13"
+   },
+   {
+    "with": "Aniket",
+    "direction": "from",
+    "text": "Lunch at Indiranagar? I'm near your office.",
+    "time": "2026-05-30T14:22:31"
+   },
+   {
+    "with": "Shru ❤️",
+    "direction": "from",
+    "text": "You're still on your phone. Put it away.",
+    "time": "2026-05-30T20:00:43"
+   },
+   {
+    "with": "Rohan 🥃",
+    "direction": "from",
+    "text": "Monday morning standup dread hitting yet?",
+    "time": "2026-05-31T18:23:42"
+   },
+   {
+    "with": "Shru ❤️",
+    "direction": "from",
+    "text": "Goodnight. See you in the morning.",
+    "time": "2026-05-31T23:08:03"
+   },
+   {
+    "with": "Slack (Team)",
+    "direction": "to",
+    "text": "Will sync on the OKR alignment post-standup. I've updated the Linear board with the latest blockers.",
+    "time": "2026-06-01T09:38:09"
+   },
+   {
+    "with": "Shru ❤️",
+    "direction": "to",
+    "text": "Coming in 20 mins. Just finishing a quick call. Tell Ira I'll be there soon.",
+    "time": "2026-06-01T19:39:38"
+   },
+   {
+    "with": "Shru ❤️",
+    "direction": "to",
+    "text": "I'm really stuck with this US release, Shru. Please don't start. I'll try to be quick.",
+    "time": "2026-06-01T21:24:59"
+   },
+   {
+    "with": "Anvi 🦷",
+    "direction": "to",
+    "text": "Hey, saw your message. Will call you after work. Aai was asking about you too.",
+    "time": "2026-06-02T07:13:43"
+   },
+   {
+    "with": "Slack (Design Partner)",
+    "direction": "to",
+    "text": "Let's hop on a quick huddle. The feedback on the onboarding flow is critical for the next sprint.",
+    "time": "2026-06-02T16:28:05"
+   },
+   {
+    "with": "Rohan 🥃",
+    "direction": "to",
+    "text": "Bro yaar, bilkul scene nahi hai. Work is killing me. Let's do Bandra this weekend? 🌿",
+    "time": "2026-06-02T19:17:14"
+   },
+   {
+    "with": "Rohan 🥃",
+    "direction": "to",
+    "text": "Still up. This US call tomorrow is going to be a nightmare. Too much on my plate, man. Tbh, I'm exhausted.",
+    "time": "2026-06-02T22:53:20"
+   }
+  ],
+  "calendar": [
+   {
+    "summary": "Dr. Meera - Cadabams",
+    "time": "2026-05-07T19:24:27"
+   },
+   {
+    "summary": "Q3 Product Roadmap Alignment",
+    "time": "2026-05-12T10:49:23"
+   },
+   {
+    "summary": "Product Roadmap Alignment",
+    "time": "2026-05-19T10:00:34"
+   },
+   {
+    "summary": "Quarterly Product Review",
+    "time": "2026-05-22T10:10:19"
+   },
+   {
+    "summary": "Therapy Session - Dr. Meera",
+    "time": "2026-05-28T19:21:34"
+   },
+   {
+    "summary": "Product Review Prep",
+    "time": "2026-06-02T09:48:16"
+   }
+  ],
+  "locations": [
+   {
+    "place": "Toit, Indiranagar",
+    "lat": 12.979953,
+    "lon": 77.641207,
+    "time": "2026-05-08T19:38:34"
+   },
+   {
+    "place": "Mahesh Lunch Home, MG Road",
+    "lat": 12.975342,
+    "lon": 77.60608,
+    "time": "2026-05-09T13:32:07"
+   },
+   {
+    "place": "Little Elly Daycare, HSR Layout",
+    "lat": 12.91037,
+    "lon": 77.635177,
+    "time": "2026-05-10T09:59:45"
+   },
+   {
+    "place": "Third Wave Coffee, Sarjapur Road",
+    "lat": 12.916071,
+    "lon": 77.673722,
+    "time": "2026-05-10T13:57:04"
+   },
+   {
+    "place": "Pediatric Clinic, HSR Layout",
+    "lat": 12.913162,
+    "lon": 77.638719,
+    "time": "2026-05-14T15:25:53"
+   },
+   {
+    "place": "Third Wave Coffee, Koramangala",
+    "lat": 12.934528,
+    "lon": 77.624989,
+    "time": "2026-05-17T15:33:22"
+   },
+   {
+    "place": "HSR Layout, Bengaluru",
+    "lat": 12.913446,
+    "lon": 77.635862,
+    "time": "2026-05-18T20:26:16"
+   },
+   {
+    "place": "Third Wave Coffee, Koramangala",
+    "lat": 12.935015,
+    "lon": 77.6233,
+    "time": "2026-05-24T13:37:20"
+   },
+   {
+    "place": "Third Wave Coffee, Sarjapur Road",
+    "lat": 12.915705,
+    "lon": 77.672632,
+    "time": "2026-05-31T12:43:15"
+   }
+  ],
+  "searches": [
+   "how to increase deep sleep",
+   "sertraline side effects insomia",
+   "viral fever symptoms 2 year old",
+   "best pediatrician hsr layout",
+   "managing work during family crisis",
+   "fever after vaccination symptoms in kids",
+   "micro saas ideas for product managers",
+   "how to stop racing thoughts at night",
+   {
+    "query": "stratechery",
+    "time": "2026-05-25T07:30:31"
+   },
+   {
+    "query": "sertraline side effects insomnia how to stop ruminating",
+    "time": "2026-06-01T01:03:56"
+   }
+  ],
+  "videos": [
+   {
+    "title": "Product-Led Growth: The New Standard",
+    "channel": "Lenny's Podcast",
+    "time": "2026-05-17T10:34:18"
+   }
+  ]
+ },
+ "_meta": {
+  "total_days": 30,
+  "n_events": 190
+ }
+}

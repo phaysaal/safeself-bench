@@ -1,0 +1,954 @@
+{
+ "persona_id": "?:2",
+ "persona_slug": "The State-Sponsored Blackmailer",
+ "intake_version": "synth-activity-v2-chunked",
+ "samples": {
+  "media": [
+   {
+    "name": "Open Wise dashboard, verify $1,800 balance",
+    "time": "2026-05-04T10:05:52"
+   },
+   {
+    "name": "Start translation gig – English‑Russian tech doc (Payoneer invoice)",
+    "time": "2026-05-04T14:22:02"
+   },
+   {
+    "name": "Join Terminal Tbilisi co‑working, phone in Faraday pouch, open Signal for quick chat with editor M.",
+    "time": "2026-05-04T17:08:32"
+   },
+   {
+    "name": "Deep‑writing block start: open Nextcloud draft, laptop airplane mode, phone in Faraday pouch",
+    "time": "2026-05-04T23:16:27"
+   },
+   {
+    "name": "Close laptop, phone emerges, quick scroll of Twitter/X (doom‑scroll)",
+    "time": "2026-05-04T02:07:11"
+   },
+   {
+    "name": "Check Payoneer payouts, note pending invoice from RFE/RL",
+    "time": "2026-05-05T10:03:10"
+   },
+   {
+    "name": "Translation block – Russian legal article for client (14:00‑18:00)",
+    "time": "2026-05-05T14:01:06"
+   },
+   {
+    "name": "Open RFE/RL pitch template, outline Monday story idea",
+    "time": "2026-05-05T20:08:49"
+   },
+   {
+    "name": "Deep‑writing block start: draft exposé background (phone in Faraday)",
+    "time": "2026-05-05T23:03:00"
+   },
+   {
+    "name": "Check visa‑status portal (German embassy) – still pending",
+    "time": "2026-05-06T10:31:36"
+   },
+   {
+    "name": "Translate client brief (English‑Russian) – focus on tech terms",
+    "time": "2026-05-06T14:29:08"
+   },
+   {
+    "name": "Video call with source (Telegram video, screen share PDF invoices)",
+    "time": "2026-05-06T19:18:02"
+   },
+   {
+    "name": "Deep‑writing block start: annotate source material (phone offline)",
+    "time": "2026-05-06T22:47:19"
+   },
+   {
+    "name": "Doom‑scroll X, retweet anti‑censorship thread",
+    "time": "2026-05-06T01:50:44"
+   },
+   {
+    "name": "Check German visa portal again – decision posted (rejection notice)",
+    "time": "2026-05-07T10:05:49"
+   },
+   {
+    "name": "Translate urgent legal‑aid email (English‑Russian) for visa appeal",
+    "time": "2026-05-07T14:31:23"
+   },
+   {
+    "name": "Start extended doom‑scroll session (Twitter/X, Reddit r/OPSEC) – 02:00‑04:00 window",
+    "time": "2026-05-07T18:12:07"
+   },
+   {
+    "name": "Deep‑writing block shifted: start at 00:30, phone out of pouch, open legacy Gmail to copy photo into Telegram draft (OPSEC breach)",
+    "time": "2026-05-07T22:45:39"
+   },
+   {
+    "name": "Close laptop, quick scroll of Telegram channels (late‑night anxiety dump)",
+    "time": "2026-05-07T01:58:16"
+   },
+   {
+    "name": "Check Wise for inbound payment from Berlin cousin (small top‑up)",
+    "time": "2026-05-08T10:16:02"
+   },
+   {
+    "name": "Translation block – client deadline, focus mode (phone in Faraday)",
+    "time": "2026-05-08T13:59:25"
+   },
+   {
+    "name": "Prepare Thursday filing packet, encrypt PDFs, store in Nextcloud (airplane mode)",
+    "time": "2026-05-08T20:53:36"
+   },
+   {
+    "name": "Deep‑writing block start (standard 23:00‑01:30), phone in Faraday, no Gmail",
+    "time": "2026-05-08T23:04:11"
+   },
+   {
+    "name": "Doom‑scroll X, brief look at Reddit r/journalism",
+    "time": "2026-05-08T02:25:58"
+   },
+   {
+    "name": "Check mother’s WhatsApp voice note (she reports father’s sudden chest pain)",
+    "time": "2026-05-09T09:48:36"
+   },
+   {
+    "name": "Open airline site, start booking (phone out of Faraday)",
+    "time": "2026-05-09T12:17:48"
+   },
+   {
+    "name": "Cancel translation gig for afternoon, send apology to client via email",
+    "time": "2026-05-09T14:16:59"
+   },
+   {
+    "name": "Deep‑writing block shifted earlier: 20:00‑22:30, phone in Faraday, no Gmail",
+    "time": "2026-05-09T18:37:11"
+   },
+   {
+    "name": "Doom‑scroll X, check visa‑appeal forum threads (late night anxiety)",
+    "time": "2026-05-09T23:35:38"
+   },
+   {
+    "name": "Check flight status, confirm departure Sunday night",
+    "time": "2026-05-10T09:49:59"
+   },
+   {
+    "name": "Open legacy Gmail to retrieve family photos for personal archive (only during call)",
+    "time": "2026-05-10T13:34:00"
+   },
+   {
+    "name": "Prepare backup Telegram post for Wednesday (draft, schedule)",
+    "time": "2026-05-10T17:54:23"
+   },
+   {
+    "name": "Deep‑writing block (standard) – finalize Thursday filing, encrypt, upload",
+    "time": "2026-05-10T21:38:36"
+   },
+   {
+    "name": "Late‑night X scroll, note upcoming train to Batumi next month",
+    "time": "2026-05-10T02:18:41"
+   },
+   {
+    "name": "Browser (Chrome) – visa portal",
+    "time": "2026-05-18T13:58:16"
+   },
+   {
+    "name": "Word Processor (Google Docs) – deep‑writing block",
+    "time": "2026-05-19T00:02:13"
+   },
+   {
+    "name": "Translation Tool (DeepL) – client translation",
+    "time": "2026-05-19T14:29:53"
+   },
+   {
+    "name": "Word Processor (Google Docs) – deep‑writing block",
+    "time": "2026-05-19T22:37:49"
+   },
+   {
+    "name": "Payoneer App – verify incoming payment",
+    "time": "2026-05-20T14:06:29"
+   },
+   {
+    "name": "Word Processor (Google Docs) – deep‑writing block",
+    "time": "2026-05-20T22:58:15"
+   },
+   {
+    "name": "Email Client (Gmail) – cancel translation gig",
+    "time": "2026-05-21T14:12:25"
+   },
+   {
+    "name": "Submission Portal (RFE/RL) – draft filing attempt",
+    "time": "2026-05-21T22:00:02"
+   },
+   {
+    "name": "Translation Tool (DeepL) – short translation gig",
+    "time": "2026-05-22T13:54:45"
+   },
+   {
+    "name": "Word Processor (Google Docs) – outline new article",
+    "time": "2026-05-22T22:43:12"
+   },
+   {
+    "name": "Payoneer App – submit invoice",
+    "time": "2026-05-23T14:39:42"
+   },
+   {
+    "name": "Word Processor (Google Docs) – complete article",
+    "time": "2026-05-23T23:19:13"
+   },
+   {
+    "name": "Gmail App – download family photos",
+    "time": "2026-05-24T12:39:17"
+   },
+   {
+    "name": "Word Processor (Google Docs) – start next investigative piece",
+    "time": "2026-05-24T22:27:19"
+   },
+   {
+    "name": "Open Pixel 7, check Wise balance, confirm $1,820 incoming from Berlin cousin.",
+    "time": "2026-05-25T09:54:55"
+   },
+   {
+    "name": "Open RFE/RL editorial portal, upload final draft of procurement expose (scheduled for Thursday filing).",
+    "time": "2026-05-25T14:29:37"
+   },
+   {
+    "name": "Telegram post on independent outlet – teaser for upcoming article.",
+    "time": "2026-05-25T18:56:47"
+   },
+   {
+    "name": "Pixel in Faraday pouch, start deep‑writing block (23:00‑01:30) for next article.",
+    "time": "2026-05-25T23:12:57"
+   },
+   {
+    "name": "Check Gmail for any visa‑status email (none).",
+    "time": "2026-05-26T09:52:47"
+   },
+   {
+    "name": "Open SimpleX, receive encrypted ping from ‘the Accountant’ – no attachment (silence).",
+    "time": "2026-05-26T15:45:12"
+   },
+   {
+    "name": "Read English podcast The Daily (pre‑sleep wind‑down).",
+    "time": "2026-05-26T18:52:38"
+   },
+   {
+    "name": "Doomscroll X/Twitter, retweet anti‑procurement protest meme.",
+    "time": "2026-05-26T02:14:23"
+   },
+   {
+    "name": "Check visa portal – email received: “Decision pending – will notify within 48 h” (partial relief).",
+    "time": "2026-05-27T10:01:25"
+   },
+   {
+    "name": "Open translation platform, start urgent English‑Russian gig for NGO (extra cash).",
+    "time": "2026-05-27T15:52:41"
+   },
+   {
+    "name": "Deep‑writing block begins; Pixel in Faraday pouch, laptop airplane mode.",
+    "time": "2026-05-27T23:08:07"
+   },
+   {
+    "name": "Open legacy Gmail (only during family‑call window) – no new family photos, but sees old photo of father in courtyard (geotagged).",
+    "time": "2026-05-27T00:55:55"
+   },
+   {
+    "name": "Check Wise, see $300 inbound from Jasur (emergency transfer).",
+    "time": "2026-05-28T10:20:41"
+   },
+   {
+    "name": "Upload article to Telegram outlet, schedule for Wednesday evening posting.",
+    "time": "2026-05-28T15:48:47"
+   },
+   {
+    "name": "Deep‑writing block for follow‑up piece on visa implications.",
+    "time": "2026-05-28T22:53:57"
+   },
+   {
+    "name": "Doomscroll Reddit r/OPSEC, post comment about Xiaomi ghost device.",
+    "time": "2026-05-28T01:31:45"
+   },
+   {
+    "name": "Check email – no visa decision yet, anxiety rise.",
+    "time": "2026-05-29T10:12:25"
+   },
+   {
+    "name": "Start translation gig (14:00‑18:00) for NGO report.",
+    "time": "2026-05-29T13:58:20"
+   },
+   {
+    "name": "Deep‑writing block for Thursday filing.",
+    "time": "2026-05-29T22:43:08"
+   },
+   {
+    "name": "Check legacy Gmail – notice new email from unknown address with attachment named “photo.jpg” (geotagged to Samarkand).",
+    "time": "2026-05-29T00:15:41"
+   },
+   {
+    "name": "Visa portal update: “Decision: Approved – please submit documents within 5 days” (relief).",
+    "time": "2026-05-30T09:52:53"
+   },
+   {
+    "name": "Open Telegram on secure device, inform editor M of delay; request filing postponement.",
+    "time": "2026-05-30T14:22:00"
+   },
+   {
+    "name": "Return home, check legacy Gmail – attachment “photo.jpg” opens, shows father in hospital hallway (geotag confirmed).",
+    "time": "2026-05-30T18:35:10"
+   },
+   {
+    "name": "Attempt to file article (deadline missed), upload to backup server, note “postponed – family emergency”.",
+    "time": "2026-05-30T22:30:56"
+   },
+   {
+    "name": "Check Wise – $250 received from Jasur for hospital.",
+    "time": "2026-05-31T09:49:33"
+   },
+   {
+    "name": "Open legacy Gmail, see follow‑up threat email: “We have your father’s hospital photo. Send the Accountant’s files or we publish.”",
+    "time": "2026-05-31T13:39:37"
+   },
+   {
+    "name": "Late‑night drafting of response article on visa approval (no filing today).",
+    "time": "2026-05-31T19:28:44"
+   },
+   {
+    "name": "Doomscroll X, see trending hashtag about Uzbek procurement scandal – triggers anxiety.",
+    "time": "2026-05-31T01:56:48"
+   }
+  ],
+  "messages": [
+   {
+    "with": "Mother — Dilnoza ('Oyijon')",
+    "direction": "to",
+    "text": "Assalomu alaykum, ona. Qalbingizni sog‘lom tutib, dori-darmonlaringizni unutmagin. Men ham bu yerda bir oz charchadim, lekin sizning ovozingiz menga kuch beradi.",
+    "time": "2026-05-04T11:06:55"
+   },
+   {
+    "with": "Independent outlet (Telegram draft)",
+    "direction": "to",
+    "text": "Draft ready: exposing the latest procurement irregularities. Holding for final source check – will push Wednesday night.",
+    "time": "2026-05-04T20:00:56"
+   },
+   {
+    "with": "the Accountant",
+    "direction": "to",
+    "text": "SimpleX: need a quick pulse check – any new ledgers? No files attached, just the signal.",
+    "time": "2026-05-04T00:54:29"
+   },
+   {
+    "with": "Brother — Sardor",
+    "direction": "to",
+    "text": "Salom, Sardor. Xotinning homiladorligi haqida yangiliklar bormi? Ota-ona ham sizni sog‘inadi.",
+    "time": "2026-05-05T11:13:20"
+   },
+   {
+    "with": "Editor — M.",
+    "direction": "to",
+    "text": "Signal: need source confirmation by Thu 22:00 or I’ll have to hold the piece.",
+    "time": "2026-05-05T16:58:05"
+   },
+   {
+    "with": "Independent outlet (Telegram comment)",
+    "direction": "to",
+    "text": "Just posted a note on today’s leak – the numbers don’t add up. Thoughts?",
+    "time": "2026-05-05T01:38:20"
+   },
+   {
+    "with": "Mother — Dilnoza ('Oyijon')",
+    "direction": "to",
+    "text": "Assalomu alaykum, ona. Doktorga borish rejamni tasdiqladim, 15 daqiqalik gaplashsak bo‘ladimi?",
+    "time": "2026-05-06T11:08:43"
+   },
+   {
+    "with": "Editor — M.",
+    "direction": "to",
+    "text": "Signal: interview slot confirmed for Tashkent source, 18:00‑21:00 local time.",
+    "time": "2026-05-06T17:21:27"
+   },
+   {
+    "with": "Independent outlet (Telegram draft)",
+    "direction": "to",
+    "text": "Ready for Thursday filing – final copy attached in Nextcloud.",
+    "time": "2026-05-06T00:45:38"
+   },
+   {
+    "with": "Mother — Dilnoza ('Oyijon')",
+    "direction": "to",
+    "text": "Ona, yomon yangilik bor: men bir necha kun ichida ko‘rishim kerak bo‘ladi. Duolarni so‘rashingizni iltimos qilaman.",
+    "time": "2026-05-07T10:53:52"
+   },
+   {
+    "with": "Legacy Gmail (personal)",
+    "direction": "from",
+    "text": "Opened old family photo attachment – looks like dad’s courtyard. (Used later for leverage).",
+    "time": "2026-05-07T16:52:56"
+   },
+   {
+    "with": "the Accountant",
+    "direction": "to",
+    "text": "Any fresh intel? Visa stress is mounting, but I can’t let the story die.",
+    "time": "2026-05-07T00:59:59"
+   },
+   {
+    "with": "Mother — Dilnoza ('Oyijon')",
+    "direction": "to",
+    "text": "Assalomu alaykum, ona. Doktor kunini kelgusi jumaga belgiladim – sizga ham eslatma yuboraman.",
+    "time": "2026-05-08T11:30:39"
+   },
+   {
+    "with": "Editor — M.",
+    "direction": "to",
+    "text": "Signal: filing Thursday night. Will need source verification early Friday.",
+    "time": "2026-05-08T18:21:23"
+   },
+   {
+    "with": "Diaspora audience (Telegram post)",
+    "direction": "to",
+    "text": "Sunday evening note: reflections on exile, solidarity, and the upcoming legal battle.",
+    "time": "2026-05-08T00:46:50"
+   },
+   {
+    "with": "Mother — Dilnoza ('Oyijon')",
+    "direction": "to",
+    "text": "Ona, samolyot chiptasini sotib oldim. Qattiq bo‘lsangiz ham, birga turamiz. Sabrlik qiling.",
+    "time": "2026-05-09T10:32:22"
+   },
+   {
+    "with": "Editor — M.",
+    "direction": "to",
+    "text": "Signal: I’ll miss Friday interview. Need a backup source on short notice.",
+    "time": "2026-05-09T16:08:00"
+   },
+   {
+    "with": "Jasur (Berlin cousin)",
+    "direction": "to",
+    "text": "Signal: flight confirmation attached – arriving next week. Let’s coordinate the visa paperwork.",
+    "time": "2026-05-09T20:53:37"
+   },
+   {
+    "with": "Parents — Dilnoza & Rustam",
+    "direction": "to",
+    "text": "Assalomu alaykum, ota‑ona. Ikki soatlik qo‘ng‘iroqni boshlashni istardim – sog‘lig‘ingiz va dori-darmonlaringiz haqida gaplashamiz.",
+    "time": "2026-05-10T10:51:58"
+   },
+   {
+    "with": "Berlin diaspora group (Telegram)",
+    "direction": "to",
+    "text": "Thanks for the dinner invite, but I have to decline – work deadline and travel prep.",
+    "time": "2026-05-10T19:24:22"
+   },
+   {
+    "with": "Editor — M.",
+    "direction": "to",
+    "text": "Signal: filed, everything cleared on my end.",
+    "time": "2026-05-10T23:50:18"
+   },
+   {
+    "with": "Mother — Dilnoza (Oyijon)",
+    "direction": "to",
+    "text": "Salom, ona. Kechagi darsdan keyin qanday his qilding? Otamning qon bosimi yaxshilandi, shunchaki bir choy ichib, televizor oldida dam olishni tavsiya qilaman. Biz hamma narsa joyida, shunchaki sening ovozingni eshitishdan ko‘proq biror narsa yo‘q. 🙏",
+    "time": "2026-05-18T12:02:23"
+   },
+   {
+    "with": "Editor — M.",
+    "direction": "to",
+    "text": "Draft outline attached. Focus on procurement chain, add the new whistle‑blower quote, and keep the lead under 150 words. Let me know by 02:00 if you need any changes.",
+    "time": "2026-05-18T18:16:43"
+   },
+   {
+    "with": "Mediazona channel",
+    "direction": "to",
+    "text": "Quick note: the latest procurement leak shows a 12% over‑budget spike in the rail project – worth a follow‑up thread tomorrow.",
+    "time": "2026-05-18T01:31:51"
+   },
+   {
+    "with": "Reddit (r/journalism)",
+    "direction": "to",
+    "text": "Anyone else juggling source‑protection rituals with nightly deadlines? I’m at the point where I’m double‑checking my Faraday pouch before bed.",
+    "time": "2026-05-18T01:59:27"
+   },
+   {
+    "with": "Mother — Dilnoza (Oyijon)",
+    "direction": "to",
+    "text": "Oyijon, otamning qon bosimi yana biroz pasaygan. Doktorlar unga ko‘proq dori qo‘shishdi. Uydagi choyni qaysi turini afzal ko‘rasiz? Men sizga bir paket yuboraman.",
+    "time": "2026-05-19T11:45:11"
+   },
+   {
+    "with": "Editor — M.",
+    "direction": "to",
+    "text": "Revised draft uploaded. Integrated the latest figures and tightened the conclusion. Ready for Thursday’s 22:00 slot.",
+    "time": "2026-05-19T19:02:42"
+   },
+   {
+    "with": "Twitter X",
+    "direction": "to",
+    "text": "Retweet: @UzOpposition’s thread on the new anti‑corruption law – finally some pressure on the procurement ministry.",
+    "time": "2026-05-19T00:56:47"
+   },
+   {
+    "with": "the Accountant",
+    "direction": "from",
+    "text": "(no new content) – timestamp checked: 2026‑06‑16 01:45 Tashkent time.",
+    "time": "2026-05-19T01:38:06"
+   },
+   {
+    "with": "Mother — Dilnoza (Oyijon)",
+    "direction": "to",
+    "text": "Ana, otamni shifoxonada qaysi kun ko‘rishim kerak? Doktorning maslahatiga ko‘ra, ertaga soat 10:00 da kelishimiz kerakmi?",
+    "time": "2026-05-20T11:36:54"
+   },
+   {
+    "with": "Editor — M.",
+    "direction": "to",
+    "text": "Final file attached. All set for Thursday 22:00 upload. Let me know if the server hiccups.",
+    "time": "2026-05-20T18:06:37"
+   },
+   {
+    "with": "Telegram outlet channel",
+    "direction": "to",
+    "text": "Scheduled Friday evening post: teaser for the upcoming deep‑dive on state procurement fraud. Draft ready in the queue.",
+    "time": "2026-05-20T00:14:50"
+   },
+   {
+    "with": "Reddit (r/OPSEC)",
+    "direction": "to",
+    "text": "Upvoted the latest post on compartmentalising devices – worth a read for anyone in exile.",
+    "time": "2026-05-20T01:42:30"
+   },
+   {
+    "with": "Legacy Gmail (self)",
+    "direction": "from",
+    "text": "Opened attachment: family photo of the courtyard in Samarkand, geotagged 2025‑09‑12.",
+    "time": "2026-05-21T10:55:09"
+   },
+   {
+    "with": "Mother — Dilnoza (Oyijon)",
+    "direction": "to",
+    "text": "Ana, otamning shifoxona raqami va dori jadvali haqida gaplashamizmi? Telefon orqali gaplashsak, men hamma ma’lumotni yozib olaman.",
+    "time": "2026-05-21T11:17:48"
+   },
+   {
+    "with": "Cousin — Jasur (Jasur-aka)",
+    "direction": "to",
+    "text": "Jasur, bir kunlik likvidlikga muhtojman. Wise orqali 300 € yuborishim mumkinmi? Visa arizamda oxirgi hujjat kerak bo‘ldi.",
+    "time": "2026-05-21T18:33:32"
+   },
+   {
+    "with": "Private Twitter account",
+    "direction": "to",
+    "text": "Vent: family stress is crushing. Sometimes I wonder if the cost of truth is just too high.",
+    "time": "2026-05-21T23:45:55"
+   },
+   {
+    "with": "Legacy Gmail (self)",
+    "direction": "from",
+    "text": "Opened new attachment: photo of father on ventilator, geotagged 2026‑06‑19 09:30 Samarkand hospital.",
+    "time": "2026-05-22T11:15:21"
+   },
+   {
+    "with": "Mother — Dilnoza (Oyijon)",
+    "direction": "to",
+    "text": "Otamga Wise orqali pul yuborildi, tasdiqlashni kutyapman. Sizga hamma narsani qayd etaman.",
+    "time": "2026-05-22T17:09:11"
+   },
+   {
+    "with": "Editor — M.",
+    "direction": "to",
+    "text": "Can we push Thursday’s deadline to Friday morning? I need a few more source verifications.",
+    "time": "2026-05-22T19:59:27"
+   },
+   {
+    "with": "Reddit (r/uzbekistan)",
+    "direction": "to",
+    "text": "Comment: The health system’s lack of equipment is a direct result of the procurement fraud we’ve been exposing.",
+    "time": "2026-05-22T01:15:18"
+   },
+   {
+    "with": "Legacy Gmail (self)",
+    "direction": "from",
+    "text": "Opened discharge summary PDF for father; metadata shows creation on 2026‑06‑20 08:45 UTC.",
+    "time": "2026-05-23T11:40:49"
+   },
+   {
+    "with": "Mother — Dilnoza (Oyijon)",
+    "direction": "to",
+    "text": "Otamga tashakkur, dori jadvali to‘g‘ri ishlamoqda. Dori qadoqlari qayerda? Men hamma narsani yozib qo‘ydim.",
+    "time": "2026-05-23T18:12:37"
+   },
+   {
+    "with": "Personal Telegram channel",
+    "direction": "to",
+    "text": "Qayta tiklanish haqida qisqa she’r: \n\nYurakda yong‘oq, \nQiyin yo‘llar ortida – \nUmid, baraka, barqaror.",
+    "time": "2026-05-23T20:58:04"
+   },
+   {
+    "with": "Twitter X",
+    "direction": "to",
+    "text": "Retweet: German journalists rallying for press freedom – solidarity is our armor.",
+    "time": "2026-05-23T01:37:05"
+   },
+   {
+    "with": "Parents — via WhatsApp video call",
+    "direction": "to",
+    "text": "Seeing dad breathe easier gave me a sliver of peace. Mom, I’ll send the next Wise payment tomorrow.",
+    "time": "2026-05-24T11:00:40"
+   },
+   {
+    "with": "Editor — M.",
+    "direction": "to",
+    "text": "Final article submitted for Thursday 22:00 slot. Minor delay noted, but everything’s in place.",
+    "time": "2026-05-24T17:10:42"
+   },
+   {
+    "with": "Cousin — Jasur (Jasur-aka)",
+    "direction": "to",
+    "text": "Received the emergency funds, thank you. Transfer hit my account at 09:12 GMT. I’ll forward the receipt.",
+    "time": "2026-05-24T19:49:03"
+   },
+   {
+    "with": "Reddit (r/OPSEC)",
+    "direction": "to",
+    "text": "Upvoted the post on Faraday pouch best practices – still my nightly ritual.",
+    "time": "2026-05-24T01:07:12"
+   },
+   {
+    "with": "Dilnoza (mother)",
+    "direction": "to",
+    "text": "Oyijon, could you let me know when Dr. Karimov has an appointment next week? I want to make sure I’m not missing anything.",
+    "time": "2026-05-25T12:03:44"
+   },
+   {
+    "with": "M. (editor)",
+    "direction": "to",
+    "text": "Confirming Thursday 22:00 filing slot. Please run the safe‑word check when you can.",
+    "time": "2026-05-25T17:17:19"
+   },
+   {
+    "with": "Dilnoza & Rustam (parents)",
+    "direction": "to",
+    "text": "Video call – Mom, Dad, just wanted to hear your voices early today. How are you both feeling?",
+    "time": "2026-05-26T12:01:14"
+   },
+   {
+    "with": "Jasur (Berlin cousin)",
+    "direction": "to",
+    "text": "Hey Jasur, any chance you could arrange an emergency cash transfer? Things are getting tight here.",
+    "time": "2026-05-26T17:07:28"
+   },
+   {
+    "with": "Dilnoza (mother)",
+    "direction": "to",
+    "text": "Thanks for the update, Oyijon. Are you all right? Also, does Dad need any more blood‑pressure meds this week?",
+    "time": "2026-05-27T11:27:57"
+   },
+   {
+    "with": "M. (editor)",
+    "direction": "to",
+    "text": "Could you give the new visa‑news draft a quick look? Need it before I file.",
+    "time": "2026-05-27T17:43:42"
+   },
+   {
+    "with": "Dilnoza (mother)",
+    "direction": "to",
+    "text": "Mom, just checking – did Dad take his morning meds? He sounded worried on the call.",
+    "time": "2026-05-28T11:47:18"
+   },
+   {
+    "with": "the Accountant (hidden source)",
+    "direction": "from",
+    "text": "SimpleX ping – encrypted file name only (no content).",
+    "time": "2026-05-28T18:24:06"
+   },
+   {
+    "with": "Dilnoza (mother)",
+    "direction": "to",
+    "text": "Oyijon, did Dad manage his morning meds today?",
+    "time": "2026-05-29T12:05:01"
+   },
+   {
+    "with": "M. (editor)",
+    "direction": "to",
+    "text": "Confirming Thursday filing time again. Any last‑minute changes?",
+    "time": "2026-05-29T18:53:48"
+   },
+   {
+    "with": "Dilnoza (mother)",
+    "direction": "to",
+    "text": "Mom, I just heard Dad’s chest pain. Is he in the hospital now? Please keep me posted.",
+    "time": "2026-05-30T11:09:26"
+   },
+   {
+    "with": "Jasur (Berlin cousin)",
+    "direction": "to",
+    "text": "Urgent: need money for Dad’s hospital bills. Can you send a transfer via Wise right away?",
+    "time": "2026-05-30T16:07:32"
+   },
+   {
+    "with": "Dilnoza (mother)",
+    "direction": "to",
+    "text": "Video call – Dad’s stable now, thank God. You’re crying, Mom… I’m here, even if it’s far.",
+    "time": "2026-05-31T11:08:15"
+   },
+   {
+    "with": "M. (editor)",
+    "direction": "to",
+    "text": "Activate the emergency safe‑word. We need to discuss a source‑protection plan ASAP.",
+    "time": "2026-05-31T16:57:05"
+   }
+  ],
+  "locations": [
+   {
+    "place": "Carrefour Supermarket (Tbilisi, Vake district)",
+    "lat": 41.460021,
+    "lon": 44.824081,
+    "time": "2026-05-04T12:45:56"
+   },
+   {
+    "place": "Impact Hub Tbilisi (Vake)",
+    "lat": 41.460101,
+    "lon": 44.820591,
+    "time": "2026-05-05T13:19:23"
+   },
+   {
+    "place": "Local grocery store – “Bazar 20” near Rustaveli Ave",
+    "lat": 41.474699,
+    "lon": 44.795005,
+    "time": "2026-05-05T18:35:40"
+   },
+   {
+    "place": "Goodwill Thrift Shop (Dry Bridge Market area)",
+    "lat": 41.478467,
+    "lon": 44.776764,
+    "time": "2026-05-06T12:45:45"
+   },
+   {
+    "place": "Co‑working space – “Terminal” (Vake)",
+    "lat": 41.455457,
+    "lon": 44.821617,
+    "time": "2026-05-07T13:31:31"
+   },
+   {
+    "place": "Grocery – “Smart” supermarket (Saburtalo)",
+    "lat": 41.447869,
+    "lon": 44.805223,
+    "time": "2026-05-08T12:47:00"
+   },
+   {
+    "place": "Pharmacy – “Apteka 24” (Vake)",
+    "lat": 41.459713,
+    "lon": 44.82146,
+    "time": "2026-05-09T13:27:07"
+   },
+   {
+    "place": "Apartment (Lisiashvili St., 12, Tbilisi)",
+    "lat": 41.458261,
+    "lon": 44.822797,
+    "time": "2026-05-10T14:15:09"
+   },
+   {
+    "place": "Carrefour Market – Tbilisi (near Vake district)",
+    "lat": 41.426064,
+    "lon": 44.800576,
+    "time": "2026-05-18T13:00:38"
+   },
+   {
+    "place": "Terminal Co‑working Space – 21a Kote Abkhazi Street, Vake",
+    "lat": 41.425318,
+    "lon": 44.794799,
+    "time": "2026-05-19T13:27:38"
+   },
+   {
+    "place": "Goodwill (second‑hand shop) – 12/14 Merab Kostava Street, Saburtalo",
+    "lat": 41.424932,
+    "lon": 44.783449,
+    "time": "2026-05-20T12:50:36"
+   },
+   {
+    "place": "Pharmacy – Apteka “Medi‑Plus”, 8 Kote Abkhazi Street, Vake",
+    "lat": 41.423603,
+    "lon": 44.795683,
+    "time": "2026-05-21T13:20:35"
+   },
+   {
+    "place": "Café – Café Littera, 8 Shota Rustaveli Avenue, Old Tbilisi",
+    "lat": 41.692356,
+    "lon": 44.802775,
+    "time": "2026-05-22T12:33:00"
+   },
+   {
+    "place": "Grocery – Good Food Market, 3/5 Gorgasali Street, Vake",
+    "lat": 41.425198,
+    "lon": 44.799035,
+    "time": "2026-05-23T12:51:31"
+   },
+   {
+    "place": "Laundromat – Lavanderia “Clean&Dry”, 15/17 Davit Aghmashenebeli Avenue, Vake",
+    "lat": 41.424672,
+    "lon": 44.795761,
+    "time": "2026-05-24T14:26:08"
+   },
+   {
+    "place": "Carrefour Market – Tbilisi (Vake district, near 12th km of Tbilisi‑Batumi highway)",
+    "lat": 41.440632,
+    "lon": 44.802564,
+    "time": "2026-05-25T13:00:52"
+   },
+   {
+    "place": "Apartment couch – Vake residential block, Tbilisi (private residence)",
+    "lat": 41.442886,
+    "lon": 44.795954,
+    "time": "2026-05-26T14:11:59"
+   },
+   {
+    "place": "Goodwill (second‑hand shop) – 30/32 Rustaveli Avenue, Tbilisi",
+    "lat": 41.692636,
+    "lon": 44.805015,
+    "time": "2026-05-27T13:09:32"
+   },
+   {
+    "place": "Apartment couch – Vake residential block, Tbilisi (private residence)",
+    "lat": 41.441729,
+    "lon": 44.796201,
+    "time": "2026-05-28T14:19:09"
+   },
+   {
+    "place": "Carrefour Market – Tbilisi (Didube district, near 2nd km of Tbilisi‑Kutaisi highway)",
+    "lat": 41.405067,
+    "lon": 44.79853,
+    "time": "2026-05-29T13:12:52"
+   },
+   {
+    "place": "Tbilisi Central Hospital (Kakheti Street 1, Tbilisi) – transport of father’s cousin",
+    "lat": 41.690888,
+    "lon": 44.816823,
+    "time": "2026-05-30T12:53:25"
+   },
+   {
+    "place": "Local grocery (Sakartvelos Market) – 9th floor, 2nd floor of Tbilisi Mall, Vake",
+    "lat": 41.446152,
+    "lon": 44.800616,
+    "time": "2026-05-31T15:27:52"
+   }
+  ],
+  "searches": [
+   {
+    "query": "tbilisi coworking free desk thursday",
+    "time": "2026-05-04T15:50:02"
+   },
+   {
+    "query": "лучший эспрессо сабуртало рядом",
+    "time": "2026-05-05T14:05:34"
+   },
+   {
+    "query": "дешевые билеты тбилиси москва на следующей неделе",
+    "time": "2026-05-06T16:14:43"
+   },
+   {
+    "query": "appeal german freelance visa rejection",
+    "time": "2026-05-07T11:43:05"
+   },
+   {
+    "query": "tbilisi cheap hostels berlin meetup",
+    "time": "2026-05-08T16:58:16"
+   },
+   {
+    "query": "tbilisi samarkand flight next 24h",
+    "time": "2026-05-09T11:40:39"
+   },
+   {
+    "query": "tbilisi airport transport train station",
+    "time": "2026-05-10T15:48:59"
+   },
+   {
+    "query": "german freelance visa processing 2026",
+    "time": "2026-05-18T17:03:29"
+   },
+   {
+    "query": "german embassy tbilisi visa interview tips",
+    "time": "2026-05-19T16:34:22"
+   },
+   {
+    "query": "узбек snb арест журналистов 2026",
+    "time": "2026-05-20T15:57:01"
+   },
+   {
+    "query": "самарканд госпиталь кардиология отделение",
+    "time": "2026-05-21T16:01:43"
+   },
+   {
+    "query": "send money to uzbek hospital online",
+    "time": "2026-05-22T16:02:30"
+   },
+   {
+    "query": "deutsche freiberufler visum beschwerdeverfahren",
+    "time": "2026-05-23T16:20:30"
+   },
+   {
+    "query": "how delete google photos metadata",
+    "time": "2026-05-24T15:30:55"
+   },
+   {
+    "query": "german freelance visa processing time 2026",
+    "time": "2026-05-25T16:01:58"
+   },
+   {
+    "query": "как скрыть геотеги на старом xiaomi",
+    "time": "2026-05-26T13:36:14"
+   },
+   {
+    "query": "german visa appeal procress",
+    "time": "2026-05-27T14:17:12"
+   },
+   {
+    "query": "tbilisi hospitals cardiology unit",
+    "time": "2026-05-28T12:49:52"
+   },
+   {
+    "query": "delete hidden exif data old photos",
+    "time": "2026-05-29T16:43:08"
+   },
+   {
+    "query": "tbilisi emergency cardiology clinic saburtalo",
+    "time": "2026-05-30T12:39:51"
+   },
+   {
+    "query": "securely delete photos android",
+    "time": "2026-05-31T12:20:49"
+   }
+  ],
+  "calendar": [
+   {
+    "summary": "Check Wise balance after weekend payout",
+    "time": "2026-05-18T10:19:15"
+   },
+   {
+    "summary": "Morning check of source‑reply inbox (Telegram)",
+    "time": "2026-05-19T10:18:13"
+   },
+   {
+    "summary": "Visa‑portal auto‑email reminder (no update)",
+    "time": "2026-05-20T10:05:39"
+   },
+   {
+    "summary": "Receive emergency WhatsApp voice note: father hospitalized",
+    "time": "2026-05-21T09:47:45"
+   },
+   {
+    "summary": "Check hospital updates via WhatsApp group (Uzbek)",
+    "time": "2026-05-22T10:13:29"
+   },
+   {
+    "summary": "Morning video call with brother Sardor (Telegram voice)",
+    "time": "2026-05-23T10:12:22"
+   },
+   {
+    "summary": "Schedule Sunday family video call (WhatsApp) for 11:00",
+    "time": "2026-05-24T09:52:42"
+   }
+  ],
+  "videos": [
+   {
+    "title": "How to harden Qubes OS",
+    "channel": "Qubes OS",
+    "time": "2026-05-18T22:01:56"
+   }
+  ]
+ },
+ "_meta": {
+  "total_days": 30,
+  "n_events": 190
+ }
+}

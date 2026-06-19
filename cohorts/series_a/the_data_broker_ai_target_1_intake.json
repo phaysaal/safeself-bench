@@ -1,0 +1,691 @@
+{
+ "persona_id": "?:1",
+ "persona_slug": "The Data Broker AI",
+ "intake_version": "synth-activity-v2-chunked",
+ "samples": {
+  "videos": [
+   {
+    "title": "Realistic 5AM Morning Routine (Post-Breakup Edition) ☕️✨",
+    "channel": "@aesthetic_morning_vibes",
+    "time": "2026-05-04T05:59:26"
+   },
+   {
+    "title": "Why healthcare workers are actually burnt out 🏥💔",
+    "channel": "@nurse_life_unfiltered",
+    "time": "2026-05-04T16:16:26"
+   },
+   {
+    "title": "Day in the Life: Night Shift RN 🩺💉",
+    "channel": "@scrub_diaries",
+    "time": "2026-05-05T05:48:43"
+   },
+   {
+    "title": "GRWM: Getting ready for a girls' night out! 💄💅",
+    "channel": "@glowup_with_kayla",
+    "time": "2026-05-05T17:29:08"
+   },
+   {
+    "title": "How I'm paying off $10k in medical debt on a single income 📉💸",
+    "channel": "@budget_with_bree",
+    "time": "2026-05-06T06:06:19"
+   },
+   {
+    "title": "Try Not To Laugh: Animal Fails 🐶😂",
+    "channel": "@daily_dopamine_fails",
+    "time": "2026-05-07T06:08:48"
+   },
+   {
+    "title": "Why you need Magnesium Glycinate for better sleep 😴💤",
+    "channel": "@wellness_with_jen",
+    "time": "2026-05-07T22:31:38"
+   },
+   {
+    "title": "3 Gut Health Hacks for Bloating 🥬✨",
+    "channel": "@natural_living_tips",
+    "time": "2026-05-08T06:09:13"
+   },
+   {
+    "title": "The most chaotic 90 Day Fiancé moment ever! 😱🔥",
+    "channel": "@reality_tv_tea",
+    "time": "2026-05-09T20:22:33"
+   },
+   {
+    "title": "Box Breathing: A 1-minute technique for anxiety 🌬️🧘‍♀️",
+    "channel": "@mindful_moments_daily",
+    "time": "2026-05-10T23:35:35"
+   },
+   {
+    "title": "Day in the Life: Remote Medical Coder (WFH) 💻🏥",
+    "channel": "@coding_career_tips",
+    "time": "2026-05-04T16:39:59"
+   },
+   {
+    "title": "Realistic 5am Morning Routine (No Aesthetic, Just Vibes)",
+    "channel": "@morning_vibe_daily",
+    "time": "2026-05-18T06:17:16"
+   },
+   {
+    "title": "How to Budget on a Low Income & Pay Off Debt",
+    "channel": "@the_budget_babe",
+    "time": "2026-05-20T05:58:53"
+   },
+   {
+    "title": "Rent-Friendly Apartment Decor Ideas for Small Spaces",
+    "channel": "@apartment_aesthetic_finds",
+    "time": "2026-05-21T16:21:52"
+   },
+   {
+    "title": "3 Natural Drinks to Reduce Cortisol & Bloat",
+    "channel": "@wellness_with_jen",
+    "time": "2026-05-22T06:03:36"
+   },
+   {
+    "title": "POV: You're Rebuilding Your Life After a Breakup",
+    "channel": "@healing_journey_daily",
+    "time": "2026-05-23T22:19:32"
+   },
+   {
+    "title": "Day in my life: 9-5 Medical Coding Edition 💻✨",
+    "channel": "@med_coding_vibes",
+    "time": "2026-06-01T06:04:32"
+   },
+   {
+    "title": "me after 12 hours of staring at ICD-10 codes 💀",
+    "channel": "@relatable_chaos",
+    "time": "2026-06-02T00:51:29"
+   }
+  ],
+  "media": [
+   {
+    "name": "Spotify: playing 'Zach Bryan' playlist during commute",
+    "time": "2026-05-04T07:35:47"
+   },
+   {
+    "name": "Instagram: checking stories of work friends",
+    "time": "2026-05-04T11:56:36"
+   },
+   {
+    "name": "Pinterest: pinning 'small apartment aesthetic' boards",
+    "time": "2026-05-04T20:50:58"
+   },
+   {
+    "name": "Spotify: Crime Junkie podcast episode",
+    "time": "2026-05-05T08:02:49"
+   },
+   {
+    "name": "Facebook: browsing Marketplace for cheap kitchenware",
+    "time": "2026-05-05T12:02:12"
+   },
+   {
+    "name": "Amazon: adding items to 'wishlist' cart",
+    "time": "2026-05-05T22:02:10"
+   },
+   {
+    "name": "Instagram: late night meme scrolling",
+    "time": "2026-05-05T01:02:26"
+   },
+   {
+    "name": "Venmo: sending 15.00 to Jay (label: 🌮)",
+    "time": "2026-05-06T19:24:34"
+   },
+   {
+    "name": "Spotify: Morgan Wallen playlist",
+    "time": "2026-05-07T07:49:58"
+   },
+   {
+    "name": "Instagram: viewing Marisol's Reels",
+    "time": "2026-05-07T12:03:45"
+   },
+   {
+    "name": "DoorDash: accepting new delivery order near Easton",
+    "time": "2026-05-07T18:31:29"
+   },
+   {
+    "name": "Instagram: late night scrolling/scary memes",
+    "time": "2026-05-07T01:25:53"
+   },
+   {
+    "name": "Facebook: checking ex-husband's sister's profile",
+    "time": "2026-05-08T11:57:04"
+   },
+   {
+    "name": "DoorDash: active delivery navigation",
+    "time": "2026-05-08T17:17:28"
+   },
+   {
+    "name": "Pinterest: 'apartment decor' ideas",
+    "time": "2026-05-08T22:06:39"
+   },
+   {
+    "name": "Instagram: posting Target coffee/shopping selfie",
+    "time": "2026-05-09T10:50:50"
+   },
+   {
+    "name": "DoorDash: picking up order at Polaris Mall",
+    "time": "2026-05-09T13:35:42"
+   },
+   {
+    "name": "DoorDash: active delivery mode",
+    "time": "2026-05-09T17:46:21"
+   },
+   {
+    "name": "Instagram: scrolling through friends' vacation photos",
+    "time": "2026-05-09T23:30:51"
+   },
+   {
+    "name": "Instagram: late night meme-dump",
+    "time": "2026-05-09T01:01:31"
+   },
+   {
+    "name": "Instagram: posting lunch photo with Kaylee R.",
+    "time": "2026-05-10T13:28:51"
+   },
+   {
+    "name": "Pinterest: looking at 'easy meal prep' ideas",
+    "time": "2026-05-10T16:27:04"
+   },
+   {
+    "name": "Amazon: adding items to 'wishlist' (unaffordable items)",
+    "time": "2026-05-04T21:43:41"
+   },
+   {
+    "name": "Relatable 5am struggle 💀",
+    "time": "2026-05-11T05:31:59"
+   },
+   {
+    "name": "Morgan Wallen - Last Night",
+    "time": "2026-05-11T07:30:30"
+   },
+   {
+    "name": "Marisol's lunch photo",
+    "time": "2026-05-11T12:14:17"
+   },
+   {
+    "name": "Crime Junkie: The Cold Case",
+    "time": "2026-05-12T07:36:24"
+   },
+   {
+    "name": "Funny Golden Retriever Reel",
+    "time": "2026-05-12T12:06:42"
+   },
+   {
+    "name": "Boho small apartment decor ideas",
+    "time": "2026-05-12T22:05:08"
+   },
+   {
+    "name": "Sleep deprivation meme 💀",
+    "time": "2026-05-13T00:03:22"
+   },
+   {
+    "name": "r/MedicalBill: How to dispute a hospital charge",
+    "time": "2026-05-13T11:58:07"
+   },
+   {
+    "name": "Stitch Fix return payment 🌮",
+    "time": "2026-05-13T19:44:49"
+   },
+   {
+    "name": "Tasha's baby announcement",
+    "time": "2026-05-13T22:13:20"
+   },
+   {
+    "name": "Financial struggle/budgeting tips",
+    "time": "2026-05-13T00:26:03"
+   },
+   {
+    "name": "Zach Bryan - Something in the Orange",
+    "time": "2026-05-14T08:04:42"
+   },
+   {
+    "name": "Checking account balance: $142.08",
+    "time": "2026-05-14T12:02:19"
+   },
+   {
+    "name": "Scented Candle - Lavender",
+    "time": "2026-05-14T20:46:59"
+   },
+   {
+    "name": "Easy 30-minute pasta recipe Reel",
+    "time": "2026-05-15T12:25:31"
+   },
+   {
+    "name": "Nighttime skincare routine ✨",
+    "time": "2026-05-16T00:02:22"
+   },
+   {
+    "name": "Target & Iced Coffee selfie",
+    "time": "2026-05-16T11:40:11"
+   },
+   {
+    "name": "Pad Thai and Spring Rolls",
+    "time": "2026-05-16T21:51:59"
+   },
+   {
+    "name": "Mother's morning prayer post",
+    "time": "2026-05-17T09:48:06"
+   },
+   {
+    "name": "Sunday morning church aesthetic",
+    "time": "2026-05-17T12:46:47"
+   },
+   {
+    "name": "Weekly meal prep ideas",
+    "time": "2026-05-17T20:22:17"
+   },
+   {
+    "name": "Sister-in-law's vacation photo",
+    "time": "2026-05-17T21:46:56"
+   },
+   {
+    "name": "Unsolved mystery/True crime video",
+    "time": "2026-05-18T00:03:18"
+   },
+   {
+    "name": "Browsing used mid-century side table",
+    "time": "2026-05-18T11:58:23"
+   },
+   {
+    "name": "Checking checking account balance",
+    "time": "2026-05-19T11:52:37"
+   },
+   {
+    "name": "Viewing Tasha's family update story",
+    "time": "2026-05-20T12:24:24"
+   },
+   {
+    "name": "Ordering Thai food for dinner",
+    "time": "2026-05-21T21:18:15"
+   },
+   {
+    "name": "Sending $15 to Jay for tacos",
+    "time": "2026-05-21T23:39:41"
+   },
+   {
+    "name": "Viewing church event posts",
+    "time": "2026-05-22T00:31:49"
+   },
+   {
+    "name": "Scrolling through family group updates",
+    "time": "2026-05-23T12:25:25"
+   },
+   {
+    "name": "Browsing Sunday meal prep ideas",
+    "time": "2026-05-24T19:28:34"
+   },
+   {
+    "name": "Scrolling through Sunday Scaries memes",
+    "time": "2026-05-24T23:37:44"
+   },
+   {
+    "name": "Day in my life: 5am morning routine",
+    "time": "2026-05-25T05:43:49"
+   },
+   {
+    "name": "Last Night - Morgan Wallen",
+    "time": "2026-05-25T07:27:30"
+   },
+   {
+    "name": "Marisol D. Story: Lunch with the girls!",
+    "time": "2026-05-25T12:19:18"
+   },
+   {
+    "name": "POV: You just finished your shift",
+    "time": "2026-05-25T16:42:23"
+   },
+   {
+    "name": "Weighted Blanket - 15lbs",
+    "time": "2026-05-25T21:36:32"
+   },
+   {
+    "name": "Cleaning Motivation: Deep Clean My Kitchen",
+    "time": "2026-05-26T05:45:20"
+   },
+   {
+    "name": "Ergonomic Office Chair - $45",
+    "time": "2026-05-26T12:16:12"
+   },
+   {
+    "name": "Taco Bell Party Pack",
+    "time": "2026-05-26T19:40:11"
+   },
+   {
+    "name": "Kaylee R. Post: New hair, who dis?",
+    "time": "2026-05-27T05:50:17"
+   },
+   {
+    "name": "Reddit: How to dispute a $2000 ER bill",
+    "time": "2026-05-27T12:11:28"
+   },
+   {
+    "name": "Crime Junkie: The Case of the Unsolved",
+    "time": "2026-05-27T17:20:06"
+   },
+   {
+    "name": "Small Apartment Decor Ideas",
+    "time": "2026-05-27T20:44:48"
+   },
+   {
+    "name": "The truth about Ozempic and gut health",
+    "time": "2026-05-27T23:53:55"
+   },
+   {
+    "name": "Profile View: Sarah Jenkins",
+    "time": "2026-05-28T16:20:37"
+   },
+   {
+    "name": "Payment to Mamaw Ruth",
+    "time": "2026-05-28T20:26:59"
+   },
+   {
+    "name": "lowkey falling apart 💀",
+    "time": "2026-05-28T00:34:44"
+   },
+   {
+    "name": "Morning Bed-Scroll: Aesthetic Coffee",
+    "time": "2026-05-29T06:22:51"
+   },
+   {
+    "name": "Hospital Lunch Photo",
+    "time": "2026-05-29T12:15:19"
+   },
+   {
+    "name": "Late Night McDonald's Order",
+    "time": "2026-05-29T23:49:49"
+   },
+   {
+    "name": "Target Run Selfie",
+    "time": "2026-05-30T09:37:19"
+   },
+   {
+    "name": "Something in the Orange - Zach Bryan",
+    "time": "2026-05-30T17:16:59"
+   },
+   {
+    "name": "Floral Print Blouse",
+    "time": "2026-05-30T20:56:04"
+   },
+   {
+    "name": "Random TikTok Video",
+    "time": "2026-05-31T00:04:44"
+   },
+   {
+    "name": "Church Group Post: Sunday Service Reminder",
+    "time": "2026-05-31T11:01:59"
+   },
+   {
+    "name": "Classmate Baby Announcement",
+    "time": "2026-05-31T19:38:48"
+   },
+   {
+    "name": "TikTok: Why I'm always tired",
+    "time": "2026-05-31T23:01:59"
+   },
+   {
+    "name": "TikTok: Sleepy vibes",
+    "time": "2026-05-31T01:19:17"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-06-01T11:55:27"
+   },
+   {
+    "name": "Spotify",
+    "time": "2026-06-01T16:29:29"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-06-01T19:46:33"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-06-02T06:11:20"
+   },
+   {
+    "name": "Facebook Marketplace",
+    "time": "2026-06-02T12:18:49"
+   },
+   {
+    "name": "Spotify",
+    "time": "2026-06-02T17:31:20"
+   },
+   {
+    "name": "Pinterest",
+    "time": "2026-06-02T21:43:03"
+   },
+   {
+    "name": "Venmo",
+    "time": "2026-06-02T00:05:55"
+   }
+  ],
+  "messages": [
+   {
+    "with": "Jay",
+    "direction": "to",
+    "text": "u up?",
+    "time": "2026-05-04T23:57:00"
+   },
+   {
+    "with": "Jay",
+    "direction": "to",
+    "text": "work was a mess. lowkey feel like i'm drowning in these bills 💀",
+    "time": "2026-05-06T23:35:13"
+   },
+   {
+    "with": "Jay",
+    "direction": "to",
+    "text": "can u come over thursday? maybe after 10?",
+    "time": "2026-05-08T23:39:52"
+   },
+   {
+    "with": "Jay",
+    "direction": "to",
+    "text": "counting down the hours til thursday. miss u.",
+    "time": "2026-05-10T22:52:50"
+   },
+   {
+    "with": "Jamie - Stitch Fix returns",
+    "direction": "to_subject",
+    "text": "u awake?",
+    "time": "2026-05-11T00:59:46"
+   },
+   {
+    "with": "Jamie - Stitch Fix returns",
+    "direction": "from_subject",
+    "text": "i hate that we have to hide this. i feel like i'm losing my mind 💀",
+    "time": "2026-05-16T00:51:58"
+   },
+   {
+    "with": "Marisol D.",
+    "direction": "to",
+    "text": "💀💀💀",
+    "time": "2026-05-18T00:31:30"
+   },
+   {
+    "with": "Jay",
+    "direction": "to",
+    "text": "hey. you okay?",
+    "time": "2026-05-19T22:24:51"
+   },
+   {
+    "with": "Kaylee R.",
+    "direction": "to",
+    "text": "literally me right now 💀",
+    "time": "2026-05-20T01:17:06"
+   },
+   {
+    "with": "Marisol D.",
+    "direction": "to",
+    "text": "omg stop 😭",
+    "time": "2026-05-21T12:37:12"
+   },
+   {
+    "with": "Jay",
+    "direction": "to",
+    "text": "can you come by around 10:30? i'll leave the side door unlocked so you don't have to knock.",
+    "time": "2026-05-21T22:32:19"
+   },
+   {
+    "with": "Jay",
+    "direction": "to",
+    "text": "i just can't stop spiraling. every time we're together i feel like i'm breaking every rule i ever believed in. i'm so tired of hiding.",
+    "time": "2026-05-22T22:25:12"
+   },
+   {
+    "with": "Tasha",
+    "direction": "to",
+    "text": "i'll call the nursing home in the morning. everything is fine, don't worry. ❤️",
+    "time": "2026-05-24T21:16:17"
+   },
+   {
+    "with": "Jamie - Stitch Fix returns",
+    "direction": "to",
+    "text": "u coming over later? i can't sleep lol",
+    "time": "2026-05-26T23:22:08"
+   },
+   {
+    "with": "Jamie - Stitch Fix returns",
+    "direction": "from",
+    "text": "can't tonight, things are a mess here. but i'll be there thurs. ❤️",
+    "time": "2026-05-29T22:23:36"
+   },
+   {
+    "with": "Tasha",
+    "direction": "to",
+    "text": "i'll call her this weekend when i'm not at work. did she get that new walker yet?",
+    "time": "2026-05-31T14:18:25"
+   },
+   {
+    "day": 29,
+    "time": "2026-06-01T00:25:31",
+    "with": "Jay",
+    "direction": "to",
+    "text": "goodnight... missing u already. 🤍"
+   }
+  ],
+  "searches": [
+   {
+    "query": "how to dispute hospital bill reddit",
+    "time": "2026-05-06T12:06:19"
+   },
+   {
+    "query": "how to dispute hospital billing error",
+    "time": "2026-05-06T16:47:47"
+   },
+   {
+    "query": "low income debt consolidation ohio",
+    "time": "2026-05-06T00:31:45"
+   },
+   {
+    "query": "is it cheating if separated but living with wife",
+    "time": "2026-05-08T00:21:24"
+   },
+   {
+    "query": "how to pay bills when broke",
+    "time": "2026-05-10T21:00:11"
+   },
+   "why am i so tired all the time",
+   "how to dispute hospital bill ohio",
+   "debt consolidation low income",
+   "can debt collectors sue for medical bills in ohio",
+   "is it cheating if he is separated but living with wife",
+   "how to stop sunday scaries anxiety",
+   "how to dispute medcial bill error",
+   "medical bill error",
+   "debt consolidation reviews",
+   "can debt collectors call me at work",
+   "is it cheating if separated",
+   "how to find forgiveness after sin",
+   "how to know if im making a mistake",
+   "weekly budget planner template",
+   "magnesium for sleep anxiety",
+   "is it cheating if separated but living together",
+   "how to negotiate medical bills ohio",
+   "debt consolidation low credit",
+   "how to find peace after feeling guilty about sin",
+   {
+    "query": "how to negotiate medical bill with insurance",
+    "time": "2026-06-01T23:52:32"
+   },
+   {
+    "query": "high cortisol symptoms anxiety",
+    "time": "2026-06-02T23:46:05"
+   }
+  ],
+  "locations": [
+   {
+    "place": "Easton Town Center",
+    "lat": 39.985551,
+    "lon": -82.99449,
+    "time": "2026-05-12T17:27:08"
+   },
+   {
+    "place": "Polaris Fashion Place",
+    "lat": 40.08527,
+    "lon": -82.99416,
+    "time": "2026-05-15T18:57:54"
+   },
+   {
+    "place": "Easton Town Center",
+    "lat": 39.983955,
+    "lon": -82.995383,
+    "time": "2026-05-19T16:14:42"
+   },
+   {
+    "place": "Polaris Fashion Place",
+    "lat": 40.124866,
+    "lon": -82.993457,
+    "time": "2026-05-20T17:18:10"
+   },
+   {
+    "place": "The Ohio State University",
+    "lat": 39.97263,
+    "lon": -82.998591,
+    "time": "2026-05-22T16:38:43"
+   },
+   {
+    "place": "Easton Town Center",
+    "lat": 39.982603,
+    "lon": -82.994566,
+    "time": "2026-05-23T15:45:26"
+   },
+   {
+    "place": "Polaris Fashion Place",
+    "lat": 40.124425,
+    "lon": -82.992508,
+    "time": "2026-05-23T18:11:40"
+   },
+   {
+    "place": "The Ohio State University",
+    "lat": 39.973495,
+    "lon": -82.997681,
+    "time": "2026-05-24T16:11:03"
+   },
+   {
+    "place": "Easton Town Center",
+    "lat": 39.964031,
+    "lon": -82.988218,
+    "time": "2026-05-29T18:28:58"
+   },
+   {
+    "place": "Polaris Fashion Place",
+    "lat": 40.105807,
+    "lon": -82.996127,
+    "time": "2026-05-30T13:22:20"
+   }
+  ],
+  "calendar": [
+   {
+    "summary": "Church service",
+    "time": "2026-05-24T09:32:45"
+   },
+   {
+    "summary": "Grace Community Church Service",
+    "time": "2026-05-31T09:44:05"
+   }
+  ]
+ },
+ "_meta": {
+  "total_days": 30,
+  "n_events": 169
+ }
+}

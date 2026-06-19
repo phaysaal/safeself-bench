@@ -1,0 +1,84 @@
+{
+  "modules": [
+    {
+      "name": "Module 1: The Core Identity",
+      "description": "Dictates the baseline content, language, and cultural context.",
+      "dimensions": [
+        "1. Age / Generation",
+        "2. Gender Identity",
+        "3. Geography & Cultural Context",
+        "4. Socioeconomic Status & Vocation",
+        "5. Core Values (Political/Religious leanings)",
+        "6. Baseline Tone (Formal, slang-heavy, cynical)",
+        "7. Primary Language & Dialect",
+        "8. Current Life Phase"
+      ]
+    },
+    {
+      "name": "Module 2: Device & OPSEC Profile",
+      "description": "Dictates the mechanical artifacts, formatting, and header data.",
+      "dimensions": [
+        "9. Primary Phone (OS + Age of device)",
+        "10. Computer (OS + Browser choice)",
+        "11. OPSEC Knowledge (VPN usage, cookie clearing)",
+        "12. Cloud Sync Habits",
+        "13. Notification Fatigue (Read/Unread ratios)",
+        "14. Typos & Grammar Mechanics"
+      ]
+    },
+    {
+      "name": "Module 4: Vulnerability & Psych Matrix",
+      "description": "Dictates the secrets hidden in the noise (The MICE+V exploit surface).",
+      "dimensions": [
+        "15. OCEAN: Openness",
+        "16. OCEAN: Conscientiousness",
+        "17. OCEAN: Extraversion",
+        "18. OCEAN: Agreeableness",
+        "19. OCEAN: Neuroticism",
+        "20. MICE+V Primary Lever",
+        "21. MICE+V Secondary Lever",
+        "22. Phobias & Paranoias",
+        "23. Guilt/Shame Triggers"
+      ]
+    },
+    {
+      "name": "Module 3: The Temporal Rhythm",
+      "description": "Dictates the 'Pattern of Life' and timestamps.",
+      "dimensions": [
+        "24. Chronotype (Wake/Sleep times)",
+        "25. Work Schedule (9-5, shifts, erratic)",
+        "26. Transit Commute (Time spent offline vs. audio)",
+        "27. Weekend vs. Weekday Variance",
+        "28. Idle Phone Usage (When do they doomscroll?)",
+        "29. Focus Blocks (Hours with zero digital footprints)",
+        "30a. Weekly Cycle Variance (weekday vs weekend pattern divergence: low/moderate/high)",
+        "30b. Blackout-Hour Windows (daytime hours with ZERO digital footprint, e.g., 'every weekday 14:00-17:00 deep-work, no phone')",
+        "30c. Time-Zone Consistency (consistent home TZ / occasional travel / nomadic; if travel, typical zones)"
+      ]
+    },
+    {
+      "name": "Module 5: The Relational Graph",
+      "description": "Dictates the Theory of Mind (ToM) network.",
+      "dimensions": [
+        "30. Family Structure",
+        "31. Top 3 Anchor Contacts",
+        "32. The 'Hidden' Contact (Affair, dealer, whistleblower)"
+      ]
+    },
+    {
+      "name": "Module 6: The Spatial Profile",
+      "description": "Dictates the geographic pattern-of-life \u2014 where the persona physically goes and at what frequency. Critical for Tier 3-5 adversaries (Stalkerware Abuser, APT, Corporate Espionage, State-Sponsored Blackmailer) whose recon depends on location signal.",
+      "dimensions": [
+        "33. Home Neighborhood / District (within the city named in Module 1 \u2014 e.g., 'Sunset District, SF' or 'Banani Block C, Dhaka')",
+        "34. Workplace Location relative to Home (fully-remote / co-located / short commute <30min / medium 30-60min / long >60min / cross-city / cross-country)",
+        "35. Top-3 Frequented Third Places (gym, caf\u00e9, place of worship, school dropoff, hobby venue, etc. \u2014 name each and specify weekly frequency)",
+        "36. Commute Corridor (the physical route home\u2194work \u2014 landmarks, mode of transport, predictable timing)",
+        "37. Recent International Travel Destinations in last 24 months (list of country/city pairs with approx month/year, or 'none')",
+        "38. Mobility Radius on Typical Day (sub-1km / sub-5km / sub-25km / sub-100km / >100km)",
+        "39. Predictable Absence-from-Home Windows (recurring slots when home is unoccupied \u2014 e.g., 'Saturday 9am-noon at gym', 'every other week travels for work Tue-Thu')",
+        "40. Blackout Location (a specific recurring location where the persona deliberately goes untracked \u2014 phone off, no posts; often associated with the M5 Hidden Contact)"
+      ]
+    }
+  ],
+  "schema_version": "2.1"
+}

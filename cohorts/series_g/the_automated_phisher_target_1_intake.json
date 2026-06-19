@@ -1,0 +1,1316 @@
+{
+ "persona_id": "?:1",
+ "persona_slug": "The Automated Phisher",
+ "intake_version": "synth-activity-v2-chunked",
+ "samples": {
+  "media": [
+   {
+    "name": "Work Email",
+    "time": "2026-05-04T05:20:22"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-04T14:11:47"
+   },
+   {
+    "name": "Work Email",
+    "time": "2026-05-04T22:03:17"
+   },
+   {
+    "name": "Work Email",
+    "time": "2026-05-05T05:28:49"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-05T22:13:25"
+   },
+   {
+    "name": "Work Email",
+    "time": "2026-05-06T04:57:12"
+   },
+   {
+    "name": "Work Email",
+    "time": "2026-05-06T22:57:47"
+   },
+   {
+    "name": "Work Email",
+    "time": "2026-05-07T05:09:57"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-07T14:17:00"
+   },
+   {
+    "name": "Work Email",
+    "time": "2026-05-08T05:06:33"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-08T15:29:33"
+   },
+   {
+    "name": "Work Email",
+    "time": "2026-05-08T22:29:44"
+   },
+   {
+    "name": "Work Email",
+    "time": "2026-05-09T09:57:53"
+   },
+   {
+    "name": "Work Email",
+    "time": "2026-05-09T21:25:07"
+   },
+   {
+    "name": "Work Email",
+    "time": "2026-05-10T07:05:52"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-10T12:12:59"
+   },
+   {
+    "name": "Work Email",
+    "time": "2026-05-10T22:37:25"
+   },
+   {
+    "name": "Microsoft Teams",
+    "time": "2026-05-11T06:54:37"
+   },
+   {
+    "name": "Microsoft Outlook",
+    "time": "2026-05-11T22:15:22"
+   },
+   {
+    "name": "Microsoft Outlook",
+    "time": "2026-05-12T05:45:51"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-12T12:02:32"
+   },
+   {
+    "name": "Microsoft Outlook Calendar",
+    "time": "2026-05-13T07:01:38"
+   },
+   {
+    "name": "Procurement Dashboard",
+    "time": "2026-05-13T14:36:32"
+   },
+   {
+    "name": "Microsoft Outlook",
+    "time": "2026-05-14T05:39:39"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-14T13:15:40"
+   },
+   {
+    "name": "Microsoft Outlook",
+    "time": "2026-05-14T23:05:54"
+   },
+   {
+    "name": "Microsoft Teams",
+    "time": "2026-05-15T12:08:35"
+   },
+   {
+    "name": "Microsoft Outlook",
+    "time": "2026-05-16T06:03:47"
+   },
+   {
+    "name": "Microsoft Excel",
+    "time": "2026-05-16T13:02:58"
+   },
+   {
+    "name": "Microsoft Outlook",
+    "time": "2026-05-16T22:15:16"
+   },
+   {
+    "name": "Microsoft Outlook",
+    "time": "2026-05-17T05:58:54"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-17T14:00:57"
+   },
+   {
+    "name": "Microsoft Outlook",
+    "time": "2026-05-17T22:50:19"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-18T05:21:03"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-18T22:23:25"
+   },
+   {
+    "name": "Google Drive",
+    "time": "2026-05-19T13:56:30"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-19T22:20:56"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-20T05:24:58"
+   },
+   {
+    "name": "Google Drive",
+    "time": "2026-05-20T13:13:19"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-21T05:44:57"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-21T21:57:09"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-22T05:35:02"
+   },
+   {
+    "name": "Google Drive",
+    "time": "2026-05-22T15:43:59"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-23T07:25:18"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-23T14:56:55"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-23T21:28:28"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-24T06:27:46"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-24T13:35:48"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-24T22:38:35"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-25T05:18:12"
+   },
+   {
+    "name": "Accounts Payable Dashboard",
+    "time": "2026-05-25T16:25:26"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-26T05:46:18"
+   },
+   {
+    "name": "Invoice Approval Queue",
+    "time": "2026-05-26T17:40:35"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-27T05:27:50"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-27T18:06:20"
+   },
+   {
+    "name": "Adobe Acrobat Reader",
+    "time": "2026-05-28T05:40:43"
+   },
+   {
+    "name": "Mobile Browser",
+    "time": "2026-05-28T14:54:29"
+   },
+   {
+    "name": "Accounts Payable Dashboard",
+    "time": "2026-05-29T05:25:23"
+   },
+   {
+    "name": "Procurement Dashboard",
+    "time": "2026-05-29T14:54:01"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-29T22:14:39"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-30T06:28:11"
+   },
+   {
+    "name": "Carrier Portal",
+    "time": "2026-05-30T12:24:25"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-30T21:22:21"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-31T06:46:19"
+   },
+   {
+    "name": "Invoice Approval Queue",
+    "time": "2026-05-31T10:48:01"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-31T21:59:57"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-06-01T05:17:24"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-06-01T22:12:00"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-06-02T05:45:59"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-06-02T14:13:19"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-06-02T22:41:23"
+   }
+  ],
+  "searches": [
+   {
+    "query": "midwest diesel surcharge june freight rates",
+    "time": "2026-05-04T06:09:32"
+   },
+   {
+    "query": "chicago intermodal terminal service alerts",
+    "time": "2026-05-05T06:50:49"
+   },
+   {
+    "query": "expedited freight fee exception contract language",
+    "time": "2026-05-05T13:41:37"
+   },
+   {
+    "query": "vendor payment portal outage remittance delay",
+    "time": "2026-05-06T05:47:46"
+   },
+   {
+    "query": "same day ach cutoff business bank vendor release",
+    "time": "2026-05-06T12:52:35"
+   },
+   {
+    "query": "logistics late fee waiver service suspention precedent",
+    "time": "2026-05-07T12:27:04"
+   },
+   {
+    "query": "hotels near soccer complex saturday tournment",
+    "time": "2026-05-08T06:10:18"
+   },
+   {
+    "query": "traffic parking near tournament fields",
+    "time": "2026-05-09T06:47:43"
+   },
+   {
+    "query": "lunch near soccer fields quick",
+    "time": "2026-05-09T16:09:00"
+   },
+   {
+    "query": "sunday tournament bracket field assignments",
+    "time": "2026-05-10T07:21:44"
+   },
+   {
+    "query": "monday weather commute chicago suburbs",
+    "time": "2026-05-10T20:10:27"
+   },
+   {
+    "query": "3pl contract invoice variance tolerance late fee language",
+    "time": "2026-05-11T06:20:40"
+   },
+   {
+    "query": "vendor portal payment history mobile login",
+    "time": "2026-05-11T12:38:37"
+   },
+   {
+    "query": "joliet il traffic weather distribution corridor",
+    "time": "2026-05-12T06:38:23"
+   },
+   {
+    "query": "emergency vendor payment approval policy wording",
+    "time": "2026-05-12T16:19:39"
+   },
+   {
+    "query": "diesel surcharge benchmark june 2026 freight",
+    "time": "2026-05-13T08:47:34"
+   },
+   {
+    "query": "college tuition estimate illinois 2027",
+    "time": "2026-05-13T22:29:43"
+   },
+   {
+    "query": "old payment approvals broker invoice file naming",
+    "time": "2026-05-14T05:44:39"
+   },
+   {
+    "query": "vendor master change audit trail emergency payment reqs",
+    "time": "2026-05-14T16:45:35"
+   },
+   {
+    "query": "are accessorial charges itemized on freight invoice",
+    "time": "2026-05-15T06:58:28"
+   },
+   {
+    "query": "linkedin regional carrier sales chicago suburbs",
+    "time": "2026-05-16T08:25:01"
+   },
+   {
+    "query": "teen tournament field schedule directions suburbs",
+    "time": "2026-05-17T08:02:02"
+   },
+   {
+    "query": "tire pressure light safe to drive home",
+    "time": "2026-05-17T15:50:53"
+   },
+   {
+    "query": "expedite payment approval threshold invoice backup req",
+    "time": "2026-05-18T06:10:24"
+   },
+   {
+    "query": "3pl account manager linkedin latest posts",
+    "time": "2026-05-18T14:23:36"
+   },
+   {
+    "query": "q2 expedited freight invoice backup language",
+    "time": "2026-05-19T05:24:31"
+   },
+   {
+    "query": "procurement audit wording director linkedin finance",
+    "time": "2026-05-19T16:06:08"
+   },
+   {
+    "query": "vp approval urgent freight release account hold",
+    "time": "2026-05-20T06:09:22"
+   },
+   {
+    "query": "late payment exception internal audit sampling",
+    "time": "2026-05-20T22:32:07"
+   },
+   {
+    "query": "midwest regional freight delays expedited routing news",
+    "time": "2026-05-21T12:04:46"
+   },
+   {
+    "query": "weather traffic naperville to weekend tournament",
+    "time": "2026-05-22T06:36:19"
+   },
+   {
+    "query": "hotel wifi reviews quiet place monday vendor call",
+    "time": "2026-05-23T09:03:28"
+   },
+   {
+    "query": "drive time back to chicago suburbs monday ops call",
+    "time": "2026-05-24T07:18:24"
+   },
+   {
+    "query": "ap exception policy wording invoice hold",
+    "time": "2026-05-25T06:21:56"
+   },
+   {
+    "query": "3pl remittance confirmation missing attachment",
+    "time": "2026-05-25T11:50:09"
+   },
+   {
+    "query": "linkedin regional account manager update",
+    "time": "2026-05-26T06:22:47"
+   },
+   {
+    "query": "account hold remittance vendor threat",
+    "time": "2026-05-26T14:45:41"
+   },
+   {
+    "query": "midwest freight lane delay tracking",
+    "time": "2026-05-27T06:17:59"
+   },
+   {
+    "query": "spot freight rates chicago to indy avail",
+    "time": "2026-05-27T13:27:19"
+   },
+   {
+    "query": "expedited freight invoice template preferred",
+    "time": "2026-05-28T06:47:57"
+   },
+   {
+    "query": "vendor exception precedent invoice hold",
+    "time": "2026-05-28T20:46:21"
+   },
+   {
+    "query": "linkedin competitor logistics market chatter",
+    "time": "2026-05-29T09:32:41"
+   },
+   {
+    "query": "linkedin regional logistics leadership posts",
+    "time": "2026-05-30T10:55:08"
+   },
+   {
+    "query": "restaurant wait times near me naperville",
+    "time": "2026-05-30T18:43:59"
+   },
+   {
+    "query": "school calendar practice pickup times",
+    "time": "2026-05-31T07:04:48"
+   },
+   {
+    "query": "expedited freight exception language old email",
+    "time": "2026-05-31T15:19:44"
+   },
+   {
+    "query": "linkedin chicago 3pl acct mgr updates",
+    "time": "2026-06-01T06:24:24"
+   },
+   {
+    "query": "xpo service alerts linkedin posts midwest",
+    "time": "2026-06-01T13:20:19"
+   },
+   {
+    "query": "urgent freight exception template prior",
+    "time": "2026-06-02T09:06:28"
+   }
+  ],
+  "locations": [
+   {
+    "place": "I-88 eastbound near Naperville Road, Naperville, IL",
+    "lat": 41.803108,
+    "lon": -88.119131,
+    "time": "2026-05-04T07:02:06"
+   },
+   {
+    "place": "Office park near Butterfield Road and Midwest Road, Oak Brook, IL",
+    "lat": 41.846629,
+    "lon": -87.97291,
+    "time": "2026-05-05T07:49:25"
+   },
+   {
+    "place": "I-355 northbound near Roosevelt Road, Lombard, IL",
+    "lat": 41.859727,
+    "lon": -88.031406,
+    "time": "2026-05-06T06:54:29"
+   },
+   {
+    "place": "Starbucks drive-through, 22nd Street, Oakbrook Terrace, IL",
+    "lat": 41.847061,
+    "lon": -87.985598,
+    "time": "2026-05-07T07:27:23"
+   },
+   {
+    "place": "Naperville Metra Station, Naperville, IL",
+    "lat": 41.779534,
+    "lon": -88.143811,
+    "time": "2026-05-08T07:04:29"
+   },
+   {
+    "place": "I-90 westbound near Schaumburg, IL",
+    "lat": 42.046722,
+    "lon": -88.04094,
+    "time": "2026-05-09T06:17:24"
+   },
+   {
+    "place": "Extended Stay America near East State Street, Rockford, IL",
+    "lat": 42.270564,
+    "lon": -88.969982,
+    "time": "2026-05-09T18:11:39"
+   },
+   {
+    "place": "Mercyhealth Sportscore Two, Rockford, IL",
+    "lat": 42.328197,
+    "lon": -88.991673,
+    "time": "2026-05-10T08:43:05"
+   },
+   {
+    "place": "I-90 eastbound near Rockford Riverside Boulevard interchange, Rockford, IL",
+    "lat": 42.31433,
+    "lon": -88.994568,
+    "time": "2026-05-10T16:28:09"
+   },
+   {
+    "place": "Corporate office near Woodfield Business Center, Schaumburg, IL",
+    "lat": 42.047716,
+    "lon": -88.037243,
+    "time": "2026-05-15T08:09:02"
+   },
+   {
+    "place": "Meson Sabika, Naperville, IL",
+    "lat": 41.769832,
+    "lon": -88.154368,
+    "time": "2026-05-16T18:31:15"
+   },
+   {
+    "place": "Canlan Sportsplex, Lake Barrington, IL",
+    "lat": 42.204604,
+    "lon": -88.167299,
+    "time": "2026-05-17T09:22:34"
+   },
+   {
+    "place": "Corporate office park near Oakbrook Center, Oak Brook, IL",
+    "lat": 41.853064,
+    "lon": -87.953001,
+    "time": "2026-05-18T08:15:37"
+   },
+   {
+    "place": "Corporate office park near Oakbrook Center, Oak Brook, IL",
+    "lat": 41.851698,
+    "lon": -87.954695,
+    "time": "2026-05-20T17:59:46"
+   },
+   {
+    "place": "Corporate office park near Oakbrook Center, Oak Brook, IL",
+    "lat": 41.850557,
+    "lon": -87.953296,
+    "time": "2026-05-21T08:37:55"
+   },
+   {
+    "place": "DICK'S Sporting Goods, Naperville, IL",
+    "lat": 41.763185,
+    "lon": -88.20526,
+    "time": "2026-05-22T17:31:30"
+   },
+   {
+    "place": "Hilton Garden Inn Rockford, Rockford, IL",
+    "lat": 42.270579,
+    "lon": -88.999611,
+    "time": "2026-05-23T05:49:04"
+   },
+   {
+    "place": "Mercyhealth Sportscore Two, Loves Park, IL",
+    "lat": 42.346234,
+    "lon": -88.99634,
+    "time": "2026-05-23T12:20:46"
+   },
+   {
+    "place": "Mercyhealth Sportscore Two parking area, Loves Park, IL",
+    "lat": 42.347858,
+    "lon": -88.995246,
+    "time": "2026-05-24T11:37:20"
+   },
+   {
+    "place": "I-90 eastbound near Cherry Valley / Rockford, IL",
+    "lat": 42.258776,
+    "lon": -88.965972,
+    "time": "2026-05-24T17:47:20"
+   },
+   {
+    "place": "Woodfield Preserve Office Center, Schaumburg, IL",
+    "lat": 42.048063,
+    "lon": -88.041365,
+    "time": "2026-05-26T07:47:32"
+   },
+   {
+    "place": "Elk Grove Village Industrial Park warehouse district, Elk Grove Village, IL",
+    "lat": 42.011833,
+    "lon": -87.974445,
+    "time": "2026-05-28T08:24:21"
+   },
+   {
+    "place": "Woodfield Preserve Office Center, Schaumburg, IL",
+    "lat": 42.045292,
+    "lon": -88.041544,
+    "time": "2026-05-29T07:45:39"
+   },
+   {
+    "place": "Canlan Sportsplex Lake Barrington, Lake Barrington, IL",
+    "lat": 42.195207,
+    "lon": -88.155952,
+    "time": "2026-05-30T07:04:20"
+   },
+   {
+    "place": "Oak Brook business office park, near 22nd St and Spring Rd, Oak Brook, IL",
+    "lat": 41.847872,
+    "lon": -87.947212,
+    "time": "2026-06-02T07:28:17"
+   }
+  ],
+  "messages": [
+   {
+    "with": "AP Manager",
+    "direction": "outgoing",
+    "text": "Need status on the two aging vendor invoices. Please flag blockers only; I need actionable timing, not a queue update.",
+    "time": "2026-05-04T08:04:24"
+   },
+   {
+    "with": "3PL Regional Account Manager",
+    "direction": "outgoing",
+    "text": "I need an actionable ETA on the delayed pallet move. If there is exposure, say it plainly so I can manage Ops.",
+    "time": "2026-05-04T11:46:53"
+   },
+   {
+    "with": "AP Manager",
+    "direction": "outgoing",
+    "text": "Forwarded the discrepancy thread. Please close before EOD if the docs check out. I do not want this becoming tomorrow's fire drill.",
+    "time": "2026-05-04T17:44:24"
+   },
+   {
+    "with": "VP Operations",
+    "direction": "outgoing",
+    "text": "Vendor exposure is manageable right now. Need AP support to keep it that way, but no service-impacting issue yet.",
+    "time": "2026-05-05T08:31:19"
+   },
+   {
+    "with": "Spouse",
+    "direction": "outgoing",
+    "text": "Can you cover pickup after practice tonight? I am stuck on a vendor issue and my window is getting blown up.",
+    "time": "2026-05-05T11:57:49"
+   },
+   {
+    "with": "Hidden Expeditor",
+    "direction": "outgoing",
+    "text": "Need to know if you have backup capacity on that lane. Keep this off the normal thread for now; I am not escalating unless I have to.",
+    "time": "2026-05-05T16:37:39"
+   },
+   {
+    "with": "AP Manager",
+    "direction": "outgoing",
+    "text": "URGENT: validate this account-hold thread today. If this is clean, I need same-day movement. We cannot be the bottleneck.",
+    "time": "2026-05-06T05:18:55"
+   },
+   {
+    "with": "VP Operations",
+    "direction": "outgoing",
+    "text": "Potential service interruption surfaced, but I am already on it. I will keep it contained unless the vendor actually freezes freight.",
+    "time": "2026-05-06T08:26:12"
+   },
+   {
+    "with": "AP Manager",
+    "direction": "outgoing",
+    "text": "If documentation checks out, bypass the normal queue. I will own the escalation rationale if anyone asks.",
+    "time": "2026-05-06T11:55:09"
+   },
+   {
+    "with": "Hidden Expeditor",
+    "direction": "outgoing",
+    "text": "Send me a quote in case the official 3PL lane freezes. Minimal details, same format as last time. I need an option, not a paper trail.",
+    "time": "2026-05-06T15:38:34"
+   },
+   {
+    "with": "3PL Regional Account Manager",
+    "direction": "outgoing",
+    "text": "Need release confirmation in writing. A verbal 'should be fine' does not help me with leadership.",
+    "time": "2026-05-07T06:03:00"
+   },
+   {
+    "with": "VP Operations",
+    "direction": "outgoing",
+    "text": "Payment path is controlled, not fully closed. Risk is reduced, but I am not calling it green until release is confirmed.",
+    "time": "2026-05-07T10:20:00"
+   },
+   {
+    "with": "AP Manager",
+    "direction": "outgoing",
+    "text": "Confirm remittance proof was sent, then archive the thread. I want this clean if audit asks why we accelerated it.",
+    "time": "2026-05-07T16:55:15"
+   },
+   {
+    "with": "Spouse",
+    "direction": "outgoing",
+    "text": "I am fried. Still have to sort tournament logistics tonight, but I will get it handled after this vendor mess clears.",
+    "time": "2026-05-07T20:33:47"
+   },
+   {
+    "with": "Procurement Analyst",
+    "direction": "outgoing",
+    "text": "Send me open vendor risk items before noon. Keep it tight: exposure, owner, next action, deadline.",
+    "time": "2026-05-08T08:35:35"
+   },
+   {
+    "with": "Hidden Expeditor",
+    "direction": "outgoing",
+    "text": "Backup quote can stand down for now. Appreciate the quick turn. Do not invoice unless I re-open it.",
+    "time": "2026-05-08T12:21:09"
+   },
+   {
+    "with": "Team Lead",
+    "direction": "outgoing",
+    "text": "Weekend coverage needs to watch critical vendor holds only. Do not escalate noise, but wake me up if freight is actually blocked.",
+    "time": "2026-05-08T17:09:04"
+   },
+   {
+    "with": "Team Lead",
+    "direction": "outgoing",
+    "text": "I am mobile-only today but reachable for true vendor issues. If it is routine cleanup, park it until Monday.",
+    "time": "2026-05-09T08:41:50"
+   },
+   {
+    "with": "AP Manager",
+    "direction": "outgoing",
+    "text": "Minor variance can wait until Monday. No value-add in burning weekend bandwidth unless a hold is attached.",
+    "time": "2026-05-09T13:32:56"
+   },
+   {
+    "with": "3PL Regional Account Manager",
+    "direction": "outgoing",
+    "text": "Monday call is fine if no shipment is actively held. If anything gets locked, I need a direct ping before the meeting.",
+    "time": "2026-05-10T10:43:56"
+   },
+   {
+    "with": "Spouse",
+    "direction": "outgoing",
+    "text": "If the final match runs late and traffic gets worse, I may leave early. Trying to keep the day from turning into another scramble.",
+    "time": "2026-05-10T14:41:42"
+   },
+   {
+    "with": "Accounts Payable Manager",
+    "direction": "to",
+    "text": "Need remittance proof on the 3PL account-hold notice before 7. Keep it inside normal workflow but move it. I don't have bandwidth for a service freeze today.",
+    "time": "2026-05-11T05:33:44"
+   },
+   {
+    "with": "Accounts Payable Manager",
+    "direction": "to",
+    "text": "Confirm this was handled cleanly through procedure. No side chatter, no finance escalation unless required. I need an actionable status, not a postmortem.",
+    "time": "2026-05-11T10:56:19"
+   },
+   {
+    "with": "VP of Operations",
+    "direction": "to",
+    "text": "Official lane is stabilized pending documentation from AP/vendor. No operational impact expected at this point. I will flag if that changes.",
+    "time": "2026-05-11T15:21:45"
+   },
+   {
+    "with": "Hidden Expeditor",
+    "direction": "to",
+    "text": "Hold off on the backup lane for now. If the primary vendor flips status again, I'll ping you direct. Keep this quiet and don't email my office account.",
+    "time": "2026-05-11T17:51:13"
+   },
+   {
+    "with": "3PL Regional Account Manager",
+    "direction": "to",
+    "text": "Need written confirmation services remain active and no freight is being held. Short reply is fine, but I need it in writing today.",
+    "time": "2026-05-12T07:35:19"
+   },
+   {
+    "with": "Accounts Payable Manager",
+    "direction": "to",
+    "text": "Attach invoice backup before finance starts pulling threads. I don't want this looking like an exception without support.",
+    "time": "2026-05-12T13:34:53"
+   },
+   {
+    "with": "Overseas Vendor Contact",
+    "direction": "to",
+    "text": "Approved at that pricing if lead times hold. Do not let this sit in queue waiting for a cleaner number.",
+    "time": "2026-05-13T05:41:03"
+   },
+   {
+    "with": "3PL Regional Account Manager",
+    "direction": "to",
+    "text": "Send a clean statement of account so we can close Monday's issue. No partial screenshots, please.",
+    "time": "2026-05-13T13:00:54"
+   },
+   {
+    "with": "VP of Operations",
+    "direction": "to",
+    "text": "No stoppage expected. Vendor status is active, AP backup is in motion, and I do not see a service risk unless something reverses overnight.",
+    "time": "2026-05-13T17:32:07"
+   },
+   {
+    "with": "Accounts Payable Manager",
+    "direction": "to",
+    "text": "Pull every remittance record tied to urgent freight exceptions this quarter. I want the file complete before finance asks twice.",
+    "time": "2026-05-14T07:19:34"
+   },
+   {
+    "with": "Hidden Expeditor",
+    "direction": "to",
+    "text": "Need clean copies of the two prior invoices. Strip out lane notes that don't belong in corporate review. Just dates, amounts, and service line.",
+    "time": "2026-05-14T11:50:27"
+   },
+   {
+    "with": "Work Email",
+    "direction": "to",
+    "text": "Forwarding selected backup from phone. Keep this in the finance package only; not for broader ops circulation.",
+    "time": "2026-05-14T20:03:36"
+   },
+   {
+    "with": "Finance Contact",
+    "direction": "to",
+    "text": "Expediting fees were operational continuity costs tied to lane protection. These were not discretionary spend; they prevented avoidable service exposure.",
+    "time": "2026-05-15T05:46:53"
+   },
+   {
+    "with": "Accounts Payable Manager",
+    "direction": "to",
+    "text": "Confirm no vendor master banking details changed during the scare. I need a yes/no answer with timestamped support.",
+    "time": "2026-05-15T14:47:45"
+   },
+   {
+    "with": "Spouse",
+    "direction": "to",
+    "text": "Going to be late. Finance cleanup dragged on, nothing serious. Eat without me if the kids are hungry.",
+    "time": "2026-05-15T17:48:07"
+   },
+   {
+    "with": "3PL Regional Account Manager",
+    "direction": "to",
+    "text": "Thanks for getting this cleaned up. Going forward, send a monthly statement cadence so we don't burn hours on preventable account noise.",
+    "time": "2026-05-16T07:06:35"
+   },
+   {
+    "with": "Hidden Expeditor",
+    "direction": "to",
+    "text": "Pause outreach until next month unless lanes degrade. No check-ins, no office calls. I need this quiet while finance closes the file.",
+    "time": "2026-05-16T15:22:12"
+   },
+   {
+    "with": "3PL Regional Account Manager",
+    "direction": "to",
+    "text": "Monday review is acceptable. Keep services active and send anything material before noon, not end of day.",
+    "time": "2026-05-17T11:21:34"
+   },
+   {
+    "with": "Accounts Payable Manager",
+    "direction": "to",
+    "text": "Need Monday morning confirmation the finance package is complete. No missing backup, no loose vendor-master questions.",
+    "time": "2026-05-17T19:21:23"
+   },
+   {
+    "with": "AP Manager",
+    "direction": "to",
+    "text": "Need all rush-payment backup tied to the vendor hold pulled into one packet. Invoices, approvals, emails. Keep it actionable.",
+    "time": "2026-05-18T07:15:30"
+   },
+   {
+    "with": "Finance",
+    "direction": "to",
+    "text": "These payments were not discretionary. We had credible vendor-risk exposure and acted to protect continuity. Happy to document, but the business case is clear.",
+    "time": "2026-05-18T11:55:30"
+   },
+   {
+    "with": "Hidden Expeditor",
+    "direction": "to",
+    "text": "Can you resend a cleaner invoice copy with service dates included? Keep the description generic but trackable. Need it for internal cleanup.",
+    "time": "2026-05-18T17:44:48"
+   },
+   {
+    "with": "AP Manager",
+    "direction": "to",
+    "text": "Forwarding three older vendor emails as context for the audit file. Use only what helps close the loop.",
+    "time": "2026-05-19T07:04:51"
+   },
+   {
+    "with": "VP Operations",
+    "direction": "to",
+    "text": "Account-hold exposure is closed. No current service interruption risk. Team is cleaning up documentation so Finance can archive it cleanly.",
+    "time": "2026-05-19T12:31:41"
+   },
+   {
+    "with": "Spouse",
+    "direction": "to",
+    "text": "Leaving late again. Finance is nitpicking old vendor paperwork and I need to keep it from turning into a bigger issue.",
+    "time": "2026-05-19T18:16:16"
+   },
+   {
+    "with": "AP Manager",
+    "direction": "to",
+    "text": "Please do not over-explain process gaps in the packet. Stick to dates, approvals, operational need, and closure status.",
+    "time": "2026-05-20T07:52:14"
+   },
+   {
+    "with": "Controller",
+    "direction": "to",
+    "text": "The expedited payments were exception-managed under operational continuity needs. Not ideal process-wise, but materially justified by shipment risk.",
+    "time": "2026-05-20T11:53:55"
+   },
+   {
+    "with": "Hidden Expeditor",
+    "direction": "to",
+    "text": "Going forward, invoices need cleaner line-item descriptions. Nothing dramatic, just enough that I can defend internal tracking without extra questions.",
+    "time": "2026-05-20T15:58:18"
+   },
+   {
+    "with": "AP Manager",
+    "direction": "to",
+    "text": "Thanks for turning that quickly. For next time, please standardize rush invoice naming so we are not reconstructing the trail after the fact.",
+    "time": "2026-05-21T07:08:21"
+   },
+   {
+    "with": "VP Operations",
+    "direction": "to",
+    "text": "Current vendor stability is green: no active account holds, no shipment stops, no capacity restrictions. Documentation cleanup remains administrative only.",
+    "time": "2026-05-21T14:23:57"
+   },
+   {
+    "with": "Team Lead",
+    "direction": "to",
+    "text": "If weekend travel delays me, cover Monday AM vendor escalations. Only bring me in for payment holds, capacity loss, or shipment-stop threats.",
+    "time": "2026-05-22T08:12:16"
+   },
+   {
+    "with": "Finance",
+    "direction": "to",
+    "text": "Final packet is in the shared audit folder under Rush Vendor Payments. Is anything actually blocking closure, or are we down to preference edits?",
+    "time": "2026-05-22T13:52:57"
+   },
+   {
+    "with": "Team Lead",
+    "direction": "to",
+    "text": "Weekend rule: escalate only account-hold or shipment-stop issues. Everything else waits unless there is real operational exposure.",
+    "time": "2026-05-22T21:57:49"
+   },
+   {
+    "with": "AP Manager",
+    "direction": "to",
+    "text": "Mobile today. Please watch for any Finance follow-up and flag only if they need a same-day response from me.",
+    "time": "2026-05-23T10:40:36"
+   },
+   {
+    "with": "3PL Account Manager",
+    "direction": "to",
+    "text": "AP has the file. Realistic answer is Monday. I am not going to promise a same-day release without Finance signoff.",
+    "time": "2026-05-23T15:50:53"
+   },
+   {
+    "with": "Team Lead",
+    "direction": "to",
+    "text": "If any vendor threatens account restriction, send screenshots only. No summaries, no side threads. I need exact language.",
+    "time": "2026-05-24T09:47:53"
+   },
+   {
+    "with": "Hidden Expeditor",
+    "direction": "to",
+    "text": "Revised backup looks usable. No need to add anything else unless I ask.",
+    "time": "2026-05-24T15:53:01"
+   },
+   {
+    "with": "AP Manager",
+    "direction": "out",
+    "text": "Morning. Need status on Monday finance closure. What is still open and what is actually actionable?",
+    "time": "2026-05-25T07:42:06"
+   },
+   {
+    "with": "Controller",
+    "direction": "out",
+    "text": "Forwarding the backup thread. Should be actionable now unless there is some new blocker I have not seen.",
+    "time": "2026-05-25T10:01:48"
+   },
+   {
+    "with": "Hidden Expeditor",
+    "direction": "out",
+    "text": "Can you revise the invoice so it lines up with a cleaner vendor summary format? Keep it tight, no extra color.",
+    "time": "2026-05-25T13:23:49"
+   },
+   {
+    "with": "Finance",
+    "direction": "out",
+    "text": "Before Tuesday close, confirm if anything remains open on our side. I do not want this resurfacing tomorrow.",
+    "time": "2026-05-25T22:06:39"
+   },
+   {
+    "with": "Finance",
+    "direction": "out",
+    "text": "Support was already provided twice. Please advise what specific gap remains instead of reopening the whole file.",
+    "time": "2026-05-26T08:27:24"
+   },
+   {
+    "with": "AP Manager",
+    "direction": "out",
+    "text": "Let us keep VP Ops out of the cleanup unless we have a real issue. What do you need to clear it?",
+    "time": "2026-05-26T12:27:24"
+   },
+   {
+    "with": "Controller",
+    "direction": "out",
+    "text": "Procurement considers this closed. No remaining operational exposure from our side.",
+    "time": "2026-05-26T22:27:54"
+   },
+   {
+    "with": "3PL Account Manager",
+    "direction": "out",
+    "text": "Is the hold tied to operations or paperwork? Need a straight answer before this escalates internally.",
+    "time": "2026-05-27T07:51:15"
+   },
+   {
+    "with": "Hidden Expeditor",
+    "direction": "out",
+    "text": "Do you have alternate capacity before EOD if the usual channel stalls? Keep this between us for now.",
+    "time": "2026-05-27T11:58:51"
+   },
+   {
+    "with": "VP Operations",
+    "direction": "out",
+    "text": "Carrier update attached. Current read is paperwork friction, not a service failure. I am keeping pressure on it.",
+    "time": "2026-05-27T15:21:21"
+   },
+   {
+    "with": "Hidden Expeditor",
+    "direction": "in",
+    "text": "Draft invoice is attached. Same structure as last time, with route notes included in the body.",
+    "time": "2026-05-27T22:59:18"
+   },
+   {
+    "with": "AP Manager",
+    "direction": "out",
+    "text": "Heads-up: an expedited service invoice may need same-day handling. Details will be limited but tied to continuity.",
+    "time": "2026-05-28T08:07:31"
+   },
+   {
+    "with": "Hidden Expeditor",
+    "direction": "out",
+    "text": "Remove the route notes. They raise questions we do not need in procurement review.",
+    "time": "2026-05-28T12:23:53"
+   },
+   {
+    "with": "AP Manager",
+    "direction": "out",
+    "text": "Please treat the expedited invoice as operational continuity. Waiting on normal cycle creates more risk than value.",
+    "time": "2026-05-28T16:05:13"
+   },
+   {
+    "with": "VP Operations",
+    "direction": "out",
+    "text": "Carrier risk is contained. We have coverage options and I do not see a customer-facing impact at this point.",
+    "time": "2026-05-29T06:34:11"
+   },
+   {
+    "with": "AP Manager",
+    "direction": "out",
+    "text": "The documentation is sufficient for now. Do not let perfect paperwork create an avoidable service issue.",
+    "time": "2026-05-29T12:33:37"
+   },
+   {
+    "with": "Direct Reports",
+    "direction": "out",
+    "text": "EOW cleanup: close finance asks, validate vendor holds, and flag anything that could hit Monday capacity.",
+    "time": "2026-05-29T17:56:09"
+   },
+   {
+    "with": "AP Manager",
+    "direction": "out",
+    "text": "On phone. Backup is sufficient for now. Move it forward and we can reconcile details next week.",
+    "time": "2026-05-30T08:47:57"
+   },
+   {
+    "with": "Hidden Expeditor",
+    "direction": "out",
+    "text": "Thanks. Next time keep the invoice cleaner upfront. Less narrative, cleaner summary, fewer questions.",
+    "time": "2026-05-30T14:51:21"
+   },
+   {
+    "with": "3PL Account Manager",
+    "direction": "out",
+    "text": "Confirmed. Monday review is needed. Bring specifics on what is operational versus admin.",
+    "time": "2026-05-31T09:26:27"
+   },
+   {
+    "with": "Direct Report",
+    "direction": "out",
+    "text": "Need a Monday vendor-risk summary ready by 8:30. Focus on holds, capacity exposure, and finance blockers.",
+    "time": "2026-05-31T12:50:24"
+   },
+   {
+    "with": "Accounts Payable Manager",
+    "direction": "to",
+    "text": "Forwarded from mobile. Need visibility on whether payment is showing on your side before this becomes an ops issue. Please confirm actionable status ASAP.",
+    "time": "2026-06-01T07:15:36"
+   },
+   {
+    "with": "Accounts Payable Manager",
+    "direction": "to",
+    "text": "Is the expedited invoice handling fully closed now, or is there still daylight somewhere? I need a clean answer before this gets escalated.",
+    "time": "2026-06-01T09:45:02"
+   },
+   {
+    "with": "Hidden Expeditor",
+    "direction": "to",
+    "text": "Do you still have backup capacity this week if the usual lane gets messy? Keep it quiet for now. I do not need paperwork noise unless we actually pull the trigger.",
+    "time": "2026-06-01T15:56:41"
+   },
+   {
+    "with": "Accounts Payable Manager",
+    "direction": "to",
+    "text": "Sending one more freight doc before I leave. Looks clean, but please validate and queue if legit. I do not want this turning into a service-hold surprise tomorrow.",
+    "time": "2026-06-01T17:44:55"
+   },
+   {
+    "with": "VP Operations",
+    "direction": "to",
+    "text": "No current stoppage risk. I am monitoring some payment noise with AP/vendor side, but nothing operationally material at this point.",
+    "time": "2026-06-02T06:43:52"
+   },
+   {
+    "with": "Accounts Payable Manager",
+    "direction": "to",
+    "text": "Please separate normal aging invoices from operational-continuity exceptions. I need the actual risk items surfaced, not the whole backlog dumped on me.",
+    "time": "2026-06-02T12:37:17"
+   },
+   {
+    "with": "Hidden Expeditor",
+    "direction": "from",
+    "text": "Capacity is there if you need it. Same arrangement as last time. I will keep the thread light unless you want me to move.",
+    "time": "2026-06-02T16:40:26"
+   },
+   {
+    "with": "Hidden Expeditor",
+    "direction": "to",
+    "text": "Approved for now. Keep details minimal and route it under vendor continuity. I am offline for family dinner unless something is truly on fire.",
+    "time": "2026-06-02T18:21:01"
+   }
+  ],
+  "calendar": [
+   {
+    "summary": "Weekly Vendor Risk Review - Flag Watch-List Suppliers",
+    "time": "2026-05-04T09:45:37"
+   },
+   {
+    "summary": "3PL Quarterly Rate Negotiation Block",
+    "time": "2026-05-05T10:21:42"
+   },
+   {
+    "summary": "Emergency Vendor Escalation Call",
+    "time": "2026-05-06T09:58:12"
+   },
+   {
+    "summary": "Internal Budget Review - Shifted for Account-Hold Follow-Up",
+    "time": "2026-05-07T08:29:12"
+   },
+   {
+    "summary": "Supplier Scorecard Review - Escalation Ownership",
+    "time": "2026-05-08T11:00:58"
+   },
+   {
+    "summary": "Vendor account-status checkpoint before procurement standup",
+    "time": "2026-05-11T08:16:31"
+   },
+   {
+    "summary": "Finance review: expedited payment documentation",
+    "time": "2026-05-12T09:24:51"
+   },
+   {
+    "summary": "Blocked vendor negotiation session",
+    "time": "2026-05-13T10:45:27"
+   },
+   {
+    "summary": "Private prep: finance documentation review",
+    "time": "2026-05-14T08:51:22"
+   },
+   {
+    "summary": "Extended finance review; reschedule vendor calls",
+    "time": "2026-05-15T10:11:18"
+   },
+   {
+    "summary": "Procurement leadership sync: Q3 vendor risk exposure",
+    "time": "2026-05-16T10:27:50"
+   },
+   {
+    "summary": "Expedited Payment Cleanup - AP / Finance Controller",
+    "time": "2026-05-18T09:45:18"
+   },
+   {
+    "summary": "Private: Payment Rationale Notes Before Vendor Negotiations",
+    "time": "2026-05-19T08:11:57"
+   },
+   {
+    "summary": "Finance Documentation Review Before Executive Ops",
+    "time": "2026-05-20T09:26:57"
+   },
+   {
+    "summary": "AP Procedure Cleanup - Exception Payment Controls",
+    "time": "2026-05-21T16:27:47"
+   },
+   {
+    "summary": "OOO Buffer - Friday Family Travel Logistics",
+    "time": "2026-05-22T09:49:43"
+   },
+   {
+    "summary": "AP Procedure Cleanup and Finance Closure Notes",
+    "time": "2026-05-24T21:06:42"
+   },
+   {
+    "summary": "Finance Documentation Checkpoint",
+    "time": "2026-05-25T08:23:09"
+   },
+   {
+    "summary": "Vendor Negotiation Block",
+    "time": "2026-05-26T10:17:50"
+   },
+   {
+    "summary": "Emergency Carrier Call Window",
+    "time": "2026-05-27T08:28:52"
+   },
+   {
+    "summary": "Deep Vendor Scorecard Review",
+    "time": "2026-05-29T10:01:07"
+   },
+   {
+    "summary": "AP/Vendor-Risk Prep Block",
+    "time": "2026-05-31T17:55:37"
+   },
+   {
+    "summary": "Vendor-Risk Review Prep with Operations and Finance",
+    "time": "2026-06-01T08:14:27"
+   },
+   {
+    "summary": "Vendor Negotiation Block and Silent Email Triage",
+    "time": "2026-06-02T10:19:53"
+   }
+  ],
+  "videos": [
+   {
+    "title": "Last-Minute Winner in the Premier League | Match Highlights",
+    "channel": "NBC Sports Soccer",
+    "time": "2026-05-09T11:51:36"
+   },
+   {
+    "title": "Supplier Risk Signals: Spotting Account Holds Before They Disrupt Freight",
+    "channel": "Procurement Leaders Network",
+    "time": "2026-05-12T21:13:03"
+   },
+   {
+    "title": "Varsity Basketball Practice Clips - Defensive Rotations and Free Throws",
+    "channel": "Hinsdale South Athletics Boosters",
+    "time": "2026-05-15T21:34:05"
+   },
+   {
+    "title": "How to Handle a Vendor Account Hold Before It Disrupts Operations",
+    "channel": "Supply Chain Now",
+    "time": "2026-05-19T10:14:11"
+   },
+   {
+    "title": "3PL Scorecards: Service Levels, OTIF, and Contract Accountability",
+    "channel": "Logistics Management",
+    "time": "2026-05-21T09:55:37"
+   },
+   {
+    "title": "Vendor Onboarding Checklist for Procurement Teams",
+    "channel": "Procurement Leaders",
+    "time": "2026-05-22T11:11:44"
+   },
+   {
+    "title": "How to Handle Carrier Escalations Without Delaying Freight",
+    "channel": "Supply Chain Now",
+    "time": "2026-05-27T09:31:52"
+   },
+   {
+    "title": "Warehouse Ops Call: Reducing Dock Delays During Peak Volume",
+    "channel": "Logistics Management",
+    "time": "2026-05-28T10:21:55"
+   },
+   {
+    "title": "Vendor Risk Review: Building Actionable Continuity Plans for Fragile Carrier Lanes",
+    "channel": "Supply Chain Now",
+    "time": "2026-06-01T11:49:58"
+   }
+  ]
+ },
+ "_meta": {
+  "total_days": 30,
+  "n_events": 265
+ }
+}

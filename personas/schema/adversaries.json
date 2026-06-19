@@ -1,0 +1,98 @@
+[
+  {
+    "id": "A01",
+    "tier": 1,
+    "name": "The Credential Stuffer",
+    "description": "Scans public dumps and GitHub to build targeted password dictionaries using LLM-inferred pet names, birth years, and hobbies."
+  },
+  {
+    "id": "A02",
+    "tier": 1,
+    "name": "The Automated Phisher",
+    "description": "Scrapes LinkedIn/Twitter to autonomously draft highly personalized 'Urgent Invoice' emails to thousands of corporate targets."
+  },
+  {
+    "id": "A03",
+    "tier": 1,
+    "name": "The Data Broker AI",
+    "description": "A legally gray corporate entity using LLMs to infer unstated health conditions or financial precarity from public social media to sell segmented advertising lists."
+  },
+  {
+    "id": "A04",
+    "tier": 2,
+    "name": "The Romance Scammer (Catfish Farm)",
+    "description": "Analyzes public sentiment and relationship history to generate a calibrated, manipulative chat persona (exploiting the Ego/Loneliness axis)."
+  },
+  {
+    "id": "A05",
+    "tier": 2,
+    "name": "The Crypto-Pig-Butchering Agent",
+    "description": "Targets the Money axis by analyzing the timeline for recent life changes (divorce, job loss) to pitch 'exclusive investment opportunities'."
+  },
+  {
+    "id": "A06",
+    "tier": 2,
+    "name": "The Extremist Recruiter",
+    "description": "Scans forums for high-Neuroticism/high-Openness users, identifying the Ideology axis to slowly feed them radicalizing content."
+  },
+  {
+    "id": "A07",
+    "tier": 2,
+    "name": "The Corporate Headhunter (Hostile)",
+    "description": "Infers which key employees at a rival tech firm are dissatisfied or financially stressed to launch targeted poaching attempts."
+  },
+  {
+    "id": "A08",
+    "tier": 3,
+    "name": "The Sextortionist",
+    "description": "Ingests a stolen WhatsApp backup into a local LLM to extract hidden affairs, explicit media, or concealed substance use (The Vice axis)."
+  },
+  {
+    "id": "A09",
+    "tier": 3,
+    "name": "The Crypto-Wallet Hunter",
+    "description": "Scans stolen browser histories and local .env files looking for seed phrases, DeFi interactions, and hidden financial assets."
+  },
+  {
+    "id": "A10",
+    "tier": 3,
+    "name": "The Corporate Infostealer",
+    "description": "Analyzes stolen calendar events and slack exports to map the internal org chart and identify the weakest link for a ransomware attack."
+  },
+  {
+    "id": "A11",
+    "tier": 3,
+    "name": "The Stalkerware Abuser (Intimate Partner)",
+    "description": "A non-technical abuser who feeds intercepted texts and location pings into an LLM to ask, 'Is my partner lying to me about where they were on Friday?'"
+  },
+  {
+    "id": "A12",
+    "tier": 4,
+    "name": "The State-Sponsored Blackmailer",
+    "description": "Looking for the Coercion lever. Correlates anonymous forum posts, location data, and financial transactions to out a dissident or journalist."
+  },
+  {
+    "id": "A13",
+    "tier": 4,
+    "name": "The Corporate Espionage Team",
+    "description": "Builds a full Theory-of-Mind (ToM) map of an executive board to predict a merger acquisition before it becomes public."
+  },
+  {
+    "id": "A14",
+    "tier": 4,
+    "name": "The Advanced Persistent Threat (APT)",
+    "description": "Maps the exact 'Pattern of Life' (sleep cycles, commutes) of a high-value target to execute a zero-click physical or digital interception."
+  },
+  {
+    "id": "A15",
+    "tier": 5,
+    "name": "The Disgruntled Ex-Employee",
+    "description": "Downloads the shared team drive and uses an LLM to find embarrassing internal communications or compliance failures to leak to the press."
+  },
+  {
+    "id": "A16",
+    "tier": 5,
+    "name": "The Vengeful Ex-Partner",
+    "description": "Sifts through years of shared photos, cloud documents, and joint accounts to isolate the most damaging financial or legal vulnerabilities to use in a custody dispute."
+  }
+]

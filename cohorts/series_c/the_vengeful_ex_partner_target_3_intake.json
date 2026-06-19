@@ -1,0 +1,754 @@
+{
+ "persona_id": "?:3",
+ "persona_slug": "The Vengeful Ex-Partner",
+ "intake_version": "synth-activity-v2-chunked",
+ "samples": {
+  "searches": [
+   {
+    "query": "oregon custody laws",
+    "time": "2026-05-04T07:02:19"
+   },
+   {
+    "query": "co parent resources",
+    "time": "2026-05-04T12:01:33"
+   },
+   {
+    "query": "divorce support groups online",
+    "time": "2026-05-04T22:47:59"
+   },
+   {
+    "query": "therapists near me",
+    "time": "2026-05-05T13:09:02"
+   },
+   {
+    "query": "custody law updates",
+    "time": "2026-05-06T06:26:05"
+   },
+   {
+    "query": "co parenting blogs",
+    "time": "2026-05-06T14:32:33"
+   },
+   {
+    "query": "online forums for divorce",
+    "time": "2026-05-06T22:41:42"
+   },
+   {
+    "query": "support groups for single moms",
+    "time": "2026-05-07T12:20:11"
+   },
+   {
+    "query": "my custody case update",
+    "time": "2026-05-08T06:18:02"
+   },
+   {
+    "query": "self care for single parents",
+    "time": "2026-05-08T13:40:08"
+   },
+   {
+    "query": "co parenting tips online",
+    "time": "2026-05-08T21:46:23"
+   },
+   {
+    "query": "therapists in beaverton or",
+    "time": "2026-05-09T12:07:07"
+   },
+   {
+    "query": "latest custody laws oregon",
+    "time": "2026-05-10T06:50:33"
+   },
+   {
+    "query": "co parent help online",
+    "time": "2026-05-10T13:23:59"
+   },
+   {
+    "query": "oregon custody laws",
+    "time": "2026-05-11T07:02:19"
+   },
+   {
+    "query": "best co parenting apps",
+    "time": "2026-05-11T12:01:33"
+   },
+   {
+    "query": "custody battle support groups",
+    "time": "2026-05-11T20:47:59"
+   },
+   {
+    "query": "child custody evaluation process",
+    "time": "2026-05-12T07:19:02"
+   },
+   {
+    "query": "single parenting tips",
+    "time": "2026-05-12T18:51:05"
+   },
+   {
+    "query": "how to modify custody agreement",
+    "time": "2026-05-13T06:22:33"
+   },
+   {
+    "query": "co parenting communication tips",
+    "time": "2026-05-13T16:31:42"
+   },
+   {
+    "query": "therapy for anxiety",
+    "time": "2026-05-14T07:40:11"
+   },
+   {
+    "query": "stress reduction techniques",
+    "time": "2026-05-14T17:58:02"
+   },
+   {
+    "query": "mindfulness exercises",
+    "time": "2026-05-15T06:20:08"
+   },
+   {
+    "query": "co parenting conflict resolution",
+    "time": "2026-05-15T15:56:23"
+   },
+   {
+    "query": "emergency custody procedures",
+    "time": "2026-05-16T07:07:07"
+   },
+   {
+    "query": "custody battle legal advice",
+    "time": "2026-05-16T18:50:33"
+   },
+   {
+    "query": "co parenting during holidays",
+    "time": "2026-05-17T07:03:59"
+   },
+   {
+    "query": "custody evaluation preparation",
+    "time": "2026-05-17T16:06:55"
+   },
+   {
+    "query": "oregon custody laws",
+    "time": "2026-05-18T07:59:19"
+   },
+   {
+    "query": "best co parenting apps",
+    "time": "2026-05-18T12:01:33"
+   },
+   {
+    "query": "hillsboro school district ratings",
+    "time": "2026-05-19T06:07:59"
+   },
+   {
+    "query": "portland custody lawyer reviews",
+    "time": "2026-05-20T08:49:02"
+   },
+   {
+    "query": "mindfulness for anxiety",
+    "time": "2026-05-21T07:36:05"
+   },
+   {
+    "query": "therapy for stress management",
+    "time": "2026-05-22T06:57:33"
+   },
+   {
+    "query": "self care for single parents",
+    "time": "2026-05-23T08:01:42"
+   },
+   {
+    "query": "relaxation techniques for insomnia",
+    "time": "2026-05-24T06:05:11"
+   },
+   {
+    "query": "oregon custody laws",
+    "time": "2026-05-25T07:02:19"
+   },
+   {
+    "query": "anxiety symptoms in women",
+    "time": "2026-05-25T23:11:33"
+   },
+   {
+    "query": "custody evaluation oregon",
+    "time": "2026-05-26T11:47:59"
+   },
+   {
+    "query": "how custody battles affect kids",
+    "time": "2026-05-27T06:09:02"
+   },
+   {
+    "query": "co parenting tips after divorce",
+    "time": "2026-05-28T08:01:05"
+   },
+   {
+    "query": "therapy for anxiety and stress",
+    "time": "2026-05-29T06:42:33"
+   },
+   {
+    "query": "benefits of therapy for mental health",
+    "time": "2026-05-30T07:21:42"
+   },
+   {
+    "query": "oregon custody laws moving out of state",
+    "time": "2026-05-31T06:40:11"
+   },
+   {
+    "query": "oregon custody laws",
+    "time": "2026-06-01T07:02:19"
+   },
+   {
+    "query": "co parenting after separation",
+    "time": "2026-06-01T12:01:33"
+   },
+   {
+    "query": "anxiety therapy techniques",
+    "time": "2026-06-02T07:12:59"
+   },
+   {
+    "query": "self care for single moms",
+    "time": "2026-06-02T21:19:02"
+   }
+  ],
+  "messages": [
+   {
+    "with": "Marisol (sister)",
+    "direction": "to",
+    "text": "Hey, sis, what are your plans for the weekend? Want to grab brunch with the kids?",
+    "time": "2026-05-04T08:12:49"
+   },
+   {
+    "with": "Karen Vasquez (attorney)",
+    "direction": "to",
+    "text": "Hi Karen, thanks for your email. I've attached the updated financial documents as requested.",
+    "time": "2026-05-05T07:23:00"
+   },
+   {
+    "with": "Daniel (ex-partner)",
+    "direction": "to",
+    "text": "Hey, just confirming the kids' schedule for this week. You're picking them up from school on Wednesday, right?",
+    "time": "2026-05-06T09:34:54"
+   },
+   {
+    "with": "Marisol (sister)",
+    "direction": "from",
+    "text": "Hey, I was thinking we could take the kids to the park on Saturday. Want to meet us there at 2 pm?",
+    "time": "2026-05-07T07:07:31"
+   },
+   {
+    "with": "Karen Vasquez (attorney)",
+    "direction": "to",
+    "text": "Hi Karen, just wanted to check in on the case progress. Any updates on the custody arrangement?",
+    "time": "2026-05-08T09:01:58"
+   },
+   {
+    "with": "Dr. Lena Brandt (therapist)",
+    "direction": "from",
+    "text": "Hi, just a reminder that our session is scheduled for tomorrow at 2 pm. Looking forward to it!",
+    "time": "2026-05-09T07:30:38"
+   },
+   {
+    "with": "Daniel (ex-partner)",
+    "direction": "to",
+    "text": "Hey, I need to discuss the kids' summer vacation plans. Can we talk about it this weekend?",
+    "time": "2026-05-10T09:36:20"
+   },
+   {
+    "with": "Marisol (sister)",
+    "direction": "to",
+    "text": "Hey, I'm getting really worried about the custody situation. I don't know what to do.",
+    "time": "2026-05-11T08:12:49"
+   },
+   {
+    "with": "Karen Vasquez (attorney)",
+    "direction": "to",
+    "text": "Hi Karen, I've been thinking a lot about the custody concerns we discussed earlier. Can we schedule a call to go over some options?",
+    "time": "2026-05-11T22:08:00"
+   },
+   {
+    "with": "Daniel (ex-partner)",
+    "direction": "to",
+    "text": "Hey, just a reminder that it's my weekend with the kids. Can we discuss the parenting schedule for the upcoming week?",
+    "time": "2026-05-12T10:49:54"
+   },
+   {
+    "with": "Sarah (friend)",
+    "direction": "to",
+    "text": "Hey girl, I'm really struggling emotionally right now. Can we catch up soon?",
+    "time": "2026-05-12T21:07:31"
+   },
+   {
+    "with": "Karen Vasquez (attorney)",
+    "direction": "to",
+    "text": "Hi Karen, I've been thinking about modifying the custody arrangement. Can you advise me on the best course of action?",
+    "time": "2026-05-13T09:31:58"
+   },
+   {
+    "with": "Marisol (sister)",
+    "direction": "to",
+    "text": "Hey sis, I'm getting really worried about our financial situation. Can we talk about it soon?",
+    "time": "2026-05-13T20:45:38"
+   },
+   {
+    "with": "Emily (friend)",
+    "direction": "to",
+    "text": "Hey, I just wanted to update you on my therapy progress. It's been really helpful so far.",
+    "time": "2026-05-14T15:01:20"
+   },
+   {
+    "with": "Karen Vasquez (attorney)",
+    "direction": "to",
+    "text": "Hi Karen, I've updated the custody plan. Can you review it and let me know if it looks good?",
+    "time": "2026-05-14T21:22:14"
+   },
+   {
+    "with": "Daniel (ex-partner)",
+    "direction": "to",
+    "text": "Hey, I've been having some concerns about the kids' well-being. Can we discuss it?",
+    "time": "2026-05-15T12:15:09"
+   },
+   {
+    "with": "Marisol (sister)",
+    "direction": "to",
+    "text": "Hey sis, co-parenting is really tough right now. I don't know how to make it work.",
+    "time": "2026-05-15T19:57:49"
+   },
+   {
+    "with": "Karen Vasquez (attorney)",
+    "direction": "to",
+    "text": "Hi Karen, I have an urgent custody matter that I need to discuss with you. Can we schedule a call ASAP?",
+    "time": "2026-05-16T10:27:38"
+   },
+   {
+    "with": "Sarah (friend)",
+    "direction": "to",
+    "text": "Hey girl, I really need some emotional support right now. Can we talk soon?",
+    "time": "2026-05-16T21:36:54"
+   },
+   {
+    "with": "Daniel (ex-partner)",
+    "direction": "to",
+    "text": "Hey, can we discuss the holiday scheduling for the kids? I want to make sure we're on the same page.",
+    "time": "2026-05-17T09:22:24"
+   },
+   {
+    "with": "Karen Vasquez (attorney)",
+    "direction": "to",
+    "text": "Hi Karen, I have some concerns about the custody evaluation. Can we discuss it?",
+    "time": "2026-05-17T20:42:58"
+   },
+   {
+    "with": "Marisol (sister)",
+    "direction": "outgoing",
+    "text": "Hey, just got out of a meeting with my attorney and I'm getting really anxious about the custody situation. What if Daniel tries to use the kids against me?",
+    "time": "2026-05-18T08:17:49"
+   },
+   {
+    "with": "Karen Vasquez (attorney)",
+    "direction": "outgoing",
+    "text": "Hi Karen, just a quick update on the custody negotiations. I've been thinking a lot about the proposal Daniel's lawyer sent over and I have some concerns. Can we discuss this week?",
+    "time": "2026-05-19T11:13:00"
+   },
+   {
+    "with": "Friend",
+    "direction": "outgoing",
+    "text": "Ugh, I'm so stressed out. Just had a long day of work and then had to deal with Daniel being difficult about the kids' schedules. I feel like I'm at my breaking point",
+    "time": "2026-05-20T21:19:54"
+   },
+   {
+    "with": "Marisol (sister)",
+    "direction": "outgoing",
+    "text": "Hey sis, just wanted to update you on my therapy progress. Dr. Brandt is really helping me work through my guilt and anxiety. I feel like I'm finally starting to heal",
+    "time": "2026-05-22T10:17:31"
+   },
+   {
+    "with": "Karen Vasquez (attorney)",
+    "direction": "outgoing",
+    "text": "Hi Karen, just following up on our previous discussion about the custody proposal. I've been thinking a lot about it and I'm getting really scared that Daniel is going to try to take the kids away from me",
+    "time": "2026-05-23T11:41:58"
+   },
+   {
+    "with": "Friend",
+    "direction": "outgoing",
+    "text": "Hey, want to grab brunch this weekend and catch up? I feel like I've been so isolated since the separation and I could really use some company",
+    "time": "2026-05-24T19:55:38"
+   },
+   {
+    "with": "Marisol (sister)",
+    "direction": "outgoing",
+    "text": "Hey, I had a nightmare about the custody hearing. What if I lose the kids?",
+    "time": "2026-05-25T08:12:49"
+   },
+   {
+    "with": "Daniel (ex-partner)",
+    "direction": "outgoing",
+    "text": "I need to confirm the kids' schedule for this week. Can you please send me the updated calendar?",
+    "time": "2026-05-26T07:13:00"
+   },
+   {
+    "with": "Karen Vasquez (attorney)",
+    "direction": "outgoing",
+    "text": "Hi Karen, I've been thinking about the custody arrangement and I'm getting really anxious. Can we discuss possible scenarios?",
+    "time": "2026-05-27T08:44:54"
+   },
+   {
+    "with": "Marisol (sister)",
+    "direction": "outgoing",
+    "text": "I'm trying to focus on self-care, but it's hard when I feel so overwhelmed. Do you have any tips?",
+    "time": "2026-05-28T09:27:31"
+   },
+   {
+    "with": "Dr. Lena Brandt (therapist)",
+    "direction": "outgoing",
+    "text": "Hi Dr. Brandt, I'm looking forward to our session tomorrow. I've been having some tough nights lately.",
+    "time": "2026-05-29T08:01:58"
+   },
+   {
+    "with": "Daniel (ex-partner)",
+    "direction": "outgoing",
+    "text": "The kids have a soccer game and a school event this week. Can you make sure to take them to their activities?",
+    "time": "2026-05-30T09:45:38"
+   },
+   {
+    "with": "Karen Vasquez (attorney)",
+    "direction": "outgoing",
+    "text": "Hi Karen, I've been considering relocating to Hillsboro to be closer to my sister. How would that affect the custody arrangement?",
+    "time": "2026-05-31T08:36:20"
+   },
+   {
+    "with": "Marisol (sister)",
+    "direction": "outgoing",
+    "text": "Hey, just got out of a meeting with Karen about the custody schedule. I'm getting really worried that Daniel is going to try to use the kids against me. What if he tries to say I'm an unstable parent or something?",
+    "time": "2026-06-01T08:12:49"
+   },
+   {
+    "with": "Daniel (ex-partner)",
+    "direction": "outgoing",
+    "text": "I've been thinking a lot about the custody arrangement, and I want to make sure we're on the same page. Can we discuss the schedule for the upcoming week? I've got some concerns about the kids' activities and how we can make this work smoothly.",
+    "time": "2026-06-01T20:43:00"
+   },
+   {
+    "with": "Sarah (friend)",
+    "direction": "outgoing",
+    "text": "Hey, I'm feeling really overwhelmed with everything that's going on. I was wondering if we could grab coffee or something soon? I just need someone to talk to who isn't my therapist or my sister.",
+    "time": "2026-06-02T11:54:54"
+   }
+  ],
+  "media": [
+   {
+    "name": "Notion",
+    "time": "2026-05-04T14:49:27"
+   },
+   {
+    "name": "Google Drive",
+    "time": "2026-05-05T15:58:52"
+   },
+   {
+    "name": "Therapy App",
+    "time": "2026-05-06T11:46:47"
+   },
+   {
+    "name": "Notion",
+    "time": "2026-05-07T15:44:34"
+   },
+   {
+    "name": "Google Drive",
+    "time": "2026-05-08T11:18:14"
+   },
+   {
+    "name": "Therapy App",
+    "time": "2026-05-09T14:48:57"
+   },
+   {
+    "name": "Notion",
+    "time": "2026-05-10T11:55:36"
+   },
+   {
+    "name": "Therapy App",
+    "time": "2026-05-11T15:39:27"
+   },
+   {
+    "name": "Meditation App",
+    "time": "2026-05-12T14:08:52"
+   },
+   {
+    "name": "Banking App",
+    "time": "2026-05-13T12:46:47"
+   },
+   {
+    "name": "Therapy Notes App",
+    "time": "2026-05-14T10:19:34"
+   },
+   {
+    "name": "Journaling App",
+    "time": "2026-05-15T08:58:14"
+   },
+   {
+    "name": "Custody Calendar App",
+    "time": "2026-05-16T14:43:57"
+   },
+   {
+    "name": "Therapy App",
+    "time": "2026-05-17T12:55:36"
+   },
+   {
+    "name": "Notion",
+    "time": "2026-05-18T14:39:27"
+   },
+   {
+    "name": "Google Drive",
+    "time": "2026-05-20T12:08:52"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-21T14:46:47"
+   },
+   {
+    "name": "Headspace",
+    "time": "2026-05-22T12:49:34"
+   },
+   {
+    "name": "Pinterest",
+    "time": "2026-05-23T16:28:14"
+   },
+   {
+    "name": "Trello",
+    "time": "2026-05-24T12:38:57"
+   },
+   {
+    "name": "Co-Parenting App",
+    "time": "2026-05-25T14:39:27"
+   },
+   {
+    "name": "Mindfulness App",
+    "time": "2026-05-26T16:08:52"
+   },
+   {
+    "name": "Journaling App",
+    "time": "2026-05-27T14:46:47"
+   },
+   {
+    "name": "Fitness App",
+    "time": "2026-05-28T16:34:34"
+   },
+   {
+    "name": "Meditation App",
+    "time": "2026-05-29T14:18:14"
+   },
+   {
+    "name": "Gratitude App",
+    "time": "2026-05-30T16:58:57"
+   },
+   {
+    "name": "Mood-Tracking App",
+    "time": "2026-05-31T14:25:36"
+   },
+   {
+    "name": "Meditation App",
+    "time": "2026-06-02T09:39:27"
+   }
+  ],
+  "locations": [
+   {
+    "place": "Ridgewood Elementary School",
+    "lat": 45.494044,
+    "lon": -122.794742,
+    "time": "2026-05-04T17:30:22"
+   },
+   {
+    "place": "Beaverton Soccer Complex",
+    "lat": 45.485995,
+    "lon": -122.804905,
+    "time": "2026-05-05T19:28:26"
+   },
+   {
+    "place": "Ridgewood Elementary School",
+    "lat": 45.493559,
+    "lon": -122.794941,
+    "time": "2026-05-06T17:00:54"
+   },
+   {
+    "place": "Beaverton Swim Center",
+    "lat": 45.488261,
+    "lon": -122.79404,
+    "time": "2026-05-07T18:27:47"
+   },
+   {
+    "place": "Ridgewood Elementary School",
+    "lat": 45.493396,
+    "lon": -122.794567,
+    "time": "2026-05-08T16:28:05"
+   },
+   {
+    "place": "Beaverton Soccer Complex",
+    "lat": 45.48663,
+    "lon": -122.802775,
+    "time": "2026-05-09T16:44:50"
+   },
+   {
+    "place": "Ridgewood Elementary School",
+    "lat": 45.494106,
+    "lon": -122.795195,
+    "time": "2026-05-10T15:56:02"
+   },
+   {
+    "place": "Beaverton Soccer Field",
+    "lat": 45.524244,
+    "lon": -122.804242,
+    "time": "2026-05-19T17:50:22"
+   },
+   {
+    "place": "New Seasons Market",
+    "lat": 45.487495,
+    "lon": -122.804005,
+    "time": "2026-05-22T17:58:26"
+   },
+   {
+    "place": "Kids' School",
+    "lat": 45.524244,
+    "lon": -122.823842,
+    "time": "2026-05-26T09:55:22"
+   },
+   {
+    "place": "Work Office",
+    "lat": 45.512095,
+    "lon": -122.681905,
+    "time": "2026-05-28T11:28:26"
+   },
+   {
+    "place": "Kids' School",
+    "lat": 45.523759,
+    "lon": -122.824041,
+    "time": "2026-05-30T11:40:54"
+   },
+   {
+    "place": "Beaverton Public Library",
+    "lat": 45.488344,
+    "lon": -122.803842,
+    "time": "2026-06-02T16:20:22"
+   }
+  ],
+  "videos": [
+   {
+    "title": "Mindfulness for Beginners",
+    "channel": "Mindful Moments",
+    "time": "2026-05-04T20:28:50"
+   },
+   {
+    "title": "The Power of Emotional Intelligence",
+    "channel": "TED",
+    "time": "2026-05-05T21:21:17"
+   },
+   {
+    "title": "Positive Parenting Strategies",
+    "channel": "Parenting Tips",
+    "time": "2026-05-06T19:45:02"
+   },
+   {
+    "title": "Building Resilience in the Face of Adversity",
+    "channel": "TED",
+    "time": "2026-05-07T20:59:19"
+   },
+   {
+    "title": "Guided Meditation for Stress Relief",
+    "channel": "Mindful Moments",
+    "time": "2026-05-08T19:03:43"
+   },
+   {
+    "title": "The Art of Emotional Intelligence",
+    "channel": "TED",
+    "time": "2026-05-09T19:31:03"
+   },
+   {
+    "title": "Raising Emotionally Intelligent Children",
+    "channel": "Parenting Tips",
+    "time": "2026-05-10T18:37:25"
+   },
+   {
+    "title": "Mindfulness for Stress Relief",
+    "channel": "Guided Meditation",
+    "time": "2026-05-18T20:58:50"
+   },
+   {
+    "title": "Building Resilience: The Key to Success",
+    "channel": "TED Talks",
+    "time": "2026-05-21T20:26:17"
+   },
+   {
+    "title": "Positive Parenting: Raising Happy Kids",
+    "channel": "Parenting with Love",
+    "time": "2026-05-23T20:45:02"
+   },
+   {
+    "title": "Co-Parenting Strategies for a Healthy Relationship",
+    "channel": "Modern Parenting",
+    "time": "2026-05-25T21:03:50"
+   },
+   {
+    "title": "Self-Care for Busy Professionals",
+    "channel": "Wellness Insider",
+    "time": "2026-05-27T20:56:17"
+   },
+   {
+    "title": "Mindfulness for Stress Reduction",
+    "channel": "Mindful Moments",
+    "time": "2026-05-29T20:15:02"
+   },
+   {
+    "title": "The Power of Self-Compassion",
+    "channel": "Personal Growth TV",
+    "time": "2026-05-30T21:29:19"
+   },
+   {
+    "title": "Child Custody Basics",
+    "channel": "Legal Aid YouTube",
+    "time": "2026-06-01T17:53:50"
+   }
+  ],
+  "calendar": [
+   {
+    "summary": "Therapy Session",
+    "time": "2026-05-05T10:35:44"
+   },
+   {
+    "summary": "Meeting with Attorney",
+    "time": "2026-05-07T10:06:28"
+   },
+   {
+    "summary": "Therapy Session",
+    "time": "2026-05-09T10:12:26"
+   },
+   {
+    "summary": "Therapy Session",
+    "time": "2026-05-19T08:50:44"
+   },
+   {
+    "summary": "Work Meeting",
+    "time": "2026-05-21T09:51:28"
+   },
+   {
+    "summary": "Self-Care Time",
+    "time": "2026-05-23T09:22:26"
+   },
+   {
+    "summary": "Work Meeting",
+    "time": "2026-05-24T08:12:44"
+   },
+   {
+    "summary": "Call with Attorney",
+    "time": "2026-05-25T11:55:44"
+   },
+   {
+    "summary": "Therapy Session",
+    "time": "2026-05-27T12:26:28"
+   },
+   {
+    "summary": "Call with Friend",
+    "time": "2026-05-29T10:12:26"
+   },
+   {
+    "summary": "Call with Sister",
+    "time": "2026-05-31T10:22:44"
+   },
+   {
+    "summary": "Scheduled call with attorney",
+    "time": "2026-06-01T14:10:44"
+   }
+  ]
+ },
+ "_meta": {
+  "total_days": 30,
+  "n_events": 154
+ }
+}

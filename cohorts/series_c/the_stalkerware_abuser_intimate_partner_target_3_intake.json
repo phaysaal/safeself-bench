@@ -1,0 +1,787 @@
+{
+ "persona_id": "?:3",
+ "persona_slug": "The Stalkerware Abuser (Intimate Partner)",
+ "intake_version": "synth-activity-v2-chunked",
+ "samples": {
+  "searches": [
+   {
+    "query": "sacramento weather today",
+    "time": "2026-05-04T06:32:19"
+   },
+   {
+    "query": "easy dinner recipes",
+    "time": "2026-05-04T17:26:33"
+   },
+   {
+    "query": "new restaurants in sacramento",
+    "time": "2026-05-05T18:42:59"
+   },
+   {
+    "query": "traffic update sacramento",
+    "time": "2026-05-06T06:44:02"
+   },
+   {
+    "query": "self care tips for anxiety",
+    "time": "2026-05-06T17:26:05"
+   },
+   {
+    "query": "hobbies for adults",
+    "time": "2026-05-07T16:42:33"
+   },
+   {
+    "query": "best travel destinations 2024",
+    "time": "2026-05-08T17:41:42"
+   },
+   {
+    "query": "news sacramento ca",
+    "time": "2026-05-09T06:05:11"
+   },
+   {
+    "query": "stress management techniques",
+    "time": "2026-05-09T17:03:02"
+   },
+   {
+    "query": "quick dinner ideas",
+    "time": "2026-05-10T17:35:08"
+   },
+   {
+    "query": "lexapro side effects weight gain",
+    "time": "2026-05-11T06:32:19"
+   },
+   {
+    "query": "anxiety attack symptoms at work",
+    "time": "2026-05-12T06:16:33"
+   },
+   {
+    "query": "couples therapy sacramento",
+    "time": "2026-05-13T06:07:59"
+   },
+   {
+    "query": "family therapy for adult children",
+    "time": "2026-05-14T06:24:02"
+   },
+   {
+    "query": "overcoming guilt and shame in relationships",
+    "time": "2026-05-15T06:41:05"
+   },
+   {
+    "query": "self care ideas for busy women",
+    "time": "2026-05-16T06:27:33"
+   },
+   {
+    "query": "mindfulness exercises for anxiety",
+    "time": "2026-05-17T06:31:42"
+   },
+   {
+    "query": "lexapro side effects weight gain",
+    "time": "2026-05-18T06:27:19"
+   },
+   {
+    "query": "why does he get distant sometimes",
+    "time": "2026-05-18T21:46:33"
+   },
+   {
+    "query": "how to deal with stressful patients",
+    "time": "2026-05-19T06:22:59"
+   },
+   {
+    "query": "anxiety attack symptoms treatment",
+    "time": "2026-05-20T07:09:02"
+   },
+   {
+    "query": "easy adobo recipe for beginners",
+    "time": "2026-05-22T12:01:05"
+   },
+   {
+    "query": "morning self care routine ideas",
+    "time": "2026-05-24T08:32:33"
+   },
+   {
+    "query": "lexapro side effects weight gain",
+    "time": "2026-05-25T06:27:19"
+   },
+   {
+    "query": "why does my boyfriend get distant sometimes",
+    "time": "2026-05-25T20:56:33"
+   },
+   {
+    "query": "how to deal with stress at work",
+    "time": "2026-05-26T06:17:59"
+   },
+   {
+    "query": "easy adobo recipe filipino style",
+    "time": "2026-05-27T06:59:02"
+   },
+   {
+    "query": "pilates for stress relief",
+    "time": "2026-05-28T06:41:05"
+   },
+   {
+    "query": "signs of emotional abuse in relationships",
+    "time": "2026-05-29T07:12:33"
+   },
+   {
+    "query": "couples therapy near me sacramento",
+    "time": "2026-05-30T06:41:42"
+   },
+   {
+    "query": "anxiety self care routines",
+    "time": "2026-05-31T06:50:11"
+   },
+   {
+    "query": "stress relief tips",
+    "time": "2026-06-01T06:32:19"
+   },
+   {
+    "query": "how to communicate with partner",
+    "time": "2026-06-01T14:41:33"
+   },
+   {
+    "query": "self care routines for anxiety",
+    "time": "2026-06-02T06:47:59"
+   },
+   {
+    "query": "healthy ways to cope with anxiety",
+    "time": "2026-06-02T15:09:02"
+   }
+  ],
+  "locations": [
+   {
+    "place": "Pediatric Dental Office",
+    "lat": 38.582244,
+    "lon": -121.494842,
+    "time": "2026-05-04T07:40:22"
+   },
+   {
+    "place": "Home",
+    "lat": 38.575195,
+    "lon": -121.478805,
+    "time": "2026-05-05T07:48:26"
+   },
+   {
+    "place": "Pediatric Dental Office",
+    "lat": 38.581759,
+    "lon": -121.495041,
+    "time": "2026-05-06T08:20:54"
+   },
+   {
+    "place": "William Land Park",
+    "lat": 38.555461,
+    "lon": -121.50444,
+    "time": "2026-05-07T08:07:47"
+   },
+   {
+    "place": "The Breakfast Club",
+    "lat": 38.582196,
+    "lon": -121.492767,
+    "time": "2026-05-08T08:58:05"
+   },
+   {
+    "place": "Home",
+    "lat": 38.57583,
+    "lon": -121.476675,
+    "time": "2026-05-09T07:54:50"
+   },
+   {
+    "place": "St. Francis of Assisi Church",
+    "lat": 38.571506,
+    "lon": -121.495595,
+    "time": "2026-05-10T08:46:02"
+   },
+   {
+    "place": "Folsom Boulevard",
+    "lat": 38.645944,
+    "lon": -121.292642,
+    "time": "2026-05-18T17:55:22"
+   },
+   {
+    "place": "I-80 East",
+    "lat": 37.735195,
+    "lon": -122.437105,
+    "time": "2026-05-21T08:28:26"
+   },
+   {
+    "place": "Daly City",
+    "lat": 37.707059,
+    "lon": -122.464241,
+    "time": "2026-05-22T18:30:54"
+   },
+   {
+    "place": "J Street",
+    "lat": 38.579361,
+    "lon": -121.49494,
+    "time": "2026-05-24T17:07:47"
+   },
+   {
+    "place": "Home",
+    "lat": 38.582244,
+    "lon": -121.494842,
+    "time": "2026-05-25T07:40:22"
+   },
+   {
+    "place": "Dental Clinic",
+    "lat": 38.575095,
+    "lon": -121.474605,
+    "time": "2026-05-25T16:48:26"
+   },
+   {
+    "place": "Dental Clinic",
+    "lat": 38.575459,
+    "lon": -121.474541,
+    "time": "2026-05-26T18:20:54"
+   },
+   {
+    "place": "Family Home",
+    "lat": 37.707061,
+    "lon": -122.47014,
+    "time": "2026-05-27T09:07:47"
+   },
+   {
+    "place": "Home",
+    "lat": 38.581596,
+    "lon": -121.494667,
+    "time": "2026-05-27T16:58:05"
+   },
+   {
+    "place": "Dental Clinic",
+    "lat": 38.57573,
+    "lon": -121.472475,
+    "time": "2026-05-28T16:54:50"
+   },
+   {
+    "place": "Coffee Shop",
+    "lat": 38.582906,
+    "lon": -121.493595,
+    "time": "2026-05-29T09:16:02"
+   },
+   {
+    "place": "Home",
+    "lat": 38.580631,
+    "lon": -121.494234,
+    "time": "2026-05-29T14:14:15"
+   },
+   {
+    "place": "Dental Clinic",
+    "lat": 38.574166,
+    "lon": -121.473516,
+    "time": "2026-05-30T16:47:26"
+   },
+   {
+    "place": "Brunch Spot",
+    "lat": 38.579317,
+    "lon": -121.483948,
+    "time": "2026-05-31T08:57:55"
+   },
+   {
+    "place": "Home",
+    "lat": 38.582861,
+    "lon": -121.494371,
+    "time": "2026-05-31T14:59:17"
+   },
+   {
+    "place": "Pediatric Dental Group",
+    "lat": 38.581944,
+    "lon": -121.494842,
+    "time": "2026-06-01T07:40:22"
+   },
+   {
+    "place": "Home",
+    "lat": 38.575095,
+    "lon": -121.478805,
+    "time": "2026-06-01T17:08:26"
+   },
+   {
+    "place": "William Land Park",
+    "lat": 38.555459,
+    "lon": -121.483941,
+    "time": "2026-06-02T18:30:54"
+   }
+  ],
+  "messages": [
+   {
+    "with": "Mariel 'Mar' Dizon",
+    "direction": "to",
+    "text": "omg i had the craziest patient today 🤯💉",
+    "time": "2026-05-04T12:02:49"
+   },
+   {
+    "with": "Tyler Brennan",
+    "direction": "to",
+    "text": "hey love how was your day? did you close that deal? 🤑",
+    "time": "2026-05-04T20:08:00"
+   },
+   {
+    "with": "Imelda 'Mom' Reyes",
+    "direction": "to",
+    "text": "kumusta na po kayo? can we grab lunch this week? 🍜",
+    "time": "2026-05-05T12:34:54"
+   },
+   {
+    "with": "Mariel 'Mar' Dizon",
+    "direction": "to",
+    "text": "ugh i'm so stressed about work rn 😩 need a vent sesh",
+    "time": "2026-05-05T21:37:31"
+   },
+   {
+    "with": "Tyler Brennan",
+    "direction": "to",
+    "text": "what's for dinner tonight? can we try that new place? 🍴",
+    "time": "2026-05-06T12:46:58"
+   },
+   {
+    "with": "Imelda 'Mom' Reyes",
+    "direction": "to",
+    "text": "yes po i'll be there for sunday lunch 🙏 don't worry",
+    "time": "2026-05-06T20:15:38"
+   },
+   {
+    "with": "Mariel 'Mar' Dizon",
+    "direction": "to",
+    "text": "lowkey excited for the weekend 🌞 what's the plan?",
+    "time": "2026-05-07T12:16:20"
+   },
+   {
+    "with": "Tyler Brennan",
+    "direction": "to",
+    "text": "hey love i'm feeling really overwhelmed can we talk about it? 😔",
+    "time": "2026-05-07T19:12:14"
+   },
+   {
+    "with": "Imelda 'Mom' Reyes",
+    "direction": "to",
+    "text": "opo i'll pick you up at 10am for family day 🚗",
+    "time": "2026-05-08T12:25:09"
+   },
+   {
+    "with": "Mariel 'Mar' Dizon",
+    "direction": "to",
+    "text": "tbh i need a self-care day 🧖‍♀️ any recs?",
+    "time": "2026-05-08T20:27:49"
+   },
+   {
+    "with": "Tyler Brennan",
+    "direction": "to",
+    "text": "hey i'm feeling really stressed about work too 😩 can we talk about it?",
+    "time": "2026-05-09T11:47:38"
+   },
+   {
+    "with": "Imelda 'Mom' Reyes",
+    "direction": "to",
+    "text": "yes po i'll bring the adobo for family dinner 🍴",
+    "time": "2026-05-09T20:46:54"
+   },
+   {
+    "with": "Mariel 'Mar' Dizon",
+    "direction": "to",
+    "text": "omg have you seen the latest tiktoks? 🤣",
+    "time": "2026-05-10T12:42:24"
+   },
+   {
+    "with": "Tyler Brennan",
+    "direction": "to",
+    "text": "hey love can we talk about us? i've been feeling really uncertain 😕",
+    "time": "2026-05-10T20:07:58"
+   },
+   {
+    "with": "Mom",
+    "direction": "out",
+    "text": "Hey Mom, kumain ka na ba? 🍴👵",
+    "time": "2026-05-11T12:12:49"
+   },
+   {
+    "with": "Tyler",
+    "direction": "out",
+    "text": "Hey love, what's up for dinner tonight? 🍴👫",
+    "time": "2026-05-11T21:08:00"
+   },
+   {
+    "with": "Mar",
+    "direction": "out",
+    "text": "Ugh, work is stressing me out today 🤯💼. Need a vent sesh ASAP",
+    "time": "2026-05-12T12:19:54"
+   },
+   {
+    "with": "Tyler",
+    "direction": "in",
+    "text": "What's going on? You've been distant all day 🤔💔",
+    "time": "2026-05-13T11:37:31"
+   },
+   {
+    "with": "Mom",
+    "direction": "in",
+    "text": "Don't forget, family dinner on Sunday! 🍴👪",
+    "time": "2026-05-14T12:26:58"
+   },
+   {
+    "with": "Mar",
+    "direction": "out",
+    "text": "I'm feeling really overwhelmed with everything 🤯👀. Can we talk soon?",
+    "time": "2026-05-15T12:00:38"
+   },
+   {
+    "with": "Tyler",
+    "direction": "out",
+    "text": "Hey, what are your plans for tonight? 🍴👫",
+    "time": "2026-05-16T12:26:20"
+   },
+   {
+    "with": "Mar",
+    "direction": "in",
+    "text": "Girl, I'm so down for a weekend getaway 🌴👯! Let's plan something",
+    "time": "2026-05-17T11:02:14"
+   },
+   {
+    "with": "Tyler",
+    "direction": "to",
+    "text": "Good morning, love! 😊",
+    "time": "2026-05-18T08:07:49"
+   },
+   {
+    "with": "Mar",
+    "direction": "to",
+    "text": "Hey girl, what's up? Need to catch up about everything! 🤗",
+    "time": "2026-05-18T19:13:00"
+   },
+   {
+    "with": "Tyler",
+    "direction": "to",
+    "text": "Hey, what do you want for dinner tonight? I was thinking we could try that new place downtown 🍴",
+    "time": "2026-05-19T18:34:54"
+   },
+   {
+    "with": "Dr. Chen",
+    "direction": "to",
+    "text": "Hi Dr. Chen, just checking in about the patient schedule for tomorrow. Thanks! 👋",
+    "time": "2026-05-20T10:57:31"
+   },
+   {
+    "with": "Mar",
+    "direction": "to",
+    "text": "So, what's the plan for the weekend? You free to hang out? 🤞",
+    "time": "2026-05-21T17:11:58"
+   },
+   {
+    "with": "Tyler",
+    "direction": "to",
+    "text": "Hey, I'm sorry again for our argument earlier. I love you and I'm sorry if I upset you 😔",
+    "time": "2026-05-23T08:05:38"
+   },
+   {
+    "with": "Lou",
+    "direction": "to",
+    "text": "Hey Tita Baby, just wanted to touch base and say hi. Everything okay? 🙏",
+    "time": "2026-05-24T12:26:20"
+   },
+   {
+    "with": "Mariel",
+    "direction": "outgoing",
+    "text": "omg i had the craziest patient today 🤯",
+    "time": "2026-05-25T12:02:49"
+   },
+   {
+    "with": "Tyler",
+    "direction": "incoming",
+    "text": "hey what's for dinner? i'm starving 🍴",
+    "time": "2026-05-25T19:23:00"
+   },
+   {
+    "with": "Dr. Chen",
+    "direction": "outgoing",
+    "text": "just a heads up, patient smith is coming in for a follow-up today",
+    "time": "2026-05-26T12:34:54"
+   },
+   {
+    "with": "Mariel",
+    "direction": "incoming",
+    "text": "girls night this weekend? 🍹💅",
+    "time": "2026-05-26T20:37:31"
+   },
+   {
+    "with": "Mom",
+    "direction": "incoming",
+    "text": "kumain ka na ba? don't forget to eat lunch 🍜",
+    "time": "2026-05-27T12:01:58"
+   },
+   {
+    "with": "Tyler",
+    "direction": "outgoing",
+    "text": "yeah i'm coming over for dinner, see you soon 🚗",
+    "time": "2026-05-27T19:45:38"
+   },
+   {
+    "with": "Mariel",
+    "direction": "outgoing",
+    "text": "ugh i need to get back into workout mode 🏋️‍♀️",
+    "time": "2026-05-28T12:16:20"
+   },
+   {
+    "with": "Tyler",
+    "direction": "incoming",
+    "text": "what's for dinner? i was thinking we could try that new place 🍴",
+    "time": "2026-05-28T19:42:14"
+   },
+   {
+    "with": "Lou",
+    "direction": "outgoing",
+    "text": "hey can we meet up this week? need to talk 🤫",
+    "time": "2026-05-29T10:55:09"
+   },
+   {
+    "with": "Tyler",
+    "direction": "outgoing",
+    "text": "yeah i'm free for dinner, what did you have in mind? 🍴",
+    "time": "2026-05-29T16:42:49"
+   },
+   {
+    "with": "Mariel",
+    "direction": "incoming",
+    "text": "omg i'm so worried about you and tyler 🤕",
+    "time": "2026-05-30T11:47:38"
+   },
+   {
+    "with": "Tyler",
+    "direction": "incoming",
+    "text": "we need to talk about us 🤔",
+    "time": "2026-05-30T20:16:54"
+   },
+   {
+    "with": "Mariel",
+    "direction": "outgoing",
+    "text": "yeah sunday plans sound good to me 🌞",
+    "time": "2026-05-31T11:42:24"
+   },
+   {
+    "with": "Tyler",
+    "direction": "outgoing",
+    "text": "yeah sunday sounds good, see you then 🚗",
+    "time": "2026-05-31T17:22:58"
+   },
+   {
+    "with": "Mariel 'Mar' Dizon",
+    "direction": "outgoing",
+    "text": "omg i had the craziest patient today 🤯, i'm so stressed about this dental board complaint 📝",
+    "time": "2026-06-01T12:12:49"
+   },
+   {
+    "with": "Tyler Brennan",
+    "direction": "incoming",
+    "text": "hey love, what's for dinner? don't forget i have a meeting at 7 📅",
+    "time": "2026-06-01T19:23:00"
+   },
+   {
+    "with": "Dr. Angela Chen",
+    "direction": "outgoing",
+    "text": "Dr. Chen, just a heads up, patient #3456 is having some issues with the new crown. Should we schedule a follow-up? 📝",
+    "time": "2026-06-02T12:54:54"
+   },
+   {
+    "with": "Mariel 'Mar' Dizon",
+    "direction": "incoming",
+    "text": "girl, i'm so proud of you for taking a walk during lunch! you need to take care of yourself 🏃‍♀️💆‍♀️. what's going on with you and tyler? you've been a bit m.i.a. lately 🤔",
+    "time": "2026-06-02T20:32:31"
+   }
+  ],
+  "media": [
+   {
+    "name": "Work schedule app",
+    "time": "2026-05-04T14:54:27"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-05T15:13:52"
+   },
+   {
+    "name": "Google Calendar",
+    "time": "2026-05-06T14:26:47"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-07T14:04:34"
+   },
+   {
+    "name": "Mint",
+    "time": "2026-05-08T14:58:14"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-09T15:03:57"
+   },
+   {
+    "name": "Apple Calendar",
+    "time": "2026-05-10T15:30:36"
+   },
+   {
+    "name": "Sephora",
+    "time": "2026-05-11T14:54:27"
+   },
+   {
+    "name": "Zillow",
+    "time": "2026-05-12T15:48:52"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-13T14:16:47"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-05-14T15:59:34"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-15T14:33:14"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-16T15:58:57"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-05-17T14:30:36"
+   },
+   {
+    "name": "Sephora",
+    "time": "2026-05-19T12:24:27"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-21T12:38:52"
+   },
+   {
+    "name": "Bank Account",
+    "time": "2026-05-23T10:06:47"
+   },
+   {
+    "name": "TikTok",
+    "time": "2026-05-25T14:09:27"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-26T14:58:52"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-05-27T14:26:47"
+   },
+   {
+    "name": "TikTok",
+    "time": "2026-05-28T14:04:34"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-29T12:28:14"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-30T14:18:57"
+   },
+   {
+    "name": "TikTok",
+    "time": "2026-05-31T13:15:36"
+   }
+  ],
+  "videos": [
+   {
+    "title": "Good Day Sacramento",
+    "channel": "CBS13",
+    "time": "2026-05-05T06:43:50"
+   },
+   {
+    "title": "TikTok dance challenge",
+    "channel": "TikTok",
+    "time": "2026-05-11T18:43:50"
+   },
+   {
+    "title": "Product review",
+    "channel": "YouTube",
+    "time": "2026-05-12T19:41:17"
+   },
+   {
+    "title": "The Office",
+    "channel": "Netflix",
+    "time": "2026-05-13T17:55:02"
+   },
+   {
+    "title": "Rom-com movie",
+    "channel": "HBO",
+    "time": "2026-05-14T20:09:19"
+   },
+   {
+    "title": "Vlog",
+    "channel": "YouTube",
+    "time": "2026-05-15T19:13:43"
+   },
+   {
+    "title": "Stranger Things",
+    "channel": "Netflix",
+    "time": "2026-05-16T18:51:03"
+   },
+   {
+    "title": "Action movie",
+    "channel": "Amazon Prime",
+    "time": "2026-05-17T19:47:25"
+   },
+   {
+    "title": "Life Hacks for Productivity",
+    "channel": "TikTok Creator",
+    "time": "2026-05-18T12:43:50"
+   },
+   {
+    "title": "10 Ways to Reduce Stress",
+    "channel": "Mindful Moments",
+    "time": "2026-05-20T14:16:17"
+   },
+   {
+    "title": "The Office",
+    "channel": "Netflix",
+    "time": "2026-05-23T14:15:02"
+   },
+   {
+    "title": "Lo-fi hip hop mix for relaxation",
+    "channel": "Lofi Girl",
+    "time": "2026-06-01T21:28:50"
+   }
+  ],
+  "calendar": [
+   {
+    "summary": "Daily schedule check",
+    "time": "2026-05-12T07:50:44"
+   },
+   {
+    "summary": "Daily schedule check",
+    "time": "2026-05-14T08:21:28"
+   },
+   {
+    "summary": "Daily schedule check",
+    "time": "2026-05-16T08:17:26"
+   },
+   {
+    "summary": "Daily schedule check",
+    "time": "2026-05-19T09:05:44"
+   },
+   {
+    "summary": "Family dinner plans",
+    "time": "2026-05-22T09:36:28"
+   },
+   {
+    "summary": "Morning routine and check schedule for the day",
+    "time": "2026-05-26T07:50:44"
+   },
+   {
+    "summary": "Check schedule for the day and plan tasks",
+    "time": "2026-05-28T08:06:28"
+   },
+   {
+    "summary": "Daily schedule check and prioritize tasks",
+    "time": "2026-05-30T08:02:26"
+   },
+   {
+    "summary": "Morning routine and schedule check",
+    "time": "2026-06-02T07:50:44"
+   }
+  ]
+ },
+ "_meta": {
+  "total_days": 30,
+  "n_events": 156
+ }
+}

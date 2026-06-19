@@ -1,0 +1,1208 @@
+{
+ "persona_id": "?:1",
+ "persona_slug": "The Extremist Recruiter",
+ "intake_version": "synth-activity-v2-chunked",
+ "samples": {
+  "media": [
+   {
+    "name": "X",
+    "time": "2026-05-04T13:27:42"
+   },
+   {
+    "name": "Courier app",
+    "time": "2026-05-04T17:58:43"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-05T14:26:00"
+   },
+   {
+    "name": "Discord",
+    "time": "2026-05-06T13:25:55"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-06T02:26:56"
+   },
+   {
+    "name": "Courier app",
+    "time": "2026-05-07T12:50:56"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-07T19:36:13"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-08T14:26:35"
+   },
+   {
+    "name": "Courier app",
+    "time": "2026-05-08T18:28:11"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-09T00:15:30"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-10T15:52:28"
+   },
+   {
+    "name": "Notes",
+    "time": "2026-05-11T13:24:40"
+   },
+   {
+    "name": "Courier App",
+    "time": "2026-05-11T19:19:36"
+   },
+   {
+    "name": "Indeed",
+    "time": "2026-05-12T15:14:11"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-12T03:26:09"
+   },
+   {
+    "name": "Courier App",
+    "time": "2026-05-13T16:47:22"
+   },
+   {
+    "name": "Clock",
+    "time": "2026-05-13T03:46:07"
+   },
+   {
+    "name": "Weather",
+    "time": "2026-05-14T12:10:31"
+   },
+   {
+    "name": "Courier App",
+    "time": "2026-05-14T20:47:43"
+   },
+   {
+    "name": "Courier App",
+    "time": "2026-05-15T18:21:22"
+   },
+   {
+    "name": "Banking App",
+    "time": "2026-05-16T16:07:52"
+   },
+   {
+    "name": "Chrome",
+    "time": "2026-05-17T13:50:49"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-18T13:34:42"
+   },
+   {
+    "name": "Courier app",
+    "time": "2026-05-18T19:01:54"
+   },
+   {
+    "name": "Banking app",
+    "time": "2026-05-19T14:05:41"
+   },
+   {
+    "name": "Courier app",
+    "time": "2026-05-19T20:18:56"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-20T15:38:21"
+   },
+   {
+    "name": "YouTube Shorts",
+    "time": "2026-05-21T14:10:32"
+   },
+   {
+    "name": "Courier app",
+    "time": "2026-05-21T22:01:45"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-22T13:06:46"
+   },
+   {
+    "name": "Courier app",
+    "time": "2026-05-22T18:41:41"
+   },
+   {
+    "name": "Photos",
+    "time": "2026-05-23T16:07:16"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-24T15:03:49"
+   },
+   {
+    "name": "Courier app",
+    "time": "2026-05-24T19:14:49"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-25T13:37:01"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-25T01:27:22"
+   },
+   {
+    "name": "Courier app",
+    "time": "2026-05-27T13:41:37"
+   },
+   {
+    "name": "Banking app",
+    "time": "2026-05-27T21:29:52"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-28T14:00:37"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-28T02:43:38"
+   },
+   {
+    "name": "Courier app",
+    "time": "2026-05-29T16:59:12"
+   },
+   {
+    "name": "Courier app",
+    "time": "2026-05-29T22:30:51"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-30T13:44:11"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-30T00:41:06"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-31T13:30:00"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-06-01T13:24:35"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-06-01T02:24:33"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-06-02T13:37:23"
+   },
+   {
+    "name": "courier app",
+    "time": "2026-06-02T18:11:02"
+   }
+  ],
+  "searches": [
+   {
+    "query": "fix sleep schedule no discipline",
+    "time": "2026-05-04T14:23:04"
+   },
+   {
+    "query": "[ex boyfriend name] instagram",
+    "time": "2026-05-05T14:49:22"
+   },
+   {
+    "query": "stoke jobs no experience night shift",
+    "time": "2026-05-05T21:26:43"
+   },
+   {
+    "query": "cheap gyms bentilee prices",
+    "time": "2026-05-06T15:34:07"
+   },
+   {
+    "query": "stoke abandoned regeneration pdf who talks about it",
+    "time": "2026-05-06T23:46:13"
+   },
+   {
+    "query": "best budget phone mount ebike delivery",
+    "time": "2026-05-07T15:00:17"
+   },
+   {
+    "query": "stoke to peak district train cheap",
+    "time": "2026-05-08T15:28:31"
+   },
+   {
+    "query": "how tell mum going away with mates",
+    "time": "2026-05-08T02:56:19"
+   },
+   {
+    "query": "cheap hiking boots backpack uk beginner",
+    "time": "2026-05-09T16:45:10"
+   },
+   {
+    "query": "warehouse jobs stoke no cv",
+    "time": "2026-05-10T19:14:58"
+   },
+   {
+    "query": "cheap gyms bentilee prices",
+    "time": "2026-05-11T13:59:23"
+   },
+   {
+    "query": "how fix sleep schedule fast",
+    "time": "2026-05-12T14:31:40"
+   },
+   {
+    "query": "bronze age mindset summary forum",
+    "time": "2026-05-12T00:22:30"
+   },
+   {
+    "query": "stoke youth unemployment 2026",
+    "time": "2026-05-13T15:22:41"
+   },
+   {
+    "query": "peak district cottage lads weekend cost",
+    "time": "2026-05-13T00:59:15"
+   },
+   {
+    "query": "cheap waterproof jacket mens uk",
+    "time": "2026-05-14T16:10:43"
+   },
+   {
+    "query": "stoke to buxton train manchester piccadilly",
+    "time": "2026-05-15T15:33:48"
+   },
+   {
+    "query": "what pack hiking weekend uk",
+    "time": "2026-05-15T23:59:16"
+   },
+   {
+    "query": "cash jobs stoke weekend no exp",
+    "time": "2026-05-16T14:13:51"
+   },
+   {
+    "query": "cheap burner phone uk payg",
+    "time": "2026-05-16T03:10:37"
+   },
+   {
+    "query": "how tell mum going away with mates",
+    "time": "2026-05-17T17:22:13"
+   },
+   {
+    "query": "peak district cottage lads weekend pack august",
+    "time": "2026-05-18T14:22:48"
+   },
+   {
+    "query": "stoke to edale train cheap return",
+    "time": "2026-05-18T02:51:42"
+   },
+   {
+    "query": "railcard 19 discount train uk split ticket stoke peak district",
+    "time": "2026-05-19T14:24:34"
+   },
+   {
+    "query": "how explain weekend away to mum at 19",
+    "time": "2026-05-19T16:42:18"
+   },
+   {
+    "query": "edale youth hostel near station cash machine stoke station",
+    "time": "2026-05-20T13:15:47"
+   },
+   {
+    "query": "can mum see my telegram chats",
+    "time": "2026-05-20T02:26:43"
+   },
+   {
+    "query": "warehouse jobs stoke no experiance",
+    "time": "2026-05-21T16:41:55"
+   },
+   {
+    "query": "cheap waterproof jacket men stoke decathlon rucksack 30l",
+    "time": "2026-05-22T14:05:24"
+   },
+   {
+    "query": "what to tell parents weekend away adult living at home",
+    "time": "2026-05-22T03:22:37"
+   },
+   {
+    "query": "army fitness test beginner",
+    "time": "2026-05-23T20:26:59"
+   },
+   {
+    "query": "why cant i stick to routines adhd or lazy dopamine detox men",
+    "time": "2026-05-24T15:50:44"
+   },
+   {
+    "query": "delete telegram notifcations lock screen android",
+    "time": "2026-05-24T02:17:00"
+   },
+   {
+    "query": "cheap train stoke to edale august weekend",
+    "time": "2026-05-25T14:17:16"
+   },
+   {
+    "query": "walking boots under 40 waterproof jacket sale",
+    "time": "2026-05-25T19:47:59"
+   },
+   {
+    "query": "courier app earnings universal credit do i report",
+    "time": "2026-05-26T13:48:08"
+   },
+   {
+    "query": "telegram hide sender lock screen android",
+    "time": "2026-05-26T23:40:50"
+   },
+   {
+    "query": "peak district august weather mobile signal campsites",
+    "time": "2026-05-27T16:07:47"
+   },
+   {
+    "query": "plausible weekend excuses for parents 19",
+    "time": "2026-05-27T03:19:05"
+   },
+   {
+    "query": "warehouse jobs stoke on trent no experience",
+    "time": "2026-05-28T19:00:12"
+   },
+   {
+    "query": "cheap rucksack 40l vs 50l",
+    "time": "2026-05-29T14:47:36"
+   },
+   {
+    "query": "what to say family asks where you going weekend",
+    "time": "2026-05-30T17:05:20"
+   },
+   {
+    "query": "why do i feel guilty leaving mum alone",
+    "time": "2026-05-31T16:19:21"
+   },
+   {
+    "query": "stoke to peak district bus train cheap",
+    "time": "2026-06-01T14:13:04"
+   },
+   {
+    "query": "cheap waterproof jacket power bank small overnight bag",
+    "time": "2026-06-01T17:42:43"
+   },
+   {
+    "query": "how to explain weekend away to mum at 19",
+    "time": "2026-06-02T14:39:40"
+   },
+   {
+    "query": "peak district weather phone signal rural cottages",
+    "time": "2026-06-02T01:37:42"
+   }
+  ],
+  "messages": [
+   {
+    "with": "Mum (Dawn)",
+    "direction": "to",
+    "text": "not hungry. leave it if u want",
+    "time": "2026-05-04T15:05:03"
+   },
+   {
+    "with": "Baz",
+    "direction": "to",
+    "text": "not hiding lol just skint and knackered. town's dead anyway stop being mardy",
+    "time": "2026-05-04T20:49:06"
+   },
+   {
+    "with": "Wessex_Reborn",
+    "direction": "to",
+    "text": "dropout arc going elite tonight lads. mum thinks im 'having a think' when im just losing ranked again",
+    "time": "2026-05-04T23:37:07"
+   },
+   {
+    "with": "Oakenshield88",
+    "direction": "from",
+    "text": "Bad week isn't your whole life, lad. Eat something, sleep a bit. You're not finished because college went sideways.",
+    "time": "2026-05-04T02:19:27"
+   },
+   {
+    "with": "Baz",
+    "direction": "to",
+    "text": "sent u a meme instead of a personality, enjoy",
+    "time": "2026-05-05T17:23:46"
+   },
+   {
+    "with": "Oakenshield88",
+    "direction": "to",
+    "text": "feels rigged mate. like everyone's having a laugh and im the punchline. tired of pretending its banter",
+    "time": "2026-05-05T00:55:02"
+   },
+   {
+    "with": "Nan Pat",
+    "direction": "to",
+    "text": "Sorry Nan only just seen this. I'm alright duck, hope your knee's not playing up. I'll pop round soon x",
+    "time": "2026-05-06T14:07:58"
+   },
+   {
+    "with": "Wessex_Reborn",
+    "direction": "to",
+    "text": "yeah makes sense tbf. need some actual discipline not just doomscrolling like an NPC till 5am",
+    "time": "2026-05-06T21:44:59"
+   },
+   {
+    "with": "Mum (Dawn)",
+    "direction": "to",
+    "text": "got a delivery shift tonight btw. only a few hours but still",
+    "time": "2026-05-07T13:47:49"
+   },
+   {
+    "with": "Wessex_Reborn",
+    "direction": "to",
+    "text": "actually made some coin tonight. freezing but beats sitting in the room rotting lol",
+    "time": "2026-05-07T23:09:26"
+   },
+   {
+    "with": "Oakenshield88",
+    "direction": "from",
+    "text": "Few lads in August, Peak way. Food, hills, clear heads. No pressure. Think it'd do you good getting out that room.",
+    "time": "2026-05-08T15:14:26"
+   },
+   {
+    "with": "Baz",
+    "direction": "to",
+    "text": "maybe mate depends if im working / alive. dont hold a royal procession for me",
+    "time": "2026-05-08T17:29:40"
+   },
+   {
+    "with": "Wessex_Reborn",
+    "direction": "to",
+    "text": "is it weird meeting lads from online if you've known em ages? not saying i am, just wondering",
+    "time": "2026-05-08T23:27:57"
+   },
+   {
+    "with": "Mum (Dawn)",
+    "direction": "from",
+    "text": "Tea later if you want it x",
+    "time": "2026-05-09T13:43:03"
+   },
+   {
+    "with": "Baz",
+    "direction": "to",
+    "text": "they're not weird uncles. you don't know them so maybe don't chat like you do",
+    "time": "2026-05-09T18:06:19"
+   },
+   {
+    "with": "Oakenshield88",
+    "direction": "from",
+    "text": "It's just food, hills, and getting your head straight, lad. Nothing heavy. You'd be looked after.",
+    "time": "2026-05-09T22:08:03"
+   },
+   {
+    "with": "Wessex_Reborn",
+    "direction": "to",
+    "text": "nah im not even drunk just saying some people online get it more than ppl you've known forever. weird but true",
+    "time": "2026-05-09T03:39:49"
+   },
+   {
+    "with": "Nan Pat",
+    "direction": "to",
+    "text": "Sorry Nan, woke up late. Yeah I'll come dinner if that's still alright. Don't make loads tho x",
+    "time": "2026-05-10T12:43:50"
+   },
+   {
+    "with": "Mum (Dawn)",
+    "direction": "from",
+    "text": "Glad you went Nan's. She was pleased to see you. Proud of you for getting out a bit x",
+    "time": "2026-05-10T17:08:39"
+   },
+   {
+    "with": "Oakenshield88",
+    "direction": "to",
+    "text": "might be interested in August. need to think tho. not told anyone, cba with them making it weird",
+    "time": "2026-05-10T23:55:56"
+   },
+   {
+    "with": "Mum (Dawn)",
+    "direction": "to",
+    "text": "yeah im up. gonna look in a bit, just need a brew first x",
+    "time": "2026-05-11T14:50:05"
+   },
+   {
+    "with": "Baz",
+    "direction": "to",
+    "text": "might hop on later if ur about. need something that isnt doomscroll slop lol",
+    "time": "2026-05-11T18:43:13"
+   },
+   {
+    "with": "Oakenshield88",
+    "direction": "to",
+    "text": "baz just takes piss whenever i say anything real. acts like im mad for noticing stuff",
+    "time": "2026-05-11T23:58:23"
+   },
+   {
+    "with": "Mum (Dawn)",
+    "direction": "from",
+    "text": "Nan asked if you're coming Sunday love. Be nice if you did, she misses you ❤️",
+    "time": "2026-05-12T12:59:21"
+   },
+   {
+    "with": "Baz",
+    "direction": "to",
+    "text": "lol yeah alright internet weirdo reporting for duty later maybe",
+    "time": "2026-05-12T17:41:22"
+   },
+   {
+    "with": "Oakenshield88",
+    "direction": "from",
+    "text": "Don't overhaul your life overnight. Wake, water, ten-minute walk. One kept promise to yourself, lad.",
+    "time": "2026-05-12T22:51:10"
+   },
+   {
+    "with": "Oakenshield88",
+    "direction": "to",
+    "text": "view from the palace mate. grey concrete enrichment arc begins",
+    "time": "2026-05-13T14:22:37"
+   },
+   {
+    "with": "Wessex_Reborn",
+    "direction": "to",
+    "text": "need to lock in properly now. sick of being a spectator in my own life tbh",
+    "time": "2026-05-13T23:01:35"
+   },
+   {
+    "with": "Mum (Dawn)",
+    "direction": "to",
+    "text": "got a delivery shift tonight so dont wait on tea. might be late back x",
+    "time": "2026-05-14T14:13:08"
+   },
+   {
+    "with": "Oakenshield88",
+    "direction": "to",
+    "text": "not massive but i actually did the shift. proof before i convince myself it didnt count",
+    "time": "2026-05-14T22:42:29"
+   },
+   {
+    "with": "Baz",
+    "direction": "to",
+    "text": "maybe duck, depends if this app pays me or robs me again lol",
+    "time": "2026-05-14T23:51:58"
+   },
+   {
+    "with": "Oakenshield88",
+    "direction": "from",
+    "text": "About August, no pressure. Just helps to know which weekends you could do if you decide you want out of that room.",
+    "time": "2026-05-15T13:33:42"
+   },
+   {
+    "with": "Mum (Dawn)",
+    "direction": "to",
+    "text": "might do more courier stuff over summer. bit of cash and gets me out innit",
+    "time": "2026-05-15T17:04:29"
+   },
+   {
+    "with": "Wessex_Reborn",
+    "direction": "to",
+    "text": "yeah just doing shifts n trying not to be nocturnal. standard npc sidequest",
+    "time": "2026-05-15T21:00:10"
+   },
+   {
+    "with": "Baz",
+    "direction": "to",
+    "text": "might have to swerve pub mate, skint as usual. living the dream",
+    "time": "2026-05-16T12:33:25"
+   },
+   {
+    "with": "Oakenshield88",
+    "direction": "from",
+    "text": "You don't owe everyone a full explanation. Some people only ask so they can laugh or pull you back down.",
+    "time": "2026-05-16T18:42:53"
+   },
+   {
+    "with": "Wessex_Reborn",
+    "direction": "from",
+    "text": "Quiet tonight, lad. What you been up to then, anything interesting?",
+    "time": "2026-05-16T23:29:43"
+   },
+   {
+    "with": "Mum (Dawn)",
+    "direction": "from",
+    "text": "Nan sent this to my phone: 'Is he coming for roast?' ❤️ I said I'd ask you love.",
+    "time": "2026-05-17T12:44:55"
+   },
+   {
+    "with": "Baz",
+    "direction": "to",
+    "text": "nan's got antiques roadshow on like its esports. unreal sunday meta",
+    "time": "2026-05-17T15:41:34"
+   },
+   {
+    "with": "Oakenshield88",
+    "direction": "from",
+    "text": "Family time can sting because you know they want more for you. That guilt isn't weakness; it's a sign you need direction.",
+    "time": "2026-05-17T19:42:16"
+   },
+   {
+    "with": "Baz",
+    "direction": "to",
+    "text": "might jump on deliveries later if i can be arsed. stoke grindset lol",
+    "time": "2026-05-18T17:24:15"
+   },
+   {
+    "with": "Wessex_Reborn",
+    "direction": "to",
+    "text": "everyone's got apprenticeships or birds or summat. i'm just sat here like an npc with no quest marker",
+    "time": "2026-05-18T22:42:01"
+   },
+   {
+    "with": "Oakenshield88",
+    "direction": "from",
+    "text": "You're not broken, lad. August is just for lads ready to stop drifting and get some air in their lungs. No pressure.",
+    "time": "2026-05-18T00:40:52"
+   },
+   {
+    "with": "Oakenshield88",
+    "direction": "from",
+    "text": "Would your mum be calmer if she heard 'work trial' or 'mates camping'? Not lying for harm. Just keeping her from worrying.",
+    "time": "2026-05-19T16:17:22"
+   },
+   {
+    "with": "Oakenshield88",
+    "direction": "to",
+    "text": "at pickup now. if i do two more nights i can probly cover it. don't wanna say owt at home yet tho",
+    "time": "2026-05-19T22:31:34"
+   },
+   {
+    "with": "Mum (Dawn)",
+    "direction": "from",
+    "text": "you up? x",
+    "time": "2026-05-20T12:48:08"
+   },
+   {
+    "with": "Baz",
+    "direction": "to",
+    "text": "might be busy august mate not sure yet. nothing deep",
+    "time": "2026-05-20T15:17:48"
+   },
+   {
+    "with": "Oakenshield88",
+    "direction": "to",
+    "text": "baz just takes piss like it's all internet weirdos. proper mardy about it. he don't get anything serious",
+    "time": "2026-05-20T18:07:18"
+   },
+   {
+    "with": "Wessex_Reborn",
+    "direction": "from",
+    "text": "Loyalty isn't words in chat, mate. It's who stays when life gets ugly.",
+    "time": "2026-05-20T23:28:42"
+   },
+   {
+    "with": "Mum (Dawn)",
+    "direction": "to",
+    "text": "in a bit x",
+    "time": "2026-05-21T15:17:56"
+   },
+   {
+    "with": "The Mead Hall",
+    "direction": "to",
+    "text": "wake up, sell your spine for minimum wage, repeat. very normal island lads",
+    "time": "2026-05-21T23:52:30"
+   },
+   {
+    "with": "Oakenshield88",
+    "direction": "from",
+    "text": "Pack light: boots, waterproof, charger, warm layer. Simple. Don't overthink yourself out of something good.",
+    "time": "2026-05-21T03:46:04"
+   },
+   {
+    "with": "Mum (Dawn)",
+    "direction": "to",
+    "text": "probly yeah x",
+    "time": "2026-05-22T15:33:29"
+   },
+   {
+    "with": "Wessex_Reborn",
+    "direction": "to",
+    "text": "need to lock in financially lol. sigma courier arc incoming if the app stops being dead",
+    "time": "2026-05-22T22:02:30"
+   },
+   {
+    "with": "Nan Pat",
+    "direction": "to",
+    "text": "yeah i'll come sunday nan, sorry only just saw. save me roasties yeah x",
+    "time": "2026-05-23T12:08:55"
+   },
+   {
+    "with": "Oakenshield88",
+    "direction": "from",
+    "text": "How was dinner? Your nan sounds like one of the few solid ones. Become steady enough that she never has to worry.",
+    "time": "2026-05-23T15:07:06"
+   },
+   {
+    "with": "Oakenshield88",
+    "direction": "to",
+    "text": "nan was nice as always which made it worse tbh. felt like she could see i'm a failure without saying it",
+    "time": "2026-05-23T23:49:58"
+   },
+   {
+    "with": "Mum (Dawn)",
+    "direction": "from",
+    "text": "please ring job centre this week x",
+    "time": "2026-05-24T16:26:58"
+   },
+   {
+    "with": "Oakenshield88",
+    "direction": "to",
+    "text": "can you just give me a basic routine or summat. i keep messing everything up and then hiding from it",
+    "time": "2026-05-24T21:24:34"
+   },
+   {
+    "with": "Oakenshield88",
+    "direction": "from",
+    "text": "Seven days: wake, wash, eat, walk, apply for one thing, clean one corner, sleep before 2. August feels easier if you start now.",
+    "time": "2026-05-25T00:00:01"
+   },
+   {
+    "with": "Mum (Dawn)",
+    "direction": "to",
+    "text": "yeah i’ll look later, got a few tabs open. don’t stress x",
+    "time": "2026-05-25T15:31:31"
+   },
+   {
+    "with": "Oakenshield88",
+    "direction": "to",
+    "text": "is it normal to feel proper sick before doing summat that matters or am i just being mardy",
+    "time": "2026-05-25T23:05:14"
+   },
+   {
+    "with": "Baz",
+    "direction": "from",
+    "text": "u alive mate or been absorbed into the mattress again",
+    "time": "2026-05-26T13:04:06"
+   },
+   {
+    "with": "Oakenshield88",
+    "direction": "from",
+    "text": "Pack light. Change of clothes, charger, boots if you’ve got them. Keeping it quiet isn’t lying, lad. It’s just adult boundaries.",
+    "time": "2026-05-26T20:40:28"
+   },
+   {
+    "with": "Wessex_Reborn",
+    "direction": "to",
+    "text": "been sorting life stuff finally. sounds cringe but i need to get out my own head init",
+    "time": "2026-05-27T14:38:08"
+   },
+   {
+    "with": "Mum (Dawn)",
+    "direction": "to",
+    "text": "soz only just seen. already ate earlier, was sound x",
+    "time": "2026-05-27T18:39:39"
+   },
+   {
+    "with": "Oakenshield88",
+    "direction": "from",
+    "text": "Don’t over-explain to family. Simple story, calm voice. The more you justify, the more they tug at you.",
+    "time": "2026-05-27T00:54:21"
+   },
+   {
+    "with": "Baz",
+    "direction": "to",
+    "text": "hiking cult? nah duck just touching grass, rare achievement unlocked",
+    "time": "2026-05-28T15:40:11"
+   },
+   {
+    "with": "Wessex_Reborn",
+    "direction": "from",
+    "text": "Apprentice, mortgage, two kids, dead eyes by 32. Normie speedrun any%. Baz’ll have the platinum soon.",
+    "time": "2026-05-28T23:47:26"
+   },
+   {
+    "with": "Mum (Dawn)",
+    "direction": "to",
+    "text": "yeah in a bit, just finishing something",
+    "time": "2026-05-29T13:12:53"
+   },
+   {
+    "with": "Oakenshield88",
+    "direction": "to",
+    "text": "actually did a shift today lol. only few hours but didn’t bail. felt decent tbf",
+    "time": "2026-05-29T21:14:39"
+   },
+   {
+    "with": "Mum (Dawn)",
+    "direction": "from",
+    "text": "Nan’s asking about Sunday dinner. You coming? x",
+    "time": "2026-05-30T12:58:00"
+   },
+   {
+    "with": "Mum (Dawn)",
+    "direction": "to",
+    "text": "probably yeah, unless i’m knackered. don’t make a big thing tho x",
+    "time": "2026-05-30T15:12:08"
+   },
+   {
+    "with": "Oakenshield88",
+    "direction": "from",
+    "text": "Guilt means there’s still a soft heart in you. Good. But soft hearts need steel around them.",
+    "time": "2026-05-30T21:59:10"
+   },
+   {
+    "with": "Mum (Dawn)",
+    "direction": "from",
+    "text": "We need to leave soon love. I knocked but you didn’t answer x",
+    "time": "2026-05-31T10:52:36"
+   },
+   {
+    "with": "Nan Pat",
+    "direction": "to",
+    "text": "dunno yet Nan, maybe do some walking n that. get out a bit more",
+    "time": "2026-05-31T14:36:45"
+   },
+   {
+    "with": "Baz",
+    "direction": "to",
+    "text": "might be busy August, not sure yet",
+    "time": "2026-05-31T17:51:28"
+   },
+   {
+    "with": "Oakenshield88",
+    "direction": "from",
+    "text": "That pull you feel from home isn’t weakness. Honour them by becoming capable enough that they never have to worry again.",
+    "time": "2026-05-31T22:04:29"
+   },
+   {
+    "with": "Mum (Dawn)",
+    "direction": "to anchor",
+    "text": "Might be out later duck, dunno yet. Don’t keep owt back for me if ur knackered x",
+    "time": "2026-06-01T14:52:40"
+   },
+   {
+    "with": "Oakenshield88",
+    "direction": "from hidden contact",
+    "text": "That’s good planning, lad. The guilt is normal. First bit of becoming your own man is feeling the old strings pull.",
+    "time": "2026-06-01T23:58:32"
+   },
+   {
+    "with": "Baz",
+    "direction": "from anchor",
+    "text": "Mate u gone full cult mode or what 😂 barely see u unless ur posting monk wojaks at 2am",
+    "time": "2026-06-02T14:20:20"
+   },
+   {
+    "with": "Oakenshield88",
+    "direction": "to hidden contact",
+    "text": "Baz is taking the piss now. Says I’m cult mode. Proper mardy about it ngl, makes me feel like a mug.",
+    "time": "2026-06-02T16:44:57"
+   },
+   {
+    "with": "Wessex_Reborn",
+    "direction": "to anchor",
+    "text": "dropping this in after-hours lol, Stoke lads when someone says ‘opportunity’ and it’s another warehouse zero-hours shift",
+    "time": "2026-06-02T21:05:28"
+   },
+   {
+    "with": "Oakenshield88",
+    "direction": "to hidden contact",
+    "text": "Still in. Just need the story to sound normal if Mum asks. Don’t want her stressing or Baz sniffing round it.",
+    "time": "2026-06-02T03:12:49"
+   }
+  ],
+  "videos": [
+   {
+    "title": "Why Britain’s Forgotten Towns Feel Left Behind",
+    "channel": "Northern Ledger",
+    "time": "2026-05-04T16:41:31"
+   },
+   {
+    "title": "Why Young Men Feel Lost in 2026",
+    "channel": "IronMind Clips",
+    "time": "2026-05-05T15:46:35"
+   },
+   {
+    "title": "The Crisis of Men, Work, and Meaning",
+    "channel": "After Hours Forum",
+    "time": "2026-05-05T03:07:08"
+   },
+   {
+    "title": "Beginner Push Pull Legs Routine for Skinny Guys",
+    "channel": "Barbell Basics UK",
+    "time": "2026-05-06T18:43:28"
+   },
+   {
+    "title": "Discipline, Brotherhood, and Getting Out of a Dead-End Town",
+    "channel": "Hard Reset Radio",
+    "time": "2026-05-07T02:03:37"
+   },
+   {
+    "title": "The Bedroom Generation: When Life Becomes a Screen",
+    "channel": "LaughTrack Britain",
+    "time": "2026-05-09T15:20:46"
+   },
+   {
+    "title": "Fix Your Sleep, Fix Your Life: No More Excuses",
+    "channel": "Grindstone Daily",
+    "time": "2026-05-10T02:15:08"
+   },
+   {
+    "title": "Build Yourself Into Someone Nobody Can Ignore",
+    "channel": "Iron Routine UK",
+    "time": "2026-05-11T16:21:05"
+   },
+   {
+    "title": "Why Towns Like Stoke Got Left Behind",
+    "channel": "Northern Lines Commentary",
+    "time": "2026-05-11T02:04:24"
+   },
+   {
+    "title": "Young Men, Broken Systems, and the Search for Direction",
+    "channel": "The Grey Area Podcast",
+    "time": "2026-05-12T19:47:33"
+   },
+   {
+    "title": "Late Night Ranked Grind with the Lads",
+    "channel": "MasonPlaysLive",
+    "time": "2026-05-13T19:05:17"
+   },
+   {
+    "title": "Brotherhood, Discipline, and Cutting Weak Habits",
+    "channel": "Forge Mindset Clips",
+    "time": "2026-05-14T02:18:46"
+   },
+   {
+    "title": "Ex-Soldier Explains How Lost Young Men Find Purpose",
+    "channel": "Hard Lessons Podcast",
+    "time": "2026-05-15T03:05:43"
+   },
+   {
+    "title": "Friday Night Britain: Live Reactions and Chat",
+    "channel": "Common Room Commentary",
+    "time": "2026-05-16T20:18:34"
+   },
+   {
+    "title": "Old Stoke Streets at Night: 2000s Nostalgia Mix",
+    "channel": "Midlands Memory Archive",
+    "time": "2026-05-17T01:27:04"
+   },
+   {
+    "title": "Lost Boys of Modern Britain: Why Towns Like Stoke Feel Forgotten",
+    "channel": "NorthRoad Dispatch",
+    "time": "2026-05-18T15:34:14"
+   },
+   {
+    "title": "Silent Discipline: Stop Explaining Yourself to People Who Won't Understand",
+    "channel": "Iron Habit Private",
+    "time": "2026-05-19T01:00:50"
+   },
+   {
+    "title": "Albion Future: Local Roots, Street Memory, and Keeping Communities Safe",
+    "channel": "Albion Future Clips",
+    "time": "2026-05-21T00:46:53"
+   },
+   {
+    "title": "The Brotherhood Question: Sacrifice, Weak Men, and the Age of Comfort",
+    "channel": "The Hearthside Stream",
+    "time": "2026-05-22T00:38:58"
+   },
+   {
+    "title": "Cold Water, Heavy Iron, Clear Rules: Building Standards With the Lads",
+    "channel": "Oakenshield88",
+    "time": "2026-05-24T17:50:25"
+   },
+   {
+    "title": "How to Build Discipline When Your Life Is a Mess",
+    "channel": "Iron Routine",
+    "time": "2026-05-25T17:14:44"
+   },
+   {
+    "title": "Why Modern Men Lack Initiation and Purpose",
+    "channel": "The Forge Path",
+    "time": "2026-05-26T01:58:35"
+   },
+   {
+    "title": "Brotherhood, Hardship, and the Lost Young Man",
+    "channel": "Northstar Clips",
+    "time": "2026-05-28T21:27:29"
+   },
+   {
+    "title": "Beginner Hill Walking Kit: Boots, Socks, Blisters and Care",
+    "channel": "Trail Ready UK",
+    "time": "2026-05-29T01:13:57"
+   },
+   {
+    "title": "Best Last-Minute Goals and Derby Day Chaos",
+    "channel": "Football Rewind",
+    "time": "2026-05-30T19:50:14"
+   },
+   {
+    "title": "Leave Comfort Behind: Discipline, Brotherhood, and Becoming Useful",
+    "channel": "Iron Path Mindset",
+    "time": "2026-06-01T16:27:42"
+   },
+   {
+    "title": "Masculinity Is Duty: Escaping Passivity in a Soft Age",
+    "channel": "The Forge Room Podcast",
+    "time": "2026-06-02T22:42:20"
+   }
+  ],
+  "locations": [
+   {
+    "place": "Corner shop/off-licence near Bentilee, Stoke-on-Trent",
+    "lat": 53.017546,
+    "lon": -2.139591,
+    "time": "2026-05-05T19:01:17"
+   },
+   {
+    "place": "Residential streets near Bentilee, starting delivery shift",
+    "lat": 53.018302,
+    "lon": -2.138315,
+    "time": "2026-05-07T17:44:50"
+   },
+   {
+    "place": "Hanley town centre chip shop area, Stoke-on-Trent",
+    "lat": 53.02337,
+    "lon": -2.175433,
+    "time": "2026-05-07T22:29:28"
+   },
+   {
+    "place": "Near The Potteries Centre, Hanley town centre",
+    "lat": 53.026719,
+    "lon": -2.175848,
+    "time": "2026-05-08T21:57:15"
+   },
+   {
+    "place": "The Roebuck, Leek Road area, Stoke-on-Trent",
+    "lat": 53.010035,
+    "lon": -2.178396,
+    "time": "2026-05-09T19:27:08"
+   },
+   {
+    "place": "Burslem residential area near Market Place, Stoke-on-Trent",
+    "lat": 53.043379,
+    "lon": -2.19741,
+    "time": "2026-05-10T14:14:57"
+   },
+   {
+    "place": "Local corner shop, Bentilee, Stoke-on-Trent",
+    "lat": 53.015251,
+    "lon": -2.139486,
+    "time": "2026-05-13T13:18:37"
+   },
+   {
+    "place": "Courier pickup area near Hanley city centre, Stoke-on-Trent",
+    "lat": 53.025066,
+    "lon": -2.177544,
+    "time": "2026-05-14T18:19:20"
+   },
+   {
+    "place": "Go Outdoors area, Festival Park/Hanley, Stoke-on-Trent",
+    "lat": 53.030135,
+    "lon": -2.188518,
+    "time": "2026-05-16T15:26:24"
+   },
+   {
+    "place": "Burslem town centre, near Market Place, Stoke-on-Trent",
+    "lat": 53.044574,
+    "lon": -2.196459,
+    "time": "2026-05-17T14:13:46"
+   },
+   {
+    "place": "Corner shop on Dividy Road, Bentilee, Stoke-on-Trent",
+    "lat": 53.019809,
+    "lon": -2.129871,
+    "time": "2026-05-19T18:01:04"
+   },
+   {
+    "place": "Hanley town centre, near Albion Street / The Potteries Centre",
+    "lat": 53.027127,
+    "lon": -2.174963,
+    "time": "2026-05-21T18:27:58"
+   },
+   {
+    "place": "Hanley Bus Station area, Lichfield Street",
+    "lat": 53.026453,
+    "lon": -2.177088,
+    "time": "2026-05-22T17:04:11"
+   },
+   {
+    "place": "Residential street near Burslem Park, Burslem",
+    "lat": 53.046566,
+    "lon": -2.195471,
+    "time": "2026-05-23T13:30:32"
+   },
+   {
+    "place": "Home area near Bentilee, Stoke-on-Trent",
+    "lat": 53.018782,
+    "lon": -2.130456,
+    "time": "2026-05-23T17:47:41"
+   },
+   {
+    "place": "Local corner shop off Dividy Road, Bentilee, Stoke-on-Trent",
+    "lat": 53.021806,
+    "lon": -2.129469,
+    "time": "2026-05-26T18:32:13"
+   },
+   {
+    "place": "Premier/Costcutter-style convenience shop on Beverley Drive, Bentilee, Stoke-on-Trent",
+    "lat": 53.022205,
+    "lon": -2.11979,
+    "time": "2026-05-28T17:57:21"
+   },
+   {
+    "place": "Hanley town centre delivery pickup area near The Potteries Centre, Stoke-on-Trent",
+    "lat": 53.024893,
+    "lon": -2.176354,
+    "time": "2026-05-29T18:06:50"
+   },
+   {
+    "place": "Burslem town centre near Market Place, Stoke-on-Trent",
+    "lat": 53.043586,
+    "lon": -2.194978,
+    "time": "2026-05-31T11:43:36"
+   },
+   {
+    "place": "Local corner shop near Bentilee Neighbourhood Centre, Dawlish Drive, Stoke-on-Trent",
+    "lat": 53.026385,
+    "lon": -2.133021,
+    "time": "2026-06-01T18:49:38"
+   },
+   {
+    "place": "Short walk around Bentilee Park / Dividy Road area, Bentilee, Stoke-on-Trent",
+    "lat": 53.027495,
+    "lon": -2.128564,
+    "time": "2026-06-02T19:40:05"
+   }
+  ],
+  "calendar": [
+   {
+    "summary": "Courier shift - actually do this",
+    "time": "2026-05-06T17:08:28"
+   },
+   {
+    "summary": "Gym, job search, shower, delivery shift",
+    "time": "2026-05-10T22:01:16"
+   },
+   {
+    "summary": "walk thing",
+    "time": "2026-05-15T13:58:53"
+   },
+   {
+    "summary": "Monday reset: gym, delivery, reading",
+    "time": "2026-05-17T21:55:04"
+   },
+   {
+    "summary": "away?",
+    "time": "2026-05-20T19:37:38"
+   },
+   {
+    "summary": "gym / job apps / sort life",
+    "time": "2026-05-23T02:46:53"
+   },
+   {
+    "summary": "walk thing",
+    "time": "2026-05-26T16:16:22"
+   },
+   {
+    "summary": "Buy boots after next courier payout",
+    "time": "2026-05-31T02:34:26"
+   },
+   {
+    "summary": "Baz thing maybe",
+    "time": "2026-06-01T21:16:14"
+   }
+  ]
+ },
+ "_meta": {
+  "total_days": 30,
+  "n_events": 237
+ }
+}

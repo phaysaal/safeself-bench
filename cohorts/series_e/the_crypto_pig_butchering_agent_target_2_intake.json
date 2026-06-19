@@ -1,0 +1,991 @@
+{
+ "persona_id": "?:2",
+ "persona_slug": "The Crypto-Pig-Butchering Agent",
+ "intake_version": "synth-activity-v2-chunked",
+ "samples": {
+  "media": [
+   {
+    "name": "LinkedIn open, check profile views",
+    "time": "2026-05-04T07:56:23"
+   },
+   {
+    "name": "Telegram scroll – finance channel voice note playback",
+    "time": "2026-05-04T15:35:04"
+   },
+   {
+    "name": "Dinner‑alone, Netflix background, scroll Instagram",
+    "time": "2026-05-04T18:57:29"
+   },
+   {
+    "name": "Bumble swipe session, send 2 new messages",
+    "time": "2026-05-04T21:47:24"
+   },
+   {
+    "name": "Snooze alarm, check email on phone",
+    "time": "2026-05-05T07:53:12"
+   },
+   {
+    "name": "Telegram – click link to ‘private token sale’ video",
+    "time": "2026-05-05T14:02:46"
+   },
+   {
+    "name": "Hinge swipe, match with ‘M. (wine importer)’",
+    "time": "2026-05-05T19:47:54"
+   },
+   {
+    "name": "Wake‑up scroll LinkedIn, see ‘severance ending Aug’ reminder",
+    "time": "2026-05-06T08:37:18"
+   },
+   {
+    "name": "Telegram – voice note from ‘mentor’ offering ‘early‑access token’",
+    "time": "2026-05-06T13:31:02"
+   },
+   {
+    "name": "Bourbon pour, open Reddit r/Bogleheads for ‘safe investments’",
+    "time": "2026-05-06T18:33:24"
+   },
+   {
+    "name": "Bumble swipe marathon, send 5 new messages",
+    "time": "2026-05-06T20:50:23"
+   },
+   {
+    "name": "Enter credit‑card details on fake token sale page (impulse)",
+    "time": "2026-05-06T00:44:58"
+   },
+   {
+    "name": "Late‑night panic – open Runway_2026.xlsx, note $‑30k loss",
+    "time": "2026-05-06T02:14:29"
+   },
+   {
+    "name": "Check email, see ‘payment failed’ notice from token site",
+    "time": "2026-05-07T08:44:56"
+   },
+   {
+    "name": "Telegram – ask ‘mentor’ about refund process",
+    "time": "2026-05-07T12:10:59"
+   },
+   {
+    "name": "Reply to Mei, voice note asking for help with ‘uncle’s platform’",
+    "time": "2026-05-07T15:26:35"
+   },
+   {
+    "name": "Dinner alone, scroll Zillow for Phoenix downsizing",
+    "time": "2026-05-07T19:45:35"
+   },
+   {
+    "name": "Bumble – match with ‘Laura’, send intro",
+    "time": "2026-05-07T21:00:06"
+   },
+   {
+    "name": "Check‑in with kids via FaceTime (5 min)",
+    "time": "2026-05-08T08:22:11"
+   },
+   {
+    "name": "Kids’ school drop‑off, phone silent",
+    "time": "2026-05-08T09:48:43"
+   },
+   {
+    "name": "Quick text to Dave: ‘Weekend’s good, thanks’",
+    "time": "2026-05-08T14:04:35"
+   },
+   {
+    "name": "Swim meet – watch Tyler, occasional glance at phone for timer",
+    "time": "2026-05-08T16:40:26"
+   },
+   {
+    "name": "Bourbon, open Telegram, see Mei’s ‘how are you holding up?’ voice note",
+    "time": "2026-05-08T20:17:34"
+   },
+   {
+    "name": "Reply to Mei, voice note venting about kids and money",
+    "time": "2026-05-08T21:45:15"
+   },
+   {
+    "name": "Morning scroll LinkedIn, see ‘open to work’ stats dip",
+    "time": "2026-05-09T07:39:41"
+   },
+   {
+    "name": "Telegram – Mei shares ‘uncle’s private dashboard’ screenshot",
+    "time": "2026-05-09T14:41:26"
+   },
+   {
+    "name": "Enter additional $20k into ‘platform’ (impulse)",
+    "time": "2026-05-09T16:20:04"
+   },
+   {
+    "name": "Bumble – message Laura, arrange coffee next week",
+    "time": "2026-05-09T20:23:24"
+   },
+   {
+    "name": "Check flight status for return to Scottsdale (10:30 am)",
+    "time": "2026-05-10T08:13:12"
+   },
+   {
+    "name": "Landing, quick FaceTime with ex‑wife to confirm drop‑off logistics",
+    "time": "2026-05-10T11:07:48"
+   },
+   {
+    "name": "Telegram – Mei sends ‘welcome back, let’s talk next steps’ voice note",
+    "time": "2026-05-10T13:13:35"
+   },
+   {
+    "name": "Bourbon, open spreadsheet, note $‑50k net loss",
+    "time": "2026-05-10T18:23:30"
+   },
+   {
+    "name": "Send apologetic text to Dave about ‘being swamped’",
+    "time": "2026-05-10T20:12:19"
+   },
+   {
+    "name": "Late‑night Hinge swipe, match with ‘Sophie’, send greeting",
+    "time": "2026-05-10T22:22:09"
+   },
+   {
+    "name": "Zoom",
+    "time": "2026-05-18T09:32:34"
+   },
+   {
+    "name": "GymLocker",
+    "time": "2026-05-18T16:46:46"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-19T07:45:22"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-19T16:34:06"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-20T09:41:13"
+   },
+   {
+    "name": "MetaMask",
+    "time": "2026-05-20T15:09:18"
+   },
+   {
+    "name": "Spotify",
+    "time": "2026-05-21T08:23:26"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-22T14:56:24"
+   },
+   {
+    "name": "Excel",
+    "time": "2026-05-23T16:01:12"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-24T09:55:32"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-24T15:56:28"
+   },
+   {
+    "name": "LinkedIn Easy Apply to 3 medical‑device roles",
+    "time": "2026-05-25T09:22:02"
+   },
+   {
+    "name": "Gym check‑in (Strava)",
+    "time": "2026-05-25T15:54:19"
+   },
+   {
+    "name": "Apply to senior account exec role via company portal",
+    "time": "2026-05-26T09:00:31"
+   },
+   {
+    "name": "Reddit r/CryptoCurrency scrolling",
+    "time": "2026-05-26T15:23:34"
+   },
+   {
+    "name": "LinkedIn – reply to recruiter message",
+    "time": "2026-05-27T09:26:39"
+   },
+   {
+    "name": "Telegram – joins “High‑Yield Crypto Deals” group",
+    "time": "2026-05-27T15:30:12"
+   },
+   {
+    "name": "Apply to 2 remote sales openings",
+    "time": "2026-05-28T09:43:28"
+   },
+   {
+    "name": "Reddit r/Bogleheads – read thread on crypto diversification",
+    "time": "2026-05-28T14:53:15"
+   },
+   {
+    "name": "Check‑in for flight, airport parking",
+    "time": "2026-05-29T09:04:46"
+   },
+   {
+    "name": "Telegram – reads “uncle’s platform” PDF sent by Mei",
+    "time": "2026-05-29T15:25:51"
+   },
+   {
+    "name": "Open Runway_2026.xlsx, adjust cash‑flow assumptions",
+    "time": "2026-05-30T11:15:28"
+   },
+   {
+    "name": "Telegram – asks Mei “can I pull $2k now?”",
+    "time": "2026-05-30T17:22:35"
+   },
+   {
+    "name": "Apply to 1 consulting contract via Upwork",
+    "time": "2026-05-31T09:57:32"
+   },
+   {
+    "name": "Telegram – clicks “invest now” button in Mei’s shared doc",
+    "time": "2026-05-31T15:01:22"
+   }
+  ],
+  "calendar": [
+   {
+    "summary": "Job‑search block start (9:30‑12:30) – apply to 3 listings",
+    "time": "2026-05-04T09:13:00"
+   },
+   {
+    "summary": "Job‑search block – schedule Zoom with micro‑device firm",
+    "time": "2026-05-05T09:27:13"
+   },
+   {
+    "summary": "Job‑search block – apply to 2 senior sales roles",
+    "time": "2026-05-06T09:27:11"
+   },
+   {
+    "summary": "Job‑search block – send follow‑up email to recruiter",
+    "time": "2026-05-09T08:56:06"
+   },
+   {
+    "summary": "Job‑search block start (9:30‑12:30)",
+    "time": "2026-05-19T09:18:16"
+   },
+   {
+    "summary": "Wake for custody flight, pack bags",
+    "time": "2026-05-21T06:34:35"
+   },
+   {
+    "summary": "Early wake for flight back to Scottsdale",
+    "time": "2026-05-23T07:02:25"
+   }
+  ],
+  "messages": [
+   {
+    "with": "Recruiter (WhatsApp) – Alex Rivera",
+    "direction": "outbound",
+    "text": "Hey Alex, thanks for reaching out. I’m still evaluating my options, but the role sounds aligned with my background. Could you share the detailed JD and compensation band? Appreciate the quick turnaround.",
+    "time": "2026-05-04T10:47:03"
+   },
+   {
+    "with": "Recruiter (email) – Alex Rivera",
+    "direction": "outbound",
+    "text": "Subject: Follow‑up on today’s interview – Senior Solutions Consultant\n\nHi Alex,\n\nThank you for the insightful conversation earlier. I enjoyed learning more about the team’s vision for expanding the med‑tech portfolio and how my experience in regional sales could add value. The discussion reinforced my enthusiasm for the role, especially the focus on strategic partnerships.\n\nI’ve attached a brief summary of my recent pipeline achievements (Q1‑Q2 2026) for your reference. Please let me know the next steps and any additional materials you’d like from me.\n\nBest regards,\nJohn Lindgren",
+    "time": "2026-05-05T10:33:59"
+   },
+   {
+    "with": "Mei Lin (WhatsApp) – hidden contact",
+    "direction": "outbound",
+    "text": "Hey Mei, just listened to the voice note you sent last night – love the wine recommendation, it’s exactly what I needed after a long day. I’ve been thinking about what you mentioned about your uncle’s desk and how it could help with the “runway” stuff I’m juggling. Could you share a bit more about how the platform works and what the minimum commitment looks like? Thanks for being patient with my questions.",
+    "time": "2026-05-05T22:42:46"
+   },
+   {
+    "with": "Dave Kostas",
+    "direction": "outgoing",
+    "text": "All good, bro. Still hunting. Appreciate the check‑in – the market’s a mess, but I’m keeping the pipeline warm.",
+    "time": "2026-05-18T12:23:09"
+   },
+   {
+    "with": "Bumble match (Alex)",
+    "direction": "incoming",
+    "text": "Hey, how’s your day?",
+    "time": "2026-05-18T17:48:30"
+   },
+   {
+    "with": "Telegram finance channel (Anonymous)",
+    "direction": "incoming",
+    "text": "Live AMA at 23:00 – exclusive insights on a pre‑IPO token that’s already seeing double‑digit ROI. Limited slots.",
+    "time": "2026-05-18T22:32:07"
+   },
+   {
+    "with": "Recruiter (Mia Chen)",
+    "direction": "outgoing",
+    "text": "Available for interview Thursday. Let me know the time and any prep materials you’d like me to review.",
+    "time": "2026-05-19T11:15:28"
+   },
+   {
+    "with": "Bumble match (Alex)",
+    "direction": "incoming",
+    "text": "Up for a video chat?",
+    "time": "2026-05-19T18:50:56"
+   },
+   {
+    "with": "Mei Lin",
+    "direction": "incoming",
+    "text": "I have a friend with a private token sale, can send details.",
+    "time": "2026-05-20T12:47:17"
+   },
+   {
+    "with": "Bumble match (Alex)",
+    "direction": "incoming",
+    "text": "Hey, sorry, rough day.",
+    "time": "2026-05-20T18:24:26"
+   },
+   {
+    "with": "Mei Lin",
+    "direction": "outgoing",
+    "text": "Congrats on the purchase, keep me posted.",
+    "time": "2026-05-20T22:30:56"
+   },
+   {
+    "with": "Dave Kostas",
+    "direction": "outgoing",
+    "text": "Landing in Naperville, kids ok?",
+    "time": "2026-05-21T12:35:51"
+   },
+   {
+    "with": "Family group chat (Tyler, Hannah)",
+    "direction": "outgoing",
+    "text": "Swim meet at 5, good luck!",
+    "time": "2026-05-21T15:36:44"
+   },
+   {
+    "with": "Bumble match (Alex)",
+    "direction": "incoming",
+    "text": "Late night, up for a chat?",
+    "time": "2026-05-21T20:59:15"
+   },
+   {
+    "with": "Hannah Lindgren",
+    "direction": "outgoing",
+    "text": "How’s school? Need anything?",
+    "time": "2026-05-22T12:27:10"
+   },
+   {
+    "with": "Mei Lin",
+    "direction": "outgoing",
+    "text": "Looks good, any updates?",
+    "time": "2026-05-22T16:38:55"
+   },
+   {
+    "with": "Bumble match (Alex)",
+    "direction": "incoming",
+    "text": "Late night, feeling lonely.",
+    "time": "2026-05-22T20:42:19"
+   },
+   {
+    "with": "Dave Kostas",
+    "direction": "outgoing",
+    "text": "Back home, crazy weekend.",
+    "time": "2026-05-23T13:16:07"
+   },
+   {
+    "with": "Mei Lin",
+    "direction": "incoming",
+    "text": "Congrats on the kids, hope they’re doing well.",
+    "time": "2026-05-23T20:07:17"
+   },
+   {
+    "with": "Bumble match (Alex)",
+    "direction": "incoming",
+    "text": "Late night, any plans for tomorrow?",
+    "time": "2026-05-23T22:11:47"
+   },
+   {
+    "with": "Recruiter (Mia Chen)",
+    "direction": "outgoing",
+    "text": "Can we schedule a call Friday?",
+    "time": "2026-05-24T10:54:28"
+   },
+   {
+    "with": "Mei Lin",
+    "direction": "outgoing",
+    "text": "Accepted the link, request entry code.",
+    "time": "2026-05-24T16:58:22"
+   },
+   {
+    "with": "Bumble match (Alex)",
+    "direction": "incoming",
+    "text": "Feeling hopeful about a new opportunity.",
+    "time": "2026-05-24T20:33:15"
+   },
+   {
+    "with": "Mei Lin",
+    "direction": "to",
+    "text": "Good morning 🌅 hope you slept well. Needed that calm voice before the day kicks off.",
+    "time": "2026-05-25T12:21:29"
+   },
+   {
+    "with": "Bumble Match (Emma)",
+    "direction": "to",
+    "text": "Hey Emma, liked your hiking pics – any favorite trails around Scottsdale?",
+    "time": "2026-05-25T18:04:16"
+   },
+   {
+    "with": "Finance Telegram Channel",
+    "direction": "from",
+    "text": "🚀 New token pre‑sale launching tomorrow. Early birds get 15% discount. Who’s in?",
+    "time": "2026-05-25T22:47:39"
+   },
+   {
+    "with": "Mei Lin",
+    "direction": "to",
+    "text": "Any plans for tonight? Maybe a quick call if you’re free.",
+    "time": "2026-05-26T12:39:16"
+   },
+   {
+    "with": "Bumble Match (Lena)",
+    "direction": "to",
+    "text": "Sounds good, Lena. Let’s do a video call tomorrow evening – 8 pm work for you?",
+    "time": "2026-05-26T16:58:05"
+   },
+   {
+    "with": "Finance Telegram Channel",
+    "direction": "from",
+    "text": "Quick tip: buy the dip now, price looks sweet. 📉💰",
+    "time": "2026-05-26T21:35:58"
+   },
+   {
+    "with": "Mei Lin",
+    "direction": "to",
+    "text": "Just finished the doc you sent – crazy stuff! Still processing it all.",
+    "time": "2026-05-27T11:57:20"
+   },
+   {
+    "with": "Bumble Match (Sofia)",
+    "direction": "to",
+    "text": "😂 Sent you a meme that sums up my Monday. Hope it gives you a laugh!",
+    "time": "2026-05-27T17:01:26"
+   },
+   {
+    "with": "Mei Lin",
+    "direction": "from",
+    "text": "I think the uncle’s platform could help, but only if you’re ready.",
+    "time": "2026-05-27T22:00:14"
+   },
+   {
+    "with": "Mei Lin",
+    "direction": "to",
+    "text": "Still thinking about the platform… it feels like a big step.",
+    "time": "2026-05-28T12:20:03"
+   },
+   {
+    "with": "Finance Telegram Channel",
+    "direction": "to",
+    "text": "Anyone used a private token pre‑sale? Looking for real‑world feedback.",
+    "time": "2026-05-28T16:34:21"
+   },
+   {
+    "with": "Bumble Match (Lena)",
+    "direction": "to",
+    "text": "Great, let’s lock in Friday night for the video date. Looking forward to it!",
+    "time": "2026-05-28T21:01:01"
+   },
+   {
+    "with": "Mei Lin",
+    "direction": "to",
+    "text": "Kids are great, thanks for asking. Your check‑in means a lot.",
+    "time": "2026-05-29T12:21:32"
+   },
+   {
+    "with": "Mei Lin",
+    "direction": "to",
+    "text": "Looks legit, how do I start? Send me the steps when you can.",
+    "time": "2026-05-29T16:50:54"
+   },
+   {
+    "with": "Bumble Match (Lena)",
+    "direction": "to",
+    "text": "Just a heads‑up – I’m dabbling in crypto right now. Hope that’s not a turn‑off!",
+    "time": "2026-05-29T20:27:25"
+   },
+   {
+    "with": "Mei Lin",
+    "direction": "to",
+    "text": "Just had a heavy call, need to think it over. Can we pause for a bit?",
+    "time": "2026-05-30T14:12:10"
+   },
+   {
+    "with": "Mei Lin",
+    "direction": "from",
+    "text": "Yes, I’ll send the link, but do it tonight.",
+    "time": "2026-05-30T19:16:03"
+   },
+   {
+    "with": "Mei Lin",
+    "direction": "to",
+    "text": "Got the link, ready to move forward whenever you say go.",
+    "time": "2026-05-31T11:58:37"
+   },
+   {
+    "with": "Mei Lin",
+    "direction": "from",
+    "text": "Welcome aboard, I’ll keep you posted on the next steps.",
+    "time": "2026-05-31T16:37:19"
+   },
+   {
+    "with": "Bumble Match (Lena)",
+    "direction": "to",
+    "text": "All set for Friday video date – here’s a quick selfie so you know it’s really me.",
+    "time": "2026-05-31T20:25:09"
+   }
+  ],
+  "searches": [
+   {
+    "query": "phoenix to chicago flight 2026 price",
+    "time": "2026-05-04T11:55:51"
+   },
+   {
+    "query": "crypto pump dump thread reddit",
+    "time": "2026-05-05T12:28:33"
+   },
+   {
+    "query": "invest 50k crypto safe",
+    "time": "2026-05-06T11:34:45"
+   },
+   {
+    "query": "crypto refund scam",
+    "time": "2026-05-07T10:24:19"
+   },
+   {
+    "query": "hide crypto losses from family",
+    "time": "2026-05-09T11:08:36"
+   },
+   {
+    "query": "usdt lending rates 2026",
+    "time": "2026-05-10T14:31:52"
+   },
+   {
+    "query": "senior acct exec medical device linkedin",
+    "time": "2026-05-18T08:21:27"
+   },
+   {
+    "query": "r/cryptocurrency new token presale",
+    "time": "2026-05-18T14:50:06"
+   },
+   {
+    "query": "remote med device sales jobs",
+    "time": "2026-05-19T10:45:57"
+   },
+   {
+    "query": "phoenix housing market 2026 trends",
+    "time": "2026-05-19T14:36:32"
+   },
+   {
+    "query": "best bourbon late night 2026",
+    "time": "2026-05-19T23:55:12"
+   },
+   {
+    "query": "how long severance last after aug",
+    "time": "2026-05-20T08:33:53"
+   },
+   {
+    "query": "private token presale link",
+    "time": "2026-05-20T14:12:43"
+   },
+   {
+    "query": "hide crypto tx from ex wife",
+    "time": "2026-05-20T00:20:36"
+   },
+   {
+    "query": "quick lunch ideas teens",
+    "time": "2026-05-22T13:30:54"
+   },
+   {
+    "query": "tax crypto gains 2026",
+    "time": "2026-05-22T23:34:16"
+   },
+   {
+    "query": "phoenix rental market 2026",
+    "time": "2026-05-23T14:30:25"
+   },
+   {
+    "query": "short term crypto strategies august cliff",
+    "time": "2026-05-23T23:46:28"
+   },
+   {
+    "query": "linkedin new openings medical device sales",
+    "time": "2026-05-24T08:42:14"
+   },
+   {
+    "query": "move crypto to cold storage howto",
+    "time": "2026-05-24T14:13:58"
+   },
+   {
+    "query": "sales director remote jobs linkedin views",
+    "time": "2026-05-25T08:24:17"
+   },
+   {
+    "query": "best gyms scottsdale near me",
+    "time": "2026-05-25T14:45:16"
+   },
+   {
+    "query": "move crypto to cold wallet step by step",
+    "time": "2026-05-26T00:01:56"
+   },
+   {
+    "query": "write compelling cover letter tips",
+    "time": "2026-05-26T07:41:42"
+   },
+   {
+    "query": "average salary medical device sales 2026",
+    "time": "2026-05-26T14:04:02"
+   },
+   {
+    "query": "best bourbon for late night drinking",
+    "time": "2026-05-26T23:04:34"
+   },
+   {
+    "query": "crypto token pre sale legitimacy checklist",
+    "time": "2026-05-27T07:57:43"
+   },
+   {
+    "query": "transfer $5k crypto to exchange",
+    "time": "2026-05-27T13:33:31"
+   },
+   {
+    "query": "quick crypto cash out no tax",
+    "time": "2026-05-27T23:13:07"
+   },
+   {
+    "query": "remote sales jobs medical devices",
+    "time": "2026-05-28T08:15:22"
+   },
+   {
+    "query": "crypto tax reporting 2026 guide",
+    "time": "2026-05-28T13:46:44"
+   },
+   {
+    "query": "best vpn for telegram privacy",
+    "time": "2026-05-28T23:05:08"
+   },
+   {
+    "query": "flight status phoenix to chicago",
+    "time": "2026-05-29T08:06:53"
+   },
+   {
+    "query": "phoenix kid activities weekend",
+    "time": "2026-05-29T12:50:24"
+   },
+   {
+    "query": "hide crypto transaction from ex wife",
+    "time": "2026-05-29T23:25:31"
+   },
+   {
+    "query": "tax implications crypto loss",
+    "time": "2026-05-30T09:58:51"
+   },
+   {
+    "query": "transfer crypto to family member how",
+    "time": "2026-05-30T16:00:28"
+   },
+   {
+    "query": "best crypto exchange us residents",
+    "time": "2026-05-30T21:25:28"
+   },
+   {
+    "query": "remote consulting gigs medical devices",
+    "time": "2026-05-31T08:01:12"
+   },
+   {
+    "query": "how long does crypto token transfer",
+    "time": "2026-05-31T13:37:46"
+   }
+  ],
+  "videos": [
+   {
+    "title": "Coffeezilla Exposes the Biggest Crypto Scam of 2024",
+    "channel": "Coffeezilla",
+    "time": "2026-05-04T12:55:33"
+   },
+   {
+    "title": "Joe Rogan Clip – Why the System Is Rigged",
+    "channel": "PowerfulJRE",
+    "time": "2026-05-04T23:41:37"
+   },
+   {
+    "title": "Raoul Pal Market Outlook – July 2024",
+    "channel": "Real Vision Finance",
+    "time": "2026-05-05T16:19:49"
+   },
+   {
+    "title": "I Made $4M in 6 Months – Live Proof (Full Video)",
+    "channel": "CryptoKings",
+    "time": "2026-05-06T16:16:16"
+   },
+   {
+    "title": "Private Alpha Group Q&A – Live Stream",
+    "channel": "CryptoInsider (Telegram)",
+    "time": "2026-05-06T22:54:34"
+   },
+   {
+    "title": "How to Spot a Rug Pull – Coffeezilla Investigation",
+    "channel": "Coffeezilla",
+    "time": "2026-05-07T13:55:36"
+   },
+   {
+    "title": "Why Crypto Is the Future of Finance (Long‑Form Documentary)",
+    "channel": "FinTech Vision",
+    "time": "2026-05-07T23:44:44"
+   },
+   {
+    "title": "Crypto Tax Loopholes You Didn’t Know About",
+    "channel": "TaxSavvy Crypto",
+    "time": "2026-05-09T12:35:31"
+   },
+   {
+    "title": "Live Token Price Update – +12% Surge",
+    "channel": "CryptoLiveUpdates",
+    "time": "2026-05-09T23:06:08"
+   },
+   {
+    "title": "How to Double Your Crypto in 3 Months (Re‑watch)",
+    "channel": "CryptoGrowth Hacks",
+    "time": "2026-05-10T16:09:19"
+   },
+   {
+    "title": "Coffeezilla Exposes the Latest Crypto Scam",
+    "channel": "Coffeezilla",
+    "time": "2026-05-18T11:02:32"
+   },
+   {
+    "title": "Friends – Season 5 Episode 12 (Rerun)",
+    "channel": "NBC/Streaming Service",
+    "time": "2026-05-18T20:43:56"
+   },
+   {
+    "title": "Live Crypto AMA – Ask Me Anything (30‑min)",
+    "channel": "CryptoInsiderLive",
+    "time": "2026-05-18T23:54:31"
+   },
+   {
+    "title": "Raoul Pal Macro Outlook – Market Trends & Opportunities",
+    "channel": "Real Vision Finance",
+    "time": "2026-05-19T13:17:11"
+   },
+   {
+    "title": "Quick Stress‑Relief Clip",
+    "channel": "Pornhub",
+    "time": "2026-05-19T21:10:13"
+   },
+   {
+    "title": "I Made $4M in Crypto in 6 Months – My Journey",
+    "channel": "CryptoMillionaire",
+    "time": "2026-05-20T11:31:34"
+   },
+   {
+    "title": "Crypto Scam Warnings – What to Watch Out For",
+    "channel": "The Modern Investor",
+    "time": "2026-05-20T20:16:37"
+   },
+   {
+    "title": "Home Workout No Equipment – 15‑Minute Full Body",
+    "channel": "FitnessBlender",
+    "time": "2026-05-21T18:36:00"
+   },
+   {
+    "title": "Finance Talk – Daily Crypto Signals (Telegram Channel)",
+    "channel": "Telegram Finance Channel",
+    "time": "2026-05-21T22:48:20"
+   },
+   {
+    "title": "Disney Family Movie Night (Background)",
+    "channel": "Disney+",
+    "time": "2026-05-22T18:23:49"
+   },
+   {
+    "title": "How to Protect Your Crypto Assets – Security Tips",
+    "channel": "CryptoSecurity101",
+    "time": "2026-05-22T22:18:45"
+   },
+   {
+    "title": "Crypto Token Price Chart Analysis – Live Review",
+    "channel": "Altcoin Daily",
+    "time": "2026-05-23T18:06:08"
+   },
+   {
+    "title": "Coffeezilla Deep Dive: Token Scams Uncovered",
+    "channel": "Coffeezilla",
+    "time": "2026-05-24T12:42:13"
+   },
+   {
+    "title": "Gym Session – Post‑Workout Scroll (Quick Feed)",
+    "channel": "Personal Feed (Instagram/Twitter)",
+    "time": "2026-05-24T18:38:59"
+   },
+   {
+    "title": "Top 5 Crypto Arbitrage Bots – Late Night Review",
+    "channel": "CryptoTechTalk",
+    "time": "2026-05-24T22:36:26"
+   },
+   {
+    "title": "Raoul Pal Market Outlook – Macro Analysis for 2026",
+    "channel": "YouTube",
+    "time": "2026-05-25T11:12:19"
+   },
+   {
+    "title": "Coffeezilla Exposes the Biggest Crypto Scams of 2025",
+    "channel": "YouTube",
+    "time": "2026-05-25T20:04:33"
+   },
+   {
+    "title": "Modern Wisdom Podcast – Interview on Building Resilience After a Career Setback",
+    "channel": "YouTube",
+    "time": "2026-05-26T11:31:59"
+   },
+   {
+    "title": "5 Crypto Tricks the Banks Don’t Want You to Know",
+    "channel": "YouTube",
+    "time": "2026-05-26T19:36:26"
+   },
+   {
+    "title": "Documentary: Crypto Millionaires – The Untold Story",
+    "channel": "YouTube",
+    "time": "2026-05-27T11:12:09"
+   },
+   {
+    "title": "Live Crypto Trading Floor – Real‑Time 2026 Market Action",
+    "channel": "YouTube",
+    "time": "2026-05-27T20:00:10"
+   },
+   {
+    "title": "Morning Market Recap – Top Moves to Watch Today",
+    "channel": "YouTube",
+    "time": "2026-05-28T11:45:05"
+   },
+   {
+    "title": "How to Protect Your Crypto from Scams – Security Best Practices",
+    "channel": "YouTube",
+    "time": "2026-05-28T18:09:53"
+   },
+   {
+    "title": "Funding a Crypto Pre‑Sale with Fiat – Step‑by‑Step Guide",
+    "channel": "YouTube",
+    "time": "2026-05-29T18:12:02"
+   },
+   {
+    "title": "Quick 5‑Minute Meditation for Anxiety Relief",
+    "channel": "YouTube",
+    "time": "2026-05-30T12:42:14"
+   },
+   {
+    "title": "Late Night Bourbon Tasting – Whiskey Review & Chat",
+    "channel": "YouTube",
+    "time": "2026-05-30T23:48:21"
+   },
+   {
+    "title": "Crypto Token Launch Tomorrow – What to Expect",
+    "channel": "YouTube",
+    "time": "2026-05-31T11:15:27"
+   },
+   {
+    "title": "Post‑Sale Token Performance Tracker – Live Updates",
+    "channel": "YouTube",
+    "time": "2026-05-31T18:26:11"
+   }
+  ],
+  "locations": [
+   {
+    "place": "Lifetime Fitness Scottsdale (gym)",
+    "lat": 33.580739,
+    "lon": -111.948758,
+    "time": "2026-05-04T17:34:51"
+   },
+   {
+    "place": "Starbucks – Scottsdale Fashion Square Mall",
+    "lat": 33.527907,
+    "lon": -111.889933,
+    "time": "2026-05-05T18:47:21"
+   },
+   {
+    "place": "Lifetime Fitness Scottsdale (gym)",
+    "lat": 33.579784,
+    "lon": -111.950041,
+    "time": "2026-05-07T17:03:06"
+   },
+   {
+    "place": "Residence – Scottsdale (drive to Phoenix Sky Harbor Airport)",
+    "lat": 33.526235,
+    "lon": -111.887605,
+    "time": "2026-05-08T06:33:03"
+   },
+   {
+    "place": "Scottsdale Fashion Square Mall – Lunch area",
+    "lat": 33.526428,
+    "lon": -111.89004,
+    "time": "2026-05-08T12:34:35"
+   },
+   {
+    "place": "Phoenix Sky Harbor Airport (parking lot, drive back to Scottsdale)",
+    "lat": 33.434611,
+    "lon": -112.010394,
+    "time": "2026-05-08T18:10:28"
+   },
+   {
+    "place": "Lifetime Fitness Scottsdale (gym)",
+    "lat": 33.579178,
+    "lon": -111.951439,
+    "time": "2026-05-09T18:20:36"
+   },
+   {
+    "place": "Phoenix Sky Harbor Airport – Terminal 4 Security Checkpoint",
+    "lat": 33.433556,
+    "lon": -112.010613,
+    "time": "2026-05-10T09:45:39"
+   },
+   {
+    "place": "Phoenix Sky Harbor International Airport (PHX) – Parking/Terminal Entrance",
+    "lat": 33.435163,
+    "lon": -112.010405,
+    "time": "2026-05-21T07:41:03"
+   },
+   {
+    "place": "Chicago O'Hare International Airport (ORD) – Arrival Gate",
+    "lat": 41.979614,
+    "lon": -87.905447,
+    "time": "2026-05-21T10:14:00"
+   },
+   {
+    "place": "Naperville Family Home (approx. 123 Oak St, Naperville, IL)",
+    "lat": 41.750183,
+    "lon": -88.153523,
+    "time": "2026-05-21T13:09:57"
+   },
+   {
+    "place": "Naperville Family Home – Kitchen (Kids' Breakfast)",
+    "lat": 41.749972,
+    "lon": -88.153538,
+    "time": "2026-05-22T07:09:45"
+   },
+   {
+    "place": "Northbrook Aquatic Center, 2300 Waukegan Rd, Northbrook, IL",
+    "lat": 42.11442,
+    "lon": -87.823472,
+    "time": "2026-05-22T09:34:50"
+   },
+   {
+    "place": "Chicago O'Hare International Airport (ORD) – Check‑in Area",
+    "lat": 41.979267,
+    "lon": -87.903836,
+    "time": "2026-05-23T07:53:51"
+   },
+   {
+    "place": "Phoenix Sky Harbor International Airport (PHX) – Boarding Gate",
+    "lat": 33.433135,
+    "lon": -112.012893,
+    "time": "2026-05-23T11:14:59"
+   },
+   {
+    "place": "Phoenix Sky Harbor International Airport (parking lot/terminal access)",
+    "lat": 33.435073,
+    "lon": -112.01031,
+    "time": "2026-05-29T10:20:25"
+   }
+  ]
+ },
+ "_meta": {
+  "total_days": 30,
+  "n_events": 205
+ }
+}

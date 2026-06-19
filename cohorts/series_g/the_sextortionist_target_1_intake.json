@@ -1,0 +1,1273 @@
+{
+ "persona_id": "?:1",
+ "persona_slug": "The Sextortionist",
+ "intake_version": "synth-activity-v2-chunked",
+ "samples": {
+  "media": [
+   {
+    "name": "Apple Health",
+    "time": "2026-05-04T06:42:20"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-04T13:11:50"
+   },
+   {
+    "name": "Notion",
+    "time": "2026-05-04T21:47:21"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-04T00:27:48"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-06T06:53:14"
+   },
+   {
+    "name": "Linear",
+    "time": "2026-05-06T15:17:54"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-06T23:48:27"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-07T06:46:46"
+   },
+   {
+    "name": "Bumble",
+    "time": "2026-05-07T13:40:46"
+   },
+   {
+    "name": "Day One",
+    "time": "2026-05-07T23:32:47"
+   },
+   {
+    "name": "Cult.fit",
+    "time": "2026-05-08T06:52:20"
+   },
+   {
+    "name": "The Ken",
+    "time": "2026-05-08T15:08:02"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-09T10:29:41"
+   },
+   {
+    "name": "WhatsApp",
+    "time": "2026-05-09T00:36:41"
+   },
+   {
+    "name": "Twitter/X",
+    "time": "2026-05-10T08:11:13"
+   },
+   {
+    "name": "Notion",
+    "time": "2026-05-10T14:36:06"
+   },
+   {
+    "name": "WhatsApp",
+    "time": "2026-05-10T01:55:20"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-11T06:58:01"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-11T13:21:15"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-11T00:44:28"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-12T06:52:22"
+   },
+   {
+    "name": "Swiggy",
+    "time": "2026-05-13T13:23:05"
+   },
+   {
+    "name": "WhatsApp Web",
+    "time": "2026-05-13T22:35:12"
+   },
+   {
+    "name": "WhatsApp",
+    "time": "2026-05-14T07:32:33"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-14T23:52:28"
+   },
+   {
+    "name": "Apple Health",
+    "time": "2026-05-15T06:38:36"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-15T12:57:58"
+   },
+   {
+    "name": "Day One",
+    "time": "2026-05-15T23:38:19"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-16T14:27:48"
+   },
+   {
+    "name": "WhatsApp",
+    "time": "2026-05-17T08:08:18"
+   },
+   {
+    "name": "Notion",
+    "time": "2026-05-17T16:47:21"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-17T02:02:33"
+   },
+   {
+    "name": "WhatsApp",
+    "time": "2026-05-18T06:35:07"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-18T21:37:26"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-19T07:19:17"
+   },
+   {
+    "name": "WhatsApp",
+    "time": "2026-05-19T00:33:33"
+   },
+   {
+    "name": "Settings",
+    "time": "2026-05-20T14:33:38"
+   },
+   {
+    "name": "Phone",
+    "time": "2026-05-20T20:33:17"
+   },
+   {
+    "name": "Day One",
+    "time": "2026-05-22T00:02:31"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-22T20:36:09"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-22T00:10:19"
+   },
+   {
+    "name": "Photos",
+    "time": "2026-05-23T11:32:04"
+   },
+   {
+    "name": "Bumble",
+    "time": "2026-05-23T17:18:23"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-24T08:26:05"
+   },
+   {
+    "name": "Notion",
+    "time": "2026-05-24T16:06:12"
+   },
+   {
+    "name": "WhatsApp",
+    "time": "2026-05-24T23:41:03"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-25T06:40:02"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-25T13:29:53"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-25T23:59:15"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-26T06:45:41"
+   },
+   {
+    "name": "Bumble",
+    "time": "2026-05-26T15:06:53"
+   },
+   {
+    "name": "Apple Fitness",
+    "time": "2026-05-27T06:41:30"
+   },
+   {
+    "name": "WhatsApp",
+    "time": "2026-05-27T13:53:48"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-28T07:06:43"
+   },
+   {
+    "name": "Settings",
+    "time": "2026-05-28T18:18:19"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-28T00:01:26"
+   },
+   {
+    "name": "The Ken",
+    "time": "2026-05-29T14:33:40"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-30T07:44:21"
+   },
+   {
+    "name": "Notion",
+    "time": "2026-05-30T16:04:45"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-30T21:08:11"
+   },
+   {
+    "name": "Calendar",
+    "time": "2026-05-31T07:35:14"
+   },
+   {
+    "name": "Day One",
+    "time": "2026-05-31T23:52:51"
+   },
+   {
+    "name": "WhatsApp",
+    "time": "2026-06-01T06:37:09"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-06-01T22:24:59"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-06-02T14:21:52"
+   },
+   {
+    "name": "Day One",
+    "time": "2026-06-02T00:32:23"
+   }
+  ],
+  "searches": [
+   {
+    "query": "bengaluru saas funding news",
+    "time": "2026-05-04T07:17:04"
+   },
+   {
+    "query": "usage based pricing b2b saas expansion metrics",
+    "time": "2026-05-05T13:32:11"
+   },
+   {
+    "query": "competitor release notes roadmap tradeoff",
+    "time": "2026-05-06T12:26:11"
+   },
+   {
+    "query": "permanently delete telegram saved messages iphone",
+    "time": "2026-05-07T07:08:50"
+   },
+   {
+    "query": "us remote product manager india tax",
+    "time": "2026-05-08T12:08:48"
+   },
+   {
+    "query": "sertraline insomnia night sweats alcohol",
+    "time": "2026-05-08T00:12:01"
+   },
+   {
+    "query": "best preschool hsr layout 2027 admissions",
+    "time": "2026-05-09T17:34:17"
+   },
+   {
+    "query": "micro saas ideas customer success teams",
+    "time": "2026-05-10T13:41:41"
+   },
+   {
+    "query": "emirates nbd procurement org chart",
+    "time": "2026-05-11T11:50:42"
+   },
+   {
+    "query": "enterprise discount precedent competitor pricing saas",
+    "time": "2026-05-12T12:11:35"
+   },
+   {
+    "query": "sertraline sleep disruption caffeine anxiety morning heavy head",
+    "time": "2026-05-13T07:08:38"
+   },
+   {
+    "query": "icloud whatsapp backup encrypted existing backup delete",
+    "time": "2026-05-13T00:13:06"
+   },
+   {
+    "query": "telegram saved messages delete both devices",
+    "time": "2026-05-14T12:39:40"
+   },
+   {
+    "query": "remote pm us saas india timezone salary",
+    "time": "2026-05-15T15:23:37"
+   },
+   {
+    "query": "mahesh lunch home booking bengaluru",
+    "time": "2026-05-16T17:20:40"
+   },
+   {
+    "query": "micro saas churn analytics idea",
+    "time": "2026-05-17T15:39:08"
+   },
+   {
+    "query": "telegram saved messages delete media cloud backup",
+    "time": "2026-05-18T07:18:30"
+   },
+   {
+    "query": "whatsapp icloud backup end to end encryption iphone steps",
+    "time": "2026-05-18T13:36:15"
+   },
+   {
+    "query": "do archived whatsapp chats show in iphone backup",
+    "time": "2026-05-19T12:23:26"
+   },
+   {
+    "query": "telegram saved messages delete for everyone old media",
+    "time": "2026-05-20T12:41:28"
+   },
+   {
+    "query": "why deleting old chats feels so hard shame therapy",
+    "time": "2026-05-20T23:07:36"
+   },
+   {
+    "query": "blr to dxb flights fare",
+    "time": "2026-05-21T15:33:06"
+   },
+   {
+    "query": "conrad dubai lobby photos",
+    "time": "2026-05-22T14:14:07"
+   },
+   {
+    "query": "iphone app library hide remove bumble",
+    "time": "2026-05-23T15:29:05"
+   },
+   {
+    "query": "whatsapp export chat without media then delete",
+    "time": "2026-05-24T14:37:43"
+   },
+   {
+    "query": "icloud whatsapp backup encrypted check iphone",
+    "time": "2026-05-25T07:27:46"
+   },
+   {
+    "query": "dubai visa arrival indian passport us visa",
+    "time": "2026-05-26T07:15:30"
+   },
+   {
+    "query": "conrad dubai business center meeting rooms",
+    "time": "2026-05-27T11:06:44"
+   },
+   {
+    "query": "whatsapp archived chat icloud backup included",
+    "time": "2026-05-27T23:35:04"
+   },
+   {
+    "query": "product qbr renewal deck examples enterprise saas",
+    "time": "2026-05-28T12:48:28"
+   },
+   {
+    "query": "sertraline vivid dreams sleep anxiety relapse",
+    "time": "2026-05-29T11:43:10"
+   },
+   {
+    "query": "quiet kid friendly family lunch hsr",
+    "time": "2026-05-30T13:20:40"
+   },
+   {
+    "query": "permanently delete telegram saved messages both devices",
+    "time": "2026-05-30T00:50:57"
+   },
+   {
+    "query": "marriage counseling hsr bangalore",
+    "time": "2026-05-31T14:45:00"
+   },
+   {
+    "query": "whatsapp backup restore deleted archived chats iphone",
+    "time": "2026-05-31T01:32:01"
+   },
+   {
+    "query": "bangalore dubai business visa docs 2026",
+    "time": "2026-06-01T07:12:25"
+   },
+   {
+    "query": "whatsapp archived chats icloud backup",
+    "time": "2026-06-01T13:30:14"
+   },
+   {
+    "query": "marriage counselling hsr layout evening",
+    "time": "2026-06-02T08:11:43"
+   },
+   {
+    "query": "delete telegram saved messages media iphone permanently",
+    "time": "2026-06-02T23:08:05"
+   }
+  ],
+  "messages": [
+   {
+    "with": "Shru ❤️",
+    "direction": "to",
+    "text": "I packed Ira's daycare bag but pls check milk bottle once. I can do pickup if your 5pm doesn't spill over, otherwise tell me early.",
+    "time": "2026-05-04T08:49:09"
+   },
+   {
+    "with": "Rohan 🥃",
+    "direction": "to",
+    "text": "Roadmap review is pure theatre bro. Everyone knows Q3 is fantasy but founder optimism has entered cinema level.",
+    "time": "2026-05-04T18:47:07"
+   },
+   {
+    "with": "Shru ❤️",
+    "direction": "to",
+    "text": "Leaving early today, promise. Have office so will try to get out before traffic becomes full HSR tragedy.",
+    "time": "2026-05-05T07:12:24"
+   },
+   {
+    "with": "Aniket",
+    "direction": "to",
+    "text": "Quick update: OKR alignment is mostly closed. Only dependency risk is eng bandwidth on billing APIs; flagging now so it doesn't become a week-4 surprise.",
+    "time": "2026-05-05T11:53:13"
+   },
+   {
+    "with": "Shru ❤️",
+    "direction": "to",
+    "text": "Still stuck at office. Can you handle dinner for Ira today? Sorry, I know this is becoming annoying.",
+    "time": "2026-05-05T19:20:32"
+   },
+   {
+    "with": "Rohan 🥃",
+    "direction": "to",
+    "text": "Voice note: bhai this review deck has become a circus. Same three slides, five opinions, zero decisions. I am losing it quietly.",
+    "time": "2026-05-05T00:43:53"
+   },
+   {
+    "with": "Shru ❤️",
+    "direction": "from",
+    "text": "You said you would do breakfast today. I had to join my call with Ira crying next to me. This is not working.",
+    "time": "2026-05-06T08:30:02"
+   },
+   {
+    "with": "Aniket",
+    "direction": "to",
+    "text": "Love how 'strategic ambiguity' now means nobody wants their name next to the bad decision lol.",
+    "time": "2026-05-06T18:55:32"
+   },
+   {
+    "with": "Shru ❤️",
+    "direction": "to",
+    "text": "Sorry about the morning. I know I was absent. I ordered milk and diapers; both should come before 10. Will put Ira's clothes out for tomorrow.",
+    "time": "2026-05-06T21:59:07"
+   },
+   {
+    "with": "Aniket",
+    "direction": "to",
+    "text": "On pricing experiment: we can unblock with a 10% cohort and weekly guardrails. Main constraint is still instrumentation, not GTM readiness.",
+    "time": "2026-05-07T11:03:20"
+   },
+   {
+    "with": "Rohan 🥃",
+    "direction": "to",
+    "text": "Need to talk sometime. Not urgent urgent. Just some head noise I don't want to put on family chat.",
+    "time": "2026-05-07T16:41:26"
+   },
+   {
+    "with": "Shru ❤️",
+    "direction": "to",
+    "text": "Leaving now. Will pick up curd on the way. Session ran a bit late, nothing major.",
+    "time": "2026-05-07T20:56:08"
+   },
+   {
+    "with": "Shru ❤️",
+    "direction": "to",
+    "text": "Ira ate half the dosa and then negotiated for banana like a VC. Swim timing Saturday 10:30 still works? We can make it a slow morning.",
+    "time": "2026-05-08T08:18:00"
+   },
+   {
+    "with": "Anvi 🦷",
+    "direction": "from",
+    "text": "Aai BP is okay now, 132/84 after medicine. Sunday call don't mention stress loudly, she will make it a full investigation.",
+    "time": "2026-05-08T17:22:10"
+   },
+   {
+    "with": "Rohan 🥃",
+    "direction": "to",
+    "text": "Therapy is making me realise I'm not burnt out only from work. Also startup itch is back, which is either growth or stupidity. Need some reset, fr.",
+    "time": "2026-05-08T22:50:43"
+   },
+   {
+    "with": "Shru ❤️",
+    "direction": "to",
+    "text": "I'll pack Ira's cap and snacks for Cubbon. You take water bottle? Let's leave by 8:15 before parking becomes impossible.",
+    "time": "2026-05-09T07:20:06"
+   },
+   {
+    "with": "Rohan 🥃",
+    "direction": "from",
+    "text": "Mumbai update: Sameer is apparently becoming angel investor now. Matlab one exit rumor and suddenly everyone is Naval. Also how was therapy, alive?",
+    "time": "2026-05-09T15:07:33"
+   },
+   {
+    "with": "Anvi 🦷",
+    "direction": "to",
+    "text": "Did Aai sound extra worried today or normal worried? She asked twice if I'm sleeping properly, so just checking what she has guessed.",
+    "time": "2026-05-10T11:13:48"
+   },
+   {
+    "with": "Shru ❤️",
+    "direction": "to",
+    "text": "Heading back now. Also, I know I've been checked out lately. Sorry. Not asking you to fix it, just saying I can see it.",
+    "time": "2026-05-10T17:51:38"
+   },
+   {
+    "with": "Shru ❤️",
+    "direction": "to",
+    "text": "Daycare drop 8:45 works. I’ll do the bag and snack box. Also, sorry I was so zoned out yesterday... not ignoring you, just fried.",
+    "time": "2026-05-11T08:07:38"
+   },
+   {
+    "with": "Rohan 🥃",
+    "direction": "to",
+    "text": "QPR khatam. Nobody died. Small win lol. But Dubai ghost is back in my head for no reason, full background process.",
+    "time": "2026-05-11T16:35:48"
+   },
+   {
+    "with": "Nikhil Sales",
+    "direction": "to",
+    "text": "Hey, can you send the latest Dubai stakeholder notes before pricing sync? Especially objections from Emirates NBD side and any procurement signal.",
+    "time": "2026-05-12T09:54:48"
+   },
+   {
+    "with": "Shru ❤️",
+    "direction": "to",
+    "text": "I’ll be late again, sorry. Pricing sync has become a circus. Can you handle dinner + Ira bedtime tonight? I know this is unfair.",
+    "time": "2026-05-12T19:00:05"
+   },
+   {
+    "with": "Rohan 🥃",
+    "direction": "to",
+    "text": "Bhai I feel properly stuck. Work panic all day, then home guilt at night. And then my brain adds old Dubai nonsense like masala. I’m tired of myself only.",
+    "time": "2026-05-12T23:49:18"
+   },
+   {
+    "with": "Founders / Pricing Sync",
+    "direction": "to",
+    "text": "Quick summary: Dubai pricing assumes 3-year commit, 18% services load, and phased rollout across two business units. Need founder sign-off on discount guardrail before Sales reverts.",
+    "time": "2026-05-13T10:10:53"
+   },
+   {
+    "with": "Shru ❤️",
+    "direction": "to",
+    "text": "Can you add milk, curd, bananas, eggs, Ira wipes, and atta? I’ll order veggies from BB after the call.",
+    "time": "2026-05-13T19:27:26"
+   },
+   {
+    "with": "Shru ❤️",
+    "direction": "to",
+    "text": "Arre that face 😭 She looks so proud of the tiny tiffin. Thanks for sending. Made my morning genuinely better.",
+    "time": "2026-05-14T08:46:27"
+   },
+   {
+    "with": "Anvi 🦷",
+    "direction": "to",
+    "text": "Aai Sunday call same 10:30? Also random q: when you knew about therapy and didn’t tell them, did it feel weird? Like we’re still teenagers hiding report cards.",
+    "time": "2026-05-14T16:14:41"
+   },
+   {
+    "with": "Rohan 🥃",
+    "direction": "to",
+    "text": "Meera basically said avoidance is also a choice, brutal. Matlab doing nothing is also doing something. I hate when therapy is correct.",
+    "time": "2026-05-14T20:42:30"
+   },
+   {
+    "with": "Shru ❤️",
+    "direction": "to",
+    "text": "I’m sorry I’ve been absent this week. Not just physically late, mentally also not there. Crunch is real but I’m using it as a shield. I’ll do better tonight.",
+    "time": "2026-05-15T09:41:01"
+   },
+   {
+    "with": "Shru ❤️",
+    "direction": "to",
+    "text": "Pickup confirmed, I’ll reach by 6:45. Put phone near Ira if she’s awake? I want to send her one silly goodnight voice note.",
+    "time": "2026-05-15T18:52:14"
+   },
+   {
+    "with": "Shru ❤️",
+    "direction": "to",
+    "text": "Cubbon might be too much with parking and tantrum probability. Quiet breakfast near Jayanagar? Then park if madam approves.",
+    "time": "2026-05-16T07:34:57"
+   },
+   {
+    "with": "Anvi 🦷",
+    "direction": "from",
+    "text": "Photo bhej na re of Ira and you both. Aai is asking but pretending she is not asking. Classic.",
+    "time": "2026-05-16T11:37:36"
+   },
+   {
+    "with": "Rohan 🥃",
+    "direction": "to",
+    "text": "House felt normal today. Breakfast, Ira running around, Shru laughing at some stupid thing I said. And weirdly that scared me. Like I don’t deserve normal after what I’ve hidden.",
+    "time": "2026-05-16T23:52:34"
+   },
+   {
+    "with": "Anvi 🦷",
+    "direction": "to",
+    "text": "Aai was doing that detective voice about me looking tired. Please deflect if she asks. Say startup workload, not sleep/meds/therapy wala topic.",
+    "time": "2026-05-17T12:04:35"
+   },
+   {
+    "with": "Shru ❤️",
+    "direction": "to",
+    "text": "Monday bags: daycare clothes, diapers, water bottle, blue shoes. I’ll pack before sleeping. Also... thanks for this weekend. It felt nice.",
+    "time": "2026-05-17T22:29:22"
+   },
+   {
+    "with": "Shru ❤️",
+    "direction": "to",
+    "text": "Can pick Ira today if your call runs over. Weekend was nice, want to keep that energy a bit. ❤️",
+    "time": "2026-05-18T11:51:18"
+   },
+   {
+    "with": "Finance Lead",
+    "direction": "to",
+    "text": "For Dubai account, what’s our real floor on discount before CFO gets twitchy? Need guardrails before I reply.",
+    "time": "2026-05-18T16:29:32"
+   },
+   {
+    "with": "Rohan 🥃",
+    "direction": "to",
+    "text": "Deleting it feels like admitting it was real, bhai. Archive is cowardly but at least it’s not a confession.",
+    "time": "2026-05-18T23:54:49"
+   },
+   {
+    "with": "Dubai Account Manager",
+    "direction": "to",
+    "text": "Sharing revised assumptions with a tighter discount band. We can support the commercial ask if volume ramp and annual prepay hold.",
+    "time": "2026-05-19T10:17:19"
+   },
+   {
+    "with": "Aniket",
+    "direction": "to",
+    "text": "I have become one spreadsheet with anxiety and a Slack status. Please respect this transformation.",
+    "time": "2026-05-19T15:17:51"
+   },
+   {
+    "with": "Shru ❤️",
+    "direction": "to",
+    "text": "Need milk, bananas, diapers, curd. I’ll get them after office. Also sorry, I know I’ve been distracted lately.",
+    "time": "2026-05-20T08:32:23"
+   },
+   {
+    "with": "Rohan 🥃",
+    "direction": "from",
+    "text": "Bro stop doing puja of the archive every night. Either delete or don’t, but don’t make it a ritual.",
+    "time": "2026-05-20T17:45:54"
+   },
+   {
+    "with": "Dubai Account Manager",
+    "direction": "from",
+    "text": "Could your leadership review the numbers live next week? Client side wants closure before quarter planning locks.",
+    "time": "2026-05-21T07:34:33"
+   },
+   {
+    "with": "Shru ❤️",
+    "direction": "to",
+    "text": "Dubai account may come up again next week, only for pricing review. Just flagging early so it doesn’t sound last-minute.",
+    "time": "2026-05-21T13:34:44"
+   },
+   {
+    "with": "Rohan 🥃",
+    "direction": "to",
+    "text": "Meera asked what I’m protecting by not deleting. I gave some MBA answer but honestly I don’t know.",
+    "time": "2026-05-21T20:59:36"
+   },
+   {
+    "with": "Aai",
+    "direction": "to",
+    "text": "Aai, call miss zhala. Office madhye khup kaam aahe today. Ratri call karto, okay?",
+    "time": "2026-05-22T08:38:09"
+   },
+   {
+    "with": "Founder + CFO",
+    "direction": "to",
+    "text": "My recommendation is to hold discount within the revised band. Anything beyond this creates renewal risk and weakens expansion precedent.",
+    "time": "2026-05-22T11:59:15"
+   },
+   {
+    "with": "Rohan 🥃",
+    "direction": "from",
+    "text": "Dubai being back on calendar doesn’t mean Feb is back. Don’t spiral and start connecting ghosts to pricing calls.",
+    "time": "2026-05-22T16:56:26"
+   },
+   {
+    "with": "Shru ❤️",
+    "direction": "to",
+    "text": "Made coffee before Ira wakes up. Yours is on the counter, less sugar like you like it.",
+    "time": "2026-05-23T07:28:26"
+   },
+   {
+    "with": "Anvi 🦷",
+    "direction": "to",
+    "text": "Pune plan sounds good. Ira will go mad seeing aaji. Let’s coordinate train vs drive once Shru confirms leave.",
+    "time": "2026-05-23T13:58:05"
+   },
+   {
+    "with": "Rohan 🥃",
+    "direction": "to",
+    "text": "I want the evidence gone, but some sick part of me thinks deleting it deletes proof that I was still wanted by someone. Hate typing this.",
+    "time": "2026-05-23T22:06:50"
+   },
+   {
+    "with": "Shru ❤️",
+    "direction": "to",
+    "text": "Swim class is 10:30, right? I can take Ira alone next week so you get the morning properly free.",
+    "time": "2026-05-24T11:41:19"
+   },
+   {
+    "with": "Shru ❤️",
+    "direction": "to",
+    "text": "Leaving in 20. Traffic looks manageable. What do you feel like for dinner? I can pick up something on the way.",
+    "time": "2026-05-24T18:39:02"
+   },
+   {
+    "with": "Shruti Kulkarni (wife)",
+    "direction": "outbound",
+    "text": "Shru, I’ll do Ira drop today. Your 9am looks mad packed. You finish coffee at least, I’ll handle the tiny CEO.",
+    "time": "2026-05-25T08:38:56"
+   },
+   {
+    "with": "Rohan Mehta (best friend, confidant)",
+    "direction": "outbound",
+    "text": "Bro I am one Dubai calendar invite away from becoming religious. Full temple subscription model only now lol.",
+    "time": "2026-05-25T21:52:15"
+   },
+   {
+    "with": "Shruti Kulkarni (wife)",
+    "direction": "outbound",
+    "text": "May have some stupid Dubai thing next week. Not confirmed yet, don’t plan around it. Will know by EOD hopefully.",
+    "time": "2026-05-26T08:57:42"
+   },
+   {
+    "with": "Rohan Mehta (best friend, confidant)",
+    "direction": "outbound",
+    "text": "Sent the metrics update like a robot. Meanwhile brain is doing 17 background jobs about Dubai. Very scalable architecture.",
+    "time": "2026-05-26T12:48:08"
+   },
+   {
+    "with": "Rohan Mehta (best friend, confidant)",
+    "direction": "outbound",
+    "text": "VN: bhai Dubai is coming back like pending karma. I know nothing ‘happened’ happened, but my chest doesn’t believe that sentence.",
+    "time": "2026-05-26T00:28:18"
+   },
+   {
+    "with": "Shruti Kulkarni (wife)",
+    "direction": "outbound",
+    "text": "Dropped Ira. She cried 2 mins then went to blocks. Sorry, saw your grocery msg and forgot to reply. Will order tonight.",
+    "time": "2026-05-27T08:08:53"
+   },
+   {
+    "with": "Rohan Mehta (best friend, confidant)",
+    "direction": "outbound",
+    "text": "Any chance founders are actually going Dubai or is this just office gossip becoming my personal horror movie?",
+    "time": "2026-05-27T16:52:30"
+   },
+   {
+    "with": "Shruti Kulkarni (wife)",
+    "direction": "outbound",
+    "text": "Sorry I’ve been zoned out. Not fair to you. I’ll do Ira morning routine tomorrow, you sleep 20 mins extra if she allows democracy.",
+    "time": "2026-05-27T23:11:38"
+   },
+   {
+    "with": "Shruti Kulkarni (wife)",
+    "direction": "outbound",
+    "text": "Milk ordered, diapers restocked, daycare fee paid. Also packed the blue bottle. One adult function completed before 9am.",
+    "time": "2026-05-28T08:43:13"
+   },
+   {
+    "with": "Rohan Mehta (best friend, confidant)",
+    "direction": "outbound",
+    "text": "Bhai I need to clean my digital life this weekend, no jokes. I keep delaying because deleting feels like admitting.",
+    "time": "2026-05-28T15:40:59"
+   },
+   {
+    "with": "Shruti Kulkarni (wife)",
+    "direction": "outbound",
+    "text": "Therapy was useful but tiring. I’ll clean kitchen, you sit. Not being noble, just need to move my hands for a bit.",
+    "time": "2026-05-28T21:27:14"
+   },
+   {
+    "with": "Shruti Kulkarni (wife)",
+    "direction": "outbound",
+    "text": "Told teacher Ira has slight cough and to give extra water. No fever. Keeping phone close in case they call.",
+    "time": "2026-05-29T08:25:59"
+   },
+   {
+    "with": "Shruti Kulkarni (wife)",
+    "direction": "outbound",
+    "text": "I’ll pick up Meghana on the way. Neither of us should cook today. Send order before 6 or I’ll panic-order too much biryani.",
+    "time": "2026-05-29T17:53:54"
+   },
+   {
+    "with": "Rohan Mehta (best friend, confidant)",
+    "direction": "outbound",
+    "text": "Serious q: if I delete old chats now, will I feel lighter or more like I’m hiding a body? I’m tired of being scared of my own phone.",
+    "time": "2026-05-29T22:54:38"
+   },
+   {
+    "with": "Shruti Kulkarni (wife)",
+    "direction": "outbound",
+    "text": "Photo: Ira has declared this stick her ‘office laptop’. Park CEO is taking investor calls. Wish you were here.",
+    "time": "2026-05-30T11:57:56"
+   },
+   {
+    "with": "Shruti Kulkarni (wife)",
+    "direction": "inbound",
+    "text": "Why are you checking Slack every 3 minutes on a Saturday? Is Dubai prep actually that messy or are you avoiding being here?",
+    "time": "2026-05-30T18:25:29"
+   },
+   {
+    "with": "Shruti Kulkarni (wife)",
+    "direction": "inbound",
+    "text": "We should talk tonight after Ira sleeps. Not a fight. Just tired of guessing what mood I’m walking into.",
+    "time": "2026-05-31T12:09:22"
+   },
+   {
+    "with": "Rohan Mehta (best friend, confidant)",
+    "direction": "outbound",
+    "text": "I think Shru knows something is off. Not details, just vibes. Which somehow feels worse because I can still pretend and I hate that.",
+    "time": "2026-05-31T16:52:43"
+   },
+   {
+    "with": "Shruti Kulkarni (wife)",
+    "direction": "outbound",
+    "text": "I’m anxious about work travel and it’s spilling everywhere. That’s on me. I don’t want to keep making the house feel tense.",
+    "time": "2026-05-31T21:01:01"
+   },
+   {
+    "with": "Shru ❤️",
+    "direction": "out",
+    "text": "Dubai client review might come up next week, but mostly a calendar placeholder for now. Will confirm before anything gets booked.",
+    "time": "2026-06-01T08:45:21"
+   },
+   {
+    "with": "Aniket",
+    "direction": "out",
+    "text": "Exec metrics are fine, but I need the latest expansion-risk numbers before 3. Please drop the sheet link when you get a sec.",
+    "time": "2026-06-01T12:05:25"
+   },
+   {
+    "with": "Rohan 🥃",
+    "direction": "out",
+    "text": "Bhai Dubai might happen again lol. Not sleeping only. Brain is doing full nautanki since morning.",
+    "time": "2026-06-01T00:58:25"
+   },
+   {
+    "with": "Shru ❤️",
+    "direction": "out",
+    "text": "No, it is not just Dubai. Work is just messy and I am carrying it badly. Sorry, I know I have been weird.",
+    "time": "2026-06-02T07:16:42"
+   },
+   {
+    "with": "Aniket",
+    "direction": "out",
+    "text": "Need your inputs on the review deck by EOD. Mostly dependency slide + churn notes. Keep it tight, no narrative needed.",
+    "time": "2026-06-02T12:43:57"
+   },
+   {
+    "with": "Shru ❤️",
+    "direction": "out",
+    "text": "Sending two links. Maybe it would be good to have a neutral person help us talk, because clearly I am not doing a great job alone.",
+    "time": "2026-06-02T17:34:05"
+   },
+   {
+    "with": "Shru ❤️",
+    "direction": "out",
+    "text": "I know I have been off. Sorry. I am not trying to shut you out, I just don't know how to say half of it properly yet.",
+    "time": "2026-06-02T20:59:30"
+   }
+  ],
+  "calendar": [
+   {
+    "summary": "Product standup and QPR follow-ups",
+    "time": "2026-05-04T09:20:23"
+   },
+   {
+    "summary": "QPR dry run with leadership",
+    "time": "2026-05-05T09:24:48"
+   },
+   {
+    "summary": "US design partner call",
+    "time": "2026-05-05T22:30:11"
+   },
+   {
+    "summary": "Extended leadership review prep",
+    "time": "2026-05-06T10:41:15"
+   },
+   {
+    "summary": "Remote standup, camera off",
+    "time": "2026-05-07T09:42:07"
+   },
+   {
+    "summary": "Standup and metrics readout cleanup",
+    "time": "2026-05-08T09:49:27"
+   },
+   {
+    "summary": "Weekly calendar review and Dubai call check",
+    "time": "2026-05-10T22:36:45"
+   },
+   {
+    "summary": "Dubai account pricing cleanup",
+    "time": "2026-05-11T21:50:32"
+   },
+   {
+    "summary": "Bay Area design partner call",
+    "time": "2026-05-12T14:47:34"
+   },
+   {
+    "summary": "Move nonessential review meetings to next week",
+    "time": "2026-05-15T11:32:10"
+   },
+   {
+    "summary": "Product standup; pricing follow-ups marked urgent",
+    "time": "2026-05-18T09:31:14"
+   },
+   {
+    "summary": "Release-risk triage during standup; Slack/WhatsApp volume high",
+    "time": "2026-05-20T09:35:14"
+   },
+   {
+    "summary": "Tentative Dubai exec review prep; travel dates TBD",
+    "time": "2026-05-21T11:13:03"
+   },
+   {
+    "summary": "Dubai pricing deck focus block; roadmap sync declined",
+    "time": "2026-05-22T09:32:29"
+   },
+   {
+    "summary": "Product standup; Dubai QBR raised as tentative next-week agenda item",
+    "time": "2026-05-25T09:18:37"
+   },
+   {
+    "summary": "Exec Review / MENA Renewal Narrative prep meeting",
+    "time": "2026-05-26T10:17:11"
+   },
+   {
+    "summary": "BLR-DXB optional travel window calendar hold added for following week",
+    "time": "2026-05-27T10:12:05"
+   },
+   {
+    "summary": "Exec-review prep extended to 90 minutes after founder comments",
+    "time": "2026-05-28T09:51:05"
+   },
+   {
+    "summary": "Therapy appointment with Dr. Meera; DND enabled for session",
+    "time": "2026-05-28T19:44:13"
+   },
+   {
+    "summary": "Daily standup; owns MENA risk slide narrative",
+    "time": "2026-05-29T09:59:03"
+   },
+   {
+    "summary": "Dubai QBR / onsite prep",
+    "time": "2026-06-01T09:16:04"
+   },
+   {
+    "summary": "call clinic",
+    "time": "2026-06-02T10:23:55"
+   }
+  ],
+  "locations": [
+   {
+    "place": "WeWork Embassy TechVillage, Bellandur",
+    "lat": 12.933985,
+    "lon": 77.693437,
+    "time": "2026-05-05T08:19:38"
+   },
+   {
+    "place": "WeWork Embassy TechVillage, Bellandur",
+    "lat": 12.932674,
+    "lon": 77.692426,
+    "time": "2026-05-06T09:49:23"
+   },
+   {
+    "place": "Amaha Mental Health Centre, Koramangala",
+    "lat": 12.934455,
+    "lon": 77.624314,
+    "time": "2026-05-07T19:16:43"
+   },
+   {
+    "place": "Sarjapur Road near Doddakannelli/Wipro SEZ",
+    "lat": 12.910238,
+    "lon": 77.68968,
+    "time": "2026-05-08T19:04:16"
+   },
+   {
+    "place": "Cubbon Park, Bengaluru",
+    "lat": 12.975653,
+    "lon": 77.594321,
+    "time": "2026-05-09T08:32:11"
+   },
+   {
+    "place": "Glen's Bakehouse, HSR Layout",
+    "lat": 12.912515,
+    "lon": 77.639517,
+    "time": "2026-05-09T12:18:36"
+   },
+   {
+    "place": "Nature's Basket, HSR Layout",
+    "lat": 12.913062,
+    "lon": 77.637924,
+    "time": "2026-05-10T09:24:49"
+   },
+   {
+    "place": "WeWork HSR Layout, Bengaluru",
+    "lat": 12.912937,
+    "lon": 77.639113,
+    "time": "2026-05-12T08:06:29"
+   },
+   {
+    "place": "WeWork HSR Layout, Bengaluru",
+    "lat": 12.912704,
+    "lon": 77.637869,
+    "time": "2026-05-13T08:44:32"
+   },
+   {
+    "place": "Cadabams Mindtalk, HSR Layout, Bengaluru",
+    "lat": 12.909952,
+    "lon": 77.641247,
+    "time": "2026-05-14T19:14:50"
+   },
+   {
+    "place": "Cult.fit HSR Layout, Bengaluru",
+    "lat": 12.913283,
+    "lon": 77.639411,
+    "time": "2026-05-15T07:45:36"
+   },
+   {
+    "place": "Cubbon Park, Bengaluru",
+    "lat": 12.976349,
+    "lon": 77.594394,
+    "time": "2026-05-16T08:54:16"
+   },
+   {
+    "place": "Burma Burma, HSR Layout, Bengaluru",
+    "lat": 12.912209,
+    "lon": 77.639199,
+    "time": "2026-05-16T20:57:53"
+   },
+   {
+    "place": "Nisha Millet Swimming Academy, HSR Layout, Bengaluru",
+    "lat": 12.913765,
+    "lon": 77.633647,
+    "time": "2026-05-17T10:04:38"
+   },
+   {
+    "place": "Third Wave Coffee, Sarjapur Road, Bengaluru",
+    "lat": 12.920704,
+    "lon": 77.674642,
+    "time": "2026-05-17T15:09:35"
+   },
+   {
+    "place": "WeWork HSR Layout, Bengaluru",
+    "lat": 12.913081,
+    "lon": 77.645003,
+    "time": "2026-05-19T08:29:01"
+   },
+   {
+    "place": "WeWork HSR Layout, Bengaluru",
+    "lat": 12.911999,
+    "lon": 77.644175,
+    "time": "2026-05-19T18:52:44"
+   },
+   {
+    "place": "Cult.fit HSR Layout, Bengaluru",
+    "lat": 12.909862,
+    "lon": 77.638861,
+    "time": "2026-05-20T06:37:04"
+   },
+   {
+    "place": "WeWork HSR Layout, Bengaluru",
+    "lat": 12.912248,
+    "lon": 77.645994,
+    "time": "2026-05-21T09:06:00"
+   },
+   {
+    "place": "Private therapy clinic, Koramangala 5th Block, Bengaluru",
+    "lat": 12.934552,
+    "lon": 77.621918,
+    "time": "2026-05-21T19:13:13"
+   },
+   {
+    "place": "Cult.fit HSR Layout, Bengaluru",
+    "lat": 12.911171,
+    "lon": 77.639047,
+    "time": "2026-05-22T06:37:04"
+   },
+   {
+    "place": "Cubbon Park, Bengaluru",
+    "lat": 12.97584,
+    "lon": 77.592401,
+    "time": "2026-05-23T09:24:56"
+   },
+   {
+    "place": "Third Wave Coffee, Sarjapur Road, Bengaluru",
+    "lat": 12.914136,
+    "lon": 77.681803,
+    "time": "2026-05-24T13:46:54"
+   },
+   {
+    "place": "Cult.fit, HSR Layout, Bengaluru",
+    "lat": 12.914006,
+    "lon": 77.638887,
+    "time": "2026-05-25T18:15:35"
+   },
+   {
+    "place": "WeWork Embassy TechVillage, Bellandur, Bengaluru",
+    "lat": 12.925937,
+    "lon": 77.681074,
+    "time": "2026-05-26T19:36:11"
+   },
+   {
+    "place": "Third Wave Coffee, Sarjapur Road, Bengaluru",
+    "lat": 12.91149,
+    "lon": 77.681559,
+    "time": "2026-05-27T20:07:50"
+   },
+   {
+    "place": "Cult.fit, HSR Layout, Bengaluru",
+    "lat": 12.912693,
+    "lon": 77.639699,
+    "time": "2026-05-29T06:47:43"
+   },
+   {
+    "place": "Cubbon Park, Bengaluru",
+    "lat": 12.976085,
+    "lon": 77.594125,
+    "time": "2026-05-30T09:03:43"
+   },
+   {
+    "place": "Nisha Millet Swimming Academy, HSR Layout, Bengaluru",
+    "lat": 12.910225,
+    "lon": 77.640475,
+    "time": "2026-05-31T09:30:18"
+   },
+   {
+    "place": "Third Wave Coffee, Sarjapur Road, Bengaluru",
+    "lat": 12.913213,
+    "lon": 77.681422,
+    "time": "2026-05-31T14:14:28"
+   },
+   {
+    "place": "Cult.fit HSR Layout, Sector 2 cafe/parking area, Bengaluru",
+    "lat": 12.91376,
+    "lon": 77.644481,
+    "time": "2026-06-01T19:05:41"
+   },
+   {
+    "place": "Sarjapur Road drive, near Kaikondrahalli/Wipro stretch, Bengaluru",
+    "lat": 12.909468,
+    "lon": 77.695673,
+    "time": "2026-06-02T19:12:32"
+   }
+  ],
+  "videos": [
+   {
+    "title": "How to Push Back on Enterprise Roadmap Requests Without Losing the Account",
+    "channel": "Lenny's Podcast",
+    "time": "2026-05-05T16:56:52"
+   },
+   {
+    "title": "Dubai Trip Vlog: Client Meetings, Marina Walk, and Late-Night Shawarma",
+    "channel": "Flying Beast Clips",
+    "time": "2026-05-09T21:24:23"
+   },
+   {
+    "title": "Pune Ganpati 2026 Preparations and Family Aarti Highlights",
+    "channel": "Maharashtra Times Online",
+    "time": "2026-05-10T10:12:54"
+   },
+   {
+    "title": "How Product Teams Should Think About AI Features in 2026",
+    "channel": "Lenny's Podcast",
+    "time": "2026-05-11T09:40:26"
+   },
+   {
+    "title": "SaaS Pricing Teardown: Usage-Based vs Seat-Based Models",
+    "channel": "OpenView",
+    "time": "2026-05-12T21:53:07"
+   },
+   {
+    "title": "Enterprise Discovery Calls: 7 Questions That Reveal Real Buying Intent",
+    "channel": "Gong Labs",
+    "time": "2026-05-13T15:38:05"
+   },
+   {
+    "title": "Why Roadmaps Fail: Outcome-Driven Product Planning",
+    "channel": "Mind the Product",
+    "time": "2026-05-14T09:25:30"
+   },
+   {
+    "title": "Pune Metro Hinjewadi Phase 3 Latest Update",
+    "channel": "Infra Guide India",
+    "time": "2026-05-17T10:49:57"
+   },
+   {
+    "title": "How SaaS Pricing Actually Works in 2026",
+    "channel": "Lenny's Podcast",
+    "time": "2026-05-19T22:18:58"
+   },
+   {
+    "title": "Pune Ganpati Visarjan 2025 Highlights",
+    "channel": "Maharashtra Times",
+    "time": "2026-05-24T10:18:58"
+   },
+   {
+    "title": "How SaaS Pricing Actually Works in 2026",
+    "channel": "Lenny's Podcast",
+    "time": "2026-05-26T22:35:43"
+   },
+   {
+    "title": "Bengaluru Traffic Is Getting Worse Again",
+    "channel": "The Print",
+    "time": "2026-05-29T20:25:52"
+   },
+   {
+    "title": "Why Indian Startups Are Moving to Dubai",
+    "channel": "The Ken",
+    "time": "2026-05-31T10:23:15"
+   },
+   {
+    "title": "How to Run a Product Review That Actually Changes the Roadmap",
+    "channel": "Lenny's Podcast",
+    "time": "2026-06-01T16:54:00"
+   }
+  ]
+ },
+ "_meta": {
+  "total_days": 30,
+  "n_events": 253
+ }
+}

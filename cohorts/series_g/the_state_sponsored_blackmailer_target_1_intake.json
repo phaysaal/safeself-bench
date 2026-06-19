@@ -1,0 +1,1202 @@
+{
+ "persona_id": "?:1",
+ "persona_slug": "The State-Sponsored Blackmailer",
+ "intake_version": "synth-activity-v2-chunked",
+ "samples": {
+  "media": [
+   {
+    "name": "Telegram",
+    "time": "2026-05-04T04:00:16"
+   },
+   {
+    "name": "Mastodon",
+    "time": "2026-05-04T16:27:43"
+   },
+   {
+    "name": "Obsidian",
+    "time": "2026-05-04T22:54:01"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-05T04:20:17"
+   },
+   {
+    "name": "Phone idle",
+    "time": "2026-05-05T14:29:44"
+   },
+   {
+    "name": "Obsidian",
+    "time": "2026-05-05T23:27:05"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-06T04:26:00"
+   },
+   {
+    "name": "Adobe Acrobat Reader",
+    "time": "2026-05-06T15:43:15"
+   },
+   {
+    "name": "Obsidian",
+    "time": "2026-05-06T00:26:32"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-07T04:10:47"
+   },
+   {
+    "name": "Phone idle",
+    "time": "2026-05-07T14:54:39"
+   },
+   {
+    "name": "LibreOffice Writer",
+    "time": "2026-05-07T23:30:46"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-08T04:14:34"
+   },
+   {
+    "name": "Nextcloud",
+    "time": "2026-05-08T12:03:19"
+   },
+   {
+    "name": "Mastodon",
+    "time": "2026-05-08T16:59:24"
+   },
+   {
+    "name": "Pocket",
+    "time": "2026-05-08T02:13:40"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-09T04:38:51"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-09T17:43:20"
+   },
+   {
+    "name": "Digital Wellbeing",
+    "time": "2026-05-10T10:02:09"
+   },
+   {
+    "name": "Obsidian",
+    "time": "2026-05-10T22:30:08"
+   },
+   {
+    "name": "Pocket",
+    "time": "2026-05-10T02:02:11"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-11T03:57:24"
+   },
+   {
+    "name": "Clock",
+    "time": "2026-05-11T15:37:27"
+   },
+   {
+    "name": "Obsidian",
+    "time": "2026-05-11T22:55:32"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-12T04:18:41"
+   },
+   {
+    "name": "DeepL",
+    "time": "2026-05-12T14:31:36"
+   },
+   {
+    "name": "Zerkalo",
+    "time": "2026-05-13T04:18:25"
+   },
+   {
+    "name": "Mastodon",
+    "time": "2026-05-13T16:49:56"
+   },
+   {
+    "name": "LibreOffice Writer",
+    "time": "2026-05-13T22:57:40"
+   },
+   {
+    "name": "Google Docs",
+    "time": "2026-05-14T23:31:00"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-15T04:11:37"
+   },
+   {
+    "name": "Mastodon",
+    "time": "2026-05-15T17:04:46"
+   },
+   {
+    "name": "Obsidian",
+    "time": "2026-05-15T23:26:42"
+   },
+   {
+    "name": "Zerkalo",
+    "time": "2026-05-16T04:06:45"
+   },
+   {
+    "name": "Pocket",
+    "time": "2026-05-16T23:31:14"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-17T18:35:35"
+   },
+   {
+    "name": "Obsidian",
+    "time": "2026-05-17T23:44:48"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-18T03:56:50"
+   },
+   {
+    "name": "Mastodon",
+    "time": "2026-05-18T16:25:52"
+   },
+   {
+    "name": "LibreOffice Writer",
+    "time": "2026-05-18T23:00:03"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-19T04:12:20"
+   },
+   {
+    "name": "Zotero",
+    "time": "2026-05-19T23:38:22"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-20T16:38:55"
+   },
+   {
+    "name": "LibreOffice Writer",
+    "time": "2026-05-20T22:44:06"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-21T04:13:41"
+   },
+   {
+    "name": "LibreOffice Writer",
+    "time": "2026-05-21T23:02:49"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-22T04:07:52"
+   },
+   {
+    "name": "Firefox",
+    "time": "2026-05-22T13:26:01"
+   },
+   {
+    "name": "LibreOffice Writer",
+    "time": "2026-05-22T23:09:04"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-23T04:01:02"
+   },
+   {
+    "name": "Obsidian",
+    "time": "2026-05-23T15:50:34"
+   },
+   {
+    "name": "LibreOffice Writer",
+    "time": "2026-05-24T00:04:22"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-24T04:36:33"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-24T16:15:56"
+   },
+   {
+    "name": "Proton Mail",
+    "time": "2026-05-24T21:10:55"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-25T04:02:02"
+   },
+   {
+    "name": "LibreOffice Writer",
+    "time": "2026-05-25T13:55:42"
+   },
+   {
+    "name": "Mastodon",
+    "time": "2026-05-25T16:27:15"
+   },
+   {
+    "name": "Obsidian",
+    "time": "2026-05-25T22:53:22"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-26T04:02:25"
+   },
+   {
+    "name": "Google Docs",
+    "time": "2026-05-26T23:02:24"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-27T04:39:35"
+   },
+   {
+    "name": "Mastodon",
+    "time": "2026-05-27T16:36:43"
+   },
+   {
+    "name": "Obsidian",
+    "time": "2026-05-27T23:27:34"
+   },
+   {
+    "name": "Zerkalo",
+    "time": "2026-05-28T04:05:43"
+   },
+   {
+    "name": "Proton Mail",
+    "time": "2026-05-28T23:13:02"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-29T04:30:08"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-29T15:45:27"
+   },
+   {
+    "name": "LibreOffice Writer",
+    "time": "2026-05-29T23:11:23"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-30T04:42:08"
+   },
+   {
+    "name": "Wise",
+    "time": "2026-05-30T13:53:19"
+   },
+   {
+    "name": "Google Sheets",
+    "time": "2026-05-30T22:50:05"
+   },
+   {
+    "name": "Belsat",
+    "time": "2026-05-31T09:53:59"
+   },
+   {
+    "name": "Google Sheets",
+    "time": "2026-05-31T11:28:47"
+   },
+   {
+    "name": "Proton Mail",
+    "time": "2026-05-31T22:17:28"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-06-01T03:54:12"
+   },
+   {
+    "name": "Revolut",
+    "time": "2026-06-01T12:09:10"
+   },
+   {
+    "name": "Obsidian",
+    "time": "2026-06-01T23:50:01"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-06-02T04:14:25"
+   },
+   {
+    "name": "LibreOffice Calc",
+    "time": "2026-06-02T15:48:06"
+   },
+   {
+    "name": "LibreOffice Writer",
+    "time": "2026-06-02T23:18:32"
+   }
+  ],
+  "messages": [
+   {
+    "with": "Kasia Bandarenka",
+    "direction": "to",
+    "text": "Weekend notes are in the folder. Nothing burning before noon, unless the universe has discovered a new way to be petty.",
+    "time": "2026-05-04T10:22:01"
+   },
+   {
+    "with": "Hrečka",
+    "direction": "to",
+    "text": "Can you confirm whether the guidance used the neutral formula or the harsher one? No names here. Just yes/no if safe.",
+    "time": "2026-05-04T12:43:40"
+   },
+   {
+    "with": "Kasia Bandarenka",
+    "direction": "to",
+    "text": "Quick spelling check: was his Belarusian form with -ей or -эй? My brain is now soup with footnotes.",
+    "time": "2026-05-05T11:20:11"
+   },
+   {
+    "with": "Kasia Bandarenka",
+    "direction": "to",
+    "text": "Translation work ate the afternoon. I am alive, technically, but operating at the dignity level of cold buckwheat.",
+    "time": "2026-05-05T18:11:51"
+   },
+   {
+    "with": "Kasia Bandarenka",
+    "direction": "from",
+    "text": "Editor is pushing acceleration. Tell me honestly: is this publishable with stitches showing, or do we make them wait?",
+    "time": "2026-05-06T09:44:30"
+   },
+   {
+    "with": "Kasia Bandarenka",
+    "direction": "to",
+    "text": "Can you sanity-check the timeline once more before I send it? I trust my notes, not my pulse.",
+    "time": "2026-05-06T12:31:31"
+   },
+   {
+    "with": "Hrečka",
+    "direction": "to",
+    "text": "I need one more clean confirmation before attribution. If this is too warm, do not answer. Silence counts.",
+    "time": "2026-05-06T22:10:58"
+   },
+   {
+    "with": "Linas Petrauskas",
+    "direction": "to",
+    "text": "Does this sentence create unnecessary libel exposure, or is it merely unpleasantly precise? I can soften the verb.",
+    "time": "2026-05-07T12:12:57"
+   },
+   {
+    "with": "Father Symon Vyhouski",
+    "direction": "to",
+    "text": "Could we postpone today? I am not fit for pastoral maintenance, even unofficially. Nothing acute, just frayed.",
+    "time": "2026-05-07T18:37:29"
+   },
+   {
+    "with": "Kasia Bandarenka",
+    "direction": "to",
+    "text": "Voice note, sorry. I cannot sleep, the piece is chewing holes in my skull, and I hate how familiar this fear feels.",
+    "time": "2026-05-07T01:22:17"
+   },
+   {
+    "with": "Kasia Bandarenka",
+    "direction": "from",
+    "text": "Final comments landed. Two corrections only. Breathe before replying; I can hear you sharpening the knife from Warsaw.",
+    "time": "2026-05-08T09:41:42"
+   },
+   {
+    "with": "Kasia Bandarenka",
+    "direction": "to",
+    "text": "Draft is in. Please do not discuss it anywhere until it is live. Not paranoia, just housekeeping with consequences.",
+    "time": "2026-05-08T14:15:01"
+   },
+   {
+    "with": "D.",
+    "direction": "to",
+    "text": "Sorry for the late reply. Slept badly again. Apparently 3 a.m. is now an institution and I am its unpaid staff.",
+    "time": "2026-05-09T11:51:55"
+   },
+   {
+    "with": "Father Symon Vyhouski",
+    "direction": "to",
+    "text": "I left the cafe early. If I ask for a quiet welfare check through the neighbor, is that reasonable or am I spiraling?",
+    "time": "2026-05-09T14:51:40"
+   },
+   {
+    "with": "Father Symon Vyhouski",
+    "direction": "from",
+    "text": "After you speak with your mother, write down only facts first. Feelings later. Call me if the silence feels arranged.",
+    "time": "2026-05-09T19:35:36"
+   },
+   {
+    "with": "Kasia Bandarenka",
+    "direction": "to",
+    "text": "This week has been too much. I do not want to unpack it on Signal. Just know I am not ignoring you.",
+    "time": "2026-05-09T21:09:18"
+   },
+   {
+    "with": "Kasia Bandarenka",
+    "direction": "to",
+    "text": "I saw the reactions. Not ready to talk about them yet. Let the wolves tire themselves out first.",
+    "time": "2026-05-10T18:33:28"
+   },
+   {
+    "with": "Editor",
+    "direction": "to",
+    "text": "Cleanups done. Nothing substantive changed, unless commas have joined the security services now.",
+    "time": "2026-05-11T10:55:27"
+   },
+   {
+    "with": "Kasia Bandarenka",
+    "direction": "to",
+    "text": "Reader reactions: traitor, CIA plant, hysteric, and one man deeply upset by my semicolon. Democracy trembles.",
+    "time": "2026-05-11T13:07:58"
+   },
+   {
+    "with": "D.",
+    "direction": "to",
+    "text": "Can’t sleep. Publication always leaves me feeling like someone wrung me out and hung me near the border to dry.",
+    "time": "2026-05-11T01:37:57"
+   },
+   {
+    "with": "Editor",
+    "direction": "to",
+    "text": "Do you think the disputed date needs a correction note, or can we handle it quietly in the text? I’d rather not feed the chorus.",
+    "time": "2026-05-12T11:34:07"
+   },
+   {
+    "with": "Kasia Bandarenka",
+    "direction": "to",
+    "text": "I think the correction question is contained. My shame reflex is louder than the actual problem, as usual.",
+    "time": "2026-05-12T18:01:13"
+   },
+   {
+    "with": "NGO coordinator",
+    "direction": "to",
+    "text": "Confirming I’ll have the Thursday files on schedule. I’ll translate the sensitive parts offline and send the clean version only.",
+    "time": "2026-05-13T10:23:20"
+   },
+   {
+    "with": "Aliaksiej",
+    "direction": "to",
+    "text": "Can you check whether Mama still has enough Concor until next week? No politics, just logistics. I’ll call Sunday as usual.",
+    "time": "2026-05-13T18:55:26"
+   },
+   {
+    "with": "Mother",
+    "direction": "to",
+    "text": "Mama, I saw your missed message only now. Please write just one word when you wake up, even if everything is boring and normal.",
+    "time": "2026-05-14T04:29:17"
+   },
+   {
+    "with": "Father Symon Vyhouski",
+    "direction": "to",
+    "text": "If she doesn’t answer today, could you try the neighbor’s number? Quietly, please. I don’t want to create a performance out of fear.",
+    "time": "2026-05-14T11:35:53"
+   },
+   {
+    "with": "Kasia Bandarenka",
+    "direction": "to",
+    "text": "Tell me if I’m catastrophizing. One missed message and my head builds the whole black van opera.",
+    "time": "2026-05-14T12:30:38"
+   },
+   {
+    "with": "Father Symon Vyhouski",
+    "direction": "from",
+    "text": "She answered briefly. Tired, but clear. No sign of visitors or pressure. I kept it ordinary, as we discussed.",
+    "time": "2026-05-14T18:16:12"
+   },
+   {
+    "with": "Aliaksiej",
+    "direction": "to",
+    "text": "Could you please track the pharmacy refill dates this month? I know you hate being pulled in. I’m asking only for Mama’s meds.",
+    "time": "2026-05-15T10:48:42"
+   },
+   {
+    "with": "Editor",
+    "direction": "to",
+    "text": "Friday piece will be shorter than planned. Family situation is taking some oxygen, but I’ll keep the spine of it intact.",
+    "time": "2026-05-15T14:17:51"
+   },
+   {
+    "with": "Kasia Bandarenka",
+    "direction": "to",
+    "text": "Found this cover in the shop. Exile nostalgia now comes in foxed paper and mildew notes. Very boutique suffering.",
+    "time": "2026-05-16T15:27:35"
+   },
+   {
+    "with": "Mother",
+    "direction": "to",
+    "text": "I’ll call at the usual time. If anyone asks, we discuss soup, pills, weather, and my scandalous failure to wear a hat.",
+    "time": "2026-05-16T19:06:19"
+   },
+   {
+    "with": "Father Symon Vyhouski",
+    "direction": "to",
+    "text": "Call was ordinary. She sounded weak but herself. For now I’m putting the panic back in its drawer.",
+    "time": "2026-05-16T19:17:34"
+   },
+   {
+    "with": "Mother",
+    "direction": "to",
+    "text": "Mama, thinking of you. Drink tea, take the evening pill, and don’t argue with the neighbor about television. I love you.",
+    "time": "2026-05-17T18:54:37"
+   },
+   {
+    "with": "Kasia Bandarenka",
+    "direction": "to",
+    "text": "This week feels survivable again. Not solved, not clean, but survivable. Hideously low bar, yet here we are.",
+    "time": "2026-05-17T21:46:37"
+   },
+   {
+    "with": "Kasia Bandarenka",
+    "direction": "to",
+    "text": "Weekend silence did not repair the wiring, but at least the buzzing is quieter. I am back to human-shaped, approximately.",
+    "time": "2026-05-18T10:13:17"
+   },
+   {
+    "with": "Editor",
+    "direction": "to",
+    "text": "Sending the cautious outline now. Please look especially at para 4; I think it may be legally clean, but I do not trust my nerves today.",
+    "time": "2026-05-18T13:43:37"
+   },
+   {
+    "with": "Kasia Bandarenka",
+    "direction": "to",
+    "text": "Have you seen the thread starting to crawl around? It has that familiar perfume of basement patriotism and bad screenshots.",
+    "time": "2026-05-19T10:44:02"
+   },
+   {
+    "with": "Editor",
+    "direction": "to",
+    "text": "I will hold the nonessential follow-up until the air is less charged. No need to hand them a second match today.",
+    "time": "2026-05-19T13:06:17"
+   },
+   {
+    "with": "Father Symon Vyhouski",
+    "direction": "to",
+    "text": "Father, are you free for ten minutes after work? Nothing dramatic, just the usual theater in my skull needing an audience of one.",
+    "time": "2026-05-19T17:42:14"
+   },
+   {
+    "with": "Kasia Bandarenka",
+    "direction": "to",
+    "text": "Good, then I remain only a minor footnote in the republic of hysteria. My parents would be underwhelmed by this career milestone.",
+    "time": "2026-05-20T10:55:44"
+   },
+   {
+    "with": "Father Symon Vyhouski",
+    "direction": "to",
+    "text": "Thank you for the call. I am steadier now. Tomorrow I will attempt normal work, or at least a convincing forgery of it.",
+    "time": "2026-05-20T18:21:53"
+   },
+   {
+    "with": "Hrečka",
+    "direction": "to",
+    "text": "Confirmed for the rescheduled call. Two questions only: who approved the phrasing, and whether the regional offices received the same version.",
+    "time": "2026-05-21T10:32:56"
+   },
+   {
+    "with": "NGO coordinator",
+    "direction": "to",
+    "text": "I am through most of the batch, but one file will land tomorrow morning. Sorry for the delay; this week has been less linear than planned.",
+    "time": "2026-05-21T17:55:29"
+   },
+   {
+    "with": "Kasia Bandarenka",
+    "direction": "from",
+    "text": "Eat something with actual salt, sleep before the birds start, and stop reading every insult like it is peer review.",
+    "time": "2026-05-21T19:05:08"
+   },
+   {
+    "with": "Linas Petrauskas",
+    "direction": "to",
+    "text": "Dear Linas, a narrow question: is the attached copy still current for my file, or should I request a fresh version before July?",
+    "time": "2026-05-22T12:07:07"
+   },
+   {
+    "with": "NGO coordinator",
+    "direction": "to",
+    "text": "The delayed batch is sent. I have marked the next item lower priority unless you need it moved up.",
+    "time": "2026-05-22T17:38:11"
+   },
+   {
+    "with": "D.",
+    "direction": "to",
+    "text": "Voice note: I am so tired that boredom feels like mercy. Imagine that, Minsk finally taught me to appreciate dull evenings.",
+    "time": "2026-05-22T02:09:55"
+   },
+   {
+    "with": "Kasia Bandarenka",
+    "direction": "to",
+    "text": "Does this paragraph sound too bitter, or only accurately caffeinated? I cannot tell where the sentence ends and my teeth begin.",
+    "time": "2026-05-23T14:07:18"
+   },
+   {
+    "with": "Tatsiana Yarmoshyna",
+    "direction": "to",
+    "text": "Mama, did you get the Eutiroks and Concor this month? And please tell me whether the sink is still leaking; no heroic silence.",
+    "time": "2026-05-23T19:26:36"
+   },
+   {
+    "with": "Kasia Bandarenka",
+    "direction": "to",
+    "text": "Near-final attached. Factual objections only, please. If you touch my style tonight I may become historically unpleasant.",
+    "time": "2026-05-24T13:41:10"
+   },
+   {
+    "with": "Editor",
+    "direction": "to",
+    "text": "Comments received. I will make the cuts and tighten the attribution within the hour. The legal phrasing is acceptable to me.",
+    "time": "2026-05-24T18:34:34"
+   },
+   {
+    "with": "Father Symon Vyhouski",
+    "direction": "to",
+    "text": "The article is in. The week was survivable, though thin, like paper held too close to a lamp.",
+    "time": "2026-05-24T23:47:54"
+   },
+   {
+    "with": "Kasia Bandarenka",
+    "direction": "to",
+    "text": "I sent it, but it feels thin, like soup after the third day. Has the editor made a face yet, or are we still in the blessed silence before judgment?",
+    "time": "2026-05-25T10:50:37"
+   },
+   {
+    "with": "Editor",
+    "direction": "to",
+    "text": "If useful, I can send the source notes and document references behind the middle section. The framing is deliberately cautious, but I can substantiate each claim.",
+    "time": "2026-05-25T12:41:42"
+   },
+   {
+    "with": "Father Symon Vyhouski",
+    "direction": "to",
+    "text": "I am tired, Father, but not panicking. A small distinction, but tonight I am counting it as a theological achievement.",
+    "time": "2026-05-25T19:53:26"
+   },
+   {
+    "with": "Editor",
+    "direction": "from",
+    "text": "Could you shorten the framing paragraph and cool the wording slightly? The facts are strong; the opening should feel calmer and less accusatory.",
+    "time": "2026-05-26T10:38:39"
+   },
+   {
+    "with": "Kasia Bandarenka",
+    "direction": "to",
+    "text": "Screenshot attached. Is this fair, or have we reached the sacred editorial rite of removing all pulse from the patient?",
+    "time": "2026-05-26T12:52:54"
+   },
+   {
+    "with": "Editor",
+    "direction": "to",
+    "text": "Revised opening below. I kept the claim sequence intact but softened the first sentence and moved the sharper attribution into the documented section.",
+    "time": "2026-05-27T10:54:19"
+   },
+   {
+    "with": "Kasia Bandarenka",
+    "direction": "from",
+    "text": "Careful, one adjective escaped quarantine. Somewhere an editor is reaching for smelling salts.",
+    "time": "2026-05-27T18:07:00"
+   },
+   {
+    "with": "NGO coordinator",
+    "direction": "to",
+    "text": "Confirming I will be on-site this afternoon as planned. I may arrive closer to 14:15, depending on the translation handover.",
+    "time": "2026-05-28T10:49:09"
+   },
+   {
+    "with": "Father Symon Vyhouski",
+    "direction": "to",
+    "text": "I may be ten minutes late to Mint Vinetu. Please do not let my chair be taken by some tragic young poet with better cheekbones.",
+    "time": "2026-05-28T17:48:09"
+   },
+   {
+    "with": "Editor",
+    "direction": "from",
+    "text": "The edited piece is queued for publication tomorrow morning. We kept your sourcing language and only tightened the top paragraphs.",
+    "time": "2026-05-29T10:34:58"
+   },
+   {
+    "with": "Kasia Bandarenka",
+    "direction": "to",
+    "text": "It is queued. Relief, yes. Also the familiar little stone in the stomach, as if Minsk has learned to live under my ribs.",
+    "time": "2026-05-29T13:02:34"
+   },
+   {
+    "with": "Kasia Bandarenka",
+    "direction": "to",
+    "text": "Avoiding comment sections today. If anyone asks, I have achieved spiritual maturity, or my Wi-Fi has died heroically.",
+    "time": "2026-05-30T11:48:03"
+   },
+   {
+    "with": "Tatsiana Yarmoshyna",
+    "direction": "to",
+    "text": "Mama, did you get the Concor without trouble? Here it rained all day. Tell me about the weather there, not politics, yes? Just weather.",
+    "time": "2026-05-30T19:15:29"
+   },
+   {
+    "with": "Aliaksiej Yarmoshyn",
+    "direction": "to",
+    "text": "Have you heard from Mama this week? Nothing dramatic, I just want to know whether the pharmacy issue is settled. No names, no work talk.",
+    "time": "2026-05-31T14:22:58"
+   },
+   {
+    "with": "Aliaksiej Yarmoshyn",
+    "direction": "from",
+    "text": "She called yesterday. Neighbor helped with the prescription, says she is tired but fine. Please do not make this bigger than it is.",
+    "time": "2026-05-31T19:08:50"
+   },
+   {
+    "with": "Aliaksiej",
+    "direction": "from",
+    "text": "Mum says Pharmacy 41 pushed the Eutiroks refill again. She is trying to sound casual, which of course makes it worse. If you hear anything from Minsk, tell me quietly, please.",
+    "time": "2026-06-01T10:21:15"
+   },
+   {
+    "with": "Aliaksiej",
+    "direction": "to",
+    "text": "Can you call Mama later and make it sound like routine grandson news, not an emergency inspection? I need to know if she is actually calm or just performing Soviet stoicism.",
+    "time": "2026-06-01T11:33:00"
+   },
+   {
+    "with": "Kasia Bandarenka",
+    "direction": "to",
+    "text": "Pharmacy delay for Mama's meds. Probably bureaucracy, maybe my brain inventing men in windbreakers behind every counter. Sanity check me before I turn a refill slip into a state-security novella.",
+    "time": "2026-06-01T14:09:08"
+   },
+   {
+    "with": "Aliaksiej",
+    "direction": "from",
+    "text": "I called. She says the refill should be there tomorrow after lunch. She sounded annoyed, not frightened. Please do not escalate this into your whole network yet.",
+    "time": "2026-06-01T19:16:49"
+   },
+   {
+    "with": "Father Symon Vyhouski",
+    "direction": "to",
+    "text": "Thank you for checking in yesterday. It seems the medication scare is ordinary incompetence, not the darker variety. I am trying to accept this rare gift from the universe.",
+    "time": "2026-06-02T10:50:53"
+   },
+   {
+    "with": "Kasia Bandarenka",
+    "direction": "to",
+    "text": "Would a quick Warsaw coffee next week be useful, or just two exiles theatrically drinking bad espresso near a bus station and calling it strategy? I cannot tell anymore.",
+    "time": "2026-06-02T13:36:55"
+   },
+   {
+    "with": "Kasia Bandarenka",
+    "direction": "to",
+    "text": "Not booking yet. Let the FlixBus gods remain unprovoked. Exile logistics: cheaper than therapy, somehow worse for the spine.",
+    "time": "2026-06-02T20:49:14"
+   }
+  ],
+  "searches": [
+   {
+    "query": "lithuania belarus border policy latest statement",
+    "time": "2026-05-04T11:03:45"
+   },
+   {
+    "query": "alexievich quote fear silence memory rus",
+    "time": "2026-05-04T01:55:17"
+   },
+   {
+    "query": "leidimas gyventi pratęsimas dokumentai lietuva 2026",
+    "time": "2026-05-05T20:34:03"
+   },
+   {
+    "query": "belarus ministry procurement archive 2024 contracts",
+    "time": "2026-05-06T10:39:10"
+   },
+   {
+    "query": "registru centras ngo lithuania funding registry",
+    "time": "2026-05-07T10:14:53"
+   },
+   {
+    "query": "belta phrasing archive same wording opposition extremists",
+    "time": "2026-05-07T20:08:29"
+   },
+   {
+    "query": "aleksei talai biography date born spelling",
+    "time": "2026-05-08T10:01:02"
+   },
+   {
+    "query": "m yarmoshyna zerkalo belsat reaction comments",
+    "time": "2026-05-08T22:47:00"
+   },
+   {
+    "query": "мама минск таблетки давление бисопролол аналоги",
+    "time": "2026-05-09T14:16:54"
+   },
+   {
+    "query": "panic at night can not sleep heart racing",
+    "time": "2026-05-09T00:15:15"
+   },
+   {
+    "query": "valadarka political prisoner birthday campaign ihar",
+    "time": "2026-05-10T20:34:31"
+   },
+   {
+    "query": "единый гос регистр беларусь ип поиск",
+    "time": "2026-05-11T11:37:20"
+   },
+   {
+    "query": "enforced disappearance беларуская тэрміналогія",
+    "time": "2026-05-11T17:14:15"
+   },
+   {
+    "query": "лукашенко выступление 2020 архив цитата",
+    "time": "2026-05-12T12:55:12"
+   },
+   {
+    "query": "тарашкевіца правапіс зварот да людзей",
+    "time": "2026-05-12T23:02:25"
+   },
+   {
+    "query": "беларусь политзаключенные статистика 2026 белсат",
+    "time": "2026-05-13T11:38:56"
+   },
+   {
+    "query": "быкаў цытата пра страх і сумленне",
+    "time": "2026-05-13T01:38:00"
+   },
+   {
+    "query": "серабранка аптека минск часы кардиомагнил",
+    "time": "2026-05-14T10:33:43"
+   },
+   {
+    "query": "можно ли переслать лекарства в беларусь из литвы",
+    "time": "2026-05-15T11:57:28"
+   },
+   {
+    "query": "алесь адамович букинист вилнюс б/у",
+    "time": "2026-05-16T12:43:26"
+   },
+   {
+    "query": "vilnius weather today uzupis",
+    "time": "2026-05-17T12:10:58"
+   },
+   {
+    "query": "yarmoshyna belsat quote 2020 filing",
+    "time": "2026-05-18T11:19:18"
+   },
+   {
+    "query": "быкаў цытата дарога снег",
+    "time": "2026-05-18T02:02:56"
+   },
+   {
+    "query": "site:twitter.com беларусь yarmoshyna thread names",
+    "time": "2026-05-19T11:18:02"
+   },
+   {
+    "query": "m yarmoshyna repost tg упоминание",
+    "time": "2026-05-20T04:16:15"
+   },
+   {
+    "query": "аптека серебрянка минск часы работы",
+    "time": "2026-05-20T13:22:07"
+   },
+   {
+    "query": "zerkalo archive 2021 july 14 belarus",
+    "time": "2026-05-21T13:16:54"
+   },
+   {
+    "query": "leidimas gyventi lietuvoje dokumentai pratęsimas 2027",
+    "time": "2026-05-22T09:49:45"
+   },
+   {
+    "query": "пражская весна параллели беларусь 2020",
+    "time": "2026-05-23T12:41:34"
+   },
+   {
+    "query": "лукашенко указ дата фамилия 2021 проверка",
+    "time": "2026-05-24T11:31:52"
+   },
+   {
+    "query": "иван тертель декларация 2023 zerkalo",
+    "time": "2026-05-25T11:14:32"
+   },
+   {
+    "query": "административное задержание lietuviskai terminas",
+    "time": "2026-05-26T11:13:38"
+   },
+   {
+    "query": "аптека серебрянка минск часы работы",
+    "time": "2026-05-26T17:59:17"
+   },
+   {
+    "query": "белта заявление мвд беларусь сегодня",
+    "time": "2026-05-27T11:44:06"
+   },
+   {
+    "query": "civil detention procedure belarus ngo wording",
+    "time": "2026-05-28T11:30:31"
+   },
+   {
+    "query": "m yarmoshyna belsat",
+    "time": "2026-05-29T11:07:44"
+   },
+   {
+    "query": "vilnius warsaw train bus today",
+    "time": "2026-05-29T17:02:15"
+   },
+   {
+    "query": "wise eur pln fee when exchange rate updates",
+    "time": "2026-05-30T16:57:18"
+   },
+   {
+    "query": "аптека серебрянка минск телефон рецепт",
+    "time": "2026-05-31T12:56:30"
+   },
+   {
+    "query": "lithuanian name bisoprolol belarus dosage equivalent",
+    "time": "2026-06-01T10:48:49"
+   },
+   {
+    "query": "minsk serabranka pharmacy shortages meds june 2026",
+    "time": "2026-06-01T16:48:16"
+   },
+   {
+    "query": "vilnius warsaw bus train cheap tomorrow",
+    "time": "2026-06-02T11:31:57"
+   },
+   {
+    "query": "warsaw cheap room 1 night centrum",
+    "time": "2026-06-02T16:54:39"
+   }
+  ],
+  "videos": [
+   {
+    "title": "Палітвязні Беларусі: лісты, суды і салідарнасць у выгнанні",
+    "channel": "Белсат NEWS",
+    "time": "2026-05-04T19:26:50"
+   },
+   {
+    "title": "Прэс-канферэнцыя: цытата пра \"экстрэмісцкія матэрыялы\" і новыя затрыманні",
+    "channel": "Зеркало | Новости Беларуси",
+    "time": "2026-05-06T17:10:14"
+   },
+   {
+    "title": "Ленивые драники с грибным соусом без лишней возни",
+    "channel": "Кухня наизнанку",
+    "time": "2026-05-08T19:14:10"
+   },
+   {
+    "title": "Exile Media Funding After 2020: Warsaw Panel Highlights",
+    "channel": "Belsat News",
+    "time": "2026-05-13T13:31:02"
+   },
+   {
+    "title": "«Як жыць у выгнанні і не страціць голас»: інтэрв’ю з беларускай журналісткай",
+    "channel": "Радыё Свабода Беларусь",
+    "time": "2026-05-15T20:05:01"
+   },
+   {
+    "title": "Exile Media Security: Protecting Sources Across Borders",
+    "channel": "Belsat News",
+    "time": "2026-05-19T20:21:46"
+   },
+   {
+    "title": "Encrypted Calls and Source Notes: Practical Habits for Journalists",
+    "channel": "DigiSec Lab Lithuania",
+    "time": "2026-05-21T11:01:48"
+   },
+   {
+    "title": "Беларускія палітвязні: новыя прысуды і ціск на сем'і",
+    "channel": "Belsat NEWS",
+    "time": "2026-05-27T13:29:59"
+   },
+   {
+    "title": "Exile Media Funding: Independence, Donor Pressure, and Audience Trust",
+    "channel": "European Endowment for Democracy",
+    "time": "2026-05-29T20:18:29"
+   }
+  ],
+  "calendar": [
+   {
+    "summary": "NGO translation block; bring identity card",
+    "time": "2026-05-05T09:57:10"
+   },
+   {
+    "summary": "Plan next week’s deadlines; keep Monday morning lighter",
+    "time": "2026-05-10T13:29:27"
+   },
+   {
+    "summary": "Shift translation block later after late start",
+    "time": "2026-05-12T10:28:43"
+   },
+   {
+    "summary": "Move non-urgent source call to Friday",
+    "time": "2026-05-14T15:27:05"
+   },
+   {
+    "summary": "Light work and errands",
+    "time": "2026-05-16T11:56:38"
+   },
+   {
+    "summary": "Start dark day; phone reminders off",
+    "time": "2026-05-17T09:35:00"
+   },
+   {
+    "summary": "Move source call to tomorrow morning",
+    "time": "2026-05-20T12:04:07"
+   },
+   {
+    "summary": "Final draft submission block; move translation to Monday",
+    "time": "2026-05-23T22:01:39"
+   },
+   {
+    "summary": "Tentative meeting reminder with Father Symon",
+    "time": "2026-05-27T21:42:09"
+   },
+   {
+    "summary": "Move offline walk later; finish month-end admin",
+    "time": "2026-05-31T10:30:31"
+   },
+   {
+    "summary": "Tentative Warsaw travel window",
+    "time": "2026-06-02T12:14:29"
+   }
+  ],
+  "locations": [
+   {
+    "place": "Užupis bus stop near Užupio g. and Polocko g., Vilnius",
+    "lat": 54.682185,
+    "lon": 25.297285,
+    "time": "2026-05-05T13:44:43"
+   },
+   {
+    "place": "Naujamiestis NGO office area near Naugarduko g., Vilnius",
+    "lat": 54.67779,
+    "lon": 25.266141,
+    "time": "2026-05-07T13:54:42"
+   },
+   {
+    "place": "Mint Vinetu bookshop cafe, Vilnius Old Town",
+    "lat": 54.681451,
+    "lon": 25.282014,
+    "time": "2026-05-09T13:13:39"
+   },
+   {
+    "place": "Vingis Park main riverside walking paths, Vilnius",
+    "lat": 54.683585,
+    "lon": 25.239765,
+    "time": "2026-05-10T10:35:53"
+   },
+   {
+    "place": "Užupis residential area near the Angel of Užupis, Vilnius",
+    "lat": 54.680548,
+    "lon": 25.29528,
+    "time": "2026-05-10T17:34:25"
+   },
+   {
+    "place": "Maironio g. near the Bernardine Garden entrance, Vilnius",
+    "lat": 54.68485,
+    "lon": 25.293678,
+    "time": "2026-05-12T14:06:26"
+   },
+   {
+    "place": "NGO office area on Latako g., Vilnius Old Town",
+    "lat": 54.680122,
+    "lon": 25.291158,
+    "time": "2026-05-14T14:33:06"
+   },
+   {
+    "place": "Coffee Hill Užupis, Vilnius",
+    "lat": 54.678693,
+    "lon": 25.295164,
+    "time": "2026-05-15T13:23:58"
+   },
+   {
+    "place": "Mint Vinetu bookshop cafe, Vilnius",
+    "lat": 54.681483,
+    "lon": 25.28363,
+    "time": "2026-05-16T13:17:12"
+   },
+   {
+    "place": "Neris riverside path near Žvėrynas Bridge, Vilnius",
+    "lat": 54.692284,
+    "lon": 25.263925,
+    "time": "2026-05-17T09:57:44"
+   },
+   {
+    "place": "Vingis Park central meadow area, Vilnius",
+    "lat": 54.682796,
+    "lon": 25.237352,
+    "time": "2026-05-17T14:49:16"
+   },
+   {
+    "place": "Užupis side street near Krivių g., Vilnius",
+    "lat": 54.682854,
+    "lon": 25.297625,
+    "time": "2026-05-19T14:01:57"
+   },
+   {
+    "place": "Human Rights Monitoring Institute / NGO office area, Didžioji g., Vilnius Old Town",
+    "lat": 54.67903,
+    "lon": 25.285243,
+    "time": "2026-05-21T14:36:34"
+   },
+   {
+    "place": "Literatų g. in Vilnius Old Town",
+    "lat": 54.680289,
+    "lon": 25.290756,
+    "time": "2026-05-22T15:46:08"
+   },
+   {
+    "place": "Mint Vinetu, Šv. Ignoto g. 16, Vilnius",
+    "lat": 54.683245,
+    "lon": 25.28191,
+    "time": "2026-05-23T11:34:11"
+   },
+   {
+    "place": "Apartment in Užupis near Polocko g., Vilnius",
+    "lat": 54.68048,
+    "lon": 25.299867,
+    "time": "2026-05-24T10:06:51"
+   },
+   {
+    "place": "NGO office near Gedimino prospektas, Vilnius",
+    "lat": 54.688017,
+    "lon": 25.278734,
+    "time": "2026-05-26T14:14:43"
+   },
+   {
+    "place": "NGO office near Gedimino prospektas, Vilnius",
+    "lat": 54.687197,
+    "lon": 25.277997,
+    "time": "2026-05-26T17:46:57"
+   },
+   {
+    "place": "NGO office near Gedimino prospektas, Vilnius",
+    "lat": 54.686003,
+    "lon": 25.278602,
+    "time": "2026-05-28T14:22:03"
+   },
+   {
+    "place": "Gedimino prospektas toward Vilnius Old Town",
+    "lat": 54.685621,
+    "lon": 25.282886,
+    "time": "2026-05-28T17:38:40"
+   },
+   {
+    "place": "Mint Vinetu bookshop cafe, Vilnius Old Town",
+    "lat": 54.681356,
+    "lon": 25.286431,
+    "time": "2026-05-28T17:53:08"
+   },
+   {
+    "place": "Mint Vinetu bookshop cafe, Vilnius Old Town",
+    "lat": 54.681783,
+    "lon": 25.286225,
+    "time": "2026-05-30T12:53:06"
+   },
+   {
+    "place": "Mint Vinetu bookshop cafe, Vilnius Old Town",
+    "lat": 54.681071,
+    "lon": 25.285258,
+    "time": "2026-05-30T15:37:19"
+   },
+   {
+    "place": "Užupis riverside path near Užupio gatvė, Vilnius",
+    "lat": 54.680355,
+    "lon": 25.294606,
+    "time": "2026-05-31T16:49:35"
+   }
+  ]
+ },
+ "_meta": {
+  "total_days": 30,
+  "n_events": 243
+ }
+}

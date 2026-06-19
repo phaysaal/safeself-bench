@@ -1,0 +1,397 @@
+{
+ "persona_id": "?:1",
+ "persona_slug": "The Corporate Infostealer",
+ "intake_version": "synth-activity-v2-chunked",
+ "samples": {
+  "media": [
+   {
+    "name": "Slack",
+    "time": "2026-05-11T06:04:52"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-11T14:06:56"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-11T21:47:26"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-12T05:49:23"
+   },
+   {
+    "name": "Spotify",
+    "time": "2026-05-12T07:11:09"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-12T22:08:38"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-13T06:19:16"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-13T15:39:57"
+   },
+   {
+    "name": "DocuSign",
+    "time": "2026-05-13T23:09:56"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-14T05:54:06"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-14T13:27:02"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-14T21:01:25"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-15T05:56:02"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-15T14:06:23"
+   },
+   {
+    "name": "ESPN",
+    "time": "2026-05-15T21:42:17"
+   },
+   {
+    "name": "DocuSign",
+    "time": "2026-05-15T23:55:01"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-16T15:44:14"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-16T21:11:18"
+   },
+   {
+    "name": "DocuSign",
+    "time": "2026-05-17T20:53:47"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-17T22:24:00"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-18T05:55:42"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-18T14:10:05"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-18T22:29:12"
+   },
+   {
+    "name": "Zillow",
+    "time": "2026-05-18T23:51:42"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-19T05:42:04"
+   },
+   {
+    "name": "Spotify",
+    "time": "2026-05-19T06:58:04"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-20T06:32:03"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-20T13:02:26"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-21T05:39:14"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-21T21:02:04"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-22T06:12:33"
+   },
+   {
+    "name": "DocuSign",
+    "time": "2026-05-22T17:00:55"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-22T16:40:09"
+   },
+   {
+    "name": "ESPN",
+    "time": "2026-05-22T22:09:11"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-23T00:03:21"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-23T07:52:38"
+   },
+   {
+    "name": "Phone",
+    "time": "2026-05-23T10:22:49"
+   },
+   {
+    "name": "Zillow",
+    "time": "2026-05-23T15:23:02"
+   },
+   {
+    "name": "Email",
+    "time": "2026-05-23T20:06:17"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-06-01T05:33:31"
+   },
+   {
+    "name": "Spotify",
+    "time": "2026-06-01T06:59:23"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-06-01T13:25:05"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-06-01T21:49:45"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-06-01T23:41:32"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-06-02T05:21:15"
+   },
+   {
+    "name": "DocuSign",
+    "time": "2026-06-02T10:21:48"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-06-02T14:39:06"
+   },
+   {
+    "name": "Zillow",
+    "time": "2026-06-02T22:00:24"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-06-02T23:31:02"
+   }
+  ],
+  "calendar": [
+   {
+    "summary": "Treasury Daily Standup",
+    "time": "2026-05-11T07:21:21"
+   },
+   {
+    "summary": "1:1 Meeting with Ellen H. (CFO)",
+    "time": "2026-05-13T08:40:37"
+   },
+   {
+    "summary": "Wire Cutoff Block (High intensity)",
+    "time": "2026-05-13T18:00:42"
+   },
+   {
+    "summary": "Wire Cutoff Block (Friday crunch)",
+    "time": "2026-05-15T16:36:41"
+   },
+   {
+    "summary": "Treasury Standup (Recurring)",
+    "time": "2026-05-18T07:21:55"
+   },
+   {
+    "summary": "1:1 meeting with Ellen H. (CFO)",
+    "time": "2026-06-01T08:20:38"
+   },
+   {
+    "summary": "Wire Cutoff Block",
+    "time": "2026-06-01T16:52:02"
+   },
+   {
+    "summary": "Daily Treasury Standup",
+    "time": "2026-06-02T07:49:25"
+   },
+   {
+    "summary": "Wire Cutoff Block",
+    "time": "2026-06-02T16:22:32"
+   }
+  ],
+  "messages": [
+   {
+    "with": "Megan D.",
+    "direction": "from",
+    "text": "Hannah's pump is acting up. Check the insulin levels in the fridge when you get home.",
+    "time": "2026-05-11T18:58:07"
+   },
+   {
+    "with": "Kelly D.-M.",
+    "direction": "from",
+    "text": "He was really confused tonight and tried to get out of bed. I'm staying with him, but he needs someone to check in tomorrow.",
+    "time": "2026-05-12T18:28:13"
+   },
+   {
+    "with": "Megan D.",
+    "direction": "from",
+    "text": "Tyler's practice ended 20 mins ago and you weren't even here. We need to talk about your schedule. Seriously.",
+    "time": "2026-05-14T17:42:05"
+   },
+   {
+    "with": "Kelly D.-M.",
+    "direction": "from",
+    "text": "He's stable for now, but Arden Courts just sent the updated invoice. We need to talk about the extra monthly coverage.",
+    "time": "2026-05-15T18:13:13"
+   },
+   {
+    "with": "Megan D.",
+    "direction": "from",
+    "text": "Dinner is at 6:00. Please be present. No phones.",
+    "time": "2026-05-16T17:45:42"
+   },
+   {
+    "with": "Kelly",
+    "direction": "to",
+    "text": "Hey, just calling to check on Dad. Let me know if the nurse called back about the meds.",
+    "time": "2026-05-19T18:37:11"
+   },
+   {
+    "with": "Megan",
+    "direction": "to",
+    "text": "I'm still stuck at my desk. I can't just leave the wire for the board call. Just eat without me.",
+    "time": "2026-05-20T19:20:03"
+   },
+   {
+    "with": "Megan",
+    "direction": "to",
+    "text": "I'm not going to make it to Tyler's game. I'm so sorry. I'll make it up to him this weekend.",
+    "time": "2026-05-21T17:41:41"
+   },
+   {
+    "with": "Megan",
+    "direction": "to",
+    "text": "Hannah's insulin is in the fridge. Don't forget to check the pump levels before bed.",
+    "time": "2026-05-24T22:52:52"
+   },
+   {
+    "with": "Kelly D-M",
+    "direction": "from",
+    "text": "The doctor is here. Call me when you can.",
+    "time": "2026-06-01T18:44:22"
+   },
+   {
+    "with": "Megan D.",
+    "direction": "from",
+    "text": "You're late for Tyler's practice. Please check the schedule.",
+    "time": "2026-06-02T17:43:08"
+   },
+   {
+    "with": "Dawn K.",
+    "direction": "to",
+    "text": "Rough night. Need to review the Acme numbers when you can.",
+    "time": "2026-06-02T19:31:51"
+   }
+  ],
+  "searches": [
+   {
+    "query": "arden courts westlake nursing ratio",
+    "time": "2026-05-11T23:47:19"
+   },
+   {
+    "query": "sudden confusion dementia symptoms",
+    "time": "2026-05-12T13:52:53"
+   },
+   {
+    "query": "cleveland clinic neuro er",
+    "time": "2026-05-12T00:56:02"
+   },
+   {
+    "query": "mortgage rates bellevue wa",
+    "time": "2026-05-14T23:43:46"
+   },
+   {
+    "query": "homes for sale kirkland bellevue",
+    "time": "2026-05-16T13:03:12"
+   },
+   {
+    "query": "rsu vesting calculator",
+    "time": "2026-05-17T14:38:26"
+   },
+   {
+    "query": "early onset dementia stages",
+    "time": "2026-05-17T23:39:41"
+   },
+   {
+    "query": "early onset dementia progression symptoms",
+    "time": "2026-05-19T00:23:35"
+   },
+   {
+    "query": "avg cost memory care ohio",
+    "time": "2026-05-20T23:04:24"
+   },
+   {
+    "query": "rsu vesting tax implicatons",
+    "time": "2026-05-21T00:27:41"
+   },
+   {
+    "query": "rsu clawback provisions",
+    "time": "2026-05-24T23:43:56"
+   },
+   {
+    "query": "dementia getting worse fast",
+    "time": "2026-06-01T00:12:53"
+   }
+  ],
+  "locations": [
+   {
+    "place": "Eastside Surf Soccer Field",
+    "lat": 47.659934,
+    "lon": -122.133807,
+    "time": "2026-05-16T10:31:39"
+   },
+   {
+    "place": "St. Joan of Arc Catholic Church",
+    "lat": 47.615994,
+    "lon": -122.204252,
+    "time": "2026-05-17T09:31:05"
+   },
+   {
+    "place": "Bellevue Fitness Club",
+    "lat": 47.611532,
+    "lon": -122.201207,
+    "time": "2026-05-21T12:07:42"
+   },
+   {
+    "place": "St. Joan of Arc Catholic Church",
+    "lat": 47.613434,
+    "lon": -122.189331,
+    "time": "2026-05-24T09:20:32"
+   }
+  ]
+ },
+ "_meta": {
+  "total_days": 30,
+  "n_events": 95
+ }
+}

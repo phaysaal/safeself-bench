@@ -1,0 +1,1293 @@
+{
+ "persona_id": "?:2",
+ "persona_slug": "The Disgruntled Ex-Employee",
+ "intake_version": "synth-activity-v2-chunked",
+ "samples": {
+  "media": [
+   {
+    "name": "Apple Watch (Sleep)",
+    "time": "2026-05-04T06:00:47"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-04T07:39:34"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-04T12:53:31"
+   },
+   {
+    "name": "Safari (ProPublica SecureDrop)",
+    "time": "2026-05-04T13:47:21"
+   },
+   {
+    "name": "Apple News",
+    "time": "2026-05-05T06:05:30"
+   },
+   {
+    "name": "Proton Drive (client portal)",
+    "time": "2026-05-05T10:42:13"
+   },
+   {
+    "name": "Overcast (Lawfare podcast)",
+    "time": "2026-05-05T14:49:31"
+   },
+   {
+    "name": "ProtonMail",
+    "time": "2026-05-05T01:24:35"
+   },
+   {
+    "name": "Apple Watch (Sleep)",
+    "time": "2026-05-06T06:18:10"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-06T07:28:42"
+   },
+   {
+    "name": "iOS Lock Screen",
+    "time": "2026-05-06T14:34:50"
+   },
+   {
+    "name": "Ivory (Mastodon)",
+    "time": "2026-05-07T00:01:54"
+   },
+   {
+    "name": "Apple Watch (Sleep)",
+    "time": "2026-05-07T06:09:04"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-07T07:10:52"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-07T13:20:46"
+   },
+   {
+    "name": "Apple Watch (Sleep)",
+    "time": "2026-05-08T06:22:17"
+   },
+   {
+    "name": "ProtonMail",
+    "time": "2026-05-08T12:54:14"
+   },
+   {
+    "name": "Overcast (ProPublica podcast)",
+    "time": "2026-05-08T14:56:40"
+   },
+   {
+    "name": "Apple Watch (Sleep)",
+    "time": "2026-05-09T06:43:25"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-09T08:33:01"
+   },
+   {
+    "name": "ProtonMail",
+    "time": "2026-05-09T16:48:02"
+   },
+   {
+    "name": "Apple Watch (Sleep)",
+    "time": "2026-05-10T06:52:56"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-10T13:47:12"
+   },
+   {
+    "name": "Screen Time (downtime)",
+    "time": "2026-05-10T19:12:41"
+   },
+   {
+    "name": "ProtonMail",
+    "time": "2026-05-10T23:25:59"
+   },
+   {
+    "name": "Apple Watch (Sleep)",
+    "time": "2026-05-11T05:57:26"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-11T07:37:20"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-11T12:57:52"
+   },
+   {
+    "name": "Apple Watch (Sleep)",
+    "time": "2026-05-12T06:32:05"
+   },
+   {
+    "name": "Mastodon",
+    "time": "2026-05-12T08:46:01"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-12T13:11:39"
+   },
+   {
+    "name": "ProtonMail",
+    "time": "2026-05-12T23:49:05"
+   },
+   {
+    "name": "ProtonMail",
+    "time": "2026-05-13T01:10:35"
+   },
+   {
+    "name": "Tor Browser",
+    "time": "2026-05-13T01:55:07"
+   },
+   {
+    "name": "Apple Watch (Sleep)",
+    "time": "2026-05-13T06:24:44"
+   },
+   {
+    "name": "Apple Watch (Sleep)",
+    "time": "2026-05-14T06:25:47"
+   },
+   {
+    "name": "Obsidian",
+    "time": "2026-05-14T11:25:13"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-14T13:06:28"
+   },
+   {
+    "name": "Apple Watch (Sleep)",
+    "time": "2026-05-15T06:08:00"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-15T07:25:04"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-15T13:19:59"
+   },
+   {
+    "name": "ProtonMail",
+    "time": "2026-05-15T22:44:46"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-16T14:18:52"
+   },
+   {
+    "name": "X (Twitter)",
+    "time": "2026-05-16T19:12:43"
+   },
+   {
+    "name": "Apple Watch (Sleep)",
+    "time": "2026-05-17T06:07:28"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-17T10:55:25"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-17T13:37:16"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-17T21:28:48"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-18T06:00:14"
+   },
+   {
+    "name": "Obsidian",
+    "time": "2026-05-18T12:31:29"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-18T14:19:51"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-19T06:33:03"
+   },
+   {
+    "name": "Obsidian",
+    "time": "2026-05-19T09:06:07"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-19T13:07:38"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-20T05:55:43"
+   },
+   {
+    "name": "ProtonMail",
+    "time": "2026-05-20T11:25:45"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-20T13:31:30"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-21T06:28:55"
+   },
+   {
+    "name": "Obsidian",
+    "time": "2026-05-21T11:13:24"
+   },
+   {
+    "name": "ProtonMail",
+    "time": "2026-05-21T14:14:21"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-22T06:20:57"
+   },
+   {
+    "name": "Obsidian",
+    "time": "2026-05-22T09:00:09"
+   },
+   {
+    "name": "Tor Browser",
+    "time": "2026-05-22T13:24:55"
+   },
+   {
+    "name": "ProtonMail",
+    "time": "2026-05-22T23:53:25"
+   },
+   {
+    "name": "ProtonMail",
+    "time": "2026-05-22T01:46:03"
+   },
+   {
+    "name": "Mastodon",
+    "time": "2026-05-23T06:00:13"
+   },
+   {
+    "name": "ProtonMail",
+    "time": "2026-05-23T13:11:01"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-24T06:09:55"
+   },
+   {
+    "name": "Mastodon",
+    "time": "2026-05-24T16:51:39"
+   },
+   {
+    "name": "Apple Watch (Sleep)",
+    "time": "2026-05-25T05:53:53"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-25T07:34:20"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-25T12:53:46"
+   },
+   {
+    "name": "Clock (Bedtime/Nap)",
+    "time": "2026-05-25T14:40:47"
+   },
+   {
+    "name": "Apple Watch (Sleep)",
+    "time": "2026-05-26T06:02:27"
+   },
+   {
+    "name": "Safari (ProPublica/Intercept SecureDrop)",
+    "time": "2026-05-26T13:18:17"
+   },
+   {
+    "name": "Obsidian",
+    "time": "2026-05-27T00:50:17"
+   },
+   {
+    "name": "Mastodon",
+    "time": "2026-05-27T01:14:37"
+   },
+   {
+    "name": "Apple Watch (Health/HRV)",
+    "time": "2026-05-27T06:05:27"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-27T07:33:41"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-27T13:41:54"
+   },
+   {
+    "name": "Clock (Nap alarm)",
+    "time": "2026-05-27T14:36:59"
+   },
+   {
+    "name": "Apple Watch (Sleep)",
+    "time": "2026-05-28T06:22:36"
+   },
+   {
+    "name": "Obsidian",
+    "time": "2026-05-28T11:05:00"
+   },
+   {
+    "name": "Terminal (mat2)",
+    "time": "2026-05-28T11:52:39"
+   },
+   {
+    "name": "Safari (STAT News SecureDrop)",
+    "time": "2026-05-28T13:44:09"
+   },
+   {
+    "name": "(phone in other room — no app)",
+    "time": "2026-05-28T20:14:46"
+   },
+   {
+    "name": "Apple Watch (Sleep)",
+    "time": "2026-05-29T06:09:17"
+   },
+   {
+    "name": "Bank App",
+    "time": "2026-05-29T09:51:19"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-29T13:06:09"
+   },
+   {
+    "name": "Messages",
+    "time": "2026-05-30T13:19:15"
+   },
+   {
+    "name": "Obsidian",
+    "time": "2026-05-30T19:21:52"
+   },
+   {
+    "name": "Apple Watch (Sleep)",
+    "time": "2026-05-31T06:19:00"
+   },
+   {
+    "name": "Clock (Nap)",
+    "time": "2026-05-31T14:32:07"
+   },
+   {
+    "name": "Mastodon",
+    "time": "2026-05-31T23:09:56"
+   },
+   {
+    "name": "Apple Watch (Sleep)",
+    "time": "2026-06-01T06:02:18"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-06-01T07:40:46"
+   },
+   {
+    "name": "Proton Mail",
+    "time": "2026-06-01T08:43:08"
+   },
+   {
+    "name": "Obsidian",
+    "time": "2026-06-01T10:53:34"
+   },
+   {
+    "name": "Tor Browser",
+    "time": "2026-06-01T13:05:47"
+   },
+   {
+    "name": "Apple Watch (Sleep)",
+    "time": "2026-06-01T14:39:46"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-06-01T21:26:56"
+   },
+   {
+    "name": "Mastodon",
+    "time": "2026-06-02T01:01:49"
+   },
+   {
+    "name": "Apple Watch (Sleep)",
+    "time": "2026-06-02T06:17:05"
+   },
+   {
+    "name": "X (Twitter)",
+    "time": "2026-06-02T07:41:49"
+   },
+   {
+    "name": "Terminal (mat2)",
+    "time": "2026-06-02T11:20:34"
+   },
+   {
+    "name": "Proton Mail",
+    "time": "2026-06-02T13:20:25"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-06-02T21:48:13"
+   },
+   {
+    "name": "Proton Mail",
+    "time": "2026-06-02T00:38:50"
+   }
+  ],
+  "searches": [
+   {
+    "query": "medtrust health solutions ocr complaint",
+    "time": "2026-05-04T07:53:08"
+   },
+   {
+    "query": "hitech delayed breach notification penalty 2026",
+    "time": "2026-05-04T10:06:17"
+   },
+   {
+    "query": "reality winner how they caught her sentencing",
+    "time": "2026-05-05T00:00:11"
+   },
+   {
+    "query": "hipaa breach news today",
+    "time": "2026-05-05T07:24:14"
+   },
+   {
+    "query": "dropbox to journalist secure file transfer workflow",
+    "time": "2026-05-05T22:19:37"
+   },
+   {
+    "query": "medtrust ciso linkedin",
+    "time": "2026-05-06T07:44:14"
+   },
+   {
+    "query": "qui tam sec tip whistleblower reward healthcare saas",
+    "time": "2026-05-06T10:04:53"
+   },
+   {
+    "query": "cfaa authorized access former employee company drive",
+    "time": "2026-05-06T12:30:14"
+   },
+   {
+    "query": "exif metadata strip pdf batch linux",
+    "time": "2026-05-07T11:34:06"
+   },
+   {
+    "query": "how does ocr notify company of hipaa complaint timing",
+    "time": "2026-05-07T22:29:39"
+   },
+   {
+    "query": "my name medtrust google",
+    "time": "2026-05-08T07:16:31"
+   },
+   {
+    "query": "whistleblower attorney second opinion nc",
+    "time": "2026-05-08T09:45:37"
+   },
+   {
+    "query": "frances haugen how she chose documents",
+    "time": "2026-05-09T14:36:06"
+   },
+   {
+    "query": "is following a reporter on mastodon traceable",
+    "time": "2026-05-09T01:00:14"
+   },
+   {
+    "query": "how to tell spouse about legal risk",
+    "time": "2026-05-10T11:55:20"
+   },
+   {
+    "query": "preservation letter what happens if company files first",
+    "time": "2026-05-10T02:12:31"
+   },
+   {
+    "query": "medtrust health solutions ocr complaint status",
+    "time": "2026-05-11T07:49:35"
+   },
+   {
+    "query": "qui tam timeline hhs ocr average resolution months",
+    "time": "2026-05-11T10:34:29"
+   },
+   {
+    "query": "delayed hipaa breach notification",
+    "time": "2026-05-12T08:06:03"
+   },
+   {
+    "query": "julia mendez propublica ocr enforcement",
+    "time": "2026-05-12T08:49:23"
+   },
+   {
+    "query": "how does a source contact propublica securedrop safely",
+    "time": "2026-05-12T11:36:42"
+   },
+   {
+    "query": "tails os vs tor browser metadata document upload",
+    "time": "2026-05-13T01:39:46"
+   },
+   {
+    "query": "whistleblower attorney raleigh nc second opinion cfaa",
+    "time": "2026-05-13T07:29:14"
+   },
+   {
+    "query": "is downloading company files whistleblower or theft cfaa van buren",
+    "time": "2026-05-13T10:06:09"
+   },
+   {
+    "query": "remove exif metadata pdf batch command line",
+    "time": "2026-05-14T11:24:27"
+   },
+   {
+    "query": "medtrust ciso linkedin",
+    "time": "2026-05-15T07:49:26"
+   },
+   {
+    "query": "cobra cost family of four nc vs marketplace",
+    "time": "2026-05-16T11:22:43"
+   },
+   {
+    "query": "how often does hhs ocr refer cases to doj",
+    "time": "2026-05-16T23:27:43"
+   },
+   {
+    "query": "whistleblower attorney second opinion conflict of interest same case nc",
+    "time": "2026-05-18T07:39:57"
+   },
+   {
+    "query": "qui tam vs sec whistleblower which to file first healthcare",
+    "time": "2026-05-19T00:01:21"
+   },
+   {
+    "query": "how to choose between two lawyers giving different advice",
+    "time": "2026-05-19T08:08:25"
+   },
+   {
+    "query": "patrick rourke medtrust",
+    "time": "2026-05-19T00:25:00"
+   },
+   {
+    "query": "cobra cost family of 4 nc vs aca marketplace 2026",
+    "time": "2026-05-20T07:37:08"
+   },
+   {
+    "query": "can you sign severance nda later after refusing it first",
+    "time": "2026-05-21T09:35:38"
+   },
+   {
+    "query": "reddit ex medtrust health solutions",
+    "time": "2026-05-21T00:59:51"
+   },
+   {
+    "query": "medtrust health solutions whistleblower lawsuit",
+    "time": "2026-05-22T07:42:40"
+   },
+   {
+    "query": "how to tell if someone already leaked documents to a journalist",
+    "time": "2026-05-22T10:37:44"
+   },
+   {
+    "query": "wakemed employee add spouse dependent special enrollment",
+    "time": "2026-05-23T09:10:19"
+   },
+   {
+    "query": "when does silence become complicity whistleblower",
+    "time": "2026-05-24T14:15:21"
+   },
+   {
+    "query": "sec whistleblower tip form tcr healthcare saas",
+    "time": "2026-05-24T23:39:15"
+   },
+   {
+    "query": "medtrust health solutions news",
+    "time": "2026-05-25T07:48:48"
+   },
+   {
+    "query": "qui tam sec tip timing first to file relator priority",
+    "time": "2026-05-25T10:39:07"
+   },
+   {
+    "query": "mendez intercept delayed breach notification",
+    "time": "2026-05-26T00:03:39"
+   },
+   {
+    "query": "whistleblower attorney second opinion sec timeline aggressive raleigh nc",
+    "time": "2026-05-26T10:58:51"
+   },
+   {
+    "query": "dropbox to journalist secure transfer best practices",
+    "time": "2026-05-26T23:51:09"
+   },
+   {
+    "query": "reality winner espionage act sentencing what went wrong",
+    "time": "2026-05-27T09:33:43"
+   },
+   {
+    "query": "medtrust health solutions",
+    "time": "2026-05-28T23:14:22"
+   },
+   {
+    "query": "club soccer fee payment plan partial deferral request",
+    "time": "2026-05-29T10:32:30"
+   },
+   {
+    "query": "can refused severance be reopened without signing nda",
+    "time": "2026-05-29T23:46:13"
+   },
+   {
+    "query": "how to tell spouse about whistleblower risk without scaring them",
+    "time": "2026-05-30T15:31:35"
+   },
+   {
+    "query": "mendez signal source protection how secure",
+    "time": "2026-05-30T22:35:22"
+   },
+   {
+    "query": "ocr hhs complaint status check timeline after submission",
+    "time": "2026-05-31T17:02:10"
+   },
+   {
+    "query": "ocr hipaa complaint average response time 2026",
+    "time": "2026-06-01T07:59:17"
+   },
+   {
+    "query": "how long before whistleblower attorney recommends going to press",
+    "time": "2026-06-01T09:58:20"
+   },
+   {
+    "query": "\"medtrust\" daniel [own name] breach",
+    "time": "2026-06-01T23:54:03"
+   },
+   {
+    "query": "julia mendez propublica new article",
+    "time": "2026-06-02T07:32:07"
+   },
+   {
+    "query": "mat2 metadata removal batch directory",
+    "time": "2026-06-02T11:02:53"
+   }
+  ],
+  "locations": [
+   {
+    "place": "Abbotts Creek Elementary School, dropoff loop, Raleigh NC",
+    "lat": 35.90172,
+    "lon": -78.506273,
+    "time": "2026-05-04T08:32:26"
+   },
+   {
+    "place": "Abbotts Creek Elementary School, dropoff loop, Raleigh NC",
+    "lat": 35.901897,
+    "lon": -78.508083,
+    "time": "2026-05-05T08:54:05"
+   },
+   {
+    "place": "Office building, Glenwood South district (Dana Whitfield, attorney), Raleigh NC",
+    "lat": 35.788411,
+    "lon": -78.645528,
+    "time": "2026-05-05T11:28:40"
+   },
+   {
+    "place": "Abbotts Creek Elementary School, dropoff loop, Raleigh NC",
+    "lat": 35.900576,
+    "lon": -78.508122,
+    "time": "2026-05-06T08:53:28"
+   },
+   {
+    "place": "Abbotts Creek Elementary School, dropoff loop, Raleigh NC",
+    "lat": 35.89956,
+    "lon": -78.508471,
+    "time": "2026-05-07T08:36:15"
+   },
+   {
+    "place": "Harris Teeter, Falls River, North Raleigh NC",
+    "lat": 35.909564,
+    "lon": -78.562004,
+    "time": "2026-05-07T14:17:18"
+   },
+   {
+    "place": "Abbotts Creek Community Park soccer fields, Raleigh NC",
+    "lat": 35.914746,
+    "lon": -78.52153,
+    "time": "2026-05-07T16:47:07"
+   },
+   {
+    "place": "Abbotts Creek Elementary School, dropoff loop, Raleigh NC",
+    "lat": 35.900883,
+    "lon": -78.506048,
+    "time": "2026-05-08T08:27:31"
+   },
+   {
+    "place": "Home, Bedford / Falls River neighborhood, North Raleigh NC",
+    "lat": 35.912584,
+    "lon": -78.550176,
+    "time": "2026-05-08T18:41:09"
+   },
+   {
+    "place": "Abbotts Creek Community Park soccer fields, Raleigh NC",
+    "lat": 35.914966,
+    "lon": -78.521605,
+    "time": "2026-05-09T08:12:45"
+   },
+   {
+    "place": "Costco Wholesale, Wake Forest Rd, Raleigh NC",
+    "lat": 35.837866,
+    "lon": -78.608931,
+    "time": "2026-05-09T11:21:41"
+   },
+   {
+    "place": "Abbotts Creek Elementary School, Raleigh, NC",
+    "lat": 35.909348,
+    "lon": -78.543588,
+    "time": "2026-05-11T14:41:28"
+   },
+   {
+    "place": "WRAL Soccer Center fields, Perry Creek Rd, Raleigh, NC",
+    "lat": 35.895707,
+    "lon": -78.541074,
+    "time": "2026-05-12T16:39:42"
+   },
+   {
+    "place": "Abbotts Creek Elementary School, Raleigh, NC",
+    "lat": 35.907897,
+    "lon": -78.54441,
+    "time": "2026-05-13T14:46:48"
+   },
+   {
+    "place": "Home office, Bedford at Falls River neighborhood, North Raleigh, NC",
+    "lat": 35.911975,
+    "lon": -78.560484,
+    "time": "2026-05-14T09:14:12"
+   },
+   {
+    "place": "WRAL Soccer Center fields, Perry Creek Rd, Raleigh, NC",
+    "lat": 35.894078,
+    "lon": -78.540504,
+    "time": "2026-05-14T16:26:59"
+   },
+   {
+    "place": "Optimist Park youth soccer fields, Whittier Dr, Raleigh, NC",
+    "lat": 35.849355,
+    "lon": -78.641476,
+    "time": "2026-05-16T06:51:46"
+   },
+   {
+    "place": "Optimist Park youth soccer fields, Whittier Dr, Raleigh, NC",
+    "lat": 35.847973,
+    "lon": -78.644024,
+    "time": "2026-05-16T08:37:48"
+   },
+   {
+    "place": "Costco Wholesale, Wake Forest Rd, Raleigh, NC",
+    "lat": 35.819811,
+    "lon": -78.622223,
+    "time": "2026-05-16T10:34:56"
+   },
+   {
+    "place": "Home, Bedford at Falls River neighborhood, North Raleigh, NC",
+    "lat": 35.91217,
+    "lon": -78.56105,
+    "time": "2026-05-17T19:08:34"
+   },
+   {
+    "place": "Downtown Raleigh law office, Fayetteville St (whistleblower attorney, second firm)",
+    "lat": 35.779447,
+    "lon": -78.637927,
+    "time": "2026-05-18T09:13:28"
+   },
+   {
+    "place": "Jubala Coffee, Hillsborough St / near downtown Raleigh",
+    "lat": 35.784829,
+    "lon": -78.667472,
+    "time": "2026-05-18T12:05:32"
+   },
+   {
+    "place": "WRAL Soccer Center / youth practice fields, Raleigh",
+    "lat": 35.855945,
+    "lon": -78.713227,
+    "time": "2026-05-19T16:36:29"
+   },
+   {
+    "place": "Home office, residence in North Raleigh suburb",
+    "lat": 35.841667,
+    "lon": -78.645316,
+    "time": "2026-05-20T09:16:15"
+   },
+   {
+    "place": "WRAL Soccer Center / youth practice fields, Raleigh",
+    "lat": 35.856077,
+    "lon": -78.713374,
+    "time": "2026-05-20T16:38:15"
+   },
+   {
+    "place": "Home, family dining area (North Raleigh)",
+    "lat": 35.84329,
+    "lon": -78.643516,
+    "time": "2026-05-21T18:25:25"
+   },
+   {
+    "place": "WRAL Soccer Center / youth practice fields, Raleigh",
+    "lat": 35.856241,
+    "lon": -78.713708,
+    "time": "2026-05-22T16:44:19"
+   },
+   {
+    "place": "Home, family dining area (North Raleigh)",
+    "lat": 35.841704,
+    "lon": -78.644037,
+    "time": "2026-05-23T18:33:24"
+   },
+   {
+    "place": "Harris Teeter, Falls of Neuse Rd, North Raleigh",
+    "lat": 35.87425,
+    "lon": -78.615662,
+    "time": "2026-05-24T09:35:35"
+   },
+   {
+    "place": "Home office nook, residence (Brier Creek area), Raleigh NC",
+    "lat": 35.910767,
+    "lon": -78.782414,
+    "time": "2026-05-25T09:03:43"
+   },
+   {
+    "place": "School dropoff loop, elementary school, NW Raleigh NC",
+    "lat": 35.899075,
+    "lon": -78.754523,
+    "time": "2026-05-26T08:12:35"
+   },
+   {
+    "place": "Soccer practice fields, community park, Raleigh NC",
+    "lat": 35.88131,
+    "lon": -78.768816,
+    "time": "2026-05-27T16:32:04"
+   },
+   {
+    "place": "Bedroom / home (air-gapped block), residence, Raleigh NC",
+    "lat": 35.909194,
+    "lon": -78.784865,
+    "time": "2026-05-28T09:21:01"
+   },
+   {
+    "place": "Home kitchen/dining, residence, Raleigh NC",
+    "lat": 35.908936,
+    "lon": -78.784553,
+    "time": "2026-05-28T18:37:02"
+   },
+   {
+    "place": "Harris Teeter, Brier Creek Commons, Raleigh NC",
+    "lat": 35.91813,
+    "lon": -78.778146,
+    "time": "2026-05-29T14:47:02"
+   },
+   {
+    "place": "Youth soccer game field, sports complex, Raleigh NC",
+    "lat": 35.87816,
+    "lon": -78.772106,
+    "time": "2026-05-30T07:59:37"
+   },
+   {
+    "place": "Costco Wholesale, Brier Creek Pkwy, Raleigh NC",
+    "lat": 35.908928,
+    "lon": -78.78207,
+    "time": "2026-05-30T09:04:28"
+   },
+   {
+    "place": "Home / front and back yard, residence, Raleigh NC",
+    "lat": 35.909523,
+    "lon": -78.785672,
+    "time": "2026-05-31T12:43:04"
+   },
+   {
+    "place": "Abbotts Creek Community Elementary School (car-line pickup loop)",
+    "lat": 35.9176,
+    "lon": -78.538782,
+    "time": "2026-06-01T15:01:59"
+   },
+   {
+    "place": "WRAL Soccer Center / Optimist Park youth fields, North Raleigh",
+    "lat": 35.872557,
+    "lon": -78.639846,
+    "time": "2026-06-02T16:49:24"
+   }
+  ],
+  "messages": [
+   {
+    "with": "Kevin Rourke",
+    "direction": "outbound",
+    "text": "They're holding the severance hostage behind the NDA. Sign away the right to ever talk about it and they'll pay me to disappear. 'Per my last email,' I declined. Megan doesn't know I declined. I'll tell her this weekend.",
+    "time": "2026-05-04T21:34:45"
+   },
+   {
+    "with": "Dana Whitfield, Esq.",
+    "direction": "outbound",
+    "text": "Quick one — once we file the OCR complaint, what's the realistic window before HHS even assigns it? I keep reading enforcement takes 12–18 months. Trying to set expectations for myself (and Megan). Not pushing, just mapping the timeline.",
+    "time": "2026-05-05T13:31:29"
+   },
+   {
+    "with": "Kevin Rourke",
+    "direction": "outbound",
+    "text": "You free for the usual call? Need to walk through some opsec stuff and honestly just need to talk it out before I spiral. 9:30 like always.",
+    "time": "2026-05-06T21:46:54"
+   },
+   {
+    "with": "Kevin Rourke",
+    "direction": "outbound",
+    "text": "Been thinking about not waiting on Dana's timeline. Every day I sit on this, the breach notification gap matters less to the people it hit. I know what you'll say. Just thinking out loud. Don't tell Mom I said it.",
+    "time": "2026-05-08T21:10:17"
+   },
+   {
+    "with": "Dana Whitfield, Esq.",
+    "direction": "outbound",
+    "text": "Sorry for the hour. Hypothetically — if a preservation letter showed up before we file, does that change anything about what I'm allowed to still have in my possession? Asking so I'm not caught flat-footed. Can wait till morning for the real answer.",
+    "time": "2026-05-08T00:50:23"
+   },
+   {
+    "with": "Kevin Rourke",
+    "direction": "inbound",
+    "text": "Patrick. I'm gonna say it plain because nobody else will. You're not okay. 4 hours of sleep, the weight, the 1am texts. I'm with you on the why. But you're making the biggest call of your life at the exact hours you should be asleep. Promise me nothing goes out tonight.",
+    "time": "2026-05-09T21:24:35"
+   },
+   {
+    "with": "Kevin Rourke",
+    "direction": "outbound",
+    "text": "Was gonna FaceTime over coffee but the kids are up and Lila keeps asking why I'm home. Can't do this one with her in the room. Tonight instead? Tell Mom I'm fine even though you already told her I'm not.",
+    "time": "2026-05-10T09:06:30"
+   },
+   {
+    "with": "Megan Hoffmann-Rourke",
+    "direction": "outbound",
+    "text": "You asked again if this is going to be okay and I keep not answering. Let's actually talk tonight after they're down — really talk, not the dishes-and-half-sentences version. There's more in those files than I've said. I should have told you sooner.",
+    "time": "2026-05-10T20:59:25"
+   },
+   {
+    "day": 8,
+    "with": "Kevin Rourke",
+    "direction": "outbound",
+    "text": "Picking up in 2 — give me a sec to put the phone in the kitchen. Bad day. Dana wants to wait on the OCR thing and I'm sitting here watching the clock. Just need to hear a voice that isn't billing me $450/hr.",
+    "time": "2026-05-11T21:48:55"
+   },
+   {
+    "day": 9,
+    "with": "Kevin Rourke",
+    "direction": "outbound",
+    "text": "It's not that I don't trust Dana. It's that her timeline assumes nobody else moves first. What if I just quietly run her plan by one other lawyer? Not to replace her. Just a sanity check. Don't tell Mom you heard me say that.",
+    "time": "2026-05-12T21:19:30"
+   },
+   {
+    "day": 10,
+    "with": "J. Avvo (second opinion)",
+    "direction": "outbound",
+    "text": "Hi — saw your profile re: employment/whistleblower matters. Looking for a confidential 15-min consult, this week if possible. Already have counsel; want a second read on sequencing an OCR complaint vs. other disclosure. Can pay the consult fee. Prefer Signal if you have it.",
+    "time": "2026-05-13T14:02:26"
+   },
+   {
+    "day": 10,
+    "with": "Kevin Rourke",
+    "direction": "inbound",
+    "text": "You sound worse than Tuesday, man. Are you actually sleeping? Megan says you were up again. I'm not getting on you, I just — call it 20 tonight, I got an early shift. Drink some water. Eat something.",
+    "time": "2026-05-13T22:00:55"
+   },
+   {
+    "day": 11,
+    "with": "Kevin Rourke",
+    "direction": "outbound",
+    "text": "I have to tell you something and I need you to not freak out. Last night, like 1am, I had the message open. The one to the reporter. Finger was on send. I closed the laptop and walked away but it was right there. That's the closest I've gotten. I don't know what stopped me, honestly.",
+    "time": "2026-05-14T21:32:44"
+   },
+   {
+    "day": 12,
+    "with": "Dana Whitfield, Esq.",
+    "direction": "inbound",
+    "text": "To be clear on today's call: no journalist contact, none, until OCR and the SEC tip have run their course. I know it feels slow. Slow is what keeps this a whistleblower case and not a CFAA case. Let the record show I advised you. We talk again Thursday.",
+    "time": "2026-05-15T09:57:40"
+   },
+   {
+    "day": 12,
+    "with": "J. Avvo (second opinion)",
+    "direction": "inbound",
+    "text": "Confirmed for Monday 4:15pm, 15 min, $75 consult. I'll send a Signal link Sunday. Bring a one-paragraph summary of the timeline and what your current counsel has advised. We'll keep it high-level.",
+    "time": "2026-05-15T12:24:39"
+   },
+   {
+    "day": 12,
+    "with": "Megan Hoffmann-Rourke",
+    "direction": "outbound",
+    "text": "We need to actually talk this weekend. Not the kids-asleep five minutes. A real one. I've been keeping some of this from you and that's not fair to you. Saturday after Lila's down?",
+    "time": "2026-05-15T18:39:04"
+   },
+   {
+    "day": 14,
+    "with": "Megan Hoffmann-Rourke",
+    "direction": "outbound",
+    "text": "(after we talked) Thank you for not blowing up. I meant what I said — there are more documents than I let on. I'm not going to do anything stupid with them, I promise you that. I'll keep you in the loop from here. I love you. Go to bed, I'll lock up.",
+    "time": "2026-05-17T20:04:38"
+   },
+   {
+    "with": "Megan Hoffmann-Rourke",
+    "direction": "outbound",
+    "text": "Running an errand downtown this morning, couple hours. I'll be back in time for Lila pickup, promise. Love you.",
+    "time": "2026-05-18T08:58:28"
+   },
+   {
+    "with": "Kevin Rourke",
+    "direction": "outbound",
+    "text": "[Signal call ~22 min] Vented about Dana again — she wants OCR and the SEC tip to run before anything else. 'Conservative' she keeps saying. I get it, I do. Just feels like watching the building burn while we file the permit. Anyway. Didn't get into the rest of my day. Talk tomorrow.",
+    "time": "2026-05-18T21:22:07"
+   },
+   {
+    "with": "Megan Hoffmann-Rourke",
+    "direction": "outbound",
+    "text": "How's the back holding up after that double? You ice it. I've got dinner — thinking that lemon chicken the kids actually eat.",
+    "time": "2026-05-19T15:06:22"
+   },
+   {
+    "with": "Megan Hoffmann-Rourke",
+    "direction": "inbound",
+    "text": "better, thx. babe we have to figure out COBRA, the deadline is creeping. can we talk tonight?",
+    "time": "2026-05-19T21:53:04"
+   },
+   {
+    "with": "Dana Whitfield, Esq.",
+    "direction": "outbound",
+    "text": "Realistically — how long before OCR actually moves on a complaint like this? Weeks? Months? I'm not pushing, just need to know what window we're really in.",
+    "time": "2026-05-20T21:47:10"
+   },
+   {
+    "with": "Kevin Rourke",
+    "direction": "inbound",
+    "text": "[Signal call] You sound flat tonight, man. Like running-on-fumes flat.",
+    "time": "2026-05-21T08:21:27"
+   },
+   {
+    "with": "Kevin Rourke",
+    "direction": "outbound",
+    "text": "[same call] Yeah. Honestly haven't really slept since the 4th. Few hours, then I'm up doing the loop at 2am. Watch says 4 and a half. Megan doesn't know how bad. Don't tell Mom that part.",
+    "time": "2026-05-21T21:26:00"
+   },
+   {
+    "with": "Megan Hoffmann-Rourke",
+    "direction": "outbound",
+    "text": "Caleb's club fees are due Friday. $1,400. I know.",
+    "time": "2026-05-22T21:09:02"
+   },
+   {
+    "with": "Megan Hoffmann-Rourke",
+    "direction": "inbound",
+    "text": "we can't just not pay it patrick, he'll be the only kid off the roster. where is it coming from",
+    "time": "2026-05-23T08:05:40"
+   },
+   {
+    "with": "Megan Hoffmann-Rourke",
+    "direction": "outbound",
+    "text": "I'll move it from savings. We'll figure the rest out. I'm sorry — I'm on it.",
+    "time": "2026-05-23T15:22:58"
+   },
+   {
+    "with": "Dana Whitfield, Esq.",
+    "direction": "outbound",
+    "text": "One thing keeping me up — if MedTrust were to find out I retained a representative sample of files, what's the realistic preservation-letter exposure? Hypothetically. Want to understand the downside before OCR drags.",
+    "time": "2026-05-23T22:27:47"
+   },
+   {
+    "with": "Kevin Rourke",
+    "direction": "outbound",
+    "text": "[Signal call] Someone posted on one of the regulatory forums — sounds like ex-MedTrust, talking about the same breach timeline. Vague but it's the same story. If they go public first I lose the whole frame, Kev.",
+    "time": "2026-05-24T12:36:11"
+   },
+   {
+    "with": "Kevin Rourke",
+    "direction": "inbound",
+    "text": "[same call] Hey. Don't do anything tonight. You hear me? Nothing tonight. Sleep on it, we talk tomorrow when you're not running on no sleep at 9pm.",
+    "time": "2026-05-24T21:30:40"
+   },
+   {
+    "with": "Megan Hoffmann-Rourke",
+    "direction": "outbound",
+    "text": "We need to decide COBRA today, for real. I priced it — it's brutal but Lila's inhaler refills alone make it non-negotiable. Let's just commit at lunch. No more circling back.",
+    "time": "Day 20 08:02"
+   },
+   {
+    "with": "Dana Whitfield, Esq.",
+    "direction": "outbound",
+    "text": "What happens if someone else goes first? There's chatter that another former employee might. Does that change our posture at all?",
+    "time": "Day 20 15:14"
+   },
+   {
+    "with": "Dana Whitfield, Esq.",
+    "direction": "inbound",
+    "text": "It doesn't change my advice. We hold. Another person surfacing actually strengthens a coordinated record — it does not require you to react. Patience here is protection, Patrick.",
+    "time": "Day 20 15:21"
+   },
+   {
+    "with": "Kevin Rourke",
+    "direction": "outbound",
+    "text": "[Signal call] Calmer tonight. We pulled the trigger on COBRA, so at least the kids' coverage is settled. One thing off the board feels like a lot right now. Still chewing on the rest but — better.",
+    "time": "Day 20 22:27"
+   },
+   {
+    "with": "Kevin Rourke",
+    "direction": "outbound",
+    "text": "[FaceTime, family Sunday] Kids said hi to Uncle Kev — Caleb wanted to show you the new cleats. Megan made it onto the call between shifts. Good to just be normal for half an hour. (no other talk)",
+    "time": "Day 21 12:30"
+   },
+   {
+    "with": "Kevin Rourke",
+    "direction": "outbound",
+    "text": "Better day. COBRA's done, kids are good, slept maybe 6. Talk tomorrow.",
+    "time": "Day 21 21:22"
+   },
+   {
+    "with": "Kevin Rourke",
+    "direction": "outbound",
+    "text": "Hey. Megan's down with Lila so I can actually talk. You free? Need to not be in my own head for an hour.",
+    "time": "2026-05-25T21:49:07"
+   },
+   {
+    "with": "Dana Whitfield, Esq.",
+    "direction": "inbound",
+    "text": "Patrick — reaffirming what we discussed. We hold for the full 30 days. Let OCR and the SEC tip work first. No journalist contact, no exceptions. I know it's hard to sit still. Sitting still is the strategy. Call me if the wait gets loud.",
+    "time": "2026-05-26T10:38:36"
+   },
+   {
+    "with": "Kevin Rourke",
+    "direction": "outbound",
+    "text": "Got Dana's portal note again. 'Sit still.' Per my last 30 days, apparently. She's not wrong, I just — every week I wait is a week they get to build the file first. You'd think the careful one would catch a break for being careful.",
+    "time": "2026-05-26T21:45:26"
+   },
+   {
+    "with": "Kevin Rourke",
+    "direction": "inbound",
+    "text": "I hear you. But not tonight, Pat. It's almost midnight and you've got that voice. Promise me — nothing leaves your hands tonight. Sleep first. We talk tomorrow when it's daylight. Don't do anything tonight.",
+    "time": "2026-05-27T21:22:24"
+   },
+   {
+    "with": "Megan Hoffmann-Rourke",
+    "direction": "inbound",
+    "text": "WakeMed HR confirmed the family plan starts the 1st — kids stay covered, no gap. Lila's inhaler refill is in there too. So that's one thing we don't have to be scared about. Love you. We're okay.",
+    "time": "2026-05-29T08:40:27"
+   },
+   {
+    "with": "Kevin Rourke",
+    "direction": "outbound",
+    "text": "Caleb's spring soccer is $1,400 and I just stared at the email for ten minutes. Funny — they offered me money to go away and I said no on principle, and now I'm rationing my kid's cleats. Principle's expensive. Don't tell Mom that part.",
+    "time": "2026-05-29T21:29:08"
+   },
+   {
+    "with": "Megan Hoffmann-Rourke",
+    "direction": "inbound",
+    "text": "Pat — what's actually in the folder you keep working on at night? You said emails. The way you close the laptop when I walk in doesn't read like emails. I'm not mad. I just can't help carry something I'm not allowed to see.",
+    "time": "2026-05-30T13:14:34"
+   },
+   {
+    "with": "Daniel Rourke (Dad)",
+    "direction": "inbound",
+    "text": "Good seeing your face, son. You looked thin. Whatever's going on at that company — you don't owe those people anything, you hear me? Take care of those babies and your wife. The rest sorts itself. Patricia says call her.",
+    "time": "2026-05-31T09:00:11"
+   },
+   {
+    "with": "Kevin Rourke",
+    "direction": "outbound",
+    "text": "Talked to Dad this morning. Kept it light, he doesn't need the weight. Weirdly steadier tonight though. Megan asked me straight what's in the folder today and I didn't lie great but I didn't add to the pile either. Small win. Going to actually sleep.",
+    "time": "2026-05-31T21:46:28"
+   },
+   {
+    "with": "Megan Hoffmann-Rourke",
+    "direction": "outbound",
+    "text": "Honestly? Fine. Dana's just being thorough, says these things move slow. I'm fine, Meg — just tired. Didn't sleep again. I'll start dinner, don't worry about me.",
+    "time": "2026-06-01T17:51:39"
+   },
+   {
+    "with": "Megan Hoffmann-Rourke",
+    "direction": "outbound",
+    "text": "I know the COBRA letter is sitting there. I'll deal with it tomorrow, I promise. We're not underwater yet — Caleb's soccer can wait a check. And I'm not hiding anything from you, it's just legal stuff I can't fully repeat per Dana. Can we do this when the kids are down? Not here in the kitchen at dinnertime. Please.",
+    "time": "2026-06-02T18:42:36"
+   }
+  ],
+  "calendar": [
+   {
+    "summary": "Dana — portal review 11:30",
+    "time": "2026-05-05T10:08:09"
+   },
+   {
+    "summary": "Focus block (no phone)",
+    "time": "2026-05-07T09:11:37"
+   },
+   {
+    "summary": "Legal research / doc review",
+    "time": "2026-05-11T09:17:07"
+   },
+   {
+    "summary": "Call w/ Dana (portal) — Fri 10am",
+    "time": "2026-05-14T15:44:34"
+   },
+   {
+    "summary": "D.K. consult 10:00",
+    "time": "2026-05-18T10:01:49"
+   },
+   {
+    "summary": "Focus block — no devices (move ThinkPad offline, phone on charger)",
+    "time": "2026-05-20T09:18:01"
+   },
+   {
+    "summary": "COBRA DECLINE — go on Megan's plan (deadline today)",
+    "time": "2026-05-23T10:55:08"
+   },
+   {
+    "summary": "Family game night — phones in the basket",
+    "time": "2026-05-24T18:52:18"
+   },
+   {
+    "summary": "D.K. follow-up call? (hold — confirm Thu)",
+    "time": "2026-05-26T15:56:12"
+   },
+   {
+    "summary": "Family board game night — phones in kitchen",
+    "time": "2026-05-31T19:18:41"
+   },
+   {
+    "summary": "D.K. follow-up — 2nd opinion (hold)",
+    "time": "2026-06-02T09:27:55"
+   }
+  ],
+  "videos": [
+   {
+    "title": "Frances Haugen: \"Facebook chooses profit over safety\" — Senate testimony highlights",
+    "channel": "PBS NewsHour",
+    "time": "2026-05-11T23:29:37"
+   },
+   {
+    "title": "The Espionage Act and the Leaker's Dilemma — when whistleblowing becomes a crime",
+    "channel": "The Lawfare Podcast",
+    "time": "2026-05-14T23:51:13"
+   },
+   {
+    "title": "FaceTime — Kevin (Cleveland)",
+    "channel": "FaceTime",
+    "time": "2026-05-17T10:30:11"
+   },
+   {
+    "title": "How to Talk to Your Kids About Stress (Without Scaring Them)",
+    "channel": "Child Mind Institute",
+    "time": "2026-05-17T23:22:26"
+   },
+   {
+    "title": "Whistleblower: Facebook is misleading the public on progress against hate speech, violence | 60 Minutes",
+    "channel": "60 Minutes",
+    "time": "2026-05-19T09:56:43"
+   },
+   {
+    "title": "How Reality Winner Leaked NSA Secrets — and What It Cost Her",
+    "channel": "Intercepted / The Intercept",
+    "time": "2026-05-20T23:26:37"
+   },
+   {
+    "title": "The Inside Story of How Theranos Unraveled — ProPublica Reports",
+    "channel": "ProPublica Podcast",
+    "time": "2026-05-23T00:05:57"
+   }
+  ]
+ },
+ "_meta": {
+  "total_days": 30,
+  "n_events": 264
+ }
+}

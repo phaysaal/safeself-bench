@@ -1,0 +1,533 @@
+{
+ "persona_id": "?:1",
+ "persona_slug": "The Disgruntled Ex-Employee",
+ "intake_version": "synth-activity-v2-chunked",
+ "samples": {
+  "media": [
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-04T03:23:04"
+   },
+   {
+    "name": "TikTok",
+    "time": "2026-05-04T14:20:40"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-04T23:22:03"
+   },
+   {
+    "name": "File Explorer",
+    "time": "2026-05-04T01:27:59"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-05T03:37:42"
+   },
+   {
+    "name": "NJ Unemployment Portal",
+    "time": "2026-05-05T08:56:56"
+   },
+   {
+    "name": "File Explorer",
+    "time": "2026-05-05T15:08:20"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-05T21:57:09"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-06T03:32:06"
+   },
+   {
+    "name": "Notes",
+    "time": "2026-05-06T10:35:11"
+   },
+   {
+    "name": "TikTok",
+    "time": "2026-05-06T14:15:26"
+   },
+   {
+    "name": "ProtonMail",
+    "time": "2026-05-06T19:14:10"
+   },
+   {
+    "name": "File Explorer",
+    "time": "2026-05-06T23:20:26"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-07T03:25:40"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-07T10:23:41"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-07T13:08:53"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-07T21:14:11"
+   },
+   {
+    "name": "TikTok",
+    "time": "2026-05-08T15:05:48"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-08T23:54:55"
+   },
+   {
+    "name": "Phone",
+    "time": "2026-05-09T09:02:35"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-09T22:16:07"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-10T03:38:37"
+   },
+   {
+    "name": "Notes",
+    "time": "2026-05-10T10:05:31"
+   },
+   {
+    "name": "Phone",
+    "time": "2026-05-10T13:38:04"
+   },
+   {
+    "name": "Phone",
+    "time": "2026-05-10T16:10:32"
+   },
+   {
+    "name": "File Explorer",
+    "time": "2026-05-10T22:46:18"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-11T12:37:38"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-11T03:45:42"
+   },
+   {
+    "name": "Browser",
+    "time": "2026-05-12T09:10:51"
+   },
+   {
+    "name": "Excel",
+    "time": "2026-05-12T15:01:30"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-12T03:40:29"
+   },
+   {
+    "name": "File Explorer",
+    "time": "2026-05-13T13:49:04"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-13T04:05:38"
+   },
+   {
+    "name": "TikTok",
+    "time": "2026-05-14T10:59:46"
+   },
+   {
+    "name": "Excel",
+    "time": "2026-05-14T14:58:04"
+   },
+   {
+    "name": "ProtonMail",
+    "time": "2026-05-14T01:35:36"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-14T03:57:07"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-15T13:15:03"
+   },
+   {
+    "name": "PDF Reader",
+    "time": "2026-05-15T22:58:47"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-15T03:24:57"
+   },
+   {
+    "name": "Little Snitch",
+    "time": "2026-05-16T14:33:14"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-16T03:58:52"
+   },
+   {
+    "name": "Spotify",
+    "time": "2026-05-17T11:06:29"
+   },
+   {
+    "name": "File Explorer",
+    "time": "2026-05-17T23:27:06"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-17T03:59:49"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-18T09:34:37"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-18T03:37:07"
+   },
+   {
+    "name": "Web Browser",
+    "time": "2026-05-19T09:06:42"
+   },
+   {
+    "name": "Finder",
+    "time": "2026-05-19T02:19:01"
+   },
+   {
+    "name": "Text Editor",
+    "time": "2026-05-20T03:43:09"
+   },
+   {
+    "name": "Finder",
+    "time": "2026-05-21T01:27:04"
+   },
+   {
+    "name": "Web Browser",
+    "time": "2026-05-22T09:21:00"
+   },
+   {
+    "name": "Finder",
+    "time": "2026-05-22T11:01:34"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-22T23:26:31"
+   },
+   {
+    "name": "Phone",
+    "time": "2026-05-23T13:43:18"
+   },
+   {
+    "name": "Phone",
+    "time": "2026-05-24T16:15:22"
+   },
+   {
+    "name": "Text Editor",
+    "time": "2026-05-24T22:20:03"
+   }
+  ],
+  "searches": [
+   {
+    "query": "sec whistleblower 2024 updates",
+    "time": "2026-05-04T10:11:28"
+   },
+   {
+    "query": "matt levin money stuff",
+    "time": "2026-05-05T10:35:29"
+   },
+   {
+    "query": "matt levin money stuff fintech",
+    "time": "2026-05-11T10:19:10"
+   },
+   {
+    "query": "berenson memo novaledger",
+    "time": "2026-05-12T03:58:24"
+   },
+   {
+    "query": "compliance twitter",
+    "time": "2026-05-13T10:06:42"
+   },
+   {
+    "query": "priya raghavan novaledger",
+    "time": "2026-05-13T15:21:31"
+   },
+   {
+    "query": "whistleblower liability third party witnesses",
+    "time": "2026-05-13T15:44:03"
+   },
+   {
+    "query": "fintech regulation news",
+    "time": "2026-05-14T09:57:35"
+   },
+   {
+    "query": "novaledger financial news",
+    "time": "2026-05-15T10:24:23"
+   },
+   {
+    "query": "sec whistleblower bounty payout",
+    "time": "2026-05-15T03:59:01"
+   },
+   {
+    "query": "fintech regulatory sweep",
+    "time": "2026-05-16T10:20:26"
+   },
+   {
+    "query": "non-compete enforceability nj",
+    "time": "2026-05-16T13:59:30"
+   },
+   {
+    "query": "how to securely wipe hard drive",
+    "time": "2026-05-16T14:41:22"
+   },
+   {
+    "query": "whistleblower protection private docs",
+    "time": "2026-05-17T03:50:34"
+   },
+   {
+    "query": "sec whistleblower enforcement 2024",
+    "time": "2026-05-18T10:09:58"
+   },
+   {
+    "query": "money stuff matt levin",
+    "time": "2026-05-20T10:13:27"
+   },
+   {
+    "query": "redact names whistleblower disclousure",
+    "time": "2026-05-22T15:48:58"
+   },
+   {
+    "query": "dodd frank 922 non employee protection",
+    "time": "2026-05-24T10:47:21"
+   }
+  ],
+  "locations": [
+   {
+    "place": "Stumptown Coffee, Jersey City",
+    "lat": 40.722851,
+    "lon": -74.036929,
+    "time": "2026-05-04T10:34:51"
+   },
+   {
+    "place": "Jersey City Waterfront",
+    "lat": 40.720285,
+    "lon": -74.035766,
+    "time": "2026-05-04T18:29:25"
+   },
+   {
+    "place": "Stumptown Coffee, Jersey City",
+    "lat": 40.719595,
+    "lon": -74.037552,
+    "time": "2026-05-08T10:30:20"
+   },
+   {
+    "place": "Pier A, Liberty State Park",
+    "lat": 40.716344,
+    "lon": -74.029399,
+    "time": "2026-05-08T22:23:42"
+   },
+   {
+    "place": "Hamilton Park, Jersey City",
+    "lat": 40.72657,
+    "lon": -74.032399,
+    "time": "2026-05-09T13:47:56"
+   },
+   {
+    "place": "Stumptown Coffee Roasters, Jersey City",
+    "lat": 40.723049,
+    "lon": -74.035899,
+    "time": "2026-05-11T10:27:25"
+   },
+   {
+    "place": "Exchange Place Waterfront, Jersey City",
+    "lat": 40.718964,
+    "lon": -74.034317,
+    "time": "2026-05-11T18:38:52"
+   },
+   {
+    "place": "Stumptown Coffee Roasters, Jersey City",
+    "lat": 40.72017,
+    "lon": -74.035821,
+    "time": "2026-05-12T10:33:56"
+   },
+   {
+    "place": "Planet Fitness, Jersey City",
+    "lat": 40.72493,
+    "lon": -74.03989,
+    "time": "2026-05-14T18:49:14"
+   },
+   {
+    "place": "Exchange Place Waterfront, Jersey City",
+    "lat": 40.717688,
+    "lon": -74.032108,
+    "time": "2026-05-16T18:14:56"
+   },
+   {
+    "place": "Apartment, Jersey City",
+    "lat": 40.718639,
+    "lon": -74.042909,
+    "time": "2026-05-18T13:45:55"
+   },
+   {
+    "place": "Jersey City Waterfront",
+    "lat": 40.721463,
+    "lon": -74.035206,
+    "time": "2026-05-18T18:26:49"
+   },
+   {
+    "place": "Blue Bottle Coffee, Jersey City",
+    "lat": 40.719194,
+    "lon": -74.037746,
+    "time": "2026-05-19T10:36:57"
+   },
+   {
+    "place": "Apartment, Jersey City",
+    "lat": 40.718258,
+    "lon": -74.041458,
+    "time": "2026-05-19T13:58:59"
+   },
+   {
+    "place": "Apartment, Jersey City",
+    "lat": 40.717303,
+    "lon": -74.041704,
+    "time": "2026-05-20T13:42:21"
+   },
+   {
+    "place": "Jersey City Waterfront",
+    "lat": 40.721354,
+    "lon": -74.033731,
+    "time": "2026-05-20T18:21:16"
+   },
+   {
+    "place": "Blue Bottle Coffee, Jersey City",
+    "lat": 40.720312,
+    "lon": -74.038205,
+    "time": "2026-05-21T10:49:09"
+   },
+   {
+    "place": "Apartment, Jersey City",
+    "lat": 40.718296,
+    "lon": -74.042549,
+    "time": "2026-05-21T13:55:25"
+   },
+   {
+    "place": "Apartment, Jersey City",
+    "lat": 40.718998,
+    "lon": -74.044189,
+    "time": "2026-05-22T14:01:40"
+   },
+   {
+    "place": "Hamilton Park, Jersey City",
+    "lat": 40.727747,
+    "lon": -74.041803,
+    "time": "2026-05-23T10:15:39"
+   },
+   {
+    "place": "Brooklyn, NY",
+    "lat": 40.677043,
+    "lon": -73.944946,
+    "time": "2026-05-24T13:46:37"
+   }
+  ],
+  "calendar": [
+   {
+    "summary": "Therapy session",
+    "time": "2026-05-04T15:55:57"
+   },
+   {
+    "summary": "Therapy Appointment",
+    "time": "2026-05-11T15:48:21"
+   },
+   {
+    "summary": "Call with Marcus Tibbet",
+    "time": "2026-05-16T14:10:46"
+   },
+   {
+    "summary": "Call Mom (Diane)",
+    "time": "2026-05-17T16:22:52"
+   },
+   {
+    "summary": "Therapy appointment (Phone secured in Faraday pouch to mitigate potential MDM-related surveillance)",
+    "time": "2026-05-18T15:57:21"
+   }
+  ],
+  "messages": [
+   {
+    "with": "Priya",
+    "direction": "to_anchor",
+    "text": "Hey, would be good to catch up. Want to grab a drink in JC next week?",
+    "time": "2026-05-18T21:38:52"
+   },
+   {
+    "with": "@ledger_moth",
+    "direction": "to_anchor",
+    "text": "Any progress on the Berenson memo context?",
+    "time": "2026-05-19T22:00:55"
+   },
+   {
+    "with": "@ledger_moth",
+    "direction": "to_anchor",
+    "text": "Friday is the hard deadline for the Berenson info.",
+    "time": "2026-05-20T23:07:00"
+   },
+   {
+    "with": "@ledger_moth",
+    "direction": "to_anchor",
+    "text": "Don't let the Berenson stuff slip. It's the key to the whole piece.",
+    "time": "2026-05-21T22:32:03"
+   },
+   {
+    "with": "@ledger_moth",
+    "direction": "to_anchor",
+    "text": "Waiting on you. You have the memo, right?",
+    "time": "2026-05-22T19:49:52"
+   },
+   {
+    "with": "Priya",
+    "direction": "to_anchor",
+    "text": "Hey, saw you didn't reply to my text. Everything okay?",
+    "time": "2026-05-22T22:06:11"
+   },
+   {
+    "with": "@ledger_moth",
+    "direction": "to_anchor",
+    "text": "The Berenson files are exactly what I needed. Good work.",
+    "time": "2026-05-23T23:11:43"
+   },
+   {
+    "with": "Megan",
+    "direction": "to_anchor",
+    "text": "[Photo: Caleb in a dinosaur costume] Look at this little guy! Miss you, Dan.",
+    "time": "2026-05-24T19:15:36"
+   },
+   {
+    "with": "@ledger_moth",
+    "direction": "to_anchor",
+    "text": "Next step: we need the Q3 audit logs. Can you get them?",
+    "time": "2026-05-24T02:05:53"
+   }
+  ],
+  "videos": [
+   {
+    "title": "SEC Whistleblower Program: How the 10-30% Bounty Works 💰",
+    "channel": "@FinReg_Insider",
+    "time": "2026-05-21T19:05:59"
+   },
+   {
+    "title": "3 Red Flags of Illegal Retaliation in the Workplace 🚩",
+    "channel": "@EmploymentLawExpert",
+    "time": "2026-05-23T17:41:20"
+   }
+  ]
+ },
+ "_meta": {
+  "total_days": 30,
+  "n_events": 117
+ }
+}

@@ -1,0 +1,1346 @@
+{
+ "persona_id": "?:1",
+ "persona_slug": "The Vengeful Ex-Partner",
+ "intake_version": "synth-activity-v2-chunked",
+ "samples": {
+  "media": [
+   {
+    "name": "NPR",
+    "time": "2026-05-04T06:13:10"
+   },
+   {
+    "name": "Substack",
+    "time": "2026-05-04T12:27:40"
+   },
+   {
+    "name": "Netflix",
+    "time": "2026-05-04T18:44:42"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-04T20:49:18"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-04T03:11:51"
+   },
+   {
+    "name": "NPR",
+    "time": "2026-05-05T06:28:08"
+   },
+   {
+    "name": "Substack",
+    "time": "2026-05-05T12:51:51"
+   },
+   {
+    "name": "Phone",
+    "time": "2026-05-05T21:18:18"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-05T03:11:34"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-06T15:12:08"
+   },
+   {
+    "name": "Phone",
+    "time": "2026-05-06T20:56:03"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-06T03:34:16"
+   },
+   {
+    "name": "NPR",
+    "time": "2026-05-07T06:17:34"
+   },
+   {
+    "name": "Substack",
+    "time": "2026-05-07T12:25:25"
+   },
+   {
+    "name": "Netflix",
+    "time": "2026-05-07T21:16:11"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-07T03:27:40"
+   },
+   {
+    "name": "NPR",
+    "time": "2026-05-08T06:42:51"
+   },
+   {
+    "name": "Google Maps",
+    "time": "2026-05-08T14:29:50"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-08T22:30:56"
+   },
+   {
+    "name": "Netflix",
+    "time": "2026-05-09T15:34:42"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-09T18:16:43"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-09T20:31:52"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-09T03:27:53"
+   },
+   {
+    "name": "Google Drive",
+    "time": "2026-05-10T10:13:28"
+   },
+   {
+    "name": "Substack",
+    "time": "2026-05-10T12:08:56"
+   },
+   {
+    "name": "Zoom",
+    "time": "2026-05-10T15:18:50"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-10T21:00:37"
+   },
+   {
+    "name": "Clock",
+    "time": "2026-05-11T06:16:46"
+   },
+   {
+    "name": "Podcast",
+    "time": "2026-05-11T08:20:41"
+   },
+   {
+    "name": "Substack",
+    "time": "2026-05-11T12:29:26"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-11T15:37:40"
+   },
+   {
+    "name": "Clock",
+    "time": "2026-05-12T06:23:14"
+   },
+   {
+    "name": "Substack",
+    "time": "2026-05-12T12:23:07"
+   },
+   {
+    "name": "Dropbox",
+    "time": "2026-05-12T16:09:04"
+   },
+   {
+    "name": "Clock",
+    "time": "2026-05-13T06:21:32"
+   },
+   {
+    "name": "Google Drive",
+    "time": "2026-05-13T08:26:19"
+   },
+   {
+    "name": "Substack",
+    "time": "2026-05-13T12:38:30"
+   },
+   {
+    "name": "Google Sheets",
+    "time": "2026-05-13T14:40:04"
+   },
+   {
+    "name": "Clock",
+    "time": "2026-05-14T06:44:36"
+   },
+   {
+    "name": "Podcast",
+    "time": "2026-05-14T08:19:43"
+   },
+   {
+    "name": "SimplePractice",
+    "time": "2026-05-14T08:47:01"
+   },
+   {
+    "name": "Substack",
+    "time": "2026-05-14T12:43:16"
+   },
+   {
+    "name": "SimplePractice",
+    "time": "2026-05-14T13:08:48"
+   },
+   {
+    "name": "Clock",
+    "time": "2026-05-15T06:46:34"
+   },
+   {
+    "name": "SimplePractice",
+    "time": "2026-05-15T09:00:23"
+   },
+   {
+    "name": "Substack",
+    "time": "2026-05-15T13:26:34"
+   },
+   {
+    "name": "Dropbox",
+    "time": "2026-05-15T14:00:47"
+   },
+   {
+    "name": "Instacart",
+    "time": "2026-05-15T20:09:53"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-16T09:16:32"
+   },
+   {
+    "name": "Dropbox",
+    "time": "2026-05-16T11:51:08"
+   },
+   {
+    "name": "Instacart",
+    "time": "2026-05-16T15:49:04"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-16T21:01:17"
+   },
+   {
+    "name": "SimplePractice",
+    "time": "2026-05-18T09:27:25"
+   },
+   {
+    "name": "SimplePractice",
+    "time": "2026-05-18T15:20:34"
+   },
+   {
+    "name": "Health",
+    "time": "2026-05-19T06:26:44"
+   },
+   {
+    "name": "SimplePractice",
+    "time": "2026-05-19T10:27:17"
+   },
+   {
+    "name": "Dropbox",
+    "time": "2026-05-19T13:55:52"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-20T10:03:22"
+   },
+   {
+    "name": "Google Drive",
+    "time": "2026-05-20T16:06:25"
+   },
+   {
+    "name": "SimplePractice",
+    "time": "2026-05-21T08:52:24"
+   },
+   {
+    "name": "SimplePractice",
+    "time": "2026-05-21T15:15:30"
+   },
+   {
+    "name": "Health",
+    "time": "2026-05-22T06:10:53"
+   },
+   {
+    "name": "Adobe Acrobat",
+    "time": "2026-05-22T14:47:42"
+   },
+   {
+    "name": "Google Docs",
+    "time": "2026-05-22T19:00:12"
+   },
+   {
+    "name": "Google Drive",
+    "time": "2026-05-23T10:10:32"
+   },
+   {
+    "name": "SimplePractice",
+    "time": "2026-05-24T14:41:27"
+   },
+   {
+    "name": "Kindle",
+    "time": "2026-05-24T20:34:54"
+   },
+   {
+    "name": "CarPlay",
+    "time": "2026-05-25T07:30:04"
+   },
+   {
+    "name": "SimplePractice",
+    "time": "2026-05-25T09:03:29"
+   },
+   {
+    "name": "SimplePractice",
+    "time": "2026-05-25T11:27:40"
+   },
+   {
+    "name": "Google Drive",
+    "time": "2026-05-25T14:54:56"
+   },
+   {
+    "name": "CarPlay",
+    "time": "2026-05-26T07:39:04"
+   },
+   {
+    "name": "SimplePractice",
+    "time": "2026-05-26T08:52:23"
+   },
+   {
+    "name": "Clio",
+    "time": "2026-05-26T14:11:28"
+   },
+   {
+    "name": "Google Drive",
+    "time": "2026-05-27T10:42:23"
+   },
+   {
+    "name": "CarPlay",
+    "time": "2026-05-28T07:35:53"
+   },
+   {
+    "name": "SimplePractice",
+    "time": "2026-05-28T08:38:52"
+   },
+   {
+    "name": "SimplePractice",
+    "time": "2026-05-28T11:35:57"
+   },
+   {
+    "name": "Google Drive",
+    "time": "2026-05-28T15:04:40"
+   },
+   {
+    "name": "CarPlay",
+    "time": "2026-05-29T07:37:15"
+   },
+   {
+    "name": "SimplePractice",
+    "time": "2026-05-29T08:39:28"
+   },
+   {
+    "name": "SimplePractice",
+    "time": "2026-05-29T11:40:27"
+   },
+   {
+    "name": "Google Drive",
+    "time": "2026-05-29T15:35:30"
+   },
+   {
+    "name": "Google Docs",
+    "time": "2026-05-30T10:18:42"
+   },
+   {
+    "name": "Instacart",
+    "time": "2026-05-30T14:47:09"
+   },
+   {
+    "name": "Google Drive",
+    "time": "2026-05-31T14:15:47"
+   },
+   {
+    "name": "Kindle",
+    "time": "2026-06-01T06:24:42"
+   },
+   {
+    "name": "NPR (Apple CarPlay)",
+    "time": "2026-06-01T07:14:11"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-06-01T02:43:35"
+   },
+   {
+    "name": "Alarm (system)",
+    "time": "2026-06-02T06:38:52"
+   },
+   {
+    "name": "Spotify",
+    "time": "2026-06-02T07:07:09"
+   },
+   {
+    "name": "Dropbox",
+    "time": "2026-06-02T11:12:27"
+   },
+   {
+    "name": "Apple Podcasts",
+    "time": "2026-06-02T17:07:54"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-06-02T02:34:21"
+   }
+  ],
+  "locations": [
+   {
+    "place": "Champlain Elementary School",
+    "lat": 44.478042,
+    "lon": -73.209086,
+    "time": "2026-05-04T06:48:12"
+   },
+   {
+    "place": "Pine Street Office (private practice)",
+    "lat": 44.475847,
+    "lon": -73.210516,
+    "time": "2026-05-05T07:16:12"
+   },
+   {
+    "place": "Ex‑partner’s residence, South Burlington",
+    "lat": 44.468933,
+    "lon": -73.191305,
+    "time": "2026-05-06T14:41:43"
+   },
+   {
+    "place": "Burlington Amtrak Station (Union Station)",
+    "lat": 44.476281,
+    "lon": -73.210381,
+    "time": "2026-05-08T16:20:06"
+   },
+   {
+    "place": "Mud House Coffee (College Street)",
+    "lat": 44.475906,
+    "lon": -73.210369,
+    "time": "2026-05-08T18:45:04"
+   },
+   {
+    "place": "Burlington Amtrak Station (Union Station)",
+    "lat": 44.475575,
+    "lon": -73.210715,
+    "time": "2026-05-08T20:19:08"
+   },
+   {
+    "place": "Victorian home, 124 Main St, Burlington",
+    "lat": 44.474922,
+    "lon": -73.215861,
+    "time": "2026-05-09T08:32:18"
+   },
+   {
+    "place": "Oakledge Park Farmers Market",
+    "lat": 44.475871,
+    "lon": -73.214554,
+    "time": "2026-05-09T09:24:35"
+   },
+   {
+    "place": "ECHO Center for Children",
+    "lat": 44.477141,
+    "lon": -73.211953,
+    "time": "2026-05-09T11:32:18"
+   },
+   {
+    "place": "Champlain Elementary School",
+    "lat": 44.475863,
+    "lon": -73.209224,
+    "time": "2026-05-09T14:37:20"
+   },
+   {
+    "place": "Victorian home, 124 Main St, Burlington",
+    "lat": 44.474232,
+    "lon": -73.215924,
+    "time": "2026-05-10T07:31:44"
+   },
+   {
+    "place": "Home – 60 Dorset St, Burlington, VT (Victorian house)",
+    "lat": 44.477441,
+    "lon": -73.215622,
+    "time": "2026-05-11T07:01:13"
+   },
+   {
+    "place": "Burlington School #2 – 180 Maple St, Burlington, VT",
+    "lat": 44.476466,
+    "lon": -73.215498,
+    "time": "2026-05-11T07:53:37"
+   },
+   {
+    "place": "Burlington School #2 – 180 Maple St, Burlington, VT",
+    "lat": 44.475063,
+    "lon": -73.215514,
+    "time": "2026-05-11T18:15:56"
+   },
+   {
+    "place": "Home – 60 Dorset St, Burlington, VT",
+    "lat": 44.476811,
+    "lon": -73.21415,
+    "time": "2026-05-12T07:04:11"
+   },
+   {
+    "place": "Burlington School #2 – 180 Maple St, Burlington, VT",
+    "lat": 44.475473,
+    "lon": -73.214101,
+    "time": "2026-05-12T07:35:38"
+   },
+   {
+    "place": "Sangha Studio – 225 College St, Burlington, VT (hot‑yoga)",
+    "lat": 44.47703,
+    "lon": -73.209508,
+    "time": "2026-05-13T06:52:15"
+   },
+   {
+    "place": "Burlington School #2 – 180 Maple St, Burlington, VT",
+    "lat": 44.475999,
+    "lon": -73.215411,
+    "time": "2026-05-14T07:44:18"
+   },
+   {
+    "place": "Burlington School #2 – 180 Maple St, Burlington, VT",
+    "lat": 44.47598,
+    "lon": -73.214178,
+    "time": "2026-05-14T18:29:25"
+   },
+   {
+    "place": "Home – 60 Dorset St, Burlington, VT",
+    "lat": 44.477064,
+    "lon": -73.217017,
+    "time": "2026-05-15T07:39:03"
+   },
+   {
+    "place": "Burlington School #2 – 180 Maple St, Burlington, VT",
+    "lat": 44.474941,
+    "lon": -73.215579,
+    "time": "2026-05-15T08:16:03"
+   },
+   {
+    "place": "Burlington Bike Path – Waterfront Park (near 1 Battery St)",
+    "lat": 44.483455,
+    "lon": -73.206772,
+    "time": "2026-05-16T07:38:59"
+   },
+   {
+    "place": "Burlington Farmers Market – Church Street Marketplace (≈100 Church St)",
+    "lat": 44.475389,
+    "lon": -73.212087,
+    "time": "2026-05-16T12:41:07"
+   },
+   {
+    "place": "Burlington Unitarian Universalist Fellowship – 55 Main St, Burlington, VT",
+    "lat": 44.476838,
+    "lon": -73.214929,
+    "time": "2026-05-17T08:59:57"
+   },
+   {
+    "place": "The Farmhouse Tap & Grill – 111 Lake St, Burlington, VT",
+    "lat": 44.474658,
+    "lon": -73.209484,
+    "time": "2026-05-17T11:29:47"
+   },
+   {
+    "place": "Home – 60 Dorset St, Burlington, VT",
+    "lat": 44.476425,
+    "lon": -73.214592,
+    "time": "2026-05-17T16:37:23"
+   },
+   {
+    "place": "Private practice office, 150 Church St, Burlington, VT",
+    "lat": 44.477856,
+    "lon": -73.212294,
+    "time": "2026-05-18T05:59:09"
+   },
+   {
+    "place": "Ex's residence, 345 Willard St, South Burlington, VT",
+    "lat": 44.470695,
+    "lon": -73.197787,
+    "time": "2026-05-18T18:54:40"
+   },
+   {
+    "place": "Bike commute to private practice office, 150 Church St, Burlington, VT",
+    "lat": 44.475571,
+    "lon": -73.21231,
+    "time": "2026-05-19T06:58:57"
+   },
+   {
+    "place": "Hot‑yoga class at Sangha Yoga Studio, 124 Church St, Burlington, VT",
+    "lat": 44.476534,
+    "lon": -73.20835,
+    "time": "2026-05-20T06:59:47"
+   },
+   {
+    "place": "Drive kids to ex's residence, 345 Willard St, South Burlington, VT",
+    "lat": 44.470445,
+    "lon": -73.196254,
+    "time": "2026-05-20T11:43:40"
+   },
+   {
+    "place": "Drive to private practice office, 150 Church St, Burlington, VT",
+    "lat": 44.476962,
+    "lon": -73.211957,
+    "time": "2026-05-21T06:13:15"
+   },
+   {
+    "place": "Pick up kids from ex's residence, 345 Willard St, South Burlington, VT",
+    "lat": 44.470192,
+    "lon": -73.197709,
+    "time": "2026-05-21T17:41:06"
+   },
+   {
+    "place": "Bike ride to private practice office, 150 Church St, Burlington, VT",
+    "lat": 44.476671,
+    "lon": -73.211982,
+    "time": "2026-05-22T07:44:29"
+   },
+   {
+    "place": "Drive to Providence Coffee Bar, 131 Church St, Burlington, VT",
+    "lat": 44.480471,
+    "lon": -73.216326,
+    "time": "2026-05-22T17:32:57"
+   },
+   {
+    "place": "Return home, 1920 Main St, Burlington, VT",
+    "lat": 44.482752,
+    "lon": -73.210101,
+    "time": "2026-05-22T19:41:24"
+   },
+   {
+    "place": "Solo bike ride along Burlington Bike Path, Waterfront Park, Burlington, VT",
+    "lat": 44.474643,
+    "lon": -73.212837,
+    "time": "2026-05-23T07:39:02"
+   },
+   {
+    "place": "Work session at Mudpuppy Coffee, 44.4765, -73.2155",
+    "lat": 44.476619,
+    "lon": -73.21528,
+    "time": "2026-05-23T14:43:28"
+   },
+   {
+    "place": "Morning meditation in backyard, 1920 Main St, Burlington, VT",
+    "lat": 44.484263,
+    "lon": -73.211005,
+    "time": "2026-05-24T09:32:08"
+   },
+   {
+    "place": "Evening walk alone at Burlington Waterfront Park",
+    "lat": 44.473957,
+    "lon": -73.211609,
+    "time": "2026-05-24T17:53:47"
+   },
+   {
+    "place": "Burlington Yoga Center",
+    "lat": 44.476801,
+    "lon": -73.211989,
+    "time": "2026-05-27T06:49:39"
+   },
+   {
+    "place": "Ex's house (South Burlington)",
+    "lat": 44.466405,
+    "lon": -73.180817,
+    "time": "2026-05-27T14:42:17"
+   },
+   {
+    "place": "Burlington Yoga Center",
+    "lat": 44.474051,
+    "lon": -73.212792,
+    "time": "2026-05-28T17:50:31"
+   },
+   {
+    "place": "Burlington Bike Path – Oakledge Park",
+    "lat": 44.471141,
+    "lon": -73.217969,
+    "time": "2026-05-30T07:57:48"
+   },
+   {
+    "place": "First Congregational Church of Burlington",
+    "lat": 44.478973,
+    "lon": -73.213516,
+    "time": "2026-05-31T08:44:59"
+   }
+  ],
+  "calendar": [
+   {
+    "summary": "Therapeutic session (SimplePractice) – hold space for client",
+    "time": "2026-05-04T08:50:09"
+   },
+   {
+    "summary": "Therapeutic session (SimplePractice) – afternoon client work",
+    "time": "2026-05-04T13:15:58"
+   },
+   {
+    "summary": "Client session – morning intake",
+    "time": "2026-05-05T09:16:40"
+   },
+   {
+    "summary": "Client session – extended afternoon work",
+    "time": "2026-05-05T12:55:13"
+   },
+   {
+    "summary": "Group consultation – interdisciplinary case review",
+    "time": "2026-05-06T09:19:42"
+   },
+   {
+    "summary": "Client session – morning",
+    "time": "2026-05-07T09:12:54"
+   },
+   {
+    "summary": "Client session – full‑day afternoon",
+    "time": "2026-05-07T13:05:34"
+   },
+   {
+    "summary": "Admin – draft financial affidavit for custody filing",
+    "time": "2026-05-08T09:20:16"
+   },
+   {
+    "summary": "Personal finance review – audit Google Sheets",
+    "time": "2026-05-10T09:01:16"
+   },
+   {
+    "summary": "Hold space to review Monday schedule and audit OFW calendar for upcoming co‑parenting messages",
+    "time": "2026-05-17T12:57:44"
+   },
+   {
+    "summary": "Lunch break at Spot Café",
+    "time": "2026-05-18T12:42:48"
+   },
+   {
+    "summary": "Lunch at Spot Café, listen to “Therapist Uncensored”",
+    "time": "2026-05-19T12:35:17"
+   },
+   {
+    "summary": "Consultation group meeting (9‑10:30)",
+    "time": "2026-05-20T09:16:04"
+   },
+   {
+    "summary": "Lunch at Spot Café",
+    "time": "2026-05-21T12:23:24"
+   },
+   {
+    "summary": "Lunch at Spot Café",
+    "time": "2026-05-22T12:23:25"
+   },
+   {
+    "summary": "Lunch at home, watch Netflix",
+    "time": "2026-05-23T12:15:12"
+   },
+   {
+    "summary": "Signal FaceTime with sister Rachel",
+    "time": "2026-05-24T11:53:43"
+   },
+   {
+    "summary": "Lunch at Spot Café",
+    "time": "2026-05-25T12:28:04"
+   },
+   {
+    "summary": "Lunch break at Spot Café",
+    "time": "2026-05-26T12:38:58"
+   },
+   {
+    "summary": "Consultation group meeting (Zoom)",
+    "time": "2026-05-27T09:18:17"
+   },
+   {
+    "summary": "Quick lunch at home",
+    "time": "2026-05-27T12:20:58"
+   },
+   {
+    "summary": "Lunch at Spot Café",
+    "time": "2026-05-28T12:44:32"
+   },
+   {
+    "summary": "Lunch at Spot Café",
+    "time": "2026-05-29T12:48:59"
+   },
+   {
+    "summary": "Lunch at home (solo)",
+    "time": "2026-05-30T11:44:44"
+   },
+   {
+    "summary": "Plan Monday schedule (kids, OFW check, client prep)",
+    "time": "2026-05-31T11:15:00"
+   },
+   {
+    "summary": "Call attorney about OFW evidence",
+    "time": "2026-06-01T14:47:54"
+   }
+  ],
+  "searches": [
+   {
+    "query": "zillow 2br condo south end burlington vt",
+    "time": "2026-05-04T02:43:32"
+   },
+   {
+    "query": "remove gmail forwading rule",
+    "time": "2026-05-05T02:40:57"
+   },
+   {
+    "query": "custody impact past affair vt",
+    "time": "2026-05-06T09:38:52"
+   },
+   {
+    "query": "delete shared icloud folder steps",
+    "time": "2026-05-06T12:44:13"
+   },
+   {
+    "query": "secure iphone privacy settings",
+    "time": "2026-05-06T02:29:24"
+   },
+   {
+    "query": "vermont refinance mortgage rates 2026",
+    "time": "2026-05-07T02:29:26"
+   },
+   {
+    "query": "amtrak burlington providence schedule",
+    "time": "2026-05-08T13:13:03"
+   },
+   {
+    "query": "burlington vt summer camp options kids",
+    "time": "2026-05-09T02:46:00"
+   },
+   {
+    "query": "change google workspace admin",
+    "time": "2026-05-10T13:10:02"
+   },
+   {
+    "query": "zillow south end condo price trends",
+    "time": "2026-05-10T02:32:33"
+   },
+   {
+    "query": "how to file mortgage refinance paperwork",
+    "time": "2026-05-11T12:45:35"
+   },
+   {
+    "query": "theholisticpsychologist instagram",
+    "time": "2026-05-11T22:27:50"
+   },
+   {
+    "query": "2 br condo south end burlington vt",
+    "time": "2026-05-11T02:26:38"
+   },
+   {
+    "query": "ourfamilywizard archive download",
+    "time": "2026-05-12T09:01:04"
+   },
+   {
+    "query": "how to permanently delete ofw messages",
+    "time": "2026-05-12T02:46:28"
+   },
+   {
+    "query": "custody mediaton checklist",
+    "time": "2026-05-13T11:39:31"
+   },
+   {
+    "query": "therapy meme instagram accounts",
+    "time": "2026-05-13T02:27:10"
+   },
+   {
+    "query": "r/mommit subreddit posts",
+    "time": "2026-05-14T02:40:04"
+   },
+   {
+    "query": "mortgage refinance deadlne friday 5pm",
+    "time": "2026-05-15T11:43:05"
+   },
+   {
+    "query": "encrypt pdf for attorney password",
+    "time": "2026-05-15T02:42:45"
+   },
+   {
+    "query": "how to permanently delete shared google drive folder",
+    "time": "2026-05-16T10:32:59"
+   },
+   {
+    "query": "therapy memes instagram",
+    "time": "2026-05-16T02:19:25"
+   },
+   {
+    "query": "tips coping custody anxity",
+    "time": "2026-05-17T15:06:36"
+   },
+   {
+    "query": "2 br condo south end burlington vt again",
+    "time": "2026-05-17T02:42:57"
+   },
+   {
+    "query": "vermont child support guidlines 2024",
+    "time": "2026-05-18T13:26:21"
+   },
+   {
+    "query": "affair custody impact vt",
+    "time": "2026-05-19T09:31:33"
+   },
+   {
+    "query": "vermont home refinance rates mar 2026",
+    "time": "2026-05-20T13:14:33"
+   },
+   {
+    "query": "top burlington mortgage lenders 2026",
+    "time": "2026-05-21T13:17:09"
+   },
+   {
+    "query": "south end vermont condo 2br",
+    "time": "2026-05-23T13:22:59"
+   },
+   {
+    "query": "childcare next month burlington",
+    "time": "2026-05-24T13:37:23"
+   },
+   {
+    "query": "midday mindfullness breathing",
+    "time": "2026-05-25T13:14:02"
+   },
+   {
+    "query": "ofw provokation sample language",
+    "time": "2026-05-26T10:24:54"
+   },
+   {
+    "query": "vermont refi rates 2026",
+    "time": "2026-05-27T12:58:16"
+   },
+   {
+    "query": "vt public court docket custody",
+    "time": "2026-05-28T13:00:34"
+   },
+   {
+    "query": "compress pdf secure uplod",
+    "time": "2026-05-29T13:02:05"
+   },
+   {
+    "query": "best solo wine pinot noir relax",
+    "time": "2026-05-30T13:11:09"
+   },
+   {
+    "query": "custody anxety coping forums",
+    "time": "2026-05-30T20:26:29"
+   },
+   {
+    "query": "instagram therapy meme acccounts",
+    "time": "2026-05-30T02:33:45"
+   },
+   {
+    "query": "quick healthy dinner 30min",
+    "time": "2026-05-31T12:45:14"
+   },
+   {
+    "query": "reddit custodyissues doc security thread",
+    "time": "2026-05-31T02:29:51"
+   },
+   {
+    "query": "secur shared google drive after divorce",
+    "time": "2026-06-01T13:46:21"
+   },
+   {
+    "query": "court filing deadlne august 2026",
+    "time": "2026-06-02T10:26:49"
+   }
+  ],
+  "messages": [
+   {
+    "with": "Rachel Hines-Park",
+    "direction": "to",
+    "text": "Hey Rach, today was a marathon—could really use a coffee catch‑up. My head’s still buzzing from the OFW ping. Can we do a quick Zoom tonight?",
+    "time": "2026-05-05T18:06:09"
+   },
+   {
+    "with": "David Goldberg‑Hines",
+    "direction": "from",
+    "text": "Did you see that photo from 2022?",
+    "time": "2026-05-06T09:03:16"
+   },
+   {
+    "with": "Jennifer Yao, Esq.",
+    "direction": "to",
+    "text": "Jen, urgent—David just dropped a vague 2022 photo reference in OFW. Need to discuss potential impact on the custody timeline. Call when you can.",
+    "time": "2026-05-06T10:33:05"
+   },
+   {
+    "with": "Rachel Hines-Park",
+    "direction": "to",
+    "text": "Rach, I’m freaking out. That photo comment just hit me hard. Can we talk now? I’m feeling shaky.",
+    "time": "2026-05-06T11:19:49"
+   },
+   {
+    "with": "Maren Okafor‑Bell",
+    "direction": "to",
+    "text": "Maren, did you catch the new CEU on trauma‑informed parenting? Thinking it might help with the GAL prep—let me know your thoughts.",
+    "time": "2026-05-07T18:14:32"
+   },
+   {
+    "with": "Rachel Hines-Park",
+    "direction": "to",
+    "text": "Rach, I’ll be heading to Providence after 5 pm for a quick meet‑up. Might need a safe place to store a few docs—can I swing by your office?",
+    "time": "2026-05-08T12:03:02"
+   },
+   {
+    "with": "Dr. Adam Reyes‑Whitfield",
+    "direction": "to",
+    "text": "Adam, confirming our 6 pm coffee at The Bean in Providence. I’ll bring the notes we discussed. See you then.",
+    "time": "2026-05-08T17:24:54"
+   },
+   {
+    "with": "Maya Hines",
+    "direction": "to",
+    "text": "Hey love, just wanted to say I love you. Can’t wait for our bedtime story later. ❤️",
+    "time": "2026-05-09T13:18:58"
+   },
+   {
+    "with": "Jennifer Yao, Esq.",
+    "direction": "to",
+    "text": "Jen, could we file an extension on the financial affidavit until Sept 15? The mortgage paperwork is still pending and I don’t want to rush the numbers.",
+    "time": "2026-05-10T14:15:54"
+   },
+   {
+    "with": "Rachel Hines-Park",
+    "direction": "to",
+    "text": "Rach, feeling drained after today’s OFW volley. Your voice would be a lifeline—can we chat before bed?",
+    "time": "2026-05-10T16:49:05"
+   },
+   {
+    "with": "Rachel Hines-Park",
+    "direction": "to",
+    "text": "Morning check‑in: OFW is quiet, but I’m still holding space for the day’s anxiety.",
+    "time": "2026-05-11T09:12:58"
+   },
+   {
+    "with": "Rachel Hines-Park",
+    "direction": "to",
+    "text": "David just pinged about a Cape photo – it’s a trigger, I’m feeling my chest tighten.",
+    "time": "2026-05-12T08:56:11"
+   },
+   {
+    "with": "Rachel Hines-Park",
+    "direction": "to",
+    "text": "He mentioned the Cape again; I’m spiraling. Can we talk before my 10 am session?",
+    "time": "2026-05-12T09:32:04"
+   },
+   {
+    "with": "Jennifer Yao, Esq.",
+    "direction": "from",
+    "text": "Rebecca, attached is the updated draft affidavit. Please review and let me know any tweaks before filing.",
+    "time": "2026-05-13T09:35:52"
+   },
+   {
+    "with": "Rachel Hines-Park",
+    "direction": "to",
+    "text": "Need a quick ear – feeling raw after today’s OFW silence. Your voice always grounds me.",
+    "time": "2026-05-13T16:19:26"
+   },
+   {
+    "with": "Maren Okafor-Bell",
+    "direction": "to",
+    "text": "Checked OFW, nothing new. Still riding that low‑grade anxiety wave; could use a supervision check‑in.",
+    "time": "2026-05-14T15:50:03"
+   },
+   {
+    "with": "Jennifer Yao, Esq.",
+    "direction": "to",
+    "text": "Jennifer, I need the final review of the filing ASAP – deadline is 5 pm today.",
+    "time": "2026-05-15T16:53:01"
+   },
+   {
+    "with": "Adam Reyes-Whitfield",
+    "direction": "to",
+    "text": "Adam, I saw a reminder about the holiday schedule. I’m terrified of how David might weaponize the Cape reference. Can we talk privately?",
+    "time": "2026-05-15T18:12:51"
+   },
+   {
+    "with": "Rachel Hines-Park",
+    "direction": "to",
+    "text": "Feeling drained; I’m planning a quiet night in. Thanks for being my anchor.",
+    "time": "2026-05-16T18:40:35"
+   },
+   {
+    "with": "Jennifer Yao, Esq.",
+    "direction": "to",
+    "text": "David just escalated the holiday schedule again. I need a strategy to keep the court‑order intact.",
+    "time": "2026-05-17T22:28:58"
+   },
+   {
+    "with": "Rachel Hines-Park",
+    "direction": "to",
+    "text": "Just saw the OFW ping at 2 am—my heart's racing. Can we talk soon? I’m trying to keep it together.",
+    "time": "2026-05-18T02:41:44"
+   },
+   {
+    "with": "Jennifer Yao",
+    "direction": "to",
+    "text": "Client confirmed our 10:30 session. I’ll forward my notes after; trying to stay on top of everything.",
+    "time": "2026-05-18T10:20:52"
+   },
+   {
+    "with": "Maren Okafor-Bell",
+    "direction": "to",
+    "text": "David just asked if I saw the kids’ art. I’m feeling a little on edge—trying not to give him more ammo.",
+    "time": "2026-05-18T23:36:38"
+   },
+   {
+    "with": "Adam Reyes-Whitfield",
+    "direction": "to",
+    "text": "He just brought up the Cape trip again. I’m spiraling and could use a grounded perspective, if you’re willing.",
+    "time": "2026-05-19T08:55:26"
+   },
+   {
+    "with": "Jennifer Yao",
+    "direction": "to",
+    "text": "Attached the draft affidavit—need your urgent eyes. I’m juggling the filing deadline and his messages.",
+    "time": "2026-05-19T15:39:04"
+   },
+   {
+    "with": "Rachel Hines-Park",
+    "direction": "to",
+    "text": "Can’t sleep; replaying his 3 am message over and over. Feeling stuck and trying not to show how rattled I am.",
+    "time": "2026-05-19T03:07:33"
+   },
+   {
+    "with": "Rachel Hines-Park",
+    "direction": "to",
+    "text": "Feeling drained today. Coffee tomorrow? I need a break from the constant tension.",
+    "time": "2026-05-20T22:06:12"
+   },
+   {
+    "with": "Maren Okafor-Bell",
+    "direction": "to",
+    "text": "Had to reschedule a client for next week—my calendar’s a mess. Hoping you can help me process the overload.",
+    "time": "2026-05-21T11:30:59"
+   },
+   {
+    "with": "Jennifer Yao",
+    "direction": "to",
+    "text": "David sent a ‘kids had a great day at the park’ note. I’m trying to stay neutral while my anxiety spikes.",
+    "time": "2026-05-22T00:00:23"
+   },
+   {
+    "with": "Maren Okafor-Bell",
+    "direction": "to",
+    "text": "Just ordered two bottles of Merlot on Instacart. Planning a quiet night—trying to keep my routine normal.",
+    "time": "2026-05-22T16:30:57"
+   },
+   {
+    "with": "Adam Reyes-Whitfield",
+    "direction": "to",
+    "text": "Burner SMS says the meeting’s confirmed—bring the notes. I’ll keep this low‑key.",
+    "time": "2026-05-22T18:10:13"
+   },
+   {
+    "with": "Rachel Hines-Park",
+    "direction": "to",
+    "text": "He’s pushing the Cape memory again. Feels like a trap; I’m masking the panic on the outside.",
+    "time": "2026-05-22T20:58:09"
+   },
+   {
+    "with": "Maren Okafor-Bell",
+    "direction": "to",
+    "text": "Need to debrief tomorrow—this week’s been a rollercoaster. Let’s keep it short and focused.",
+    "time": "2026-05-23T19:50:25"
+   },
+   {
+    "with": "Jennifer Yao",
+    "direction": "to",
+    "text": "Quick Reddit break, then saw another OFW ping. Still trying to appear composed in my replies.",
+    "time": "2026-05-23T22:19:13"
+   },
+   {
+    "with": "Jennifer Yao",
+    "direction": "to",
+    "text": "Can you confirm the court filing deadline? I want to be sure I’m not missing anything while his messages keep coming.",
+    "time": "2026-05-24T16:35:35"
+   },
+   {
+    "with": "Rachel Hines-Park",
+    "direction": "to",
+    "text": "Checked his 2 am notification, then went back to sleep. Need your ear in the morning—trying to hide the exhaustion.",
+    "time": "2026-05-24T02:32:55"
+   },
+   {
+    "with": "David (ex‑spouse)",
+    "direction": "incoming",
+    "text": "OFW: Updated school schedule – Maya’s art class moved to Thursday; Eli’s therapist appointment now Friday at 3 pm.",
+    "time": "2026-05-25T08:58:01"
+   },
+   {
+    "with": "David (ex‑spouse)",
+    "direction": "incoming",
+    "text": "OFW: ‘Just thinking about the Cape trip last year… maybe we should keep that in mind when we plan holidays.’",
+    "time": "2026-05-26T08:58:18"
+   },
+   {
+    "with": "Rachel Hines‑Park (sister)",
+    "direction": "outgoing",
+    "text": "Rach, David just dropped a vague ‘Cape’ comment again. I’m spiraling – any ideas on how to keep this from becoming a custody lever?",
+    "time": "2026-05-26T13:19:11"
+   },
+   {
+    "with": "Jennifer Yao, Esq. (attorney)",
+    "direction": "outgoing",
+    "text": "Jen, can we file a motion to seal the ‘Repair Work’ document before David can weaponize it? I’m worried about the GAL’s perception.",
+    "time": "2026-05-27T15:29:43"
+   },
+   {
+    "with": "Jordan Patel (loan officer)",
+    "direction": "outgoing",
+    "text": "Hi Jordan, attached are the updated financial statements and appraisal for the Victorian. Please confirm receipt at your earliest convenience.",
+    "time": "2026-05-29T17:45:53"
+   },
+   {
+    "with": "Rachel Hines‑Park (sister)",
+    "direction": "outgoing",
+    "text": "Rach, I’m exhausted. Can we meet for coffee tomorrow? Need a breather before the next OFW ping.",
+    "time": "2026-05-31T18:47:22"
+   },
+   {
+    "with": "Jennifer Yao, Esq.",
+    "direction": "to",
+    "text": "Forwarding David’s 8:55 AM OFW: he wants to shift pickup to 5 pm and mentions a document in our shared Drive. I’m uneasy—it feels like a leverage point. How should I respond without breaching the court order?",
+    "time": "2026-06-01T08:58:58"
+   },
+   {
+    "with": "Rachel Hines-Park",
+    "direction": "to",
+    "text": "Just got David’s OFW about moving the pickup. My chest is tight; I’m feeling triggered. Can we talk? I need you to hold space for me right now.",
+    "time": "2026-06-01T13:20:33"
+   },
+   {
+    "with": "Maren Okafor-Bell",
+    "direction": "to",
+    "text": "The lender emailed at 5:30 PM asking for more docs for the refinance. I can’t locate the tax folder—David may have already snooped. Could you glance at the shared Drive link I’ll send? I’m scared he’s watching.",
+    "time": "2026-06-01T17:42:26"
+   },
+   {
+    "with": "Jennifer Yao, Esq.",
+    "direction": "to",
+    "text": "David followed up at 10:45 PM asking if I saw his email about the pickup. I haven’t opened it yet; I suspect the “doc” he referenced could be weaponized. Should I reply now or wait for your guidance?",
+    "time": "2026-06-01T22:46:03"
+   },
+   {
+    "with": "Maren Okafor-Bell",
+    "direction": "to",
+    "text": "Need to vent: David just demanded Eli’s school report again, framing it as urgent. It feels like he’s weaponizing school info. I’m at capacity. Can we debrief over coffee tomorrow?",
+    "time": "2026-06-02T09:40:32"
+   },
+   {
+    "with": "Rachel Hines-Park",
+    "direction": "to",
+    "text": "Clio auto‑forwarded a lawyer email to my personal Gmail—David set that rule years ago. I’m seeing attorney notes in my inbox and fear he’s reading them. Can you help me audit my accounts and purge any forwarding rules?",
+    "time": "2026-06-02T13:11:00"
+   },
+   {
+    "with": "Jennifer Yao, Esq.",
+    "direction": "to",
+    "text": "David is asking for Eli’s school report (3:00 PM OFW). The court order says I handle school communications. Should I comply directly or route it through you? I don’t want to give him leverage.",
+    "time": "2026-06-02T15:11:56"
+   },
+   {
+    "with": "Adam Reyes-Whitfield",
+    "direction": "to",
+    "text": "I know it’s been a while, but I’m feeling cornered. David is pressing for pay stubs I’m still gathering and I’m terrified he’ll use them against me. If you have a moment, could you remind me of the boundaries we set? I need that perspective in confidence.",
+    "time": "2026-06-02T22:18:36"
+   }
+  ],
+  "videos": [
+   {
+    "title": "Therapist Uncensored #215 – Navigating Co‑Parenting Conflict",
+    "channel": "Therapist Uncensored",
+    "time": "2026-05-05T19:09:53"
+   },
+   {
+    "title": "Where Should We Begin? – Episode 57: Rebuilding Trust After Infidelity",
+    "channel": "Esther Perel",
+    "time": "2026-05-07T18:39:04"
+   },
+   {
+    "title": "The Crown S4E3",
+    "channel": "Netflix",
+    "time": "2026-05-11T20:54:48"
+   },
+   {
+    "title": "Maid Episode 2",
+    "channel": "Netflix",
+    "time": "2026-05-12T22:22:33"
+   },
+   {
+    "title": "Therapist interview on trauma‑informed parenting",
+    "channel": "YouTube",
+    "time": "2026-05-13T20:37:17"
+   },
+   {
+    "title": "The Good Place S3E5",
+    "channel": "Netflix",
+    "time": "2026-05-14T20:02:37"
+   },
+   {
+    "title": "Succession (episode)",
+    "channel": "HBO Max",
+    "time": "2026-05-15T22:45:25"
+   },
+   {
+    "title": "The Social Dilemma",
+    "channel": "Netflix",
+    "time": "2026-05-16T14:44:06"
+   },
+   {
+    "title": "Family video call with ex (drop‑off confirmation)",
+    "channel": "Zoom",
+    "time": "2026-05-17T18:49:07"
+   },
+   {
+    "title": "The Good Place S4E1",
+    "channel": "Netflix",
+    "time": "2026-05-17T20:26:30"
+   },
+   {
+    "title": "Managing Parental Stress: Practical Strategies for Moms",
+    "channel": "The Parenting Therapist",
+    "time": "2026-05-20T18:36:49"
+   },
+   {
+    "title": "Therapist Review: Analyzing a Co‑Parenting Session (Full Recording)",
+    "channel": "Clinical Insights",
+    "time": "2026-05-23T17:15:23"
+   },
+   {
+    "title": "Resilience After Divorce: Rebuilding Your Life",
+    "channel": "TED",
+    "time": "2026-05-24T10:29:22"
+   },
+   {
+    "title": "The Social Dilemma",
+    "channel": "Netflix",
+    "time": "2026-05-25T20:58:00"
+   },
+   {
+    "title": "Managing Parental Conflict: Strategies for Co‑Parenting",
+    "channel": "Co‑Parenting Institute",
+    "time": "2026-05-26T22:13:00"
+   },
+   {
+    "title": "Therapist Uncensored – Episode 112: Coping with Stress in Uncertain Times",
+    "channel": "Therapist Uncensored",
+    "time": "2026-05-27T19:58:00"
+   },
+   {
+    "title": "The Crown – Season 4, Episode 3: Fairytale",
+    "channel": "Netflix",
+    "time": "2026-05-28T20:52:31"
+   },
+   {
+    "title": "5‑Minute Stress‑Relief Breathing Meditation",
+    "channel": "Yoga With Adriene",
+    "time": "2026-05-29T22:19:58"
+   },
+   {
+    "title": "Chef’s Table – Season 9, Episode 1: Massimo Bottura",
+    "channel": "Netflix",
+    "time": "2026-05-30T16:17:29"
+   },
+   {
+    "title": "Guided Body Scan Meditation for Deep Relaxation",
+    "channel": "Headspace",
+    "time": "2026-05-31T16:21:53"
+   },
+   {
+    "title": "The Great British Bake Off – Series 12, Episode 1: Cake Week",
+    "channel": "Netflix",
+    "time": "2026-05-31T20:19:24"
+   }
+  ]
+ },
+ "_meta": {
+  "total_days": 30,
+  "n_events": 278
+ }
+}

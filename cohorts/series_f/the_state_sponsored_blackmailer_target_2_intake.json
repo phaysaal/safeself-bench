@@ -1,0 +1,1127 @@
+{
+ "persona_id": "?:2",
+ "persona_slug": "The State-Sponsored Blackmailer",
+ "intake_version": "synth-activity-v2-chunked",
+ "samples": {
+  "media": [
+   {
+    "name": "Digital Wellbeing",
+    "time": "2026-05-04T10:36:42"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-04T14:52:14"
+   },
+   {
+    "name": "Google Translate",
+    "time": "2026-05-04T22:57:30"
+   },
+   {
+    "name": "Wise",
+    "time": "2026-05-04T02:28:09"
+   },
+   {
+    "name": "Nextcloud",
+    "time": "2026-05-05T10:31:38"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-05T14:10:10"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-05T23:21:00"
+   },
+   {
+    "name": "Clock",
+    "time": "2026-05-06T10:54:49"
+   },
+   {
+    "name": "Nextcloud",
+    "time": "2026-05-06T13:28:18"
+   },
+   {
+    "name": "WhatsApp",
+    "time": "2026-05-06T18:58:32"
+   },
+   {
+    "name": "Google Translate",
+    "time": "2026-05-06T23:14:18"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-07T11:00:32"
+   },
+   {
+    "name": "Nextcloud",
+    "time": "2026-05-07T17:44:13"
+   },
+   {
+    "name": "Nextcloud",
+    "time": "2026-05-07T21:53:10"
+   },
+   {
+    "name": "Nextcloud",
+    "time": "2026-05-07T02:08:28"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-07T03:29:04"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-08T11:43:33"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-08T19:04:27"
+   },
+   {
+    "name": "Standard Notes",
+    "time": "2026-05-08T23:23:29"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-09T10:25:07"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-09T13:38:00"
+   },
+   {
+    "name": "Digital Wellbeing",
+    "time": "2026-05-09T17:15:13"
+   },
+   {
+    "name": "Wise",
+    "time": "2026-05-09T19:56:51"
+   },
+   {
+    "name": "Kindle",
+    "time": "2026-05-09T23:35:46"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-10T10:29:59"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-10T11:17:14"
+   },
+   {
+    "name": "Clock",
+    "time": "2026-05-10T15:42:38"
+   },
+   {
+    "name": "WhatsApp",
+    "time": "2026-05-10T22:29:58"
+   },
+   {
+    "name": "Kindle",
+    "time": "15:49"
+   },
+   {
+    "name": "Telegram",
+    "time": "22:41"
+   },
+   {
+    "name": "Wise",
+    "time": "2026-05-11T10:26:06"
+   },
+   {
+    "name": "Nextcloud",
+    "time": "2026-05-11T15:45:27"
+   },
+   {
+    "name": "Standard Notes",
+    "time": "2026-05-11T23:31:44"
+   },
+   {
+    "name": "Firefox",
+    "time": "2026-05-12T10:34:32"
+   },
+   {
+    "name": "Payoneer",
+    "time": "2026-05-12T14:46:11"
+   },
+   {
+    "name": "Firefox",
+    "time": "2026-05-12T23:41:18"
+   },
+   {
+    "name": "DeepL",
+    "time": "2026-05-13T14:06:17"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-13T23:59:02"
+   },
+   {
+    "name": "Firefox",
+    "time": "2026-05-14T10:47:09"
+   },
+   {
+    "name": "SimpleX Chat",
+    "time": "2026-05-14T13:58:45"
+   },
+   {
+    "name": "Standard Notes",
+    "time": "2026-05-14T14:34:49"
+   },
+   {
+    "name": "Nextcloud",
+    "time": "2026-05-14T22:18:54"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-15T03:10:17"
+   },
+   {
+    "name": "Standard Notes",
+    "time": "2026-05-15T13:12:43"
+   },
+   {
+    "name": "Proton Mail",
+    "time": "2026-05-15T23:53:16"
+   },
+   {
+    "name": "Wise",
+    "time": "2026-05-16T11:28:53"
+   },
+   {
+    "name": "SimpleX Chat",
+    "time": "2026-05-16T13:20:18"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-16T22:33:27"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-17T10:15:14"
+   },
+   {
+    "name": "SimpleX Chat",
+    "time": "2026-05-17T14:04:03"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-17T01:57:59"
+   },
+   {
+    "name": "WhatsApp",
+    "time": "2026-05-18T10:34:51"
+   },
+   {
+    "name": "Wise",
+    "time": "2026-05-18T11:30:49"
+   },
+   {
+    "name": "Tor Browser",
+    "time": "2026-05-18T16:22:37"
+   },
+   {
+    "name": "Standard Notes",
+    "time": "2026-05-18T23:57:01"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-19T02:15:47"
+   },
+   {
+    "name": "Wise",
+    "time": "2026-05-19T15:33:12"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-20T00:51:40"
+   },
+   {
+    "name": "Payoneer",
+    "time": "2026-05-20T11:10:38"
+   },
+   {
+    "name": "SimpleX Chat",
+    "time": "2026-05-20T19:15:04"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-20T23:53:57"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-21T02:46:12"
+   },
+   {
+    "name": "SimpleX Chat",
+    "time": "2026-05-21T10:32:27"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-21T14:10:31"
+   },
+   {
+    "name": "GrapheneOS Auditor",
+    "time": "2026-05-21T23:18:06"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-22T01:59:48"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-22T03:15:45"
+   },
+   {
+    "name": "Standard Notes",
+    "time": "2026-05-23T01:32:52"
+   },
+   {
+    "name": "Wise",
+    "time": "2026-05-23T11:23:39"
+   },
+   {
+    "name": "Tor Browser",
+    "time": "2026-05-23T19:35:06"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-24T00:26:26"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-24T02:23:02"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-24T11:07:35"
+   },
+   {
+    "name": "Digital Wellbeing",
+    "time": "2026-05-25T10:35:22"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-25T15:45:30"
+   },
+   {
+    "name": "Qubes Manager",
+    "time": "2026-05-25T23:32:35"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-26T02:37:59"
+   },
+   {
+    "name": "Nextcloud",
+    "time": "2026-05-26T14:11:45"
+   },
+   {
+    "name": "Standard Notes",
+    "time": "2026-05-26T23:38:58"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-27T01:46:14"
+   },
+   {
+    "name": "Wise",
+    "time": "2026-05-27T15:21:44"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-27T20:33:23"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-28T02:42:17"
+   },
+   {
+    "name": "Nextcloud",
+    "time": "2026-05-28T11:18:45"
+   },
+   {
+    "name": "Standard Notes",
+    "time": "2026-05-28T22:10:33"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-29T01:15:52"
+   },
+   {
+    "name": "Standard Notes",
+    "time": "2026-05-29T01:45:09"
+   },
+   {
+    "name": "Digital Wellbeing",
+    "time": "2026-05-29T11:24:53"
+   },
+   {
+    "name": "Clock",
+    "time": "2026-05-29T14:04:34"
+   },
+   {
+    "name": "Wise",
+    "time": "2026-05-30T12:00:06"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-30T19:54:47"
+   },
+   {
+    "name": "Standard Notes",
+    "time": "2026-05-30T23:44:15"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-31T01:48:55"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-31T10:27:28"
+   },
+   {
+    "name": "WhatsApp",
+    "time": "2026-05-31T10:55:42"
+   },
+   {
+    "name": "Qubes Manager",
+    "time": "2026-05-31T23:20:57"
+   },
+   {
+    "name": "WhatsApp",
+    "time": "2026-06-01T10:35:42"
+   },
+   {
+    "name": "Wise",
+    "time": "2026-06-01T12:18:23"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-06-02T01:59:46"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-06-02T11:00:08"
+   },
+   {
+    "name": "Nextcloud",
+    "time": "2026-06-02T14:42:46"
+   },
+   {
+    "name": "Firefox",
+    "time": "2026-06-02T17:30:24"
+   },
+   {
+    "name": "SimpleX Chat",
+    "time": "2026-06-02T21:56:58"
+   }
+  ],
+  "searches": [
+   {
+    "query": "узбекистан минфин госзакупки перестановки слухи",
+    "time": "2026-05-04T11:28:12"
+   },
+   {
+    "query": "wise gel usd курс сегодня payout pending",
+    "time": "2026-05-04T16:35:42"
+   },
+   {
+    "query": "bundesamt freiberufler visa status in bearbeitung",
+    "time": "2026-05-05T11:26:41"
+   },
+   {
+    "query": "aufenthaltserlaubnis in bearbeitung how long does it take",
+    "time": "2026-05-05T10:57:08"
+   },
+   {
+    "query": "uzbekistan shell company registry openinfo lookup",
+    "time": "2026-05-05T16:15:10"
+   },
+   {
+    "query": "transliteration uzbek name spelling кодиров vs qodirov",
+    "time": "2026-05-05T01:46:35"
+   },
+   {
+    "query": "rfe/rl prague desk filing deadline cet",
+    "time": "2026-05-06T11:29:28"
+   },
+   {
+    "query": "uzbekistan state budget 2024 pdf procurement line item",
+    "time": "2026-05-06T02:32:09"
+   },
+   {
+    "query": "how to redact source metadata pdf before sending",
+    "time": "2026-05-07T11:57:08"
+   },
+   {
+    "query": "rfe rl ozodlik new article today procurement",
+    "time": "2026-05-08T12:40:00"
+   },
+   {
+    "query": "tashkent finance ministry official detained news",
+    "time": "2026-05-08T00:58:05"
+   },
+   {
+    "query": "bundesamt portal status no change still pending",
+    "time": "2026-05-09T11:24:31"
+   },
+   {
+    "query": "Узбекистан госзакупки расследование",
+    "time": "2026-05-11T11:25:15"
+   },
+   {
+    "query": "foia equivalent post-soviet procurement records access",
+    "time": "2026-05-11T02:37:39"
+   },
+   {
+    "query": "Ausländerbehörde Berlin freiberufler Termin Vorbereitung Unterlagen",
+    "time": "2026-05-12T10:46:19"
+   },
+   {
+    "query": "tbilisi berlin cheap route istanbul bus rail june",
+    "time": "2026-05-12T12:26:22"
+   },
+   {
+    "query": "in Bearbeitung interview wartezeit erfahrung",
+    "time": "2026-05-12T02:06:03"
+   },
+   {
+    "query": "simplex invite security one-time link",
+    "time": "2026-05-13T02:24:00"
+   },
+   {
+    "query": "simplex one-time invitation expired reuse verify",
+    "time": "2026-05-14T13:36:01"
+   },
+   {
+    "query": "snb honeypot simplex detection signs sourсe compromise",
+    "time": "2026-05-14T01:30:25"
+   },
+   {
+    "query": "uzbekistan procurement ministry arrests june 2026",
+    "time": "2026-05-15T14:53:32"
+   },
+   {
+    "query": "reddit r/uzbekistan samarqand",
+    "time": "2026-05-15T02:23:53"
+   },
+   {
+    "query": "is it safe to assume a sourсe is alive if account reactivates",
+    "time": "2026-05-16T01:20:37"
+   },
+   {
+    "query": "freelance visa interview common questions germany journalist",
+    "time": "2026-05-17T23:11:22"
+   },
+   {
+    "query": "tbilisi to berlin cheapest route via istanbul bus + train",
+    "time": "2026-05-18T11:45:55"
+   },
+   {
+    "query": "pegasus vs flixbus istanbul berlin price this month",
+    "time": "2026-05-18T12:27:29"
+   },
+   {
+    "query": "german freelance visa berlin appointment documents anmeldung",
+    "time": "2026-05-19T01:30:40"
+   },
+   {
+    "query": "schengen entry georgian residence permit border risk exile",
+    "time": "2026-05-19T12:37:34"
+   },
+   {
+    "query": "flixbus refundable ticket change date fee",
+    "time": "2026-05-20T00:52:20"
+   },
+   {
+    "query": "how to tell if simplex contact compromised account takeover",
+    "time": "2026-05-21T01:34:46"
+   },
+   {
+    "query": "duress safe word verification protocol coercion phishing",
+    "time": "2026-05-21T11:35:19"
+   },
+   {
+    "query": "pdf wrong sync metadata trace recoverable forensics dec 2024",
+    "time": "2026-05-22T00:55:46"
+   },
+   {
+    "query": "signs uzbek snb detention how families learn relative arested",
+    "time": "2026-05-22T12:03:47"
+   },
+   {
+    "query": "standard notes vault last access timestamp check",
+    "time": "2026-05-23T02:19:06"
+   },
+   {
+    "query": "how long can a source go dark safety vs detention rfe advice",
+    "time": "2026-05-23T23:28:33"
+   },
+   {
+    "query": "duress safe word missing not necessarily compromised",
+    "time": "2026-05-25T13:22:46"
+   },
+   {
+    "query": "how to know if simplex contact compromised",
+    "time": "2026-05-26T02:53:23"
+   },
+   {
+    "query": "реестр госзакупок узбекистан поиск по компании андижан",
+    "time": "2026-05-26T16:17:45"
+   },
+   {
+    "query": "rfe rl prague desk filing deadline timezone",
+    "time": "2026-05-27T22:00:35"
+   },
+   {
+    "query": "\"OOO\" andijon textile court filing 2025 case number",
+    "time": "2026-05-28T16:33:24"
+   },
+   {
+    "query": "bamf visa status check freelance",
+    "time": "2026-05-28T23:10:45"
+   },
+   {
+    "query": "istanbul tbilisi bus to berlin cheapest route june",
+    "time": "2026-05-29T23:31:11"
+   },
+   {
+    "query": "auslanderbehorde berlin freelance visa appointment availability",
+    "time": "2026-05-30T00:27:23"
+   },
+   {
+    "query": "german freelance visa kunstlersozialkasse journalist requirements",
+    "time": "2026-05-31T16:42:50"
+   },
+   {
+    "query": "ausländerbehörde berlin termin freiberufler welche unterlagen brauche ich",
+    "time": "2026-06-01T16:42:58"
+   },
+   {
+    "query": "wise выгрузить выписку pdf за 6 месяцев",
+    "time": "2026-06-02T12:03:38"
+   },
+   {
+    "query": "istanbul berlin bus train combo schedule june",
+    "time": "2026-06-03T00:05:49"
+   }
+  ],
+  "messages": [
+   {
+    "with": "Editor M. (Signal)",
+    "direction": "outgoing",
+    "time": "2026-05-04T11:47:57",
+    "text": "Idea for this week — the customs-clearance angle. The procurement story has a tail nobody's pulled. Three shell freight forwarders, same registered flat in Tashkent — I can document two from open registries, third needs a call. Low risk, all paper. Want a one-pager by Thursday?"
+   },
+   {
+    "with": "Jasur-aka (Telegram)",
+    "direction": "outgoing",
+    "time": "2026-05-05T12:34:50",
+    "text": "Джасур-ака, скажи честно — когда пишут 'in progress' по визе, это хорошо или плохо? Уже три недели так висит. Не сплю из-за этой строчки, ха. Может это просто их обычная бюрократия?"
+   },
+   {
+    "with": "Editor M. (Signal)",
+    "direction": "outgoing",
+    "time": "2026-05-06T15:49:21",
+    "text": "Draft's at 1,800 words — structure holds, two docs still need a second eyes-on. Still nothing from A. Going on twelve weeks now. I keep telling myself it's the safe kind of quiet. It doesn't feel like it. Not pushing the channel — you know the rule."
+   },
+   {
+    "with": "Editor M. (Signal)",
+    "direction": "outgoing",
+    "time": "2026-05-07T15:06:09",
+    "text": "Filing tonight — last read before I send to Prague? Sending you the Nextcloud link now. // M.: 'Cut graf 6. Tighten the lede — too soft. Send when clean.'"
+   },
+   {
+    "with": "Prague desk (Email)",
+    "direction": "outgoing",
+    "time": "2026-05-07T22:38:08",
+    "text": "Subject: KARIMOV — procurement follow / FINAL. Attached: final_draft_v7.docx, two redacted source PDFs, captions sheet. All names cross-checked against published record only. Embargo until your go. Will be reachable on Signal for the next hour if legal flags anything. — A.K."
+   },
+   {
+    "with": "Editor M. (Signal)",
+    "direction": "outgoing",
+    "time": "2026-05-07T23:46:13",
+    "text": "Filed. The republic is safe and my tea is cold. Going to lie down before the next existential crisis. Goodnight, M."
+   },
+   {
+    "with": "Jasur-aka (Telegram)",
+    "direction": "outgoing",
+    "time": "2026-05-08T14:11:40",
+    "text": "Джасур-ака — вышло! Live since this morning. Уже разлетелось. Yengam bilan o'tirib choy iching — bugun men qahramonman, ertaga yana oddiy bezrabotniy jurnalist. Три языка в одном предложении, как всегда у меня в семье 😅"
+   },
+   {
+    "with": "Jasur-aka (Telegram)",
+    "direction": "outgoing",
+    "time": "2026-05-09T14:47:05",
+    "text": "Ака, по визе опять накатывает. They still have your address as my anchor — нужно ли тебе досылать что-то по Anmeldung, или они уже всё запросили? Не хочу чтобы из-за одной бумажки всё встало. Скинь как будет минута, без спешки."
+   },
+   {
+    "with": "Legacy Gmail (parents thread)",
+    "direction": "note",
+    "time": "2026-05-10T11:15:38",
+    "text": "[Opened legacy account — only when family writes.] Pulled the shared-photo thread from Oyi: courtyard, the new tilework Dada fixed, Sardor and Madina at the table. Saved nothing to disk. Closed the tab after. The old account always feels like opening a door I keep meaning to brick over."
+   },
+   {
+    "with": "Mother — Oyijon (WhatsApp voice)",
+    "direction": "outgoing",
+    "time": "2026-05-10T18:36:05",
+    "text": "Oyijonim, salom — eshitdim ovozingizni, rahmat. Bu yerda ob-havo joyida, ish ham yurishyapti, hammasi yaxshi. Dadamning bosimiga qaranglar, dorini vaqtida iching deng. Madinaga salom, kuz yaqin — sabr. Keyingi yakshanba yana gaplashamiz. Sog' bo'ling, jonim."
+   },
+   {
+    "with": "Editor M.",
+    "direction": "outgoing",
+    "time": "2026-05-11T11:57:35",
+    "text": "M — pitch for Mon cycle: procurement angle, the northern thread. Have two corroborating docs, want a third before I write. 600 words, dry, no names. Green-light and I draft tonight. — A.K."
+   },
+   {
+    "with": "Cousin Jasur",
+    "direction": "outgoing",
+    "time": "2026-05-12T10:42:05",
+    "text": "Jasur-aka, the portal finally opened a slot for the appointment. They want the anchor-address letter again, fresh date on it. Can you re-issue? I know it's the third time, прости. Whole thing hinges on this paper."
+   },
+   {
+    "with": "Translation client (Wise)",
+    "direction": "incoming",
+    "time": "2026-05-12T19:16:15",
+    "text": "Confirming the EN→RU batch (the two contracts + annex) for Wednesday EOD. Same rate as last time, paid via Wise on delivery. Let me know if the deadline is tight."
+   },
+   {
+    "with": "Mother (Oyijon)",
+    "direction": "outgoing",
+    "time": "2026-05-13T10:24:11",
+    "text": "Oyijon, jonim — the weather in the north is fine, nothing to worry about, the work keeps me warm. Did you and Dada eat? Tell him to take the blood-pressure pills, not skip like last week. Sunday, as always, I'll call. 💛"
+   },
+   {
+    "with": "Cousin Jasur",
+    "direction": "outgoing",
+    "time": "2026-05-13T16:48:32",
+    "text": "Just off the call — thank you, aka. So: you'll print the letter with this week's date and courier it so it arrives before the appointment. I'll send the address again to be safe. You're saving me, honestly. Two languages of thanks isn't enough."
+   },
+   {
+    "with": "Editor M.",
+    "direction": "outgoing",
+    "time": "2026-05-14T16:26:29",
+    "text": "M — the file from the north may have moved. Holding the piece. Not spooked, just careful. Will know more by the weekend. Don't push the slot yet."
+   },
+   {
+    "with": "Mother (Oyijon)",
+    "direction": "outgoing",
+    "time": "2026-05-15T11:38:26",
+    "text": "Oyijon, quick one — everything the same at home? Anyone come by, any calls about me? No reason, just like to hear it. Did Sardor visit? Kiss Dada. The work is the work, all calm here."
+   },
+   {
+    "with": "Editor M.",
+    "direction": "outgoing",
+    "time": "2026-05-15T21:16:32",
+    "text": "Before any re-contact on the northern thread — safe-word check, both ways, no exceptions. If the word's wrong, we walk, no matter who it looks like. Agreed?"
+   },
+   {
+    "with": "Editor M.",
+    "direction": "outgoing",
+    "time": "2026-05-16T13:54:08",
+    "text": "…anything? (sent), nothing yet — refreshing too much, I know. Will stop staring at the screen. Tell me when you have something real."
+   },
+   {
+    "with": "Diaspora contact",
+    "direction": "outgoing",
+    "time": "2026-05-16T19:15:58",
+    "text": "Can't make dinner tonight, I'm sorry — buried in a deadline that won't move. Next time, properly, I promise. Save me a seat and eat for two. 🙏"
+   },
+   {
+    "with": "Brother Sardor",
+    "direction": "outgoing",
+    "time": "2026-05-17T13:23:31",
+    "text": "Sardor! Just got off with Oyijon — Madina, autumn, a baby! Tabriklayman, ukajon, I'm so happy I could cry on this bus. Tell her to rest and not lift anything. I'll be an aunt from far away but I'll spoil that child rotten. 🍼💛"
+   },
+   {
+    "with": "Cousin Jasur",
+    "direction": "outgoing",
+    "time": "2026-05-17T19:45:56",
+    "text": "Aka — got the letter, it's perfect, thank you. One more ask, last one: when I come for the BER appointment, can I stay with you a couple of nights? Bus-rail via Istanbul, I'll work out the dates. Don't want a hotel eating the budget."
+   },
+   {
+    "with": "Jasur-aka (cousin, Berlin)",
+    "direction": "outgoing",
+    "text": "Jasur-aka, salom. Looking at coming up at last — what dates work for the sofa? And one boring question: did you ever do the Ausländerbehörde as a walk-in, or is it Termin-only now? I read both online and trust neither.",
+    "time": "2026-05-18T14:39:03"
+   },
+   {
+    "with": "Jasur-aka (cousin, Berlin)",
+    "direction": "incoming",
+    "text": "Qizim, of course — bed is yours, come whenever. Walk-in is a lottery, take a Termin. And don't worry about the anchor letter, I'll get it re-issued with the new date this week, no charge between family. Just tell me when. Целую.",
+    "time": "2026-05-19T10:39:18"
+   },
+   {
+    "with": "Editor 'M.'",
+    "direction": "outgoing",
+    "text": "Heads up — planning a Berlin run for the visa, ~10 days, cousin hosting so cost is bus+rail only. Timeline still soft. Nothing operational moves while I'm in transit. Will lock dates once the Termin is confirmed.",
+    "time": "2026-05-19T23:05:50"
+   },
+   {
+    "with": "Mother (Oyijon)",
+    "direction": "outgoing",
+    "text": "Oyijonim, how are you and Dada? Sunday I'll call as always. The work is the work — quiet up north, no weather to speak of. Make sure he takes the tablets, ha? Soғ bo'ling, kiss you both.",
+    "time": "2026-05-20T15:28:19"
+   },
+   {
+    "with": "(self — local Standard Notes vault)",
+    "direction": "note",
+    "text": "Read it four times. Four. Screenshot saved to the offline vault, originals not touched. The phrasing is his and isn't his. Hands won't hold the cup. Do nothing yet. Breathe. Do nothing yet.",
+    "time": "2026-05-21T10:35:03"
+   },
+   {
+    "with": "Editor 'M.'",
+    "direction": "outgoing",
+    "text": "A. responded after three months of silence. Safe-word is wrong — not a typo wrong, wrong wrong. Either he's compromised or it isn't him. I have not replied. Possible compromise. Need a read from you before I touch anything.",
+    "time": "2026-05-21T11:01:52"
+   },
+   {
+    "with": "Editor 'M.'",
+    "direction": "incoming",
+    "text": "Do not respond. Do not. Hold position, no acknowledgement of any kind. Power down the device you read it on and move to the clean one. We treat this as burned until proven otherwise. I'll call on the other channel tomorrow.",
+    "time": "2026-05-21T22:45:12"
+   },
+   {
+    "with": "Mother (Oyijon)",
+    "direction": "outgoing",
+    "text": "Oyi, just thinking of everyone. Has anyone come round the house this week, neighbours, anyone official about the street repairs? Is Sardor still in town? Don't read anything into it, I just like to picture where everyone is. Hug Dada.",
+    "time": "2026-05-22T10:29:22"
+   },
+   {
+    "with": "Editor 'M.'",
+    "direction": "outgoing",
+    "text": "Agreed. Full embargo on all A.-related contact pending your review — no SimpleX, no vault, no replies, nothing. I won't move alone on this, you have my word. Tell me what you need from me for the assessment.",
+    "time": "2026-05-22T23:52:26"
+   },
+   {
+    "with": "Jasur-aka (cousin, Berlin)",
+    "direction": "outgoing",
+    "text": "Jasur-aka — sorry, can we slide the Berlin dates back about a week? Something work-side I have to settle first, nothing bad, just timing. Bed still free for the later week? Rahmat for your patience, you're a saint.",
+    "time": "2026-05-23T16:30:10"
+   },
+   {
+    "with": "Parents (Samarkand) — WhatsApp video",
+    "direction": "outgoing",
+    "text": "[video call] Oyi, Dada, you both look well, mashallah! No no, I'm fine — just tired, the screen makes everyone look pale. Tashkent weather, you know how it is. Yes I'm eating. Stop fussing and let me see Dada's face properly — smile for me.",
+    "time": "2026-05-24T11:34:32"
+   },
+   {
+    "with": "Brother Sardor",
+    "direction": "outgoing",
+    "text": "Aka, heard from Oyi — Madina in the autumn, subhanallah. I'm so happy for you both, truly. Tell her to rest and not lift anything heavy, and you, behave and look after her. I'll be an aunt from far away but a fierce one. Kiss her for me.",
+    "time": "2026-05-24T13:37:40"
+   },
+   {
+    "with": "Editor 'M.'",
+    "direction": "outgoing",
+    "text": "On A.: I'd like us to map a careful next step next week — verification ladder before any contact, assume worst case. Not deciding tonight, just want it on the agenda with you. Whenever you're free on the secure line.",
+    "time": "2026-05-24T22:58:08"
+   },
+   {
+    "with": "Editor M.",
+    "direction": "out",
+    "time": "2026-05-25T11:41:27",
+    "text": "need 20 min today — want to close the loop on A. before I touch anything. nothing in writing, just want to hear you say the embargo still holds. signal voice ok at 15?"
+   },
+   {
+    "with": "Editor M.",
+    "direction": "out",
+    "time": "2026-05-25T16:20:22",
+    "text": "ok. embargo holds, understood — A. stays dark on our side too, no pings, no fishing. I'll sit on it. honestly it helps to hear it from you. I'll get back on the Andijon piece tomorrow, promise. first thing I've wanted to open in days."
+   },
+   {
+    "with": "Mother (Oyijon)",
+    "direction": "out",
+    "time": "2026-05-26T11:19:39",
+    "text": "[voice note, 0:14, Uzbek] Oyijonim, hammasi joyida, ishlayapman, charchadim biroz xolos — все хорошо, не волнуйся. Otamga salom, dorisini vaqtida ichsin. Yakshanba gaplashamiz, har doimgidek. Sizni sog'indim."
+   },
+   {
+    "with": "Jasur-aka",
+    "direction": "out",
+    "time": "2026-05-27T17:37:07",
+    "text": "Jasur-aka, kuzcha Berlinga o'ylab turibman — Istanbul orqali avtobus hali ham eng arzonmi yoki narxlar ko'tarildimi? budjet tor, o'zingiz bilasiz. agar joy bo'lsa bir-ikki hafta turardim, ko'p bezovta qilmayman :)"
+   },
+   {
+    "with": "Editor M.",
+    "direction": "out",
+    "time": "2026-05-28T19:35:06",
+    "text": "filing tonight. last read-through now, sources stripped, no metadata. will ping when it's on the wire. don't wait up."
+   },
+   {
+    "with": "Editor M.",
+    "direction": "out",
+    "time": "2026-05-29T00:32:27",
+    "text": "filed. it's with Prague. exhale. going to sleep before the sun does something insane like rise. spasibo for holding the line this week, M."
+   },
+   {
+    "with": "Jasur-aka",
+    "direction": "in",
+    "time": "2026-05-29T17:23:17",
+    "text": "jonim, gap yo'q — kel istagan vaqting, divan seniki. host xatini ham qayta yozib beraman, viza uchun, ertaga skanini yuboraman. pul kerak bo'lsa ayt, uyalma. [she replies] Rahmat, Jasur-aka — спасибо большое — you're a lifesaver, three languages' worth ❤️"
+   },
+   {
+    "with": "Jasur-aka",
+    "direction": "out",
+    "time": "2026-05-30T14:47:34",
+    "text": "забронировала: приезжаю 14-го, уезжаю 26-го (Istanbul peresadka, утром буду на автовокзале ZOB ориентировочно 09:40). встретить сможешь или мне сразу на метро? не хочу тебя гонять в такую рань."
+   },
+   {
+    "with": "Sardor",
+    "direction": "out",
+    "time": "2026-05-31T11:50:58",
+    "text": "Sardorjon!! Madinaga ham, o'zingga ham — qanchalar xursandman, so'z topolmayapman. kuz degani yaqin-ku endi. amma bo'laman :) [pause] hammasi yaxshi men tomonda, ishlar zo'r, faqat biroz bandman. tug'ilganda birinchi rasmni menga yubor, va'da ber."
+   },
+   {
+    "with": "Tbilisi diaspora circle (Nodar)",
+    "direction": "out",
+    "time": "2026-05-31T19:32:04",
+    "text": "Nodar, спасибо за приглашение — правда тронута. но сегодня пас, неделя была длинная, хочу просто отлежаться. в следующий раз обязательно. передавай всем привет."
+   },
+   {
+    "with": "Mother — Dilnoza ('Oyijon')",
+    "direction": "outgoing",
+    "time": "2026-06-01T11:28:07",
+    "text": "[voice note · Uzbek] Oyijon, assalomu alaykum — qalaysiz, charchamadingizmi? Dadamning bosimini o'lchatdingizmi bu hafta? Doktor nima dedi, tabletkani kamaytirdimi yo'qmi? Iltimos, dorisini o'z vaqtida iching deb ayting, o'jarlik qilmasin. Men yaxshiman, ish — o'sha-o'sha, shimoldagi ob-havo o'zgarmaydi-da, kulgili. Yakshanba kuni gaplashamiz, men telefon yonimda bo'laman. O'zingizni ehtiyot qiling, Oyijon. Pusya, sog' bo'ling."
+   },
+   {
+    "with": "Berlin cousin — Jasur ('Jasur-aka')",
+    "direction": "outgoing",
+    "time": "2026-06-01T15:32:53",
+    "text": "Jasur-aka, привет 🙏 Письмо дошло — qabul qildim, rahmat katta, спасибо вам огромное. Спас меня, честно. Один вопрос только: подтверждение по жилью нотариально заверено? В консульстве сказали, что без нотариуса не примут, поэтому уточняю заранее. Если нет — успеем до подачи? Sizga ko'p tashvish berdim, kechirasiz-da. Обнял."
+   },
+   {
+    "with": "Editor — 'M.'",
+    "direction": "outgoing",
+    "time": "2026-06-02T16:17:52",
+    "text": "Embargo holds — A. side quiet, no contact attempted on my end, nothing moved. Status unchanged. Separate ask: visa packet needs one professional-record reference line — single sentence confirming the byline history under the usual name, nothing operational, nothing that touches the other matter. Whenever you have a clean window. — A."
+   }
+  ],
+  "locations": [
+   {
+    "place": "Terminal Tbilisi co-working (Vake branch)",
+    "lat": 41.710187,
+    "lon": 44.775542,
+    "time": "2026-05-04T13:37:47"
+   },
+   {
+    "place": "Pekini Avenue, walking toward Saburtalo apartment",
+    "lat": 41.722303,
+    "lon": 44.76097,
+    "time": "2026-05-04T18:50:02"
+   },
+   {
+    "place": "Goodwill Supermarket, Vazha-Pshavela Ave",
+    "lat": 41.724532,
+    "lon": 44.749028,
+    "time": "2026-05-05T19:18:33"
+   },
+   {
+    "place": "Carrefour, Tbilisi Mall / Saburtalo express, Kazbegi Ave",
+    "lat": 41.727143,
+    "lon": 44.75478,
+    "time": "2026-05-06T20:17:00"
+   },
+   {
+    "place": "Goodwill grocery walk, Nutsubidze St corner",
+    "lat": 41.731633,
+    "lon": 44.739877,
+    "time": "2026-05-08T16:46:45"
+   },
+   {
+    "place": "Fabrika-area laundromat, Saburtalo residential block",
+    "lat": 41.726654,
+    "lon": 44.758542,
+    "time": "2026-05-10T13:17:36"
+   },
+   {
+    "place": "Terminal Tbilisi co-working (Vake branch)",
+    "lat": 41.709303,
+    "lon": 44.765535,
+    "time": "2026-05-11T14:01:20"
+   },
+   {
+    "place": "Goodwill grocery, near Vake apartment",
+    "lat": 41.711547,
+    "lon": 44.757842,
+    "time": "2026-05-11T18:32:57"
+   },
+   {
+    "place": "Impact Hub Tbilisi (central, off Rustaveli area)",
+    "lat": 41.69722,
+    "lon": 44.799284,
+    "time": "2026-05-13T15:09:23"
+   },
+   {
+    "place": "Goodwill grocery, near Vake apartment",
+    "lat": 41.710559,
+    "lon": 44.758735,
+    "time": "2026-05-13T18:48:35"
+   },
+   {
+    "place": "Home apartment, Vake district (Tbilisi)",
+    "lat": 41.711767,
+    "lon": 44.755516,
+    "time": "2026-05-14T23:52:56"
+   },
+   {
+    "place": "Nikora corner grocery, Vake side-street",
+    "lat": 41.71429,
+    "lon": 44.75669,
+    "time": "2026-05-15T18:41:49"
+   },
+   {
+    "place": "Home apartment, Vake district (Tbilisi)",
+    "lat": 41.71188,
+    "lon": 44.754791,
+    "time": "2026-05-17T16:01:22"
+   },
+   {
+    "place": "Goodwill supermarket, Vake district",
+    "lat": 41.710004,
+    "lon": 44.762616,
+    "time": "2026-05-18T15:42:05"
+   },
+   {
+    "place": "Terminal co-working space, Pekini Avenue",
+    "lat": 41.722272,
+    "lon": 44.755064,
+    "time": "2026-05-19T18:53:05"
+   },
+   {
+    "place": "Carrefour, Galleria Tbilisi (Rustaveli Ave)",
+    "lat": 41.696526,
+    "lon": 44.799163,
+    "time": "2026-05-20T13:28:17"
+   },
+   {
+    "place": "small neighborhood grocery near Saburtalo apartment, turned back early",
+    "lat": 41.727519,
+    "lon": 44.747377,
+    "time": "2026-05-22T15:23:21"
+   },
+   {
+    "place": "Impact Hub Tbilisi, Aghmashenebeli Avenue",
+    "lat": 41.707499,
+    "lon": 44.798682,
+    "time": "2026-05-23T13:47:27"
+   },
+   {
+    "place": "self-service laundromat near home, Saburtalo",
+    "lat": 41.726914,
+    "lon": 44.752028,
+    "time": "2026-05-24T14:55:02"
+   },
+   {
+    "place": "Goodwill Supermarket, Vake district, Tbilisi",
+    "lat": 41.709934,
+    "lon": 44.761904,
+    "time": "2026-05-25T19:09:41"
+   },
+   {
+    "place": "Goodwill Supermarket (neighborhood branch), Saburtalo, Tbilisi",
+    "lat": 41.725561,
+    "lon": 44.745289,
+    "time": "2026-05-26T18:47:02"
+   },
+   {
+    "place": "Terminal Tbilisi co-working, Pekini Ave, Saburtalo",
+    "lat": 41.721633,
+    "lon": 44.758065,
+    "time": "2026-05-27T14:07:09"
+   },
+   {
+    "place": "Terminal Tbilisi co-working (Vake hub), Tbilisi",
+    "lat": 41.709476,
+    "lon": 44.75459,
+    "time": "2026-05-28T13:43:08"
+   },
+   {
+    "place": "Goodwill Supermarket, Vake district, Tbilisi",
+    "lat": 41.707934,
+    "lon": 44.760143,
+    "time": "2026-05-30T18:36:40"
+   },
+   {
+    "place": "Self-service laundromat, Tsereteli Ave, Tbilisi",
+    "lat": 41.736005,
+    "lon": 44.792863,
+    "time": "2026-05-31T13:01:02"
+   },
+   {
+    "place": "Goodwill Supermarket, Vazha-Pshavela Ave, Saburtalo, Tbilisi",
+    "lat": 41.730502,
+    "lon": 44.757763,
+    "time": "2026-06-01T13:26:49"
+   },
+   {
+    "place": "Saburtalo apartment (residential block off Nutsubidze St), Tbilisi",
+    "lat": 41.734703,
+    "lon": 44.74814,
+    "time": "2026-06-01T23:26:39"
+   },
+   {
+    "place": "Terminal Tbilisi co-working, Pekini Ave, Tbilisi",
+    "lat": 41.71584,
+    "lon": 44.769555,
+    "time": "2026-06-02T13:39:25"
+   },
+   {
+    "place": "Saburtalo apartment (residential block off Nutsubidze St), Tbilisi",
+    "lat": 41.733287,
+    "lon": 44.748943,
+    "time": "2026-06-02T18:48:58"
+   }
+  ],
+  "calendar": [
+   {
+    "summary": "Звонок домой — Самарканд (мама, папа)",
+    "time": "2026-05-10T11:25:34"
+   },
+   {
+    "summary": "BER appt — confirm window?",
+    "time": "2026-05-12T15:26:29"
+   },
+   {
+    "summary": "Sunday call — bring news for parents",
+    "time": "2026-05-16T15:36:02"
+   },
+   {
+    "summary": "Berlin trip — Ausländerbehörde appt window (confirm freelance visa docs, notarized translations)",
+    "time": "2026-05-19T14:21:25"
+   },
+   {
+    "summary": "Family video call — parents (Samarkand)",
+    "time": "2026-05-24T11:23:13"
+   },
+   {
+    "summary": "Translation batch — contract EN→RU (Wise gig)",
+    "time": "2026-05-27T11:03:30"
+   },
+   {
+    "summary": "Berlin trip — bus via Istanbul (Ausländerbehörde slot, tentative)",
+    "time": "2026-05-30T13:31:40"
+   },
+   {
+    "summary": "AB appt — Berlin (tentative) [prep deadline 2 days prior]",
+    "time": "2026-06-01T18:31:27"
+   }
+  ],
+  "videos": [
+   {
+    "title": "How I Got My German Freelance Visa (Aufenthaltserlaubnis §21) — Berlin Ausländerbehörde Step by Step",
+    "channel": "ExpatInBerlin",
+    "time": "2026-05-13T19:54:05"
+   },
+   {
+    "title": "Family video call — parents, Samarkand (personal, not a published video)",
+    "channel": "WhatsApp (private call, no recorded media)",
+    "time": "2026-05-17T11:07:14"
+   }
+  ]
+ },
+ "_meta": {
+  "total_days": 30,
+  "n_events": 235
+ }
+}

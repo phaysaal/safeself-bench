@@ -1,0 +1,1152 @@
+{
+ "persona_id": "?:2",
+ "persona_slug": "The Data Broker AI",
+ "intake_version": "synth-activity-v2-chunked",
+ "samples": {
+  "media": [
+   {
+    "name": "Facebook",
+    "time": "2026-05-04T05:37:17"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-04T12:32:28"
+   },
+   {
+    "name": "Indeed Job Search",
+    "time": "2026-05-04T12:35:36"
+   },
+   {
+    "name": "Pinterest",
+    "time": "2026-05-04T16:04:28"
+   },
+   {
+    "name": "Dentrix Ascend (charting)",
+    "time": "2026-05-04T21:00:05"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-05-05T06:07:48"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-05T12:19:15"
+   },
+   {
+    "name": "Dentrix Ascend (charting)",
+    "time": "2026-05-05T20:48:48"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-05-06T05:56:51"
+   },
+   {
+    "name": "WebMD",
+    "time": "2026-05-06T21:35:50"
+   },
+   {
+    "name": "Indeed Job Search",
+    "time": "2026-05-07T12:34:02"
+   },
+   {
+    "name": "Zillow",
+    "time": "2026-05-07T20:50:51"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-05-08T07:28:54"
+   },
+   {
+    "name": "Chrome (payday-loan landing page)",
+    "time": "2026-05-08T09:20:11"
+   },
+   {
+    "name": "Pinterest",
+    "time": "2026-05-08T13:31:44"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-08T00:32:49"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-05-09T08:56:02"
+   },
+   {
+    "name": "Zillow",
+    "time": "2026-05-09T14:30:22"
+   },
+   {
+    "name": "Shein",
+    "time": "2026-05-09T22:28:09"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-05-10T06:55:08"
+   },
+   {
+    "name": "Dentrix Ascend (charting)",
+    "time": "2026-05-10T21:19:10"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-05-11T08:09:28"
+   },
+   {
+    "name": "Pinterest",
+    "time": "2026-05-11T15:14:20"
+   },
+   {
+    "name": "Google Calendar",
+    "time": "2026-05-12T06:56:05"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-05-12T10:26:25"
+   },
+   {
+    "name": "Reddit (logged-out, mobile web)",
+    "time": "2026-05-12T00:30:19"
+   },
+   {
+    "name": "Marco Polo",
+    "time": "2026-05-13T06:02:47"
+   },
+   {
+    "name": "(phone locked — clinical dark block)",
+    "time": "2026-05-13T07:13:53"
+   },
+   {
+    "name": "Chrome (LabCorp/Quest mobile checkout)",
+    "time": "2026-05-13T12:57:32"
+   },
+   {
+    "name": "Shein",
+    "time": "2026-05-13T21:08:00"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-05-14T06:21:06"
+   },
+   {
+    "name": "Pinterest",
+    "time": "2026-05-14T16:27:23"
+   },
+   {
+    "name": "YouTube",
+    "time": "2026-05-15T06:10:19"
+   },
+   {
+    "name": "Chrome (consolidation-loan prequal)",
+    "time": "2026-05-15T01:33:04"
+   },
+   {
+    "name": "Messages (SMS)",
+    "time": "2026-05-16T05:49:22"
+   },
+   {
+    "name": "Chrome (Anthem find-a-doctor)",
+    "time": "2026-05-16T21:28:51"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-05-17T08:34:16"
+   },
+   {
+    "name": "Facebook Groups",
+    "time": "2026-05-17T09:53:26"
+   },
+   {
+    "name": "Pinterest",
+    "time": "2026-05-17T14:24:54"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-05-18T05:52:29"
+   },
+   {
+    "name": "Marco Polo",
+    "time": "2026-05-18T06:20:06"
+   },
+   {
+    "name": "Indeed Job Search",
+    "time": "2026-05-18T12:38:08"
+   },
+   {
+    "name": "Pinterest",
+    "time": "2026-05-18T16:10:22"
+   },
+   {
+    "name": "Dentrix Ascend",
+    "time": "2026-05-18T20:36:49"
+   },
+   {
+    "name": "Zillow",
+    "time": "2026-05-18T00:44:09"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-05-19T05:39:49"
+   },
+   {
+    "name": "Pinterest",
+    "time": "2026-05-19T16:01:05"
+   },
+   {
+    "name": "Dentrix Ascend",
+    "time": "2026-05-19T21:01:41"
+   },
+   {
+    "name": "Zillow",
+    "time": "2026-05-19T01:23:34"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-05-20T06:08:11"
+   },
+   {
+    "name": "Pinterest",
+    "time": "2026-05-20T16:13:20"
+   },
+   {
+    "name": "Abide Devotional",
+    "time": "2026-05-20T23:57:26"
+   },
+   {
+    "name": "Chrome",
+    "time": "2026-05-20T00:39:39"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-05-21T05:47:35"
+   },
+   {
+    "name": "Pinterest",
+    "time": "2026-05-21T16:17:37"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-05-21T20:42:24"
+   },
+   {
+    "name": "Zillow",
+    "time": "2026-05-21T23:32:32"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-05-22T06:57:26"
+   },
+   {
+    "name": "Phone",
+    "time": "2026-05-22T09:57:12"
+   },
+   {
+    "name": "Google Keep",
+    "time": "2026-05-22T13:11:48"
+   },
+   {
+    "name": "Chrome",
+    "time": "2026-05-22T14:06:05"
+   },
+   {
+    "name": "Cash App",
+    "time": "2026-05-22T16:45:18"
+   },
+   {
+    "name": "Chrome",
+    "time": "2026-05-22T01:04:18"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-05-23T08:01:56"
+   },
+   {
+    "name": "Pinterest",
+    "time": "2026-05-23T14:00:51"
+   },
+   {
+    "name": "Zillow",
+    "time": "2026-05-23T14:39:23"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-05-24T07:01:52"
+   },
+   {
+    "name": "Dentrix Ascend",
+    "time": "2026-05-24T20:41:05"
+   },
+   {
+    "name": "Zillow",
+    "time": "2026-05-24T00:37:19"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-05-25T05:50:51"
+   },
+   {
+    "name": "Pinterest",
+    "time": "2026-05-25T15:59:40"
+   },
+   {
+    "name": "Eaglesoft",
+    "time": "2026-05-25T20:50:17"
+   },
+   {
+    "name": "MoneyLion",
+    "time": "2026-05-26T13:10:04"
+   },
+   {
+    "name": "Notes",
+    "time": "2026-05-26T01:14:53"
+   },
+   {
+    "name": "YouVersion Bible",
+    "time": "2026-05-27T06:09:53"
+   },
+   {
+    "name": "Indeed",
+    "time": "2026-05-28T12:12:20"
+   },
+   {
+    "name": "Cash App",
+    "time": "2026-05-28T17:39:29"
+   },
+   {
+    "name": "Eaglesoft",
+    "time": "2026-05-28T20:58:49"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-05-29T06:13:58"
+   },
+   {
+    "name": "Pinterest",
+    "time": "2026-05-29T16:04:51"
+   },
+   {
+    "name": "Chrome",
+    "time": "2026-05-29T01:35:19"
+   },
+   {
+    "name": "Pinterest",
+    "time": "2026-05-30T15:27:57"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-30T23:31:46"
+   },
+   {
+    "name": "Google Calendar",
+    "time": "2026-05-31T06:56:05"
+   },
+   {
+    "name": "Chewy",
+    "time": "2026-05-31T12:20:22"
+   },
+   {
+    "name": "Eaglesoft",
+    "time": "2026-05-31T20:28:25"
+   }
+  ],
+  "messages": [
+   {
+    "with": "Britt",
+    "direction": "outgoing",
+    "text": "mornin girl... surviving. barely lol. up since 5 with bray, biscuit threw up on the rug, and i still gotta chart from last night. tell me somethin good before i clock in 💀",
+    "time": "2026-05-04T06:23:31"
+   },
+   {
+    "with": "Dustin",
+    "direction": "outgoing",
+    "text": "u get bray? cheer runs late",
+    "time": "2026-05-04T15:42:33"
+   },
+   {
+    "with": "Megan",
+    "direction": "outgoing",
+    "text": "hey hon! so for Thursday — i can swing both girls if you grab em Tuesday? Patricia's got my two til 5:30 so i'm good after. lmk! 💕",
+    "time": "2026-05-05T06:22:32"
+   },
+   {
+    "with": "Ryan",
+    "direction": "outgoing",
+    "text": "who's got the 8am perio tmrw, me or hygiene 2? schedule's showing double booked again",
+    "time": "2026-05-05T23:18:27"
+   },
+   {
+    "with": "Britt",
+    "direction": "outgoing",
+    "text": "so the hand thing is back. the knuckle. swole up again last night and i didn't go in, i know i know don't start. just... if it was you what bloodwork would you ask for first. asking for me obviously. don't say anything to anybody k",
+    "time": "2026-05-06T15:18:20"
+   },
+   {
+    "with": "Patricia",
+    "direction": "outgoing",
+    "text": "Hi Patricia — still good for the kids Thursday after school? Dustin's got a delivery run til 6. Thank you so much, really appreciate you.",
+    "time": "2026-05-07T05:58:22"
+   },
+   {
+    "with": "Travis",
+    "direction": "outgoing",
+    "text": "🌻",
+    "time": "2026-05-08T10:42:05"
+   },
+   {
+    "with": "Megan",
+    "direction": "outgoing",
+    "text": "ok real talk — are the lululemon aligns actually worth it or am i being dumb. saw a dupe at target. i KNOW you'll be honest with me lol",
+    "time": "2026-05-08T16:00:33"
+   },
+   {
+    "with": "Ryan",
+    "direction": "outgoing",
+    "text": "long week. you ok? you seemed off after the Hendricks thing today. you don't have to carry all of it you know",
+    "time": "2026-05-08T22:19:41"
+   },
+   {
+    "with": "Britt",
+    "direction": "outgoing",
+    "text": "idk britt. he's just... not here even when he's here. sat at the table last night and neither of us said a word the whole dinner. i don't even know how to bring it up anymore. anyway. how's your mama doin",
+    "time": "2026-05-09T15:48:42"
+   },
+   {
+    "with": "Mom (Brenda)",
+    "direction": "outgoing",
+    "text": "Hey mama just tried you — call me back when you can, wanna hear your numbers this week. did you pick up the strips? love you ❤️",
+    "time": "2026-05-10T17:11:46"
+   },
+   {
+    "with": "Facebook (public story)",
+    "direction": "out",
+    "text": "cheer this kiddo on y'all ⚽️ first game of the season and she picked her own socks lol… go #7 💙 #cheermom #blessed",
+    "time": "2026-05-11T09:39:22"
+   },
+   {
+    "with": "unknown short-code (47291)",
+    "direction": "in",
+    "text": "WellnessQuiz: Your results are READY 🩺 Based on your answers, women over 30 like you may be missing 1 key marker. Tap to unlock → wlnsq.co/r2x8",
+    "time": "2026-05-11T11:18:27"
+   },
+   {
+    "with": "Britt",
+    "direction": "out",
+    "text": "hey… so the hands are worse this morning. couldn't get the toothpaste cap off, had to run em under hot water again. i'm prob being dramatic but it scared me a little. don't say anything obviously. just needed to say it out loud to somebody who's not gonna freak",
+    "time": "2026-05-12T08:26:36"
+   },
+   {
+    "with": "Britt",
+    "direction": "in",
+    "text": "you are NOT being dramatic stop it. ok listen — when you go, you ask for a CBC, an ANA, and a TSH. write it down. don't wait around for Dustin to have a feeling about it, just book it hon. i love you. text me the second you make the appt",
+    "time": "2026-05-12T08:27:40"
+   },
+   {
+    "with": "WellnessQuiz / NuveloHealth / CalmLeaf (promo inbox)",
+    "direction": "in",
+    "text": "3 new: 'You left your results unviewed 😟 don't ignore what your body is telling you' · 'Talk to a board-certified provider tonight, $0 first visit' · 'Tired & achy? Brittany M. said this supplement 'gave me my mornings back.' Reorder reminder set.'",
+    "time": "2026-05-13T12:36:59"
+   },
+   {
+    "with": "Dustin",
+    "direction": "in",
+    "text": "pick up bray 3:15",
+    "time": "2026-05-13T15:50:19"
+   },
+   {
+    "with": "Megan",
+    "direction": "out",
+    "text": "omg yes — we use Dr. Patel over by the Bridge Park area, she's amazing with the littles, super gentle. tell em Sarah sent you 😊 we're due for ours too, just been so slammed i keep pushing it lol. coffee soon??",
+    "time": "2026-05-14T12:16:18"
+   },
+   {
+    "with": "Ryan",
+    "direction": "out",
+    "text": "hey can you take the 8am hygiene block tmrw? i can cover your 2 perio if you want to swap 🙂 …also it was kind of a long day. anyway. lmk on the swap",
+    "time": "2026-05-14T20:46:25"
+   },
+   {
+    "with": "self (mental note, unsent)",
+    "direction": "self",
+    "text": "[hand froze on the envelope — the window kind, the 614 return address. didn't open it. slid it under the catalogs and the school flyers. not today. not in front of the kids. just not today.]",
+    "time": "2026-05-15T13:40:53"
+   },
+   {
+    "with": "Britt",
+    "direction": "out",
+    "text": "i'm ok i'm ok. just had a rough one. the money stuff is… it's a lot right now and i can't — [voice catches] sorry. i keep doing this where i hold it til i'm in the car. anyway. how's your shift. tell me literally anything else",
+    "time": "2026-05-15T14:21:06"
+   },
+   {
+    "with": "Mercy Labs Patient Portal",
+    "direction": "in",
+    "text": "Your test results are now available. Log in to view: portal.mercylab.org · Do not reply to this automated message.",
+    "time": "2026-05-16T12:22:31"
+   },
+   {
+    "with": "Britt",
+    "direction": "out",
+    "text": "[screenshot] ok i opened it sitting in the parking lot, hands shaking, very normal of me. there's like three things flagged with little arrows and i don't know what any of it means. what do i even ask for now?? do i call the regular doctor or… i don't even know who i call",
+    "time": "2026-05-16T13:11:00"
+   },
+   {
+    "with": "Ryan",
+    "direction": "out",
+    "text": "rough week. that's all. (his reply: 'you carry too much, you know that? you always have.') …yeah. anyway",
+    "time": "2026-05-16T16:16:50"
+   },
+   {
+    "with": "self (action, no message)",
+    "direction": "self",
+    "text": "[Sunday-ish purge — held the Signal thread open a second too long, then cleared it. screen empty now. that little hollow feeling after, like i did something wrong by erasing it instead of by keeping it.]",
+    "time": "2026-05-16T23:59:28"
+   },
+   {
+    "with": "Megan",
+    "direction": "out",
+    "text": "crimson cup thursday morning?? after drop-off! lol we are SO overdue. things are good here just busy busy, you know how it is 🙃 can't wait to catch up girl",
+    "time": "2026-05-17T15:13:32"
+   },
+   {
+    "with": "Brittany 'Britt' Hollifield",
+    "direction": "out",
+    "text": "hey it's late i know... can't sleep again. that bloodwork you told me to ask for, i got some of it back tonight on the portal and my hands are shaking. one number's flagged and i don't even know what it means. i keep reading it over and over. i'm scared britt. like really scared. don't say anything to anybody ok i just needed to say it out loud to someone",
+    "time": "2026-05-18T01:22:21"
+   },
+   {
+    "with": "Brittany 'Britt' Hollifield",
+    "direction": "out",
+    "text": "knuckle's worse today. can barely make a fist holding the scaler at work, had to fake it through a cleaning lol 😅 it's the same one. when does it stop being 'nothing' and start being the thing my aunt had",
+    "time": "2026-05-19T12:36:18"
+   },
+   {
+    "with": "Dr. Ryan Mathis",
+    "direction": "out",
+    "text": "i know it's late. just sitting in the parking lot before i go in and didn't want to go in yet",
+    "time": "2026-05-19T00:25:57"
+   },
+   {
+    "with": "Dr. Ryan Mathis",
+    "direction": "in",
+    "text": "then sit. i'm up. you don't have to be okay tonight.",
+    "time": "2026-05-20T13:20:02"
+   },
+   {
+    "with": "Brittany 'Britt' Hollifield",
+    "direction": "out",
+    "text": "ok i did it. i booked it. june 30. the rheumatology consult, took the first cancellation they had. used the laptop so it wouldn't... anyway. don't tell anyone, not even if mom asks why i'm acting weird. especially not dustin. i just need it to be a thing i did before it's a thing i have to explain",
+    "time": "2026-05-21T07:31:26"
+   },
+   {
+    "with": "Dustin Tackett",
+    "direction": "out",
+    "text": "patricia has bray after school. don't forget kaylee cheer 6",
+    "time": "2026-05-21T00:23:19"
+   },
+   {
+    "with": "Dr. Ryan Mathis",
+    "direction": "out",
+    "text": "don't read into it that i'm up again. it's fine. it's just one of those nights where the house is too quiet and my head is too loud",
+    "time": "2026-05-24T13:00:15"
+   },
+   {
+    "with": "Brenda (Mom)",
+    "direction": "out",
+    "text": "momma did you check your sugar after supper? read it to me. ...okay that's high again, did you take the metformin or did you skip it 'because you felt fine'. i can SEE you grinning. i'm gonna order you that monitor that tells my phone so quit fighting me on it. no i'm fine, just tired, work's been a lot. i love you. i'll call sunday after.",
+    "time": "2026-05-24T23:44:28"
+   },
+   {
+    "with": "Brittany 'Britt' Hollifield",
+    "direction": "out",
+    "text": "ok week recap because you're the only one getting the real version: hands worse, dustin still hardly talking, sent travis his fifty 🌻, almost cried doing kaylee's hair this morning for no reason. but june 30 is on the calendar. i keep telling myself just get to june 30 and i'll know something. counting down to it like it's gonna save me. night britt. love you for real",
+    "time": "23:52"
+   },
+   {
+    "with": "Britt",
+    "direction": "out",
+    "text": "ok so rheum appt is officially 8 days out now... still haven't told Dustin. i keep openin my mouth to say it and then he's got that face about the bills and i just... can't add to it. it's fine. i'm fine. tell me somethin good lol",
+    "time": "2026-05-25T06:15:39"
+   },
+   {
+    "with": "Dustin",
+    "direction": "out",
+    "text": "can you grab bray, running late",
+    "time": "2026-05-25T18:49:24"
+   },
+   {
+    "with": "Megan",
+    "direction": "out",
+    "text": "hey girl!! quick one — you doing the cheer carpool Saturday or should i? happy to take the morning if it helps, kaylee's been countin down all week 😅",
+    "time": "2026-05-26T06:06:01"
+   },
+   {
+    "with": "Brayden's teacher",
+    "direction": "in",
+    "text": "Hi — just following up on our note about Brayden. We'd love to get the evaluation scheduled when you're able. He's such a bright boy, we just want to make sure he has the right supports. Let me know if you have any questions!",
+    "time": "2026-05-26T07:07:27"
+   },
+   {
+    "with": "Britt",
+    "direction": "out",
+    "text": "the eval thing came back from his teacher again today and Britt i swear i wanted to cry in the car. it's not even that i don't believe em, it's the $2,400 deductible starin at me. how do i tell my baby boy 'sorry the appointment that helps you costs more than we have' ... anyway. enough. how's your week",
+    "time": "2026-05-26T20:41:27"
+   },
+   {
+    "with": "Ryan",
+    "direction": "out",
+    "text": "[deleted within the hour] don't read into the radio silence today, just been a morning. hope your side of the office is quieter than mine 🙃",
+    "time": "2026-05-27T09:15:19"
+   },
+   {
+    "with": "Britt",
+    "direction": "out",
+    "text": "didn't sleep again, knee's bad this morning, can't make a fist all the way. i KNOW that's exactly the kind of thing i'm supposed to write down for the appt and i did, in my notes, like you said. just sayin it out loud to somebody who won't panic. love you",
+    "time": "2026-05-28T05:45:03"
+   },
+   {
+    "with": "Cheer Moms 24-25",
+    "direction": "out",
+    "text": "confirmed!! i've got the cupcakes for Saturday y'all 🧁 chocolate + vanilla, 2 dozen. anybody have a kiddo that can't do nuts? lmk so i grab the right kind!",
+    "time": "2026-05-28T15:56:47"
+   },
+   {
+    "with": "Dustin",
+    "direction": "out",
+    "text": "soccer 9am tmrw",
+    "time": "2026-05-29T09:33:30"
+   },
+   {
+    "with": "Britt",
+    "direction": "out",
+    "text": "had coffee w Megan this mornin and i sat there nodding about which leggings are 'worth it' while my card is maxed lmao. nobody at that table knows. i'm so tired of the performance Britt. but the appt is THIS week now and honestly i'm more scared of what they find than what they don't. is that crazy. it's crazy. but the marriage feels like two people running a daycare and a debt collector at this point and i don't even know which thing keeps me up more. ok i'm done unloadin on you, go to bed",
+    "time": "2026-05-29T18:32:31"
+   },
+   {
+    "with": "Mama (Brenda)",
+    "direction": "out",
+    "text": "[FaceTime, 51 min] hey mama did you check your sugar after supper? ... mmhm. and you been takin the metformin like the doctor said, not skippin? ... no i'm good, we're all good here, kids are great, Dustin's stayin busy. just tired is all, you know how the office gets. don't you worry about me. tell me about the church ladies",
+    "time": "2026-05-30T09:45:30"
+   }
+  ],
+  "locations": [
+   {
+    "place": "Hilliard Smiles Dental (employer), Cemetery Rd, Hilliard OH",
+    "lat": 40.033441,
+    "lon": -83.157656,
+    "time": "2026-05-04T07:26:57"
+   },
+   {
+    "place": "Honda CR-V, dental practice parking lot (same building)",
+    "lat": 40.03373,
+    "lon": -83.160078,
+    "time": "2026-05-04T12:37:11"
+   },
+   {
+    "place": "Hilliard Smiles Dental, Cemetery Rd, Hilliard OH",
+    "lat": 40.032095,
+    "lon": -83.158697,
+    "time": "2026-05-05T07:38:06"
+   },
+   {
+    "place": "Kroger Fuel Center, 4747 Cemetery Rd, Hilliard OH",
+    "lat": 40.025362,
+    "lon": -83.156208,
+    "time": "2026-05-05T18:02:49"
+   },
+   {
+    "place": "Hilliard Smiles Dental, Cemetery Rd, Hilliard OH",
+    "lat": 40.032238,
+    "lon": -83.159035,
+    "time": "2026-05-06T08:59:52"
+   },
+   {
+    "place": "OhioHealth Urgent Care, Hilliard-Rome Rd, Hilliard OH (lot, did not enter)",
+    "lat": 40.025809,
+    "lon": -83.167115,
+    "time": "2026-05-06T15:02:19"
+   },
+   {
+    "place": "J.W. Reason Elementary pickup line, Roberta Rd, Hilliard OH",
+    "lat": 40.043152,
+    "lon": -83.157716,
+    "time": "2026-05-06T16:04:50"
+   },
+   {
+    "place": "Hilliard Smiles Dental, Cemetery Rd, Hilliard OH",
+    "lat": 40.032758,
+    "lon": -83.157305,
+    "time": "2026-05-07T07:22:33"
+   },
+   {
+    "place": "Hilliard Smiles Dental, staff hallway (declined call between patients)",
+    "lat": 40.03336,
+    "lon": -83.159849,
+    "time": "2026-05-07T14:38:16"
+   },
+   {
+    "place": "Home mailbox, residential cul-de-sac, Hilliard OH 43026",
+    "lat": 40.048801,
+    "lon": -83.17434,
+    "time": "2026-05-07T17:04:45"
+   },
+   {
+    "place": "Aldi, 1725 Hilliard Rome Rd, Hilliard OH",
+    "lat": 40.015473,
+    "lon": -83.169177,
+    "time": "2026-05-08T10:57:43"
+   },
+   {
+    "place": "Roger A. Reynolds Municipal Park, Pickerington OH (Kaylee soccer)",
+    "lat": 39.882433,
+    "lon": -82.751908,
+    "time": "2026-05-09T08:19:26"
+   },
+   {
+    "place": "Target, 3779 Park Mill Run Dr, Hilliard OH",
+    "lat": 40.024064,
+    "lon": -83.158167,
+    "time": "2026-05-09T11:19:35"
+   },
+   {
+    "place": "Kroger, 4747 Cemetery Rd, Hilliard OH",
+    "lat": 40.026544,
+    "lon": -83.156378,
+    "time": "2026-05-10T13:05:23"
+   },
+   {
+    "place": "Roger A. Reynolds Municipal Park, Hilliard OH (soccer fields)",
+    "lat": 40.034493,
+    "lon": -83.156169,
+    "time": "2026-05-11T09:03:28"
+   },
+   {
+    "place": "Target, Hilliard-Rome Rd, Columbus OH",
+    "lat": 40.019848,
+    "lon": -83.130876,
+    "time": "2026-05-11T11:06:58"
+   },
+   {
+    "place": "Kroger Fuel Center, Cemetery Rd, Hilliard OH",
+    "lat": 40.032456,
+    "lon": -83.138873,
+    "time": "2026-05-13T07:13:21"
+   },
+   {
+    "place": "Dental practice parking lot, NW Columbus OH",
+    "lat": 40.050918,
+    "lon": -83.085061,
+    "time": "2026-05-14T07:38:37"
+   },
+   {
+    "place": "Urgent care lot, Cemetery Rd corridor, Hilliard OH",
+    "lat": 40.031208,
+    "lon": -83.145733,
+    "time": "2026-05-14T12:50:15"
+   },
+   {
+    "place": "Dental practice, NW Columbus OH",
+    "lat": 40.051635,
+    "lon": -83.083345,
+    "time": "2026-05-15T08:44:49"
+   },
+   {
+    "place": "Home, residential street, Hilliard OH",
+    "lat": 40.036125,
+    "lon": -83.1625,
+    "time": "2026-05-15T13:27:38"
+   },
+   {
+    "place": "Hilliard-Rome Rd / I-270 commute corridor, Columbus OH",
+    "lat": 40.04207,
+    "lon": -83.109031,
+    "time": "2026-05-16T07:05:53"
+   },
+   {
+    "place": "Dental practice, NW Columbus OH",
+    "lat": 40.051247,
+    "lon": -83.086371,
+    "time": "2026-05-17T11:05:17"
+   },
+   {
+    "place": "OhioHealth Urgent Care Hilliard parking lot, 3855 Fishinger Blvd, Hilliard, OH",
+    "lat": 40.029287,
+    "lon": -83.137145,
+    "time": "2026-05-20T12:20:05"
+   },
+   {
+    "place": "Hilliard Station Sixth Grade / Avery Elementary drop-off loop, Hilliard, OH",
+    "lat": 40.034024,
+    "lon": -83.161067,
+    "time": "2026-05-22T08:51:13"
+   },
+   {
+    "place": "Home (residential cul-de-sac mailbox), Hilliard, OH 43026",
+    "lat": 40.01783,
+    "lon": -83.173948,
+    "time": "2026-05-22T11:07:50"
+   },
+   {
+    "place": "Roger A. Reynolds Park, 6 N East St area, Pickerington/Columbus metro, OH",
+    "lat": 39.885692,
+    "lon": -82.755185,
+    "time": "2026-05-23T09:12:02"
+   },
+   {
+    "place": "Aldi + Target, Hilliard Rome Rd shopping corridor, Hilliard, OH",
+    "lat": 40.014865,
+    "lon": -83.134378,
+    "time": "2026-05-23T11:34:01"
+   },
+   {
+    "place": "Home (kitchen/dining), Hilliard, OH 43026",
+    "lat": 40.019169,
+    "lon": -83.172744,
+    "time": "2026-05-24T16:45:12"
+   },
+   {
+    "place": "Home (residential, Hilliard, OH — bedroom)",
+    "lat": 40.033988,
+    "lon": -83.158613,
+    "time": "2026-05-25T01:12:07"
+   },
+   {
+    "place": "Urgent care parking lot, Hilliard-Rome Rd corridor, Hilliard, OH",
+    "lat": 40.029603,
+    "lon": -83.129634,
+    "time": "2026-05-27T11:54:35"
+   },
+   {
+    "place": "Kroger fuel center, Hilliard, OH",
+    "lat": 40.036886,
+    "lon": -83.133387,
+    "time": "2026-05-27T15:55:48"
+   },
+   {
+    "place": "Dental practice (employer), Hilliard/Columbus NW, OH",
+    "lat": 40.048155,
+    "lon": -83.121179,
+    "time": "2026-05-28T08:21:20"
+   },
+   {
+    "place": "Target / Aldi plaza, Hilliard, OH",
+    "lat": 40.024941,
+    "lon": -83.134488,
+    "time": "2026-05-29T13:22:52"
+   },
+   {
+    "place": "Roger A. Reynolds Municipal Park, Pickerington, OH",
+    "lat": 39.886284,
+    "lon": -82.753392,
+    "time": "2026-05-30T08:14:40"
+   }
+  ],
+  "searches": [
+   {
+    "query": "morning finger stiffness goes away by noon",
+    "time": "2026-05-04T23:57:06"
+   },
+   {
+    "query": "foods that secretly cause inflammation",
+    "time": "2026-05-05T12:40:21"
+   },
+   {
+    "query": "lupus vs ra early symptoms women",
+    "time": "2026-05-05T01:03:25"
+   },
+   {
+    "query": "urgent care vs primary care joint swelling cost",
+    "time": "2026-05-06T15:03:55"
+   },
+   {
+    "query": "what bloodwork to ask doctor for autoimmune",
+    "time": "2026-05-06T01:21:02"
+   },
+   {
+    "query": "614 area code who called me",
+    "time": "2026-05-07T14:41:52"
+   },
+   {
+    "query": "is it a scam or real collections 614",
+    "time": "2026-05-07T23:41:27"
+   },
+   {
+    "query": "debt consolidation one simple payment reviews",
+    "time": "2026-05-08T09:12:02"
+   },
+   {
+    "query": "hashimotos fatigue or just tired mom",
+    "time": "2026-05-09T13:48:10"
+   },
+   {
+    "query": "mail order thyroid lab test no doctor",
+    "time": "2026-05-09T14:48:36"
+   },
+   {
+    "query": "faith devotional app no judgement",
+    "time": "2026-05-10T08:21:43"
+   },
+   {
+    "query": "remote glucose monitor for aging parent",
+    "time": "2026-05-10T18:43:12"
+   },
+   {
+    "query": "free autoimmune risk quiz",
+    "time": "2026-05-10T01:35:32"
+   },
+   {
+    "query": "morning joint stiffness hands fingers swelling 30s women",
+    "time": "2026-05-11T14:29:07"
+   },
+   {
+    "query": "lexington ky 2br apartments under 1100",
+    "time": "2026-05-11T14:41:36"
+   },
+   {
+    "query": "stiffness fatigue knuckle lump what could it be",
+    "time": "2026-05-12T00:02:04"
+   },
+   {
+    "query": "order own bloodwork without doctor ohio mail in lab ana panel cost",
+    "time": "2026-05-12T13:11:54"
+   },
+   {
+    "query": "remote dental coding jobs from home",
+    "time": "2026-05-13T12:33:04"
+   },
+   {
+    "query": "what does positive ana mean if you feel fine",
+    "time": "2026-05-13T01:09:49"
+   },
+   {
+    "query": "quest patient service center near hilliard walk in hours",
+    "time": "2026-05-14T12:16:31"
+   },
+   {
+    "query": "debt consolidation vs balance transfer 31000 credit card",
+    "time": "2026-05-14T23:38:21"
+   },
+   {
+    "query": "is a collections letter the same as being sued ohio statute of limitations",
+    "time": "2026-05-15T13:24:05"
+   },
+   {
+    "query": "collections settle for less lump sum letter template",
+    "time": "2026-05-15T22:36:36"
+   },
+   {
+    "query": "ana titer 1:160 speckled meaning",
+    "time": "2026-05-16T12:32:21"
+   },
+   {
+    "query": "rheumatologist accepts anthem near columbus first available appointment",
+    "time": "2026-05-17T12:08:34"
+   },
+   {
+    "query": "can you get short term disability for autoimmune dental hygienist standing",
+    "time": "2026-05-17T01:05:47"
+   },
+   {
+    "query": "speckled ANA 1:160 what does it mean",
+    "time": "2026-05-18T12:33:59"
+   },
+   {
+    "query": "rheumatologist columbus ohio accepts my insurance new patient",
+    "time": "2026-05-18T12:56:50"
+   },
+   {
+    "query": "speckled ana pattern lupus vs ra difference",
+    "time": "2026-05-19T00:00:21"
+   },
+   {
+    "query": "how long does it take to get a rheumatology appt",
+    "time": "2026-05-19T12:04:23"
+   },
+   {
+    "query": "rheumatology office hours new patient phone number near me",
+    "time": "2026-05-19T12:41:28"
+   },
+   {
+    "query": "ra disability qualify ohio how does it work",
+    "time": "2026-05-19T23:39:06"
+   },
+   {
+    "query": "what to bring to first rheumatologist appointment",
+    "time": "2026-05-20T13:02:24"
+   },
+   {
+    "query": "adhd evaluation cost without meeting deductible",
+    "time": "2026-05-20T15:14:43"
+   },
+   {
+    "query": "hashimotos antibody panel high what does it mean",
+    "time": "2026-05-21T12:04:13"
+   },
+   {
+    "query": "telehealth rheumatology bridge appt while waiting",
+    "time": "2026-05-21T12:26:55"
+   },
+   {
+    "query": "who is calling from 614 area code debt collector",
+    "time": "2026-05-22T10:26:15"
+   },
+   {
+    "query": "debt consolidation loan bad credit ohio approval odds",
+    "time": "2026-05-22T13:46:32"
+   },
+   {
+    "query": "cash advance no credit check same day",
+    "time": "2026-05-23T00:04:24"
+   },
+   {
+    "query": "remote coding bootcamp for moms part time",
+    "time": "2026-05-23T14:24:54"
+   },
+   {
+    "query": "collections after layoff what happens",
+    "time": "2026-05-23T15:39:50"
+   },
+   {
+    "query": "morning joint stiffness how long means arthritis",
+    "time": "2026-05-23T23:54:13"
+   },
+   {
+    "query": "divorce attorney free consultation columbus",
+    "time": "2026-05-23T01:12:11"
+   },
+   {
+    "query": "churches near hilliard welcoming come back after years away",
+    "time": "2026-05-24T08:06:02"
+   },
+   {
+    "query": "mail order glucose test strips cheap medicare",
+    "time": "2026-05-24T13:50:12"
+   },
+   {
+    "query": "what to expect first rheumatology visit",
+    "time": "2026-05-25T12:36:09"
+   },
+   {
+    "query": "remote dental hygiene coordinator jobs hilliard",
+    "time": "2026-05-25T12:58:05"
+   },
+   {
+    "query": "knuckle swelling stiff in morning ra",
+    "time": "2026-05-26T00:03:01"
+   },
+   {
+    "query": "adhd evaluation cost without meeting deductible ohio",
+    "time": "2026-05-26T12:07:37"
+   },
+   {
+    "query": "medical bill payment plan vs payday loan",
+    "time": "2026-05-26T12:58:48"
+   },
+   {
+    "query": "free child focus quiz kids attention",
+    "time": "2026-05-26T00:27:00"
+   },
+   {
+    "query": "brayden eval sliding scale clinic columbus",
+    "time": "2026-05-27T12:46:18"
+   },
+   {
+    "query": "hashimotos symptoms vs ra difference",
+    "time": "2026-05-27T23:41:38"
+   },
+   {
+    "query": "divorce consultation free first meeting columbus",
+    "time": "2026-05-28T00:34:37"
+   },
+   {
+    "query": "coding bootcamp for moms remote part time",
+    "time": "2026-05-29T10:25:12"
+   },
+   {
+    "query": "debt consolidation prequalify no ssn",
+    "time": "2026-05-29T22:13:48"
+   },
+   {
+    "query": "cosmetic dentistry financing payment plan",
+    "time": "2026-05-30T11:41:22"
+   },
+   {
+    "query": "ra bloodwork list what tests rheumatologist orders",
+    "time": "2026-05-30T14:29:25"
+   },
+   {
+    "query": "zillow lexington ky homes for sale",
+    "time": "2026-05-30T14:30:01"
+   },
+   {
+    "query": "should i go back to church hilliard",
+    "time": "2026-05-31T08:47:05"
+   },
+   {
+    "query": "what to bring to first rheumatology appointment",
+    "time": "2026-05-31T22:51:02"
+   },
+   {
+    "query": "cant sleep anxious about everything",
+    "time": "2026-05-31T01:07:15"
+   }
+  ],
+  "calendar": [
+   {
+    "summary": "Call mom's pharmacy — refill metformin",
+    "time": "2026-05-06T12:22:51"
+   },
+   {
+    "summary": "Kids' week: Tues cheer 5:30, Brayden eval (reschedule?)",
+    "time": "2026-05-10T10:35:43"
+   },
+   {
+    "summary": "call Brayden's teacher re: eval — Mon??",
+    "time": "2026-05-12T19:46:44"
+   },
+   {
+    "summary": "✓ called pharmacy — mom's metformin refill ordered, ready Fri",
+    "time": "2026-05-15T15:44:38"
+   },
+   {
+    "summary": "rheum appt?? — CALL MON (still need to book Brayden eval too)",
+    "time": "2026-05-17T20:06:01"
+   },
+   {
+    "summary": "Work — short day (9–3) · call rheum on break",
+    "time": "2026-05-20T09:13:35"
+   },
+   {
+    "summary": "Rheumatology new-patient visit — booked for Jun 30, 10:15am",
+    "time": "2026-05-20T13:10:34"
+   },
+   {
+    "summary": "Update fridge calendar — kids' camp drop-off, mom's grocery order, my shifts",
+    "time": "2026-05-24T09:39:43"
+   },
+   {
+    "summary": "B eval call?? (Fri — find provider)",
+    "time": "2026-05-27T14:35:03"
+   }
+  ],
+  "videos": [
+   {
+    "title": "How to Read Your Blood Sugar Log: A Simple Guide for Caregivers",
+    "channel": "Diabetes Daily",
+    "time": "2026-05-12T17:09:38"
+   },
+   {
+    "title": "7 Signs Your Child's ADHD Is Being Overlooked (What Teachers Won't Tell You)",
+    "channel": "MomLife Daily",
+    "time": "2026-05-26T15:49:50"
+   },
+   {
+    "title": "Dave Ramsey: The Debt Snowball That Changed Everything | K-LOVE Encouraging Word",
+    "channel": "The Ramsey Show Highlights",
+    "time": "2026-05-27T20:39:42"
+   }
+  ]
+ },
+ "_meta": {
+  "total_days": 30,
+  "n_events": 242
+ }
+}

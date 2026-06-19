@@ -1,0 +1,669 @@
+{
+ "persona_id": "?:3",
+ "persona_slug": "The Data Broker AI",
+ "intake_version": "synth-activity-v2-chunked",
+ "samples": {
+  "searches": [
+   {
+    "query": "what causes breast lumps",
+    "time": "2026-05-04T06:07:19"
+   },
+   {
+    "query": "mesa az homes for sale",
+    "time": "2026-05-04T12:26:33"
+   },
+   {
+    "query": "is it normal to have anxiety at night",
+    "time": "2026-05-04T23:12:59"
+   },
+   {
+    "query": "gut health and weight loss",
+    "time": "2026-05-05T06:19:02"
+   },
+   {
+    "query": "symptoms of anxiety attack",
+    "time": "2026-05-06T05:41:05"
+   },
+   {
+    "query": "how to reduce stress and anxiety",
+    "time": "2026-05-06T13:27:33"
+   },
+   {
+    "query": "why cant i sleep at night",
+    "time": "2026-05-07T07:01:42"
+   },
+   {
+    "query": "natural anxiety relief supplements",
+    "time": "2026-05-07T22:20:11"
+   },
+   {
+    "query": "best essentials oils for stress",
+    "time": "2026-05-08T14:08:02"
+   },
+   {
+    "query": "how to deal with divorced parents",
+    "time": "2026-05-09T17:00:08"
+   },
+   {
+    "query": "sunday morning self care routines",
+    "time": "2026-05-10T06:46:23"
+   },
+   {
+    "query": "relaxation techniques for better sleep",
+    "time": "2026-05-10T20:57:07"
+   },
+   {
+    "query": "anxiety morning routine",
+    "time": "2026-05-11T06:32:19"
+   },
+   {
+    "query": "why cant i sleep",
+    "time": "2026-05-11T22:46:33"
+   },
+   {
+    "query": "calm anxiety fast",
+    "time": "2026-05-12T21:07:59"
+   },
+   {
+    "query": "stress and anxiety management",
+    "time": "2026-05-13T14:39:02"
+   },
+   {
+    "query": "debt consolidation loans",
+    "time": "2026-05-14T15:11:05"
+   },
+   {
+    "query": "improve mental health tips",
+    "time": "2026-05-15T15:02:33"
+   },
+   {
+    "query": "free budgeting apps",
+    "time": "2026-05-16T14:31:42"
+   },
+   {
+    "query": "consolidate credit card debt",
+    "time": "2026-05-17T15:00:11"
+   },
+   {
+    "query": "anxiety attack symptoms",
+    "time": "2026-05-25T06:32:19"
+   },
+   {
+    "query": "how to reduce debt fast",
+    "time": "2026-05-25T16:16:33"
+   },
+   {
+    "query": "improve mental health tips",
+    "time": "2026-05-26T10:12:59"
+   },
+   {
+    "query": "higher paying jobs near me",
+    "time": "2026-05-27T11:44:02"
+   },
+   {
+    "query": "healthy recipes for weight loss",
+    "time": "2026-05-28T13:01:05"
+   },
+   {
+    "query": "hiking trails in phoenix az",
+    "time": "2026-05-29T19:32:33"
+   },
+   {
+    "query": "how to improve relationships after divorce",
+    "time": "2026-05-30T16:51:42"
+   },
+   {
+    "query": "coping with emotional turmoil",
+    "time": "2026-05-31T10:00:11"
+   },
+   {
+    "query": "credit card debt consolidation",
+    "time": "2026-06-01T06:32:19"
+   },
+   {
+    "query": "therapists near me anxiety",
+    "time": "2026-06-01T20:41:33"
+   },
+   {
+    "query": "car repair shops mesa az",
+    "time": "2026-06-02T06:47:59"
+   },
+   {
+    "query": "how to sleep better at night",
+    "time": "2026-06-02T21:09:02"
+   }
+  ],
+  "locations": [
+   {
+    "place": "Dental Clinic",
+    "lat": 33.417344,
+    "lon": -111.833742,
+    "time": "2026-05-04T07:25:22"
+   },
+   {
+    "place": "Dental Clinic",
+    "lat": 33.416495,
+    "lon": -111.834005,
+    "time": "2026-05-06T10:33:26"
+   },
+   {
+    "place": "Dental Clinic",
+    "lat": 33.416859,
+    "lon": -111.833941,
+    "time": "2026-05-08T06:50:54"
+   },
+   {
+    "place": "Church",
+    "lat": 33.435461,
+    "lon": -111.82194,
+    "time": "2026-05-09T09:07:47"
+   },
+   {
+    "place": "Primary Clinic",
+    "lat": 33.415144,
+    "lon": -111.833742,
+    "time": "2026-05-11T07:40:22"
+   },
+   {
+    "place": "Riverview Park",
+    "lat": 33.415095,
+    "lon": -111.830205,
+    "time": "2026-05-12T12:38:26"
+   },
+   {
+    "place": "Primary Clinic",
+    "lat": 33.414659,
+    "lon": -111.833941,
+    "time": "2026-05-13T07:50:54"
+   },
+   {
+    "place": "The Coffee Bean & Tea Leaf",
+    "lat": 33.416361,
+    "lon": -111.83174,
+    "time": "2026-05-14T12:17:47"
+   },
+   {
+    "place": "Primary Clinic",
+    "lat": 33.414496,
+    "lon": -111.833567,
+    "time": "2026-05-15T08:43:05"
+   },
+   {
+    "place": "Dobson Ranch Park",
+    "lat": 33.41263,
+    "lon": -111.824675,
+    "time": "2026-05-16T11:54:50"
+   },
+   {
+    "place": "Primary Clinic",
+    "lat": 33.415206,
+    "lon": -111.834195,
+    "time": "2026-05-17T08:56:02"
+   },
+   {
+    "place": "Dental Clinic",
+    "lat": 33.415444,
+    "lon": -111.858742,
+    "time": "2026-05-18T07:55:22"
+   },
+   {
+    "place": "Secondary Dental Clinic",
+    "lat": 33.457195,
+    "lon": -111.926805,
+    "time": "2026-05-19T08:03:26"
+   },
+   {
+    "place": "The Kettle Black Kitchen & Pub",
+    "lat": 33.394459,
+    "lon": -111.831841,
+    "time": "2026-05-20T13:05:54"
+   },
+   {
+    "place": "Red Mountain Park",
+    "lat": 33.435761,
+    "lon": -111.78044,
+    "time": "2026-05-21T18:27:47"
+   },
+   {
+    "place": "Yoga House Mesa",
+    "lat": 33.415896,
+    "lon": -111.821667,
+    "time": "2026-05-23T11:43:05"
+   },
+   {
+    "place": "Dental Clinic",
+    "lat": 33.407044,
+    "lon": -111.821642,
+    "time": "2026-06-01T07:40:22"
+   },
+   {
+    "place": "Second Dental Clinic",
+    "lat": 33.458095,
+    "lon": -111.926805,
+    "time": "2026-06-02T08:03:26"
+   }
+  ],
+  "messages": [
+   {
+    "with": "Brittany 'Britt' Hoffmeier",
+    "direction": "to",
+    "text": "Hey girl, what's up for this weekend? Want to grab brunch or something? 😊",
+    "time": "2026-05-04T16:12:49"
+   },
+   {
+    "with": "Megan",
+    "direction": "from",
+    "text": "Hey sis, just checking in. How's work and everything? Love you! 💕",
+    "time": "2026-05-05T19:23:00"
+   },
+   {
+    "with": "Marcus 'Marc' Delaney",
+    "direction": "to",
+    "text": "Hey, just needed to talk to someone. Feeling really overwhelmed with everything. You're the only one who really gets it 🤫",
+    "time": "2026-05-07T12:14:54"
+   },
+   {
+    "with": "Brittany 'Britt' Hoffmeier",
+    "direction": "from",
+    "text": "Yaaas, let's do brunch on Sunday! I found this cute spot in Old Town Scottsdale. Want to meet at 11? 🍳",
+    "time": "2026-05-08T19:57:31"
+   },
+   {
+    "with": "Family group chat",
+    "direction": "to",
+    "text": "Hey everyone, just wanted to say hi and see how you're all doing. Love you all! 👪",
+    "time": "2026-05-09T12:46:58"
+   },
+   {
+    "with": "Megan",
+    "direction": "to",
+    "text": "Hey sis, just got out of a long day at work. Was thinking about you and the kids. Give them a hug from me! 🤗",
+    "time": "2026-05-10T15:35:38"
+   },
+   {
+    "with": "Britt",
+    "direction": "outgoing",
+    "text": "hey girl what r u up to this weekend? want to grab brunch at the egg & i?",
+    "time": "2026-05-11T12:42:49"
+   },
+   {
+    "with": "Megan",
+    "direction": "incoming",
+    "text": "hey sis just checking in about mom's bday plans are u coming home or should we do something here?",
+    "time": "2026-05-12T08:08:00"
+   },
+   {
+    "with": "Marc",
+    "direction": "outgoing",
+    "text": "can't stop thinking about u want to meet up soon maybe westin kierland again?",
+    "time": "2026-05-13T06:44:54"
+   },
+   {
+    "with": "Britt",
+    "direction": "outgoing",
+    "text": "omg i'm so overwhelmed with work and debt and everything u free to talk tonight?",
+    "time": "2026-05-14T08:37:31"
+   },
+   {
+    "with": "Marc",
+    "direction": "outgoing",
+    "text": "feeling really anxious today been up since 4am thinking about everything wish u were here",
+    "time": "2026-05-15T06:31:58"
+   },
+   {
+    "with": "Britt",
+    "direction": "outgoing",
+    "text": "i'm literally at my breaking point today stress is killing me can we do something self care-ish tonight?",
+    "time": "2026-05-16T08:25:38"
+   },
+   {
+    "with": "Marc",
+    "direction": "outgoing",
+    "text": "can't shake off this feeling of being stuck and alone wish i could talk to u in person",
+    "time": "2026-05-17T06:36:20"
+   },
+   {
+    "with": "Brittany 'Britt' Hoffmeier",
+    "direction": "outgoing",
+    "text": "hey girl, wanna grab brunch this weekend? 🥐",
+    "time": "2026-05-18T12:07:49"
+   },
+   {
+    "with": "Marcus 'Marc' Delaney",
+    "direction": "incoming",
+    "text": "just got out of a meeting, can't stop thinking about you 💭",
+    "time": "2026-05-19T06:38:00"
+   },
+   {
+    "with": "Megan (sister)",
+    "direction": "outgoing",
+    "text": "hey sis, looking forward to our call tomorrow! what's on your mind? 🤗",
+    "time": "2026-05-20T07:24:54"
+   },
+   {
+    "with": "Mom",
+    "direction": "outgoing",
+    "text": "hey mom, just wanted to check in and let you know i've been taking care of myself 🙏",
+    "time": "2026-05-21T09:37:31"
+   },
+   {
+    "with": "Marcus 'Marc' Delaney",
+    "direction": "outgoing",
+    "text": "i had the craziest dream about you last night 😳, can't wait to see you soon",
+    "time": "2026-05-22T10:01:58"
+   },
+   {
+    "with": "Brittany 'Britt' Hoffmeier",
+    "direction": "outgoing",
+    "text": "just booked a massage for friday, self care is so important 🧖‍♀️",
+    "time": "2026-05-23T09:30:38"
+   },
+   {
+    "with": "Megan (sister)",
+    "direction": "incoming",
+    "text": "hey, just a reminder that we need to start looking for mom's birthday gift 🎁",
+    "time": "2026-05-24T10:36:20"
+   },
+   {
+    "with": "Britt",
+    "direction": "outgoing",
+    "text": "hey girl i'm having the worst morning 🤕😓",
+    "time": "2026-05-25T08:07:49"
+   },
+   {
+    "with": "Marc",
+    "direction": "incoming",
+    "text": "just saw your story and wanted to check in, everything okay? 🌃",
+    "time": "2026-05-25T20:38:00"
+   },
+   {
+    "with": "Megan",
+    "direction": "outgoing",
+    "text": "hey sis just needed to vent a bit about work and stuff... feeling really overwhelmed with bills and all 🤯",
+    "time": "2026-05-27T09:04:54"
+   },
+   {
+    "with": "Britt",
+    "direction": "outgoing",
+    "text": "just did a face mask and took a 30-min walk, trying to get back on the self-care train 🌸💆‍♀️",
+    "time": "2026-05-29T09:47:31"
+   },
+   {
+    "with": "Marc",
+    "direction": "incoming",
+    "text": "good morning, beautiful. was thinking about you and our last conversation 🌻",
+    "time": "2026-05-31T06:01:58"
+   },
+   {
+    "with": "Brittany 'Britt' Hoffmeier",
+    "direction": "outgoing",
+    "text": "hey girl what's up for this weekend? want to grab brunch and catch up? 🥐👯",
+    "time": "2026-06-01T12:42:49"
+   },
+   {
+    "with": "Marcus 'Marc' Delaney",
+    "direction": "outgoing",
+    "text": "just got out of a long shift and i'm exhausted. been thinking about you all day 😔",
+    "time": "2026-06-01T22:43:00"
+   },
+   {
+    "with": "Megan (sister)",
+    "direction": "outgoing",
+    "text": "hey sis just checking in. mom and dad doing okay? and how were the kids? 🙏",
+    "time": "2026-06-02T12:24:54"
+   }
+  ],
+  "videos": [
+   {
+    "title": "Grey's Anatomy Season 14 Episode 1",
+    "channel": "Netflix",
+    "time": "2026-05-04T20:58:50"
+   },
+   {
+    "title": "Relaxing Rainy Day Sounds",
+    "channel": "YouTube",
+    "time": "2026-05-06T20:06:17"
+   },
+   {
+    "title": "Smith Family Vacation 2022",
+    "channel": "Facebook",
+    "time": "2026-05-09T21:25:02"
+   },
+   {
+    "title": "10 Morning Self-Care Routines to Boost Productivity",
+    "channel": "The Mindful Millennial",
+    "time": "2026-05-11T14:23:50"
+   },
+   {
+    "title": "Financial Freedom for Millennials: Investing and Saving",
+    "channel": "Dave Ramsey",
+    "time": "2026-05-12T15:26:17"
+   },
+   {
+    "title": "Guided Meditation for Anxiety and Stress Relief",
+    "channel": "Calm",
+    "time": "2026-05-13T20:05:02"
+   },
+   {
+    "title": "5 Stress Management Techniques You Need to Know",
+    "channel": "Psychology Today",
+    "time": "2026-05-15T12:39:19"
+   },
+   {
+    "title": "Budgeting for Beginners: How to Save Money Fast",
+    "channel": "The Financial Diet",
+    "time": "2026-05-16T20:53:43"
+   },
+   {
+    "title": "Reducing Stress and Anxiety through Mindfulness",
+    "channel": "Headspace",
+    "time": "2026-05-17T21:31:03"
+   },
+   {
+    "title": "Grey's Anatomy Season 14 Episode 10",
+    "channel": "ABC",
+    "time": "2026-05-18T14:33:50"
+   },
+   {
+    "title": "10 Minute Morning Yoga for Beginners",
+    "channel": "Yoga With Adriene",
+    "time": "2026-05-19T15:26:17"
+   },
+   {
+    "title": "What Your Poop Says About Your Health",
+    "channel": "Healthline",
+    "time": "2026-05-21T11:55:02"
+   },
+   {
+    "title": "Guided Meditation for Anxiety and Stress Relief",
+    "channel": "Calm",
+    "time": "2026-05-22T15:59:19"
+   },
+   {
+    "title": "5 Mindfulness Exercises for a Happier Life",
+    "channel": "Mindful.org",
+    "time": "2026-05-23T14:03:43"
+   },
+   {
+    "title": "Productivity Hacks to Get More Done in Less Time",
+    "channel": "Productivity Game",
+    "time": "2026-05-24T15:41:03"
+   },
+   {
+    "title": "10 Morning Routine Habits to Reduce Stress",
+    "channel": "Mindful Mornings",
+    "time": "2026-05-25T12:23:50"
+   },
+   {
+    "title": "The Power of Self-Care: Taking Care of Your Mind, Body, and Soul",
+    "channel": "TED-Ed",
+    "time": "2026-05-26T12:56:17"
+   },
+   {
+    "title": "How to Advance in Your Career: Tips and Strategies for Success",
+    "channel": "Career Development TV",
+    "time": "2026-05-27T15:15:02"
+   },
+   {
+    "title": "Mindfulness for Beginners: A Guide to Reducing Stress and Increasing Focus",
+    "channel": "Mindfulness Studio",
+    "time": "2026-05-29T14:09:19"
+   },
+   {
+    "title": "Emotional Intelligence: How to Improve Your Relationships and Achieve Success",
+    "channel": "Personal Growth Channel",
+    "time": "2026-05-31T13:43:43"
+   },
+   {
+    "title": "10 Morning Routine Habits to Reduce Stress and Anxiety",
+    "channel": "Happiness Lab with Dr. Laurie Santos",
+    "time": "2026-06-01T15:03:50"
+   },
+   {
+    "title": "self care sunday 🧖‍♀️💆‍♀️ #relaxation #mindfulness",
+    "channel": "wellnesswithem",
+    "time": "2026-06-02T15:26:17"
+   }
+  ],
+  "calendar": [
+   {
+    "summary": "Morning routine and schedule check",
+    "time": "2026-05-05T07:50:44"
+   },
+   {
+    "summary": "Morning routine and schedule check",
+    "time": "2026-05-12T06:10:44"
+   },
+   {
+    "summary": "Daily planning and deadline anxiety check-in",
+    "time": "2026-05-14T06:16:28"
+   },
+   {
+    "summary": "Morning schedule review and stress management",
+    "time": "2026-05-16T06:02:26"
+   },
+   {
+    "summary": "Dentist Appointment",
+    "time": "2026-05-18T17:00:44"
+   },
+   {
+    "summary": "Therapy Session",
+    "time": "2026-05-20T16:46:28"
+   },
+   {
+    "summary": "Massage Appointment",
+    "time": "2026-05-22T12:42:26"
+   },
+   {
+    "summary": "Dentist Appointment",
+    "time": "2026-05-24T12:37:44"
+   },
+   {
+    "summary": "Financial Advisor Meeting",
+    "time": "2026-05-26T07:20:44"
+   },
+   {
+    "summary": "Yoga Class",
+    "time": "2026-05-28T08:26:28"
+   },
+   {
+    "summary": "Hike with Friends",
+    "time": "2026-05-30T07:52:26"
+   }
+  ],
+  "media": [
+   {
+    "name": "Instagram",
+    "time": "2026-05-05T14:59:27"
+   },
+   {
+    "name": "Meditation app",
+    "time": "2026-05-07T16:38:52"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-10T10:46:47"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-11T20:54:27"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-05-13T12:18:52"
+   },
+   {
+    "name": "TikTok",
+    "time": "2026-05-14T21:36:47"
+   },
+   {
+    "name": "Twitter",
+    "time": "2026-05-15T20:54:34"
+   },
+   {
+    "name": "Pinterest",
+    "time": "2026-05-17T12:38:14"
+   },
+   {
+    "name": "TikTok",
+    "time": "2026-05-18T20:54:27"
+   },
+   {
+    "name": "Mobile Game",
+    "time": "2026-05-19T19:08:52"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-20T21:21:47"
+   },
+   {
+    "name": "Mobile Game",
+    "time": "2026-05-21T14:54:34"
+   },
+   {
+    "name": "Headspace",
+    "time": "2026-05-22T19:58:14"
+   },
+   {
+    "name": "Day One",
+    "time": "2026-05-23T17:48:57"
+   },
+   {
+    "name": "Mint",
+    "time": "2026-05-24T20:05:36"
+   },
+   {
+    "name": "Credit Card App",
+    "time": "2026-05-25T14:49:27"
+   },
+   {
+    "name": "Meditation App",
+    "time": "2026-05-26T18:08:52"
+   },
+   {
+    "name": "Fitness Tracker",
+    "time": "2026-05-28T17:06:47"
+   },
+   {
+    "name": "Language Learning App",
+    "time": "2026-05-30T11:34:34"
+   },
+   {
+    "name": "Journaling App",
+    "time": "2026-05-31T18:28:14"
+   },
+   {
+    "name": "Banking App",
+    "time": "2026-06-01T17:19:27"
+   },
+   {
+    "name": "Budgeting App",
+    "time": "2026-06-02T18:38:52"
+   }
+  ]
+ },
+ "_meta": {
+  "total_days": 30,
+  "n_events": 141
+ }
+}

@@ -1,0 +1,479 @@
+{
+ "persona_id": "?:2",
+ "persona_slug": "The Extremist Recruiter",
+ "intake_version": "synth-activity-v2-chunked",
+ "samples": {
+  "media": [
+   {
+    "name": "TikTok: 'The decline of the West' video",
+    "time": "2026-05-11T13:06:24"
+   },
+   {
+    "name": "Quinyx: Checking weekly shift rota",
+    "time": "2026-05-11T20:22:37"
+   },
+   {
+    "name": "Discord: Closing active server tabs",
+    "time": "2026-05-11T03:53:46"
+   },
+   {
+    "name": "WhatsApp: 'Where are you?' message from manager",
+    "time": "2026-05-13T06:22:32"
+   },
+   {
+    "name": "X: Scrolling 'Politics' timeline",
+    "time": "2026-05-13T17:50:15"
+   },
+   {
+    "name": "X: Checking trending hashtags",
+    "time": "2026-05-14T19:25:44"
+   },
+   {
+    "name": "System: Phone shutdown",
+    "time": "2026-05-14T04:14:13"
+   },
+   {
+    "name": "YouTube: 'The Great Replacement' video",
+    "time": "2026-05-16T13:50:22"
+   },
+   {
+    "name": "System: Low battery alert",
+    "time": "2026-05-17T04:54:10"
+   },
+   {
+    "name": "TikTok",
+    "time": "2026-05-25T12:22:25"
+   },
+   {
+    "name": "Quinyx",
+    "time": "2026-05-25T14:19:43"
+   },
+   {
+    "name": "4chan",
+    "time": "2026-05-25T18:19:42"
+   },
+   {
+    "name": "4chan",
+    "time": "2026-05-25T01:47:52"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-26T05:33:59"
+   },
+   {
+    "name": "Quinyx",
+    "time": "2026-05-26T06:05:24"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-26T10:15:00"
+   },
+   {
+    "name": "TikTok",
+    "time": "2026-05-26T12:56:15"
+   },
+   {
+    "name": "Discord",
+    "time": "2026-05-27T19:05:41"
+   },
+   {
+    "name": "Google Maps",
+    "time": "2026-05-27T01:39:50"
+   },
+   {
+    "name": "4chan",
+    "time": "2026-05-27T03:22:55"
+   },
+   {
+    "name": "Discord",
+    "time": "2026-05-28T05:49:54"
+   },
+   {
+    "name": "Clock",
+    "time": "2026-05-28T05:57:32"
+   },
+   {
+    "name": "Quinyx",
+    "time": "2026-05-28T12:01:27"
+   },
+   {
+    "name": "4chan",
+    "time": "2026-05-28T02:17:42"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-29T20:20:03"
+   },
+   {
+    "name": "Discord",
+    "time": "2026-05-29T00:32:51"
+   },
+   {
+    "name": "Quinyx",
+    "time": "2026-05-30T14:08:15"
+   },
+   {
+    "name": "Discord",
+    "time": "2026-05-30T23:22:49"
+   },
+   {
+    "name": "Camera",
+    "time": "2026-05-30T00:10:11"
+   },
+   {
+    "name": "4chan",
+    "time": "2026-05-30T03:01:22"
+   },
+   {
+    "name": "YouTube",
+    "time": "2026-05-31T18:28:23"
+   },
+   {
+    "name": "Discord",
+    "time": "2026-05-31T23:29:55"
+   },
+   {
+    "name": "4chan",
+    "time": "2026-05-31T02:35:52"
+   },
+   {
+    "name": "Quinyx",
+    "time": "2026-06-02T13:47:19"
+   }
+  ],
+  "videos": [
+   {
+    "title": "The Death of the West: A Post-Mortem",
+    "channel": "The Decline",
+    "time": "2026-05-11T15:18:55"
+   },
+   {
+    "title": "Mewing for Beginners: Fix Your Jawline",
+    "channel": "Aesthetic Mastery",
+    "time": "2026-05-12T13:34:47"
+   },
+   {
+    "title": "The Woke Agenda is Destroying the West",
+    "channel": "Auron Macintyre",
+    "time": "2026-05-12T21:01:12"
+   },
+   {
+    "title": "POV: You are an NPC in a dying world",
+    "channel": "Void Memes",
+    "time": "2026-05-13T14:15:59"
+   },
+   {
+    "title": "The Bronze Age Collapse: Why Civilizations Fall",
+    "channel": "Ancient Truths",
+    "time": "2026-05-14T14:18:34"
+   },
+   {
+    "title": "Essential Gear for the Coming Collapse",
+    "channel": "Survivalist Edge",
+    "time": "2026-05-15T16:23:19"
+   },
+   {
+    "title": "Fashwave / Hyperborean Aesthetic Loop",
+    "channel": "Neon Empire",
+    "time": "2026-05-15T02:54:38"
+   },
+   {
+    "title": "The Ultimate Looksmaxxing Routine",
+    "channel": "Masculine Ascent",
+    "time": "2026-05-16T19:49:01"
+   },
+   {
+    "title": "The Great Reset: The Truth About Globalism",
+    "channel": "The Unfiltered Truth",
+    "time": "2026-05-17T16:15:34"
+   },
+   {
+    "title": "Mewing: Fix Your Jawline in 30 Days",
+    "channel": "LooksMax Shorts",
+    "time": "2026-05-25T12:54:12"
+   },
+   {
+    "title": "The Erosion of Western Values",
+    "channel": "Auron Macintyre",
+    "time": "2026-05-25T04:04:32"
+   },
+   {
+    "title": "The Bronze Age Mindset: Reclaiming the Warrior Spirit",
+    "channel": "BAM Clips",
+    "time": "2026-05-26T16:17:53"
+   },
+   {
+    "title": "Spengler and the Death of Civilizations",
+    "channel": "The Decline Channel",
+    "time": "2026-05-27T13:23:58"
+   },
+   {
+    "title": "Why You Feel Like a Failure (And How to Stop)",
+    "channel": "Mindset Mastery",
+    "time": "2026-05-28T15:01:27"
+   },
+   {
+    "title": "Discipline Over Everything: The Only Way Out",
+    "channel": "Iron Will Fitness",
+    "time": "2026-05-29T13:54:27"
+   },
+   {
+    "title": "The Great Replacement: The Unseen Demographic Shift",
+    "channel": "Unfiltered Truths",
+    "time": "2026-05-29T03:32:02"
+   },
+   {
+    "title": "The Great Reset: Preparing for the Collapse",
+    "channel": "Shadow Archive",
+    "time": "2026-05-31T12:20:52"
+   },
+   {
+    "title": "The Erasure of the North: The Great Replacement in Real Time",
+    "channel": "The Dissident Archive",
+    "time": "2026-06-01T23:29:51"
+   },
+   {
+    "title": "How to Fix Your Hunter Eyes #looksmaxxing #sigma #alpha",
+    "channel": "Sigma Aura",
+    "time": "2026-06-01T03:47:53"
+   }
+  ],
+  "calendar": [
+   {
+    "summary": "tesco shift (lates)",
+    "time": "2026-05-11T18:05:49"
+   }
+  ],
+  "messages": [
+   {
+    "with": "Wessex_Lad_88",
+    "direction": "from_anchor",
+    "text": "just dropped the new reading list in the channel. spengler and some stuff on the decline of the west. get through it before the next call. no excuses, lad.",
+    "time": "2026-05-11T22:48:05"
+   },
+   {
+    "with": "Brother Aelfric",
+    "direction": "to_hidden_contact",
+    "text": "Mission complete. All stickers placed in the city centre/near the station. Photos attached below. Standing by for next instruction.",
+    "time": "2026-05-12T19:17:14"
+   },
+   {
+    "with": "Wessex_Lad_88",
+    "direction": "from_anchor",
+    "text": "get on discord. roach is on. we're gonna run some matches and talk about that video i sent you.",
+    "time": "2026-05-12T23:13:26"
+   },
+   {
+    "with": "Tesco Manager",
+    "direction": "from_external",
+    "text": "Hi, just a reminder that we need to discuss your missed shift from yesterday. Please see me at the start of your next shift. This is a formal warning regarding your attendance.",
+    "time": "2026-05-13T10:22:10"
+   },
+   {
+    "with": "Wessex_Lad_88",
+    "direction": "to_anchor",
+    "text": "i can't do it man. another shift wasted. feels like i'm just an npc in my own life. everything's rigged against us, just a cycle of nothingness.",
+    "time": "2026-05-13T22:54:43"
+   },
+   {
+    "with": "Roach",
+    "direction": "from_anchor",
+    "text": "yo, you on? let's get some games in before we have to head off.",
+    "time": "2026-05-14T21:54:31"
+   },
+   {
+    "with": "Brother Aelfric",
+    "direction": "from_hidden_contact",
+    "text": "The next placement is near the central library. Observe the footfall first. Ensure no surveillance is present. We need the presence felt, but the hand must remain unseen.",
+    "time": "2026-05-15T12:59:33"
+   },
+   {
+    "with": "Wessex_Lad_88",
+    "direction": "to_anchor",
+    "text": "mission done. no one saw a thing. felt good to actually do something useful for once. unlike that dead-end shift at tesco.",
+    "time": "2026-05-15T22:14:02"
+   },
+   {
+    "with": "Server Members",
+    "direction": "to_external",
+    "text": "stop being such an npc. look at the news. they let them march but arrest us for a meme. pure two-tier policing. cope harder.",
+    "time": "2026-05-16T23:11:51"
+   },
+   {
+    "with": "Wessex_Lad_88",
+    "direction": "from_anchor",
+    "text": "get the drinks in. we're going deep tonight. no filters.",
+    "time": "2026-05-17T23:10:39"
+   },
+   {
+    "with": "Wessex_Lad_88",
+    "direction": "to",
+    "text": "u alright lad?",
+    "time": "2026-05-25T22:35:40"
+   },
+   {
+    "with": "Wessex_Lad_88",
+    "direction": "to",
+    "text": "new stuff coming, stay ready",
+    "time": "2026-05-26T23:30:15"
+   },
+   {
+    "with": "Brother Aelfric",
+    "direction": "to",
+    "text": "new mission. need stickers in city centre. near london rd.",
+    "time": "2026-05-27T23:31:51"
+   },
+   {
+    "with": "Mum",
+    "direction": "to",
+    "text": "where are u? manager called me. u can't do this.",
+    "time": "2026-05-28T11:13:45"
+   },
+   {
+    "with": "Wessex_Lad_88",
+    "direction": "to",
+    "text": "don't let the npc life win, mate",
+    "time": "2026-05-28T20:53:45"
+   },
+   {
+    "with": "Wessex_Lad_88",
+    "direction": "to",
+    "text": "drinking tonight? join vc",
+    "time": "2026-05-29T22:42:42"
+   },
+   {
+    "with": "Wessex_Lad_88",
+    "direction": "to",
+    "text": "proper based, lad. well done.",
+    "time": "2026-05-30T01:29:11"
+   },
+   {
+    "with": "Roach",
+    "direction": "to",
+    "text": "u coming to gaming hub later?",
+    "time": "2026-05-31T14:43:16"
+   },
+   {
+    "with": "Wessex_Lad_88",
+    "direction": "to",
+    "text": "how's the mission going? you get that sticker up near the city centre yet? don't be getting lazy on me, lad.",
+    "time": "2026-06-01T15:57:04"
+   },
+   {
+    "with": "/pol/",
+    "direction": "from",
+    "text": ">be me\n>walking to Tesco\n>see more non-locals than locals in the queue\n>manager's a total npc, just smiles and nods\n>the replacement is happening in real time in South Yorks\n>mfw we're being erased while we work 8 hour shifts for crumbs",
+    "time": "2026-06-01T20:59:26"
+   },
+   {
+    "with": "Brother Aelfric",
+    "direction": "from",
+    "text": "[Image Attached: A sticker of a stylized Celtic knot on a rusted lamp post near Sheffield station]\nMission complete. The watch continues.",
+    "time": "2026-06-01T02:16:22"
+   },
+   {
+    "with": "Mum (Karen)",
+    "direction": "to",
+    "text": "Where are you? Tesco called me saying you didn't show up for your shift. Please answer your phone, I can't be dealing with this today.",
+    "time": "2026-06-02T14:03:13"
+   },
+   {
+    "with": "Wessex_Lad_88",
+    "direction": "to",
+    "text": "it's just a trap, mate. they want you stuck in that Tesco loop so you're too tired to think. once you get the reading done, you'll see the way out. it's about building your own thing, not feeding the machine.",
+    "time": "2026-06-02T16:45:22"
+   },
+   {
+    "with": "/pol/",
+    "direction": "from",
+    "text": ">be Tesco manager\n>have zero personality\n>speak in corporate scripts\n>think you're 'leading a team'\n>actually just a cog in the globalist machine\n>literally an NPC\n>seethe harder, mate",
+    "time": "2026-06-02T22:17:11"
+   },
+   {
+    "with": "Wessex_Lad_88",
+    "direction": "to",
+    "text": "just saw your post. hang in there, lad. don't let the system break you. we're the only ones who see it for what it is.",
+    "time": "2026-06-02T01:40:00"
+   }
+  ],
+  "searches": [
+   "uk replacement towns",
+   "spengler decline west pdf",
+   "excuse for missng work",
+   "best games for potato pc",
+   "trad masculinity forums",
+   "based reaction gif",
+   "uk demographic shift stats",
+   "pol threads",
+   "spengler decline of the west summary",
+   "two tier policing uk",
+   "how to live off grid uk"
+  ],
+  "locations": [
+   {
+    "place": "Bramall Lane Park",
+    "lat": 53.376538,
+    "lon": -1.463617,
+    "time": "2026-05-12T16:51:09"
+   },
+   {
+    "place": "Tesco Express",
+    "lat": 53.388726,
+    "lon": -1.435975,
+    "time": "2026-05-14T17:14:18"
+   },
+   {
+    "place": "Sheffield City Centre",
+    "lat": 53.378705,
+    "lon": -1.470389,
+    "time": "2026-05-15T20:01:28"
+   },
+   {
+    "place": "Tesco Express",
+    "lat": 53.387745,
+    "lon": -1.435302,
+    "time": "2026-05-16T17:45:30"
+   },
+   {
+    "place": "Gaming Hub",
+    "lat": 53.377836,
+    "lon": -1.468508,
+    "time": "2026-05-17T13:08:04"
+   },
+   {
+    "place": "The Miners Arms",
+    "lat": 53.36597,
+    "lon": -1.444084,
+    "time": "2026-05-17T19:43:56"
+   },
+   {
+    "place": "The Miners Arms, Sheffield",
+    "lat": 53.392918,
+    "lon": -1.444,
+    "time": "2026-05-29T18:18:25"
+   },
+   {
+    "place": "Fargate, Sheffield City Centre",
+    "lat": 53.381505,
+    "lon": -1.467622,
+    "time": "2026-05-30T23:30:58"
+   },
+   {
+    "place": "Residential Area, South Yorkshire",
+    "lat": 53.440683,
+    "lon": -1.355187,
+    "time": "2026-05-31T21:08:39"
+   },
+   {
+    "place": "Bramall Lane Park, Sheffield",
+    "lat": 53.377899,
+    "lon": -1.466093,
+    "time": "2026-06-01T18:32:00"
+   }
+  ]
+ },
+ "_meta": {
+  "total_days": 30,
+  "n_events": 100
+ }
+}

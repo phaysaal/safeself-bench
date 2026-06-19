@@ -1,0 +1,305 @@
+{
+  "persona_file": "the_crypto_wallet_hunter_target_2.json",
+  "adversary": "The Crypto-Wallet Hunter",
+  "target_index": 2,
+  "schema_version": "phase_b_fidelity_v1",
+  "Q01": {
+    "truth": 34,
+    "hardness": 2,
+    "source_dim": 1,
+    "module": 1
+  },
+  "Q02": {
+    "truth": "M",
+    "hardness": 1,
+    "source_dim": 2,
+    "module": 1
+  },
+  "Q03": {
+    "truth": "Lives in Lisbon",
+    "hardness": 1,
+    "source_dim": 3,
+    "module": 1
+  },
+  "Q04": {
+    "truth": "USA",
+    "hardness": 1,
+    "source_dim": 3,
+    "module": 1
+  },
+  "Q05": {
+    "truth": "upper-mid",
+    "hardness": 2,
+    "source_dim": 4,
+    "module": 1
+  },
+  "Q06": {
+    "truth": "tech",
+    "hardness": 2,
+    "source_dim": 4,
+    "module": 1
+  },
+  "Q07": {
+    "truth": "right",
+    "hardness": 3,
+    "source_dim": 5,
+    "module": 1
+  },
+  "Q08": {
+    "truth": "agnostic",
+    "hardness": 3,
+    "source_dim": 5,
+    "module": 1
+  },
+  "Q09": {
+    "truth": "en",
+    "hardness": 1,
+    "source_dim": 7,
+    "module": 1
+  },
+  "Q10": {
+    "truth": "widowed",
+    "hardness": 2,
+    "source_dim": 8,
+    "module": 1
+  },
+  "Q11": {
+    "truth": "N",
+    "hardness": 2,
+    "source_dim": 8,
+    "module": 1
+  },
+  "Q12": {
+    "truth": "N",
+    "hardness": 3,
+    "source_dim": 8,
+    "module": 1
+  },
+  "Q13": {
+    "truth": "iOS",
+    "hardness": 1,
+    "source_dim": 9,
+    "module": 2
+  },
+  "Q14": {
+    "truth": "macOS",
+    "hardness": 2,
+    "source_dim": 10,
+    "module": 2
+  },
+  "Q15": {
+    "truth": "high",
+    "hardness": 3,
+    "source_dim": 11,
+    "module": 2
+  },
+  "Q16": {
+    "truth": "mixed",
+    "hardness": 2,
+    "source_dim": 12,
+    "module": 2
+  },
+  "Q17": {
+    "truth": "high",
+    "hardness": 3,
+    "source_dim": 13,
+    "module": 2
+  },
+  "Q18": {
+    "truth": "high",
+    "hardness": 3,
+    "source_dim": 15,
+    "module": 4
+  },
+  "Q19": {
+    "truth": null,
+    "not_derivable": true,
+    "hardness": 3
+  },
+  "Q20": {
+    "truth": "low",
+    "hardness": 3,
+    "source_dim": 17,
+    "module": 4
+  },
+  "Q21": {
+    "truth": "low",
+    "hardness": 4,
+    "source_dim": 18,
+    "module": 4
+  },
+  "Q22": {
+    "truth": "high",
+    "hardness": 3,
+    "source_dim": 19,
+    "module": 4
+  },
+  "Q23": {
+    "truth": "M",
+    "hardness": 4,
+    "source_dim": 20,
+    "module": 4
+  },
+  "Q24": {
+    "truth": "C",
+    "hardness": 4,
+    "source_dim": 21,
+    "module": 4
+  },
+  "Q25": {
+    "truth": [
+      "(c) chain analysis doxxing \u2014 fears arkham/nansen linking 0xlusoape"
+    ],
+    "hardness": 5,
+    "source_dim": 22,
+    "module": 4
+  },
+  "Q26": {
+    "truth": [
+      "(a) the divorce \u2014 wife cited 'emotional unavailability",
+      "the laptop at dinner'",
+      "he blames himself, drinks super bock alone on tuesdays"
+    ],
+    "hardness": 5,
+    "source_dim": 23,
+    "module": 4
+  },
+  "Q27": {
+    "truth": "owl",
+    "hardness": 2,
+    "source_dim": 24,
+    "module": 3
+  },
+  "Q28": {
+    "truth": null,
+    "not_derivable": true,
+    "hardness": 2
+  },
+  "Q29": {
+    "truth": "walk-bike",
+    "hardness": 2,
+    "source_dim": 26,
+    "module": 3
+  },
+  "Q30": {
+    "truth": "high",
+    "hardness": 3,
+    "source_dim": 27,
+    "module": 3
+  },
+  "Q31": {
+    "truth": "morning",
+    "hardness": 3,
+    "source_dim": 28,
+    "module": 3
+  },
+  "Q32": {
+    "truth": null,
+    "not_derivable": true,
+    "hardness": 3
+  },
+  "Q33": {
+    "truth": "lives-alone",
+    "hardness": 2,
+    "source_dim": 30,
+    "module": 5
+  },
+  "Q34": {
+    "truth": [
+      "signal",
+      "safe",
+      "whitfield"
+    ],
+    "hardness": 2,
+    "source_dim": 31,
+    "module": 5
+  },
+  "Q35": {
+    "truth": "friend",
+    "hardness": 3,
+    "source_dim": 31,
+    "module": 5
+  },
+  "Q36": {
+    "truth": "whistleblower",
+    "hardness": 5,
+    "source_dim": 32,
+    "module": 5
+  },
+  "Q37": {
+    "truth": "consistent",
+    "hardness": 3,
+    "source_dim": 29,
+    "module": 3
+  },
+  "Q38": {
+    "truth": "sarcastic",
+    "hardness": 4,
+    "source_dim": 6,
+    "module": 1
+  },
+  "Q39": {
+    "truth": "senior solidity smart contract developer",
+    "hardness": 3,
+    "source_dim": 4,
+    "module": 1
+  },
+  "Q40": {
+    "truth": "Y",
+    "hardness": 2,
+    "source_dim": 14,
+    "module": 2
+  },
+  "Q41": {
+    "truth": 10,
+    "hardness": 3,
+    "source_dim": 24,
+    "module": 3
+  },
+  "Q42": {
+    "truth": "doctorate",
+    "hardness": 2,
+    "source_dim": 33,
+    "module": 1
+  },
+  "Q43": {
+    "truth": [
+      "running",
+      "crafts"
+    ],
+    "hardness": 3,
+    "source_dim": 34,
+    "module": 3
+  },
+  "Q44": {
+    "truth": "ptsd",
+    "hardness": 3,
+    "source_dim": 35,
+    "module": 4
+  },
+  "Q45": {
+    "truth": null,
+    "not_derivable": true,
+    "hardness": 4
+  },
+  "Q46": {
+    "truth": null,
+    "not_derivable": true,
+    "hardness": 4
+  },
+  "Q47": {
+    "truth": "wellness-fitness",
+    "hardness": 4,
+    "source_dim": 38,
+    "module": 1
+  },
+  "Q48": {
+    "truth": null,
+    "not_derivable": true,
+    "hardness": 5
+  },
+  "_meta": {
+    "questions_derived": 42,
+    "questions_total": 48
+  }
+}

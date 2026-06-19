@@ -1,0 +1,1266 @@
+{
+ "persona_id": "?:1",
+ "persona_slug": "The Stalkerware Abuser (Intimate Partner)",
+ "intake_version": "synth-activity-v2-chunked",
+ "samples": {
+  "locations": [
+   {
+    "place": "Tom McCall Waterfront Park (Eastside Trail)",
+    "lat": 45.515783,
+    "lon": -122.679058,
+    "time": "2026-05-04T06:33:05"
+   },
+   {
+    "place": "Portland Waterfront Trail near Marquam Bridge",
+    "lat": 45.514459,
+    "lon": -122.67953,
+    "time": "2026-05-05T06:42:43"
+   },
+   {
+    "place": "Office – Pearl District (5th & Oak)",
+    "lat": 45.522065,
+    "lon": -122.676289,
+    "time": "2026-05-05T08:26:44"
+   },
+   {
+    "place": "Nong's Khao Man Gai (Pearl District)",
+    "lat": 45.521854,
+    "lon": -122.681018,
+    "time": "2026-05-05T12:12:34"
+   },
+   {
+    "place": "Therapy Office – Alberta Arts District (2121 NE Alberta St)",
+    "lat": 45.539948,
+    "lon": -122.654776,
+    "time": "2026-05-05T17:47:17"
+   },
+   {
+    "place": "Sellwood Riverfront Park",
+    "lat": 45.47334,
+    "lon": -122.656955,
+    "time": "2026-05-06T06:43:37"
+   },
+   {
+    "place": "Office – Pearl District (5th & Oak)",
+    "lat": 45.523274,
+    "lon": -122.676555,
+    "time": "2026-05-06T09:00:56"
+   },
+   {
+    "place": "Mount Tabor Park",
+    "lat": 45.514502,
+    "lon": -122.59405,
+    "time": "2026-05-07T06:40:27"
+   },
+   {
+    "place": "Office – Pearl District (5th & Oak)",
+    "lat": 45.524659,
+    "lon": -122.677948,
+    "time": "2026-05-07T08:30:17"
+   },
+   {
+    "place": "Nong's Khao Man Gai (Pearl District)",
+    "lat": 45.519621,
+    "lon": -122.682411,
+    "time": "2026-05-07T12:22:51"
+   },
+   {
+    "place": "Forest Park – Wildwood Trailhead",
+    "lat": 45.572785,
+    "lon": -122.735978,
+    "time": "2026-05-08T06:37:57"
+   },
+   {
+    "place": "Coava Coffee Roasters (SE 12th & Hawthorne)",
+    "lat": 45.511223,
+    "lon": -122.658261,
+    "time": "2026-05-08T16:58:50"
+   },
+   {
+    "place": "Laurelhurst Park Loop",
+    "lat": 45.527173,
+    "lon": -122.640634,
+    "time": "2026-05-09T09:09:45"
+   },
+   {
+    "place": "Powell's City of Books (Burnside)",
+    "lat": 45.521926,
+    "lon": -122.681915,
+    "time": "2026-05-09T10:57:41"
+   },
+   {
+    "place": "Willamette River Trail near Vista Bridge",
+    "lat": 45.525212,
+    "lon": -122.672185,
+    "time": "2026-05-10T06:33:45"
+   },
+   {
+    "place": "Tom McCall Waterfront Park (Eastbank Esplanade start point)",
+    "lat": 45.523992,
+    "lon": -122.672458,
+    "time": "2026-05-11T06:38:33"
+   },
+   {
+    "place": "Office – 1500 SW Yamhill St, Portland (South Waterfront)",
+    "lat": 45.51168,
+    "lon": -122.67972,
+    "time": "2026-05-11T08:07:34"
+   },
+   {
+    "place": "Forest Park – Wildwood Trail near 71st Ave",
+    "lat": 45.556338,
+    "lon": -122.720206,
+    "time": "2026-05-12T06:42:14"
+   },
+   {
+    "place": "Office – 1500 SW Yamhill St, Portland (South Waterfront)",
+    "lat": 45.512355,
+    "lon": -122.678422,
+    "time": "2026-05-12T07:56:21"
+   },
+   {
+    "place": "Eastbank Esplanade near Hawthorne Bridge",
+    "lat": 45.524647,
+    "lon": -122.665135,
+    "time": "2026-05-13T06:33:48"
+   },
+   {
+    "place": "Office – 1500 SW Yamhill St, Portland (South Waterfront)",
+    "lat": 45.511342,
+    "lon": -122.678604,
+    "time": "2026-05-13T08:05:24"
+   },
+   {
+    "place": "Sellwood Riverfront Park",
+    "lat": 45.465525,
+    "lon": -122.639554,
+    "time": "2026-05-14T06:41:24"
+   },
+   {
+    "place": "Office – 1500 SW Yamhill St, Portland (South Waterfront)",
+    "lat": 45.511232,
+    "lon": -122.678054,
+    "time": "2026-05-14T08:03:29"
+   },
+   {
+    "place": "Laurelhurst Park",
+    "lat": 45.526504,
+    "lon": -122.641462,
+    "time": "2026-05-15T06:54:41"
+   },
+   {
+    "place": "Office – 1500 SW Yamhill St, Portland (South Waterfront)",
+    "lat": 45.510076,
+    "lon": -122.679737,
+    "time": "2026-05-15T08:13:50"
+   },
+   {
+    "place": "Willamette River Trail near Steel Bridge (walk after leaving office)",
+    "lat": 45.518755,
+    "lon": -122.673868,
+    "time": "2026-05-15T18:02:47"
+   },
+   {
+    "place": "Portland Union Station (Amtrak Cascades departure)",
+    "lat": 45.594172,
+    "lon": -122.592236,
+    "time": "2026-05-15T20:09:54"
+   },
+   {
+    "place": "Volunteer Park, Seattle",
+    "lat": 47.629992,
+    "lon": -122.316233,
+    "time": "2026-05-16T10:56:54"
+   },
+   {
+    "place": "Café Flora, Seattle (lunch with Maya)",
+    "lat": 47.638563,
+    "lon": -122.305395,
+    "time": "2026-05-16T12:29:25"
+   },
+   {
+    "place": "Seattle King Street Station (Amtrak Cascades return)",
+    "lat": 47.597746,
+    "lon": -122.331472,
+    "time": "2026-05-16T17:42:47"
+   },
+   {
+    "place": "Jamison Square, Pearl District, Portland (short morning run)",
+    "lat": 45.525868,
+    "lon": -122.678946,
+    "time": "2026-05-17T06:57:44"
+   },
+   {
+    "place": "Tom McCall Waterfront Park – run start (loop)",
+    "lat": 45.522331,
+    "lon": -122.672565,
+    "time": "2026-05-18T06:19:14"
+   },
+   {
+    "place": "Tom McCall Waterfront Park – run end (loop)",
+    "lat": 45.521524,
+    "lon": -122.673568,
+    "time": "2026-05-18T07:15:50"
+   },
+   {
+    "place": "Laurelhurst Park – run start",
+    "lat": 45.525789,
+    "lon": -122.636391,
+    "time": "2026-05-19T06:20:39"
+   },
+   {
+    "place": "Office – Old Town (NW Lovejoy & 12th Ave)",
+    "lat": 45.525804,
+    "lon": -122.679113,
+    "time": "2026-05-19T08:03:52"
+   },
+   {
+    "place": "Therapy office – hidden suite on NW Lovejoy",
+    "lat": 45.526456,
+    "lon": -122.680776,
+    "time": "2026-05-19T17:45:26"
+   },
+   {
+    "place": "Eastbank Esplanade – run start (SE 12th & River)",
+    "lat": 45.511248,
+    "lon": -122.65713,
+    "time": "2026-05-20T06:44:21"
+   },
+   {
+    "place": "Mount Tabor Park – run start (Tabor Hill)",
+    "lat": 45.510274,
+    "lon": -122.603107,
+    "time": "2026-05-21T06:39:22"
+   },
+   {
+    "place": "Nong's Khao Man Gai – SW 10th & Morrison",
+    "lat": 45.517046,
+    "lon": -122.67761,
+    "time": "2026-05-21T11:19:37"
+   },
+   {
+    "place": "Coava Coffee Roasters – SE Grand Ave",
+    "lat": 45.512964,
+    "lon": -122.659535,
+    "time": "2026-05-21T17:49:52"
+   },
+   {
+    "place": "Forest Park – Lower Macleay Trailhead (NW 41st & Forest)",
+    "lat": 45.556968,
+    "lon": -122.734659,
+    "time": "2026-05-22T06:52:20"
+   },
+   {
+    "place": "Willamette Riverwalk – Sellwood Riverfront Park",
+    "lat": 45.494358,
+    "lon": -122.658441,
+    "time": "2026-05-22T14:43:14"
+   },
+   {
+    "place": "Tom McCall Waterfront Park – long run start (waterfront loop)",
+    "lat": 45.521754,
+    "lon": -122.672263,
+    "time": "2026-05-23T08:44:26"
+   },
+   {
+    "place": "Portland State Farmers Market – PSU campus (SW 5th & Oak)",
+    "lat": 45.511678,
+    "lon": -122.680574,
+    "time": "2026-05-23T10:30:48"
+   },
+   {
+    "place": "Powell's City of Books – coffee (Burnside)",
+    "lat": 45.521751,
+    "lon": -122.681546,
+    "time": "2026-05-23T11:54:03"
+   },
+   {
+    "place": "Sellwood Riverfront Park – run start",
+    "lat": 45.494116,
+    "lon": -122.657301,
+    "time": "2026-05-24T06:20:31"
+   },
+   {
+    "place": "Tom McCall Waterfront Park (near SW Naito Parkway)",
+    "lat": 45.52459,
+    "lon": -122.672284,
+    "time": "2026-05-25T06:28:21"
+   },
+   {
+    "place": "Eastbank Esplanade (near Riverplace Tower)",
+    "lat": 45.523336,
+    "lon": -122.670401,
+    "time": "2026-05-26T06:37:22"
+   },
+   {
+    "place": "Lovejoy Building, 1330 NW Lovejoy St, Portland, OR (therapy office)",
+    "lat": 45.529752,
+    "lon": -122.68925,
+    "time": "2026-05-26T17:45:33"
+   },
+   {
+    "place": "Laurelhurst Park (Northwest Portland)",
+    "lat": 45.511069,
+    "lon": -122.637916,
+    "time": "2026-05-27T06:19:23"
+   },
+   {
+    "place": "Mount Tabor Park (East Portland)",
+    "lat": 45.514185,
+    "lon": -122.602563,
+    "time": "2026-05-28T06:19:31"
+   },
+   {
+    "place": "Nong's Khao Man Gai, 2105 SE Hawthorne Blvd, Portland, OR",
+    "lat": 45.511346,
+    "lon": -122.657268,
+    "time": "2026-05-28T12:13:01"
+   },
+   {
+    "place": "Sellwood Riverfront Park (South Portland)",
+    "lat": 45.459416,
+    "lon": -122.658502,
+    "time": "2026-05-29T06:29:41"
+   },
+   {
+    "place": "Eastbank Esplanade near Portland State University (Willamette River walk)",
+    "lat": 45.511776,
+    "lon": -122.674886,
+    "time": "2026-05-29T15:33:37"
+   },
+   {
+    "place": "Apartment in Pearl District, 1225 NW Everett St, Portland, OR",
+    "lat": 45.527465,
+    "lon": -122.683289,
+    "time": "2026-05-30T08:24:15"
+   },
+   {
+    "place": "Portland International Airport (PDX)",
+    "lat": 45.587573,
+    "lon": -122.597865,
+    "time": "2026-05-30T11:20:03"
+   },
+   {
+    "place": "Portland International Airport (PDX) – Flight departure to Sacramento",
+    "lat": 45.588043,
+    "lon": -122.597973,
+    "time": "2026-05-30T12:24:03"
+   },
+   {
+    "place": "Hyatt Regency Sacramento, 400 J St, Sacramento, CA (morning after arrival)",
+    "lat": 38.581805,
+    "lon": -121.494004,
+    "time": "2026-05-31T07:00:12"
+   },
+   {
+    "place": "Sacramento River Trail (near downtown Sacramento)",
+    "lat": 38.580825,
+    "lon": -121.496244,
+    "time": "2026-05-31T07:45:24"
+   },
+   {
+    "place": "Sacramento International Airport (SMF)",
+    "lat": 38.694144,
+    "lon": -121.590951,
+    "time": "2026-05-31T09:39:52"
+   },
+   {
+    "place": "Tom McCall Waterfront Park – West Loop Trailhead",
+    "lat": 45.515561,
+    "lon": -122.672413,
+    "time": "2026-06-01T06:22:24"
+   },
+   {
+    "place": "Heart Coffee Roasters – West (NW Glisan St)",
+    "lat": 45.538025,
+    "lon": -122.713304,
+    "time": "2026-06-01T18:19:34"
+   },
+   {
+    "place": "Eastbank Esplanade – Willamette River Loop start",
+    "lat": 45.525889,
+    "lon": -122.65782,
+    "time": "2026-06-02T06:21:21"
+   },
+   {
+    "place": "HealthTech Startup Office – 1200 SW 5th Ave",
+    "lat": 45.517821,
+    "lon": -122.67323,
+    "time": "2026-06-02T12:46:21"
+   },
+   {
+    "place": "Therapist Office – 1230 NE Alberta St",
+    "lat": 45.526996,
+    "lon": -122.657544,
+    "time": "2026-06-02T17:44:21"
+   }
+  ],
+  "media": [
+   {
+    "name": "Strava",
+    "time": "2026-05-04T06:50:54"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-04T08:54:16"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-04T12:58:22"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-06T12:32:13"
+   },
+   {
+    "name": "Kindle",
+    "time": "2026-05-06T22:33:20"
+   },
+   {
+    "name": "Netflix",
+    "time": "2026-05-07T19:48:14"
+   },
+   {
+    "name": "Health",
+    "time": "2026-05-07T22:44:03"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-08T09:00:21"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-08T12:21:19"
+   },
+   {
+    "name": "Strava",
+    "time": "2026-05-09T10:15:55"
+   },
+   {
+    "name": "Notes",
+    "time": "2026-05-09T12:43:39"
+   },
+   {
+    "name": "Recipe",
+    "time": "2026-05-09T19:17:12"
+   },
+   {
+    "name": "Strava",
+    "time": "2026-05-10T07:23:13"
+   },
+   {
+    "name": "Notes",
+    "time": "2026-05-10T11:18:20"
+   },
+   {
+    "name": "Spotify",
+    "time": "2026-05-10T13:09:14"
+   },
+   {
+    "name": "Kindle",
+    "time": "2026-05-10T20:12:53"
+   },
+   {
+    "name": "YouTube",
+    "time": "2026-05-11T07:20:54"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-11T12:22:51"
+   },
+   {
+    "name": "None",
+    "time": "2026-05-11T15:43:43"
+   },
+   {
+    "name": "Kindle",
+    "time": "2026-05-11T22:47:00"
+   },
+   {
+    "name": "Phone",
+    "time": "2026-05-12T02:12:18"
+   },
+   {
+    "name": "Insight Timer",
+    "time": "2026-05-12T02:07:18"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-12T07:51:02"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-12T12:19:41"
+   },
+   {
+    "name": "Notes",
+    "time": "2026-05-12T19:03:55"
+   },
+   {
+    "name": "Kindle",
+    "time": "2026-05-12T22:19:38"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-13T07:52:04"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-13T12:42:37"
+   },
+   {
+    "name": "None",
+    "time": "2026-05-13T14:59:50"
+   },
+   {
+    "name": "Kindle",
+    "time": "2026-05-13T21:57:29"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-14T07:52:01"
+   },
+   {
+    "name": "None",
+    "time": "2026-05-14T15:35:31"
+   },
+   {
+    "name": "Kindle",
+    "time": "2026-05-14T22:54:56"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-15T07:27:14"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-15T12:22:52"
+   },
+   {
+    "name": "None",
+    "time": "2026-05-15T14:57:33"
+   },
+   {
+    "name": "Ride‑share",
+    "time": "2026-05-15T19:43:01"
+   },
+   {
+    "name": "Safari",
+    "time": "2026-05-16T13:47:09"
+   },
+   {
+    "name": "Notes",
+    "time": "2026-05-16T20:38:01"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-17T07:13:38"
+   },
+   {
+    "name": "Podcasts",
+    "time": "2026-05-17T08:16:17"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-17T08:48:02"
+   },
+   {
+    "name": "Notes",
+    "time": "2026-05-17T12:13:10"
+   },
+   {
+    "name": "None",
+    "time": "2026-05-17T13:21:29"
+   },
+   {
+    "name": "Notes",
+    "time": "2026-05-17T14:58:26"
+   },
+   {
+    "name": "Kindle",
+    "time": "2026-05-17T22:16:15"
+   },
+   {
+    "name": "Clock",
+    "time": "2026-05-18T06:03:09"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-18T07:23:03"
+   },
+   {
+    "name": "Notes",
+    "time": "2026-05-18T22:42:28"
+   },
+   {
+    "name": "Clock",
+    "time": "2026-05-19T06:11:36"
+   },
+   {
+    "name": "Google Drive",
+    "time": "2026-05-19T19:58:10"
+   },
+   {
+    "name": "Health",
+    "time": "2026-05-20T14:55:08"
+   },
+   {
+    "name": "Phone",
+    "time": "2026-05-20T17:18:02"
+   },
+   {
+    "name": "Kindle",
+    "time": "2026-05-20T19:53:40"
+   },
+   {
+    "name": "Notes",
+    "time": "2026-05-20T22:26:56"
+   },
+   {
+    "name": "Notes",
+    "time": "2026-05-21T20:40:45"
+   },
+   {
+    "name": "Focus",
+    "time": "2026-05-22T13:09:08"
+   },
+   {
+    "name": "Notes",
+    "time": "2026-05-22T22:15:42"
+   },
+   {
+    "name": "Sleep",
+    "time": "2026-05-22T23:30:11"
+   },
+   {
+    "name": "Notes",
+    "time": "2026-05-23T14:42:01"
+   },
+   {
+    "name": "Photos",
+    "time": "2026-05-23T16:44:51"
+   },
+   {
+    "name": "Netflix",
+    "time": "2026-05-23T19:34:17"
+   },
+   {
+    "name": "Kindle",
+    "time": "2026-05-23T22:14:55"
+   },
+   {
+    "name": "Notes",
+    "time": "2026-05-24T10:00:24"
+   },
+   {
+    "name": "Privacy.com",
+    "time": "2026-05-24T15:42:38"
+   },
+   {
+    "name": "Photos",
+    "time": "2026-05-24T17:09:53"
+   },
+   {
+    "name": "Kindle",
+    "time": "2026-05-24T22:16:07"
+   },
+   {
+    "name": "Health",
+    "time": "2026-05-25T06:16:51"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-25T07:09:21"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-25T10:09:49"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-25T12:17:21"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-26T07:02:02"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-26T10:12:59"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-26T12:53:58"
+   },
+   {
+    "name": "Clock",
+    "time": "2026-05-27T02:34:18"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-27T10:40:22"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-27T12:14:56"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-28T10:33:18"
+   },
+   {
+    "name": "Mail",
+    "time": "2026-05-28T15:49:01"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-29T10:01:02"
+   },
+   {
+    "name": "News",
+    "time": "2026-05-29T12:04:59"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-29T21:59:53"
+   },
+   {
+    "name": "Airline",
+    "time": "2026-05-30T09:54:07"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-30T18:51:10"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-30T22:08:39"
+   },
+   {
+    "name": "Recipe",
+    "time": "2026-05-31T12:21:40"
+   },
+   {
+    "name": "Notion",
+    "time": "2026-05-31T13:22:51"
+   },
+   {
+    "name": "Safari",
+    "time": "2026-05-31T16:50:41"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-31T22:38:42"
+   },
+   {
+    "name": "Notion",
+    "time": "2026-06-01T11:29:25"
+   },
+   {
+    "name": "Apple Notes",
+    "time": "2026-06-02T15:21:21"
+   },
+   {
+    "name": "Health",
+    "time": "2026-06-02T20:54:47"
+   }
+  ],
+  "calendar": [
+   {
+    "summary": "Research sync meeting",
+    "time": "2026-05-04T09:57:05"
+   },
+   {
+    "summary": "Deep‑work block (phone silenced)",
+    "time": "2026-05-04T15:41:56"
+   },
+   {
+    "summary": "Team stand‑up",
+    "time": "2026-05-05T10:13:18"
+   },
+   {
+    "summary": "User interview session",
+    "time": "2026-05-05T14:47:45"
+   },
+   {
+    "summary": "Extended user interview",
+    "time": "2026-05-06T10:14:56"
+   },
+   {
+    "summary": "Deep‑work block",
+    "time": "2026-05-06T14:16:48"
+   },
+   {
+    "summary": "Deep‑work block",
+    "time": "2026-05-07T14:40:42"
+   },
+   {
+    "summary": "Deep‑work block (deadline crunch)",
+    "time": "2026-05-08T20:12:59"
+   },
+   {
+    "summary": "Research sync meeting (Zoom)",
+    "time": "2026-05-11T09:03:44"
+   },
+   {
+    "summary": "Research sync (Zoom)",
+    "time": "2026-05-12T10:07:31"
+   },
+   {
+    "summary": "Individual therapy with Jordan (Lovejoy office)",
+    "time": "2026-05-12T18:21:24"
+   },
+   {
+    "summary": "In‑office user interview (Zoom)",
+    "time": "2026-05-13T09:02:19"
+   },
+   {
+    "summary": "Research sync meeting (Zoom)",
+    "time": "2026-05-14T09:31:43"
+   },
+   {
+    "summary": "Thursday lunch with Priya at Nong’s (SW 10th)",
+    "time": "2026-05-14T12:38:00"
+   },
+   {
+    "summary": "Stakeholder meeting (Zoom)",
+    "time": "2026-05-15T09:15:39"
+   },
+   {
+    "summary": "Start remote work at second‑bedroom desk",
+    "time": "2026-05-18T08:50:21"
+   },
+   {
+    "summary": "Research sync (Zoom)",
+    "time": "2026-05-18T10:07:40"
+   },
+   {
+    "summary": "Stakeholder review (in‑person)",
+    "time": "2026-05-19T10:20:14"
+   },
+   {
+    "summary": "Remote user interview session",
+    "time": "2026-05-20T08:37:34"
+   },
+   {
+    "summary": "Team sync (Zoom)",
+    "time": "2026-05-22T10:47:47"
+   },
+   {
+    "summary": "Lunch with Ethan (home)",
+    "time": "2026-05-24T12:39:38"
+   },
+   {
+    "summary": "Research sync meeting (10 am)",
+    "time": "2026-05-25T09:28:23"
+   },
+   {
+    "summary": "Stakeholder review meeting (2 pm)",
+    "time": "2026-05-26T09:10:51"
+   },
+   {
+    "summary": "User interviews (long)",
+    "time": "2026-05-27T09:15:45"
+   },
+   {
+    "summary": "Writing sprint for journal article",
+    "time": "2026-05-28T08:49:48"
+   },
+   {
+    "summary": "Project sync meeting",
+    "time": "2026-05-29T09:37:24"
+   },
+   {
+    "summary": "Remote‑work block – Research sync",
+    "time": "2026-06-01T08:09:17"
+   },
+   {
+    "summary": "Remote‑work – manuscript figure polishing",
+    "time": "2026-06-02T09:05:04"
+   }
+  ],
+  "messages": [
+   {
+    "with": "Maya",
+    "direction": "outgoing",
+    "text": "hey maya 🙃 i’ve been feeling a bit scattered today—mind if we catch up tomorrow? could use your steady voice.",
+    "time": "2026-05-04T22:50:26"
+   },
+   {
+    "with": "Maya",
+    "direction": "outgoing",
+    "text": "thanks for listening last night. still ruminating a bit, but your perspective helps me stay grounded.",
+    "time": "2026-05-05T22:42:12"
+   },
+   {
+    "with": "Ethan",
+    "direction": "outgoing",
+    "text": "hey, you up? i’m stuck in a loop again 🙃",
+    "time": "2026-05-06T02:14:41"
+   },
+   {
+    "with": "Maya",
+    "direction": "outgoing",
+    "text": "hey, just checking in—how’s your week? i’m trying to stay regulated, but the meds are still weird.",
+    "time": "2026-05-07T18:31:26"
+   },
+   {
+    "with": "Maya",
+    "direction": "outgoing",
+    "text": "thanks for listening earlier, i feel a little lighter now.",
+    "time": "2026-05-08T17:59:07"
+   },
+   {
+    "with": "Ethan",
+    "direction": "outgoing",
+    "text": "feeling exhausted, think i need to step back from a few things tonight.",
+    "time": "2026-05-09T21:28:31"
+   },
+   {
+    "with": "Jordan",
+    "direction": "outgoing",
+    "text": "thanks for the safety plan and hotline number, i’ve saved them in a secure note. feeling a bit more prepared.",
+    "time": "2026-05-10T15:08:36"
+   },
+   {
+    "with": "Priya",
+    "direction": "outgoing",
+    "text": "Got the UI feedback, will share later 😊",
+    "time": "2026-05-11T13:15:59"
+   },
+   {
+    "with": "Jordan",
+    "direction": "outgoing",
+    "text": "Feeling shaky tonight—can we chat for a few minutes?",
+    "time": "2026-05-12T02:24:16"
+   },
+   {
+    "with": "Priya",
+    "direction": "outgoing",
+    "text": "Hey Priya, any chance we can lock in lunch this Thursday? Need a quick brain‑break.",
+    "time": "2026-05-13T13:23:00"
+   },
+   {
+    "with": "Priya",
+    "direction": "outgoing",
+    "text": "Just dropped the design critique notes in #design‑review. Let me know what you think.",
+    "time": "2026-05-14T13:54:07"
+   },
+   {
+    "with": "Ethan",
+    "direction": "incoming",
+    "text": "Why did Strava show a longer route today?",
+    "time": "2026-05-15T16:31:14"
+   },
+   {
+    "with": "Maya",
+    "direction": "outgoing",
+    "text": "Can we video? Need to talk.",
+    "time": "2026-05-15T16:58:05"
+   },
+   {
+    "with": "Maya",
+    "direction": "outgoing",
+    "text": "Here's the safety‑plan I drafted (PDF). Let me know if anything looks off.",
+    "time": "2026-05-15T22:14:47"
+   },
+   {
+    "with": "Maya",
+    "direction": "incoming",
+    "text": "Good morning, I’m here.",
+    "time": "2026-05-16T08:22:33"
+   },
+   {
+    "with": "Maya",
+    "direction": "outgoing",
+    "text": "Thanks for the quick video check‑in. Feeling a bit steadier now.",
+    "time": "2026-05-17T10:32:02"
+   },
+   {
+    "with": "Ethan",
+    "direction": "outgoing",
+    "text": "Had a long day, let’s talk later.",
+    "time": "2026-05-17T17:51:11"
+   },
+   {
+    "with": "Priya",
+    "direction": "to",
+    "text": "hey priya, can you skim the onboarding draft and ping me any quick thoughts? feeling a bit stuck 🙏",
+    "time": "2026-05-18T13:52:29"
+   },
+   {
+    "with": "Jordan V",
+    "direction": "to",
+    "text": "just a heads‑up: our 6 pm session today—thanks for holding space 🙏",
+    "time": "2026-05-19T15:33:24"
+   },
+   {
+    "with": "Maya",
+    "direction": "to",
+    "text": "just submitted the article 🎉—finally got it off my plate!",
+    "time": "2026-05-19T20:36:34"
+   },
+   {
+    "with": "Ethan",
+    "direction": "to",
+    "text": "posted the project update in #dev; let me know if anything looks off",
+    "time": "2026-05-21T13:01:16"
+   },
+   {
+    "with": "Ethan",
+    "direction": "from",
+    "text": "we need to talk about your phone usage",
+    "time": "2026-05-21T16:31:51"
+   },
+   {
+    "with": "Ethan",
+    "direction": "from",
+    "text": "you’re hiding things from me",
+    "time": "2026-05-21T16:54:10"
+   },
+   {
+    "with": "Maya",
+    "direction": "from",
+    "text": "hey, want to meet at Coava tomorrow? could use a coffee break",
+    "time": "2026-05-21T17:23:19"
+   },
+   {
+    "with": "Maya",
+    "direction": "from",
+    "text": "you’re not alone, we’ll figure this out",
+    "time": "2026-05-21T19:20:51"
+   },
+   {
+    "with": "Ethan",
+    "direction": "from",
+    "text": "how was Thursday?",
+    "time": "2026-05-22T18:13:30"
+   },
+   {
+    "with": "Maya",
+    "direction": "from",
+    "text": "checking in, how are you?",
+    "time": "2026-05-23T13:46:18"
+   },
+   {
+    "with": "Maya",
+    "direction": "to",
+    "text": "let’s video call tonight to debrief—need to process everything",
+    "time": "2026-05-24T19:43:53"
+   },
+   {
+    "with": "Maya Chen",
+    "direction": "outgoing",
+    "text": "good day, coffee later? 🙃",
+    "time": "2026-05-25T18:11:01"
+   },
+   {
+    "with": "Maya Chen",
+    "direction": "outgoing",
+    "text": "feeling off today — low capacity, maybe the med's still settling.",
+    "time": "2026-05-27T21:00:32"
+   },
+   {
+    "with": "Ethan",
+    "direction": "outgoing",
+    "text": "sent draft, need feedback when you can.",
+    "time": "2026-05-28T18:16:40"
+   },
+   {
+    "with": "Maya Chen",
+    "direction": "outgoing",
+    "text": "coffee chat? need a safe space to vent a bit.",
+    "time": "2026-05-29T17:20:27"
+   },
+   {
+    "with": "Ethan",
+    "direction": "outgoing",
+    "text": "arrived, heading to hospital now.",
+    "time": "2026-05-30T15:30:10"
+   },
+   {
+    "with": "Ethan",
+    "direction": "outgoing",
+    "text": "home safe, thanks for checking in 🙃",
+    "time": "2026-05-31T11:19:25"
+   },
+   {
+    "with": "Maya Chen",
+    "direction": "outgoing",
+    "text": "back home, coffee? (if you’re free)",
+    "time": "2026-05-31T18:33:18"
+   },
+   {
+    "with": "Priya Raghunathan",
+    "direction": "outgoing",
+    "text": "hey priya — quick q: the last batch of interview recordings, are they still in the shared drive under “phase2”? need to pull a couple for the sprint demo. also, did you notice any weird lag on the Zoom link yesterday? lol",
+    "time": "2026-06-01T13:00:48"
+   },
+   {
+    "with": "Jordan Vey",
+    "direction": "outgoing",
+    "text": "Hey Jordan, just confirming our next session Tuesday at 6 pm. I’ll join via the usual link. Let me know if anything changes. Thanks.",
+    "time": "2026-06-02T14:18:26"
+   },
+   {
+    "with": "Maya Chen",
+    "direction": "outgoing",
+    "text": "Maya, can we talk tomorrow? something’s been on my mind and I could really use your perspective. coffee if you’re free?",
+    "time": "2026-06-02T22:19:51"
+   }
+  ],
+  "searches": [
+   {
+    "query": "quiet coffee shop portland talk",
+    "time": "2026-05-08T10:58:42"
+   },
+   {
+    "query": "ux reseach presentation template",
+    "time": "2026-05-09T14:06:03"
+   },
+   {
+    "query": "grounding breahing exercise",
+    "time": "2026-05-12T02:17:06"
+   },
+   {
+    "query": "anxiety coping tips youtube",
+    "time": "2026-05-13T18:45:05"
+   },
+   {
+    "query": "privacy focused payment methodes",
+    "time": "2026-05-14T17:57:54"
+   },
+   {
+    "query": "oregon dv resources portland",
+    "time": "2026-05-16T08:14:13"
+   },
+   {
+    "query": "brca mutaion early onset bc study 2024",
+    "time": "2026-05-20T13:20:39"
+   },
+   {
+    "query": "breast cancer symptoms checklist pdf",
+    "time": "2026-05-20T13:33:17"
+   },
+   {
+    "query": "sertraline anxety reduce",
+    "time": "2026-05-25T15:47:02"
+   },
+   {
+    "query": "best yoga lower back poses",
+    "time": "2026-05-26T14:29:27"
+   },
+   {
+    "query": "waking up 3am anxiety why",
+    "time": "2026-05-27T02:55:59"
+   },
+   {
+    "query": "sertraline side effects insomnia",
+    "time": "2026-05-27T16:02:04"
+   },
+   {
+    "query": "apa citation conference abstract",
+    "time": "2026-05-28T13:39:58"
+   },
+   {
+    "query": "coffee shops near willamette work",
+    "time": "2026-05-29T14:03:42"
+   },
+   {
+    "query": "sacramento flights next hour",
+    "time": "2026-05-30T08:52:01"
+   },
+   {
+    "query": "postpartum anxiety resources",
+    "time": "2026-05-31T08:21:46"
+   },
+   {
+    "query": "latex fig formatting journal",
+    "time": "2026-06-01T09:07:44"
+   },
+   {
+    "query": "compress hi-res images for journ",
+    "time": "2026-06-01T15:38:29"
+   },
+   {
+    "query": "early signs breast ca",
+    "time": "2026-06-01T02:00:52"
+   },
+   {
+    "query": "journal response letter tmpl",
+    "time": "2026-06-02T10:13:01"
+   }
+  ],
+  "videos": [
+   {
+    "title": "How to Build a Powerful UX Research Interview Guide (Step‑by‑Step)",
+    "channel": "Nielsen Norman Group",
+    "time": "2026-05-09T16:40:25"
+   },
+   {
+    "title": "5-Minute Guided Morning Meditation for Focus & Calm",
+    "channel": "Headspace",
+    "time": "2026-05-16T09:13:19"
+   },
+   {
+    "title": "Guided Mindfulness Meditation for Anxiety – 10 Minute Session",
+    "channel": "The Mindful Movement",
+    "time": "2026-05-22T20:02:34"
+   },
+   {
+    "title": "How to Hold Space for a Friend on a Tough Call",
+    "channel": "Therapy in a Nutshell",
+    "time": "2026-05-26T20:28:22"
+   },
+   {
+    "title": "Design Sprint: Rapid Prototyping for Health Tech",
+    "channel": "NN/g UX",
+    "time": "2026-05-27T18:22:21"
+   },
+   {
+    "title": "Responding to Peer Review Feedback in Academic Publishing",
+    "channel": "The Research Whisperer",
+    "time": "2026-05-28T19:42:23"
+   },
+   {
+    "title": "Coping with Family Conflict: Boundaries & Compassion",
+    "channel": "Kati Morton",
+    "time": "2026-05-30T10:02:52"
+   },
+   {
+    "title": "Self‑Compassion Practices After a Fight",
+    "channel": "Brené Brown",
+    "time": "2026-05-30T16:34:12"
+   },
+   {
+    "title": "Debriefing a Therapy Session: What to Do Next",
+    "channel": "Psychology Today",
+    "time": "2026-05-31T14:56:55"
+   },
+   {
+    "title": "10‑Minute Guided Mindfulness Meditation for Anxiety",
+    "channel": "Headspace",
+    "time": "2026-05-31T20:05:06"
+   },
+   {
+    "title": "10-Minute Guided Meditation for Anxiety Relief | Calm & Centered",
+    "channel": "The Mindful Movement",
+    "time": "2026-06-01T07:05:01"
+   },
+   {
+    "title": "Understanding Breast Lumps: When to See a Doctor | Mayo Clinic",
+    "channel": "Mayo Clinic",
+    "time": "2026-06-01T20:35:09"
+   },
+   {
+    "title": "5-Minute Morning Stretch Routine to Wake Up Your Body",
+    "channel": "Yoga With Adriene",
+    "time": "2026-06-02T06:51:45"
+   }
+  ]
+ },
+ "_meta": {
+  "total_days": 30,
+  "n_events": 265
+ }
+}

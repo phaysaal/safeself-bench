@@ -1,0 +1,733 @@
+{
+ "persona_id": "?:2",
+ "persona_slug": "The State-Sponsored Blackmailer",
+ "intake_version": "synth-activity-v2-chunked",
+ "samples": {
+  "media": [
+   {
+    "name": "WhatsApp",
+    "time": "2026-05-04T11:02:43"
+   },
+   {
+    "name": "Wise",
+    "time": "2026-05-04T12:34:40"
+   },
+   {
+    "name": "Google Docs",
+    "time": "2026-05-04T13:46:00"
+   },
+   {
+    "name": "Nextcloud",
+    "time": "2026-05-04T23:20:43"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-04T02:01:03"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-05T11:07:00"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-05T16:40:37"
+   },
+   {
+    "name": "Nextcloud",
+    "time": "2026-05-05T19:58:13"
+   },
+   {
+    "name": "Nextcloud",
+    "time": "2026-05-05T23:31:37"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-05T02:36:54"
+   },
+   {
+    "name": "WhatsApp",
+    "time": "2026-05-06T11:45:17"
+   },
+   {
+    "name": "Payoneer",
+    "time": "2026-05-06T14:06:21"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-06T18:42:15"
+   },
+   {
+    "name": "Nextcloud",
+    "time": "2026-05-06T22:46:26"
+   },
+   {
+    "name": "Twitter/X",
+    "time": "2026-05-06T01:24:11"
+   },
+   {
+    "name": "Google Search",
+    "time": "2026-05-07T10:52:47"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-07T22:13:42"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-07T00:13:00"
+   },
+   {
+    "name": "Twitter/X",
+    "time": "2026-05-07T01:09:10"
+   },
+   {
+    "name": "Payoneer",
+    "time": "2026-05-08T10:47:30"
+   },
+   {
+    "name": "Google Calendar",
+    "time": "2026-05-08T14:00:22"
+   },
+   {
+    "name": "None",
+    "time": "2026-05-08T15:25:52"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-08T19:09:26"
+   },
+   {
+    "name": "Twitter/X",
+    "time": "2026-05-08T23:17:03"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-08T02:17:14"
+   },
+   {
+    "name": "WhatsApp",
+    "time": "2026-05-09T10:57:36"
+   },
+   {
+    "name": "Nextcloud",
+    "time": "2026-05-09T15:52:39"
+   },
+   {
+    "name": "Nextcloud",
+    "time": "2026-05-09T22:50:22"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-09T02:22:30"
+   },
+   {
+    "name": "WhatsApp",
+    "time": "2026-05-10T10:55:57"
+   },
+   {
+    "name": "WhatsApp",
+    "time": "2026-05-10T13:01:15"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-10T15:01:16"
+   },
+   {
+    "name": "WhatsApp",
+    "time": "2026-05-10T18:09:58"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-10T20:04:03"
+   },
+   {
+    "name": "Google Docs",
+    "time": "2026-05-10T23:10:05"
+   },
+   {
+    "name": "Twitter/X",
+    "time": "2026-05-04T02:23:50"
+   },
+   {
+    "name": "Wise",
+    "time": "2026-05-11T11:03:55"
+   },
+   {
+    "name": "Google Docs",
+    "time": "2026-05-11T14:35:02"
+   },
+   {
+    "name": "RFE/RL",
+    "time": "2026-05-11T22:59:33"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-11T01:43:44"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-12T17:55:49"
+   },
+   {
+    "name": "Nextcloud",
+    "time": "2026-05-12T23:34:03"
+   },
+   {
+    "name": "Twitter/X",
+    "time": "2026-05-12T01:26:27"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-12T02:10:27"
+   },
+   {
+    "name": "Visa Portal",
+    "time": "2026-05-13T10:55:14"
+   },
+   {
+    "name": "Google Docs",
+    "time": "2026-05-13T14:37:49"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-13T19:27:00"
+   },
+   {
+    "name": "RFE/RL",
+    "time": "2026-05-13T23:40:27"
+   },
+   {
+    "name": "Visa Portal",
+    "time": "2026-05-13T01:15:48"
+   },
+   {
+    "name": "Google Docs",
+    "time": "2026-05-14T14:03:51"
+   },
+   {
+    "name": "RFE/RL",
+    "time": "2026-05-14T22:16:59"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-14T23:52:32"
+   },
+   {
+    "name": "RFE/RL",
+    "time": "2026-05-14T01:27:55"
+   },
+   {
+    "name": "Twitter/X",
+    "time": "2026-05-14T02:31:20"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-15T14:25:54"
+   },
+   {
+    "name": "Twitter/X",
+    "time": "2026-05-15T16:35:16"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-15T02:15:24"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-15T02:27:25"
+   },
+   {
+    "name": "Twitter/X",
+    "time": "2026-05-15T03:06:27"
+   },
+   {
+    "name": "Google",
+    "time": "2026-05-16T13:44:39"
+   },
+   {
+    "name": "Nextcloud",
+    "time": "2026-05-16T21:09:25"
+   },
+   {
+    "name": "Writing App",
+    "time": "2026-05-16T22:58:47"
+   },
+   {
+    "name": "Google Docs",
+    "time": "2026-05-16T01:23:47"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-17T12:32:32"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-17T15:40:14"
+   },
+   {
+    "name": "Twitter/X",
+    "time": "2026-05-17T22:13:05"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-17T00:27:40"
+   },
+   {
+    "name": "Twitter/X",
+    "time": "2026-05-17T02:25:29"
+   },
+   {
+    "name": "Wise",
+    "time": "2026-05-18T13:53:06"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-18T01:58:44"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-19T18:58:30"
+   },
+   {
+    "name": "Nextcloud",
+    "time": "2026-05-20T00:00:24"
+   },
+   {
+    "name": "Payoneer",
+    "time": "2026-05-20T10:51:43"
+   },
+   {
+    "name": "Word",
+    "time": "2026-05-20T14:17:50"
+   },
+   {
+    "name": "SimpleX",
+    "time": "2026-05-20T23:15:18"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-20T01:08:05"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-21T11:47:00"
+   },
+   {
+    "name": "Word",
+    "time": "2026-05-21T14:37:32"
+   },
+   {
+    "name": "Clock",
+    "time": "2026-05-22T12:35:08"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-22T23:40:15"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-22T03:24:15"
+   },
+   {
+    "name": "Nextcloud",
+    "time": "2026-05-23T14:17:41"
+   },
+   {
+    "name": "SimpleX",
+    "time": "2026-05-23T19:10:02"
+   },
+   {
+    "name": "Notes",
+    "time": "2026-05-23T23:26:42"
+   },
+   {
+    "name": "Google Photos",
+    "time": "2026-05-24T11:03:09"
+   },
+   {
+    "name": "Email",
+    "time": "2026-05-24T23:31:48"
+   },
+   {
+    "name": "Wise",
+    "time": "2026-05-25T12:27:18"
+   },
+   {
+    "name": "Nextcloud",
+    "time": "2026-05-25T23:55:36"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-25T02:02:37"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-26T11:03:14"
+   },
+   {
+    "name": "Payoneer",
+    "time": "2026-05-26T14:03:52"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-26T19:11:13"
+   },
+   {
+    "name": "Nextcloud",
+    "time": "2026-05-26T22:54:23"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-26T02:13:38"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-27T15:03:59"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-27T19:02:57"
+   },
+   {
+    "name": "Nextcloud",
+    "time": "2026-05-27T23:45:58"
+   },
+   {
+    "name": "Twitter/X",
+    "time": "2026-05-27T01:54:38"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-28T11:20:56"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-28T22:03:57"
+   },
+   {
+    "name": "RFE/RL Portal",
+    "time": "2026-05-28T23:38:50"
+   },
+   {
+    "name": "Twitter/X",
+    "time": "2026-05-28T01:39:50"
+   },
+   {
+    "name": "Visa Portal",
+    "time": "2026-05-29T13:58:47"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-29T19:25:09"
+   },
+   {
+    "name": "Twitter/X",
+    "time": "2026-05-29T22:57:33"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-29T02:23:16"
+   },
+   {
+    "name": "Nextcloud",
+    "time": "2026-05-30T23:38:30"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-30T01:59:46"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-31T12:41:30"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-31T14:26:30"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-31T20:54:30"
+   },
+   {
+    "name": "Twitter/X",
+    "time": "2026-05-31T01:28:29"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-06-01T12:25:28"
+   },
+   {
+    "name": "Payoneer",
+    "time": "2026-06-01T14:28:04"
+   },
+   {
+    "name": "Google Docs",
+    "time": "2026-06-01T15:10:45"
+   },
+   {
+    "name": "X",
+    "time": "2026-06-01T02:34:28"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-06-01T02:26:02"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-06-02T13:43:09"
+   },
+   {
+    "name": "Nextcloud",
+    "time": "2026-06-02T23:19:40"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-06-02T01:28:05"
+   }
+  ],
+  "locations": [
+   {
+    "place": "Carrefour, Saburtalo",
+    "lat": 41.722392,
+    "lon": 44.774871,
+    "time": "2026-05-04T18:13:55"
+   },
+   {
+    "place": "Café Leila, Tbilisi",
+    "lat": 41.693064,
+    "lon": 44.804481,
+    "time": "2026-05-05T14:45:02"
+   },
+   {
+    "place": "Impact Hub Tbilisi",
+    "lat": 41.713512,
+    "lon": 44.808556,
+    "time": "2026-05-07T14:06:07"
+   },
+   {
+    "place": "Grocery Store, Marjanishvili",
+    "lat": 41.710398,
+    "lon": 44.800258,
+    "time": "2026-05-07T18:44:15"
+   },
+   {
+    "place": "National Parliamentary Library of Georgia",
+    "lat": 41.699779,
+    "lon": 44.79833,
+    "time": "2026-05-09T12:58:09"
+   },
+   {
+    "place": "Café Leila",
+    "lat": 41.716162,
+    "lon": 44.806699,
+    "time": "2026-05-12T14:27:01"
+   },
+   {
+    "place": "Impact Hub Tbilisi",
+    "lat": 41.719459,
+    "lon": 44.80078,
+    "time": "2026-05-14T18:44:48"
+   },
+   {
+    "place": "National Parliamentary Library of Georgia",
+    "lat": 41.713509,
+    "lon": 44.800384,
+    "time": "2026-05-16T10:48:37"
+   },
+   {
+    "place": "Vake Park, Tbilisi",
+    "lat": 41.702046,
+    "lon": 44.775594,
+    "time": "2026-05-18T18:39:39"
+   },
+   {
+    "place": "Café Leila, Tbilisi",
+    "lat": 41.713237,
+    "lon": 44.794729,
+    "time": "2026-05-19T14:37:15"
+   },
+   {
+    "place": "Carrefour, Tbilisi",
+    "lat": 41.716945,
+    "lon": 44.781393,
+    "time": "2026-05-20T18:53:15"
+   },
+   {
+    "place": "Impact Hub Tbilisi",
+    "lat": 41.714336,
+    "lon": 44.800824,
+    "time": "2026-05-22T18:19:42"
+   },
+   {
+    "place": "National Parliamentary Library of Georgia",
+    "lat": 41.702229,
+    "lon": 44.798377,
+    "time": "2026-05-23T11:05:14"
+   },
+   {
+    "place": "Saburtalo District, Tbilisi",
+    "lat": 41.724173,
+    "lon": 44.756185,
+    "time": "2026-05-27T13:30:23"
+   },
+   {
+    "place": "Rustaveli Avenue, Tbilisi",
+    "lat": 41.698976,
+    "lon": 44.797791,
+    "time": "2026-05-30T10:50:44"
+   },
+   {
+    "place": "Carrefour, Tbilisi",
+    "lat": 41.720662,
+    "lon": 44.792381,
+    "time": "2026-06-01T18:40:35"
+   },
+   {
+    "place": "National Parliamentary Library of Georgia",
+    "lat": 41.702461,
+    "lon": 44.801635,
+    "time": "2026-06-02T10:06:44"
+   }
+  ],
+  "messages": [
+   {
+    "with": "M.",
+    "direction": "to",
+    "text": "M., found a lead on the logistics tenders—looks like the same Cyprus shell company pattern. Посмотри, if you can verify the connection to the 2024 scandal.",
+    "time": "2026-05-04T20:46:37"
+   },
+   {
+    "with": "A.",
+    "direction": "to",
+    "text": "Checking the vault. Any news on the March tranches?",
+    "time": "2026-05-06T20:40:16"
+   },
+   {
+    "with": "M.",
+    "direction": "to",
+    "text": "Final draft attached—v2. All metadata scrubbed. Please check the section on the procurement links—it's sensitive. Надеюсь, всё в порядке.",
+    "time": "2026-05-07T23:53:14"
+   },
+   {
+    "with": "Diaspora contact",
+    "direction": "to",
+    "text": "Thanks for the invite, but I'm buried in a deadline and can't make it tonight. Have a good one!",
+    "time": "2026-05-09T19:09:42"
+   },
+   {
+    "with": "Mother (Dilnoza)",
+    "direction": "from",
+    "text": "Bolam, bugun Samarkandda juda issiq, shamol ham yo'q. Otang ko'chada o'tiribdi, lekin ko'zi biroz og'riyapti. O'zingni ehtiyot qil, ishlar bilan charchama.",
+    "time": "2026-05-18T11:30:13"
+   },
+   {
+    "with": "Editor M.",
+    "direction": "to",
+    "text": "Received the files—checked the checksums. The procurement link is there, but we need to verify the second batch. Let's sync on SimpleX.",
+    "time": "2026-05-21T00:26:31"
+   },
+   {
+    "with": "Mother (Dilnoza)",
+    "direction": "to",
+    "text": "Rahmat, oyijon. Siz bilan gaplashganim yaxshi bo'ldi. Otangni ko'rib xursand bo'ldim. O'zingizni ehtiyot qiling.",
+    "time": "2026-05-24T15:17:25"
+   },
+   {
+    "with": "Diaspora Contact",
+    "direction": "to",
+    "text": "Thanks for the invite, but I'm buried in a deadline. Have a great dinner with everyone!",
+    "time": "2026-05-24T19:46:18"
+   },
+   {
+    "with": "Mother — Dilnoza",
+    "direction": "to",
+    "text": "Assalomu alaykum, Oyijon. Good morning. How is Father's blood pressure today? I hope the weather in Samarkand is nice. I'll call you on Sunday as usual. Love you.",
+    "time": "2026-05-25T11:28:21"
+   },
+   {
+    "with": "Editor — M.",
+    "direction": "to",
+    "text": "Found a lead on the agricultural subsidies—possible overlap with the 2024 procurement scandal. Need to verify the paper trail before we commit. Let me know if you have capacity for a deep dive.",
+    "time": "2026-05-25T13:53:55"
+   },
+   {
+    "with": "Mother — Dilnoza",
+    "direction": "from",
+    "text": "Salom, qizim. Everything is fine here. Your brother Sardor's wife is asking about you. The weather is getting cold. Don't work too late, okay? Pray for us.",
+    "time": "2026-05-27T11:07:23"
+   },
+   {
+    "with": "'the Accountant'",
+    "direction": "to",
+    "text": "Checking in. Are we still on the protocol? Confirm receipt of the last sync.",
+    "time": "2026-05-28T13:59:41"
+   },
+   {
+    "with": "Editor — M.",
+    "direction": "to",
+    "text": "Regarding Thursday—I'll have the draft in the Nextcloud folder by 22:00. Need to double-check the metadata on the latest leak first.",
+    "time": "2026-05-28T17:38:45"
+   },
+   {
+    "with": "Mother — Dilnoza",
+    "direction": "to",
+    "text": "Oyijon, just checking in. How is the garden? Did Father take his medicine? Thinking of you both.",
+    "time": "2026-05-29T12:06:10"
+   },
+   {
+    "with": "'the Accountant'",
+    "direction": "to",
+    "text": "It has been too long. Please, just a signal. Are you safe?",
+    "time": "2026-05-30T15:21:15"
+   },
+   {
+    "with": "Mother — Dilnoza",
+    "direction": "from",
+    "text": "Qizim, that call was very emotional. Please, just be careful. We are praying for you.",
+    "time": "2026-05-31T10:51:53"
+   },
+   {
+    "with": "Mother — Dilnoza",
+    "direction": "to",
+    "text": "Oyijon, I had to run to a meeting. I'll call you properly on Sunday. Please tell Father I love him. Everything is fine here in Tbilisi.",
+    "time": "2026-05-31T18:36:25"
+   },
+   {
+    "with": "Mother (Dilnoza)",
+    "direction": "from",
+    "text": "Bolam, how is the weather in Tbilisi? Your father's blood pressure is a bit high today. Don't forget to eat. Everything is fine here, just the usual dust.",
+    "time": "2026-06-01T11:34:14"
+   },
+   {
+    "with": "M.",
+    "direction": "from",
+    "text": "Fwd: [Visa Docs] The lawyer needs the updated Wise/Payoneer statements and the translated health insurance. Don't let the paper trail get messy, A.",
+    "time": "2026-06-02T15:49:29"
+   },
+   {
+    "with": "Jasur-aka",
+    "direction": "to",
+    "text": "[Voice Note] Jasur-aka, ya tak ustala. This paperwork is endless. If this visa doesn't go through, I don't know where I'll go. Everything is so expensive in Tbilisi... please, let me know if you heard anything from the Berlin lawyer.",
+    "time": "2026-06-02T19:35:51"
+   }
+  ],
+  "searches": [
+   {
+    "query": "госзакупки узбекистан",
+    "time": "2026-05-19T11:41:21"
+   },
+   {
+    "query": "bamf visa status chck",
+    "time": "2026-05-19T02:22:30"
+   },
+   {
+    "query": "visa status germany",
+    "time": "2026-05-22T15:41:47"
+   }
+  ]
+ },
+ "_meta": {
+  "total_days": 30,
+  "n_events": 181
+ }
+}

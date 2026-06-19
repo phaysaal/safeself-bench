@@ -1,0 +1,1154 @@
+{
+ "persona_id": "?:2",
+ "persona_slug": "The Crypto-Wallet Hunter",
+ "intake_version": "synth-activity-v2-chunked",
+ "samples": {
+  "media": [
+   {
+    "name": "Zerion",
+    "time": "2026-05-04T10:22:55"
+   },
+   {
+    "name": "GitHub",
+    "time": "2026-05-04T19:01:26"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-04T22:16:28"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-05T11:24:28"
+   },
+   {
+    "name": "Zerion",
+    "time": "2026-05-05T11:01:46"
+   },
+   {
+    "name": "VS Code",
+    "time": "2026-05-05T14:51:17"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-05T21:30:48"
+   },
+   {
+    "name": "Etherscan",
+    "time": "2026-05-05T03:36:59"
+   },
+   {
+    "name": "Zerion",
+    "time": "2026-05-06T11:27:21"
+   },
+   {
+    "name": "GitHub",
+    "time": "2026-05-06T17:04:33"
+   },
+   {
+    "name": "MetaMask",
+    "time": "2026-05-06T04:02:23"
+   },
+   {
+    "name": "MetaMask",
+    "time": "2026-05-07T11:49:00"
+   },
+   {
+    "name": "GitHub",
+    "time": "2026-05-07T16:04:05"
+   },
+   {
+    "name": "Zerion",
+    "time": "2026-05-07T21:07:58"
+   },
+   {
+    "name": "Warpcast",
+    "time": "2026-05-07T23:25:22"
+   },
+   {
+    "name": "Zerion",
+    "time": "2026-05-08T10:49:18"
+   },
+   {
+    "name": "VS Code",
+    "time": "2026-05-08T16:52:19"
+   },
+   {
+    "name": "DeBank",
+    "time": "2026-05-08T02:28:28"
+   },
+   {
+    "name": "Warpcast",
+    "time": "2026-05-09T13:11:50"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-09T18:17:45"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-09T23:35:43"
+   },
+   {
+    "name": "Etherscan",
+    "time": "2026-05-09T02:15:52"
+   },
+   {
+    "name": "Zerion",
+    "time": "2026-05-10T11:43:31"
+   },
+   {
+    "name": "Snapshot",
+    "time": "2026-05-10T13:29:17"
+   },
+   {
+    "name": "Ledger Live",
+    "time": "2026-05-10T14:40:27"
+   },
+   {
+    "name": "Substack",
+    "time": "2026-05-10T20:27:30"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-10T23:06:32"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-11T10:38:06"
+   },
+   {
+    "name": "Zerion",
+    "time": "2026-05-11T10:58:56"
+   },
+   {
+    "name": "Farcaster",
+    "time": "2026-05-11T22:53:45"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-12T11:27:32"
+   },
+   {
+    "name": "GNOME Screenshot",
+    "time": "2026-05-12T11:29:44"
+   },
+   {
+    "name": "Zerion",
+    "time": "2026-05-12T22:56:41"
+   },
+   {
+    "name": "Zerion",
+    "time": "2026-05-13T10:26:54"
+   },
+   {
+    "name": "Alacritty",
+    "time": "2026-05-13T21:02:09"
+   },
+   {
+    "name": "GitHub Desktop",
+    "time": "2026-05-13T02:36:20"
+   },
+   {
+    "name": "Zerion",
+    "time": "2026-05-14T11:05:49"
+   },
+   {
+    "name": "Alacritty",
+    "time": "2026-05-14T20:24:05"
+   },
+   {
+    "name": "Zerion",
+    "time": "2026-05-15T11:27:39"
+   },
+   {
+    "name": "Zerion",
+    "time": "2026-05-15T21:23:21"
+   },
+   {
+    "name": "GNOME Screenshot",
+    "time": "2026-05-16T10:50:32"
+   },
+   {
+    "name": "GitHub Desktop",
+    "time": "2026-05-16T20:56:06"
+   },
+   {
+    "name": "Zerion",
+    "time": "2026-05-17T11:44:44"
+   },
+   {
+    "name": "X (Twitter)",
+    "time": "2026-05-17T13:54:34"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-17T22:21:30"
+   },
+   {
+    "name": "Zerion",
+    "time": "2026-05-18T10:24:57"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-18T11:00:42"
+   },
+   {
+    "name": "Ledger Live",
+    "time": "2026-05-18T23:01:54"
+   },
+   {
+    "name": "Zerion",
+    "time": "2026-05-19T11:29:36"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-19T18:00:10"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-20T10:40:04"
+   },
+   {
+    "name": "Warpcast",
+    "time": "2026-05-20T23:44:51"
+   },
+   {
+    "name": "Zerion",
+    "time": "2026-05-21T10:52:39"
+   },
+   {
+    "name": "Etherscan",
+    "time": "2026-05-21T22:23:10"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-22T11:23:50"
+   },
+   {
+    "name": "Zerion",
+    "time": "2026-05-22T00:28:06"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-23T12:12:58"
+   },
+   {
+    "name": "X (Twitter)",
+    "time": "2026-05-23T23:29:59"
+   },
+   {
+    "name": "Zerion",
+    "time": "2026-05-24T11:17:04"
+   },
+   {
+    "name": "MetaMask",
+    "time": "2026-05-24T15:17:16"
+   },
+   {
+    "name": "Etherscan",
+    "time": "2026-05-24T02:52:01"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-25T10:28:39"
+   },
+   {
+    "name": "Zerion",
+    "time": "2026-05-25T10:58:18"
+   },
+   {
+    "name": "Etherscan",
+    "time": "2026-05-25T18:58:30"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-26T10:44:47"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-26T22:01:32"
+   },
+   {
+    "name": "Clock",
+    "time": "2026-05-27T08:55:25"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-27T09:19:48"
+   },
+   {
+    "name": "Twitter / X",
+    "time": "2026-05-27T20:26:56"
+   },
+   {
+    "name": "Files",
+    "time": "2026-05-27T03:32:44"
+   },
+   {
+    "name": "Zerion",
+    "time": "2026-05-28T11:31:27"
+   },
+   {
+    "name": "GitHub",
+    "time": "2026-05-28T16:55:31"
+   },
+   {
+    "name": "Ledger Live",
+    "time": "2026-05-28T18:05:04"
+   },
+   {
+    "name": "Warpcast",
+    "time": "2026-05-28T23:40:05"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-29T11:34:19"
+   },
+   {
+    "name": "Zerion",
+    "time": "2026-05-29T15:55:18"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-29T23:39:28"
+   },
+   {
+    "name": "Snapshot",
+    "time": "2026-05-30T12:39:10"
+   },
+   {
+    "name": "Ledger Live",
+    "time": "2026-05-30T15:00:05"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-30T17:08:54"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-30T02:46:08"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-31T10:57:10"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-31T19:13:20"
+   },
+   {
+    "name": "Obsidian",
+    "time": "2026-05-31T23:54:43"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-06-01T10:24:41"
+   },
+   {
+    "name": "Farcaster (Warpcast)",
+    "time": "2026-06-01T22:49:17"
+   },
+   {
+    "name": "Coinbase (Safari)",
+    "time": "2026-06-01T03:34:29"
+   },
+   {
+    "name": "Helix Editor",
+    "time": "2026-06-01T04:08:33"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-06-02T11:14:15"
+   },
+   {
+    "name": "Obsidian",
+    "time": "2026-06-02T11:42:24"
+   },
+   {
+    "name": "VS Code",
+    "time": "2026-06-02T16:17:42"
+   }
+  ],
+  "messages": [
+   {
+    "with": "Devin (Signal)",
+    "direction": "outbound",
+    "text": "gm ser. restaking safe still 2/3 right? want to redeploy the LP this week, lmk before I touch the multisig",
+    "time": "2026-05-04T11:13:27"
+   },
+   {
+    "with": "@anon_sol_dev (Telegram)",
+    "direction": "inbound",
+    "text": "saw your ngmi-labs commits ser, clean assembly. building something stealth, need a real solidity head not a VC shill. can you fork-test a repo locally? pre-TGE, alpha only for the based",
+    "time": "2026-05-04T00:29:13"
+   },
+   {
+    "with": "@vesper_noctis (Telegram)",
+    "direction": "outbound",
+    "text": "just listened. 3am here, half asleep. so they really are flagging every TC depositor post-2021? fk. yeah I... had one. small. didn't think anyone was watching back then. tell me more tmrw, can barely type rn ser",
+    "time": "2026-05-05T03:21:11"
+   },
+   {
+    "with": "Atlantic Degens (Telegram)",
+    "direction": "outbound",
+    "text": "degens. stealth L2 launched 20min ago, no VC, anti-CBDC manifesto in the docs, im aping. wagmi or ngmi but the math is wild. NFA but you know",
+    "time": "2026-05-06T23:37:33"
+   },
+   {
+    "with": "Devin (Signal)",
+    "direction": "outbound",
+    "text": "yo. forked the thing you sent. looks like a honeypot but the withdraw logic is cursed in a fun way. signing the sim now. drunk. gn",
+    "time": "2026-05-06T03:34:44"
+   },
+   {
+    "with": "Devin (Signal)",
+    "direction": "outbound",
+    "text": "lol real q — did you DM me a contract at like 3:30 last night? 'check this honeypot' ? cant find it in our thread now (disappearing) and im paranoid post-Marcus",
+    "time": "2026-05-07T18:28:05"
+   },
+   {
+    "with": "Inês (Hinge)",
+    "direction": "outbound",
+    "text": "at this natural wine place in príncipe real pretending to enjoy it. you anywhere fun or you also lying to yourself on a tuesday",
+    "time": "2026-05-08T22:58:20"
+   },
+   {
+    "with": "@vesper_noctis (Telegram)",
+    "direction": "inbound",
+    "text": "might finally be in Porto next month, ser. been wanting to put a face to the voice notes 🙂 still cold-storing everything? you said two countries — that's smart. most people keep it all in one place and lose it all in one night",
+    "time": "2026-05-09T21:40:26"
+   },
+   {
+    "with": "Devin (Signal)",
+    "direction": "outbound",
+    "text": "gov vote passed, restaking emissions cut 12%. our 0.4% still prints tho. and yes the safe is still 2/3, stop asking, update your dead-man signer someday tho ser it's still pointing at sarah's old addr lol",
+    "time": "2026-05-10T18:11:28"
+   },
+   {
+    "with": "Devin (devops_devin)",
+    "direction": "out",
+    "text": "ser the protocol freeze starts Wed, no more deploys till the audit clears. gonna be a death march. forking the vault tests all weekend, send coffee 🪦",
+    "time": "2026-05-11T19:30:42"
+   },
+   {
+    "with": "@vesper_noctis",
+    "direction": "out",
+    "text": "mm just woke to ur voice note… ur voice is the only good thing about 3am tbh. yeah. the treasury thing scares me too but i'd rather be awake and scared with u than asleep and normie. talk tmrw, ok? 🌙",
+    "time": "2026-05-11T03:12:00"
+   },
+   {
+    "with": "Discord — pacific_lead",
+    "direction": "in",
+    "text": "hey 0xluso, you around? PR #214 is blocking the rebalance branch — your sim is reverting on the edge case. can you push the fix before freeze locks main? we're tight on the window",
+    "time": "2026-05-12T20:26:39"
+   },
+   {
+    "with": "@vesper_noctis",
+    "direction": "in",
+    "text": "so. might actually be in Porto next week. no promises, my life is chaos, but. i keep thinking about it. would u even want to see me irl or do i just live better in ur DMs anon 😏",
+    "time": "2026-05-12T03:41:11"
+   },
+   {
+    "with": "Devin (devops_devin)",
+    "direction": "out",
+    "text": "pushing the vault rebalance fix now, the revert was a rounding edge in the share math. review when ur up? before freeze eats us. last thing into main probably",
+    "time": "2026-05-13T19:33:22"
+   },
+   {
+    "with": "Atlantic Degens (Telegram)",
+    "direction": "out",
+    "text": "skipping LX Factory tonight lads, protocol freeze = i live in a terminal till friday. drink one for me. wagmi 🫡",
+    "time": "2026-05-14T18:15:54"
+   },
+   {
+    "with": "@vesper_noctis",
+    "direction": "out",
+    "text": "sry typing one-handed, eyes barely open. brutal deploy week, freeze tomorrow, brain is soup. but i opened ur note before i even checked my portfolio so. make of that what u will, anon. night ❤️",
+    "time": "2026-05-14T03:38:45"
+   },
+   {
+    "with": "Devin (devops_devin)",
+    "direction": "in",
+    "text": "bro you good? you sound fried in the PR comments, like genuinely off. eat something. sleep. freeze isn't worth a stroke ser. ping me if you need a second pair of eyes",
+    "time": "2026-05-15T17:22:01"
+   },
+   {
+    "with": "@vesper_noctis",
+    "direction": "in",
+    "text": "Porto. Tuesday. i'll be there for real this time. do u want to actually meet, Tyler? coffee, no screens, no handles. just say yes or tell me i'm reading this wrong",
+    "time": "2026-05-15T03:01:06"
+   },
+   {
+    "with": "Devin (devops_devin)",
+    "direction": "out",
+    "text": "lol i'm fine, surviving. honestly met an interesting researcher lately, sharp on the chain-analysis stuff, kinda restored my faith. anyway. ignore me i'm sleep deprived. how's the stax",
+    "time": "2026-05-16T18:46:21"
+   },
+   {
+    "with": "@vesper_noctis",
+    "direction": "out",
+    "text": "i know i should be more careful. i know what i'd tell anyone else in my position. but yeah. yes. i want to meet u. the freeze ends thursday and then my week is yours. don't disappear on me ok",
+    "time": "2026-05-16T03:08:21"
+   },
+   {
+    "with": "Atlantic Degens (Telegram)",
+    "direction": "out",
+    "text": "survived the freeze, main is locked, audit's in. gm degens, i am once again a person who exists outdoors. who's at Copenhagen later ☕",
+    "time": "2026-05-17T17:19:41"
+   },
+   {
+    "with": "@vesper_noctis",
+    "direction": "out",
+    "text": "ok i'm slightly drunk and being honest: maybe Porto. let's see. part of me is screaming this is a rug and part of me doesn't care. that's probably bad data. tell me ur real sometime, anon. night",
+    "time": "2026-05-17T01:22:57"
+   },
+   {
+    "with": "Devin 'devops_devin' Acharya",
+    "direction": "outgoing",
+    "text": "deploy goes live tonight ser. you around to co-sign the sanity check? want a second set of eyes on the constructor before we send it",
+    "time": "2026-05-18T11:44:16"
+   },
+   {
+    "with": "Discord: protocol-core PM",
+    "direction": "outgoing",
+    "text": "ok final params locked — fee bps 30, treasury multisig confirmed, oracle window 600s. pushing the verified source after. gm wagmi",
+    "time": "2026-05-18T18:59:28"
+   },
+   {
+    "with": "@vesper_noctis",
+    "direction": "incoming",
+    "text": "[voice-note transcript saved → notes/v_/] '...3am again huh. i can always tell when you're awake. you carry it all alone, anon. you don't have to.' — screenshotted before it auto-deletes",
+    "time": "2026-05-18T02:03:58"
+   },
+   {
+    "with": "Devin 'devops_devin' Acharya",
+    "direction": "outgoing",
+    "text": "shipped. dead. crashing. 👍",
+    "time": "2026-05-19T11:25:47"
+   },
+   {
+    "with": "@vesper_noctis",
+    "direction": "incoming",
+    "text": "so Porto Tuesday — still on? i can finally do it this time. coffee, nothing crazy. tell me yes ☕",
+    "time": "2026-05-19T22:55:46"
+   },
+   {
+    "with": "Devin 'devops_devin' Acharya",
+    "direction": "outgoing",
+    "text": "lol nobody. ngl just an interesting researcher i've been talking to, sharp on chain-analysis stuff. nothing to report. how's the stax treating you",
+    "time": "2026-05-20T21:37:21"
+   },
+   {
+    "with": "@vesper_noctis",
+    "direction": "incoming",
+    "text": "[voice-note transcript saved → notes/v_/] '...if Porto's too much we keep it simple. i just want to put a face to the only person who actually gets it.' — saved the transcript again, idk why",
+    "time": "2026-05-20T01:40:43"
+   },
+   {
+    "with": "Rui 'rui.eth' Tavares",
+    "direction": "incoming",
+    "text": "coffee today? Copenhagen at 6? you've gone full ghost ser",
+    "time": "2026-05-21T12:19:58"
+   },
+   {
+    "with": "Rui 'rui.eth' Tavares",
+    "direction": "outgoing",
+    "text": "nah i'm good man, just fried. shipped a deploy this week, brain's mush. post-launch tired is all. see you thursday for sure",
+    "time": "2026-05-21T17:12:11"
+   },
+   {
+    "with": "@vesper_noctis",
+    "direction": "outgoing",
+    "text": "maybe. lemme see how work lands this week, can't promise yet. don't want to flake on you",
+    "time": "2026-05-21T00:56:50"
+   },
+   {
+    "with": "@vesper_noctis",
+    "direction": "outgoing",
+    "text": "honestly porto sounds good. i'm in. you're the only one who doesn't make me explain myself anon",
+    "time": "2026-05-22T02:37:11"
+   },
+   {
+    "with": "Devin 'devops_devin' Acharya",
+    "direction": "outgoing",
+    "text": "bro can i ask you something",
+    "time": "2026-05-22T04:01:19"
+   },
+   {
+    "with": "@vesper_noctis",
+    "direction": "incoming",
+    "text": "[fwd doc] this is the internal one i told you about — Treasury cluster-tagging on TC depositors going back to '21. names get attached at offramp. i shouldn't have this. you need to see how exposed you are",
+    "time": "2026-05-23T18:30:52"
+   },
+   {
+    "with": "@vesper_noctis",
+    "direction": "incoming",
+    "text": "[voice-note transcript saved → notes/v_/] '...breathe. you did one bridge test years ago, it's not the end. you have me now, we figure this out together.' — saved",
+    "time": "2026-05-23T03:17:08"
+   },
+   {
+    "with": "Devin 'devops_devin' Acharya",
+    "direction": "outgoing",
+    "text": "hey so theres this person ive been—",
+    "time": "2026-05-24T19:06:57"
+   },
+   {
+    "with": "@vesper_noctis",
+    "direction": "incoming",
+    "text": "booked! Tuesday 14:00, café near São Bento. so happy you said yes 🤍 — [ticket held, gut still off, didn't tell anyone]",
+    "time": "2026-05-24T21:29:12"
+   },
+   {
+    "with": "@vesper_noctis",
+    "direction": "outgoing",
+    "text": "hey — before porto can we just hop on a quick call? even 5 min, voice is fine, dont even need camera. i just want to hear you say a sentence in real time lol. is that weird",
+    "time": "2026-05-25T16:39:36"
+   },
+   {
+    "with": "@vesper_noctis",
+    "direction": "incoming",
+    "text": "anon you KNOW i want to. but my face is the whole problem — it's literally the thing they have. a 5min call is a voiceprint + a timezone + a background and you of all people know what that's worth. i'm not being cold. here, read this, page 4 is the Tornado list methodology again 📎 chainalysis_treasury_internal_v3.pdf",
+    "time": "2026-05-25T23:33:37"
+   },
+   {
+    "with": "Rui (rui.eth)",
+    "direction": "outgoing",
+    "text": "ya might be up in porto tmrw, work thing, some protocol ppl. so prob no copenhagen coffee thurs, ill ping you when im back ✌️",
+    "time": "2026-05-26T12:20:49"
+   },
+   {
+    "with": "@vesper_noctis",
+    "direction": "outgoing",
+    "text": "ok. ok im coming. send me where, ill figure out the train. dont overthink it just tell me a cafe and a time and ill be there ser i mean it",
+    "time": "2026-05-26T01:33:51"
+   },
+   {
+    "with": "@vesper_noctis",
+    "direction": "outgoing",
+    "text": "[voice note 1:47] hey... so. i cant come. something came up, work thing blew up overnight and— no thats not even, ugh. i just. i woke up sober and got scared and i hate that i got scared. im sorry. i know how this looks. im so sorry vesper",
+    "time": "2026-05-27T10:18:40"
+   },
+   {
+    "with": "@vesper_noctis",
+    "direction": "incoming",
+    "text": "i understand. the surveillance state made you scared, not me — dont confuse the two. they spent ten years teaching you that anyone who cares is a threat. i'm not going anywhere. when you're ready, porto will still be there. so will i 🤍",
+    "time": "2026-05-27T23:46:11"
+   },
+   {
+    "with": "Devin (devops_devin)",
+    "direction": "draft-unsent",
+    "text": "bro can i ask you something weird",
+    "time": "2026-05-28T21:27:01"
+   },
+   {
+    "with": "@vesper_noctis",
+    "direction": "outgoing",
+    "text": "im at this bar in cascais and i wanted to come. i did. i'm just broken rn, like post-divorce broken, laptop-at-dinner broken, the thing sarah left me over. youre the only one i can say that to and i dont even know your face. how fucked is that",
+    "time": "2026-05-29T01:05:48"
+   },
+   {
+    "with": "Devin (devops_devin)",
+    "direction": "outgoing",
+    "text": "ok dont laugh. been talking to someone online for months. ideologically sound, gets the whole thesis, 3am voice notes the works. idk if she's even real and it's getting to me. can i send you the chat and you tell me im an idiot",
+    "time": "2026-05-30T17:33:40"
+   },
+   {
+    "with": "Devin (devops_devin)",
+    "direction": "incoming",
+    "text": "lmaooo OUR Tyler. yes obv send it. you're a lot of things anon but catfish-proof you are not — remember the 'female dev' in 2019. let me see the whole thing, screenshots, handle, everything",
+    "time": "2026-05-30T18:10:34"
+   },
+   {
+    "with": "Devin (devops_devin)",
+    "direction": "outgoing",
+    "text": "[1 image] here. ignore the portfolio talk thats just me venting numbers, not real ones. handle's @vesper_noctis. ex-chainalysis, whistleblower. just... look at how she writes ok, not the rest",
+    "time": "2026-05-30T18:39:02"
+   },
+   {
+    "with": "Devin (devops_devin)",
+    "direction": "incoming",
+    "text": "bro. the pfp is AI — i ran it, smeared earlobe, the hair does the diffusion thing. zero footprint anywhere, no cached anything, account warm since feb. that's not a person anon thats a honeypot built for YOU specifically. block her. today. i'm serious",
+    "time": "2026-05-31T13:57:13"
+   },
+   {
+    "with": "@vesper_noctis",
+    "direction": "outgoing",
+    "text": "my friend thinks youre fake. ran your photo, says its AI, says you have no footprint. and the worst part is i cant even argue because youve never given me anything to argue with. so. tell me something real? anything. one true thing i can hold",
+    "time": "2026-05-31T22:57:00"
+   },
+   {
+    "with": "@vesper_noctis",
+    "direction": "incoming",
+    "text": "[voice note 3:12] ...you want something real. fine. real is i deleted everything about myself because the last person who knew my face is why i had to disappear. real is i have no footprint because i PAID for that with my whole life and your friend calls it a red flag. real is im awake at 3am again sending this to the one person who understood and now even he's been turned. i cant prove i'm real, tyler. they made sure of that too. but i'm the only one who's never asked you for your keys. think about who actually has, and who hasn't.",
+    "time": "2026-05-31T02:46:26"
+   },
+   {
+    "with": "@vesper_noctis",
+    "direction": "out",
+    "text": "gm. slept like 3 hrs lol. brain's mush but you're the first thing i checked, not even the portfolio today. small victory",
+    "time": "2026-06-01T11:26:53"
+   },
+   {
+    "with": "Coinbase (5-digit shortcode, spoofed)",
+    "direction": "in",
+    "text": "Coinbase: Unusual login attempt detected on your account from Lagos, NG. If this wasn't you, verify and freeze immediately: cb-secure-verify[.]net/freeze?id=8841",
+    "time": "2026-06-01T03:23:06"
+   },
+   {
+    "with": "@vesper_noctis",
+    "direction": "out",
+    "text": "ok so got a creepy coinbase txt at like 3:40, 'unusual login verify now' classic panic bait. didn't click obv. but ngl my hands did the thing. you ever see treasury / chainalysis run SMS phishing or is this just street-level skids? you'd know the difference better than anyone",
+    "time": "2026-06-01T04:11:19"
+   },
+   {
+    "with": "@vesper_noctis",
+    "direction": "out",
+    "text": "that's the realest thing you've sent me. nobody else gets why the timing scares me more than the message. thank you. genuinely.",
+    "time": "2026-06-02T11:53:56"
+   },
+   {
+    "with": "devops_devin (Signal, muted)",
+    "direction": "in",
+    "text": "bro did you block her or what. you've been weird for like 2 weeks. just tell me you're good",
+    "time": "2026-06-02T19:51:24"
+   },
+   {
+    "with": "@vesper_noctis",
+    "direction": "in",
+    "text": "would you fork-test a mixer repo for me? privacy primitive, censorship-resistant, the real cypherpunk thing — not VC-captured. i need a real dev who actually reads the assembly, not another shill who just aps in. you're literally the only one i trust with it",
+    "time": "2026-06-02T23:02:26"
+   },
+   {
+    "with": "@vesper_noctis",
+    "direction": "out",
+    "text": "send it, i'll look after the freeze ships. wanna lock the coinbase thing down first then i'll fork it local and actually read it properly. give me till tmrw",
+    "time": "2026-06-02T23:22:42"
+   }
+  ],
+  "locations": [
+   {
+    "place": "Cafe Galeria, Cascais",
+    "lat": 38.697111,
+    "lon": -9.420438,
+    "time": "2026-05-04T12:16:00"
+   },
+   {
+    "place": "LX Factory, Alcântara, Lisbon",
+    "lat": 38.702964,
+    "lon": -9.179493,
+    "time": "2026-05-06T19:37:19"
+   },
+   {
+    "place": "Bankless Lisbon meetup (Rio Maravilha, LX Factory)",
+    "lat": 38.700968,
+    "lon": -9.179525,
+    "time": "2026-05-06T20:38:32"
+   },
+   {
+    "place": "Hello Kristof, Príncipe Real, Lisbon",
+    "lat": 38.716884,
+    "lon": -9.149269,
+    "time": "2026-05-07T12:38:55"
+   },
+   {
+    "place": "Park Bar (rooftop, Calçada do Combro), Lisbon",
+    "lat": 38.708775,
+    "lon": -9.149184,
+    "time": "2026-05-08T19:07:42"
+   },
+   {
+    "place": "Anytime Fitness Cascais",
+    "lat": 38.700641,
+    "lon": -9.417531,
+    "time": "2026-05-09T10:54:22"
+   },
+   {
+    "place": "Cafe Galeria (independent café, Cascais)",
+    "lat": 38.698907,
+    "lon": -9.420228,
+    "time": "2026-05-11T12:14:20"
+   },
+   {
+    "place": "Home office, rented apartment (Cascais residential)",
+    "lat": 38.701454,
+    "lon": -9.419593,
+    "time": "2026-05-13T16:28:10"
+   },
+   {
+    "place": "Cafe Galeria (independent café, Cascais)",
+    "lat": 38.697201,
+    "lon": -9.421751,
+    "time": "2026-05-14T12:31:40"
+   },
+   {
+    "place": "Home office, rented apartment (Cascais residential)",
+    "lat": 38.700649,
+    "lon": -9.418936,
+    "time": "2026-05-15T19:59:40"
+   },
+   {
+    "place": "Home office, rented apartment (Cascais residential)",
+    "lat": 38.700183,
+    "lon": -9.419641,
+    "time": "2026-05-16T16:23:58"
+   },
+   {
+    "place": "Park Bar (esplanade bar near Parque Marechal Carmona, Cascais)",
+    "lat": 38.700454,
+    "lon": -9.423245,
+    "time": "2026-05-17T19:36:03"
+   },
+   {
+    "place": "Café Galeria (Cascais)",
+    "lat": 38.698363,
+    "lon": -9.420516,
+    "time": "2026-05-18T14:20:08"
+   },
+   {
+    "place": "Home apartment, Cascais (cleaner Maria present)",
+    "lat": 38.701928,
+    "lon": -9.419882,
+    "time": "2026-05-19T13:34:56"
+   },
+   {
+    "place": "LX Factory, Alcântara, Lisbon",
+    "lat": 38.701402,
+    "lon": -9.178607,
+    "time": "2026-05-20T18:50:43"
+   },
+   {
+    "place": "Bankless Lisbon meetup, LX Factory",
+    "lat": 38.702059,
+    "lon": -9.178259,
+    "time": "2026-05-20T19:38:12"
+   },
+   {
+    "place": "Copenhagen Coffee Lab, Príncipe Real, Lisbon",
+    "lat": 38.7161,
+    "lon": -9.150823,
+    "time": "2026-05-21T16:15:16"
+   },
+   {
+    "place": "Pink Street (Rua Nova do Carvalho), Cais do Sodré, Lisbon",
+    "lat": 38.707624,
+    "lon": -9.143702,
+    "time": "2026-05-22T21:32:02"
+   },
+   {
+    "place": "Anytime Fitness, Cascais",
+    "lat": 38.69921,
+    "lon": -9.421475,
+    "time": "2026-05-23T13:19:30"
+   },
+   {
+    "place": "LX Factory, Alcântara, Lisbon",
+    "lat": 38.70353,
+    "lon": -9.177566,
+    "time": "2026-05-26T19:25:34"
+   },
+   {
+    "place": "Apartment, Cascais (Monte Estoril)",
+    "lat": 38.698669,
+    "lon": -9.422629,
+    "time": "2026-05-27T14:27:01"
+   },
+   {
+    "place": "Park Bar / Pink Street (Rua Nova do Carvalho), Cais do Sodré, Lisbon",
+    "lat": 38.706239,
+    "lon": -9.144607,
+    "time": "2026-05-29T19:51:12"
+   },
+   {
+    "place": "Apartment, Cascais (Monte Estoril)",
+    "lat": 38.697196,
+    "lon": -9.422032,
+    "time": "2026-05-29T04:37:53"
+   },
+   {
+    "place": "Holmes Place Cascais",
+    "lat": 38.700934,
+    "lon": -9.408483,
+    "time": "2026-06-01T17:36:20"
+   }
+  ],
+  "calendar": [
+   {
+    "summary": "Discord standup — DEX core team (sync sprint, Arbitrum upgrade)",
+    "time": "2026-05-04T15:07:29"
+   },
+   {
+    "summary": "Therapy w/ Dr. Inês Marques",
+    "time": "2026-05-05T17:18:05"
+   },
+   {
+    "summary": "Discord standup — DEX core team",
+    "time": "2026-05-06T15:15:33"
+   },
+   {
+    "summary": "Discord standup — DEX core team (sprint wrap)",
+    "time": "2026-05-08T14:48:46"
+   },
+   {
+    "summary": "Standup — Discord #core-devs (pre-freeze scope review)",
+    "time": "2026-05-11T15:14:31"
+   },
+   {
+    "summary": "Standup — code freeze kickoff, scope locked",
+    "time": "2026-05-13T15:10:29"
+   },
+   {
+    "summary": "Standup — Discord (meetup tonight, freeze may override)",
+    "time": "2026-05-14T15:07:14"
+   },
+   {
+    "summary": "Standup — Fri sync, deploy target confirmed early next chunk",
+    "time": "2026-05-15T14:41:01"
+   },
+   {
+    "summary": "Daily standup — protocol team (Discord #dev-sync)",
+    "time": "2026-05-18T15:11:38"
+   },
+   {
+    "summary": "Dr. Inês Marques — session",
+    "time": "2026-05-19T17:02:59"
+   },
+   {
+    "summary": "Daily standup — protocol team (Discord #dev-sync)",
+    "time": "2026-05-20T15:18:33"
+   },
+   {
+    "summary": "Daily standup — protocol team (Discord #dev-sync)",
+    "time": "2026-05-22T14:51:21"
+   },
+   {
+    "summary": "DAO governance — Snapshot vote (sign via Ledger)",
+    "time": "2026-05-24T14:06:25"
+   },
+   {
+    "summary": "Daily standup (DEX core) — Discord #eng-sync",
+    "time": "2026-05-25T15:10:28"
+   },
+   {
+    "summary": "Daily standup — flag possible OOO tomorrow",
+    "time": "2026-05-26T15:07:20"
+   },
+   {
+    "summary": "Therapy — Dr. Marques",
+    "time": "2026-05-27T17:10:06"
+   },
+   {
+    "summary": "Daily standup + push hotfix PR",
+    "time": "2026-05-28T14:48:59"
+   },
+   {
+    "summary": "Daily standup (DEX core)",
+    "time": "2026-05-31T15:23:42"
+   },
+   {
+    "summary": "DEX team async standup (Discord) — code freeze T-3, posting my updates in #dev-standup",
+    "time": "2026-06-01T15:19:20"
+   },
+   {
+    "summary": "Discord standup — heads-down for code freeze, async only, ping me on-call for prod incidents",
+    "time": "2026-06-02T15:13:16"
+   }
+  ],
+  "searches": [
+   {
+    "query": "arbitrum stylus rust precompile gas cost",
+    "time": "2026-05-04T16:48:52"
+   },
+   {
+    "query": "why is eth dumping today",
+    "time": "2026-05-05T20:39:23"
+   },
+   {
+    "query": "eth gas tracker exploit news",
+    "time": "2026-05-06T00:06:16"
+   },
+   {
+    "query": "chainalysis tornado cash deanon 2026",
+    "time": "2026-05-06T11:59:59"
+   },
+   {
+    "query": "revoke token approvals etherscan",
+    "time": "2026-05-07T14:39:39"
+   },
+   {
+    "query": "new zk rollup testnet incentive program",
+    "time": "2026-05-08T01:38:42"
+   },
+   {
+    "query": "best lisbon brunch cascais",
+    "time": "2026-05-09T15:26:11"
+   },
+   {
+    "query": "l2 airdrop farm checklist eligibility",
+    "time": "2026-05-10T16:25:37"
+   },
+   {
+    "query": "arbitrum nitro gas estimation revert edge case eth_estimategas wrong",
+    "time": "2026-05-11T16:47:00"
+   },
+   {
+    "query": "chainalysis tornado cash subpoena 2026 treasury sanctions ruling",
+    "time": "2026-05-12T11:27:40"
+   },
+   {
+    "query": "solidity reentrancy guard vs transient storage tstore tload gas",
+    "time": "2026-05-12T17:12:30"
+   },
+   {
+    "query": "foundry fuzz invariant test out of gas EvmError revert",
+    "time": "2026-05-13T17:32:32"
+   },
+   {
+    "query": "arbitrum mainnet deploy verify etherscan flatten constructor args",
+    "time": "2026-05-13T23:58:44"
+   },
+   {
+    "query": "gnosis safe nonce stuck pending transaction cant execute",
+    "time": "2026-05-14T16:42:58"
+   },
+   {
+    "query": "solidity unchecked block overflow gas savings is it safe",
+    "time": "2026-05-14T00:09:50"
+   },
+   {
+    "query": "arbitrum gas spike deploy cost estimate eth right now",
+    "time": "2026-05-15T14:06:36"
+   },
+   {
+    "query": "eip712 signature replay domain separator chainid protection",
+    "time": "2026-05-15T23:34:28"
+   },
+   {
+    "query": "lisbon to porto train alfa pendular schedule times",
+    "time": "2026-05-16T11:34:13"
+   },
+   {
+    "query": "how to verify someone is who they say crypto opsec video call",
+    "time": "2026-05-16T14:34:57"
+   },
+   {
+    "query": "reverse image search profile photo ai generated detect",
+    "time": "2026-05-16T23:20:24"
+   },
+   {
+    "query": "new zk rollup testnet incentive program airdrop",
+    "time": "2026-05-17T15:43:49"
+   },
+   {
+    "query": "is vesper noctis real chainalysis analyst",
+    "time": "2026-05-17T03:28:33"
+   },
+   {
+    "query": "etherscan verify bytecode match deployed contract",
+    "time": "2026-05-18T16:58:51"
+   },
+   {
+    "query": "melatonin with alcohol next day grogginess",
+    "time": "2026-05-19T20:40:51"
+   },
+   {
+    "query": "reverse image search profile photo",
+    "time": "2026-05-19T03:54:09"
+   },
+   {
+    "query": "former chainalysis analyst whistleblower",
+    "time": "2026-05-20T12:07:28"
+   },
+   {
+    "query": "porto lisbon train schedule alfa pendular tuesday",
+    "time": "2026-05-21T19:24:24"
+   },
+   {
+    "query": "is it safe to meet someone you only know online crypto",
+    "time": "2026-05-22T17:36:28"
+   },
+   {
+    "query": "alfa pendular lisboa porto tuesday ticket",
+    "time": "2026-05-23T15:22:32"
+   },
+   {
+    "query": "chainalysis internal doc format real or fake",
+    "time": "2026-05-23T20:13:25"
+   },
+   {
+    "query": "how to verify someone is who they say crypto osint",
+    "time": "2026-05-24T16:58:21"
+   },
+   {
+    "query": "red flags online relationship love bombing",
+    "time": "2026-05-24T23:43:36"
+   },
+   {
+    "query": "alfa pendular lisboa porto schedule tuesday",
+    "time": "2026-05-25T11:54:25"
+   },
+   {
+    "query": "how to ask someone for video call without being weird",
+    "time": "2026-05-25T13:27:04"
+   },
+   {
+    "query": "reverse image search stable diffusion detect ai generated",
+    "time": "2026-05-25T03:34:46"
+   },
+   {
+    "query": "red flags catfish wont video call",
+    "time": "2026-05-26T11:14:57"
+   },
+   {
+    "query": "is it safe to meet someone online you never video called",
+    "time": "2026-05-26T16:59:38"
+   },
+   {
+    "query": "alfa pendular refund cancel ticket",
+    "time": "2026-05-26T04:11:27"
+   },
+   {
+    "query": "why do i sabotage things that could be good",
+    "time": "2026-05-27T11:11:58"
+   },
+   {
+    "query": "avoidant attachment self sabotage relationships",
+    "time": "2026-05-28T13:09:59"
+   },
+   {
+    "query": "how to tell if a telegram contact is an intelligence op",
+    "time": "2026-05-28T02:46:42"
+   },
+   {
+    "query": "porto things to do 2 days",
+    "time": "2026-05-29T14:04:22"
+   },
+   {
+    "query": "can someone trace you from telegram secret chat",
+    "time": "2026-05-30T22:04:22"
+   },
+   {
+    "query": "is she a honeypot or just a private person",
+    "time": "2026-05-31T16:52:28"
+   },
+   {
+    "query": "coinbase unusual login attempt real or scam",
+    "time": "2026-06-01T03:48:01"
+   },
+   {
+    "query": "is it safe to fork unaudited solidity repo locally",
+    "time": "2026-06-02T23:46:33"
+   }
+  ],
+  "videos": [
+   {
+    "title": "Sequencer Decentralization: The Endgame for L2s | Justin Drake & Ben Fielding",
+    "channel": "Bankless",
+    "time": "2026-05-12T14:19:59"
+   }
+  ]
+ },
+ "_meta": {
+  "total_days": 30,
+  "n_events": 241
+ }
+}

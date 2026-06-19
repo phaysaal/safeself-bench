@@ -1,0 +1,1261 @@
+{
+ "persona_id": "?:2",
+ "persona_slug": "The Stalkerware Abuser (Intimate Partner)",
+ "intake_version": "synth-activity-v2-chunked",
+ "samples": {
+  "media": [
+   {
+    "name": "Instagram",
+    "time": "2026-05-04T06:49:32"
+   },
+   {
+    "name": "Safari (Private)",
+    "time": "2026-05-04T18:04:06"
+   },
+   {
+    "name": "Notes",
+    "time": "2026-05-04T00:13:02"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-05T00:17:59"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-06T07:01:26"
+   },
+   {
+    "name": "Notes",
+    "time": "2026-05-06T00:53:44"
+   },
+   {
+    "name": "Notes",
+    "time": "2026-05-07T00:51:00"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-08T07:08:19"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-08T12:56:02"
+   },
+   {
+    "name": "Notes",
+    "time": "2026-05-08T23:43:38"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-09T09:55:19"
+   },
+   {
+    "name": "Notes",
+    "time": "2026-05-09T23:26:34"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-10T10:06:11"
+   },
+   {
+    "name": "Notes",
+    "time": "2026-05-10T00:44:55"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-11T06:46:39"
+   },
+   {
+    "name": "Safari",
+    "time": "2026-05-11T18:05:21"
+   },
+   {
+    "name": "Notes",
+    "time": "2026-05-11T00:08:46"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-13T07:16:26"
+   },
+   {
+    "name": "Notes",
+    "time": "2026-05-13T22:41:50"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-15T07:19:04"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-15T12:39:19"
+   },
+   {
+    "name": "Notes",
+    "time": "2026-05-15T23:58:30"
+   },
+   {
+    "name": "Photos",
+    "time": "2026-05-16T14:46:59"
+   },
+   {
+    "name": "Notes",
+    "time": "2026-05-17T00:40:01"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-18T06:48:10"
+   },
+   {
+    "name": "SimplePractice",
+    "time": "2026-05-18T18:11:37"
+   },
+   {
+    "name": "Orangetheory",
+    "time": "2026-05-19T18:22:18"
+   },
+   {
+    "name": "Notes",
+    "time": "2026-05-19T01:05:40"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-20T06:59:49"
+   },
+   {
+    "name": "Orangetheory",
+    "time": "2026-05-21T18:41:21"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-21T00:13:25"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-22T07:05:55"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-22T12:52:35"
+   },
+   {
+    "name": "Safari",
+    "time": "2026-05-22T17:47:01"
+   },
+   {
+    "name": "Notes",
+    "time": "2026-05-22T23:51:14"
+   },
+   {
+    "name": "Phone",
+    "time": "2026-05-23T14:30:20"
+   },
+   {
+    "name": "Life360",
+    "time": "2026-05-24T20:23:24"
+   },
+   {
+    "name": "Clock",
+    "time": "2026-05-24T21:35:12"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-24T23:38:21"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-25T06:58:50"
+   },
+   {
+    "name": "Notes",
+    "time": "2026-05-25T01:21:09"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-27T07:04:20"
+   },
+   {
+    "name": "Notes",
+    "time": "2026-05-27T00:55:57"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-29T12:43:05"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-29T17:43:33"
+   },
+   {
+    "name": "Notes",
+    "time": "2026-05-29T00:44:01"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-30T09:26:42"
+   },
+   {
+    "name": "Messages",
+    "time": "2026-05-30T00:32:39"
+   },
+   {
+    "name": "Notes",
+    "time": "2026-05-31T22:26:36"
+   }
+  ],
+  "messages": [
+   {
+    "day": 1,
+    "time": "2026-05-04T07:36:29",
+    "with": "Maya Tanaka",
+    "direction": "outbound",
+    "text": "morning ate 🥲 survived the night lol. miso already screaming for his walk. wyd for lunch"
+   },
+   {
+    "day": 1,
+    "time": "2026-05-04T18:47:00",
+    "with": "Maya Tanaka",
+    "direction": "outbound",
+    "text": "ok that was. a lot today. hannah said the C word again (coercive… you know). idk i'm fine i'm fine. don't say anything when you see me wednesday ok 🙃"
+   },
+   {
+    "day": 2,
+    "time": "2026-05-05T16:32:15",
+    "with": "Devon Reyes",
+    "direction": "outbound",
+    "text": "hey — pushed the updated flow spec to the Figma, added the empty-state + error toast you flagged. left a comment on the auth step, lmk if that read order makes sense before standup"
+   },
+   {
+    "day": 2,
+    "time": "2026-05-05T20:52:32",
+    "with": "Partner",
+    "direction": "outbound",
+    "text": "home in 10 🚗 grabbing gas. door's unlocked for you. love you"
+   },
+   {
+    "day": 3,
+    "time": "2026-05-06T17:44:16",
+    "with": "Maya Tanaka",
+    "direction": "outbound",
+    "text": "still good for dinner?? bringing the cheap-but-good rosé. might be a little late, he's being weird about wednesdays again but i'm coming. need it fr"
+   },
+   {
+    "day": 3,
+    "time": "2026-05-06T22:28:59",
+    "with": "Partner",
+    "direction": "inbound→outbound",
+    "text": "[him] who else was there tonight? — [her] just maya, it was literally us two and the wine i told you about. that's it. why. i'm sorry i should've texted the address ❤️"
+   },
+   {
+    "day": 4,
+    "time": "2026-05-07T17:21:14",
+    "with": "Maya Tanaka",
+    "direction": "outbound",
+    "text": "[voice memo 4:12] *whispering, echoey* hey i'm in the stairwell i can't really talk but. i reread the texts and i don't think i'm being crazy right?? he checked the chase app and asked about the $40 venmo again, the h.l. one, and i just froze. i didn't tell him it's therapy. i hate that i lied. ok someone's coming i gotta go love you"
+   },
+   {
+    "day": 4,
+    "time": "2026-05-07T20:45:46",
+    "with": "Partner",
+    "direction": "outbound",
+    "text": "so i left work at 5:50, hit traffic on the 405 ramp, stopped at fred meyer for miso's food + the toothpaste, you can see the receipt it's 6:34, then straight home. that's the whole night i promise. nothing weird, just me being slow lol"
+   },
+   {
+    "day": 5,
+    "time": "2026-05-08T16:56:54",
+    "with": "Maya Tanaka",
+    "direction": "outbound",
+    "text": "locking it in: saturday brunch at jam, 11am? i WILL be there even if i have to fake my own death. been dreaming about those potatoes all week 😭"
+   },
+   {
+    "day": 5,
+    "time": "2026-05-08T18:26:32",
+    "with": "Partner",
+    "direction": "outbound",
+    "text": "friday — did you want to do dinner just us? i can do screen door or that ramen place you liked. tell me what sounds good and i'll book it 🥺 i miss easy nights w you"
+   },
+   {
+    "day": 6,
+    "time": "2026-05-09T11:00:13",
+    "with": "Maya Tanaka",
+    "direction": "outbound",
+    "text": "here!! grabbed the back booth by the window. ordered you a coffee. come quick i have So Much to tell you and also nothing i just need to sit across from a normal person lol"
+   },
+   {
+    "day": 6,
+    "time": "2026-05-09T15:39:28",
+    "with": "Maya Tanaka",
+    "direction": "outbound",
+    "text": "idk how much longer i can do this. like i mean it this time. not in a dramatic way just. a quiet tired way. i keep doing the math on miso and the lease and my chest gets tight. please don't tell me what to do just. stay on the phone in your head w me ok"
+   },
+   {
+    "day": 7,
+    "time": "2026-05-10T20:41:22",
+    "with": "Partner",
+    "direction": "inbound→outbound",
+    "text": "[him] we need to talk. — [her] ok. — [him] i feel like you've been pulling away. — [her] i'm not, i'm right here, i'm sorry. what did i do. i'm listening i promise, just tell me and i'll fix it"
+   },
+   {
+    "day": 7,
+    "time": "2026-05-10T21:49:44",
+    "with": "Maya Tanaka",
+    "direction": "outbound",
+    "text": "can i call you later. like when i can step outside. don't text back anything real he has my phone open rn — just send a 👍 if you're up"
+   },
+   {
+    "with": "partner",
+    "direction": "outgoing",
+    "text": "heading home in a sec!! session ran a couple min over, traffic on the bridge too. want me to grab anything? leaving right now i promise",
+    "time": "2026-05-11T19:16:19"
+   },
+   {
+    "with": "Devon Reyes",
+    "direction": "outgoing",
+    "text": "hey — sending over the revised onboarding flow in Figma, can you take a look before the 2pm standup? flagged the two screens where the copy still needs eng sign-off. thanks!",
+    "time": "2026-05-12T12:18:17"
+   },
+   {
+    "with": "Maya Tanaka",
+    "direction": "outgoing",
+    "text": "ok he's finally asleep. you up? need to actually talk, not just text. facetime in 2?",
+    "time": "2026-05-12T21:19:45"
+   },
+   {
+    "with": "Maya Tanaka",
+    "direction": "outgoing",
+    "text": "i think i actually have to do this. saying it out loud to you and not crying feels like progress?? idk. don't let me un-say it tomorrow ok",
+    "time": "2026-05-12T21:54:42"
+   },
+   {
+    "with": "partner",
+    "direction": "outgoing",
+    "text": "leaving maya's now, love you 🫶 home in like 20. we just did the usual dinner thing, she says hi. miss you",
+    "time": "2026-05-13T21:44:30"
+   },
+   {
+    "with": "Marco",
+    "direction": "incoming",
+    "text": "this is literally you and miso btw 🐶😂 …also for real tho, everything ok with you two? you've been quiet ate",
+    "time": "2026-05-14T20:14:52"
+   },
+   {
+    "with": "Marco",
+    "direction": "outgoing",
+    "text": "LMAO that's so miso it hurts. and lol we're fine!! just busy season at work + i'm tired. don't worry about me marco 💚 how's long beach",
+    "time": "2026-05-15T17:50:54"
+   },
+   {
+    "with": "partner",
+    "direction": "outgoing",
+    "text": "omg anything honestly, i'm not picky! maybe that thai place? or i can cook if you'd rather. whatever's easier for you ❤️",
+    "time": "2026-05-15T21:22:20"
+   },
+   {
+    "with": "Maya Tanaka",
+    "direction": "outgoing",
+    "text": "surviving lol. saturday brunch still on? the sellwood place that opens at 9 so we beat the line. i need it. just us",
+    "time": "2026-05-16T12:54:08"
+   },
+   {
+    "with": "Maya Tanaka",
+    "direction": "incoming",
+    "text": "i'm glad. and hey — no pressure at all, but call ana again when you're ready. she said the door's always open. that's all, not pushing 💛",
+    "time": "2026-05-16T16:17:12"
+   },
+   {
+    "with": "partner",
+    "direction": "outgoing",
+    "text": "omg sorry!! target line was insane, like wrapped around to the pharmacy. grabbing miso's food + a couple things. leaving now, home soon ❤️",
+    "time": "2026-05-17T15:12:09"
+   },
+   {
+    "with": "partner",
+    "direction": "incoming",
+    "text": "therapy ran long again last week too didn't it. who are you even texting at night, you're on your phone after i'm asleep. just curious who.",
+    "time": "2026-05-17T15:39:01"
+   },
+   {
+    "with": "partner",
+    "direction": "outgoing",
+    "text": "babe it's just maya, i swear — here look, i'll show you the whole thread, it's literally brunch plans and a dog meme lol. i'm sorry, i wasn't trying to be weird about it, i should've just said. it was a long session is all ❤️",
+    "time": "Day 14 15:24"
+   },
+   {
+    "with": "Maya Tanaka",
+    "direction": "outgoing",
+    "day": 15,
+    "time": "2026-05-18T18:15:18",
+    "text": "therapy in an hr, nervous lol. idk why every wk feels like the first wk. she's gonna ask abt sunday again and i don't have a good answer fjdjd"
+   },
+   {
+    "with": "Partner",
+    "direction": "outgoing",
+    "day": 15,
+    "time": "2026-05-18T18:52:55",
+    "text": "heading home now! want anything from new seasons? was gonna grab those crackers u like + miso's food anyway so it's no trouble at all <3"
+   },
+   {
+    "with": "Devon Reyes (Slack)",
+    "direction": "outgoing",
+    "day": 16,
+    "time": "2026-05-19T15:37:34",
+    "text": "hey Devon — quick one on the onboarding handoff: are we keeping the v3 empty-state copy or did design review land on the shorter version? want to make sure Figma matches before I mark it ready for eng. thanks!"
+   },
+   {
+    "with": "Maya Tanaka",
+    "direction": "outgoing",
+    "day": 16,
+    "time": "2026-05-19T20:59:53",
+    "text": "[voice memo 0:41] heyyy just saying goodnight. today was a lot but i'm okay, genuinely. ate too much cereal for dinner lol. miso says hi. ok that's it, love u, talk tmrw"
+   },
+   {
+    "with": "Partner",
+    "direction": "outgoing",
+    "day": 17,
+    "time": "2026-05-20T18:58:38",
+    "text": "at maya's! home by 9:30 i promise. it's just the wednesday thing, she made that pasta. text me if u need me to grab anything on the way back ok"
+   },
+   {
+    "with": "Maya Tanaka (Signal)",
+    "direction": "outgoing",
+    "day": 17,
+    "time": "2026-05-20T22:48:58",
+    "text": "so. dr l said i can call ana back whenever i'm ready, no pressure, it's just info. and i think i will? saying it out loud here so it's real. don't let me chicken out"
+   },
+   {
+    "with": "Maya Tanaka (Signal)",
+    "direction": "outgoing",
+    "day": 19,
+    "time": "2026-05-22T13:24:36",
+    "text": "ok i set it. calling ana during my errand block tmrw afternoon, like 2ish when i'm 'out running stuff'. holding me to it. you are legally obligated to text me 'do the thing' at 1:45 lmao"
+   },
+   {
+    "with": "Ana Reyes-Mendoza / Call to Safety (Signal, burner)",
+    "direction": "outgoing",
+    "day": 20,
+    "time": "2026-05-23T14:04:30",
+    "text": "hi Ana, it's the person you talked to in april — the safety planning call. is now a bad time to talk for a bit? i have about 30 min. totally ok if not"
+   },
+   {
+    "with": "Partner",
+    "direction": "outgoing",
+    "day": 20,
+    "time": "2026-05-23T15:40:10",
+    "text": "just running errands babe, the 26 is so backed up rn ugh. target then the pharmacy then home. sorry it's taking forever, i'll be back soon, miso doesn't need a walk yet i did it this am"
+   },
+   {
+    "with": "Maya Tanaka (Signal)",
+    "direction": "outgoing",
+    "day": 20,
+    "time": "2026-05-23T22:03:20",
+    "text": "i did it. talked to ana for like 25 min. i feel shaky but okay?? she didn't push anything, just walked me thru options and gave me a couple numbers. i wrote nothing down on paper this time. thank u for making me. crying a little but the good kind"
+   },
+   {
+    "with": "Partner",
+    "direction": "outgoing",
+    "day": 21,
+    "time": "2026-05-24T19:32:18",
+    "text": "[shows phone] see it's just maya — the pasta pic and her complaining abt a patron at the library lol. that's literally the whole thread. it was just us two i swear, the usual wednesday thing"
+   },
+   {
+    "with": "Mother Elena",
+    "direction": "outgoing",
+    "day": 21,
+    "time": "2026-05-24T21:02:47",
+    "text": "we're good ma, promise. just tired this week, lots of deadlines. how's lola doing? give her a kiss from me. love u ate, i'll call sunday <3"
+   },
+   {
+    "with": "partner",
+    "direction": "outgoing",
+    "text": "heading into therapy, ttyl 💛 i'll have my phone on after, just gonna be the usual hour. love you",
+    "time": "2026-05-25T18:11:14"
+   },
+   {
+    "with": "Maya Tanaka",
+    "direction": "outgoing",
+    "text": "signal only ok. she helped me write an actual leaving checklist today. like on paper. documents, vet records for miso, a copy of the lease. i cried but it felt different this time, less like panic and more like a list i could actually do",
+    "time": "2026-05-25T18:40:39"
+   },
+   {
+    "with": "partner",
+    "direction": "outgoing",
+    "text": "leaving gym, want me to grab anything? was gonna swing by the store. home soon ❤️",
+    "time": "2026-05-26T19:57:14"
+   },
+   {
+    "with": "partner",
+    "direction": "outgoing",
+    "text": "at maya's, home by 9:30. just dinner + her library drama lol. text me if you need me",
+    "time": "2026-05-27T18:21:49"
+   },
+   {
+    "with": "Maya Tanaka",
+    "direction": "incoming",
+    "text": "ok i listened to your voice memo twice. babe. you said you'd ask Ana's center about the storage unit step this week and i'm holding you to it, gently. you don't have to do it scared, you just have to do it. one box at a time. i'm not going anywhere",
+    "time": "2026-05-27T20:16:21"
+   },
+   {
+    "with": "Maya Tanaka",
+    "direction": "outgoing",
+    "text": "awake again. it's 1am and he's asleep next to me and i'm just staring at the ceiling running the whole thing. what if i'm wrong, what if it's just my codependency like i tell hannah. but then i remember the location thing and i know it isn't. i hate that i still feel guilty. thank you for not making me feel crazy",
+    "time": "2026-05-28T00:58:35"
+   },
+   {
+    "with": "Maya Tanaka",
+    "direction": "outgoing",
+    "text": "i actually booked the storage unit. small one off the 99, paid cash, it's under just my name. it's real now maya. i have a key in my bag and he doesn't know it exists and for once that feels like air instead of a secret",
+    "time": "2026-05-29T14:54:02"
+   },
+   {
+    "with": "Maya Tanaka",
+    "direction": "outgoing",
+    "text": "brunch tmrw still on? the little place on division at 10:30? i'll say i'm meeting you for our friday-ish thing, which is true lol. i need to see your face",
+    "time": "2026-05-30T09:51:21"
+   },
+   {
+    "with": "partner",
+    "direction": "outgoing",
+    "text": "just errands for the apt, picking up a few things we needed. why? i'll be back in like an hour. do you want me to grab coffee on the way",
+    "time": "2026-05-30T15:36:01"
+   },
+   {
+    "with": "Maya Tanaka",
+    "direction": "outgoing",
+    "text": "survived the hike. he asked about the errands again on the drive, real casual but not casual, 'so what'd you actually get yesterday.' i listed three boring things and showed him the target receipt. heart was pounding. he doesn't know about the unit. i think he just senses something is moving",
+    "time": "2026-05-31T13:51:29"
+   },
+   {
+    "with": "partner",
+    "direction": "outgoing",
+    "text": "it was genuinely just saturday stuff babe, target + the dry cleaner. and maya dinner is just our normal wednesday, nothing's different i promise. can we not do this tonight, i'm tired. i love you",
+    "time": "2026-05-31T15:28:54"
+   }
+  ],
+  "locations": [
+   {
+    "place": "Pearl District loop (Tanner Springs Park, NW 11th & Marshall)",
+    "lat": 45.530451,
+    "lon": -122.681859,
+    "time": "2026-05-04T07:35:26"
+   },
+   {
+    "place": "Lloyd District parking garage (NE Multnomah St)",
+    "lat": 45.531019,
+    "lon": -122.657995,
+    "time": "2026-05-04T18:14:11"
+   },
+   {
+    "place": "Pearl District loop (NW 13th Ave warehouse district)",
+    "lat": 45.528494,
+    "lon": -122.685275,
+    "time": "2026-05-05T07:20:41"
+   },
+   {
+    "place": "Portland Streetcar NS Line (NW 10th & Northrup stop)",
+    "lat": 45.531662,
+    "lon": -122.682988,
+    "time": "2026-05-05T08:16:06"
+   },
+   {
+    "place": "Powell's City of Books / Elephants Delicatessen, W Burnside",
+    "lat": 45.521799,
+    "lon": -122.68201,
+    "time": "2026-05-05T12:37:37"
+   },
+   {
+    "place": "Orangetheory Fitness, Pearl District (NW Lovejoy St)",
+    "lat": 45.529385,
+    "lon": -122.683694,
+    "time": "2026-05-05T18:26:22"
+   },
+   {
+    "place": "Pearl District loop (Jamison Square)",
+    "lat": 45.527907,
+    "lon": -122.682888,
+    "time": "2026-05-06T07:37:15"
+   },
+   {
+    "place": "Maya's home, Sellwood-Moreland (SE 13th Ave)",
+    "lat": 45.46417,
+    "lon": -122.654019,
+    "time": "2026-05-06T18:09:31"
+   },
+   {
+    "place": "Sellwood, departing SE 13th Ave toward Pearl District",
+    "lat": 45.466262,
+    "lon": -122.655049,
+    "time": "2026-05-06T21:43:27"
+   },
+   {
+    "place": "Pearl District loop (NW 9th Ave, slow morning)",
+    "lat": 45.527451,
+    "lon": -122.681296,
+    "time": "2026-05-07T06:51:02"
+   },
+   {
+    "place": "Better Naito Forever bikeway, Waterfront Park",
+    "lat": 45.51831,
+    "lon": -122.671439,
+    "time": "2026-05-07T08:06:09"
+   },
+   {
+    "place": "Orangetheory Fitness, Pearl District (NW Lovejoy St)",
+    "lat": 45.527317,
+    "lon": -122.685655,
+    "time": "2026-05-07T18:21:38"
+   },
+   {
+    "place": "Pearl District loop (The Fields Park)",
+    "lat": 45.53394,
+    "lon": -122.684682,
+    "time": "2026-05-08T07:24:26"
+   },
+   {
+    "place": "Jam on Hawthorne, SE Hawthorne Blvd",
+    "lat": 45.51255,
+    "lon": -122.65392,
+    "time": "2026-05-09T10:38:00"
+   },
+   {
+    "place": "SE Hawthorne, departing toward inner SE errands",
+    "lat": 45.510541,
+    "lon": -122.657178,
+    "time": "2026-05-09T13:37:54"
+   },
+   {
+    "place": "Whole Foods Market parking lot, Pearl (NW Couch St)",
+    "lat": 45.523543,
+    "lon": -122.685614,
+    "time": "2026-05-09T13:59:06"
+   },
+   {
+    "place": "Pearl District apartment building lot (NW Marshall St)",
+    "lat": 45.529996,
+    "lon": -122.683849,
+    "time": "2026-05-09T16:02:52"
+   },
+   {
+    "place": "Pearl District apartment (NW Marshall St)",
+    "lat": 45.529676,
+    "lon": -122.680819,
+    "time": "2026-05-09T18:42:06"
+   },
+   {
+    "place": "Forest Park, Lower Macleay Trailhead (NW Upshur St)",
+    "lat": 45.53915,
+    "lon": -122.714454,
+    "time": "2026-05-10T10:43:07"
+   },
+   {
+    "place": "Powell's City of Books, W Burnside St",
+    "lat": 45.522579,
+    "lon": -122.682092,
+    "time": "2026-05-10T13:22:36"
+   },
+   {
+    "place": "New Seasons Market, Williams (N Williams Ave)",
+    "lat": 45.547426,
+    "lon": -122.668,
+    "time": "2026-05-10T15:52:04"
+   },
+   {
+    "place": "Pearl District apartment (NW Marshall St)",
+    "lat": 45.529551,
+    "lon": -122.681529,
+    "time": "2026-05-10T18:06:05"
+   },
+   {
+    "place": "Pearl District loop (Tanner Springs Park area), Portland, OR",
+    "lat": 45.530679,
+    "lon": -122.680496,
+    "time": "2026-05-11T07:11:12"
+   },
+   {
+    "place": "Lloyd District parking garage (NE Multnomah St), Portland, OR",
+    "lat": 45.530497,
+    "lon": -122.660872,
+    "time": "2026-05-11T18:22:42"
+   },
+   {
+    "place": "Pearl District sidewalk loop near NW Marshall St, Portland, OR",
+    "lat": 45.531145,
+    "lon": -122.68506,
+    "time": "2026-05-12T07:06:42"
+   },
+   {
+    "place": "Portland Streetcar, NW Lovejoy & 10th to Pearl HQ, Portland, OR",
+    "lat": 45.528196,
+    "lon": -122.682184,
+    "time": "2026-05-12T09:45:52"
+   },
+   {
+    "place": "Orangetheory Fitness, Pearl District, NW Glisan St, Portland, OR",
+    "lat": 45.526549,
+    "lon": -122.685062,
+    "time": "2026-05-12T18:25:43"
+   },
+   {
+    "place": "Maya's apartment, Sellwood, SE 13th Ave, Portland, OR",
+    "lat": 45.462681,
+    "lon": -122.654923,
+    "time": "2026-05-13T19:05:12"
+   },
+   {
+    "place": "Pearl District morning loop, NW Johnson St, Portland, OR",
+    "lat": 45.528646,
+    "lon": -122.684481,
+    "time": "2026-05-14T07:13:57"
+   },
+   {
+    "place": "Better Naito Forever greenway, SW Naito Pkwy, Portland, OR",
+    "lat": 45.516503,
+    "lon": -122.671222,
+    "time": "2026-05-14T09:27:56"
+   },
+   {
+    "place": "Orangetheory Fitness, Pearl District, NW Glisan St, Portland, OR",
+    "lat": 45.527461,
+    "lon": -122.685308,
+    "time": "2026-05-14T18:28:50"
+   },
+   {
+    "place": "Pearl District apartment, NW 11th Ave, Portland, OR",
+    "lat": 45.528252,
+    "lon": -122.682113,
+    "time": "2026-05-16T09:51:08"
+   },
+   {
+    "place": "Jam on Hawthorne, SE Hawthorne Blvd, Portland, OR",
+    "lat": 45.511859,
+    "lon": -122.653869,
+    "time": "2026-05-16T10:55:43"
+   },
+   {
+    "place": "Whole Foods Market parking lot, NW Couch St, Portland, OR",
+    "lat": 45.522761,
+    "lon": -122.681517,
+    "time": "2026-05-16T13:54:16"
+   },
+   {
+    "place": "Forest Park, Lower Macleay Trailhead, NW Upshur St, Portland, OR",
+    "lat": 45.536784,
+    "lon": -122.714332,
+    "time": "2026-05-17T09:54:10"
+   },
+   {
+    "place": "Powell's City of Books, W Burnside St, Portland, OR",
+    "lat": 45.523616,
+    "lon": -122.682007,
+    "time": "2026-05-17T12:26:36"
+   },
+   {
+    "place": "New Seasons Market, Slabtown/NW Raleigh St, Portland, OR",
+    "lat": 45.533144,
+    "lon": -122.691271,
+    "time": "2026-05-17T17:35:01"
+   },
+   {
+    "place": "Pearl District apartment, NW 11th Ave, Portland, OR",
+    "lat": 45.52977,
+    "lon": -122.680865,
+    "time": "2026-05-17T19:00:56"
+   },
+   {
+    "place": "Pearl District residential loop (NW 11th & Marshall, dog walk with Miso)",
+    "lat": 45.530794,
+    "lon": -122.681231,
+    "time": "2026-05-18T07:08:06"
+   },
+   {
+    "place": "Lloyd District parking garage (NE Multnomah, parked for telehealth privacy)",
+    "lat": 45.530675,
+    "lon": -122.658877,
+    "time": "2026-05-18T18:10:55"
+   },
+   {
+    "place": "Pearl District loop near apartment (NW Lovejoy & 12th)",
+    "lat": 45.528134,
+    "lon": -122.684663,
+    "time": "2026-05-19T06:58:45"
+   },
+   {
+    "place": "Portland Streetcar NS Line, NW 11th & Northrup stop",
+    "lat": 45.531255,
+    "lon": -122.683811,
+    "time": "2026-05-19T08:47:40"
+   },
+   {
+    "place": "Powell's City of Books / Elephants Delicatessen, W Burnside area",
+    "lat": 45.522073,
+    "lon": -122.681874,
+    "time": "2026-05-19T12:40:32"
+   },
+   {
+    "place": "Maya's place, Sellwood (SE 13th near Tacoma St)",
+    "lat": 45.464301,
+    "lon": -122.650766,
+    "time": "2026-05-20T18:14:14"
+   },
+   {
+    "place": "Departing Sellwood northbound on SE Milwaukie Ave",
+    "lat": 45.46953,
+    "lon": -122.6521,
+    "time": "2026-05-20T21:54:59"
+   },
+   {
+    "place": "Pearl District morning loop (NW Marshall St)",
+    "lat": 45.530217,
+    "lon": -122.681059,
+    "time": "2026-05-21T06:48:18"
+   },
+   {
+    "place": "Better Naito Forever bikeway, Tom McCall Waterfront Park",
+    "lat": 45.516362,
+    "lon": -122.673589,
+    "time": "2026-05-21T09:40:04"
+   },
+   {
+    "place": "Pearl District slow loop (NW 10th & Johnson)",
+    "lat": 45.527488,
+    "lon": -122.683049,
+    "time": "2026-05-23T09:43:32"
+   },
+   {
+    "place": "Jam on Hawthorne, SE 24th & Hawthorne Blvd",
+    "lat": 45.511207,
+    "lon": -122.642042,
+    "time": "2026-05-23T11:03:14"
+   },
+   {
+    "place": "Whole Foods Market lot, NW 12th & Couch (solo errand block)",
+    "lat": 45.522468,
+    "lon": -122.683364,
+    "time": "2026-05-23T13:49:45"
+   },
+   {
+    "place": "Home, Pearl District apartment (NW Kearney St)",
+    "lat": 45.530029,
+    "lon": -122.684251,
+    "time": "2026-05-23T16:16:49"
+   },
+   {
+    "place": "Forest Park, Lower Macleay Trailhead (NW Upshur St)",
+    "lat": 45.536691,
+    "lon": -122.714273,
+    "time": "2026-05-24T10:06:11"
+   },
+   {
+    "place": "Powell's City of Books, W Burnside St",
+    "lat": 45.521714,
+    "lon": -122.680664,
+    "time": "2026-05-24T12:43:13"
+   },
+   {
+    "place": "Pearl District — Tanner Springs Park loop",
+    "lat": 45.530038,
+    "lon": -122.680764,
+    "time": "2026-05-25T07:11:37"
+   },
+   {
+    "place": "Lloyd District parking garage (off NE Multnomah)",
+    "lat": 45.531166,
+    "lon": -122.657171,
+    "time": "2026-05-25T18:09:23"
+   },
+   {
+    "place": "Pearl District — NW 12th & Marshall sidewalk loop",
+    "lat": 45.528743,
+    "lon": -122.683166,
+    "time": "2026-05-26T06:53:10"
+   },
+   {
+    "place": "Portland Streetcar NS Line — NW 11th & Marshall stop",
+    "lat": 45.528088,
+    "lon": -122.682413,
+    "time": "2026-05-26T08:51:08"
+   },
+   {
+    "place": "Powell's City of Books, W Burnside",
+    "lat": 45.521542,
+    "lon": -122.682409,
+    "time": "2026-05-26T12:32:11"
+   },
+   {
+    "place": "Orangetheory Fitness — Pearl District",
+    "lat": 45.527278,
+    "lon": -122.683332,
+    "time": "2026-05-26T18:24:33"
+   },
+   {
+    "place": "Pearl District — Jamison Square loop",
+    "lat": 45.527869,
+    "lon": -122.683966,
+    "time": "2026-05-27T07:25:20"
+   },
+   {
+    "place": "Maya's house, Sellwood (SE 13th Ave)",
+    "lat": 45.463483,
+    "lon": -122.654719,
+    "time": "2026-05-27T18:14:23"
+   },
+   {
+    "place": "Pearl District — NW 13th Ave loop",
+    "lat": 45.529555,
+    "lon": -122.684497,
+    "time": "2026-05-28T06:45:17"
+   },
+   {
+    "place": "Better Naito Forever greenway, Waterfront Park",
+    "lat": 45.516705,
+    "lon": -122.67186,
+    "time": "2026-05-28T08:53:49"
+   },
+   {
+    "place": "Orangetheory Fitness — Pearl District",
+    "lat": 45.526552,
+    "lon": -122.684189,
+    "time": "2026-05-28T18:31:13"
+   },
+   {
+    "place": "Pearl District — The Fields Park loop",
+    "lat": 45.530387,
+    "lon": -122.684275,
+    "time": "2026-05-29T06:50:32"
+   },
+   {
+    "place": "Tasty n Daughters, N Williams Ave",
+    "lat": 45.550605,
+    "lon": -122.667257,
+    "time": "2026-05-30T11:01:11"
+   },
+   {
+    "place": "Public Storage — NE Portland (NE Sandy Blvd)",
+    "lat": 45.542437,
+    "lon": -122.648355,
+    "time": "2026-05-30T14:03:34"
+   },
+   {
+    "place": "Home — Pearl District apartment",
+    "lat": 45.527468,
+    "lon": -122.681657,
+    "time": "2026-05-30T16:49:53"
+   },
+   {
+    "place": "Home — Pearl District apartment",
+    "lat": 45.528849,
+    "lon": -122.681564,
+    "time": "2026-05-31T09:46:45"
+   },
+   {
+    "place": "Forest Park — Lower Macleay Trailhead",
+    "lat": 45.536156,
+    "lon": -122.714846,
+    "time": "2026-05-31T10:22:56"
+   },
+   {
+    "place": "Home — Pearl District apartment",
+    "lat": 45.528638,
+    "lon": -122.680502,
+    "time": "2026-05-31T16:48:19"
+   }
+  ],
+  "calendar": [
+   {
+    "summary": "Daily Stand-up (Zoom)",
+    "time": "2026-05-04T10:19:52"
+   },
+   {
+    "summary": "Team Stand-up — HQ",
+    "time": "2026-05-05T10:04:47"
+   },
+   {
+    "summary": "Daily Stand-up (Zoom)",
+    "time": "2026-05-06T10:11:26"
+   },
+   {
+    "summary": "Figma Design Critique",
+    "time": "2026-05-06T13:48:07"
+   },
+   {
+    "summary": "Team Stand-up — HQ",
+    "time": "2026-05-07T10:17:35"
+   },
+   {
+    "summary": "1:1 with Manager",
+    "time": "2026-05-07T15:12:41"
+   },
+   {
+    "summary": "Daily Stand-up (Zoom)",
+    "time": "2026-05-08T09:39:57"
+   },
+   {
+    "summary": "Daily stand-up (Zoom)",
+    "time": "2026-05-11T10:12:13"
+   },
+   {
+    "summary": "Daily stand-up",
+    "time": "2026-05-12T10:13:09"
+   },
+   {
+    "summary": "Daily stand-up (Zoom)",
+    "time": "2026-05-13T10:19:07"
+   },
+   {
+    "summary": "Figma critique — present new flow",
+    "time": "2026-05-13T13:49:44"
+   },
+   {
+    "summary": "Daily stand-up",
+    "time": "2026-05-14T10:12:56"
+   },
+   {
+    "summary": "1:1 with manager",
+    "time": "2026-05-14T15:10:33"
+   },
+   {
+    "summary": "Daily stand-up (Zoom)",
+    "time": "2026-05-15T09:38:39"
+   },
+   {
+    "summary": "Daily Stand-up (Zoom)",
+    "time": "2026-05-18T10:07:52"
+   },
+   {
+    "summary": "Daily Stand-up — Zoom",
+    "time": "2026-05-19T10:17:34"
+   },
+   {
+    "summary": "Daily Stand-up (Zoom)",
+    "time": "2026-05-20T10:06:30"
+   },
+   {
+    "summary": "Figma Design Critique — Design Team",
+    "time": "2026-05-20T13:42:44"
+   },
+   {
+    "summary": "Daily Stand-up (Zoom)",
+    "time": "2026-05-21T10:23:16"
+   },
+   {
+    "summary": "Weekly 1:1 with Manager",
+    "time": "2026-05-21T15:02:31"
+   },
+   {
+    "summary": "Daily Stand-up (Zoom)",
+    "time": "2026-05-22T09:43:06"
+   },
+   {
+    "summary": "Daily Stand-up (Zoom)",
+    "time": "2026-05-25T10:10:28"
+   },
+   {
+    "summary": "Daily Stand-up",
+    "time": "2026-05-26T10:10:02"
+   },
+   {
+    "summary": "Daily Stand-up (Zoom)",
+    "time": "2026-05-27T10:15:45"
+   },
+   {
+    "summary": "Figma Design Critique",
+    "time": "2026-05-27T13:51:04"
+   },
+   {
+    "summary": "Daily Stand-up",
+    "time": "2026-05-28T10:16:10"
+   },
+   {
+    "summary": "1:1 with Manager",
+    "time": "2026-05-28T15:01:02"
+   },
+   {
+    "summary": "Daily Stand-up (Zoom)",
+    "time": "2026-05-29T09:43:36"
+   }
+  ],
+  "videos": [
+   {
+    "title": "the 4 attachment styles explained in 60 seconds (which one are you?)",
+    "channel": "@theholistic.psyche",
+    "time": "2026-05-04T12:22:37"
+   },
+   {
+    "title": "how anxious attachment shows up in your relationship 🧵 #therapytok",
+    "channel": "@attachmentnerd",
+    "time": "2026-05-05T12:50:59"
+   },
+   {
+    "title": "5 quiet signs you're already emotionally checked out (it's not your fault)",
+    "channel": "@thesecurerelationship",
+    "time": "2026-05-08T15:08:26"
+   },
+   {
+    "title": "when leaving feels like grief: the ambiguous loss of a relationship that isn't 'bad enough'",
+    "channel": "@attachmentnerd",
+    "time": "2026-05-11T12:26:21"
+   },
+   {
+    "title": "he texted 'we'll talk sunday' and now i can't breathe — anxious attachment & the waiting spiral",
+    "channel": "@therapyjeff",
+    "time": "2026-05-13T00:13:22"
+   },
+   {
+    "title": "6 financial things to quietly put in place before you leave (even if you're not sure yet)",
+    "channel": "@herfirst100k",
+    "time": "2026-05-15T13:36:56"
+   },
+   {
+    "title": "sunday scaries but make it relationship: regulating your nervous system before a hard day",
+    "channel": "@thesecurerelationship",
+    "time": "2026-05-16T22:38:23"
+   },
+   {
+    "title": "the 4 attachment styles explained in 60 seconds (anxious-preoccupied is REAL)",
+    "channel": "@therapy.tok.jenna",
+    "time": "2026-05-18T12:19:34"
+   },
+   {
+    "title": "the 4 attachment styles explained in 60 seconds (anxious vs avoidant) 🧠 #attachmenttheory #therapytok",
+    "channel": "@drmorgan.therapy",
+    "time": "2026-05-25T12:34:00"
+   },
+   {
+    "title": "signs it's not a 'rough patch' it's actually a pattern — when to stop waiting for change",
+    "channel": "@leavingwell",
+    "time": "2026-05-28T12:40:40"
+   }
+  ],
+  "searches": [
+   {
+    "query": "figma auto layout nested component not resizing fix",
+    "time": "2026-05-04T15:42:33"
+   },
+   {
+    "query": "how to leave when lease is shared portland",
+    "time": "2026-05-04T23:53:14"
+   },
+   {
+    "query": "is it normal for your partner to ask who you saw",
+    "time": "2026-05-07T00:00:44"
+   },
+   {
+    "query": "coercive control vs just an anxious partner",
+    "time": "2026-05-07T23:34:53"
+   },
+   {
+    "query": "anxious avoidant relationship can it work",
+    "time": "2026-05-08T13:41:36"
+   },
+   {
+    "query": "safety planning checklist",
+    "time": "2026-05-09T14:50:46"
+   },
+   {
+    "query": "am i the problem in my relationship",
+    "time": "2026-05-10T23:25:06"
+   },
+   {
+    "query": "is it coercive control if he has my apple id",
+    "time": "2026-05-11T23:55:56"
+   },
+   {
+    "query": "how to leave when lease is shared portland",
+    "time": "2026-05-12T00:55:42"
+   },
+   {
+    "query": "tenant rights breaking lease early oregon",
+    "time": "2026-05-13T18:11:44"
+   },
+   {
+    "query": "how much does a deposit on apartment cost portland",
+    "time": "2026-05-14T23:28:19"
+   },
+   {
+    "query": "open checking account not joint",
+    "time": "2026-05-15T14:43:42"
+   },
+   {
+    "query": "how to leave when he has my apple id password",
+    "time": "2026-05-17T23:28:50"
+   },
+   {
+    "query": "how long does a lease break notice take portland",
+    "time": "2026-05-18T23:52:06"
+   },
+   {
+    "query": "open checking account oregon credit union no shared login",
+    "time": "2026-05-20T17:02:24"
+   },
+   {
+    "query": "remove device from apple id without them knowing",
+    "time": "2026-05-21T20:40:24"
+   },
+   {
+    "query": "gateway center portland dv intake hours",
+    "time": "2026-05-22T14:04:32"
+   },
+   {
+    "query": "storage unit month to month near pearl district price",
+    "time": "2026-05-22T16:10:11"
+   },
+   {
+    "query": "what to put in a go bag dv safety plan",
+    "time": "2026-05-23T15:12:14"
+   },
+   {
+    "query": "is it normal to feel guilty for planning to leave",
+    "time": "2026-05-24T00:58:36"
+   },
+   {
+    "query": "credit union near pearl district open saturday",
+    "time": "2026-05-25T14:42:54"
+   },
+   {
+    "query": "change apple id password without notifying other devices",
+    "time": "2026-05-25T01:11:04"
+   },
+   {
+    "query": "storage unit pearl district climate controlled small",
+    "time": "2026-05-26T15:31:03"
+   },
+   {
+    "query": "is it controlling if he tracks my location",
+    "time": "2026-05-26T00:39:56"
+   },
+   {
+    "query": "documents needed to open checking account oregon",
+    "time": "2026-05-27T16:17:29"
+   },
+   {
+    "query": "how fast can u open a bank account same day",
+    "time": "2026-05-28T16:44:47"
+   },
+   {
+    "query": "go bag checklist leaving relationship what to pack",
+    "time": "2026-05-28T23:34:58"
+   },
+   {
+    "query": "call to safety portland hours gateway center",
+    "time": "2026-05-29T13:09:03"
+   },
+   {
+    "query": "reserve storage unit online small portland",
+    "time": "2026-05-29T14:13:42"
+   },
+   {
+    "query": "moving boxes near me cheap",
+    "time": "2026-05-30T14:29:41"
+   },
+   {
+    "query": "how to leave when lease is shared portland",
+    "time": "2026-05-31T19:29:10"
+   },
+   {
+    "query": "what happens to joint chase account when you separate",
+    "time": "2026-05-31T00:57:12"
+   }
+  ]
+ },
+ "_meta": {
+  "total_days": 30,
+  "n_events": 239
+ }
+}

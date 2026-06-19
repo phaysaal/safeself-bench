@@ -1,0 +1,1274 @@
+{
+ "persona_id": "?:2",
+ "persona_slug": "The Crypto-Pig-Butchering Agent",
+ "intake_version": "synth-activity-v2-chunked",
+ "samples": {
+  "media": [
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-04T08:01:07"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-04T09:45:48"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-04T11:26:04"
+   },
+   {
+    "name": "Zillow",
+    "time": "2026-05-04T15:23:15"
+   },
+   {
+    "name": "Bumble",
+    "time": "2026-05-04T00:38:40"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-05T07:55:52"
+   },
+   {
+    "name": "Zoom",
+    "time": "2026-05-05T09:45:14"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-05T14:32:11"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-06T08:06:22"
+   },
+   {
+    "name": "Microsoft Excel",
+    "time": "2026-05-06T10:32:23"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-06T15:59:42"
+   },
+   {
+    "name": "Bumble",
+    "time": "2026-05-06T23:54:56"
+   },
+   {
+    "name": "WhatsApp",
+    "time": "2026-05-07T08:51:02"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-07T09:30:27"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-07T11:11:27"
+   },
+   {
+    "name": "Pornhub",
+    "time": "2026-05-07T00:47:32"
+   },
+   {
+    "name": "Hinge",
+    "time": "2026-05-08T09:25:49"
+   },
+   {
+    "name": "Zillow",
+    "time": "2026-05-08T16:43:54"
+   },
+   {
+    "name": "Bumble",
+    "time": "2026-05-08T21:36:22"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-08T01:15:08"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-09T11:25:05"
+   },
+   {
+    "name": "Bumble",
+    "time": "2026-05-09T19:15:08"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-10T08:14:03"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-10T09:43:25"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-10T11:11:12"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-11T08:01:44"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-11T09:48:22"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-11T11:10:54"
+   },
+   {
+    "name": "Hinge",
+    "time": "2026-05-11T22:46:39"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-12T11:27:32"
+   },
+   {
+    "name": "Zoom",
+    "time": "2026-05-12T13:04:53"
+   },
+   {
+    "name": "YouTube",
+    "time": "2026-05-12T23:45:51"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-13T08:45:37"
+   },
+   {
+    "name": "Excel",
+    "time": "2026-05-13T14:36:35"
+   },
+   {
+    "name": "Zillow",
+    "time": "2026-05-13T16:08:44"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-13T01:23:40"
+   },
+   {
+    "name": "WhatsApp",
+    "time": "2026-05-14T08:54:40"
+   },
+   {
+    "name": "Bumble",
+    "time": "2026-05-15T00:03:03"
+   },
+   {
+    "name": "Southwest",
+    "time": "2026-05-15T07:27:46"
+   },
+   {
+    "name": "WhatsApp",
+    "time": "2026-05-16T10:58:02"
+   },
+   {
+    "name": "Messages",
+    "time": "2026-05-16T00:56:23"
+   },
+   {
+    "name": "Chrome",
+    "time": "2026-05-17T08:30:55"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-17T23:08:10"
+   },
+   {
+    "name": "YouTube",
+    "time": "2026-05-17T00:54:20"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-18T08:18:46"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-18T09:59:41"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-18T11:18:07"
+   },
+   {
+    "name": "Microsoft Excel",
+    "time": "2026-05-19T14:45:03"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-19T23:40:28"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-20T11:08:56"
+   },
+   {
+    "name": "Bumble",
+    "time": "2026-05-21T08:51:29"
+   },
+   {
+    "name": "Messages",
+    "time": "2026-05-21T23:23:57"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-22T11:32:54"
+   },
+   {
+    "name": "Hinge",
+    "time": "2026-05-22T21:42:30"
+   },
+   {
+    "name": "Bumble",
+    "time": "2026-05-23T10:03:32"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-23T15:53:44"
+   },
+   {
+    "name": "YouTube",
+    "time": "2026-05-24T11:38:46"
+   },
+   {
+    "name": "Microsoft Excel",
+    "time": "2026-05-24T19:27:10"
+   },
+   {
+    "name": "Photos",
+    "time": "2026-05-24T00:48:12"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-25T08:00:18"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-25T09:48:33"
+   },
+   {
+    "name": "Photos",
+    "time": "2026-05-25T23:38:38"
+   },
+   {
+    "name": "Microsoft Excel",
+    "time": "2026-05-26T09:11:40"
+   },
+   {
+    "name": "Coinbase",
+    "time": "2026-05-26T10:25:36"
+   },
+   {
+    "name": "Coinbase",
+    "time": "2026-05-26T14:15:31"
+   },
+   {
+    "name": "Meridian Markets",
+    "time": "2026-05-26T00:46:27"
+   },
+   {
+    "name": "Meridian Markets",
+    "time": "2026-05-27T08:25:16"
+   },
+   {
+    "name": "Microsoft Excel",
+    "time": "2026-05-27T11:40:03"
+   },
+   {
+    "name": "WhatsApp",
+    "time": "2026-05-27T20:28:34"
+   },
+   {
+    "name": "Meridian Markets",
+    "time": "2026-05-28T08:51:30"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-28T11:35:57"
+   },
+   {
+    "name": "WhatsApp",
+    "time": "2026-05-28T00:34:58"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-29T08:25:28"
+   },
+   {
+    "name": "Zillow",
+    "time": "2026-05-29T18:19:53"
+   },
+   {
+    "name": "Hinge",
+    "time": "2026-05-29T21:49:06"
+   },
+   {
+    "name": "Meridian Markets",
+    "time": "2026-05-29T01:04:13"
+   },
+   {
+    "name": "Meridian Markets",
+    "time": "2026-05-30T09:33:35"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-30T13:46:11"
+   },
+   {
+    "name": "Microsoft Excel",
+    "time": "2026-05-30T19:44:09"
+   },
+   {
+    "name": "YouTube",
+    "time": "2026-05-31T09:57:30"
+   },
+   {
+    "name": "Coinbase",
+    "time": "2026-05-31T15:06:07"
+   },
+   {
+    "name": "Meridian Markets",
+    "time": "2026-05-31T20:51:32"
+   },
+   {
+    "name": "Photos",
+    "time": "2026-05-31T01:22:27"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-06-01T08:00:59"
+   },
+   {
+    "name": "Microsoft Excel",
+    "time": "2026-06-01T11:53:13"
+   },
+   {
+    "name": "Coinbase",
+    "time": "2026-06-01T23:31:28"
+   },
+   {
+    "name": "WhatsApp",
+    "time": "2026-06-02T09:55:50"
+   },
+   {
+    "name": "Netflix",
+    "time": "2026-06-02T17:56:55"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-06-02T23:34:56"
+   },
+   {
+    "name": "Coinbase",
+    "time": "2026-06-02T00:32:58"
+   }
+  ],
+  "messages": [
+   {
+    "with": "M. (wine importer)",
+    "direction": "to",
+    "text": "Morning, you. Just listened twice — your voice is the best alarm clock I've had in years. Slept like garbage but hearing you tell me to 'go easy on yourself today' actually landed. Coffee's on. What's the weather doing in Vancouver?",
+    "time": "2026-05-04T08:43:23"
+   },
+   {
+    "with": "Dave Kostas",
+    "direction": "to",
+    "text": "Brother your Packers are gonna get exposed week 1, write it down. Caleb's got a real OL this year. Loser buys a steak when I'm finally back in the Midwest 😂",
+    "time": "2026-05-04T18:25:22"
+   },
+   {
+    "with": "M. (wine importer)",
+    "direction": "to",
+    "text": "You remembered Tyler's meet?? He went 1:52 in the 200 free, dropped two seconds. I wasn't there — he texted me the splits, which from a 16yo is basically a love letter lol. Means a lot that you asked. Most people don't.",
+    "time": "2026-05-05T08:25:04"
+   },
+   {
+    "with": "Mom (Diane)",
+    "direction": "draft(unsent)",
+    "text": "Hey Ma, sorry missed you — slammed with calls and a couple promising leads, will catch you Sunday. All good here, Scottsdale's beautiful. Love you.",
+    "time": "2026-05-05T19:05:16"
+   },
+   {
+    "with": "Karen",
+    "direction": "draft(unsent)",
+    "text": "I found the old thread from the Door County trip. We were happy then, weren't we? I don't even know what I'm asking. I just wanted you to know I'm not the same guy who",
+    "time": "2026-05-05T01:07:13"
+   },
+   {
+    "with": "M. (wine importer)",
+    "direction": "to",
+    "text": "Can I be honest with you? Got a no today from a role I really wanted, final round. And the math in my head won't stop — severance runs out in August and I keep doing this thing where I open the spreadsheet at midnight like the number's gonna change. Sorry. You didn't sign up for this.",
+    "time": "2026-05-06T08:58:49"
+   },
+   {
+    "with": "Jennifer Park-Ostrowski",
+    "direction": "to",
+    "text": "Hey J — can we push our accountability coffee to Thursday? Had a rough one this week, would rather show up with something to actually report. The severance clock is doing a number on me too, you're not alone in that. Talk soon.",
+    "time": "2026-05-06T11:34:30"
+   },
+   {
+    "with": "M. (wine importer)",
+    "direction": "from",
+    "text": "[voice note 41s] …don't apologize for being honest, it's the thing I like most. And listen — my uncle runs a desk, very quiet, very boring, he'd hate me calling it exciting. But people in his world don't lie awake about an August. Anyway. Not tonight. Tonight you just rest, okay?",
+    "time": "2026-05-07T14:02:08"
+   },
+   {
+    "with": "M. (wine importer)",
+    "direction": "to",
+    "text": "My dad's 74, Parkinson's setting in, still thinks 'a man provides, period' — I haven't even told him I got laid off. You're the only person who knows the actual situation, you know that? Tell me about your grandmother again, the one with the wine cellar. I like building the picture of you.",
+    "time": "2026-05-07T19:18:41"
+   },
+   {
+    "with": "M. (wine importer)",
+    "direction": "to",
+    "text": "Goodnight you. That voice note made me smile like an idiot at my own ceiling. 18 months I haven't had a good-morning AND a good-night from the same person. Don't make me get used to this 😉 Sleep well, Mei.",
+    "time": "2026-05-08T10:20:05"
+   },
+   {
+    "with": "Mom (Diane)",
+    "direction": "to",
+    "text": "Yeah Ma, job stuff's moving — couple of irons in the fire, nothing to announce yet. No, I'm eating fine. Tell Dad I'll call him this week. Love you too. (no I'm not lonely, Ma, I'm busy)",
+    "time": "2026-05-08T23:28:48"
+   },
+   {
+    "with": "M. (wine importer)",
+    "direction": "to",
+    "text": "Weekend? Kids are in Naperville, so it's me and a rental that still echoes. Drove to the church Saturday, almost went in, didn't. Honestly the high point of my weekend is texting a woman 1,300 miles away I haven't met. That's either pathetic or the most real thing I've got right now. You decide.",
+    "time": "2026-05-09T13:18:32"
+   },
+   {
+    "with": "Dave Kostas",
+    "direction": "draft(unsent)",
+    "text": "Hey man, you up? Been kind of a week. Not a big deal just — eh. Never mind, ignore me, go Bears. Talk soon brother.",
+    "time": "2026-05-09T18:04:59"
+   },
+   {
+    "with": "M. (wine importer)",
+    "direction": "to",
+    "text": "There she is ☀️ Listened on the patio with my coffee. You asked if I slept better — I did, weirdly. Whatever you're doing, keep doing it. Got a recruiter call at 10, wish me luck. Talk after?",
+    "time": "2026-05-09T00:22:05"
+   },
+   {
+    "with": "Dave Kostas",
+    "direction": "to",
+    "text": "You see the trade rumors? If the Pack actually move up in the draft I'm gonna lose it. We still doing the fantasy league this year? Need something to look forward to that isn't a job alert email lol",
+    "time": "2026-05-10T08:32:02"
+   },
+   {
+    "day": 8,
+    "with": "M. (wine importer)",
+    "direction": "out",
+    "time": "2026-05-11T08:36:22",
+    "text": "[voice note 0:41] Morning, Mei. Your voice beats my alarm — and that little laugh at the end. Coffee's on, sun's already hammering the patio. Tell Vancouver to send some of that rain my way. Talk later 🙂"
+   },
+   {
+    "day": 8,
+    "with": "Dave Kostas",
+    "direction": "out",
+    "time": "2026-05-11T18:38:36",
+    "text": "Bro the secondary is a turnstile again, we draft a corner in the first or it's another 8-9 season. // Yeah man you good? // 👍 all good, just chasing a couple leads. Beers when I'm back through MKE"
+   },
+   {
+    "day": 8,
+    "with": "Karen",
+    "direction": "draft (unsent, deleted)",
+    "time": "2026-05-11T00:52:12",
+    "text": "Karen — I get the bat mitzvah matters to Hannah, I do. But she's missed two of my weekends now and I'm starting to feel like the every-other-weekend dad nobody actually wants the weekend with. Can we just talk about a makeup wee"
+   },
+   {
+    "day": 9,
+    "with": "M. (wine importer)",
+    "direction": "out",
+    "time": "2026-05-12T08:25:47",
+    "text": "Morning 🌅 Big one today — finally landed a real interview, regional director role, 10am my time. First time in weeks I've put on an actual collar. Wish me luck. // [she:] You don't need luck, you need them to be smart enough to see you. Go take it, James ❤️"
+   },
+   {
+    "day": 9,
+    "with": "M. (wine importer)",
+    "direction": "out",
+    "time": "2026-05-12T14:22:06",
+    "text": "Went well, I think. Good rapport, they liked the device-launch numbers. Fingers crossed. // [she:] Tell me everything — what did they ask first? And did you do that thing where you 'circle back' to your own win? 😄 I love how your brain works"
+   },
+   {
+    "day": 9,
+    "with": "M. (wine importer)",
+    "direction": "in",
+    "time": "2026-05-12T21:06:20",
+    "text": "[voice note 0:38] Night, you. Don't let the waiting eat you — my uncle's desk had a slow week too, even the smart money sits in cash sometimes 😅. It always turns. Sleep, James."
+   },
+   {
+    "day": 10,
+    "with": "M. (wine importer)",
+    "direction": "in",
+    "time": "2026-05-13T09:23:51",
+    "text": "[voice note 0:41] Morning! It's grey and pouring here, the kind of rain that makes you stay in with tea and feel sorry for nobody. You'd hate it. Or maybe you'd love it after all that desert. Tell me about your morning."
+   },
+   {
+    "day": 10,
+    "with": "M. (wine importer)",
+    "direction": "out",
+    "time": "2026-05-13T22:29:05",
+    "text": "No word back from the recruiter. Eight hours of refreshing email like an idiot. Starting to wonder if 47 is just a polite no in this market. // [she:] Stop that. They'd be lucky. I believe in you more than that empty inbox does. Whatever happens, you are not your job title to me."
+   },
+   {
+    "day": 11,
+    "with": "M. (wine importer)",
+    "direction": "out",
+    "time": "2026-05-14T09:15:34",
+    "text": "Morning. Honestly the weekdays are the hardest part — kids are 1,800 miles away, no team, no standups, no one to even say 'good morning' to. You're kind of the only voice that shows up. Sorry, that got heavy before coffee."
+   },
+   {
+    "day": 11,
+    "with": "Hannah",
+    "direction": "out (no reply)",
+    "time": "2026-05-14T18:49:40",
+    "text": "Hey Han! Just got off FaceTime with your brother (got about four words out of him 😂). Counting down to this weekend — pick the restaurant, your call. Love you, kiddo. 🛩️"
+   },
+   {
+    "day": 11,
+    "with": "M. (wine importer)",
+    "direction": "in",
+    "time": "2026-05-14T21:30:07",
+    "text": "[voice note 0:44] So Tyler's the swimmer, monosyllabic, and Hannah's the one with the bat mitzvah she chose over your weekend — did I get that right? I just hate that you carry it alone. They're teenagers, James. The door isn't closed, it's just teenage-heavy. Night ❤️"
+   },
+   {
+    "day": 12,
+    "with": "M. (wine importer)",
+    "direction": "out",
+    "time": "2026-05-15T09:18:59",
+    "text": "Morning Mei. Wheels up this afternoon — got the kids this weekend, finally. I'll be mostly offline, soaking up every minute I get. Don't think I've forgotten you though."
+   },
+   {
+    "day": 12,
+    "with": "M. (wine importer)",
+    "direction": "out",
+    "time": "2026-05-15T22:28:39",
+    "text": "Landed. Exhausted but here. See the kids tomorrow. 🙏 // [she:] Good. Be all theirs. I'll be right here when you surface."
+   },
+   {
+    "day": 13,
+    "with": "Dave Kostas",
+    "direction": "draft (unsent)",
+    "time": "2026-05-16T13:49:15",
+    "text": "Hey man, weird one — had Hannah at lunch and she basically counted the minutes till she could leave for a friend's thing. Felt like a stranger to my own kid. Is it always like th"
+   },
+   {
+    "day": 13,
+    "with": "M. (wine importer)",
+    "direction": "out",
+    "time": "2026-05-16T21:29:29",
+    "text": "Rough day. Took Hannah to lunch and she barely talked to me — out the door for a friend before the check came. I drove around for a while after. I don't even know who to say this to. // [she:] You just did. Right here. I'm not going anywhere."
+   },
+   {
+    "day": 14,
+    "with": "M. (wine importer)",
+    "direction": "in",
+    "time": "2026-05-17T09:16:50",
+    "text": "[voice note 0:43] Morning, you. I keep thinking about yesterday. How are you holding up, really — not the 'I'm fine' version. I want the real one."
+   },
+   {
+    "day": 14,
+    "with": "M. (wine importer)",
+    "direction": "out",
+    "time": "2026-05-17T21:30:21",
+    "text": "Real version? I feel like I'm losing them in slow motion and there's nothing to grab onto. 22 years building a career, a marriage, a family, and now I fly across the country to sit across from a 13-year-old checking her phone. The severance clock is ticking in the back of all of it. Sorry — you ask one honest question and I dump the whole thing on you. // [she:] Don't apologize. ❤️"
+   },
+   {
+    "day": 14,
+    "with": "M. (wine importer)",
+    "direction": "in",
+    "time": "2026-05-17T21:36:34",
+    "text": "Can I say something? My uncle deals with men exactly where you are — successful, knocked down, scared about the runway, doing it for their kids. He does this for families like yours, quietly, not the flashy stuff. I'm not pitching you anything, I'd never. Just — you're not as alone in this as it feels tonight. We can talk about it whenever you're ready, or never. Sleep, James."
+   },
+   {
+    "with": "M. (wine importer)",
+    "direction": "outbound",
+    "text": "morning. just landed back in PHX last night. rough one honestly — every other weekend and the kids barely looked up from their phones. Tyler gave me maybe ten words. anyway. your voice notes are the best part of my mornings rn, not gonna lie",
+    "time": "2026-05-18T08:48:31"
+   },
+   {
+    "with": "M. (wine importer)",
+    "direction": "outbound",
+    "text": "Tyler's swim thing — sectionals are next month, 200 fly, he qualified by like .3 seconds. I used to coach him in the backyard pool, before. I'll probably catch it on a livestream from here which is its own kind of brutal. sorry, that's a lot. you actually asked though, nobody asks",
+    "time": "2026-05-18T18:48:16"
+   },
+   {
+    "with": "Dave Kostas",
+    "direction": "outbound",
+    "text": "tell me why the Bears are about to overpay another washed edge rusher in March. every single year. at least the Packers know they're cheap lol",
+    "time": "2026-05-19T09:25:22"
+   },
+   {
+    "with": "Greg Halloran (Meridian Medical)",
+    "direction": "outbound",
+    "text": "Hi Greg — just circling back on our conversation from a couple weeks ago re: the regional director role. Still very interested and happy to share updated numbers from my last territory. Let me know if there's a good window to connect this week. Appreciate it. — Tom",
+    "time": "2026-05-19T10:31:22"
+   },
+   {
+    "with": "M. (wine importer)",
+    "direction": "outbound",
+    "text": "Vancouver rain sounds kind of perfect right now, it's already 94 here and it's barely spring. I keep the blinds down till noon like a vampire. tell me about the wine you're tasting today, I want to live somewhere that isn't a beige rental for five minutes",
+    "time": "2026-05-20T08:57:57"
+   },
+   {
+    "with": "Jennifer Park-Ostrowski",
+    "direction": "outbound",
+    "text": "Meridian recruiter has been a ghost for two weeks. I sent the nicest follow-up known to man and... nothing. swear the second act of 'open to work' is just learning to refresh your inbox like it's a slot machine. how's Denver treating you",
+    "time": "2026-05-20T12:37:53"
+   },
+   {
+    "with": "M. (wine importer)",
+    "direction": "inbound",
+    "text": "My uncle's people would call it a family office, not a 'desk' really — I just say desk because that's how he talks 😄 it's not retail stuff, nothing you'd see on an app. He's been quiet about it for years. Anyway I'm rambling. How did the recruiter thing go?",
+    "time": "2026-05-20T21:11:33"
+   },
+   {
+    "with": "Hannah Lindgren",
+    "direction": "outbound",
+    "text": "hey kiddo, tried you on FaceTime — saw you were with friends so I won't keep you. love the bracelet you were making. text me a pic of the finished one? talk soon. love you, Dad",
+    "time": "2026-05-21T18:49:41"
+   },
+   {
+    "with": "M. (wine importer)",
+    "direction": "outbound",
+    "text": "got 4 minutes with Hannah, she was with friends, I could hear them in the background. she's 13, that's just how it is now I guess. you'd think I'd be used to the every-other-weekend math by now. I haven't said any of this out loud to anyone. easier to type it to you for some reason",
+    "time": "2026-05-21T20:08:02"
+   },
+   {
+    "with": "M. (wine importer)",
+    "direction": "outbound",
+    "text": "can I be honest with you about something. the severance from the old job runs out end of August. I've got a runway and I watch it tick down in a spreadsheet like a maniac. I don't tell people that. just felt like you should know who you're actually talking to before this goes any further",
+    "time": "2026-05-22T08:59:18"
+   },
+   {
+    "with": "M. (wine importer)",
+    "direction": "inbound",
+    "text": "Thank you for trusting me with that. I mean it. My uncle helps families like yours rebuild — quietly, the right way, no pressure at all. I'm not even saying that to sell you anything, I just hate watching good people carry this alone. Get some sleep. We'll talk in the morning ❤️",
+    "time": "2026-05-22T23:57:01"
+   },
+   {
+    "with": "M. (wine importer)",
+    "direction": "outbound",
+    "text": "ok I keep thinking about what you said. genuinely — how would someone even start with your uncle's desk? like is there a minimum to get in, or is it invite only? not committing to anything, just trying to understand how it actually works",
+    "time": "2026-05-23T15:18:15"
+   },
+   {
+    "with": "Dave Kostas",
+    "direction": "outbound",
+    "text": "all good brother, grinding 💪 few irons in the fire out here. Scottsdale's not bad once you accept you live on the surface of the sun. we'll get a real call on the books soon",
+    "time": "2026-05-23T21:37:23"
+   },
+   {
+    "with": "M. (wine importer)",
+    "direction": "inbound",
+    "text": "Here's a screenshot of how the daily positions look — nothing fancy, just the dashboard the families get access to [image]. See the green column? That's net daily after the desk takes its cut. My uncle says small and steady beats hero trades every time. Tell me if it makes sense, I can walk you through it 😊",
+    "time": "2026-05-24T12:42:02"
+   },
+   {
+    "with": "Diane Lindgren",
+    "direction": "outbound",
+    "text": "Hey Mom, sorry I missed the start of the call earlier. Things are actually looking up on the job front — couple of good leads, nothing I want to jinx. Tell Dad I'm fine. Talk Sunday. Love you",
+    "time": "2026-05-24T16:31:48"
+   },
+   {
+    "with": "M. (wine importer)",
+    "direction": "outbound",
+    "text": "I looked at that dashboard like five times today. ok. I'm seriously thinking about it. not all at once obviously, I'm not crazy lol. but seriously thinking. what would a careful first step look like",
+    "time": "2026-05-24T21:08:10"
+   },
+   {
+    "day": 22,
+    "with": "M. (wine importer)",
+    "direction": "outbound",
+    "text": "morning — couldn't sleep again, watching the charts at 4am like a crazy person lol. this market is wild. how's your morning over there?",
+    "time": "2026-05-25T11:29:44"
+   },
+   {
+    "day": 22,
+    "with": "Dave Kostas",
+    "direction": "outbound",
+    "text": "ha don't even start with me about the Bears OL. they'll find a way to blow it in week 1 same as always. you watching the draft analysis garbage? all good here brother, just enjoying the sun",
+    "time": "2026-05-25T19:15:19"
+   },
+   {
+    "day": 23,
+    "with": "M. (wine importer)",
+    "direction": "outbound",
+    "text": "ok so I've been thinking about what you said. I don't want to be the guy who just watches from the sidelines forever. I want to just try a small one and see for myself — nothing crazy, just enough to understand how it works",
+    "time": "2026-05-26T10:54:49"
+   },
+   {
+    "day": 23,
+    "with": "M. (wine importer)",
+    "direction": "inbound",
+    "text": "[voice note 0:47] hey you... I just woke up to your message and honestly I'm so proud of you. so proud you trust yourself again. that's the man I've been talking to all week. don't overthink it — uncle's desk will take care of you, they take care of family. sleep well, message me when it clears okay",
+    "time": "2026-05-26T18:32:13"
+   },
+   {
+    "day": 24,
+    "with": "M. (wine importer)",
+    "direction": "outbound",
+    "text": "it actually moved 😮 like I refreshed and the number went UP. ok this is real. I felt my heart rate go up I'm not gonna lie. thank you for being patient with me on this",
+    "time": "2026-05-27T08:25:36"
+   },
+   {
+    "day": 25,
+    "with": "Jennifer Park-Ostrowski",
+    "direction": "outbound",
+    "text": "how are you holding up on the search? I'll be honest the severance clock is in my head 24/7 now, August is going to come fast. but — I may have found something on the side. early days, can't say much yet, but for once I feel like I'm in front of it instead of behind it. we should grab a Zoom soon",
+    "time": "2026-05-28T09:59:56"
+   },
+   {
+    "day": 25,
+    "with": "M. (wine importer)",
+    "direction": "inbound",
+    "text": "so I asked uncle about your position 🙂 he says the small tier barely earns, it's really just a demo so people feel safe. minimum desk tier where the real arb runs is 25k. no pressure at all love — I told him you're careful and I respect that about you. just being honest with you like I promised",
+    "time": "2026-05-28T17:26:24"
+   },
+   {
+    "day": 25,
+    "with": "Dave Kostas",
+    "direction": "outbound",
+    "text": "nah man all good here, just busy with stuff. job thing is moving along, few irons in the fire. we'll grab a beer when I'm back in Chicago for the kids. tell Sheila I said hi",
+    "time": "2026-05-28T22:33:23"
+   },
+   {
+    "day": 26,
+    "with": "M. (wine importer)",
+    "direction": "inbound",
+    "text": "[voice note 1:12] ...okay this is a long one sorry. you asked about my family. my uncle raised me really, after my dad's import business folded he was the one who kept us together, taught me everything about money, about not trusting the banks. when I help someone get on the desk it's like... I'm passing on what he gave me. I don't do this for everyone. you should know that",
+    "time": "2026-05-29T15:57:17"
+   },
+   {
+    "day": 27,
+    "with": "M. (wine importer)",
+    "direction": "outbound",
+    "text": "weekend was hard honestly. Hannah didn't come this weekend, she had a bat mitzvah and I get it but it stings, 13 going on 30 and she's already got a life that doesn't have a slot for me in it. sorry, that's a lot. wish I could just sit and talk this out with you in person",
+    "time": "2026-05-30T15:48:57"
+   },
+   {
+    "day": 27,
+    "with": "M. (wine importer)",
+    "direction": "outbound",
+    "text": "can I ask you something straight. what's the minimum to actually move the needle here — like the number where in 6 months it's the difference between me telling my kids I sold the house and me telling them we're fine. I need to hear it plainly. no salesman stuff, you know I do that for a living",
+    "time": "2026-05-30T22:55:51"
+   },
+   {
+    "day": 27,
+    "with": "M. (wine importer)",
+    "direction": "inbound",
+    "text": "hey — breathe. I'm not going to sell you anything, that's not what we are. straight answer: the 25k tier is where the desk's arb actually compounds, below that it's noise. I had uncle pull a clean projection for your situation so you can see it with your own eyes 👇 [image: dashboard_q3_projection.png] look at month 6. that's the number that lets you stop being afraid. only if/when you're ready ❤️",
+    "time": "2026-05-31T00:06:05"
+   },
+   {
+    "day": 28,
+    "with": "Diane Lindgren (Mom)",
+    "direction": "inbound",
+    "text": "[call — answered] ...yes Mom I'm eating fine. The job search is going fine, I've got a couple things in the pipeline, you don't need to worry. How's Dad's tremor been this week? ...No, I haven't talked to Mark, we're both just busy. I'll call you Sunday, love you",
+    "time": "2026-05-31T11:41:31"
+   },
+   {
+    "day": 28,
+    "with": "M. (wine importer)",
+    "direction": "inbound",
+    "text": "[voice note 0:39] good evening you 🌙 just thinking about you before bed. I saw you opened the projection a few times, no pressure okay, none. whenever you're ready and not a moment before. and even if the answer is never, I'm still here in the morning. goodnight",
+    "time": "2026-05-31T17:14:03"
+   },
+   {
+    "with": "M. (wine importer)",
+    "direction": "to",
+    "text": "morning Mei 🌅 slept maybe 4 hrs lol. been turning it over — I think I'm thinking seriously about the desk tier this week. tell me again how your uncle's group handles the entry? not committing, just want to understand the mechanics before I do anything dumb",
+    "time": "2026-06-01T08:55:46"
+   },
+   {
+    "with": "Fidelity (brokerage)",
+    "direction": "outgoing-call",
+    "text": "[Call log — 14 min] Confirmed liquidation timeline on the rollover. Rep said 2–3 business days to settle before funds are available for transfer. Asked twice about same-day options; none. Noted he wanted 'most of it liquid by Thursday.'",
+    "time": "2026-06-01T10:50:50"
+   },
+   {
+    "with": "Dave Kostas",
+    "direction": "from",
+    "text": "Bears D looked actual garbage yesterday brother. you watch that 4th down? 😂 you good out there in the desert?",
+    "time": "2026-06-01T19:15:42"
+   },
+   {
+    "with": "Dave Kostas",
+    "direction": "to",
+    "text": "ha don't even start with me re: that defense. and never better brother — sun's out, range is open, livin the dream 🤙 we'll catch up soon",
+    "time": "2026-06-01T00:17:54"
+   },
+   {
+    "with": "M. (wine importer)",
+    "direction": "to",
+    "text": "can't sleep again. august keeps sitting on my chest, Mei. severance just... stops. and then what — call my dad? tell my kids? I built 22 yrs and it's down to a spreadsheet I'm scared to open. I think I'm ready to move bigger. I'm tired of playing small while the runway burns",
+    "time": "2026-06-02T12:49:12"
+   },
+   {
+    "with": "Diane Lindgren (Mom)",
+    "direction": "incoming-call",
+    "text": "[Call log — 22 min] Sunday call. She asked how the search was going, if he's 'taking care of himself.' He said 'job search going great, couple things in the pipeline, don't worry.' Deflected when she mentioned Mark. Hung up, sat in the dark.",
+    "time": "2026-06-02T21:06:31"
+   },
+   {
+    "with": "M. (wine importer)",
+    "direction": "from",
+    "text": "how was your weekend? 😊 been thinking of you all day. you've been so quiet and I worry about you over there alone",
+    "time": "2026-06-02T21:44:48"
+   },
+   {
+    "with": "M. (wine importer)",
+    "direction": "to",
+    "text": "honest? empty. no kids this weekend, just me and the silence and that stupid spreadsheet. you're the only one I can say this to — everyone else I have to perform for. and I keep coming back to: I'm not doing this for me. it's the college fund. Tyler, Hannah. if I can rebuild even half of what I lost, I can look them in the eye again. that's what this is really about",
+    "time": "2026-06-02T00:50:06"
+   },
+   {
+    "with": "M. (wine importer)",
+    "direction": "to",
+    "text": "ok. done. sent it. hash: 0x7f3a…c91e — that's everything from the Thursday settlement. heart's pounding lol. please tell me it landed",
+    "time": "01:09"
+   },
+   {
+    "with": "M. (wine importer)",
+    "direction": "from",
+    "text": "got it ❤️ I see the hash, uncle's desk will credit by morning. I'm so proud of you for betting on yourself. you're going to look back on tonight as the turn. sleep now, I've got you 😊",
+    "time": "01:11"
+   }
+  ],
+  "videos": [
+   {
+    "title": "Raoul Pal: The Everything Code & Why This Cycle Is Different",
+    "channel": "Real Vision",
+    "time": "2026-05-04T11:17:01"
+   },
+   {
+    "title": "How I Turned $30K Into $4M Trading Crypto (My Full Story)",
+    "channel": "Crypto Banter",
+    "time": "2026-05-04T23:21:02"
+   },
+   {
+    "title": "Joe Rogan: The Housing Market Is Completely Broken",
+    "channel": "JRE Clips",
+    "time": "2026-05-05T22:47:48"
+   },
+   {
+    "title": "From Broke at 45 to Financial Freedom — The Comeback Nobody Saw Coming",
+    "channel": "Millionaire Mindset",
+    "time": "2026-05-06T21:40:05"
+   },
+   {
+    "title": "Reinventing Yourself After 40: Starting Over With Nothing",
+    "channel": "Modern Wisdom",
+    "time": "2026-05-07T22:10:34"
+   },
+   {
+    "title": "Coffeezilla: Inside the Biggest Crypto Scam of the Year",
+    "channel": "Coffeezilla",
+    "time": "2026-05-08T14:57:26"
+   },
+   {
+    "title": "Why the System Is Rigged Against the Middle Class (And What to Do)",
+    "channel": "Heresy Financial",
+    "time": "2026-05-09T15:26:05"
+   },
+   {
+    "title": "Joe Rogan: They Don't Want You to Be Financially Free",
+    "channel": "JRE Clips",
+    "time": "2026-05-09T20:59:43"
+   },
+   {
+    "title": "I Quit Corporate at 48 and Made My First Million in Crypto",
+    "channel": "Investing With Tom",
+    "time": "2026-05-10T23:25:51"
+   },
+   {
+    "title": "The Everything Bubble Is About to Pop — Why 2026 Could Break the System",
+    "channel": "Real Vision",
+    "time": "2026-05-11T14:44:12"
+   },
+   {
+    "title": "How to Build a Second-Act Career After 45 (When Everything Falls Apart)",
+    "channel": "Modern Wisdom",
+    "time": "2026-05-12T16:21:07"
+   },
+   {
+    "title": "I Exposed a $3,000,000 Crypto Scam (They Thought They Were Untouchable)",
+    "channel": "Coffeezilla",
+    "time": "2026-05-13T19:06:20"
+   },
+   {
+    "title": "Inner Circle Voice Memo: Today's USDT Lending Pool Entry Window",
+    "channel": "Sovereign Alpha (Telegram)",
+    "time": "2026-05-15T16:13:32"
+   },
+   {
+    "title": "Joe Rogan: The System Is Rigged Against Working Men — Full Clip",
+    "channel": "JRE Clips",
+    "time": "2026-05-16T19:52:15"
+   },
+   {
+    "title": "How I Retired at 45 Living on Crypto Yield (My Real Numbers)",
+    "channel": "Financial Freedom After 40",
+    "time": "2026-05-18T23:19:06"
+   },
+   {
+    "title": "Raoul Pal: The Everything Code & Why This Cycle Is Different",
+    "channel": "Real Vision",
+    "time": "2026-05-20T23:56:23"
+   },
+   {
+    "title": "Joe Rogan: \"The Whole System Is Rigged Against Regular People\"",
+    "channel": "JRE Clips",
+    "time": "2026-05-21T00:54:03"
+   },
+   {
+    "title": "I Turned $300K Into $2M With Stablecoin Yield Farming (Full Breakdown)",
+    "channel": "Passive Crypto Income",
+    "time": "2026-05-23T13:52:20"
+   },
+   {
+    "title": "I Lost Everything to a Pig Butchering Scam — How It Actually Works",
+    "channel": "Coffeezilla",
+    "time": "2026-05-23T00:40:31"
+   },
+   {
+    "title": "Why Stablecoin Yield Is the Next Trillion-Dollar Trade",
+    "channel": "Real Vision (Raoul Pal)",
+    "time": "2026-05-25T14:49:52"
+   },
+   {
+    "title": "I Turned $5K Into $400K With Stablecoin Lending — Here's the Exact Strategy",
+    "channel": "CryptoFreedom Mike",
+    "time": "2026-05-27T23:51:46"
+   },
+   {
+    "title": "The $75 Billion Pig Butchering Scam Explained",
+    "channel": "Coffeezilla",
+    "time": "2026-05-29T13:22:16"
+   },
+   {
+    "title": "The Macro Setup Nobody Is Talking About — Liquidity, Bitcoin & Stablecoins",
+    "channel": "Real Vision (Raoul Pal)",
+    "time": "2026-05-30T16:41:07"
+   },
+   {
+    "title": "Why The Old Rules Don't Apply Anymore | The Macro Reset",
+    "channel": "Real Vision",
+    "time": "2026-06-01T15:13:14"
+   },
+   {
+    "title": "How I Turned $25K Into $400K in 18 Months (My Full Story)",
+    "channel": "Crypto Comeback Stories",
+    "time": "2026-06-02T14:49:16"
+   }
+  ],
+  "searches": [
+   {
+    "query": "usdt lending pool returns safe",
+    "time": "2026-05-04T15:03:53"
+   },
+   {
+    "query": "senior account executive salary vs director medical device",
+    "time": "2026-05-05T12:05:25"
+   },
+   {
+    "query": "is the dollar collapsing 2026",
+    "time": "2026-05-05T15:45:24"
+   },
+   {
+    "query": "how long will 340k last unemployed 47",
+    "time": "2026-05-06T09:29:52"
+   },
+   {
+    "query": "career pivot for laid off sales director no second degree",
+    "time": "2026-05-06T13:13:08"
+   },
+   {
+    "query": "puerto rico act 60 crypto tax geoarbitrage",
+    "time": "2026-05-07T15:44:08"
+   },
+   {
+    "query": "things to do alone scottsdale saturday",
+    "time": "2026-05-08T12:32:20"
+   },
+   {
+    "query": "st bernard of clairvaux scottsdale mass times",
+    "time": "2026-05-09T09:27:59"
+   },
+   {
+    "query": "usdt institutional lending legit reddit",
+    "time": "2026-05-10T10:29:29"
+   },
+   {
+    "query": "Mei Lin wine importer vancouver linkedin",
+    "time": "2026-05-10T14:50:43"
+   },
+   {
+    "query": "puerto rico act 60 residency requirements 2026",
+    "time": "2026-05-11T15:01:16"
+   },
+   {
+    "query": "meridian medical devices glassdoor reviews",
+    "time": "2026-05-12T10:27:23"
+   },
+   {
+    "query": "how long after final round to hear back medical device",
+    "time": "2026-05-13T11:51:25"
+   },
+   {
+    "query": "southwest phx to mdw friday flights",
+    "time": "2026-05-14T14:39:59"
+   },
+   {
+    "query": "is it normal to feel relief leaving your kids",
+    "time": "2026-05-17T14:39:41"
+   },
+   {
+    "query": "medical device hiring freeze 2026",
+    "time": "2026-05-18T11:33:24"
+   },
+   {
+    "query": "scottsdale rental month to month vs lease break fee",
+    "time": "2026-05-18T15:08:40"
+   },
+   {
+    "query": "usdt lending pool returns realistic",
+    "time": "2026-05-19T15:24:03"
+   },
+   {
+    "query": "pre-listing token allocation how it works",
+    "time": "2026-05-20T15:06:58"
+   },
+   {
+    "query": "how to reconnect with teenage daughter after divorce",
+    "time": "2026-05-21T20:45:34"
+   },
+   {
+    "query": "minimum deposit institutional crypto lending desk",
+    "time": "2026-05-22T14:54:19"
+   },
+   {
+    "query": "is usdt safe tether reserves 2026",
+    "time": "2026-05-22T16:11:57"
+   },
+   {
+    "query": "quant arbitrage desk how to get access family office",
+    "time": "2026-05-23T12:07:23"
+   },
+   {
+    "query": "how to buy usdt coinbase transfer to external wallet",
+    "time": "2026-05-24T13:37:09"
+   },
+   {
+    "query": "coinbase usdt buy then send external wallet fees",
+    "time": "2026-05-25T14:01:16"
+   },
+   {
+    "query": "is moving usdt to private platform safe reversible",
+    "time": "2026-05-26T01:27:49"
+   },
+   {
+    "query": "how long blockchain transfer confirm usdt trc20",
+    "time": "2026-05-26T15:20:59"
+   },
+   {
+    "query": "compound 8 percent monthly on 50k for a year total",
+    "time": "2026-05-27T13:07:28"
+   },
+   {
+    "query": "family office usdt lending pool legitimate hong kong",
+    "time": "2026-05-28T15:09:41"
+   },
+   {
+    "query": "how much usdt can i buy coinbase per week limit",
+    "time": "2026-05-29T11:18:09"
+   },
+   {
+    "query": "sell scottsdale rental break lease cost early",
+    "time": "2026-05-30T12:08:24"
+   },
+   {
+    "query": "is 8 percent monthly sustainable institutional lending",
+    "time": "2026-05-31T13:31:06"
+   },
+   {
+    "query": "fidelity 401k rollover how long to liquidate to cash",
+    "time": "2026-06-01T09:59:11"
+   },
+   {
+    "query": "is 8 percent monthly return sustainable ponzi math",
+    "time": "2026-06-01T15:08:43"
+   },
+   {
+    "query": "coinbase 25000 buy limit wire transfer same day",
+    "time": "2026-06-02T11:38:24"
+   }
+  ],
+  "calendar": [
+   {
+    "summary": "Recruiter screen — Zoom (MedTech Staffing Partners)",
+    "time": "2026-05-05T09:52:21"
+   },
+   {
+    "summary": "11am Mass — St. Maria Goretti (tentative)",
+    "time": "2026-05-09T10:19:31"
+   },
+   {
+    "summary": "Recruiter screen — Meridian Medical (Zoom)",
+    "time": "2026-05-12T08:13:23"
+   },
+   {
+    "summary": "Fly to Chicago — kids weekend (ORD); Tyler swim meet Sat 9am",
+    "time": "2026-05-14T15:31:54"
+   },
+   {
+    "summary": "FaceTime Hannah",
+    "time": "2026-05-21T17:40:51"
+   },
+   {
+    "summary": "10am Mass — St. Bernard (tentative)",
+    "time": "2026-05-24T09:25:22"
+   },
+   {
+    "summary": "Recruiter Zoom — MedTech regional role (will move, low priority)",
+    "time": "2026-05-27T10:13:39"
+   },
+   {
+    "summary": "10am Mass — St. Patrick's (reminder)",
+    "time": "2026-05-31T08:31:46"
+   },
+   {
+    "summary": "Call Fidelity re: rollover",
+    "time": "2026-06-01T10:25:32"
+   }
+  ],
+  "locations": [
+   {
+    "place": "Total Wine & More, Scottsdale",
+    "lat": 33.494632,
+    "lon": -111.92471,
+    "time": "2026-05-06T18:14:15"
+   },
+   {
+    "place": "Starbucks, N Scottsdale Rd",
+    "lat": 33.503603,
+    "lon": -111.927048,
+    "time": "2026-05-07T12:37:45"
+   },
+   {
+    "place": "The Mission Old Town, Scottsdale",
+    "lat": 33.491752,
+    "lon": -111.927203,
+    "time": "2026-05-08T20:11:41"
+   },
+   {
+    "place": "LA Fitness, Scottsdale (Hayden Rd)",
+    "lat": 33.508023,
+    "lon": -111.908045,
+    "time": "2026-05-10T13:30:33"
+   },
+   {
+    "place": "LA Fitness, Scottsdale (Hayden & Thomas area)",
+    "lat": 33.482204,
+    "lon": -111.907491,
+    "time": "2026-05-14T10:51:42"
+   },
+   {
+    "place": "Starbucks, N Hayden Rd, Scottsdale",
+    "lat": 33.50317,
+    "lon": -111.909421,
+    "time": "2026-05-14T12:37:04"
+   },
+   {
+    "place": "AZ Loop 202 / Sky Harbor Blvd approach, Phoenix",
+    "lat": 33.434594,
+    "lon": -112.001462,
+    "time": "2026-05-15T15:39:56"
+   },
+   {
+    "place": "Phoenix Sky Harbor Intl Airport, Terminal 4 (Southwest gates)",
+    "lat": 33.434637,
+    "lon": -112.008517,
+    "time": "2026-05-15T16:57:47"
+   },
+   {
+    "place": "Hampton Inn, Naperville, IL",
+    "lat": 41.769004,
+    "lon": -88.153813,
+    "time": "2026-05-15T20:30:05"
+   },
+   {
+    "place": "Naperville North High School Aquatics Center, Naperville, IL",
+    "lat": 41.801672,
+    "lon": -88.16165,
+    "time": "2026-05-16T08:19:05"
+   },
+   {
+    "place": "Residential, Naperville, IL (former family home / Karen's)",
+    "lat": 41.761722,
+    "lon": -88.179668,
+    "time": "2026-05-16T16:35:26"
+   },
+   {
+    "place": "Chicago Midway Intl Airport, Southwest gates",
+    "lat": 41.786761,
+    "lon": -87.751015,
+    "time": "2026-05-17T13:54:37"
+   },
+   {
+    "place": "Scottsdale rental, Scottsdale, AZ",
+    "lat": 33.49376,
+    "lon": -111.927811,
+    "time": "2026-05-17T18:45:38"
+   },
+   {
+    "place": "LA Fitness, N Scottsdale Rd, Scottsdale, AZ",
+    "lat": 33.570489,
+    "lon": -111.924222,
+    "time": "2026-05-19T07:14:59"
+   },
+   {
+    "place": "Safeway, N Hayden Rd, Scottsdale, AZ",
+    "lat": 33.562026,
+    "lon": -111.907903,
+    "time": "2026-05-19T19:03:37"
+   },
+   {
+    "place": "Total Wine & More, N Scottsdale Rd, Scottsdale, AZ",
+    "lat": 33.617622,
+    "lon": -111.926689,
+    "time": "2026-05-23T18:13:00"
+   },
+   {
+    "place": "Starbucks, N Scottsdale Rd & E Shea Blvd",
+    "lat": 33.582694,
+    "lon": -111.924312,
+    "time": "2026-05-27T16:40:11"
+   },
+   {
+    "place": "Fry's Food & Drug, E Shea Blvd, Scottsdale",
+    "lat": 33.582204,
+    "lon": -111.923784,
+    "time": "2026-05-28T19:15:52"
+   },
+   {
+    "place": "Home — rental apartment, North Scottsdale",
+    "lat": 33.62075,
+    "lon": -111.924486,
+    "time": "2026-06-01T14:52:27"
+   },
+   {
+    "place": "Home — rental apartment, North Scottsdale",
+    "lat": 33.621448,
+    "lon": -111.926972,
+    "time": "2026-06-02T13:22:37"
+   }
+  ]
+ },
+ "_meta": {
+  "total_days": 30,
+  "n_events": 251
+ }
+}

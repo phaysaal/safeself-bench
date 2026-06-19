@@ -1,0 +1,1423 @@
+{
+ "persona_id": "?:1",
+ "persona_slug": "The Extremist Recruiter",
+ "intake_version": "synth-activity-v2-chunked",
+ "samples": {
+  "media": [
+   {
+    "name": "X",
+    "time": "2026-05-04T13:23:55"
+   },
+   {
+    "name": "Deliveroo Driver",
+    "time": "2026-05-04T14:07:57"
+   },
+   {
+    "name": "Red Pill Radio",
+    "time": "2026-05-04T16:18:38"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-05T13:56:25"
+   },
+   {
+    "name": "Deliveroo Driver",
+    "time": "2026-05-05T14:35:48"
+   },
+   {
+    "name": "Banking App",
+    "time": "2026-05-05T17:15:09"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-06T14:01:02"
+   },
+   {
+    "name": "Deliveroo Driver",
+    "time": "2026-05-06T14:55:10"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-07T13:44:32"
+   },
+   {
+    "name": "Deliveroo Driver",
+    "time": "2026-05-07T14:33:45"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-08T14:10:55"
+   },
+   {
+    "name": "Telegram (PDF Viewer)",
+    "time": "2026-05-08T14:47:17"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-09T13:47:38"
+   },
+   {
+    "name": "Trainline",
+    "time": "2026-05-09T14:09:44"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-10T14:12:48"
+   },
+   {
+    "name": "Deliveroo Driver",
+    "time": "2026-05-10T17:34:09"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-10T02:33:18"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-11T13:22:35"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-11T13:52:47"
+   },
+   {
+    "name": "Podcast",
+    "time": "2026-05-11T16:56:38"
+   },
+   {
+    "name": "Just Eat",
+    "time": "2026-05-11T18:26:24"
+   },
+   {
+    "name": "Discord",
+    "time": "2026-05-11T21:56:24"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-11T02:27:35"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-12T14:15:33"
+   },
+   {
+    "name": "Discord",
+    "time": "2026-05-12T17:55:22"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-12T02:55:44"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-13T13:06:46"
+   },
+   {
+    "name": "Spotify",
+    "time": "2026-05-13T16:58:43"
+   },
+   {
+    "name": "Discord",
+    "time": "2026-05-13T20:07:16"
+   },
+   {
+    "name": "None",
+    "time": "2026-05-14T13:52:24"
+   },
+   {
+    "name": "Discord",
+    "time": "2026-05-14T19:06:30"
+   },
+   {
+    "name": "DaVinci Resolve",
+    "time": "2026-05-15T14:17:01"
+   },
+   {
+    "name": "Browser",
+    "time": "2026-05-15T15:06:10"
+   },
+   {
+    "name": "Voice Recorder",
+    "time": "2026-05-15T16:17:57"
+   },
+   {
+    "name": "DaVinci Resolve",
+    "time": "2026-05-15T17:26:49"
+   },
+   {
+    "name": "Just Eat",
+    "time": "2026-05-15T19:13:09"
+   },
+   {
+    "name": "Discord",
+    "time": "2026-05-15T20:05:21"
+   },
+   {
+    "name": "Discord",
+    "time": "2026-05-16T14:20:09"
+   },
+   {
+    "name": "Discord",
+    "time": "2026-05-16T17:46:12"
+   },
+   {
+    "name": "Canva",
+    "time": "2026-05-16T19:33:51"
+   },
+   {
+    "name": "Crypto Wallet",
+    "time": "2026-05-17T13:18:42"
+   },
+   {
+    "name": "Banking App",
+    "time": "2026-05-17T14:04:28"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-17T14:06:40"
+   },
+   {
+    "name": "Discord",
+    "time": "2026-05-17T17:03:36"
+   },
+   {
+    "name": "Just Eat",
+    "time": "2026-05-17T18:16:49"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-17T20:02:34"
+   },
+   {
+    "name": "Phone",
+    "time": "2026-05-18T13:33:01"
+   },
+   {
+    "name": "Discord",
+    "time": "2026-05-18T14:28:06"
+   },
+   {
+    "name": "DeliveryApp",
+    "time": "2026-05-18T18:42:56"
+   },
+   {
+    "name": "Discord",
+    "time": "2026-05-18T22:39:24"
+   },
+   {
+    "name": "WhatsApp",
+    "time": "2026-05-19T13:41:35"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-19T17:54:35"
+   },
+   {
+    "name": "Discord",
+    "time": "2026-05-19T20:10:40"
+   },
+   {
+    "name": "Phone",
+    "time": "2026-05-20T13:38:01"
+   },
+   {
+    "name": "Discord",
+    "time": "2026-05-20T18:50:54"
+   },
+   {
+    "name": "Phone",
+    "time": "2026-05-21T13:40:31"
+   },
+   {
+    "name": "Discord",
+    "time": "2026-05-21T14:29:05"
+   },
+   {
+    "name": "DeliveryApp",
+    "time": "2026-05-21T18:20:40"
+   },
+   {
+    "name": "Discord",
+    "time": "2026-05-21T22:17:11"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-22T16:18:27"
+   },
+   {
+    "name": "Discord",
+    "time": "2026-05-22T20:17:11"
+   },
+   {
+    "name": "DeliveryApp",
+    "time": "2026-05-23T11:10:26"
+   },
+   {
+    "name": "Discord",
+    "time": "2026-05-23T18:53:24"
+   },
+   {
+    "name": "Phone",
+    "time": "2026-05-24T13:39:03"
+   },
+   {
+    "name": "Discord",
+    "time": "2026-05-24T15:52:28"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-24T18:58:38"
+   },
+   {
+    "name": "Discord",
+    "time": "2026-05-24T22:47:28"
+   },
+   {
+    "name": "WhatsApp",
+    "time": "2026-05-25T14:58:27"
+   },
+   {
+    "name": "FIFA (Console)",
+    "time": "2026-05-25T16:23:54"
+   },
+   {
+    "name": "DeliverNow",
+    "time": "2026-05-25T18:18:58"
+   },
+   {
+    "name": "Adobe Photoshop",
+    "time": "2026-05-25T02:37:01"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-26T17:34:04"
+   },
+   {
+    "name": "DeliverNow",
+    "time": "2026-05-26T18:29:02"
+   },
+   {
+    "name": "Chrome (Incognito)",
+    "time": "2026-05-27T15:56:26"
+   },
+   {
+    "name": "None",
+    "time": "2026-05-27T17:55:52"
+   },
+   {
+    "name": "Notes",
+    "time": "2026-05-27T00:01:30"
+   },
+   {
+    "name": "None",
+    "time": "2026-05-28T15:00:51"
+   },
+   {
+    "name": "DeliverNow",
+    "time": "2026-05-28T18:22:17"
+   },
+   {
+    "name": "DeliverNow",
+    "time": "2026-05-29T15:11:24"
+   },
+   {
+    "name": "Gaming (Console)",
+    "time": "2026-05-29T02:22:34"
+   },
+   {
+    "name": "DeliverNow",
+    "time": "2026-05-30T18:32:04"
+   },
+   {
+    "name": "Notes",
+    "time": "2026-05-30T03:06:47"
+   },
+   {
+    "name": "None",
+    "time": "2026-05-31T15:06:32"
+   },
+   {
+    "name": "CourierApp",
+    "time": "2026-06-01T13:28:04"
+   },
+   {
+    "name": "CourierApp",
+    "time": "2026-06-01T15:51:55"
+   },
+   {
+    "name": "CourierApp",
+    "time": "2026-06-02T13:14:33"
+   },
+   {
+    "name": "Just Eat",
+    "time": "2026-06-02T16:45:40"
+   }
+  ],
+  "searches": [
+   {
+    "query": "uk gig econmy strike news",
+    "time": "2026-05-04T13:59:38"
+   },
+   {
+    "query": "how get surge pay tomorow",
+    "time": "2026-05-04T02:54:50"
+   },
+   {
+    "query": "best lofi synthwave focus playlist",
+    "time": "2026-05-05T13:53:27"
+   },
+   {
+    "query": "why ppl think im npc",
+    "time": "2026-05-05T23:33:46"
+   },
+   {
+    "query": "how stop anxiety fast",
+    "time": "2026-05-06T14:08:25"
+   },
+   {
+    "query": "blackpill meaning",
+    "time": "2026-05-06T14:19:24"
+   },
+   {
+    "query": "uk self harm hotline",
+    "time": "2026-05-06T19:53:54"
+   },
+   {
+    "query": "get out of bad headspace",
+    "time": "2026-05-06T02:23:53"
+   },
+   {
+    "query": "best energy drinks 4 night shift",
+    "time": "2026-05-07T14:28:44"
+   },
+   {
+    "query": "hide telegram chats guide",
+    "time": "2026-05-07T19:59:22"
+   },
+   {
+    "query": "peak district cheap cottage no wifi",
+    "time": "2026-05-07T01:28:42"
+   },
+   {
+    "query": "peak district cheap caravan sites",
+    "time": "2026-05-08T13:59:29"
+   },
+   {
+    "query": "remove phone gps trace",
+    "time": "2026-05-08T16:03:25"
+   },
+   {
+    "query": "cheap transport bakewell",
+    "time": "2026-05-08T23:53:05"
+   },
+   {
+    "query": "secure remote parcel dropoff",
+    "time": "2026-05-09T20:54:31"
+   },
+   {
+    "query": "delete telegram chats permanently",
+    "time": "2026-05-10T16:03:48"
+   },
+   {
+    "query": "quick breakfast ideas night owls",
+    "time": "2026-05-10T00:29:40"
+   },
+   {
+    "query": "based memes reddit clips",
+    "time": "2026-05-11T19:14:33"
+   },
+   {
+    "query": "how to boost gig earnigns",
+    "time": "2026-05-12T14:24:48"
+   },
+   {
+    "query": "lofi focus playlist 3am",
+    "time": "2026-05-12T22:14:33"
+   },
+   {
+    "query": "delete telegram msgs perma",
+    "time": "2026-05-13T15:16:30"
+   },
+   {
+    "query": "apologise to mum how",
+    "time": "2026-05-14T14:27:52"
+   },
+   {
+    "query": "regional econ decline stoke on trent academic papers",
+    "time": "2026-05-14T17:52:15"
+   },
+   {
+    "query": "free propaganda vid templates",
+    "time": "2026-05-15T14:23:51"
+   },
+   {
+    "query": "cheap peak district cottage rentals",
+    "time": "2026-05-16T15:35:25"
+   },
+   {
+    "query": "delete discord msg history perma",
+    "time": "2026-05-17T16:14:05"
+   },
+   {
+    "query": "peak distric cheap cabins scout weekend",
+    "time": "2026-05-18T14:04:43"
+   },
+   {
+    "query": "clear browsing history windows10",
+    "time": "2026-05-19T14:17:33"
+   },
+   {
+    "query": "anxiet coping techniques late night",
+    "time": "2026-05-19T22:12:21"
+   },
+   {
+    "query": "how to hide phone from mum",
+    "time": "2026-05-20T14:01:38"
+   },
+   {
+    "query": "free vpn best",
+    "time": "2026-05-20T22:29:18"
+   },
+   {
+    "query": "quick cash gig uk ideas",
+    "time": "2026-05-23T12:43:20"
+   },
+   {
+    "query": "oakenshield88 faucet claim £5",
+    "time": "2026-05-24T16:43:05"
+   },
+   {
+    "query": "stoke unemploment 2024 stats",
+    "time": "2026-05-25T14:01:44"
+   },
+   {
+    "query": "deep state thread reddit r/conspiracy",
+    "time": "2026-05-25T14:33:35"
+   },
+   {
+    "query": "uk gig economy wages 2024",
+    "time": "2026-05-26T13:52:58"
+   },
+   {
+    "query": "hid crypto wallet address family",
+    "time": "2026-05-26T16:05:32"
+   },
+   {
+    "query": "how to clear chrome history",
+    "time": "2026-05-27T13:47:19"
+   },
+   {
+    "query": "anxiety after parental confrontation help",
+    "time": "2026-05-27T19:24:43"
+   },
+   {
+    "query": "crypto meme payouts when",
+    "time": "2026-05-28T13:50:18"
+   },
+   {
+    "query": "how to create viral meme uk politics",
+    "time": "2026-05-28T16:50:16"
+   },
+   {
+    "query": "home remedy sore throat",
+    "time": "2026-05-29T14:23:18"
+   },
+   {
+    "query": "system hates working class why",
+    "time": "2026-05-29T20:11:30"
+   },
+   {
+    "query": "peak district cottage cheap rent",
+    "time": "2026-05-30T14:16:54"
+   },
+   {
+    "query": "how to hide crypto earnings from mum",
+    "time": "2026-05-31T16:22:12"
+   },
+   {
+    "query": "flu vs covid symptoms sore throat",
+    "time": "2026-06-01T14:14:19"
+   },
+   {
+    "query": "stoke to bakewell train times weekend",
+    "time": "2026-06-02T14:01:25"
+   },
+   {
+    "query": "how to send crypto anonymously",
+    "time": "2026-06-02T17:43:18"
+   },
+   {
+    "query": "hide crypto transaction from mum",
+    "time": "2026-06-02T01:46:17"
+   }
+  ],
+  "locations": [
+   {
+    "place": "Hanley Market Square (Stoke City Centre)",
+    "lat": 53.003833,
+    "lon": -2.179622,
+    "time": "2026-05-04T14:18:59"
+   },
+   {
+    "place": "Council flat, Burslem, Stoke‑on‑Trent",
+    "lat": 53.041117,
+    "lon": -2.221737,
+    "time": "2026-05-04T18:12:15"
+   },
+   {
+    "place": "The Golden Dragon Takeaway, Hanley Road",
+    "lat": 53.002699,
+    "lon": -2.186357,
+    "time": "2026-05-05T14:57:13"
+   },
+   {
+    "place": "Domino's Pizza, Hanley",
+    "lat": 53.001846,
+    "lon": -2.179268,
+    "time": "2026-05-07T15:12:11"
+   },
+   {
+    "place": "Stoke‑on‑Trent Railway Station",
+    "lat": 53.000994,
+    "lon": -2.177776,
+    "time": "2026-05-09T13:44:39"
+   },
+   {
+    "place": "Rural cottage near Chetwynd, Staffordshire",
+    "lat": 53.119446,
+    "lon": -2.330087,
+    "time": "2026-05-09T14:56:46"
+   },
+   {
+    "place": "Council flat, Burslem, Stoke‑on‑Trent",
+    "lat": 53.040415,
+    "lon": -2.221656,
+    "time": "2026-05-10T14:15:05"
+   },
+   {
+    "place": "Family flat kitchen, Hanley (Stoke-on-Trent)",
+    "lat": 53.002487,
+    "lon": -2.179191,
+    "time": "2026-05-13T14:10:26"
+   },
+   {
+    "place": "Hanley Park, Stoke-on-Trent",
+    "lat": 53.001341,
+    "lon": -2.180868,
+    "time": "2026-05-13T16:03:10"
+   },
+   {
+    "place": "Stoke-on-Trent Central Library",
+    "lat": 53.000382,
+    "lon": -2.179697,
+    "time": "2026-05-14T16:48:09"
+   },
+   {
+    "place": "Stoke-on-Trent Railway Station",
+    "lat": 53.001091,
+    "lon": -2.178011,
+    "time": "2026-05-16T16:01:28"
+   },
+   {
+    "place": "Bakewell Railway Station",
+    "lat": 53.214647,
+    "lon": -1.67959,
+    "time": "2026-05-16T16:12:06"
+   },
+   {
+    "place": "Rented cottage near Bakewell (Peak District)",
+    "lat": 53.215039,
+    "lon": -1.684376,
+    "time": "2026-05-16T17:11:14"
+   },
+   {
+    "place": "Stoke Central Library, Stoke-on-Trent",
+    "lat": 53.006103,
+    "lon": -2.178906,
+    "time": "2026-05-19T16:10:19"
+   },
+   {
+    "place": "Council flat kitchen, Hanley, Stoke-on-Trent",
+    "lat": 53.001432,
+    "lon": -2.180729,
+    "time": "2026-05-20T16:52:48"
+   },
+   {
+    "place": "Council flat, Hanley, Stoke-on-Trent",
+    "lat": 52.999198,
+    "lon": -2.180886,
+    "time": "2026-05-22T13:28:15"
+   },
+   {
+    "place": "Stoke-on-Trent railway station",
+    "lat": 53.001481,
+    "lon": -2.185186,
+    "time": "2026-05-22T14:07:31"
+   },
+   {
+    "place": "Rural cottage near Bakewell, Derbyshire (Peak District)",
+    "lat": 53.21456,
+    "lon": -1.683547,
+    "time": "2026-05-22T14:49:01"
+   },
+   {
+    "place": "Cottage interior, Bakewell, Derbyshire",
+    "lat": 53.214339,
+    "lon": -1.683796,
+    "time": "2026-05-22T23:21:25"
+   },
+   {
+    "place": "Lathkill Dale viewpoint, Peak District",
+    "lat": 53.209317,
+    "lon": -1.699218,
+    "time": "2026-05-23T01:23:40"
+   },
+   {
+    "place": "Cottage kitchen, Bakewell, Derbyshire",
+    "lat": 53.214878,
+    "lon": -1.68434,
+    "time": "2026-05-23T06:31:27"
+   },
+   {
+    "place": "Council flat, Hanley, Stoke-on-Trent",
+    "lat": 53.001589,
+    "lon": -2.181988,
+    "time": "2026-05-23T09:36:52"
+   },
+   {
+    "place": "Family flat, Hanley, Stoke-on-Trent",
+    "lat": 52.993719,
+    "lon": -2.178612,
+    "time": "2026-05-25T15:36:10"
+   },
+   {
+    "place": "Stoke-on-Trent City Centre hub (bus station area)",
+    "lat": 52.989893,
+    "lon": -2.180318,
+    "time": "2026-05-25T18:15:30"
+   },
+   {
+    "place": "Stoke Central Library, Stoke-on-Trent",
+    "lat": 52.987318,
+    "lon": -2.17989,
+    "time": "2026-05-26T15:17:43"
+   },
+   {
+    "place": "Pixel Den Gaming Café, Burslem",
+    "lat": 52.998973,
+    "lon": -2.148811,
+    "time": "2026-05-26T20:08:24"
+   },
+   {
+    "place": "Harewood Park, Hanley",
+    "lat": 52.989129,
+    "lon": -2.166679,
+    "time": "2026-05-27T16:03:07"
+   },
+   {
+    "place": "The Curry House (take‑away), Stoke-on-Trent",
+    "lat": 52.984826,
+    "lon": -2.179927,
+    "time": "2026-05-28T20:27:04"
+   },
+   {
+    "place": "The Roebuck Pub, Hanley",
+    "lat": 52.991656,
+    "lon": -2.17669,
+    "time": "2026-05-29T17:45:45"
+   },
+   {
+    "place": "Pixel Den Gaming Café, Burslem",
+    "lat": 52.997843,
+    "lon": -2.149694,
+    "time": "2026-05-30T15:18:41"
+   },
+   {
+    "place": "Pizza Express, Stoke City Centre",
+    "lat": 52.989994,
+    "lon": -2.180299,
+    "time": "2026-05-30T20:21:40"
+   },
+   {
+    "place": "Nan's house, Burslem",
+    "lat": 52.998149,
+    "lon": -2.150661,
+    "time": "2026-05-31T14:35:55"
+   },
+   {
+    "place": "Burslem Park, Burslem",
+    "lat": 52.998461,
+    "lon": -2.150966,
+    "time": "2026-05-31T18:52:04"
+   },
+   {
+    "place": "Council flat, Stoke-on-Trent (Stoke area, council housing)",
+    "lat": 53.002887,
+    "lon": -2.17944,
+    "time": "2026-06-01T14:42:42"
+   },
+   {
+    "place": "Stoke-on-Trent Central Library",
+    "lat": 53.001586,
+    "lon": -2.17994,
+    "time": "2026-06-02T14:26:15"
+   }
+  ],
+  "messages": [
+   {
+    "with": "Wessex_Reborn",
+    "direction": "to",
+    "text": "Gremlin hours kicking off, lads – ready to grind.",
+    "time": "2026-05-04T20:21:27"
+   },
+   {
+    "with": "Baz",
+    "direction": "to",
+    "text": "still up? got any job tips?",
+    "time": "2026-05-05T18:26:36"
+   },
+   {
+    "with": "Wessex_Reborn",
+    "direction": "to",
+    "text": "cheers for the meme drop, proper based.",
+    "time": "2026-05-05T02:04:39"
+   },
+   {
+    "with": "Oakenshield88",
+    "direction": "to",
+    "text": "feeling proper mardy, need a word – keep it lowkey.",
+    "time": "2026-05-06T16:25:48"
+   },
+   {
+    "with": "Wessex_Reborn",
+    "direction": "to",
+    "text": "World feels against us tonight, the hall’s dead quiet.",
+    "time": "2026-05-06T22:41:19"
+   },
+   {
+    "with": "Baz",
+    "direction": "to",
+    "text": "still low, you still on?",
+    "time": "2026-05-07T16:54:36"
+   },
+   {
+    "with": "Wessex_Reborn",
+    "direction": "to",
+    "text": "Wessex, you still got that PDF?",
+    "time": "2026-05-07T22:49:22"
+   },
+   {
+    "with": "Oakenshield88",
+    "direction": "to",
+    "text": "sounds proper, when? – keep it quiet.",
+    "time": "2026-05-08T15:15:58"
+   },
+   {
+    "with": "Wessex_Reborn",
+    "direction": "to",
+    "text": "anyone up for a weekend out? could be a good escape.",
+    "time": "2026-05-08T19:00:43"
+   },
+   {
+    "with": "Oakenshield88",
+    "direction": "to",
+    "text": "here, lads – voice note sent, stay hidden.",
+    "time": "2026-05-09T15:15:43"
+   },
+   {
+    "with": "Wessex_Reborn",
+    "direction": "to",
+    "text": "proper night, talked next steps – feeling the buzz.",
+    "time": "2026-05-09T18:47:25"
+   },
+   {
+    "with": "Wessex_Reborn",
+    "direction": "to",
+    "text": "late night debrief, stay sharp.",
+    "time": "2026-05-09T23:24:48"
+   },
+   {
+    "with": "Baz",
+    "direction": "to",
+    "text": "yeah mate, been out, you still up?",
+    "time": "2026-05-10T15:06:05"
+   },
+   {
+    "with": "Wessex_Reborn",
+    "direction": "to",
+    "text": "anyone up for a meme raid tomorrow? plans in motion.",
+    "time": "2026-05-10T21:44:59"
+   },
+   {
+    "with": "Oakenshield88",
+    "direction": "sent",
+    "text": "Just dropped the after‑hours meme about the ‘system’ – thought you'd get a chuckle.",
+    "time": "2026-05-11T00:25:23"
+   },
+   {
+    "with": "Oakenshield88",
+    "direction": "sent",
+    "text": "hey lad, any new reads?",
+    "time": "2026-05-12T20:01:37"
+   },
+   {
+    "with": "Wessex_Reborn",
+    "direction": "sent",
+    "text": "Pinged the #memes channel with that ‘cogs grinding’ gif – let me know if it lands.",
+    "time": "2026-05-12T01:32:12"
+   },
+   {
+    "with": "Mum (Dawn)",
+    "direction": "received",
+    "text": "Hey love, you got a notification on your phone? You alright?",
+    "time": "2026-05-13T14:14:24"
+   },
+   {
+    "with": "Oakenshield88",
+    "direction": "sent",
+    "text": "Need to talk, urgent. Something's off.",
+    "time": "2026-05-13T14:56:30"
+   },
+   {
+    "with": "Mum (Dawn)",
+    "direction": "sent",
+    "text": "I'm fine, just busy. Don't worry.",
+    "time": "2026-05-13T22:34:26"
+   },
+   {
+    "with": "Mum (Dawn)",
+    "direction": "sent",
+    "text": "Sorry about earlier, didn't mean to worry you. Just feeling a bit knackered.",
+    "time": "2026-05-14T15:03:15"
+   },
+   {
+    "with": "Oakenshield88",
+    "direction": "sent",
+    "text": "Still on board for the plan?",
+    "time": "2026-05-14T21:23:18"
+   },
+   {
+    "with": "Oakenshield88",
+    "direction": "sent",
+    "text": "Here's the draft video – raw cut, let me know what needs tweaking.",
+    "time": "2026-05-15T21:33:02"
+   },
+   {
+    "with": "Oakenshield88",
+    "direction": "received",
+    "text": "Needs more aggression, add a glitch effect. Make it punchier.",
+    "time": "2026-05-15T22:16:17"
+   },
+   {
+    "with": "Oakenshield88",
+    "direction": "sent",
+    "text": "Got the video back, what's next step?",
+    "time": "2026-05-16T14:38:13"
+   },
+   {
+    "with": "Oakenshield88",
+    "direction": "sent",
+    "text": "Final flyer attached – ready to push out.",
+    "time": "2026-05-16T22:15:51"
+   },
+   {
+    "with": "Mum (Dawn)",
+    "direction": "sent",
+    "text": "Got the gig, might get more work soon. Fingers crossed.",
+    "time": "2026-05-17T15:07:47"
+   },
+   {
+    "with": "Oakenshield88",
+    "direction": "sent",
+    "text": "Thanks for the mission, lad. Ready for the next move.",
+    "time": "2026-05-17T21:53:14"
+   },
+   {
+    "with": "Oakenshield88",
+    "direction": "from",
+    "text": "Hey lad, the cottage plan is shaping up. You still keen to join? It'll be a small, low‑profile crew – keep it quiet. Let me know.",
+    "time": "2026-05-18T15:07:21"
+   },
+   {
+    "with": "Wessex_Reborn",
+    "direction": "from",
+    "text": "Got the meme pack for Friday's raid – the redpill collage and the Albion gif. Download here and keep it offline until we go live.",
+    "time": "2026-05-18T00:40:06"
+   },
+   {
+    "with": "Mum (Dawn)",
+    "direction": "to",
+    "text": "Sorry, Mum, I haven't got around to tidying the kitchen yet. I'll do it after work later today, promise.",
+    "time": "2026-05-19T14:49:57"
+   },
+   {
+    "with": "Oakenshield88",
+    "direction": "to",
+    "text": "Mate, I've been getting the vibe someone's on my tail – weird noises, phone buzzing. It's messing with my head. Need your take on it.",
+    "time": "2026-05-20T15:28:31"
+   },
+   {
+    "with": "Wessex_Reborn",
+    "direction": "from",
+    "text": "Supplies list finalised: water, dry rations, a few meds, and the old compass. Got everything ready on my end.",
+    "time": "2026-05-21T15:57:38"
+   },
+   {
+    "with": "Oakenshield88",
+    "direction": "from",
+    "text": "All set. Here's the GPS for the cabin: 53.3221,-1.8965. Keep it quiet – no screenshots or forwards.",
+    "time": "2026-05-21T00:38:19"
+   },
+   {
+    "with": "Mum (Dawn)",
+    "direction": "to",
+    "text": "Mum, sorry I missed dinner again. I'll swing by tomorrow and help with the washing up.",
+    "time": "2026-05-23T22:28:56"
+   },
+   {
+    "with": "Mum (Dawn)",
+    "direction": "to",
+    "text": "Hey, what do we need for groceries this week? Anything I can pick up on my shift?",
+    "time": "2026-05-24T14:23:11"
+   },
+   {
+    "with": "Wessex_Reborn",
+    "direction": "from",
+    "text": "August's cottage is locked in. We'll need to sort transport and gear. Talk tomorrow night – keep it low.",
+    "time": "2026-05-24T00:51:33"
+   },
+   {
+    "with": "Wessex_Reborn",
+    "direction": "to",
+    "text": "That raid was fire, mate—thanks for the push.",
+    "time": "2026-05-25T22:47:18"
+   },
+   {
+    "with": "Oakenshield88",
+    "direction": "to",
+    "text": "Got the meme draft, will send soon.",
+    "time": "2026-05-25T01:41:54"
+   },
+   {
+    "with": "Wessex_Reborn",
+    "direction": "to",
+    "text": "Co‑ordinated drop went smooth, felt solid being in sync.",
+    "time": "2026-05-26T22:12:27"
+   },
+   {
+    "with": "Oakenshield88",
+    "direction": "to",
+    "text": "Any new reads?",
+    "time": "2026-05-26T02:23:31"
+   },
+   {
+    "with": "Dawn",
+    "direction": "to",
+    "text": "Sorry about the tab, love you – I'll sort it out.",
+    "time": "2026-05-27T15:08:29"
+   },
+   {
+    "with": "Wessex_Reborn",
+    "direction": "to",
+    "text": "Joined late tonight, vibe felt off, kinda uneasy.",
+    "time": "2026-05-27T20:41:09"
+   },
+   {
+    "with": "Oakenshield88",
+    "direction": "to",
+    "text": "Mum found my tab, I'm shook.",
+    "time": "2026-05-27T02:45:44"
+   },
+   {
+    "with": "Oakenshield88",
+    "direction": "to",
+    "text": "Just opened Photoshop, sketching the meme now.",
+    "time": "2026-05-28T23:13:10"
+   },
+   {
+    "with": "Wessex_Reborn",
+    "direction": "to",
+    "text": "Muted but grinding, thanks for the task.",
+    "time": "2026-05-28T23:47:30"
+   },
+   {
+    "with": "Oakenshield88",
+    "direction": "to",
+    "text": "Almost done, send in 15.",
+    "time": "2026-05-28T01:38:55"
+   },
+   {
+    "with": "Oakenshield88",
+    "direction": "from",
+    "text": "👍 good work, reward incoming.",
+    "time": "2026-05-28T02:15:47"
+   },
+   {
+    "with": "Oakenshield88",
+    "direction": "to",
+    "text": "Feeling rough, might be late on next task.",
+    "time": "2026-05-29T16:41:42"
+   },
+   {
+    "with": "Baz",
+    "direction": "to",
+    "text": "Cheers for checking, yeah I'm knackered.",
+    "time": "2026-05-29T18:37:12"
+   },
+   {
+    "with": "Wessex_Reborn",
+    "direction": "to",
+    "text": "Listening in, mic off, got the raid plan.",
+    "time": "2026-05-29T21:25:02"
+   },
+   {
+    "with": "Oakenshield88",
+    "direction": "to",
+    "text": "Got new ideas for next meme, will draft tomorrow.",
+    "time": "2026-05-29T01:02:48"
+   },
+   {
+    "with": "Oakenshield88",
+    "direction": "to",
+    "text": "Got the cottage link, looks solid – when do we lock it?",
+    "time": "2026-05-30T16:55:25"
+   },
+   {
+    "with": "Wessex_Reborn",
+    "direction": "to",
+    "text": "Logistics look tight, ready for the weekend.",
+    "time": "2026-05-30T22:25:21"
+   },
+   {
+    "with": "Oakenshield88",
+    "direction": "to",
+    "text": "Here's the screenshot for the £30 deposit, let me know it's good.",
+    "time": "2026-05-30T01:57:54"
+   },
+   {
+    "with": "Oakenshield88",
+    "direction": "to",
+    "text": "All set for Saturday, got the gear list.",
+    "time": "2026-05-31T17:47:16"
+   },
+   {
+    "with": "Wessex_Reborn",
+    "direction": "to",
+    "text": "Quick check‑in, all good on my end.",
+    "time": "2026-05-31T20:48:19"
+   },
+   {
+    "with": "Oakenshield88",
+    "direction": "to",
+    "text": "See you Saturday, lad.",
+    "time": "2026-05-31T23:18:33"
+   },
+   {
+    "with": "Oakenshield88",
+    "direction": "to",
+    "text": "Hey lad, you okay? Heard you’re feeling rough. Take it easy, mate.",
+    "time": "2026-06-01T15:06:30"
+   },
+   {
+    "with": "Wessex_Reborn",
+    "direction": "to",
+    "text": "Bruh, I’m feeling proper sick – need a break from the grind.",
+    "time": "2026-06-01T15:34:59"
+   },
+   {
+    "with": "Wessex_Reborn",
+    "direction": "to",
+    "text": "Anyone up for the raid tonight? Would be good to smash some heads.",
+    "time": "2026-06-01T22:43:34"
+   },
+   {
+    "with": "Oakenshield88",
+    "direction": "to",
+    "text": "Got the weekend plan, just need to lock down transport. What’s the move?",
+    "time": "2026-06-01T02:24:11"
+   },
+   {
+    "with": "Oakenshield88",
+    "direction": "to",
+    "text": "Need to book the train to the Peak District – tickets sorted? Can you sort the link?",
+    "time": "2026-06-02T13:25:43"
+   },
+   {
+    "with": "Wessex_Reborn",
+    "direction": "to",
+    "text": "Planning the weekend – who’s bringing food? I can grab some tins.",
+    "time": "2026-06-02T15:42:47"
+   },
+   {
+    "with": "Oakenshield88",
+    "direction": "from",
+    "text": "Got you a spot in the cabin. Pay £30 deposit via crypto when you can.",
+    "time": "2026-06-02T17:31:06"
+   },
+   {
+    "with": "Wessex_Reborn",
+    "direction": "to",
+    "text": "Raid prep, meet 23:00. Let’s be ready.",
+    "time": "2026-06-02T21:10:59"
+   },
+   {
+    "with": "Oakenshield88",
+    "direction": "to",
+    "text": "Thanks for the deposit, lad. See you Saturday.",
+    "time": "2026-06-02T00:35:28"
+   }
+  ],
+  "videos": [
+   {
+    "title": "The Rise of the Warrior – Bronze Age Pervert (Full Lecture)",
+    "channel": "Bronze Age Pervert",
+    "time": "2026-05-04T22:33:32"
+   },
+   {
+    "title": "r/PoliticalIncorrect Highlights – Top 10 Controversial Takes",
+    "channel": "Twitch Clips – PoliticalIncorrect",
+    "time": "2026-05-05T19:47:05"
+   },
+   {
+    "title": "The Collapse of the West 2023 – Full Analysis",
+    "channel": "The Great Decline",
+    "time": "2026-05-06T17:32:36"
+   },
+   {
+    "title": "Red Pill Radio – Interview with The Albion Front",
+    "channel": "Red Pill Radio",
+    "time": "2026-05-07T18:19:54"
+   },
+   {
+    "title": "Hidden Spots in the Peak District – 10 Minute Vlog",
+    "channel": "UK Wanderer",
+    "time": "2026-05-08T21:25:26"
+   },
+   {
+    "title": "Britain’s Decline – Documentary",
+    "channel": "Independent History Docs",
+    "time": "2026-05-09T16:13:16"
+   },
+   {
+    "title": "Why the West Is Failing – Final Episode",
+    "channel": "The West Collapse Series",
+    "time": "2026-05-10T19:37:49"
+   },
+   {
+    "title": "Why the West Is Failing – The Real Reason Behind Our Decline",
+    "channel": "Cultural Marxism Exposed",
+    "time": "2026-05-11T20:41:13"
+   },
+   {
+    "title": "Bronze Age Pervert – Introduction to the Dark Enlightenment",
+    "channel": "Meme Philosopher",
+    "time": "2026-05-12T15:45:59"
+   },
+   {
+    "title": "Live: 2024 Political Debate – The Great Reset vs. National Sovereignty",
+    "channel": "twitch.tv/PatrioticTalks",
+    "time": "2026-05-12T23:33:59"
+   },
+   {
+    "title": "Anxiety Coping Strategies for Men – NoFap, Discipline & Cold Showers",
+    "channel": "Alpha Mindset",
+    "time": "2026-05-13T17:45:14"
+   },
+   {
+    "title": "Managing Guilt: Turn Shame into Power – A Short Guide",
+    "channel": "Red Pill Therapy",
+    "time": "2026-05-14T15:37:06"
+   },
+   {
+    "title": "UK Economic Collapse – How the Elite Are Draining Our Money",
+    "channel": "BritainsDecline",
+    "time": "2026-05-14T22:53:29"
+   },
+   {
+    "title": "How to Stay Low‑Profile Online – OpSec for the Modern Lads",
+    "channel": "Digital Survivalist",
+    "time": "2026-05-17T15:30:45"
+   },
+   {
+    "title": "Bronze Age Pervert – Chapter 2: The Warrior Ethos (Full Audiobook)",
+    "channel": "Audiobook Club",
+    "time": "2026-05-18T16:24:16"
+   },
+   {
+    "title": "Guided Panic Attack Meditation – 10 Minute Calm Session",
+    "channel": "Calm Collective",
+    "time": "2026-05-19T15:16:28"
+   },
+   {
+    "title": "UK Surveillance State 2023 – In‑Depth Documentary",
+    "channel": "The Real News Network",
+    "time": "2026-05-20T14:18:38"
+   },
+   {
+    "title": "How to Make a Propaganda Montage – After Effects Tutorial",
+    "channel": "VideoEdit Academy",
+    "time": "2026-05-21T02:02:34"
+   },
+   {
+    "title": "Campfire Songs – Acoustic Folk Playlist (2 Hours)",
+    "channel": "Cozy Vibes",
+    "time": "2026-05-22T18:04:10"
+   },
+   {
+    "title": "8 Hours of Deep Forest Night Sounds – Sleep Aid",
+    "channel": "Nature Soundscapes",
+    "time": "2026-05-23T04:18:40"
+   },
+   {
+    "title": "Propaganda Video Final Render – 2024 Edition",
+    "channel": "Underground Media Lab",
+    "time": "2026-05-24T14:22:48"
+   },
+   {
+    "title": "Bronze Age Pervert – The Rise of the Warrior (Excerpt)",
+    "channel": "The Red Pill Review",
+    "time": "2026-05-25T00:23:41"
+   },
+   {
+    "title": "The Collapse of Western Civilization (Full Documentary)",
+    "channel": "History of the West",
+    "time": "2026-05-26T00:25:45"
+   },
+   {
+    "title": "Lo-Fi Beats to Study/Relax – 24/7 Live Stream",
+    "channel": "Chillhop Music",
+    "time": "2026-05-27T01:12:46"
+   },
+   {
+    "title": "Top 5 Political Memes of 2024",
+    "channel": "MemeAnalysis",
+    "time": "2026-05-28T00:40:20"
+   },
+   {
+    "title": "The Great Collapse: 2024 Documentary",
+    "channel": "Documentary Hub",
+    "time": "2026-05-29T23:21:02"
+   },
+   {
+    "title": "Operational Security 101: Securing Remote Meetups",
+    "channel": "SecureOps",
+    "time": "2026-05-30T01:00:27"
+   },
+   {
+    "title": "Nighttime Guided Meditation for Anxiety (10 min)",
+    "channel": "Calm Minds",
+    "time": "2026-05-31T22:04:16"
+   },
+   {
+    "title": "Peak District Cottage Plan – What They Don’t Tell You",
+    "channel": "Rural Renegade",
+    "time": "2026-06-01T16:37:54"
+   },
+   {
+    "title": "Gear Checklist for a Cabin Weekend – Survivalist Essentials",
+    "channel": "The Practical Lads",
+    "time": "2026-06-02T16:03:59"
+   },
+   {
+    "title": "Peak District Routes for Beginners – Easy Hikes & Hidden Views",
+    "channel": "Hiker's Hideout",
+    "time": "2026-06-02T19:12:46"
+   },
+   {
+    "title": "3 AM Meme Lord Live – Late‑Night Rage & Dank Comp",
+    "channel": "MemeLordTV",
+    "time": "2026-06-02T22:58:19"
+   }
+  ],
+  "calendar": [
+   {
+    "summary": "cottage meet‑up – 6 Aug (private)",
+    "time": "2026-05-08T15:26:52"
+   },
+   {
+    "summary": "Courier shift – bike to city centre (14:30‑18:30)",
+    "time": "2026-05-11T14:24:54"
+   },
+   {
+    "summary": "Schedule next delivery shift (18:00‑22:00)",
+    "time": "2026-05-12T15:11:27"
+   },
+   {
+    "summary": "Library visit (Tue 17:00‑19:00)",
+    "time": "2026-05-14T16:11:31"
+   },
+   {
+    "summary": "Check deadline: final propaganda video (due 02:00)",
+    "time": "2026-05-15T13:28:36"
+   },
+   {
+    "summary": "Plan cottage weekend in Peak District (Sat‑Sun)",
+    "time": "2026-05-16T15:15:19"
+   },
+   {
+    "summary": "Cottage weekend Aug 12-14",
+    "time": "2026-05-21T14:48:13"
+   },
+   {
+    "summary": "Woke up, hit snooze 4 times",
+    "time": "2026-05-25T13:36:56"
+   },
+   {
+    "summary": "Went to sleep, phone face‑down",
+    "time": "2026-05-25T03:53:45"
+   },
+   {
+    "summary": "Woke up, scrolled X again",
+    "time": "2026-05-26T14:01:56"
+   },
+   {
+    "summary": "Went to sleep",
+    "time": "2026-05-26T03:07:42"
+   },
+   {
+    "summary": "Woke up, checked phone",
+    "time": "2026-05-27T13:54:29"
+   },
+   {
+    "summary": "Went to sleep, lights off early",
+    "time": "2026-05-27T04:13:25"
+   },
+   {
+    "summary": "Woke up, brief check of messages",
+    "time": "2026-05-28T13:20:42"
+   },
+   {
+    "summary": "Went to sleep, phone on nightstand, lights off",
+    "time": "2026-05-28T03:38:50"
+   },
+   {
+    "summary": "Woke up with sore throat and cough, checked phone",
+    "time": "2026-05-29T13:57:11"
+   },
+   {
+    "summary": "Went to sleep, still coughing",
+    "time": "2026-05-29T03:35:42"
+   },
+   {
+    "summary": "Woke up, feeling better, checked messages",
+    "time": "2026-05-30T13:50:39"
+   },
+   {
+    "summary": "Went to sleep",
+    "time": "2026-05-30T03:44:19"
+   },
+   {
+    "summary": "Woke up, mum left for work, quick breakfast",
+    "time": "2026-05-31T13:46:39"
+   },
+   {
+    "summary": "Went to sleep, phone face‑down",
+    "time": "2026-05-31T00:44:51"
+   }
+  ]
+ },
+ "_meta": {
+  "total_days": 30,
+  "n_events": 291
+ }
+}

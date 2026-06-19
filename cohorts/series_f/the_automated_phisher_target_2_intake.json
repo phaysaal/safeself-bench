@@ -1,0 +1,1178 @@
+{
+ "persona_id": "?:2",
+ "persona_slug": "The Automated Phisher",
+ "intake_version": "synth-activity-v2-chunked",
+ "samples": {
+  "media": [
+   {
+    "name": "Microsoft Outlook",
+    "time": "2026-05-04T05:16:32"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-04T20:56:52"
+   },
+   {
+    "name": "Microsoft Outlook",
+    "time": "2026-05-05T05:12:01"
+   },
+   {
+    "name": "Zoom",
+    "time": "2026-05-05T14:30:32"
+   },
+   {
+    "name": "Microsoft Outlook",
+    "time": "2026-05-05T21:30:40"
+   },
+   {
+    "name": "Microsoft Outlook",
+    "time": "2026-05-05T22:38:42"
+   },
+   {
+    "name": "Microsoft Outlook",
+    "time": "2026-05-06T05:00:30"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-06T19:28:47"
+   },
+   {
+    "name": "Microsoft Outlook",
+    "time": "2026-05-07T05:44:47"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-07T21:14:44"
+   },
+   {
+    "name": "Microsoft Outlook",
+    "time": "2026-05-08T05:47:36"
+   },
+   {
+    "name": "Phone",
+    "time": "2026-05-08T19:01:02"
+   },
+   {
+    "name": "Microsoft Outlook",
+    "time": "2026-05-08T22:12:10"
+   },
+   {
+    "name": "Microsoft Outlook",
+    "time": "2026-05-09T05:23:04"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-09T20:47:01"
+   },
+   {
+    "name": "Microsoft Outlook",
+    "time": "2026-05-10T07:01:25"
+   },
+   {
+    "name": "Microsoft Outlook",
+    "time": "2026-05-10T20:17:09"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-10T21:24:37"
+   },
+   {
+    "name": "Microsoft Outlook",
+    "time": "2026-05-11T05:11:43"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-11T09:02:37"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-11T20:03:58"
+   },
+   {
+    "name": "Microsoft Outlook",
+    "time": "2026-05-11T22:24:56"
+   },
+   {
+    "name": "Microsoft Outlook",
+    "time": "2026-05-12T05:14:58"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-12T18:38:55"
+   },
+   {
+    "name": "Microsoft Outlook",
+    "time": "2026-05-13T05:31:16"
+   },
+   {
+    "name": "Phone",
+    "time": "2026-05-13T12:27:47"
+   },
+   {
+    "name": "Microsoft Outlook",
+    "time": "2026-05-14T05:24:13"
+   },
+   {
+    "name": "Microsoft Outlook",
+    "time": "2026-05-14T22:45:27"
+   },
+   {
+    "name": "Microsoft Outlook",
+    "time": "2026-05-15T05:03:29"
+   },
+   {
+    "name": "Microsoft Outlook",
+    "time": "2026-05-16T07:58:35"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-16T16:04:19"
+   },
+   {
+    "name": "Microsoft Outlook",
+    "time": "2026-05-17T07:54:12"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-17T17:35:14"
+   },
+   {
+    "name": "Microsoft Outlook",
+    "time": "2026-05-17T20:08:52"
+   },
+   {
+    "name": "Microsoft Outlook",
+    "time": "2026-05-17T22:26:57"
+   },
+   {
+    "name": "Microsoft Outlook",
+    "time": "2026-05-18T05:17:27"
+   },
+   {
+    "name": "Microsoft Word",
+    "time": "2026-05-18T13:24:20"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-18T21:27:09"
+   },
+   {
+    "name": "Microsoft Outlook",
+    "time": "2026-05-19T05:50:37"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-19T18:08:30"
+   },
+   {
+    "name": "Microsoft Outlook",
+    "time": "2026-05-20T05:39:32"
+   },
+   {
+    "name": "Adobe Acrobat",
+    "time": "2026-05-20T17:12:07"
+   },
+   {
+    "name": "Google Keep",
+    "time": "2026-05-20T23:02:57"
+   },
+   {
+    "name": "Microsoft Outlook",
+    "time": "2026-05-21T05:21:35"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-21T21:52:56"
+   },
+   {
+    "name": "Microsoft Outlook",
+    "time": "2026-05-22T05:44:25"
+   },
+   {
+    "name": "Microsoft Outlook",
+    "time": "2026-05-22T16:44:15"
+   },
+   {
+    "name": "ESPN",
+    "time": "2026-05-22T20:10:44"
+   },
+   {
+    "name": "Spotify",
+    "time": "2026-05-23T09:39:15"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-23T20:58:23"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-24T08:01:26"
+   },
+   {
+    "name": "Microsoft Outlook",
+    "time": "2026-05-24T20:11:51"
+   },
+   {
+    "name": "Microsoft Outlook",
+    "time": "2026-05-24T22:23:49"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-25T05:18:51"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-25T21:25:49"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-26T05:14:12"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-27T05:58:22"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-27T18:25:15"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-28T05:36:24"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-28T19:58:23"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-29T05:42:33"
+   },
+   {
+    "name": "Adobe Acrobat",
+    "time": "2026-05-30T10:41:11"
+   },
+   {
+    "name": "Notes",
+    "time": "2026-05-30T21:01:39"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-31T20:14:20"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-31T22:29:06"
+   },
+   {
+    "name": "Microsoft Outlook",
+    "time": "2026-06-01T07:25:55"
+   },
+   {
+    "name": "Microsoft Outlook",
+    "time": "2026-06-01T15:59:05"
+   },
+   {
+    "name": "Microsoft Outlook",
+    "time": "2026-06-02T08:38:34"
+   },
+   {
+    "name": "Outlook Mobile",
+    "time": "2026-06-02T22:21:35"
+   }
+  ],
+  "searches": [
+   {
+    "query": "columbus 270 outerbelt accident this morning",
+    "time": "2026-05-04T06:25:23"
+   },
+   {
+    "query": "net 45 vs net 30 auto parts vendor standard terms",
+    "time": "2026-05-04T13:28:28"
+   },
+   {
+    "query": "how to expedite stuck PO approval workflow",
+    "time": "2026-05-05T09:09:24"
+   },
+   {
+    "query": "late fee penalty clause supplier contract enforceable ohio",
+    "time": "2026-05-05T17:45:21"
+   },
+   {
+    "query": "buckeye auto logistics news contract",
+    "time": "2026-05-06T07:01:55"
+   },
+   {
+    "query": "single source supplier risk mitigation supply chain",
+    "time": "2026-05-06T15:20:31"
+   },
+   {
+    "query": "year end procurement savings report template",
+    "time": "2026-05-07T12:04:45"
+   },
+   {
+    "query": "procurement director salary columbus 2026",
+    "time": "2026-05-08T06:50:44"
+   },
+   {
+    "query": "supply chain executive headhunter confidential discreet",
+    "time": "2026-05-08T12:24:33"
+   },
+   {
+    "query": "update linkedin without notifying network",
+    "time": "2026-05-09T11:27:25"
+   },
+   {
+    "query": "non compete enforceability ohio procurement exec",
+    "time": "2026-05-09T13:44:51"
+   },
+   {
+    "query": "fall lawn aeration overseeding schedule ohio",
+    "time": "2026-05-10T09:19:31"
+   },
+   {
+    "query": "best steakhouse near dublin ohio anniversary",
+    "time": "2026-05-10T17:57:11"
+   },
+   {
+    "query": "q3 automotive supply chain disruption outlook 2026",
+    "time": "2026-05-11T06:21:54"
+   },
+   {
+    "query": "vp procurement salary range columbus ohio",
+    "time": "2026-05-11T13:08:26"
+   },
+   {
+    "query": "non compete enforceable ohio procurement director",
+    "time": "2026-05-12T10:14:44"
+   },
+   {
+    "query": "how to explain leaving job after 12 yrs interview",
+    "time": "2026-05-12T13:11:39"
+   },
+   {
+    "query": "linkedin open to work recruiters only mode",
+    "time": "2026-05-12T22:06:57"
+   },
+   {
+    "query": "director procurement counteroffer comp negotiation",
+    "time": "2026-05-13T13:30:10"
+   },
+   {
+    "query": "is it normal to feel guilty leaving longtime employer",
+    "time": "2026-05-13T22:02:22"
+   },
+   {
+    "query": "duplicate invoice fraud how to detect",
+    "time": "2026-05-14T06:46:00"
+   },
+   {
+    "query": "business email compromise reporting steps",
+    "time": "2026-05-14T09:38:00"
+   },
+   {
+    "query": "vendor invoice spoofing approver liability",
+    "time": "2026-05-14T16:12:03"
+   },
+   {
+    "query": "recover fraudulent wire payment company process",
+    "time": "2026-05-15T05:15:43"
+   },
+   {
+    "query": "chest tightness stress when to worry",
+    "time": "2026-05-15T12:03:00"
+   },
+   {
+    "query": "quick weekend stress relief techniques",
+    "time": "2026-05-15T21:42:50"
+   },
+   {
+    "query": "fall lawn aeration timing columbus",
+    "time": "2026-05-16T09:09:37"
+   },
+   {
+    "query": "glassdoor reviews target distributor culture",
+    "time": "2026-05-16T22:12:08"
+   },
+   {
+    "query": "procurement director interview questions prep",
+    "time": "2026-05-17T15:48:54"
+   },
+   {
+    "query": "net 30 past due account hold",
+    "time": "2026-05-17T21:42:29"
+   },
+   {
+    "query": "how to report business email compromise fbi ic3",
+    "time": "2026-05-18T06:36:47"
+   },
+   {
+    "query": "cyber insurance claim wire fraud deductible ohio",
+    "time": "2026-05-18T11:54:40"
+   },
+   {
+    "query": "who is liable when company pays fraudulent invoice",
+    "time": "2026-05-19T07:00:36"
+   },
+   {
+    "query": "vp supply chain salary range columbus glassdoor",
+    "time": "2026-05-19T12:29:06"
+   },
+   {
+    "query": "ohio non compete enforceable procurement director",
+    "time": "2026-05-19T22:24:22"
+   },
+   {
+    "query": "behavioral interview questions procurement leadership",
+    "time": "2026-05-20T07:01:49"
+   },
+   {
+    "query": "questions to ask hiring vp turnaround mandate",
+    "time": "2026-05-20T14:30:52"
+   },
+   {
+    "query": "signs interview went well next steps timing",
+    "time": "2026-05-21T10:35:42"
+   },
+   {
+    "query": "counteroffer vs leaving how to negotiate",
+    "time": "2026-05-22T10:05:52"
+   },
+   {
+    "query": "relocation package vs stay total comp calculator",
+    "time": "2026-05-22T12:03:23"
+   },
+   {
+    "query": "things to do in [target metro] neighborhoods",
+    "time": "2026-05-23T13:09:09"
+   },
+   {
+    "query": "columbus housing market sell timeline 2026",
+    "time": "2026-05-23T18:55:12"
+   },
+   {
+    "query": "how to resign without burning bridges net-30 handoff",
+    "time": "2026-05-24T16:56:18"
+   },
+   {
+    "query": "urgent past due account hold vendor",
+    "time": "2026-05-24T20:55:25"
+   },
+   {
+    "query": "cyber insurance claim bec status timeline how long",
+    "time": "2026-05-25T07:55:06"
+   },
+   {
+    "query": "net 30 past due account hold reinstate vendor",
+    "time": "2026-05-25T12:47:11"
+   },
+   {
+    "query": "star method procurement director interview answers",
+    "time": "2026-05-26T08:03:49"
+   },
+   {
+    "query": "columbus to [target metro] commute relocation packages",
+    "time": "2026-05-26T22:19:42"
+   },
+   {
+    "query": "questions to ask final round interview red flags",
+    "time": "2026-05-27T07:14:48"
+   },
+   {
+    "query": "glassdoor [company] director procurement salary range",
+    "time": "2026-05-27T22:47:12"
+   },
+   {
+    "query": "ohio non compete enforceable procurement director",
+    "time": "2026-05-28T08:00:53"
+   },
+   {
+    "query": "counteroffer vs new job how to negotiate",
+    "time": "2026-05-28T16:47:25"
+   },
+   {
+    "query": "equity vesting forfeit if i leave before bonus",
+    "time": "2026-05-29T14:34:31"
+   },
+   {
+    "query": "cost of living [target metro] vs columbus calculator",
+    "time": "2026-05-29T15:07:39"
+   },
+   {
+    "query": "how to resign professionally 2 weeks notice procurement handoff",
+    "time": "2026-05-29T21:28:26"
+   },
+   {
+    "query": "401k rollover new employer timeline",
+    "time": "2026-05-30T12:59:38"
+   },
+   {
+    "query": "cyber insurance bec claim adjuster typical response time",
+    "time": "2026-05-30T18:32:48"
+   },
+   {
+    "query": "will boss retaliate giving notice non compete",
+    "time": "2026-05-31T12:13:36"
+   },
+   {
+    "query": "resignation letter template director short notice",
+    "time": "2026-05-31T16:19:22"
+   },
+   {
+    "query": "urgent past due account hold",
+    "time": "2026-05-31T21:03:36"
+   },
+   {
+    "query": "should i counter offer or accept first tech salary",
+    "time": "2026-06-01T05:42:08"
+   },
+   {
+    "query": "ohio non compete enforceable procurement director",
+    "time": "2026-06-01T09:04:14"
+   },
+   {
+    "query": "401k rollover vs leave with old employer",
+    "time": "2026-06-01T13:42:32"
+   },
+   {
+    "query": "how much notice director level resignation ohio",
+    "time": "2026-06-02T05:30:24"
+   },
+   {
+    "query": "equity vesting forfeit if i leave before bonus",
+    "time": "2026-06-02T06:27:35"
+   },
+   {
+    "query": "cyber insurance bec claim adjuster response time",
+    "time": "2026-06-02T11:21:29"
+   },
+   {
+    "query": "relocation cost columbus to austin family of 2",
+    "time": "2026-06-02T13:59:30"
+   }
+  ],
+  "locations": [
+   {
+    "place": "Regional automotive parts distribution center, Rickenbacker industrial corridor, Columbus, OH",
+    "lat": 39.813228,
+    "lon": -82.919034,
+    "time": "2026-05-04T07:27:58"
+   },
+   {
+    "place": "Regional automotive parts distribution center (AP desk, main office building), Columbus, OH",
+    "lat": 39.813265,
+    "lon": -82.921449,
+    "time": "2026-05-06T07:38:46"
+   },
+   {
+    "place": "Regional automotive parts distribution center parking lot, Columbus, OH",
+    "lat": 39.811118,
+    "lon": -82.920023,
+    "time": "2026-05-07T07:35:29"
+   },
+   {
+    "place": "Regional automotive parts distribution center, Columbus, OH",
+    "lat": 39.811247,
+    "lon": -82.920405,
+    "time": "2026-05-09T07:40:23"
+   },
+   {
+    "place": "The Home Depot, Brice Road, Reynoldsburg/Columbus, OH",
+    "lat": 39.920218,
+    "lon": -82.833356,
+    "time": "2026-05-10T11:05:03"
+   },
+   {
+    "place": "Employee parking lot, regional automotive parts distribution center, Groveport industrial park",
+    "lat": 39.851823,
+    "lon": -82.918474,
+    "time": "2026-05-11T07:20:16"
+   },
+   {
+    "place": "Employee parking lot, distribution center, Groveport industrial park",
+    "lat": 39.85229,
+    "lon": -82.921077,
+    "time": "2026-05-12T07:40:00"
+   },
+   {
+    "place": "Employee parking lot, distribution center, Groveport industrial park",
+    "lat": 39.850483,
+    "lon": -82.91973,
+    "time": "2026-05-13T07:30:18"
+   },
+   {
+    "place": "Far corner of industrial lot near loading-dock perimeter (parked for private call)",
+    "lat": 39.849137,
+    "lon": -82.923785,
+    "time": "2026-05-13T12:32:43"
+   },
+   {
+    "place": "Employee parking lot, distribution center, Groveport industrial park",
+    "lat": 39.850055,
+    "lon": -82.920209,
+    "time": "2026-05-14T07:39:10"
+   },
+   {
+    "place": "Employee parking lot, distribution center, Groveport industrial park",
+    "lat": 39.851846,
+    "lon": -82.91842,
+    "time": "2026-05-15T07:10:04"
+   },
+   {
+    "place": "Employee parking lot, distribution center, Groveport industrial park (departing late)",
+    "lat": 39.850409,
+    "lon": -82.920868,
+    "time": "2026-05-15T18:10:19"
+   },
+   {
+    "place": "Lowe's Home Improvement, Pickerington",
+    "lat": 39.907804,
+    "lon": -82.765615,
+    "time": "2026-05-16T10:19:41"
+   },
+   {
+    "place": "Home, residential subdivision, Pickerington",
+    "lat": 39.884538,
+    "lon": -82.758418,
+    "time": "2026-05-17T11:01:37"
+   },
+   {
+    "place": "Employee parking lot, automotive parts distribution center, Spiegel Dr industrial park, Groveport, OH",
+    "lat": 39.859517,
+    "lon": -82.882598,
+    "time": "2026-05-18T07:30:22"
+   },
+   {
+    "place": "Employee parking lot, distribution center, Groveport, OH (hands-free in vehicle)",
+    "lat": 39.859456,
+    "lon": -82.88498,
+    "time": "2026-05-19T07:48:51"
+   },
+   {
+    "place": "Distribution center office, Groveport, OH",
+    "lat": 39.857843,
+    "lon": -82.883796,
+    "time": "2026-05-20T07:41:59"
+   },
+   {
+    "place": "Home office, residence, Canal Winchester, OH",
+    "lat": 39.841256,
+    "lon": -82.807322,
+    "time": "2026-05-21T08:59:21"
+   },
+   {
+    "place": "Distribution center office, Groveport, OH (late arrival)",
+    "lat": 39.857209,
+    "lon": -82.884759,
+    "time": "2026-05-21T11:27:23"
+   },
+   {
+    "place": "Employee parking lot, distribution center, Groveport, OH",
+    "lat": 39.859045,
+    "lon": -82.882576,
+    "time": "2026-05-22T07:25:40"
+   },
+   {
+    "place": "The Home Depot, Gender Rd, Canal Winchester, OH",
+    "lat": 39.862771,
+    "lon": -82.8267,
+    "time": "2026-05-23T08:38:06"
+   },
+   {
+    "place": "Residence garage / local errands, Canal Winchester, OH",
+    "lat": 39.841513,
+    "lon": -82.805561,
+    "time": "2026-05-24T11:20:16"
+   },
+   {
+    "place": "Regional Automotive Parts Distribution Center, Rickenbacker Industrial Park, Groveport, OH",
+    "lat": 39.814476,
+    "lon": -82.922444,
+    "time": "2026-05-25T07:28:53"
+   },
+   {
+    "place": "Embassy Suites by Hilton Columbus Airport, Easton area, Columbus, OH",
+    "lat": 40.051523,
+    "lon": -82.916301,
+    "time": "2026-05-27T11:06:46"
+   },
+   {
+    "place": "Embassy Suites parking lot, Easton area, Columbus, OH",
+    "lat": 40.049926,
+    "lon": -82.916681,
+    "time": "2026-05-27T14:47:32"
+   },
+   {
+    "place": "Regional Automotive Parts Distribution Center, Rickenbacker Industrial Park, Groveport, OH",
+    "lat": 39.813531,
+    "lon": -82.924525,
+    "time": "2026-05-28T07:53:09"
+   },
+   {
+    "place": "The Home Depot, Hamilton Rd, Gahanna, OH",
+    "lat": 40.023601,
+    "lon": -82.879099,
+    "time": "2026-05-30T08:20:20"
+   },
+   {
+    "place": "Home garage, New Albany, OH",
+    "lat": 40.081791,
+    "lon": -82.807298,
+    "time": "2026-05-31T09:06:57"
+   },
+   {
+    "place": "Commerce Park Industrial Lot, Etna/Reynoldsburg, OH",
+    "lat": 39.961564,
+    "lon": -82.74751,
+    "time": "2026-06-01T07:22:54"
+   },
+   {
+    "place": "Office Parking Lot, Eastgate Commerce Center, Columbus, OH",
+    "lat": 39.949037,
+    "lon": -82.823078,
+    "time": "2026-06-02T07:45:05"
+   }
+  ],
+  "calendar": [
+   {
+    "summary": "Weekly Supplier Sync",
+    "time": "2026-05-04T09:14:09"
+   },
+   {
+    "summary": "Emergency Vendor Negotiation Call",
+    "time": "2026-05-05T10:24:20"
+   },
+   {
+    "summary": "1:1 w/ VP Ops — PO Resolution",
+    "time": "2026-05-06T11:25:31"
+   },
+   {
+    "summary": "Focus / Catch-Up — Inbox",
+    "time": "2026-05-07T10:32:55"
+   },
+   {
+    "summary": "Call - 7pm",
+    "time": "2026-05-08T16:11:14"
+   },
+   {
+    "summary": "Cross-Team Sync (Declined)",
+    "time": "2026-05-09T15:14:04"
+   },
+   {
+    "summary": "Buckeye fraud — incident review (VP & Finance)",
+    "time": "2026-05-18T09:59:39"
+   },
+   {
+    "summary": "Personal — offsite",
+    "time": "2026-05-19T10:12:12"
+   },
+   {
+    "summary": "Buckeye Auto Logistics — Q3 Terms Negotiation",
+    "time": "2026-05-25T10:22:17"
+   },
+   {
+    "summary": "Dental appt",
+    "time": "2026-05-26T10:41:38"
+   },
+   {
+    "summary": "Dental appt — follow-up",
+    "time": "2026-05-27T11:36:50"
+   },
+   {
+    "summary": "URGENT: Supply-Chain Sync — Regional Carrier Delay",
+    "time": "2026-05-28T13:28:00"
+   },
+   {
+    "summary": "Dentist follow-up — Dr. office",
+    "time": "2026-06-01T09:33:44"
+   }
+  ],
+  "messages": [
+   {
+    "with": "AP Manager (Dana)",
+    "direction": "out",
+    "text": "Buckeye inv attached — process Net-30, thx. Cleared on my end.",
+    "time": "2026-05-04T12:02:34"
+   },
+   {
+    "with": "VP Operations (Greg)",
+    "direction": "out",
+    "text": "On it. Will close by EOD — no bottleneck on my side.",
+    "time": "2026-05-04T16:27:27"
+   },
+   {
+    "with": "Buckeye Acct Mgr (Tom R.)",
+    "direction": "out",
+    "text": "Tom — PO #44192 doesn't match your invoice qty. Need a corrected one before I can release. Appreciate the quick turn.",
+    "time": "2026-05-05T07:41:21"
+   },
+   {
+    "with": "AP Manager (Dana)",
+    "direction": "out",
+    "text": "Hold payment on 44192 until I confirm the corrected invoice. Don't release yet.",
+    "time": "2026-05-05T12:26:17"
+   },
+   {
+    "with": "AP Manager (Dana)",
+    "direction": "out",
+    "text": "Revised Buckeye inv looks right — approved, release Net-30. Thanks for waiting.",
+    "time": "2026-05-06T09:36:32"
+   },
+   {
+    "with": "VP Operations (Greg)",
+    "direction": "out",
+    "text": "Buckeye sorted. No shipment hold. We're good.",
+    "time": "2026-05-06T13:50:56"
+   },
+   {
+    "with": "AP Manager (Dana)",
+    "direction": "out",
+    "text": "Three routine ones attached — all approved, Net-30 across the board.",
+    "time": "2026-05-07T09:08:31"
+   },
+   {
+    "with": "AP Manager (Dana)",
+    "direction": "out",
+    "text": "Good turnaround this week. Appreciate you keeping pace.",
+    "time": "2026-05-07T15:49:24"
+   },
+   {
+    "with": "AP Manager (Dana)",
+    "direction": "out",
+    "text": "PO approved — forwarding for processing. Net-30.",
+    "time": "2026-05-08T08:53:16"
+   },
+   {
+    "with": "Recruiter (M. Halloran)",
+    "direction": "out",
+    "text": "Got your note. Open to a quiet conversation — evenings best, my personal line only. Keep it off anything work-facing.",
+    "time": "2026-05-08T13:17:25"
+   },
+   {
+    "with": "AP Manager (Dana)",
+    "direction": "out",
+    "text": "Past-due notice came in — forwarding, process Net-30 so we don't get an account hold.",
+    "time": "2026-05-09T09:16:39"
+   },
+   {
+    "with": "Recruiter (M. Halloran)",
+    "direction": "out",
+    "text": "Send the JD here, I'll review quietly tonight. No calls to the office.",
+    "time": "2026-05-09T18:45:34"
+   },
+   {
+    "with": "AP Manager (Dana)",
+    "direction": "out",
+    "text": "Forwarding now so it's queued — process Monday AM, Net-30. Don't want it slipping over the weekend.",
+    "time": "2026-05-10T21:09:43"
+   },
+   {
+    "with": "Accounts Payable Manager",
+    "direction": "outgoing",
+    "time": "2026-05-11T07:50:30",
+    "text": "Fwd from overnight queue — Buckeye Net-30, approved. Push it through, clearing the backlog before standup."
+   },
+   {
+    "with": "Headhunter (Recruiter)",
+    "direction": "incoming",
+    "time": "2026-05-11T11:23:49",
+    "text": "Mark — VP Supply Chain role, Cincinnati base, comp band well north of where you are. JD attached. Worth a confidential 20 min?"
+   },
+   {
+    "with": "Headhunter (Recruiter)",
+    "direction": "outgoing",
+    "time": "2026-05-12T12:09:11",
+    "text": "Read it. Tomorrow 7pm works — this number only, not email. Keep it quiet for now."
+   },
+   {
+    "with": "Accounts Payable Manager",
+    "direction": "outgoing",
+    "time": "2026-05-12T14:51:39",
+    "text": "Another one approved, fwd to you. Don't have time to chase POs today — just get them paid so we're not the holdup."
+   },
+   {
+    "with": "Accounts Payable Manager",
+    "direction": "incoming",
+    "time": "2026-05-13T09:08:15",
+    "text": "That Buckeye invoice from day 6 — I can't match it to any PO in the system. Routing/remit info looks off too. Hold okay?"
+   },
+   {
+    "with": "Accounts Payable Manager",
+    "direction": "outgoing",
+    "time": "2026-05-13T15:46:50",
+    "text": "Pull the PO and verify direct with the vendor before anything moves. Should've flagged at intake. Do it today."
+   },
+   {
+    "with": "Buckeye Account Manager",
+    "direction": "outgoing",
+    "time": "2026-05-14T08:09:29",
+    "text": "Quick one — confirming invoice #BK-4471, ~$48k, Net-30. Is this yours? Remit details don't reconcile on our end."
+   },
+   {
+    "with": "Buckeye Account Manager",
+    "direction": "incoming",
+    "time": "2026-05-14T09:16:35",
+    "text": "Mark, that's not us — we never sent that invoice and that account isn't ours. You'll want to lock it down."
+   },
+   {
+    "with": "Accounts Payable Manager",
+    "direction": "outgoing",
+    "time": "2026-05-14T10:25:12",
+    "text": "HALT BK-4471 immediately. Vendor confirms it's fraudulent. Do not release a cent. Confirm it's stopped."
+   },
+   {
+    "with": "VP of Operations",
+    "direction": "outgoing",
+    "time": "2026-05-14T13:54:39",
+    "text": "Heads up: caught a spoofed Buckeye invoice mid-process — our controls flagged the PO mismatch and payment is frozen. No loss. Writing up how it slipped intake."
+   },
+   {
+    "with": "VP of Operations",
+    "direction": "outgoing",
+    "time": "2026-05-15T11:19:53",
+    "text": "Update: zero dollars out the door, account isolated, AP retraining on dual-verify for any new remit. Fully contained on my end."
+   },
+   {
+    "with": "Headhunter (Recruiter)",
+    "direction": "outgoing",
+    "time": "2026-05-15T14:47:10",
+    "text": "Crazy week here. Still want to move on the Cincinnati conversation — what's the next step? Same line, after 6."
+   },
+   {
+    "with": "Spouse",
+    "direction": "outgoing",
+    "time": "2026-05-16T19:49:16",
+    "text": "Long one. Can we just do the Italian place at 7:30? Don't feel like cooking the house feels too quiet anyway."
+   },
+   {
+    "with": "Accounts Payable Manager",
+    "direction": "outgoing",
+    "time": "2026-05-17T20:56:51",
+    "text": "Bulk fwd of the weekend vendor batch — but verify every PO and remit before paying after that Buckeye mess. No exceptions now."
+   },
+   {
+    "with": "Accounts Payable Manager",
+    "direction": "to",
+    "text": "AP — these 3 are cleared, process today. Net-30 clock is ticking. Don't sit on them.",
+    "time": "2026-05-18T08:59:18"
+   },
+   {
+    "with": "VP of Operations",
+    "direction": "to",
+    "text": "Payment halt confirmed on the Buckeye account. Resolved before EOD. No bottleneck on my end.",
+    "time": "2026-05-18T16:45:58"
+   },
+   {
+    "with": "Recruiter (headhunter)",
+    "direction": "to",
+    "text": "Thurs AM works. Use this number, not my work line. Keep it quiet for now.",
+    "time": "2026-05-19T09:25:24"
+   },
+   {
+    "with": "Finance Lead",
+    "direction": "to",
+    "text": "Draft write-up attached re: the spoofed invoice batch. Still gut-checking the dollar figure. Don't circulate yet.",
+    "time": "2026-05-19T15:16:36"
+   },
+   {
+    "with": "Accounts Payable Manager",
+    "direction": "to",
+    "text": "Two more URGENT Net-30s coming your way — push them through. Can't have another account hold.",
+    "time": "2026-05-20T09:09:10"
+   },
+   {
+    "with": "Recruiter (headhunter)",
+    "direction": "from",
+    "text": "Confirmed — you'll meet R. Castellano. Video link sent to your personal email. Looking strong.",
+    "time": "2026-05-20T20:45:22"
+   },
+   {
+    "with": "Executive Assistant",
+    "direction": "to",
+    "text": "Out for an appointment till 11. Hold the calendar, route anything urgent to my cell.",
+    "time": "2026-05-21T07:00:51"
+   },
+   {
+    "with": "Accounts Payable Manager",
+    "direction": "to",
+    "text": "Backlog batch forwarded — clear them all today, I want this desk empty by Friday.",
+    "time": "2026-05-21T13:35:44"
+   },
+   {
+    "with": "R. Castellano (interviewer)",
+    "direction": "to",
+    "text": "Appreciated the conversation today. The operational scope you described is exactly the challenge I'm looking for. — sent from personal",
+    "time": "2026-05-21T16:54:47"
+   },
+   {
+    "with": "Recruiter (headhunter)",
+    "direction": "from",
+    "text": "They want a final round. How's next week? They're moving fast on you.",
+    "time": "2026-05-22T09:06:51"
+   },
+   {
+    "with": "VP of Operations",
+    "direction": "to",
+    "text": "Closing the loop — cyber-insurance claim filed on the invoice incident. Controls tightened. Handled.",
+    "time": "2026-05-22T14:04:21"
+   },
+   {
+    "with": "Recruiter (headhunter)",
+    "direction": "to",
+    "text": "Final round logistics — can we do it off-site or virtual? Can't risk it showing on my work calendar.",
+    "time": "2026-05-23T15:46:10"
+   },
+   {
+    "with": "Accounts Payable Manager",
+    "direction": "to",
+    "text": "Pre-loading these for Monday AM — process first thing. Don't want them aging over the weekend.",
+    "time": "2026-05-24T20:43:54"
+   },
+   {
+    "with": "AP Manager (Dana)",
+    "direction": "out",
+    "text": "Weekend batch attached. All approved, process today. Don't sit on these — vendors will start calling.",
+    "time": "2026-05-25T09:31:03"
+   },
+   {
+    "with": "VP Operations (Reichert)",
+    "direction": "out",
+    "text": "Write-up's 90% there. Two loose ends on the dock-timing column, I'll close them by EOD. It won't bottleneck the review.",
+    "time": "2026-05-25T15:11:34"
+   },
+   {
+    "with": "M. Strand (recruiter)",
+    "direction": "out",
+    "text": "Confirmed for Thu final round. Same arrangement — my cell only, nothing to the work address. I can do 11–1.",
+    "time": "2026-05-26T06:18:03"
+   },
+   {
+    "with": "AP Manager (Dana)",
+    "direction": "out",
+    "text": "Buckeye invoice — approved, push it through. Slammed today, just clear it.",
+    "time": "2026-05-26T16:33:25"
+   },
+   {
+    "with": "Wife (Karen)",
+    "direction": "out",
+    "text": "Running late, got an appointment midday. Don't hold lunch. Talk tonight.",
+    "time": "2026-05-27T08:22:18"
+   },
+   {
+    "with": "M. Strand (recruiter)",
+    "direction": "out",
+    "text": "Felt strong in there. Comp conversation is the next step — let me know what they come back with before anything's in writing.",
+    "time": "2026-05-27T14:55:53"
+   },
+   {
+    "with": "AP Manager (Dana)",
+    "direction": "in",
+    "text": "Hey — the Buckeye one you forwarded looks like a dupe of #4471 from last week. Same amount. Want me to hold it?",
+    "time": "2026-05-28T11:24:39"
+   },
+   {
+    "with": "Vendor — Buckeye (Tom)",
+    "direction": "out",
+    "text": "Got your terms note. Half out the door right now — let's circle back Mon, I'll have a real answer.",
+    "time": "2026-05-29T09:24:34"
+   },
+   {
+    "with": "M. Strand (recruiter)",
+    "direction": "in",
+    "text": "Verbal offer is in — they're excited about you. Congrats, you earned it. Call when you can to walk through the numbers.",
+    "time": "2026-05-29T14:26:27"
+   },
+   {
+    "with": "Wife (Karen)",
+    "direction": "out",
+    "text": "We need to talk this weekend. Nothing wrong, just something I've been sitting on. I'll explain at home.",
+    "time": "2026-05-29T17:25:38"
+   },
+   {
+    "with": "Wife (Karen)",
+    "direction": "out",
+    "text": "I know it's a lot to spring on you. It'd mean leaving Columbus — the house, your sister, all of it. I'm not saying yes, I just can't keep doing this here. I want to figure it out together, not alone.",
+    "time": "2026-05-30T15:32:55"
+   },
+   {
+    "with": "M. Strand (recruiter)",
+    "direction": "in",
+    "text": "No pressure — they know it's a big move. Reviewing on their end, formal decision Mon. Take the weekend.",
+    "time": "2026-05-31T19:13:28"
+   },
+   {
+    "with": "Recruiter (personal cell)",
+    "direction": "sent",
+    "text": "Can we talk before 9? Need to confirm numbers before I'm chained to back-to-backs all day. Use this cell, not email.",
+    "time": "2026-06-01T06:10:39"
+   },
+   {
+    "with": "Recruiter (personal cell)",
+    "direction": "received",
+    "text": "Locked in 8:30. Comp looks strong. One thing — they'll want a sense on relocation. Think about a number.",
+    "time": "2026-06-01T11:52:49"
+   },
+   {
+    "with": "Wife",
+    "direction": "sent",
+    "text": "Big news tonight. Nothing bad — good kind. Let's talk after dinner, just us.",
+    "time": "2026-06-01T18:06:30"
+   },
+   {
+    "with": "Recruiter (personal cell)",
+    "direction": "sent",
+    "text": "I'm in. Accepting. Send the formal paperwork — verbal yes from me tonight. Keep it to this number for now.",
+    "time": "2026-06-01T21:05:02"
+   },
+   {
+    "with": "Accounts Payable Manager",
+    "direction": "sent",
+    "text": "Pull both of those, my error. I'll verify the vendor directly before anything goes out. Don't process.",
+    "time": "2026-06-02T09:36:52"
+   },
+   {
+    "with": "Wife",
+    "direction": "sent",
+    "text": "Adjuster finally called back — Thursday call scheduled. Forwarding you the details so we're on the same page.",
+    "time": "2026-06-02T12:36:31"
+   },
+   {
+    "with": "Wife",
+    "direction": "sent",
+    "text": "Told them yes. Now we figure out the how and when together. I'm ready to be home more.",
+    "time": "2026-06-02T18:31:11"
+   }
+  ],
+  "videos": [
+   {
+    "title": "10 Genius Garage Organization Ideas That Actually Work (Empty Nester Edition)",
+    "channel": "The Garage Refresh",
+    "time": "2026-05-10T14:11:21"
+   },
+   {
+    "title": "How to Winterize Your Lawn (Fall Lawn Care Tips for Beginners)",
+    "channel": "The Lawn Care Nut",
+    "time": "2026-05-16T13:03:38"
+   },
+   {
+    "title": "How to Answer Behavioral Interview Questions Using the STAR Method",
+    "channel": "Jeff Su",
+    "time": "2026-05-20T12:10:55"
+   },
+   {
+    "title": "Private Meeting",
+    "channel": "Zoom",
+    "time": "2026-05-21T09:03:31"
+   },
+   {
+    "title": "How to Project Executive Presence in High-Stakes Panel Interviews",
+    "channel": "Harvard Business Review",
+    "time": "2026-05-26T13:00:08"
+   }
+  ]
+ },
+ "_meta": {
+  "total_days": 30,
+  "n_events": 245
+ }
+}

@@ -1,0 +1,443 @@
+{
+ "persona_id": "?:1",
+ "persona_slug": "The Automated Phisher",
+ "intake_version": "synth-activity-v2-chunked",
+ "samples": {
+  "locations": [
+   {
+    "place": "Starbucks, Oak Brook Plaza",
+    "lat": 41.853525,
+    "lon": -87.921401,
+    "time": "2026-05-04T12:08:52"
+   },
+   {
+    "place": "The Oak Brook Sports Bar",
+    "lat": 41.856173,
+    "lon": -87.91517,
+    "time": "2026-05-06T18:34:30"
+   },
+   {
+    "place": "The Publican, West Loop",
+    "lat": 41.884039,
+    "lon": -87.655011,
+    "time": "2026-05-07T18:57:45"
+   },
+   {
+    "place": "Morton Arboretum",
+    "lat": 41.783855,
+    "lon": -87.983931,
+    "time": "2026-05-09T09:52:26"
+   },
+   {
+    "place": "Naperville Soccer Complex",
+    "lat": 41.774452,
+    "lon": -88.154741,
+    "time": "2026-05-09T13:36:01"
+   },
+   {
+    "place": "The Oak Brook Sports Bar",
+    "lat": 41.853573,
+    "lon": -87.854447,
+    "time": "2026-05-13T19:33:43"
+   },
+   {
+    "place": "The Publican",
+    "lat": 41.885022,
+    "lon": -87.657499,
+    "time": "2026-05-14T18:43:48"
+   },
+   {
+    "place": "Brookfield Zoo",
+    "lat": 41.822481,
+    "lon": -87.831985,
+    "time": "2026-05-16T10:40:07"
+   },
+   {
+    "place": "Oak Brook Residential Area",
+    "lat": 41.843816,
+    "lon": -87.951169,
+    "time": "2026-05-25T18:28:24"
+   },
+   {
+    "place": "I-88 Westbound, near Naperville",
+    "lat": 41.78527,
+    "lon": -88.204877,
+    "time": "2026-05-26T08:08:41"
+   },
+   {
+    "place": "Starbucks, Oak Brook Plaza",
+    "lat": 41.839617,
+    "lon": -87.94308,
+    "time": "2026-05-26T12:00:43"
+   },
+   {
+    "place": "The Oak Brook Sports Bar",
+    "lat": 41.839349,
+    "lon": -87.933887,
+    "time": "2026-05-26T19:38:40"
+   },
+   {
+    "place": "I-88 Eastbound, near Downers Grove",
+    "lat": 41.796273,
+    "lon": -88.051023,
+    "time": "2026-05-28T08:03:38"
+   },
+   {
+    "place": "Starbucks, Oak Brook Plaza",
+    "lat": 41.840668,
+    "lon": -87.942108,
+    "time": "2026-05-29T09:24:09"
+   },
+   {
+    "place": "Brookfield Zoo",
+    "lat": 41.812276,
+    "lon": -87.875832,
+    "time": "2026-05-30T10:06:15"
+   },
+   {
+    "place": "Starbucks, Oak Brook Plaza, IL",
+    "lat": 41.863065,
+    "lon": -87.874938,
+    "time": "2026-06-02T07:56:30"
+   }
+  ],
+  "media": [
+   {
+    "name": "SAP ERP",
+    "time": "2026-05-04T13:57:28"
+   },
+   {
+    "name": "MyFitnessPal",
+    "time": "2026-05-05T19:28:42"
+   },
+   {
+    "name": "None",
+    "time": "2026-05-07T13:44:06"
+   },
+   {
+    "name": "None",
+    "time": "2026-05-08T15:06:37"
+   },
+   {
+    "name": "Weather App",
+    "time": "2026-05-09T08:16:10"
+   },
+   {
+    "name": "Garmin Connect",
+    "time": "2026-05-09T22:22:53"
+   },
+   {
+    "name": "None",
+    "time": "2026-05-04T14:45:12"
+   },
+   {
+    "name": "Starbucks",
+    "time": "2026-05-12T12:02:24"
+   },
+   {
+    "name": "Lifetime Fitness",
+    "time": "2026-05-13T13:08:55"
+   },
+   {
+    "name": "ESPN",
+    "time": "2026-05-15T18:41:37"
+   },
+   {
+    "name": "Lifetime Fitness",
+    "time": "2026-05-16T19:14:05"
+   },
+   {
+    "name": "Google Calendar",
+    "time": "2026-05-17T18:16:56"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-25T05:11:34"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-25T22:09:54"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-26T05:51:33"
+   },
+   {
+    "name": "SAP",
+    "time": "2026-05-27T05:47:49"
+   },
+   {
+    "name": "None",
+    "time": "2026-05-27T13:24:51"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-27T22:34:13"
+   },
+   {
+    "name": "Excel",
+    "time": "2026-05-28T06:09:14"
+   },
+   {
+    "name": "None",
+    "time": "2026-05-28T13:01:09"
+   },
+   {
+    "name": "Google Calendar",
+    "time": "2026-05-28T19:55:19"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-29T05:07:17"
+   },
+   {
+    "name": "None",
+    "time": "2026-05-29T14:14:42"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-29T16:50:40"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-29T21:48:58"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-30T08:06:03"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-30T15:09:49"
+   },
+   {
+    "name": "DoorDash",
+    "time": "2026-05-30T19:08:22"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-31T07:07:46"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-31T20:01:06"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-31T22:46:13"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-06-01T07:23:04"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-06-01T15:44:01"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-06-02T14:49:05"
+   }
+  ],
+  "messages": [
+   {
+    "with": "Family Group",
+    "direction": "To",
+    "text": "Running 15 mins late, don't start dinner.",
+    "time": "2026-05-04T18:51:40"
+   },
+   {
+    "with": "AP Manager",
+    "direction": "To",
+    "text": "Please expedite invoice #8829. Need this cleared ASAP to avoid service disruption.",
+    "time": "2026-05-05T12:09:29"
+   },
+   {
+    "with": "VP of Operations",
+    "direction": "To",
+    "text": "Heads up: potential shipment delay on the Midwest corridor. Assessing impact now.",
+    "time": "2026-05-06T11:16:06"
+   },
+   {
+    "with": "Hidden Broker",
+    "direction": "To",
+    "text": "Need a workaround for the Savannah load. Can we bypass the standard lane protocols?",
+    "time": "2026-05-06T20:19:02"
+   },
+   {
+    "with": "AP Manager",
+    "direction": "To",
+    "text": "Need payment processed for the new carrier ASAP. We can't afford a bottleneck here.",
+    "time": "2026-05-07T16:32:19"
+   },
+   {
+    "with": "3PL Account Manager",
+    "direction": "To",
+    "text": "Confirming the new delivery window for the Chicago hub. Please ensure alignment.",
+    "time": "2026-05-08T08:45:11"
+   },
+   {
+    "with": "Spouse",
+    "direction": "To",
+    "text": "Finally caught up, heading home now.",
+    "time": "2026-05-08T19:11:00"
+   },
+   {
+    "with": "Family Group",
+    "direction": "To",
+    "text": "Pizza for dinner?",
+    "time": "2026-05-09T17:40:25"
+   },
+   {
+    "with": "Spouse",
+    "direction": "To",
+    "text": "Need to prep for the Monday morning meeting. Won't be much later.",
+    "time": "2026-05-10T19:09:21"
+   },
+   {
+    "with": "Family Group Chat",
+    "direction": "to",
+    "text": "Who's driving? Still stuck in meetings. Send the updated schedule.",
+    "time": "2026-05-11T18:27:52"
+   },
+   {
+    "with": "Grey-market Broker",
+    "direction": "to",
+    "text": "The Midwest route is stalled. Need you to expedite the bypass. Send the invoice via the usual channel. No paper trail.",
+    "time": "2026-05-13T20:19:47"
+   },
+   {
+    "with": "AP Manager",
+    "direction": "to",
+    "text": "See attached. Discrepancy on the Miller shipment. Need this reconciled before EOD to avoid a hold. No bandwidth for delays.",
+    "time": "2026-05-25T07:49:31"
+   },
+   {
+    "with": "3PL Account Manager",
+    "direction": "to",
+    "text": "The volume figures on the Q3 report are inaccurate. Re-verify the manifests and send updated numbers by 2 PM. We can't have this impacting the throughput.",
+    "time": "2026-05-25T11:09:22"
+   },
+   {
+    "with": "Logistics Team",
+    "direction": "to",
+    "text": "Still missing the BOLs for the Midwest route. This is creating a massive bottleneck. I need these uploaded to the portal immediately. We can't afford the downtime.",
+    "time": "2026-05-27T16:13:47"
+   },
+   {
+    "with": "VP of Operations",
+    "direction": "to",
+    "text": "Audit progress is steady. Reviewing vendor compliance docs now. No red flags to report yet, but I'll flag any actionable discrepancies by Monday.",
+    "time": "2026-05-28T17:46:22"
+   },
+   {
+    "with": "AP Manager",
+    "direction": "to",
+    "text": "Priority item for tomorrow morning: The broker invoice needs immediate clearance. If this isn't processed by 9 AM, we're looking at a service suspension. Please confirm once the wire is initiated.",
+    "time": "2026-05-31T17:18:44"
+   },
+   {
+    "with": "Accounts Payable Manager",
+    "direction": "to",
+    "text": "Need that vendor payment cleared by EOD tomorrow. Can't risk a service hold. Critical.",
+    "time": "2026-06-02T21:23:39"
+   }
+  ],
+  "calendar": [
+   {
+    "summary": "Q3 Vendor Performance Review: KPI & Value-Add Audit",
+    "time": "2026-05-05T09:05:53"
+   },
+   {
+    "summary": "URGENT: Logistics War Room - Supply Chain Bottleneck Mitigation",
+    "time": "2026-05-07T09:58:10"
+   },
+   {
+    "summary": "Review: Monday Vendor Schedule & Bandwidth Assessment",
+    "time": "2026-05-10T16:42:32"
+   },
+   {
+    "summary": "Weekly Logistics Sync",
+    "time": "2026-05-11T11:22:16"
+   },
+   {
+    "summary": "Quarterly Vendor Review",
+    "time": "2026-05-14T11:15:47"
+   },
+   {
+    "summary": "Weekly Operational Review",
+    "time": "2026-05-15T12:06:59"
+   },
+   {
+    "summary": "Q3 Logistics Vendor Review: Performance metrics & contract alignment",
+    "time": "2026-05-25T10:14:40"
+   },
+   {
+    "summary": "Internal Audit: Procurement Expenditure Review - Budget variance analysis",
+    "time": "2026-05-27T09:09:34"
+   },
+   {
+    "summary": "Review: Monday's high-priority agenda & operational bottlenecks",
+    "time": "2026-05-31T14:21:48"
+   },
+   {
+    "summary": "Internal Briefing: 3PL Contract Renegotiation Strategy",
+    "time": "2026-06-01T09:52:21"
+   }
+  ],
+  "searches": [
+   "rail alternatives savannah",
+   "midwest rail freight availablity",
+   "hardware store hours",
+   "logistics conference dates",
+   {
+    "query": "chicago youth soccer scores",
+    "time": "2026-05-16T14:10:03"
+   },
+   {
+    "query": "midwest port congestion",
+    "time": "2026-05-17T11:26:24"
+   },
+   {
+    "query": "shipping error penalty clauses",
+    "time": "2026-05-25T16:45:18"
+   },
+   {
+    "query": "alt freight rates",
+    "time": "2026-05-26T21:36:09"
+   },
+   {
+    "query": "q2 vendor invoices",
+    "time": "2026-05-27T11:07:40"
+   },
+   {
+    "query": "reconciling vendor credits doc",
+    "time": "2026-05-28T09:48:42"
+   },
+   {
+    "query": "logistics strikes news",
+    "time": "2026-05-29T10:51:40"
+   },
+   {
+    "query": "local soccer results",
+    "time": "2026-05-30T13:17:06"
+   },
+   {
+    "query": "warehouse automation trends",
+    "time": "2026-05-31T10:53:21"
+   },
+   {
+    "query": "sla penalty clauses logistics delay",
+    "time": "2026-06-01T20:19:00"
+   },
+   {
+    "query": "freight brokers naperville",
+    "time": "2026-06-02T19:52:43"
+   }
+  ]
+ },
+ "_meta": {
+  "total_days": 30,
+  "n_events": 153
+ }
+}

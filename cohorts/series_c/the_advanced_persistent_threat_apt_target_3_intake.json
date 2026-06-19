@@ -1,0 +1,575 @@
+{
+ "persona_id": "?:3",
+ "persona_slug": "The Advanced Persistent Threat (APT)",
+ "intake_version": "synth-activity-v2-chunked",
+ "samples": {
+  "media": [
+   {
+    "name": "Calm app",
+    "time": "2026-05-04T06:31:27"
+   },
+   {
+    "name": "Work email/Slack",
+    "time": "2026-05-04T12:13:52"
+   },
+   {
+    "name": "Instagram/Twitter",
+    "time": "2026-05-05T06:26:47"
+   },
+   {
+    "name": "Work email/Slack",
+    "time": "2026-05-06T09:04:34"
+   },
+   {
+    "name": "Calm app",
+    "time": "2026-05-07T06:13:14"
+   },
+   {
+    "name": "Work email/Slack",
+    "time": "2026-05-07T12:33:57"
+   },
+   {
+    "name": "Work email/Slack",
+    "time": "2026-05-08T09:15:36"
+   },
+   {
+    "name": "Personal email/Social media",
+    "time": "2026-05-09T12:16:52"
+   },
+   {
+    "name": "Personal email/Social media",
+    "time": "2026-05-10T12:22:46"
+   },
+   {
+    "name": "Calm app",
+    "time": "2026-05-12T06:54:27"
+   },
+   {
+    "name": "Peloton app",
+    "time": "2026-05-14T06:08:52"
+   },
+   {
+    "name": "Calm app",
+    "time": "2026-05-16T06:36:47"
+   },
+   {
+    "name": "Calm",
+    "time": "2026-05-18T12:54:27"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-19T14:08:52"
+   },
+   {
+    "name": "Google Maps",
+    "time": "2026-05-21T12:26:47"
+   },
+   {
+    "name": "WebMD",
+    "time": "2026-05-23T09:54:34"
+   },
+   {
+    "name": "Calm",
+    "time": "2026-05-24T11:18:14"
+   },
+   {
+    "name": "Calm app",
+    "time": "2026-05-25T14:54:27"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-26T13:38:52"
+   },
+   {
+    "name": "Google Drive",
+    "time": "2026-05-27T12:46:47"
+   },
+   {
+    "name": "Trello",
+    "time": "2026-05-28T14:04:34"
+   },
+   {
+    "name": "Google Drive",
+    "time": "2026-05-29T12:28:14"
+   },
+   {
+    "name": "Calm app",
+    "time": "2026-05-31T11:38:57"
+   },
+   {
+    "name": "Email",
+    "time": "2026-06-01T12:34:27"
+   },
+   {
+    "name": "Zillow",
+    "time": "2026-06-01T21:48:52"
+   },
+   {
+    "name": "Apple Health",
+    "time": "2026-06-02T17:06:47"
+   }
+  ],
+  "searches": [
+   {
+    "query": "nyt news today",
+    "time": "2026-05-04T06:59:19"
+   },
+   {
+    "query": "national defense authorization act summary",
+    "time": "2026-05-04T13:56:33"
+   },
+   {
+    "query": "ndaa markup latest news",
+    "time": "2026-05-06T06:57:59"
+   },
+   {
+    "query": "policy briefs on ndaa",
+    "time": "2026-05-06T13:59:02"
+   },
+   {
+    "query": "ndaa updates this week",
+    "time": "2026-05-08T07:11:05"
+   },
+   {
+    "query": "final ndaa bill text",
+    "time": "2026-05-08T14:12:33"
+   },
+   {
+    "query": "healthy dinner recipes for family",
+    "time": "2026-05-09T14:11:42"
+   },
+   {
+    "query": "upcoming policy events in dc",
+    "time": "2026-05-10T13:50:11"
+   },
+   {
+    "query": "dc weather today",
+    "time": "2026-05-11T06:37:19"
+   },
+   {
+    "query": "ndaa section 1265",
+    "time": "2026-05-11T14:41:33"
+   },
+   {
+    "query": "georgetown mpp program",
+    "time": "2026-05-12T10:47:59"
+   },
+   {
+    "query": "federal budget process",
+    "time": "2026-05-13T11:39:02"
+   },
+   {
+    "query": "georgetown mpp requirements",
+    "time": "2026-05-14T10:56:05"
+   },
+   {
+    "query": "public policy essay topics",
+    "time": "2026-05-15T12:02:33"
+   },
+   {
+    "query": "georgetown mpp curriculum",
+    "time": "2026-05-16T10:41:42"
+   },
+   {
+    "query": "omb budget guidance",
+    "time": "2026-05-17T11:10:11"
+   },
+   {
+    "query": "georgetown mpp requirements",
+    "time": "2026-05-18T06:47:19"
+   },
+   {
+    "query": "ndaa updates",
+    "time": "2026-05-18T15:16:33"
+   },
+   {
+    "query": "mpp personal statement tips",
+    "time": "2026-05-19T07:47:59"
+   },
+   {
+    "query": "georgetown mpp application deadline",
+    "time": "2026-05-20T09:19:02"
+   },
+   {
+    "query": "easy dessert recipes",
+    "time": "2026-05-22T14:51:05"
+   },
+   {
+    "query": "common cold symptoms",
+    "time": "2026-05-23T07:22:33"
+   },
+   {
+    "query": "working with a cold",
+    "time": "2026-05-24T08:51:42"
+   },
+   {
+    "query": "georgetown mpp deadline",
+    "time": "2026-05-25T06:47:19"
+   },
+   {
+    "query": "policy analysis techniques",
+    "time": "2026-05-25T12:06:33"
+   },
+   {
+    "query": "best mpp programs in us",
+    "time": "2026-05-26T08:47:59"
+   },
+   {
+    "query": "career development for policy analysts",
+    "time": "2026-05-26T16:09:02"
+   },
+   {
+    "query": "georgetown mpp application deadline",
+    "time": "2026-05-27T07:11:05"
+   },
+   {
+    "query": "policy topics for mpp application",
+    "time": "2026-05-27T15:32:33"
+   },
+   {
+    "query": "mpp application status check",
+    "time": "2026-05-28T08:26:42"
+   },
+   {
+    "query": "top mpp programs for policy career",
+    "time": "2026-05-28T17:00:11"
+   },
+   {
+    "query": "georgetown mpp program deadline",
+    "time": "2026-05-29T07:18:02"
+   },
+   {
+    "query": "policy research topics for mpp",
+    "time": "2026-05-29T15:40:08"
+   },
+   {
+    "query": "georgetown mpp application update",
+    "time": "2026-05-31T09:06:23"
+   },
+   {
+    "query": "career advice for policy professionals",
+    "time": "2026-05-31T14:47:07"
+   }
+  ],
+  "locations": [
+   {
+    "place": "Office in Crystal City",
+    "lat": 38.858944,
+    "lon": -77.043742,
+    "time": "2026-05-04T08:55:22"
+   },
+   {
+    "place": "CVS Clarendon",
+    "lat": 38.890095,
+    "lon": -77.106305,
+    "time": "2026-05-05T12:13:26"
+   },
+   {
+    "place": "Office in Crystal City",
+    "lat": 38.858459,
+    "lon": -77.043941,
+    "time": "2026-05-06T16:50:54"
+   },
+   {
+    "place": "Office in Crystal City",
+    "lat": 38.858461,
+    "lon": -77.04384,
+    "time": "2026-05-08T17:07:47"
+   },
+   {
+    "place": "Family event location",
+    "lat": 38.881096,
+    "lon": -77.071667,
+    "time": "2026-05-09T16:58:05"
+   },
+   {
+    "place": "Home in Clarendon",
+    "lat": 38.89073,
+    "lon": -77.104175,
+    "time": "2026-05-10T16:54:50"
+   },
+   {
+    "place": "Office",
+    "lat": 38.891044,
+    "lon": -77.021542,
+    "time": "2026-05-11T08:25:22"
+   },
+   {
+    "place": "Sweetgreen",
+    "lat": 38.891995,
+    "lon": -77.031005,
+    "time": "2026-05-12T13:03:26"
+   },
+   {
+    "place": "Office",
+    "lat": 38.890559,
+    "lon": -77.021741,
+    "time": "2026-05-14T13:50:54"
+   },
+   {
+    "place": "The Hamilton",
+    "lat": 38.897861,
+    "lon": -77.02304,
+    "time": "2026-05-16T13:52:47"
+   },
+   {
+    "place": "Home",
+    "lat": 38.883944,
+    "lon": -77.100442,
+    "time": "2026-05-21T08:10:22"
+   },
+   {
+    "place": "Partner's family home",
+    "lat": 38.933995,
+    "lon": -77.120105,
+    "time": "2026-05-22T09:48:26"
+   },
+   {
+    "place": "Home",
+    "lat": 38.892944,
+    "lon": -77.107142,
+    "time": "2026-05-25T18:40:22"
+   },
+   {
+    "place": "Partner's workplace (downtown DC)",
+    "lat": 38.905095,
+    "lon": -77.034505,
+    "time": "2026-05-30T17:48:26"
+   },
+   {
+    "place": "Crystal City SCIF-adjacent suite",
+    "lat": 38.858944,
+    "lon": -77.047142,
+    "time": "2026-06-01T08:25:22"
+   },
+   {
+    "place": "Home office (Clarendon neighborhood)",
+    "lat": 38.890095,
+    "lon": -77.095405,
+    "time": "2026-06-02T07:48:26"
+   }
+  ],
+  "messages": [
+   {
+    "with": "Daniel Reyes",
+    "direction": "to",
+    "text": "Hey love, want to grab dinner at 7? I had a long day at the office and could use some unwinding",
+    "time": "2026-05-04T17:02:49"
+   },
+   {
+    "with": "Priya Nair",
+    "direction": "to",
+    "text": "Priya, I need those numbers ASAP or we'll miss the deadline. Can you please send them over?",
+    "time": "2026-05-06T10:53:00"
+   },
+   {
+    "with": "Priya Nair",
+    "direction": "to",
+    "text": "Priya, I'm getting anxious about this deadline. If we don't get those numbers in the next hour, I'll have to escalate and it won't be pretty. Please tell me you have an update",
+    "time": "2026-05-08T11:04:54"
+   },
+   {
+    "with": "Daniel Reyes",
+    "direction": "to",
+    "text": "Hey love, just got to the office. Looking forward to dinner tonight!",
+    "time": "2026-05-11T12:32:49"
+   },
+   {
+    "with": "Priya Nair",
+    "direction": "from",
+    "text": "Hey! Just saw your post about the new coffee shop. Want to grab coffee there this week?",
+    "time": "2026-05-12T07:53:00"
+   },
+   {
+    "with": "Professor Adams",
+    "direction": "to",
+    "text": "Hi Professor Adams, I'm reaching out to inquire about the MPP program at Georgetown. Could we schedule a meeting to discuss my application?",
+    "time": "2026-05-13T09:04:54"
+   },
+   {
+    "with": "Linda Carter",
+    "direction": "from",
+    "text": "Hey sweetie, just checking in. How was your week? Don't forget to call me on Sunday!",
+    "time": "2026-05-14T08:37:31"
+   },
+   {
+    "with": "Daniel Reyes",
+    "direction": "to",
+    "text": "Good morning! Just got to the office. Looking forward to our dinner plans tonight.",
+    "time": "2026-05-15T09:21:58"
+   },
+   {
+    "with": "Priya Nair",
+    "direction": "from",
+    "text": "Hey! Just got out of a meeting. Want to grab lunch today and catch up?",
+    "time": "2026-05-16T08:55:38"
+   },
+   {
+    "with": "Marcus Hale",
+    "direction": "to",
+    "text": "Hey Marcus, hope you're doing well. Just wanted to follow up on our last conversation.",
+    "time": "2026-05-17T09:26:20"
+   },
+   {
+    "with": "Daniel Reyes",
+    "direction": "to",
+    "text": "Hey, just a reminder that the application deadline for the MPP program at Georgetown is coming up on the 25th. Have you thought about whether I should apply this cycle or wait?",
+    "time": "2026-05-18T08:12:49"
+   },
+   {
+    "with": "Colleague (Priya Nair)",
+    "direction": "from",
+    "text": "Hi, hope you're doing well. Just wanted to touch base on the project deadline. Are we still on track to meet it, or do we need to request an extension?",
+    "time": "2026-05-19T10:33:00"
+   },
+   {
+    "with": "Priya Nair",
+    "direction": "to",
+    "text": "Yeah, I've been making good progress on my MPP application. Just need to finish the personal statement and I'll be ready to submit. How about you, have you heard back from any of the programs you applied to?",
+    "time": "2026-05-20T11:54:54"
+   },
+   {
+    "with": "Daniel Reyes",
+    "direction": "to",
+    "text": "Hey, not feeling great today. Think I might be coming down with something. Will probably just stay home and rest. Can you pick up something for dinner on your way back?",
+    "time": "2026-05-23T12:17:31"
+   },
+   {
+    "with": "Daniel Reyes",
+    "direction": "to",
+    "text": "Good morning, love. Just got to the office. You?",
+    "time": "2026-05-25T07:17:49"
+   },
+   {
+    "with": "Daniel Reyes",
+    "direction": "from",
+    "text": "I was thinking, have you considered how an MPP from Georgetown could impact your career trajectory?",
+    "time": "2026-05-26T11:13:00"
+   },
+   {
+    "with": "Colleague (Priya Nair)",
+    "direction": "to",
+    "text": "Hey, can I get your honest feedback on my MPP application? Specifically, the personal statement?",
+    "time": "2026-05-27T09:34:54"
+   },
+   {
+    "with": "Daniel Reyes",
+    "direction": "from",
+    "text": "I was thinking, given your experience with NDAA, an MPP could really boost your career. What do you think about focusing on international relations for your concentration?",
+    "time": "2026-05-28T10:52:31"
+   },
+   {
+    "with": "Colleague (Priya Nair)",
+    "direction": "from",
+    "text": "I've taken a look at your application. I think you have a strong chance, but you might want to rephrase your personal statement to better align with the program's focus areas.",
+    "time": "2026-05-29T09:51:58"
+   },
+   {
+    "with": "Daniel Reyes",
+    "direction": "to",
+    "text": "Hey, love. I was thinking about that event we're supposed to attend on Saturday. Should we make a day of it and grab brunch beforehand?",
+    "time": "2026-05-30T20:45:38"
+   },
+   {
+    "with": "Daniel Reyes",
+    "direction": "outbound",
+    "text": "Hey love, want to grab dinner at Ambar tonight? I had a long day at the office",
+    "time": "2026-06-01T14:12:49"
+   },
+   {
+    "with": "Priya Nair",
+    "direction": "outbound",
+    "text": "Hey! Just finished the book for club, what time were you thinking for brunch on Sunday?",
+    "time": "2026-06-02T12:03:00"
+   }
+  ],
+  "calendar": [
+   {
+    "summary": "Review daily schedule and meetings",
+    "time": "2026-05-05T09:50:44"
+   },
+   {
+    "summary": "Review daily schedule, meetings, and manage overwhelm",
+    "time": "2026-05-07T10:06:28"
+   },
+   {
+    "summary": "Review daily schedule, meetings, and family event preparations",
+    "time": "2026-05-09T10:02:26"
+   },
+   {
+    "summary": "Review weekly schedule and plan for upcoming events",
+    "time": "2026-05-10T09:42:44"
+   },
+   {
+    "summary": "Weekly Schedule Review",
+    "time": "2026-05-11T17:00:44"
+   },
+   {
+    "summary": "Meeting with Colleague",
+    "time": "2026-05-13T15:26:28"
+   },
+   {
+    "summary": "MPP Application Deadline Check",
+    "time": "2026-05-15T16:12:26"
+   },
+   {
+    "summary": "Weekly Schedule Review",
+    "time": "2026-05-17T15:32:44"
+   },
+   {
+    "summary": "SCIF session",
+    "time": "2026-06-01T09:50:44"
+   },
+   {
+    "summary": "MPP application deadline reminder",
+    "time": "2026-06-02T10:56:28"
+   }
+  ],
+  "videos": [
+   {
+    "title": "TikTok Compilation",
+    "channel": "TikTok",
+    "time": "2026-05-13T07:43:50"
+   },
+   {
+    "title": "US Foreign Policy Analysis",
+    "channel": "Brookings Institution",
+    "time": "2026-05-15T07:11:17"
+   },
+   {
+    "title": "Morning News Briefing",
+    "channel": "CNN",
+    "time": "2026-05-17T07:10:02"
+   },
+   {
+    "title": "Introduction to Policy Analysis",
+    "channel": "Georgetown University",
+    "time": "2026-05-18T18:43:50"
+   },
+   {
+    "title": "The Future of US Foreign Policy",
+    "channel": "Brookings Institution",
+    "time": "2026-05-25T20:28:50"
+   },
+   {
+    "title": "The Daily",
+    "channel": "The New York Times",
+    "time": "2026-06-01T07:18:50"
+   },
+   {
+    "title": "TikTok Compilation",
+    "channel": "TikTok",
+    "time": "2026-06-01T19:16:17"
+   },
+   {
+    "title": "Movie Night",
+    "channel": "Netflix",
+    "time": "2026-06-02T20:25:02"
+   }
+  ]
+ },
+ "_meta": {
+  "total_days": 30,
+  "n_events": 127
+ }
+}

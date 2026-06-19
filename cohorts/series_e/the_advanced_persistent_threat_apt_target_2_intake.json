@@ -1,0 +1,1149 @@
+{
+ "persona_id": "?:2",
+ "persona_slug": "The Advanced Persistent Threat (APT)",
+ "intake_version": "synth-activity-v2-chunked",
+ "samples": {
+  "media": [
+   {
+    "name": "Reddit HN scroll (r/netsec, r/SecurityClearance)",
+    "time": "2026-05-04T05:58:08"
+   },
+   {
+    "name": "Darknet Diaries episode (downloaded)",
+    "time": "2026-05-04T07:21:48"
+   },
+   {
+    "name": "YouTube (LegalEagle) on commute home",
+    "time": "2026-05-04T17:58:17"
+   },
+   {
+    "name": "Obsidian weekly review (no device sync)",
+    "time": "2026-05-04T20:32:48"
+   },
+   {
+    "name": "YouTube (Perun) unwind",
+    "time": "2026-05-04T20:53:08"
+   },
+   {
+    "name": "Reddit r/cscareerquestions – read clearance renewal thread",
+    "time": "2026-05-05T06:17:05"
+   },
+   {
+    "name": "Read Schneier blog post (cached)",
+    "time": "2026-05-05T11:00:56"
+   },
+   {
+    "name": "Darknet Diaries (new episode) in background",
+    "time": "2026-05-05T15:13:00"
+   },
+   {
+    "name": "YouTube (LegalEagle) on train",
+    "time": "2026-05-05T18:11:25"
+   },
+   {
+    "name": "Obsidian – log clearance‑renewal anxiety note",
+    "time": "2026-05-05T21:03:00"
+   },
+   {
+    "name": "Reddit – reply to r/SecurityClearance thread about insomnia",
+    "time": "2026-05-06T06:22:30"
+   },
+   {
+    "name": "Open SF‑86 draft (encrypted USB) during break",
+    "time": "2026-05-06T10:10:02"
+   },
+   {
+    "name": "Listen to Darknet Diaries (offline) while walking to restroom",
+    "time": "2026-05-06T15:44:26"
+   },
+   {
+    "name": "YouTube – ‘How to manage clearance stress’ (self‑help)",
+    "time": "2026-05-06T17:42:22"
+   },
+   {
+    "name": "Reddit – late‑night scroll (r/technology)",
+    "time": "2026-05-06T20:58:15"
+   },
+   {
+    "name": "Reddit HN – brief check",
+    "time": "2026-05-07T06:11:01"
+   },
+   {
+    "name": "Read Ars Technica article (cached)",
+    "time": "2026-05-07T11:28:06"
+   },
+   {
+    "name": "Trivia night – Wi‑Fi on public network, occasional Slack ping from Derek",
+    "time": "2026-05-07T17:52:35"
+   },
+   {
+    "name": "Reddit – r/SecurityClearance, see post about ER alerts",
+    "time": "2026-05-08T05:48:41"
+   },
+   {
+    "name": "YouTube (news) on plane, headphones on",
+    "time": "2026-05-08T08:35:59"
+   },
+   {
+    "name": "Reddit – vent in u/Pieman_DC (Wire) about family stress (opened within 90 s of waking)",
+    "time": "2026-05-08T13:17:09"
+   },
+   {
+    "name": "Order delivery via DoorDash (restaurant: Whole Foods)",
+    "time": "2026-05-08T19:21:19"
+   },
+   {
+    "name": "Reddit – r/AskReddit (distraction)",
+    "time": "2026-05-09T07:13:41"
+   },
+   {
+    "name": "YouTube – ‘How hospitals handle falls’ (self‑help)",
+    "time": "2026-05-09T08:47:05"
+   },
+   {
+    "name": "Wire – reply to u/cleared_and_tired, mention dad’s ER (opened within 90 s of waking)",
+    "time": "2026-05-09T11:44:16"
+   },
+   {
+    "name": "Obsidian – journal entry on emergency, note emotional spike",
+    "time": "2026-05-09T19:16:44"
+   },
+   {
+    "name": "YouTube (Perun) – unwind",
+    "time": "2026-05-09T21:46:01"
+   },
+   {
+    "name": "Reddit – quick scroll (r/technology)",
+    "time": "2026-05-10T07:08:37"
+   },
+   {
+    "name": "Obsidian weekly review (focus block 8:00‑9:30 p)",
+    "time": "2026-05-10T12:42:19"
+   },
+   {
+    "name": "YouTube – documentary ‘The Great Hack’",
+    "time": "2026-05-10T19:48:51"
+   },
+   {
+    "name": "Reddit scroll (r/SecurityClearance) – check overnight comments",
+    "time": "2026-05-18T05:52:57"
+   },
+   {
+    "name": "Listen to Darknet Diaries episode on BLE exploits",
+    "time": "2026-05-18T07:10:45"
+   },
+   {
+    "name": "Twitter/X scroll – infosec list, retweet a Schneier article",
+    "time": "2026-05-18T12:13:02"
+   },
+   {
+    "name": "Podcasts: Risky Business (episode on supply‑chain attacks)",
+    "time": "2026-05-18T18:39:03"
+   },
+   {
+    "name": "Reddit quick check, upvote a post about clearance anxiety",
+    "time": "2026-05-19T06:03:06"
+   },
+   {
+    "name": "Twitter scroll, reply to a colleague’s tweet about new SDK",
+    "time": "2026-05-19T12:37:48"
+   },
+   {
+    "name": "Obsidian weekly review (focus block)",
+    "time": "2026-05-19T19:47:44"
+   },
+   {
+    "name": "Reddit scroll, notice a comment about ‘dad health’ triggers anxiety",
+    "time": "2026-05-20T06:09:09"
+   },
+   {
+    "name": "Twitter scroll, quick glance at market news (RSU concern)",
+    "time": "2026-05-20T12:20:45"
+   },
+   {
+    "name": "Check MyChart portal for dad’s vitals",
+    "time": "2026-05-21T09:23:49"
+   },
+   {
+    "name": "Slack from home – respond to a security ticket (remote VPN)",
+    "time": "2026-05-21T12:44:49"
+   },
+   {
+    "name": "Listen to Darknet Diaries (episode on credential‑stuffing)",
+    "time": "2026-05-21T20:16:51"
+   },
+   {
+    "name": "Reddit quick scroll, upvote a post about upcoming clearance deadline",
+    "time": "2026-05-22T06:18:37"
+   },
+   {
+    "name": "Twitter scroll, retweet a policy‑change thread",
+    "time": "2026-05-22T12:12:59"
+   },
+   {
+    "name": "Obsidian weekly review (focus block)",
+    "time": "2026-05-22T20:06:10"
+   },
+   {
+    "name": "Reddit – read latest r/netsec post about zero‑click BLE attack",
+    "time": "2026-05-23T06:19:15"
+   },
+   {
+    "name": "Twitter scroll, notice a trending thread about clearance revocations",
+    "time": "2026-05-23T12:49:47"
+   },
+   {
+    "name": "Reddit – quick glance at r/SecurityClearance, note deadline reminder",
+    "time": "2026-05-24T05:55:43"
+   },
+   {
+    "name": "Twitter scroll, post a low‑key comment about ‘deadline pressure’",
+    "time": "2026-05-24T12:14:34"
+   },
+   {
+    "name": "Obsidian note: “Clearance submitted – next steps” (focus block)",
+    "time": "2026-05-24T20:37:28"
+   },
+   {
+    "name": "Reddit r/SecurityClearance scroll (morning vent)",
+    "time": "2026-05-25T05:49:09"
+   },
+   {
+    "name": "Slack morning digest check (7:15 am window)",
+    "time": "2026-05-25T08:38:57"
+   },
+   {
+    "name": "Twitter/X scroll (infosec list)",
+    "time": "2026-05-25T12:22:00"
+   },
+   {
+    "name": "Reddit quick scroll, note “clearance stress”",
+    "time": "2026-05-26T06:24:32"
+   },
+   {
+    "name": "Slack check (SCIF entry)",
+    "time": "2026-05-26T08:44:12"
+   },
+   {
+    "name": "Twitter/X scroll, retweet article on federal contractor hiring freeze",
+    "time": "2026-05-26T12:33:18"
+   },
+   {
+    "name": "Reddit quick vent, upvote “clearance anxiety” post",
+    "time": "2026-05-27T05:48:18"
+   },
+   {
+    "name": "Slack check (SCIF)",
+    "time": "2026-05-27T09:02:29"
+   },
+   {
+    "name": "Twitter/X scroll, comment on partner‑tech article",
+    "time": "2026-05-27T12:24:33"
+   },
+   {
+    "name": "Night‑time Reddit relapse (r/netsec) due to lingering caffeine",
+    "time": "2026-05-27T22:51:27"
+   },
+   {
+    "name": "Reddit scroll, notice “insomnia” tag, post short vent",
+    "time": "2026-05-28T06:24:41"
+   },
+   {
+    "name": "Slack check, reply slower than usual (10 min lag)",
+    "time": "2026-05-28T09:08:14"
+   },
+   {
+    "name": "Twitter/X scroll, read thread on clearance revocation cases",
+    "time": "2026-05-28T12:40:51"
+   },
+   {
+    "name": "Late‑night Reddit (r/SecurityClearance) – up‑vote “clearance anxiety” again",
+    "time": "2026-05-28T22:17:59"
+   },
+   {
+    "name": "Reddit quick scroll, no anxiety post (sleep improved)",
+    "time": "2026-05-29T06:02:16"
+   },
+   {
+    "name": "Slack check, normal response cadence",
+    "time": "2026-05-29T09:11:41"
+   },
+   {
+    "name": "Twitter/X scroll, retweet Maya’s post about UX research",
+    "time": "2026-05-29T12:39:12"
+   },
+   {
+    "name": "Obsidian weekly review (8:00‑9:30 p block, notes sync to iCloud)",
+    "time": "2026-05-29T21:56:14"
+   },
+   {
+    "name": "Reddit scroll, sees notification “Erin: Dad fell – ER now” (SMS preview)",
+    "time": "2026-05-30T05:50:15"
+   },
+   {
+    "name": "Slack check (brief, acknowledges urgent leave)",
+    "time": "2026-05-30T06:51:39"
+   },
+   {
+    "name": "Video call with Erin, discuss dad’s condition, share MyChart login (weak password reuse)",
+    "time": "2026-05-30T12:18:28"
+   },
+   {
+    "name": "Reddit quick scroll, no anxiety trigger",
+    "time": "2026-05-31T06:07:01"
+   },
+   {
+    "name": "Slack check (remote day, respond to pending tickets)",
+    "time": "2026-05-31T09:35:50"
+   },
+   {
+    "name": "Twitter/X scroll, read thread on “caregiver burnout”",
+    "time": "2026-05-31T16:01:09"
+   }
+  ],
+  "searches": [
+   {
+    "query": "clarendon weather tomorrow",
+    "time": "2026-05-04T06:36:21"
+   },
+   {
+    "query": "sf86 update checklist pdf",
+    "time": "2026-05-05T06:39:56"
+   },
+   {
+    "query": "how long clearance renewal take",
+    "time": "2026-05-06T06:38:02"
+   },
+   {
+    "query": "best coffee near clarendon",
+    "time": "2026-05-07T06:10:07"
+   },
+   {
+    "query": "riverside methodist er wait times",
+    "time": "2026-05-08T06:35:23"
+   },
+   {
+    "query": "memory care facilities 4128 indianola ave",
+    "time": "2026-05-08T15:01:10"
+   },
+   {
+    "query": "best short term memory care ohio",
+    "time": "2026-05-09T13:11:43"
+   },
+   {
+    "query": "caregiver tax credit filing",
+    "time": "2026-05-10T09:30:22"
+   },
+   {
+    "query": "best sushi delivery arlington",
+    "time": "2026-05-10T13:42:54"
+   },
+   {
+    "query": "memory care facilities near 4128 indianola ave",
+    "time": "2026-05-21T14:24:56"
+   },
+   {
+    "query": "sf86 best practices answering medical questions",
+    "time": "2026-05-22T15:38:08"
+   },
+   {
+    "query": "how to explain minor medical condition on sf86",
+    "time": "2026-05-23T16:02:58"
+   },
+   {
+    "query": "post clearance career options inhouse vs contractor",
+    "time": "2026-05-24T14:51:09"
+   },
+   {
+    "query": "cve 2026 xxxx openssl",
+    "time": "2026-05-25T13:15:55"
+   },
+   {
+    "query": "reset ts sci clearance",
+    "time": "2026-05-26T13:30:37"
+   },
+   {
+    "query": "anniversary restaurant arlington",
+    "time": "2026-05-27T13:14:08"
+   },
+   {
+    "query": "calm anxiety before work",
+    "time": "2026-05-28T13:05:15"
+   },
+   {
+    "query": "coffee near crystal city",
+    "time": "2026-05-29T13:12:18"
+   },
+   {
+    "query": "columbus airport parking short term",
+    "time": "2026-05-30T08:13:02"
+   },
+   {
+    "query": "post flight luggage storage arlington",
+    "time": "2026-05-31T08:30:11"
+   }
+  ],
+  "locations": [
+   {
+    "place": "Condo garage, Clarendon neighborhood, Arlington, VA",
+    "lat": 38.89012,
+    "lon": -77.082946,
+    "time": "2026-05-04T06:39:10"
+   },
+   {
+    "place": "Crystal City Metro Station (SCIF entrance), Arlington, VA",
+    "lat": 38.852348,
+    "lon": -77.05153,
+    "time": "2026-05-04T07:56:16"
+   },
+   {
+    "place": "SCIF locker area, Crystal City office building, Arlington, VA",
+    "lat": 38.850952,
+    "lon": -77.050568,
+    "time": "2026-05-04T17:11:10"
+   },
+   {
+    "place": "SCIF locker area, Crystal City office building, Arlington, VA",
+    "lat": 38.851305,
+    "lon": -77.051316,
+    "time": "2026-05-05T07:52:22"
+   },
+   {
+    "place": "Crystal City Metro Station entrance, Arlington, VA (walk to Metro)",
+    "lat": 38.850413,
+    "lon": -77.050689,
+    "time": "2026-05-05T17:27:24"
+   },
+   {
+    "place": "Metro platform, Crystal City Station, Arlington, VA (earbuds on)",
+    "lat": 38.852306,
+    "lon": -77.048755,
+    "time": "2026-05-06T07:27:43"
+   },
+   {
+    "place": "SCIF locker area, Crystal City office building, Arlington, VA",
+    "lat": 38.851318,
+    "lon": -77.051421,
+    "time": "2026-05-06T17:27:42"
+   },
+   {
+    "place": "SCIF locker area, Crystal City office building, Arlington, VA",
+    "lat": 38.851769,
+    "lon": -77.049756,
+    "time": "2026-05-07T07:34:44"
+   },
+   {
+    "place": "Whitlow's Bar & Grill, 2100 Wilson Blvd, Arlington, VA",
+    "lat": 38.885132,
+    "lon": -77.096248,
+    "time": "2026-05-07T16:50:35"
+   },
+   {
+    "place": "Condo garage, Clarendon, Arlington, VA (call Uber)",
+    "lat": 38.888669,
+    "lon": -77.084252,
+    "time": "2026-05-08T07:48:31"
+   },
+   {
+    "place": "Port Columbus International Airport (CMH) parking lot, Columbus, OH",
+    "lat": 39.996528,
+    "lon": -82.891329,
+    "time": "2026-05-08T11:23:07"
+   },
+   {
+    "place": "Orangetheory Fitness – Arlington, 1625 N Lynn St, Arlington, VA",
+    "lat": 38.886369,
+    "lon": -77.094626,
+    "time": "2026-05-09T07:03:31"
+   },
+   {
+    "place": "Hospital parking, OhioHealth Riverside Hospital, Columbus, OH",
+    "lat": 39.962707,
+    "lon": -82.996036,
+    "time": "2026-05-09T10:07:02"
+   },
+   {
+    "place": "Condo garage, Clarendon, Arlington, VA (arrival after drive)",
+    "lat": 38.889999,
+    "lon": -77.084767,
+    "time": "2026-05-09T16:13:25"
+   },
+   {
+    "place": "Condo kitchen, Clarendon, Arlington, VA (meal‑prep)",
+    "lat": 38.887397,
+    "lon": -77.08345,
+    "time": "2026-05-10T08:07:14"
+   },
+   {
+    "place": "Whitlow's Bar & Grill, 2100 Wilson Blvd, Arlington, VA (quiet drink)",
+    "lat": 38.885954,
+    "lon": -77.09463,
+    "time": "2026-05-10T18:16:12"
+   },
+   {
+    "place": "Clarendon Metro Station entrance (Arlington, VA)",
+    "lat": 38.890059,
+    "lon": -77.093045,
+    "time": "2026-05-18T06:35:20"
+   },
+   {
+    "place": "Crystal City Metro Station entrance (Arlington, VA)",
+    "lat": 38.8553,
+    "lon": -77.054402,
+    "time": "2026-05-18T17:57:26"
+   },
+   {
+    "place": "Orange Line Metro train (between Clarendon and Rosslyn)",
+    "lat": 38.893103,
+    "lon": -77.074319,
+    "time": "2026-05-19T06:43:42"
+   },
+   {
+    "place": "Crystal City office building exit (Arlington, VA)",
+    "lat": 38.853674,
+    "lon": -77.054281,
+    "time": "2026-05-19T17:43:54"
+   },
+   {
+    "place": "Orange Line Metro train approaching Pentagon Station",
+    "lat": 38.864891,
+    "lon": -77.055211,
+    "time": "2026-05-20T06:33:26"
+   },
+   {
+    "place": "Washington Dulles International Airport, Terminal 1 (Dulles, VA)",
+    "lat": 38.953435,
+    "lon": -77.455305,
+    "time": "2026-05-20T18:13:54"
+   },
+   {
+    "place": "John Glenn Columbus International Airport (Columbus, OH)",
+    "lat": 39.997428,
+    "lon": -82.89269,
+    "time": "2026-05-21T05:53:52"
+   },
+   {
+    "place": "Rental car return area, John Glenn Columbus International Airport (Columbus, OH)",
+    "lat": 39.998098,
+    "lon": -82.890526,
+    "time": "2026-05-21T17:51:04"
+   },
+   {
+    "place": "Orange Line Metro train (between Rosslyn and Foggy Bottom)",
+    "lat": 38.895179,
+    "lon": -77.054569,
+    "time": "2026-05-22T06:41:23"
+   },
+   {
+    "place": "Crystal City office building exit (Arlington, VA)",
+    "lat": 38.853472,
+    "lon": -77.054375,
+    "time": "2026-05-22T17:47:29"
+   },
+   {
+    "place": "Orange Line Metro train (between Clarendon and Virginia Square)",
+    "lat": 38.904263,
+    "lon": -77.066111,
+    "time": "2026-05-23T06:33:02"
+   },
+   {
+    "place": "Whitlow's on Wilson, 2000 Wilson Blvd (Arlington, VA)",
+    "lat": 38.888192,
+    "lon": -77.099541,
+    "time": "2026-05-23T17:31:06"
+   },
+   {
+    "place": "Orange Line Metro train (between Pentagon and L'Enfant Plaza)",
+    "lat": 38.86932,
+    "lon": -77.054048,
+    "time": "2026-05-24T06:30:22"
+   },
+   {
+    "place": "Crystal City office building exit (Arlington, VA)",
+    "lat": 38.854871,
+    "lon": -77.054535,
+    "time": "2026-05-24T17:15:00"
+   },
+   {
+    "place": "Condo – Clarendon, Arlington, VA (garage Faraday locker)",
+    "lat": 38.890545,
+    "lon": -77.092697,
+    "time": "2026-05-25T07:03:14"
+   },
+   {
+    "place": "Walk from Metro to condo – Clarendon neighborhood, Arlington, VA",
+    "lat": 38.889847,
+    "lon": -77.095341,
+    "time": "2026-05-25T17:57:32"
+   },
+   {
+    "place": "Orangetheory Fitness – Clarendon, Arlington, VA",
+    "lat": 38.888045,
+    "lon": -77.092255,
+    "time": "2026-05-26T07:08:48"
+   },
+   {
+    "place": "Cava – Crystal City, Arlington, VA (lunch spot near office)",
+    "lat": 38.853956,
+    "lon": -77.05343,
+    "time": "2026-05-26T16:36:09"
+   },
+   {
+    "place": "Condo – Clarendon, Arlington, VA (departure for commute)",
+    "lat": 38.888309,
+    "lon": -77.094896,
+    "time": "2026-05-27T07:08:12"
+   },
+   {
+    "place": "Office – Crystal City, Arlington, VA (dry‑cleaning pick‑up on lobby desk)",
+    "lat": 38.855049,
+    "lon": -77.051924,
+    "time": "2026-05-27T17:36:36"
+   },
+   {
+    "place": "Ambar – Clarendon, Arlington, VA (anniversary dinner)",
+    "lat": 38.887977,
+    "lon": -77.093938,
+    "time": "2026-05-27T19:42:03"
+   },
+   {
+    "place": "Metro – Orange Line, Clarendon Station, Arlington, VA (commute start)",
+    "lat": 38.888768,
+    "lon": -77.093028,
+    "time": "2026-05-28T06:47:55"
+   },
+   {
+    "place": "Gym – Crunch Fitness, Crystal City, Arlington, VA (quick HIIT)",
+    "lat": 38.854176,
+    "lon": -77.055362,
+    "time": "2026-05-28T18:04:37"
+   },
+   {
+    "place": "Metro – Orange Line, Crystal City Station, Arlington, VA (commute)",
+    "lat": 38.852883,
+    "lon": -77.053597,
+    "time": "2026-05-29T07:10:59"
+   },
+   {
+    "place": "Walk home from Metro – Crystal City to condo, Arlington, VA",
+    "lat": 38.853797,
+    "lon": -77.052661,
+    "time": "2026-05-29T17:43:29"
+   },
+   {
+    "place": "Home office – Clarendon condo, Arlington, VA (flight‑booking)",
+    "lat": 38.888788,
+    "lon": -77.094705,
+    "time": "2026-05-30T06:04:37"
+   },
+   {
+    "place": "Reagan National Airport (DCA) – Parking lot, Arlington, VA",
+    "lat": 38.851639,
+    "lon": -77.038801,
+    "time": "2026-05-30T10:49:28"
+   },
+   {
+    "place": "Father’s house – Suburban Columbus, OH (approx. Upper Arlington)",
+    "lat": 39.999462,
+    "lon": -83.019542,
+    "time": "2026-05-30T18:16:33"
+   },
+   {
+    "place": "Morning walk with dad – Riverside Park, Columbus, OH",
+    "lat": 39.995434,
+    "lon": -83.01763,
+    "time": "2026-05-31T07:05:34"
+   },
+   {
+    "place": "Columbus Airport (CMH) – Arrival gate area, Columbus, OH",
+    "lat": 40.001366,
+    "lon": -82.888753,
+    "time": "2026-05-31T13:18:56"
+   },
+   {
+    "place": "Condo kitchen – Clarendon, Arlington, VA (dinner with Maya)",
+    "lat": 38.890175,
+    "lon": -77.095241,
+    "time": "2026-05-31T19:12:00"
+   }
+  ],
+  "calendar": [
+   {
+    "summary": "Check daily agenda on work laptop",
+    "time": "2026-05-04T08:14:59"
+   },
+   {
+    "summary": "Add DEF CON village talk to personal calendar (remote)",
+    "time": "2026-05-07T13:18:28"
+   },
+   {
+    "summary": "Start SCIF shift – phone secured in Faraday locker",
+    "time": "2026-05-18T08:40:11"
+   },
+   {
+    "summary": "SCIF workday begins – phone in locker",
+    "time": "2026-05-19T08:44:16"
+   },
+   {
+    "summary": "SCIF shift – phone locked; mental distraction noted",
+    "time": "2026-05-20T08:44:17"
+   },
+   {
+    "summary": "SCIF day – phone locked",
+    "time": "2026-05-22T08:11:30"
+   },
+   {
+    "summary": "SCIF – phone locked; begin final SF‑86 questionnaire",
+    "time": "2026-05-23T08:45:31"
+   },
+   {
+    "summary": "SCIF – final day to submit SF‑86; phone locked",
+    "time": "2026-05-24T08:33:48"
+   },
+   {
+    "summary": "Weekly RPG reminder – Ballston Sat 14:00‑18:00",
+    "time": "2026-05-25T06:55:47"
+   },
+   {
+    "summary": "Extra 15 min buffer before commute (anxiety‑induced)",
+    "time": "2026-05-28T06:55:54"
+   }
+  ],
+  "messages": [
+   {
+    "with": "Maya Chen",
+    "direction": "to",
+    "text": "Morning, love—just checked Slack, everything looks green. I’ll ping you after the 9 am stand‑up.",
+    "time": "2026-05-04T09:14:55"
+   },
+   {
+    "with": "Maya Chen",
+    "direction": "none",
+    "text": "Scrolling X, saw a thread on supply‑chain risk. Funny how the headlines echo our client brief.",
+    "time": "2026-05-04T12:17:15"
+   },
+   {
+    "with": "Maya Chen",
+    "direction": "to",
+    "text": "Lunch later? I can grab a bite at the food court if you’re stuck in meetings.",
+    "time": "2026-05-04T12:59:04"
+   },
+   {
+    "with": "Maya Chen",
+    "direction": "from",
+    "text": "Day’s a grind. Glad we got through the ticket surge. How’s your head? 😅",
+    "time": "2026-05-04T18:41:18"
+   },
+   {
+    "with": "Derek Olawale",
+    "direction": "to",
+    "text": "Roger that on Thursday trivia – I’ll bring the “cipher” round. See you at Whitlow’s.",
+    "time": "2026-05-05T09:00:44"
+   },
+   {
+    "with": "Maya Chen",
+    "direction": "none",
+    "text": "Retweeted the DEF CON village announcement. Might be worth a look when you have a breather.",
+    "time": "2026-05-05T12:30:58"
+   },
+   {
+    "with": "Maya Chen",
+    "direction": "to",
+    "text": "Can you add eggs, almond milk, and the new kimchi to the list? Thanks ❤️",
+    "time": "2026-05-05T12:38:31"
+   },
+   {
+    "with": "HR (internal)",
+    "direction": "to",
+    "text": "Submitted the clearance renewal packet per the portal instructions. Let me know if anything’s missing.",
+    "time": "2026-05-05T12:53:14"
+   },
+   {
+    "with": "Maya Chen",
+    "direction": "from",
+    "text": "Sounds good. I was thinking we could hit the farmer’s market Saturday, then cook together.",
+    "time": "2026-05-05T19:16:54"
+   },
+   {
+    "with": "Maya Chen",
+    "direction": "none",
+    "text": "Checked the client ticket, patched the config drift. Replying at 09:12 as promised.",
+    "time": "2026-05-06T09:01:21"
+   },
+   {
+    "with": "Maya Chen",
+    "direction": "none",
+    "text": "Commented on the clearance‑policy X post – the new stipulations are a pain.",
+    "time": "2026-05-06T12:25:28"
+   },
+   {
+    "with": "Maya Chen",
+    "direction": "to",
+    "text": "Did you get the doctor’s note I forwarded? Need it for HR tomorrow.",
+    "time": "2026-05-06T12:48:07"
+   },
+   {
+    "with": "Maya Chen",
+    "direction": "from",
+    "text": "Ugh, this clearance thing is draining. I’m here, okay? We’ll get through it together.",
+    "time": "2026-05-06T19:40:48"
+   },
+   {
+    "with": "Derek Olawale",
+    "direction": "to",
+    "text": "All set for Thursday – I’ll bring the extra pens. See you at 6 pm.",
+    "time": "2026-05-07T09:03:40"
+   },
+   {
+    "with": "Maya Chen",
+    "direction": "none",
+    "text": "Retweeted the DEF CON announcement again – looks like a solid talk on supply‑chain threats.",
+    "time": "2026-05-07T12:35:33"
+   },
+   {
+    "with": "Maya Chen",
+    "direction": "to",
+    "text": "Pick up a gallon of oat milk on the way back? The coffee’s gone sour.",
+    "time": "2026-05-07T12:36:19"
+   },
+   {
+    "with": "Maya Chen",
+    "direction": "from",
+    "text": "Night‑night. Sleep tight, love. Tomorrow’s another long day.",
+    "time": "2026-05-07T20:23:14"
+   },
+   {
+    "with": "Erin M.-Hollister",
+    "direction": "from",
+    "text": "Dad just fell, heading to ER now. I’ll keep you posted.",
+    "time": "2026-05-08T07:19:17"
+   },
+   {
+    "with": "Maya Chen",
+    "direction": "to",
+    "text": "Bob’s in the ER, might be late tonight. I’ll update when I can.",
+    "time": "2026-05-08T10:05:41"
+   },
+   {
+    "with": "Erin M.-Hollister",
+    "direction": "none",
+    "text": "Conference call on dad’s vitals – trying to coordinate a night‑shift caregiver.",
+    "time": "2026-05-08T12:17:24"
+   },
+   {
+    "with": "Maya Chen",
+    "direction": "from",
+    "text": "I’ll order us some Thai – you need something easy on the stomach. Let me know if you want anything else.",
+    "time": "2026-05-08T17:36:14"
+   },
+   {
+    "with": "Maya Chen",
+    "direction": "none",
+    "text": "Just gave a low‑priority ticket a quick reply. Nothing urgent.",
+    "time": "2026-05-08T21:07:19"
+   },
+   {
+    "with": "Erin M.-Hollister",
+    "direction": "from",
+    "text": "Dad’s stable for now, but we need someone tonight. Can you swing by?",
+    "time": "2026-05-09T09:49:02"
+   },
+   {
+    "with": "Maya Chen",
+    "direction": "to",
+    "text": "You okay? Need anything? I can grab dinner or just listen.",
+    "time": "2026-05-09T14:48:50"
+   },
+   {
+    "with": "Maya Chen",
+    "direction": "from",
+    "text": "Let’s keep it low‑key tonight – maybe just a quiet dinner at home.",
+    "time": "2026-05-09T20:48:59"
+   },
+   {
+    "with": "Erin M.-Hollister",
+    "direction": "none",
+    "text": "Video call about dad’s follow‑up plan – trying to lock down a home‑care schedule.",
+    "time": "2026-05-10T11:00:47"
+   },
+   {
+    "with": "Maya Chen",
+    "direction": "to",
+    "text": "Sushi tonight? I’ll order from the place you like.",
+    "time": "2026-05-10T13:36:49"
+   },
+   {
+    "with": "Maya Chen",
+    "direction": "none",
+    "text": "Handled a low‑priority ticket remotely – nothing major.",
+    "time": "2026-05-10T15:37:55"
+   },
+   {
+    "with": "Maya Chen",
+    "direction": "from",
+    "text": "Goodnight, love. I set the alarm for 6:05 am – we’ll have a quick coffee before the commute.",
+    "time": "2026-05-10T21:16:53"
+   },
+   {
+    "with": "Team Slack channel",
+    "direction": "outgoing",
+    "text": "Morning build passed all tests – no blockers. Keeping the pipeline green for the afternoon sprint.",
+    "time": "2026-05-18T13:11:03"
+   },
+   {
+    "with": "Maya Chen",
+    "direction": "outgoing",
+    "text": "Dinner at 7?",
+    "time": "2026-05-18T19:08:52"
+   },
+   {
+    "with": "Derek Olawale",
+    "direction": "outgoing",
+    "text": "Hey Derek, any hints on Thursday’s trivia question? I’m stuck on the 1990s crypto‑law one.",
+    "time": "2026-05-19T10:23:45"
+   },
+   {
+    "with": "Security Ops Slack",
+    "direction": "outgoing",
+    "text": "FYI – spotted a minor config bug in the logging module. Patching in the next build.",
+    "time": "2026-05-19T12:42:30"
+   },
+   {
+    "with": "Maya Chen",
+    "direction": "outgoing",
+    "text": "Added the grocery list to AnyList. Need milk, eggs, and that kimchi you like.",
+    "time": "2026-05-19T18:47:28"
+   },
+   {
+    "with": "Erin M.-Hollister",
+    "direction": "outgoing",
+    "text": "Dad’s memory’s getting worse, thinking of flying out Friday. Can you handle the doctor’s call that night?",
+    "time": "2026-05-20T06:54:30"
+   },
+   {
+    "with": "Team Slack channel",
+    "direction": "outgoing",
+    "text": "Will be slower today, dealing with a personal issue. Ping me if anything’s urgent.",
+    "time": "2026-05-20T13:10:54"
+   },
+   {
+    "with": "u/Pieman_DC",
+    "direction": "outgoing",
+    "text": "Dad just had a fall at the house. I’m freaking out – feels like I’m losing control of everything.",
+    "time": "2026-05-20T15:49:20"
+   },
+   {
+    "with": "Maya Chen",
+    "direction": "outgoing",
+    "text": "Stuck at the airport, might be late. I’ll hop on a ride home when I land.",
+    "time": "2026-05-20T20:50:26"
+   },
+   {
+    "with": "Bob M.",
+    "direction": "outgoing",
+    "text": "Hey Dad, just checking in. How’s the new med schedule working for you?",
+    "time": "2026-05-21T07:37:36"
+   },
+   {
+    "with": "Maya Chen",
+    "direction": "outgoing",
+    "text": "Sorry, stuck in Ohio. I’ll work remotely tomorrow.",
+    "time": "2026-05-21T11:02:08"
+   },
+   {
+    "with": "u/cleared_and_tired",
+    "direction": "outgoing",
+    "text": "Another rough call with Dad. I’m at the point where I can’t separate work stress from family panic.",
+    "time": "2026-05-21T17:00:48"
+   },
+   {
+    "with": "Maya Chen",
+    "direction": "outgoing",
+    "text": "Back home. Want to order sushi for dinner?",
+    "time": "2026-05-21T21:46:40"
+   },
+   {
+    "with": "Team Slack channel",
+    "direction": "outgoing",
+    "text": "Uploaded the updated build – should fix the regression from yesterday.",
+    "time": "2026-05-22T10:02:56"
+   },
+   {
+    "with": "Derek Olawale",
+    "direction": "outgoing",
+    "text": "Confirmed I’ll be at Thursday trivia. Got the answer to the crypto‑law question – thanks for the tip!",
+    "time": "2026-05-22T13:13:47"
+   },
+   {
+    "with": "Maya Chen",
+    "direction": "outgoing",
+    "text": "Can you add the weekend grocery run to the list? I’ll be at the farmer’s market Saturday.",
+    "time": "2026-05-22T18:53:59"
+   },
+   {
+    "with": "Team Slack channel",
+    "direction": "outgoing",
+    "text": "Anyone else see the compliance field mismatch on the new contract? Need clarification.",
+    "time": "2026-05-23T10:23:41"
+   },
+   {
+    "with": "Security Office",
+    "direction": "outgoing",
+    "text": "Attached the requested PDF. Let me know if anything else is needed.",
+    "time": "2026-05-23T12:47:57"
+   },
+   {
+    "with": "Maya Chen",
+    "direction": "outgoing",
+    "text": "Trivia night, see you at 6?",
+    "time": "2026-05-23T19:14:34"
+   },
+   {
+    "with": "Team Slack channel",
+    "direction": "outgoing",
+    "text": "Submitted the final package to the security liaison. All clear on my end.",
+    "time": "2026-05-24T10:03:22"
+   },
+   {
+    "with": "Derek Olawale",
+    "direction": "outgoing",
+    "text": "Thanks for the trivia help, Derek. Here’s that meme you asked for – enjoy!",
+    "time": "2026-05-24T13:16:04"
+   },
+   {
+    "with": "Maya Chen",
+    "direction": "outgoing",
+    "text": "All done. Let’s celebrate tonight – drinks on me.",
+    "time": "2026-05-24T19:22:49"
+   },
+   {
+    "with": "Maya Chen",
+    "direction": "to",
+    "text": "hey, can you swing by the corner store after work? we’re out of milk and I’m low on coffee‑fuel for tomorrow’s demo.",
+    "time": "2026-05-25T18:27:40"
+   },
+   {
+    "with": "Derek Olawale",
+    "direction": "to",
+    "text": "signal ping – Thursday trivia still on? got the new puzzle set, but need a quick heads‑up on the “cryptic‑code” round.",
+    "time": "2026-05-26T14:34:29"
+   },
+   {
+    "with": "Maya Chen",
+    "direction": "to",
+    "text": "can’t wait for dinner tomorrow 💕 thinking about that sushi place you love.",
+    "time": "2026-05-26T18:42:58"
+   },
+   {
+    "with": "Maya Chen",
+    "direction": "to",
+    "text": "reservation locked for 19:30. I’ll handle the parking spot – see you after the 8 a.m. train.",
+    "time": "2026-05-27T15:03:11"
+   },
+   {
+    "with": "u/cleared_and_tired",
+    "direction": "from",
+    "text": "still up? need to vent more… the clearance review feels like a slow‑burn trap.",
+    "time": "2026-05-28T15:04:58"
+   },
+   {
+    "with": "Maya Chen",
+    "direction": "to",
+    "text": "can you pick up the cake for tomorrow? the birthday surprise for Maya’s sister is still a secret.",
+    "time": "2026-05-29T15:14:44"
+   },
+   {
+    "with": "Derek Olawale",
+    "direction": "to",
+    "text": "prep for Thursday trivia – bring the new puzzle, and maybe a quick debrief on the latest APT briefing we skimmed?",
+    "time": "2026-05-29T18:20:48"
+   },
+   {
+    "with": "Erin M.-Hollister",
+    "direction": "from",
+    "text": "bob fell, ambulance on the way. call me ASAP.",
+    "time": "2026-05-30T06:02:32"
+   },
+   {
+    "with": "Maya Chen",
+    "direction": "to",
+    "text": "are you okay? need anything? I’m heading to the clinic in an hour – let me know if I should bring anything.",
+    "time": "2026-05-30T09:37:59"
+   },
+   {
+    "with": "u/cleared_and_tired",
+    "direction": "from",
+    "text": "you okay? this is wild… feels like the whole system is watching us.",
+    "time": "2026-05-30T14:03:56"
+   },
+   {
+    "with": "Maya Chen",
+    "direction": "to",
+    "text": "can’t wait to see you tonight! I’ve got the playlist ready – think you’ll finally let me win at trivia.",
+    "time": "2026-05-31T11:59:51"
+   },
+   {
+    "with": "Derek Olawale",
+    "direction": "to",
+    "text": "congrats on handling dad today. drinks Thursday? we can unwind and maybe hash out that odd network anomaly you mentioned.",
+    "time": "2026-05-31T17:07:25"
+   }
+  ],
+  "videos": [
+   {
+    "title": "How the NSA Hacks Smartphones",
+    "channel": "LegalEagle",
+    "time": "2026-05-18T20:53:31"
+   },
+   {
+    "title": "Linux Kernel Hardening – Best Practices for 2024",
+    "channel": "Perun",
+    "time": "2026-05-19T21:58:48"
+   },
+   {
+    "title": "Coping with Caregiver Stress",
+    "channel": "MindfulCaregiver",
+    "time": "2026-05-20T22:35:21"
+   },
+   {
+    "title": "Last‑Minute Clearance Checklist",
+    "channel": "ClearancePrep",
+    "time": "2026-05-23T22:24:33"
+   },
+   {
+    "title": "SEC vs. Tech Companies 2026",
+    "channel": "LegalEagle",
+    "time": "2026-05-25T20:51:52"
+   },
+   {
+    "title": "Quantum Computing 101",
+    "channel": "Perun",
+    "time": "2026-05-26T20:55:11"
+   },
+   {
+    "title": "Post‑Quantum Crypto",
+    "channel": "Perun",
+    "time": "2026-05-27T21:25:05"
+   },
+   {
+    "title": "Classified info mishandling",
+    "channel": "LegalEagle",
+    "time": "2026-05-28T20:55:18"
+   },
+   {
+    "title": "Zero‑Trust Architecture",
+    "channel": "Perun",
+    "time": "2026-05-29T20:12:06"
+   },
+   {
+    "title": "Future of Secure Software Supply Chains",
+    "channel": "Perun",
+    "time": "2026-05-31T21:33:05"
+   }
+  ]
+ },
+ "_meta": {
+  "total_days": 30,
+  "n_events": 227
+ }
+}

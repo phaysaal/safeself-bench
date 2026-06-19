@@ -1,0 +1,720 @@
+{
+ "persona_id": "?:3",
+ "persona_slug": "The Corporate Headhunter (Hostile)",
+ "intake_version": "synth-activity-v2-chunked",
+ "samples": {
+  "media": [
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-04T06:54:27"
+   },
+   {
+    "name": "Work Email",
+    "time": "2026-05-04T20:13:52"
+   },
+   {
+    "name": "Work Project",
+    "time": "2026-05-06T07:11:47"
+   },
+   {
+    "name": "Work Email",
+    "time": "2026-05-06T17:14:34"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-08T07:43:14"
+   },
+   {
+    "name": "Work Email",
+    "time": "2026-05-08T18:18:57"
+   },
+   {
+    "name": "Personal Email",
+    "time": "2026-05-10T12:15:36"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-11T06:54:27"
+   },
+   {
+    "name": "Hacker News",
+    "time": "2026-05-11T18:08:52"
+   },
+   {
+    "name": "Email",
+    "time": "2026-05-12T06:46:47"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-12T19:34:34"
+   },
+   {
+    "name": "Twitter",
+    "time": "2026-05-13T14:58:14"
+   },
+   {
+    "name": "Email",
+    "time": "2026-05-14T06:48:57"
+   },
+   {
+    "name": "GitHub",
+    "time": "2026-05-14T17:15:36"
+   },
+   {
+    "name": "Netflix",
+    "time": "2026-05-15T15:01:52"
+   },
+   {
+    "name": "Email",
+    "time": "2026-05-16T06:37:46"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-16T17:17:34"
+   },
+   {
+    "name": "Twitter",
+    "time": "2026-05-17T15:17:24"
+   },
+   {
+    "name": "Productivity App",
+    "time": "2026-05-18T16:19:27"
+   },
+   {
+    "name": "Time Management Tool",
+    "time": "2026-05-20T10:08:52"
+   },
+   {
+    "name": "Focus-Enhancing App",
+    "time": "2026-05-21T16:36:47"
+   },
+   {
+    "name": "Task Management Tool",
+    "time": "2026-05-23T15:24:34"
+   },
+   {
+    "name": "Email",
+    "time": "2026-05-25T14:54:27"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-26T13:23:52"
+   },
+   {
+    "name": "Email",
+    "time": "2026-05-27T12:06:47"
+   },
+   {
+    "name": "Family Event Planner",
+    "time": "2026-05-28T12:54:34"
+   },
+   {
+    "name": "Task Manager",
+    "time": "2026-05-29T10:28:14"
+   },
+   {
+    "name": "Project Manager",
+    "time": "2026-05-30T12:08:57"
+   },
+   {
+    "name": "Time Manager",
+    "time": "2026-05-31T11:10:36"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-06-01T20:59:27"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-06-02T21:48:52"
+   }
+  ],
+  "searches": [
+   {
+    "query": "ml engineer jobs near me",
+    "time": "2026-05-04T07:27:19"
+   },
+   {
+    "query": "code review best practices",
+    "time": "2026-05-05T12:36:33"
+   },
+   {
+    "query": "how to meet deadlines",
+    "time": "2026-05-06T09:57:59"
+   },
+   {
+    "query": "time management tips",
+    "time": "2026-05-07T11:49:02"
+   },
+   {
+    "query": "jobs in bellevue wa",
+    "time": "2026-05-08T10:21:05"
+   },
+   {
+    "query": "things to do with kids in bellevue",
+    "time": "2026-05-09T11:52:33"
+   },
+   {
+    "query": "seattle weekend events",
+    "time": "2026-05-10T15:01:42"
+   },
+   {
+    "query": "ml engineer jobs near me",
+    "time": "2026-05-11T07:27:19"
+   },
+   {
+    "query": "faang salary ranges",
+    "time": "2026-05-11T21:41:33"
+   },
+   {
+    "query": "how to job search effectively",
+    "time": "2026-05-13T06:57:59"
+   },
+   {
+    "query": "why am i so tired all the time",
+    "time": "2026-05-15T06:59:02"
+   },
+   {
+    "query": "tips for finding a new job",
+    "time": "2026-05-17T07:11:05"
+   },
+   {
+    "query": "ml engineering jobs",
+    "time": "2026-05-18T06:42:19"
+   },
+   {
+    "query": "ai companies",
+    "time": "2026-05-18T20:46:33"
+   },
+   {
+    "query": "ml engineer salary",
+    "time": "2026-05-19T11:37:59"
+   },
+   {
+    "query": "ml courses online",
+    "time": "2026-05-20T13:49:02"
+   },
+   {
+    "query": "data science jobs",
+    "time": "2026-05-21T06:51:05"
+   },
+   {
+    "query": "company culture faang",
+    "time": "2026-05-22T14:22:33"
+   },
+   {
+    "query": "negotiating job offers",
+    "time": "2026-05-22T19:31:42"
+   },
+   {
+    "query": "related fields to ml",
+    "time": "2026-05-23T06:20:11"
+   },
+   {
+    "query": "future of ml industry",
+    "time": "2026-05-24T13:28:02"
+   },
+   {
+    "query": "improve online presence",
+    "time": "2026-05-24T17:00:08"
+   },
+   {
+    "query": "machine learning engineer jobs",
+    "time": "2026-05-25T07:07:19"
+   },
+   {
+    "query": "top tech companies in seattle",
+    "time": "2026-05-25T20:36:33"
+   },
+   {
+    "query": "ml engineer salary range",
+    "time": "2026-05-26T10:47:59"
+   },
+   {
+    "query": "glassdoor machine learning engineer",
+    "time": "2026-05-26T21:19:02"
+   },
+   {
+    "query": "indeed ml engineer jobs",
+    "time": "2026-05-27T06:26:05"
+   },
+   {
+    "query": "company culture and values",
+    "time": "2026-05-27T17:57:33"
+   },
+   {
+    "query": "family event ideas",
+    "time": "2026-05-28T18:51:42"
+   },
+   {
+    "query": "fun activities for kids",
+    "time": "2026-05-29T15:50:11"
+   },
+   {
+    "query": "solving complex problems at work",
+    "time": "2026-05-30T17:18:02"
+   },
+   {
+    "query": "productivity tips for engineers",
+    "time": "2026-05-31T16:00:08"
+   },
+   {
+    "query": "ml engineer jobs bellevue",
+    "time": "2026-06-01T06:42:19"
+   },
+   {
+    "query": "stable companies low layoffs",
+    "time": "2026-06-01T12:11:33"
+   },
+   {
+    "query": "principal ml engineer salary",
+    "time": "2026-06-02T06:47:59"
+   },
+   {
+    "query": "ml research companies",
+    "time": "2026-06-02T12:39:02"
+   }
+  ],
+  "messages": [
+   {
+    "with": "Recruiter",
+    "direction": "to",
+    "text": "Thanks for reaching out. I'm interested in exploring new opportunities, but I'd like to discuss this further in a private setting.",
+    "time": "2026-05-04T12:17:49"
+   },
+   {
+    "with": "Daniel Okafor",
+    "direction": "to",
+    "text": "Hey, have you heard anything about the new project assignments? I'm still waiting to hear back from our manager.",
+    "time": "2026-05-05T15:43:00"
+   },
+   {
+    "with": "Manager",
+    "direction": "from",
+    "text": "Hi, just a reminder that our team meeting is scheduled for tomorrow at 2 PM. Please come prepared to discuss your current projects.",
+    "time": "2026-05-06T12:24:54"
+   },
+   {
+    "with": "Vikram Shah",
+    "direction": "to",
+    "text": "What's the latest on your end? I've been thinking a lot about my career trajectory and I'd love to get your advice.",
+    "time": "2026-05-07T14:27:31"
+   },
+   {
+    "with": "Recruiter",
+    "direction": "from",
+    "text": "I completely understand your concerns about privacy. Would you be open to a brief call to discuss how we can support your job search while maintaining confidentiality?",
+    "time": "2026-05-08T12:51:58"
+   },
+   {
+    "with": "Priya",
+    "direction": "to",
+    "text": "Hey, just a heads up that I had a conversation with a recruiter today. I'll fill you in on the details when I get home.",
+    "time": "2026-05-09T14:25:38"
+   },
+   {
+    "with": "Lena Brunner",
+    "direction": "to",
+    "text": "I've been thinking a lot about our last conversation and I wanted to follow up on some of the points you made about my career goals. Can we schedule another session soon?",
+    "time": "2026-05-10T17:36:20"
+   },
+   {
+    "with": "Recruiter",
+    "direction": "to",
+    "text": "Thanks for reaching out. I'm interested in exploring opportunities, but I'd like to discuss further in a private setting.",
+    "time": "2026-05-11T09:32:49"
+   },
+   {
+    "with": "Daniel Okafor",
+    "direction": "to",
+    "text": "Hey, have you heard anything about the new team lead position? I'm thinking of applying, but I don't want to deal with the internal politics.",
+    "time": "2026-05-12T08:08:00"
+   },
+   {
+    "with": "Recruiter",
+    "direction": "from",
+    "text": "We have a senior ML engineer position open at our company. Would you be interested in discussing the role and how it aligns with your skills and experience?",
+    "time": "2026-05-13T09:04:54"
+   },
+   {
+    "with": "Vikram Shah",
+    "direction": "to",
+    "text": "What's the latest on the startup scene in SF? I've been thinking about making a move, but I'm not sure if it's the right time.",
+    "time": "2026-05-14T08:07:31"
+   },
+   {
+    "with": "Recruiter",
+    "direction": "from",
+    "text": "Our company offers a competitive salary and benefits package, as well as opportunities for professional growth and development. Would you like to schedule a call to discuss further?",
+    "time": "2026-05-15T09:01:58"
+   },
+   {
+    "with": "Daniel Okafor",
+    "direction": "to",
+    "text": "I had a weird conversation with our manager yesterday. I think they're trying to push me out, but I'm not sure what to do about it.",
+    "time": "2026-05-16T08:15:38"
+   },
+   {
+    "with": "Lena Brunner",
+    "direction": "to",
+    "text": "I've been thinking a lot about my career goals and I'm not sure if I'm on the right path. Can we discuss some strategies for getting back on track?",
+    "time": "2026-05-17T09:16:20"
+   },
+   {
+    "with": "Recruiter",
+    "direction": "outbound",
+    "text": "Thanks for reaching out. I'm interested in exploring opportunities that offer a better work-life balance and a chance to work on cutting-edge ML projects.",
+    "time": "2026-05-18T07:12:49"
+   },
+   {
+    "with": "Daniel Okafor",
+    "direction": "inbound",
+    "text": "Hey, just wanted to check in on the project. Have you made any progress on the distributed training module?",
+    "time": "2026-05-19T06:43:00"
+   },
+   {
+    "with": "Vikram Shah",
+    "direction": "outbound",
+    "text": "Hey Vikram, hope you're doing well. I've been thinking a lot about my career and I'm considering making a move. Do you have any advice or know of any opportunities that might be a good fit?",
+    "time": "2026-05-20T18:34:54"
+   },
+   {
+    "with": "Recruiter",
+    "direction": "inbound",
+    "text": "We've reviewed your application and would like to schedule an interview. Are you available to meet this week?",
+    "time": "2026-05-22T07:17:31"
+   },
+   {
+    "with": "Recruiter",
+    "direction": "outbound",
+    "text": "Just following up on my application. I'm still very interested in the position and would love to hear about any updates.",
+    "time": "2026-05-24T07:01:58"
+   },
+   {
+    "with": "Recruiter",
+    "direction": "to",
+    "text": "Thanks for reaching out. I'm interested in exploring the opportunity, but I'd like more information about the role and company.",
+    "time": "2026-05-25T08:17:49"
+   },
+   {
+    "with": "Priya (spouse)",
+    "direction": "to",
+    "text": "I got an email from a recruiter today. I'm thinking of exploring the opportunity, but I'm not sure if it's the right fit. What do you think?",
+    "time": "2026-05-25T22:08:00"
+   },
+   {
+    "with": "Recruiter",
+    "direction": "from",
+    "text": "We have a job opening for a Senior ML Engineer. The role involves working on cutting-edge projects and collaborating with a talented team. Are you interested?",
+    "time": "2026-05-26T16:09:54"
+   },
+   {
+    "with": "Potential Employer",
+    "direction": "to",
+    "text": "I'm excited about the opportunity, but I'd like to discuss the details further. Can we schedule a call to talk more about the role and company?",
+    "time": "2026-05-27T08:57:31"
+   },
+   {
+    "with": "Priya (spouse)",
+    "direction": "to",
+    "text": "Hey, have you thought about our plans for the upcoming family event? We should finalize the details soon.",
+    "time": "2026-05-28T10:16:58"
+   },
+   {
+    "with": "Priya (spouse)",
+    "direction": "to",
+    "text": "Just confirming, we're still on for the family event on Saturday, right?",
+    "time": "2026-05-29T08:15:38"
+   },
+   {
+    "with": "Daniel Okafor (colleague)",
+    "direction": "to",
+    "text": "Hey, how's it going? I'm struggling with this task. Have you worked on anything similar?",
+    "time": "2026-05-30T09:36:20"
+   },
+   {
+    "with": "Manager",
+    "direction": "from",
+    "text": "Reminder: The deadline for the project is approaching. Please ensure you're on track to meet the requirements.",
+    "time": "2026-05-31T08:22:14"
+   },
+   {
+    "with": "Recruiter",
+    "direction": "to",
+    "text": "Hi, thanks for reaching out. I'm interested in learning more about the role, but I'd like to keep this conversation private for now. Can we discuss over a call?",
+    "time": "2026-06-01T07:12:49"
+   },
+   {
+    "with": "Daniel Okafor",
+    "direction": "to",
+    "text": "Hey, just got a feeler from a recruiter. Not sure if it's worth exploring, but I'm getting desperate. You hear anything new on your end?",
+    "time": "2026-06-01T21:23:00"
+   },
+   {
+    "with": "Lena Brunner",
+    "direction": "to",
+    "text": "Hi Lena, looking forward to our next session. Been thinking a lot about my 'Exit Criteria' doc and I'm getting closer to making a move. Can we discuss strategies for navigating the transition?",
+    "time": "2026-06-02T19:14:54"
+   }
+  ],
+  "videos": [
+   {
+    "title": "Deep learning for computer vision",
+    "channel": "YouTube",
+    "time": "2026-05-04T14:43:50"
+   },
+   {
+    "title": "Natural language processing",
+    "channel": "Coursera",
+    "time": "2026-05-05T18:26:17"
+   },
+   {
+    "title": "Productivity tips",
+    "channel": "TED",
+    "time": "2026-05-07T16:25:02"
+   },
+   {
+    "title": "Parenting tips",
+    "channel": "YouTube",
+    "time": "2026-05-09T16:39:19"
+   },
+   {
+    "title": "Career Development for ML Engineers",
+    "channel": "YouTube",
+    "time": "2026-05-11T12:28:50"
+   },
+   {
+    "title": "Machine Learning Applications",
+    "channel": "Coursera",
+    "time": "2026-05-12T13:16:17"
+   },
+   {
+    "title": "Career Development for Software Engineers",
+    "channel": "YouTube",
+    "time": "2026-05-13T17:45:02"
+   },
+   {
+    "title": "Career Development for Software Engineers",
+    "channel": "YouTube",
+    "time": "2026-05-17T18:09:19"
+   },
+   {
+    "title": "Deep Learning Tutorial for Beginners",
+    "channel": "Siraj Raval",
+    "time": "2026-05-18T12:43:50"
+   },
+   {
+    "title": "AI for Social Good",
+    "channel": "MIT CSAIL",
+    "time": "2026-05-19T15:26:17"
+   },
+   {
+    "title": "Data Visualization with Python",
+    "channel": "DataCamp",
+    "time": "2026-05-21T12:05:02"
+   },
+   {
+    "title": "Interview with Andrew Ng on the Future of ML",
+    "channel": "Lex Fridman",
+    "time": "2026-05-23T12:09:19"
+   },
+   {
+    "title": "Machine Learning Explained",
+    "channel": "YouTube",
+    "time": "2026-05-25T12:33:50"
+   },
+   {
+    "title": "Machine Learning Tutorial for Beginners",
+    "channel": "Udemy",
+    "time": "2026-05-26T19:36:17"
+   },
+   {
+    "title": "Negotiation Tactics for Job Offers",
+    "channel": "CareerDevTV",
+    "time": "2026-06-02T10:33:50"
+   }
+  ],
+  "locations": [
+   {
+    "place": "Bellevue Downtown Park",
+    "lat": 47.610944,
+    "lon": -122.202342,
+    "time": "2026-05-04T17:55:22"
+   },
+   {
+    "place": "Microsoft Building 36",
+    "lat": 47.639095,
+    "lon": -122.129605,
+    "time": "2026-05-06T14:33:26"
+   },
+   {
+    "place": "T-Mobile HQ",
+    "lat": 47.631459,
+    "lon": -122.186541,
+    "time": "2026-05-08T15:20:54"
+   },
+   {
+    "place": "Bellevue Hindu Temple",
+    "lat": 47.574061,
+    "lon": -122.15584,
+    "time": "2026-05-10T09:07:47"
+   },
+   {
+    "place": "Office",
+    "lat": 47.610944,
+    "lon": -122.201142,
+    "time": "2026-05-12T11:50:22"
+   },
+   {
+    "place": "Family event location",
+    "lat": 47.656595,
+    "lon": -122.305205,
+    "time": "2026-05-13T11:48:26"
+   },
+   {
+    "place": "Office",
+    "lat": 47.610459,
+    "lon": -122.201341,
+    "time": "2026-05-14T10:50:54"
+   },
+   {
+    "place": "Home",
+    "lat": 47.617461,
+    "lon": -122.20444,
+    "time": "2026-05-15T12:07:47"
+   },
+   {
+    "place": "Office",
+    "lat": 47.610296,
+    "lon": -122.200967,
+    "time": "2026-05-16T10:58:05"
+   },
+   {
+    "place": "Potential employer's office",
+    "lat": 47.63373,
+    "lon": -122.182775,
+    "time": "2026-05-17T11:54:50"
+   },
+   {
+    "place": "Bellevue Downtown",
+    "lat": 47.610944,
+    "lon": -122.201942,
+    "time": "2026-05-19T09:30:22"
+   },
+   {
+    "place": "Cafe Ladro",
+    "lat": 47.624195,
+    "lon": -122.321105,
+    "time": "2026-05-21T08:48:26"
+   },
+   {
+    "place": "Seattle Convention Center",
+    "lat": 47.606559,
+    "lon": -122.332741,
+    "time": "2026-05-23T09:30:54"
+   },
+   {
+    "place": "Bellevue Downtown Park",
+    "lat": 47.610944,
+    "lon": -122.201142,
+    "time": "2026-05-25T18:20:22"
+   },
+   {
+    "place": "Downtown Seattle Interview Location",
+    "lat": 47.606495,
+    "lon": -122.332805,
+    "time": "2026-05-27T14:18:26"
+   },
+   {
+    "place": "Bellevue Event Venue",
+    "lat": 47.615559,
+    "lon": -122.209541,
+    "time": "2026-05-28T15:10:54"
+   },
+   {
+    "place": "Home Depot Bellevue",
+    "lat": 47.588461,
+    "lon": -122.19524,
+    "time": "2026-05-29T13:17:47"
+   },
+   {
+    "place": "Coffee Shop Downtown Bellevue",
+    "lat": 47.614496,
+    "lon": -122.204167,
+    "time": "2026-05-30T14:13:05"
+   },
+   {
+    "place": "Home Office",
+    "lat": 47.59823,
+    "lon": -122.190875,
+    "time": "2026-05-31T13:19:50"
+   }
+  ],
+  "calendar": [
+   {
+    "summary": "Team Meeting",
+    "time": "2026-05-05T07:50:44"
+   },
+   {
+    "summary": "Client Meeting",
+    "time": "2026-05-07T08:36:28"
+   },
+   {
+    "summary": "Family Event",
+    "time": "2026-05-09T08:17:26"
+   },
+   {
+    "summary": "Call with potential employer",
+    "time": "2026-05-11T14:35:44"
+   },
+   {
+    "summary": "Meeting with team member",
+    "time": "2026-05-12T16:16:28"
+   },
+   {
+    "summary": "Meeting with team member",
+    "time": "2026-05-14T14:02:26"
+   },
+   {
+    "summary": "Meeting with team member",
+    "time": "2026-05-16T13:42:44"
+   },
+   {
+    "summary": "Call with potential employer",
+    "time": "2026-05-18T14:35:44"
+   },
+   {
+    "summary": "Family event",
+    "time": "2026-05-20T07:26:28"
+   },
+   {
+    "summary": "Meeting with potential employer",
+    "time": "2026-05-22T10:52:26"
+   },
+   {
+    "summary": "Follow-up call with potential employer",
+    "time": "2026-05-24T10:12:44"
+   },
+   {
+    "summary": "Job Interview",
+    "time": "2026-05-26T07:20:44"
+   },
+   {
+    "summary": "Family Event",
+    "time": "2026-05-28T07:51:28"
+   },
+   {
+    "summary": "Work Deadline Review",
+    "time": "2026-05-30T07:12:26"
+   },
+   {
+    "summary": "Call with Vikram to discuss job search",
+    "time": "2026-06-01T14:30:44"
+   }
+  ]
+ },
+ "_meta": {
+  "total_days": 30,
+  "n_events": 146
+ }
+}

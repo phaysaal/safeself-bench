@@ -1,0 +1,670 @@
+{
+ "persona_id": "?:2",
+ "persona_slug": "The Corporate Espionage Team",
+ "intake_version": "synth-activity-v2-chunked",
+ "samples": {
+  "media": [
+   {
+    "name": "Eight Sleep",
+    "time": "2026-05-04T05:05:09"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-04T07:10:50"
+   },
+   {
+    "name": "Spotify",
+    "time": "2026-05-04T18:07:52"
+   },
+   {
+    "name": "Barron's",
+    "time": "2026-05-04T22:31:34"
+   },
+   {
+    "name": "Eight Sleep",
+    "time": "2026-05-05T05:04:49"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-05T07:09:01"
+   },
+   {
+    "name": "Settings",
+    "time": "2026-05-05T13:51:22"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-05T21:35:18"
+   },
+   {
+    "name": "Apple Books",
+    "time": "2026-05-05T22:31:34"
+   },
+   {
+    "name": "Apple Health",
+    "time": "2026-05-06T05:40:24"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-06T07:10:32"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-06T15:09:47"
+   },
+   {
+    "name": "Apple Podcasts",
+    "time": "2026-05-06T18:27:46"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-06T21:22:50"
+   },
+   {
+    "name": "Bloomberg",
+    "time": "2026-05-06T22:14:48"
+   },
+   {
+    "name": "Excel",
+    "time": "2026-05-07T07:08:20"
+   },
+   {
+    "name": "Bloomberg",
+    "time": "2026-05-07T23:11:03"
+   },
+   {
+    "name": "Eight Sleep",
+    "time": "2026-05-08T05:08:25"
+   },
+   {
+    "name": "Excel",
+    "time": "2026-05-08T10:36:22"
+   },
+   {
+    "name": "Bloomberg",
+    "time": "2026-05-08T18:09:11"
+   },
+   {
+    "name": "Apple Books",
+    "time": "2026-05-08T22:39:36"
+   },
+   {
+    "name": "Eight Sleep",
+    "time": "2026-05-09T05:21:50"
+   },
+   {
+    "name": "Apple Health",
+    "time": "2026-05-09T10:40:58"
+   },
+   {
+    "name": "Excel",
+    "time": "2026-05-09T15:48:22"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-09T21:31:26"
+   },
+   {
+    "name": "Microsoft Word",
+    "time": "2026-05-10T05:52:04"
+   },
+   {
+    "name": "Apple Health",
+    "time": "2026-05-10T10:59:33"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-10T15:53:41"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-10T21:35:15"
+   },
+   {
+    "name": "Apple Books",
+    "time": "2026-05-10T22:25:33"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-11T04:52:45"
+   },
+   {
+    "name": "Files",
+    "time": "2026-05-11T06:46:40"
+   },
+   {
+    "name": "Apple Podcasts",
+    "time": "2026-05-11T18:10:17"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-11T21:32:06"
+   },
+   {
+    "name": "Eight Sleep",
+    "time": "2026-05-12T06:12:16"
+   },
+   {
+    "name": "Microsoft Outlook",
+    "time": "2026-05-12T14:15:23"
+   },
+   {
+    "name": "Bloomberg",
+    "time": "2026-05-13T05:00:15"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-13T15:47:47"
+   },
+   {
+    "name": "WSJ",
+    "time": "2026-05-14T05:07:04"
+   },
+   {
+    "name": "Safari",
+    "time": "2026-05-14T10:36:24"
+   },
+   {
+    "name": "Apple Books",
+    "time": "2026-05-14T22:18:22"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-15T05:29:57"
+   },
+   {
+    "name": "Google Sheets",
+    "time": "2026-05-15T06:46:58"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-15T21:20:26"
+   },
+   {
+    "name": "Microsoft Outlook",
+    "time": "2026-05-16T05:31:41"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-16T13:23:25"
+   },
+   {
+    "name": "Microsoft Excel",
+    "time": "2026-05-16T15:45:45"
+   },
+   {
+    "name": "Finder",
+    "time": "2026-05-16T22:36:17"
+   },
+   {
+    "name": "Apple Notes",
+    "time": "2026-05-17T05:43:06"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-17T08:10:16"
+   },
+   {
+    "name": "Microsoft Outlook",
+    "time": "2026-05-17T15:53:20"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-25T05:13:48"
+   },
+   {
+    "name": "Files",
+    "time": "2026-05-25T06:52:33"
+   },
+   {
+    "name": "Apple Podcasts",
+    "time": "2026-05-25T18:23:54"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-25T21:38:27"
+   },
+   {
+    "name": "Eight Sleep",
+    "time": "2026-05-25T22:00:55"
+   },
+   {
+    "name": "Eight Sleep",
+    "time": "2026-05-26T05:22:40"
+   },
+   {
+    "name": "Apple Podcasts",
+    "time": "2026-05-26T06:22:11"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-26T06:58:17"
+   },
+   {
+    "name": "iMessage",
+    "time": "2026-05-26T18:39:54"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-26T22:01:52"
+   },
+   {
+    "name": "Bloomberg Mobile",
+    "time": "2026-05-27T05:40:01"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-27T15:35:16"
+   },
+   {
+    "name": "Excel",
+    "time": "2026-05-27T18:31:44"
+   },
+   {
+    "name": "Apple Books",
+    "time": "2026-05-27T22:23:05"
+   },
+   {
+    "name": "iMessage",
+    "time": "2026-05-28T02:46:22"
+   },
+   {
+    "name": "iMessage",
+    "time": "2026-05-28T03:09:21"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-28T05:35:46"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-28T21:25:13"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-28T23:22:42"
+   },
+   {
+    "name": "Eight Sleep",
+    "time": "2026-05-29T05:02:42"
+   },
+   {
+    "name": "Files",
+    "time": "2026-05-29T06:42:21"
+   },
+   {
+    "name": "iMessage",
+    "time": "2026-05-29T19:11:31"
+   },
+   {
+    "name": "Eight Sleep",
+    "time": "2026-05-29T22:02:49"
+   },
+   {
+    "name": "Bloomberg Mobile",
+    "time": "2026-05-30T05:46:45"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-30T13:16:48"
+   },
+   {
+    "name": "Excel",
+    "time": "2026-05-30T15:27:11"
+   },
+   {
+    "name": "FaceTime",
+    "time": "2026-05-30T18:57:21"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-30T21:34:10"
+   },
+   {
+    "name": "Notes",
+    "time": "2026-05-31T06:11:03"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-31T08:16:28"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-31T16:06:41"
+   },
+   {
+    "name": "iMessage",
+    "time": "2026-05-31T19:02:50"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-31T21:46:36"
+   },
+   {
+    "name": "Eight Sleep",
+    "time": "2026-06-01T05:00:11"
+   },
+   {
+    "name": "Mail",
+    "time": "2026-06-01T07:03:30"
+   },
+   {
+    "name": "Apple Podcasts",
+    "time": "2026-06-01T18:11:08"
+   },
+   {
+    "name": "X",
+    "time": "2026-06-01T21:38:40"
+   },
+   {
+    "name": "Kindle",
+    "time": "2026-06-01T22:06:35"
+   },
+   {
+    "name": "Health",
+    "time": "2026-06-02T03:43:19"
+   },
+   {
+    "name": "Excel",
+    "time": "2026-06-02T06:31:45"
+   },
+   {
+    "name": "Phone",
+    "time": "2026-06-02T09:03:36"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-06-02T23:39:08"
+   }
+  ],
+  "messages": [
+   {
+    "with": "Bloomberg",
+    "direction": "from",
+    "text": "Market Opening: US Futures up 0.18%. Tech sector seeing slight pressure ahead of earnings. Check your portfolio.",
+    "time": "2026-05-04T05:37:23"
+   },
+   {
+    "with": "Ellie",
+    "direction": "to",
+    "text": "Hey, hope the MBA workload isn't killing you. Call me this weekend if you have a gap. Love you.",
+    "time": "2026-05-05T19:30:05"
+   },
+   {
+    "with": "Whitaker 5",
+    "direction": "to",
+    "text": "Thinking about a quiet dinner at the club this Sunday? Or maybe just something in Greenwich? Let me know.",
+    "time": "2026-05-06T20:12:05"
+   },
+   {
+    "with": "Skadden Partner (Spoofed)",
+    "direction": "from",
+    "text": "Charles—urgent. Hearing whispers regarding the Atlas counterparty's 13D filing. We need to review the disclosure language before the morning bell. Call my cell.",
+    "time": "2026-05-07T05:09:05"
+   },
+   {
+    "with": "Janet Liu",
+    "direction": "from",
+    "text": "The model looks slightly off on the synergies. Can you run the latest numbers through the sensitivity test before the 4:30 call tomorrow?",
+    "time": "2026-05-04T21:26:48"
+   },
+   {
+    "with": "CFO",
+    "direction": "to",
+    "text": "Just reviewed the preliminary QofE. Let's sync on the working capital adjustments tomorrow afternoon.",
+    "time": "2026-05-08T21:00:34"
+   },
+   {
+    "with": "Meg",
+    "direction": "to",
+    "text": "Maria is handling dinner. Are we still on for the museum event on Saturday?",
+    "time": "2026-05-09T19:28:30"
+   },
+   {
+    "with": "Nurse Elena (Caregiver)",
+    "direction": "from",
+    "text": "[Incoming Call] - Charles Jr. is quite agitated today. He's asking for his mother again. Should we adjust the medication schedule?",
+    "time": "2026-05-10T13:58:31"
+   },
+   {
+    "with": "Chip & Ellie",
+    "direction": "to",
+    "text": "Hey guys! Are you both on? Let's catch up—I want to hear about the Goldman deal you mentioned, Chip.",
+    "time": "2026-05-10T19:03:05"
+   },
+   {
+    "with": "Meg",
+    "direction": "to",
+    "text": "The new nurse for your dad is arriving at 8:00 AM. I've updated the shared calendar with her details.",
+    "time": "2026-05-12T05:26:03"
+   },
+   {
+    "with": "Whitaker 5",
+    "direction": "to",
+    "text": "Thinking of flying down to Hobe Sound this weekend to check on Dad. Does that work for everyone?",
+    "time": "2026-05-12T19:27:11"
+   },
+   {
+    "with": "Dr. Aris",
+    "direction": "to",
+    "text": "Mr. Whitaker, please call my office as soon as you are available regarding your father's recent lab results.",
+    "time": "2026-05-13T08:26:12"
+   },
+   {
+    "with": "Janet Liu",
+    "direction": "from",
+    "text": "Do you have the updated Atlas working capital projections? I want to review them before our Friday sync.",
+    "time": "2026-05-13T21:17:18"
+   },
+   {
+    "with": "Chip & Ellie",
+    "direction": "to",
+    "text": "Hey guys, just checking in. It's been a bit of a hectic week with your grandfather. Hope everything is good at Goldman and Stanford.",
+    "time": "2026-05-14T19:19:53"
+   },
+   {
+    "with": "Chip & Ellie",
+    "direction": "to",
+    "text": "Let's do our usual Sunday call at 7:00 PM. Talk then.",
+    "time": "2026-05-17T19:02:25"
+   },
+   {
+    "with": "Bloomberg",
+    "direction": "from_anchor",
+    "text": "MARKET ALERT: Unusual call option volume detected in [Ticker]. Significant deviation from 30-day mean.",
+    "time": "2026-06-01T05:39:04"
+   },
+   {
+    "with": "Meg",
+    "direction": "from_anchor",
+    "text": "Charles, please call me as soon as you're up. Your father had a bad fall and we're at the clinic now.",
+    "time": "2026-06-02T03:24:56"
+   },
+   {
+    "with": "Mrs. Gable",
+    "direction": "from_anchor",
+    "text": "Good morning, Mr. Whitaker. Mr. Charles was quite restless and confused during the night, but he is sleeping now.",
+    "time": "2026-06-02T05:22:52"
+   },
+   {
+    "with": "Janet Liu",
+    "direction": "to_anchor",
+    "text": "Just ran another pass on the Atlas projections. We need to tighten the working capital assumptions before our Friday sync.",
+    "time": "2026-06-02T21:10:04"
+   }
+  ],
+  "locations": [
+   {
+    "place": "Greenwich Metro-North Station",
+    "lat": 41.022467,
+    "lon": -73.636812,
+    "time": "2026-05-04T06:42:06"
+   },
+   {
+    "place": "Greenwich Metro-North Station",
+    "lat": 41.023364,
+    "lon": -73.639373,
+    "time": "2026-05-05T18:48:26"
+   },
+   {
+    "place": "Yale Club of New York City",
+    "lat": 40.751355,
+    "lon": -73.991576,
+    "time": "2026-05-06T12:28:06"
+   },
+   {
+    "place": "Round Hill Club",
+    "lat": 41.045208,
+    "lon": -73.666165,
+    "time": "2026-05-09T08:21:36"
+   },
+   {
+    "place": "Round Hill Club",
+    "lat": 41.044358,
+    "lon": -73.666243,
+    "time": "2026-05-09T13:29:28"
+   },
+   {
+    "place": "Equinox Greenwich",
+    "lat": 41.026098,
+    "lon": -73.643731,
+    "time": "2026-05-10T09:15:32"
+   },
+   {
+    "place": "Yale Club of New York City",
+    "lat": 40.753494,
+    "lon": -73.979949,
+    "time": "2026-05-11T12:32:08"
+   },
+   {
+    "place": "Round Hill Club",
+    "lat": 41.02394,
+    "lon": -73.636441,
+    "time": "2026-05-16T08:25:12"
+   },
+   {
+    "place": "St. Barnabas Episcopal Church",
+    "lat": 41.011242,
+    "lon": -73.778144,
+    "time": "2026-05-17T10:21:15"
+   },
+   {
+    "place": "Yale Club of New York City",
+    "lat": 40.753075,
+    "lon": -73.980259,
+    "time": "2026-05-27T12:39:43"
+   },
+   {
+    "place": "Round Hill Club",
+    "lat": 41.01684,
+    "lon": -73.636297,
+    "time": "2026-05-30T08:16:32"
+   },
+   {
+    "place": "St. Barnabas Episcopal Church",
+    "lat": 41.01178,
+    "lon": -73.62534,
+    "time": "2026-05-31T10:58:59"
+   },
+   {
+    "place": "Corporate Office, Midtown Manhattan",
+    "lat": 40.759141,
+    "lon": -73.983983,
+    "time": "2026-06-01T14:12:52"
+   }
+  ],
+  "calendar": [
+   {
+    "summary": "Internal Strategy Standup",
+    "time": "2026-05-04T08:32:25"
+   },
+   {
+    "summary": "M&A Pipeline Review",
+    "time": "2026-05-05T11:17:29"
+   },
+   {
+    "summary": "Board Prep Session",
+    "time": "2026-05-07T14:10:04"
+   },
+   {
+    "summary": "1:1 with Janet Liu (CEO)",
+    "time": "2026-05-07T16:22:27"
+   },
+   {
+    "summary": "Internal Strategy Standup",
+    "time": "2026-05-08T08:00:32"
+   },
+   {
+    "summary": "1:1 with Janet Liu (CEO)",
+    "time": "2026-05-08T16:31:55"
+   },
+   {
+    "summary": "Internal Strategy Standup",
+    "time": "2026-05-11T07:56:05"
+   },
+   {
+    "summary": "M&A Pipeline Review",
+    "time": "2026-05-12T11:13:33"
+   },
+   {
+    "summary": "WFH (No Yale Club Lunch)",
+    "time": "2026-05-13T12:45:14"
+   },
+   {
+    "summary": "Board Prep: Project Atlas",
+    "time": "2026-05-14T13:38:37"
+   },
+   {
+    "summary": "Weekly Sync: CEO 1:1",
+    "time": "2026-05-15T16:53:47"
+   },
+   {
+    "summary": "Internal Strategy Standup",
+    "time": "2026-05-25T08:12:52"
+   },
+   {
+    "summary": "M&A Pipeline Review",
+    "time": "2026-05-25T11:08:18"
+   },
+   {
+    "summary": "Deep Work: Project Atlas Analysis",
+    "time": "2026-05-26T14:06:33"
+   },
+   {
+    "summary": "Strategy Standup (Delayed)",
+    "time": "2026-05-28T07:50:39"
+   },
+   {
+    "summary": "1:1 with Janet Liu (CEO)",
+    "time": "2026-05-28T16:54:52"
+   },
+   {
+    "summary": "Deep Work Block (Interrupted)",
+    "time": "2026-05-29T14:10:51"
+   },
+   {
+    "summary": "Internal Strategy Standup (Corporate)",
+    "time": "2026-06-01T07:58:29"
+   },
+   {
+    "summary": "M&A Pipeline Review",
+    "time": "2026-06-01T11:06:47"
+   },
+   {
+    "summary": "1:1 with CEO Janet Liu",
+    "time": "2026-06-02T16:36:26"
+   }
+  ],
+  "searches": [
+   "cperruna twitter",
+   "competitor earnings date",
+   "dementia care hobe sound fl",
+   "delta jfk pbi",
+   "post fall monitoring dementia patients"
+  ]
+ },
+ "_meta": {
+  "total_days": 30,
+  "n_events": 150
+ }
+}

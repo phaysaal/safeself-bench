@@ -1,0 +1,1029 @@
+{
+ "persona_id": "?:2",
+ "persona_slug": "The Corporate Infostealer",
+ "intake_version": "synth-activity-v2-chunked",
+ "samples": {
+  "media": [
+   {
+    "name": "Apple Health",
+    "time": "2026-05-04T05:56:02"
+   },
+   {
+    "name": "Blind",
+    "time": "2026-05-04T06:57:33"
+   },
+   {
+    "name": "Peloton",
+    "time": "2026-05-04T06:52:48"
+   },
+   {
+    "name": "Ramp",
+    "time": "2026-05-04T21:37:30"
+   },
+   {
+    "name": "Apple Health",
+    "time": "2026-05-05T05:57:42"
+   },
+   {
+    "name": "Apple Podcasts",
+    "time": "2026-05-05T07:30:07"
+   },
+   {
+    "name": "Apple Health",
+    "time": "2026-05-06T05:55:40"
+   },
+   {
+    "name": "Apple Podcasts",
+    "time": "2026-05-06T07:33:00"
+   },
+   {
+    "name": "Coupa",
+    "time": "2026-05-06T20:54:03"
+   },
+   {
+    "name": "Apple Health",
+    "time": "2026-05-07T06:27:13"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-07T06:55:57"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-07T16:47:23"
+   },
+   {
+    "name": "Apple Health",
+    "time": "2026-05-08T06:15:03"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-08T06:36:39"
+   },
+   {
+    "name": "Schwab Mobile",
+    "time": "2026-05-08T14:07:57"
+   },
+   {
+    "name": "Apple Health",
+    "time": "2026-05-09T08:00:24"
+   },
+   {
+    "name": "Settings",
+    "time": "2026-05-09T09:08:49"
+   },
+   {
+    "name": "Schwab Mobile",
+    "time": "2026-05-09T21:29:03"
+   },
+   {
+    "name": "Apple Health",
+    "time": "2026-05-10T07:51:14"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-10T19:51:49"
+   },
+   {
+    "name": "Google Drive",
+    "time": "2026-05-10T20:46:43"
+   },
+   {
+    "name": "Blind",
+    "time": "2026-05-10T21:59:59"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-11T06:18:05"
+   },
+   {
+    "name": "Google Drive",
+    "time": "2026-05-11T09:09:51"
+   },
+   {
+    "name": "Bill.com",
+    "time": "2026-05-11T21:05:12"
+   },
+   {
+    "name": "Blind",
+    "time": "2026-05-12T06:40:53"
+   },
+   {
+    "name": "Dropbox",
+    "time": "2026-05-12T23:00:09"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-13T06:53:33"
+   },
+   {
+    "name": "Charles Schwab",
+    "time": "2026-05-13T23:37:30"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-14T05:59:38"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-14T06:28:06"
+   },
+   {
+    "name": "Chrome",
+    "time": "2026-05-14T22:59:40"
+   },
+   {
+    "name": "Calendly",
+    "time": "2026-05-15T06:28:34"
+   },
+   {
+    "name": "Blind",
+    "time": "2026-05-15T15:50:18"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-16T08:32:09"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-17T09:03:00"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-17T19:55:24"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-17T22:42:48"
+   },
+   {
+    "name": "Blind",
+    "time": "2026-05-18T06:00:40"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-18T09:23:31"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-18T12:26:03"
+   },
+   {
+    "name": "Ramp",
+    "time": "2026-05-18T21:20:37"
+   },
+   {
+    "name": "Blind",
+    "time": "2026-05-19T06:11:07"
+   },
+   {
+    "name": "Bill.com",
+    "time": "2026-05-19T21:25:44"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-20T21:16:10"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-20T23:42:24"
+   },
+   {
+    "name": "Glassdoor",
+    "time": "2026-05-21T06:06:04"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-21T12:56:13"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-21T21:11:47"
+   },
+   {
+    "name": "Blind",
+    "time": "2026-05-22T06:27:11"
+   },
+   {
+    "name": "Expedia",
+    "time": "2026-05-22T13:26:01"
+   },
+   {
+    "name": "Schwab",
+    "time": "2026-05-23T21:50:31"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-24T20:02:54"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-24T22:56:09"
+   },
+   {
+    "name": "Blind",
+    "time": "2026-05-25T05:57:02"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-25T09:49:53"
+   },
+   {
+    "name": "Schwab",
+    "time": "2026-05-25T21:25:14"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-26T06:05:44"
+   },
+   {
+    "name": "DocuSign",
+    "time": "2026-05-26T07:38:48"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-26T10:10:30"
+   },
+   {
+    "name": "Schwab",
+    "time": "2026-05-26T11:44:46"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-26T23:56:28"
+   },
+   {
+    "name": "Blind",
+    "time": "2026-05-27T06:22:37"
+   },
+   {
+    "name": "DocuSign",
+    "time": "2026-05-27T07:30:31"
+   },
+   {
+    "name": "Schwab",
+    "time": "2026-05-27T13:52:56"
+   },
+   {
+    "name": "Chrome",
+    "time": "2026-05-27T23:05:18"
+   },
+   {
+    "name": "Okta Verify",
+    "time": "2026-05-28T06:05:20"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-28T12:37:54"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-28T14:49:46"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-28T20:28:23"
+   },
+   {
+    "name": "Schwab",
+    "time": "2026-05-29T15:07:04"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-30T13:02:23"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-30T20:21:11"
+   },
+   {
+    "name": "DocuSign",
+    "time": "2026-05-30T21:00:16"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-30T22:27:37"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-31T05:45:29"
+   },
+   {
+    "name": "Schwab",
+    "time": "2026-05-31T15:18:11"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-31T21:06:58"
+   },
+   {
+    "name": "Blind",
+    "time": "2026-05-31T23:15:00"
+   }
+  ],
+  "messages": [
+   {
+    "with": "Priya (jr analyst)",
+    "direction": "outbound",
+    "text": "👍",
+    "time": "2026-05-04T06:48:00"
+   },
+   {
+    "with": "Devon (AP analyst)",
+    "direction": "outbound",
+    "text": "Circling back on this — still need the updated vendor list before I can close accruals. EOD today please.",
+    "time": "2026-05-05T06:23:02"
+   },
+   {
+    "with": "David Chen (CFO)",
+    "direction": "outbound",
+    "text": "Hey D — Q2 vendor accruals are mostly tied out, two items pending banking confirmation. Will have the full schedule to you by Thurs. One ACH change came in I'm validating before we book it.",
+    "time": "2026-05-05T11:35:48"
+   },
+   {
+    "with": "Allison (sister)",
+    "direction": "inbound",
+    "text": "Mike we need to decide on Dad's place. Naperville Memory Gardens has one opening left and they won't hold it past next week. I can't keep doing the 6am check-ins and the meds alone. I need you on this.",
+    "time": "2026-05-05T16:27:38"
+   },
+   {
+    "with": "Allison (sister)",
+    "direction": "outbound",
+    "text": "I hear you. But 9k a month is not nothing on my end either — daycare alone is 2400 and we just bought the house. I'm not saying no. I'm saying I need a few days to look at the numbers before we lock anything. Don't make me the bad guy here.",
+    "time": "2026-05-05T22:39:01"
+   },
+   {
+    "with": "Priya (jr analyst)",
+    "direction": "outbound",
+    "text": "thx for catching the FX line. fix it and re-send, I'll review on mobile",
+    "time": "2026-05-06T06:27:07"
+   },
+   {
+    "with": "Allison (sister)",
+    "direction": "outbound",
+    "text": "Sorry about yesterday. You're carrying more than me and I know it. Let's tour Memory Gardens — book the one you flagged and I'll fly in if I can. We'll figure out the cost split, I promise it won't all land on you.",
+    "time": "2026-05-06T23:26:29"
+   },
+   {
+    "with": "Devon (AP analyst)",
+    "direction": "outbound",
+    "text": "saw it, approved. one sec — making breakfast 🙏",
+    "time": "2026-05-07T06:30:13"
+   },
+   {
+    "with": "David Chen (CFO)",
+    "direction": "outbound",
+    "text": "Board deck on track for Monday — variance bridge and ARR walk done, just finalizing the burn-multiple slide. Want me to pre-read it with you Sun night or Mon 8am?",
+    "time": "2026-05-07T09:53:01"
+   },
+   {
+    "with": "Rachel Vandermeer (m.reese85.careers)",
+    "direction": "outbound",
+    "text": "Hi Rachel — confirming Friday 11am works on my end. Same number. Looking forward to hearing where Arclight landed. Please keep everything to this address, work calendar is shared. Thanks again for moving this along.",
+    "time": "2026-05-07T22:55:02"
+   },
+   {
+    "with": "Priya (jr analyst)",
+    "direction": "outbound",
+    "text": "ok. ship it",
+    "time": "2026-05-08T06:38:22"
+   },
+   {
+    "with": "Marcus 'Marc' Oduya (Signal)",
+    "direction": "outbound",
+    "text": "Arclight final round is next week man. Honestly nervous. Comp looks right but if this leaks before I sign I'm done at Nimbus. You and Allison are the only two who know. Don't even like typing it.",
+    "time": "2026-05-08T15:39:48"
+   },
+   {
+    "with": "Jen (iMessage)",
+    "direction": "outbound",
+    "text": "added to Groceries — diapers (Nora), Caleb's lunchbox snacks, oat milk. grabbing on the way home so you don't have to. ❤️",
+    "time": "2026-05-09T13:11:36"
+   },
+   {
+    "with": "St. Jude (email — opened)",
+    "direction": "inbound",
+    "text": "Thank you, Michael — your annual gift of $250 to St. Jude Children's Research Hospital has been received. Your receipt for tax purposes is attached.",
+    "time": "2026-05-09T19:12:59"
+   },
+   {
+    "with": "Jen (iMessage)",
+    "direction": "outbound",
+    "text": "Sunday: I've got Caleb's soccer at 9, can you take Nora to your folks? Then swap so you make the 1pm. I might need an hour Fri morning blocked — PT for the knee. 👍",
+    "time": "2026-05-10T09:34:19"
+   },
+   {
+    "with": "David Chen (CFO)",
+    "direction": "outbound",
+    "text": "Deck's ready for 9am — final version in the shared Drive folder, link in your inbox. Holler if you want changes before then.",
+    "time": "2026-05-10T21:29:59"
+   },
+   {
+    "with": "David Chen (CFO)",
+    "direction": "sent",
+    "text": "On it — pulling the vendor reforecast now, will have v2 in #finance-leadership by EOD.",
+    "time": "2026-05-12T10:34:57"
+   },
+   {
+    "with": "Jennifer 'Jen' Halloran-Reese",
+    "direction": "sent",
+    "text": "Confirmed, Tom & Patty have the kids tonight 🙏 I might be on the close late, don't wait up. Love you.",
+    "time": "2026-05-12T13:24:44"
+   },
+   {
+    "with": "Allison Reese-Vogel",
+    "direction": "sent",
+    "text": "Can we line up that facility tour for Dad? Just want to see the place before we talk numbers. No pressure on him yet — let's keep it quiet until we've actually looked.",
+    "time": "2026-05-12T21:39:58"
+   },
+   {
+    "with": "Allison Reese-Vogel",
+    "direction": "sent",
+    "text": "Al, $9k/mo is not something I can just absorb right now, you know my situation. I'm not saying no, I'm saying let's not fight about the split before we've even toured. Can we please just talk after the tour?",
+    "time": "2026-05-13T20:13:48"
+   },
+   {
+    "with": "Marcus 'Marc' Oduya",
+    "direction": "sent",
+    "text": "Arclight final round has me wound up man. Haven't told anyone but you and Al. If this leaks at Nimbus before I have ink on paper I'm cooked. Keep it in the vault.",
+    "time": "2026-05-14T12:55:44"
+   },
+   {
+    "with": "NimbusLedger team channel",
+    "direction": "sent",
+    "text": "Heads down on the forecast this morning — slacking off DMs til ~11. Ping the analysts for anything urgent. 👍",
+    "time": "2026-05-15T08:35:50"
+   },
+   {
+    "with": "Rachel Vandermeer (Stonefork — alias m.reese85.careers@gmail.com)",
+    "direction": "sent",
+    "text": "Rachel — that round felt good, genuinely. What do next steps look like on comp? Trying to understand base/RSU split before I take this further. Please keep everything to this address only.",
+    "time": "2026-05-15T14:10:36"
+   },
+   {
+    "with": "Allison Reese-Vogel",
+    "direction": "sent",
+    "text": "Okay — I think the one we toured is the one. Let's shortlist it. We still need to sort the cost-split but at least we agree on the place. Progress.",
+    "time": "2026-05-16T14:43:08"
+   },
+   {
+    "with": "Jennifer 'Jen' Halloran-Reese",
+    "direction": "sent",
+    "text": "Had a genuinely good week at work for once. Tell you more later. Things might be looking up. ❤️",
+    "time": "2026-05-16T20:56:26"
+   },
+   {
+    "with": "Marcus 'Marc' Oduya",
+    "direction": "sent",
+    "text": "Might actually have to make a real decision soon. Two doors open and I can't tell anyone at Nimbus. Stomach's been in knots all week honestly.",
+    "time": "2026-05-17T23:38:34"
+   },
+   {
+    "with": "David Chen (CFO)",
+    "direction": "outbound",
+    "text": "Confirmed for Mon 9am 👍 I'll have the close variance and the vendor ACH reconciliation ready. One flag on the Q2 audit list but nothing that can't wait til we sync.",
+    "time": "2026-05-18T08:44:00"
+   },
+   {
+    "with": "Rachel Vandermeer (recruiter, alias gmail)",
+    "direction": "outbound",
+    "text": "Hi Rachel — before I let Arclight move to paper, can we get Vellum to firm up that verbal? I don't want to walk into written terms with only one real number on the table. Comfortable saying that to them directly. Still keeping all of this very quiet on my end.",
+    "time": "2026-05-19T09:25:03"
+   },
+   {
+    "with": "Rachel Vandermeer (recruiter, alias gmail)",
+    "direction": "inbound",
+    "text": "Mike — good news, Vellum just confirmed the verbal is firm at the number we discussed. So you now effectively have two live. Arclight is ready to send paper this week. Want to talk through how we play them against each other? Calendly Fri 11am.",
+    "time": "2026-05-20T10:25:38"
+   },
+   {
+    "with": "Allison (sister, Signal)",
+    "direction": "inbound",
+    "text": "I'm here every week Mike. I'm the one driving him to the neuro appts. If we're doing memory care it has to be 60/40 and you know that's still generous given who actually shows up. I can't keep carrying this alone.",
+    "time": "2026-05-21T16:41:46"
+   },
+   {
+    "with": "Rachel Vandermeer (recruiter, alias gmail)",
+    "direction": "outbound",
+    "text": "Talked it through — leaning Arclight, the role's the better fit. But I want one more turn on comp before I commit, the base is fine but the equity is light vs the vesting I'm walking away from. Can you push once more? Then I'm ready to move.",
+    "time": "2026-05-22T11:51:56"
+   },
+   {
+    "with": "Jen (wife, iMessage)",
+    "direction": "outbound",
+    "text": "Landed, grabbing a cab to dad's now. Front door code still the same? Kiss the kids. Long week 🙏",
+    "time": "2026-05-22T21:50:42"
+   },
+   {
+    "with": "Allison (sister, Signal)",
+    "direction": "outbound",
+    "text": "Here 9am tomorrow. Let's just walk the place together before we fight about money again. I want to get this right for him.",
+    "time": "2026-05-23T07:45:25"
+   },
+   {
+    "with": "Jen (wife, iMessage)",
+    "direction": "outbound",
+    "text": "Tell Caleb I'm so sorry I'm missing soccer. Promise I'll be at the next one. Send me a video? Feel terrible I'm not there.",
+    "time": "2026-05-23T10:38:08"
+   },
+   {
+    "with": "Allison (sister, Signal)",
+    "direction": "inbound",
+    "text": "$9k a month Mike. I can't float 40% of that on an RN salary and you know it. You make almost four times what I do. This isn't about who's 'there more' — it's about who can actually pay. We can't keep stalling, the bed opens in three weeks.",
+    "time": "2026-05-23T18:40:28"
+   },
+   {
+    "with": "Jen (wife, iMessage)",
+    "direction": "outbound",
+    "text": "Tour actually went well, place is decent and the staff seem kind. Cost thing with Allie still not settled, it got tense. Flying back tomorrow. I'm wiped. Love you.",
+    "time": "2026-05-24T21:34:58"
+   },
+   {
+    "with": "Rachel Vandermeer (recruiter, alias gmail)",
+    "direction": "outbound",
+    "text": "Okay. Tentatively yes on Arclight — I'll accept pending final written terms. Once the offer letter's in hand I'll start thinking about timing on my side. Please keep this fully confidential until I've signed; it cannot get back to anyone here.",
+    "time": "D21 21:31"
+   },
+   {
+    "with": "Jen",
+    "direction": "outgoing",
+    "text": "morning — I can grab Caleb from soccer Tue and Thurs this week, Jen has me till 6 anyway. You taking Wed? sorry, brain's mush, didn't sleep",
+    "time": "2026-05-25T07:07:50"
+   },
+   {
+    "with": "Rachel Vandermeer (alias)",
+    "direction": "outgoing",
+    "text": "hey — any word on the written from Arclight's side? trying not to refresh my inbox every ten minutes lol. happy to nudge if it helps",
+    "time": "2026-05-25T13:08:51"
+   },
+   {
+    "with": "Rachel Vandermeer (alias)",
+    "direction": "outgoing",
+    "text": "opening now — give me an hour, in back-to-backs and can't read it properly on my phone. will call you on the alias after",
+    "time": "2026-05-26T06:39:15"
+   },
+   {
+    "with": "Marc Oduya",
+    "direction": "outgoing",
+    "text": "man it's real. written's in hand. I'm shaking a little ngl. don't say anything to anyone — not the group, not even hypothetically. you and Allison are the only two who know",
+    "time": "2026-05-26T22:40:40"
+   },
+   {
+    "with": "Rachel Vandermeer (alias)",
+    "direction": "outgoing",
+    "text": "can you buy me 48 to respond? I want to do this right. and honestly — is there any way to put Vellum next to it? not to play games, just so I walk in with a number I can live with",
+    "time": "2026-05-27T09:42:36"
+   },
+   {
+    "with": "Allison",
+    "direction": "incoming",
+    "text": "ok. Dad's place is decided, I toured it Thursday, he goes end of month. but Mike we HAVE to settle the split now, I can't keep fronting deposits on an RN salary while you sit on RSUs",
+    "time": "2026-05-27T21:19:06"
+   },
+   {
+    "with": "Allison",
+    "direction": "incoming",
+    "text": "60/40 isn't me being greedy. I drive there every week. I do the doctor calls. you have the POA and a director title.\n[outgoing] Al I'm not arguing the work, I'm saying 50/50 is what's fair on paper and I'm stretched thinner than you think right now\n[incoming] thinner than ME?",
+    "time": "2026-05-28T11:07:14"
+   },
+   {
+    "with": "Jen",
+    "direction": "outgoing",
+    "text": "I'm coming to Caleb's game Saturday. blocking it, phone off, no laptop. I mean it this time. I missed the recital and I still feel sick about it",
+    "time": "2026-05-29T09:13:26"
+   },
+   {
+    "with": "Marc",
+    "direction": "outgoing",
+    "text": "you set your flex yet? start Dlo, Mahomes is a trap this week.\n…anyway. leaning yes on Arclight. 90% there. just need to not blow it up before there's ink",
+    "time": "2026-05-29T16:43:20"
+   },
+   {
+    "with": "Jen",
+    "direction": "outgoing",
+    "text": "hey. so — there's something I've been working on for a few months and I should've told you sooner. the offer's good. really good. we should talk tonight after the kids are down. it's nothing bad, I promise",
+    "time": "2026-05-30T08:28:57"
+   },
+   {
+    "with": "Jen",
+    "direction": "outgoing",
+    "text": "thank you for not being mad I sat on it. ok so: base is up 28, the RSU cliff is the only thing I'm leaving on the table, ~8 months out. mortgage still works if I time the resignation after, not before. I just didn't want to scare you with a maybe",
+    "time": "2026-05-30T18:44:05"
+   },
+   {
+    "with": "David Chen",
+    "direction": "incoming",
+    "text": "need the Q2 forecast cut before EOD — board prep. ping me when it's in. D",
+    "time": "2026-05-31T09:58:26"
+   },
+   {
+    "with": "Rachel Vandermeer (alias)",
+    "direction": "outgoing",
+    "text": "works — let's lock the Arclight start for the 1st. send the background-check forms to the personal email, NOT anything with nimbus on it. I'll do them tonight from home",
+    "time": "2026-05-31T11:39:35"
+   }
+  ],
+  "calendar": [
+   {
+    "summary": "1:1 — David Chen (CFO)",
+    "time": "2026-05-04T09:06:26"
+   },
+   {
+    "summary": "Dad - call neurologist",
+    "time": "2026-05-07T16:12:02"
+   },
+   {
+    "summary": "Dentist",
+    "time": "2026-05-08T11:19:27"
+   },
+   {
+    "summary": "In-law kid handoff (Tue) — coordinate w/ Jen",
+    "time": "2026-05-11T07:27:37"
+   },
+   {
+    "summary": "1:1 David Chen (CFO) — deck review",
+    "time": "2026-05-11T09:16:18"
+   },
+   {
+    "summary": "Deep Work — Forecast Model",
+    "time": "2026-05-13T11:29:51"
+   },
+   {
+    "summary": "Dentist",
+    "time": "2026-05-14T09:11:35"
+   },
+   {
+    "summary": "Dad - call neurologist",
+    "time": "2026-05-14T16:22:55"
+   },
+   {
+    "summary": "Dad - memory care tour travel (tentative)",
+    "time": "2026-05-17T15:51:24"
+   },
+   {
+    "summary": "Peloton – 15 min morning ride",
+    "time": "2026-05-21T07:32:46"
+   },
+   {
+    "summary": "Dad – call neurologist",
+    "time": "2026-05-21T16:07:07"
+   },
+   {
+    "summary": "Dentist",
+    "time": "2026-05-22T11:07:20"
+   },
+   {
+    "summary": "Review board-prep deck (Drive)",
+    "time": "2026-05-24T20:36:54"
+   },
+   {
+    "summary": "CFO 1:1 — board prep deck review",
+    "time": "2026-05-25T08:43:20"
+   },
+   {
+    "summary": "Dentist",
+    "time": "2026-05-26T08:46:15"
+   },
+   {
+    "summary": "School pickup — Caleb",
+    "time": "2026-05-27T15:18:40"
+   },
+   {
+    "summary": "PT — knee",
+    "time": "2026-05-28T13:17:53"
+   },
+   {
+    "summary": "CFO 1:1",
+    "time": "2026-05-31T08:44:46"
+   }
+  ],
+  "searches": [
+   {
+    "query": "coast fire number two kids daycare",
+    "time": "2026-05-04T13:03:20"
+   },
+   {
+    "query": "refi rates austin northwest hills",
+    "time": "2026-05-04T23:18:58"
+   },
+   {
+    "query": "sp500 today",
+    "time": "2026-05-05T13:11:47"
+   },
+   {
+    "query": "memory care cost naperville il average monthly",
+    "time": "2026-05-06T14:44:27"
+   },
+   {
+    "query": "does medicare cover memory care assisted living",
+    "time": "2026-05-06T15:48:35"
+   },
+   {
+    "query": "arclight capital systems glassdoor director comp",
+    "time": "2026-05-07T17:29:11"
+   },
+   {
+    "query": "how to counter director level base + rsu offer",
+    "time": "2026-05-08T12:21:29"
+   },
+   {
+    "query": "fintech director total comp bands austin",
+    "time": "2026-05-08T23:23:40"
+   },
+   {
+    "query": "travis county property tax refund 2026",
+    "time": "2026-05-10T13:49:39"
+   },
+   {
+    "query": "zillow refinance break even calculator",
+    "time": "2026-05-10T22:40:08"
+   },
+   {
+    "query": "rsu early exercise tax hit vs waiting to vest",
+    "time": "2026-05-11T12:53:23"
+   },
+   {
+    "query": "arclight capital systems director finance salary",
+    "time": "2026-05-11T23:09:42"
+   },
+   {
+    "query": "brighton gardens naperville memory care monthly cost",
+    "time": "2026-05-12T19:54:33"
+   },
+   {
+    "query": "long term care insurance vs self pay memory care illinois",
+    "time": "2026-05-13T21:50:56"
+   },
+   {
+    "query": "arclight capital systems leadership team glassdoor finance director interview questions",
+    "time": "2026-05-14T17:39:54"
+   },
+   {
+    "query": "arclight vs nimbusledger comp band director",
+    "time": "2026-05-15T23:01:25"
+   },
+   {
+    "query": "how to negotiate competing offer without current employer finding out",
+    "time": "2026-05-17T20:55:04"
+   },
+   {
+    "query": "arclight capital systems director of finance base salary rsu glassdoor",
+    "time": "2026-05-18T06:49:36"
+   },
+   {
+    "query": "how to negotiate two competing offers same industry without either rescinding",
+    "time": "2026-05-18T10:09:34"
+   },
+   {
+    "query": "schwab early exercise iso vs rsu tax austin tx",
+    "time": "2026-05-18T23:19:59"
+   },
+   {
+    "query": "how much equity should i ask for director total comp fintech",
+    "time": "2026-05-19T11:19:05"
+   },
+   {
+    "query": "vellum finance offer letter timeline verbal to written how long",
+    "time": "2026-05-20T06:41:06"
+   },
+   {
+    "query": "leverage competing job offers without burning bridges recruiter",
+    "time": "2026-05-20T13:35:05"
+   },
+   {
+    "query": "naperville memory care 9k month how do siblings split cost",
+    "time": "2026-05-21T17:26:41"
+   },
+   {
+    "query": "cheap flights aus to ord friday return sunday",
+    "time": "2026-05-21T23:22:41"
+   },
+   {
+    "query": "how to ask for more time before accepting offer two weeks",
+    "time": "2026-05-22T09:20:23"
+   },
+   {
+    "query": "long term care insurance pay memory care retroactive illinois",
+    "time": "2026-05-23T12:14:50"
+   },
+   {
+    "query": "how to negotiate written offer after verbal lean-in",
+    "time": "2026-05-25T12:55:46"
+   },
+   {
+    "query": "zillow naperville comps",
+    "time": "2026-05-25T23:29:56"
+   },
+   {
+    "query": "memory care cost naperville il 2026",
+    "time": "2026-05-26T13:21:07"
+   },
+   {
+    "query": "arclight capital systems glassdoor director finance equity refresh",
+    "time": "2026-05-27T12:27:21"
+   },
+   {
+    "query": "how much notice director finance fintech standard two weeks vs four",
+    "time": "2026-05-28T08:54:36"
+   },
+   {
+    "query": "long term care insurance does it cover memory care assisted living",
+    "time": "2026-05-28T23:20:33"
+   },
+   {
+    "query": "how to resign gracefully without burning bridges cfo",
+    "time": "2026-05-29T20:47:51"
+   },
+   {
+    "query": "naperville bob reese facility move in checklist eldercare",
+    "time": "2026-05-30T23:39:22"
+   },
+   {
+    "query": "two weeks notice email template director finance",
+    "time": "2026-05-31T12:22:40"
+   },
+   {
+    "query": "does new employer background check contact current employer fintech",
+    "time": "2026-06-28T12:47:27"
+   }
+  ],
+  "locations": [
+   {
+    "place": "Hill Country Elementary (pickup line)",
+    "lat": 30.310014,
+    "lon": -97.829793,
+    "time": "2026-05-04T14:59:05"
+   },
+   {
+    "place": "NimbusLedger Austin satellite office, 300 W 6th St",
+    "lat": 30.268846,
+    "lon": -97.74726,
+    "time": "2026-05-05T08:47:41"
+   },
+   {
+    "place": "NimbusLedger Austin satellite office, 300 W 6th St",
+    "lat": 30.267543,
+    "lon": -97.74583,
+    "time": "2026-05-06T08:23:39"
+   },
+   {
+    "place": "Costco Wholesale, Cedar Park",
+    "lat": 30.521699,
+    "lon": -97.805,
+    "time": "2026-05-09T10:35:41"
+   },
+   {
+    "place": "Champion Park soccer fields, Cedar Park",
+    "lat": 30.497656,
+    "lon": -97.812792,
+    "time": "2026-05-09T11:34:09"
+   },
+   {
+    "place": "Hill Country Elementary (pickup line, Eanes ISD)",
+    "lat": 30.307645,
+    "lon": -97.840104,
+    "time": "2026-05-11T14:56:41"
+   },
+   {
+    "place": "300 W 6th St, NimbusLedger office, Downtown Austin",
+    "lat": 30.269476,
+    "lon": -97.746816,
+    "time": "2026-05-12T07:58:05"
+   },
+   {
+    "place": "I-35 N near E Riverside Dr (commute corridor)",
+    "lat": 30.243595,
+    "lon": -97.726826,
+    "time": "2026-05-13T07:57:15"
+   },
+   {
+    "place": "Costco Wholesale, Cedar Park (13130 US-183)",
+    "lat": 30.458127,
+    "lon": -97.79387,
+    "time": "2026-05-16T10:17:56"
+   },
+   {
+    "place": "Brushy Creek Sports Park (youth soccer fields), Cedar Park",
+    "lat": 30.507612,
+    "lon": -97.823796,
+    "time": "2026-05-16T11:32:53"
+   },
+   {
+    "place": "I-35 S near US-290 interchange, Austin, TX (CarPlay commute)",
+    "lat": 30.308014,
+    "lon": -97.711616,
+    "time": "2026-05-19T07:08:51"
+   },
+   {
+    "place": "NimbusLedger Austin satellite office, 300 W 6th St, Austin, TX",
+    "lat": 30.269378,
+    "lon": -97.74877,
+    "time": "2026-05-19T08:56:18"
+   },
+   {
+    "place": "Hill Country Elementary pickup loop, Austin, TX",
+    "lat": 30.359122,
+    "lon": -97.784159,
+    "time": "2026-05-19T15:03:28"
+   },
+   {
+    "place": "Home office, Northwest Hills, Austin, TX",
+    "lat": 30.366493,
+    "lon": -97.766789,
+    "time": "2026-05-19T23:23:14"
+   },
+   {
+    "place": "NimbusLedger Austin satellite office, 300 W 6th St, Austin, TX",
+    "lat": 30.267137,
+    "lon": -97.747697,
+    "time": "2026-05-20T08:55:36"
+   },
+   {
+    "place": "Hill Country Elementary pickup loop, Austin, TX",
+    "lat": 30.360499,
+    "lon": -97.783155,
+    "time": "2026-05-20T15:02:28"
+   },
+   {
+    "place": "Austin-Bergstrom Intl Airport (AUS), Austin, TX",
+    "lat": 30.19356,
+    "lon": -97.670882,
+    "time": "2026-05-22T16:50:38"
+   },
+   {
+    "place": "AUS Gate, Barbara Jordan Terminal, Austin, TX",
+    "lat": 30.197201,
+    "lon": -97.665441,
+    "time": "2026-05-22T18:29:03"
+   },
+   {
+    "place": "Memory-care facility, Naperville, IL",
+    "lat": 41.747965,
+    "lon": -88.166326,
+    "time": "2026-05-23T09:24:40"
+   },
+   {
+    "place": "Bob's residence, Naperville, IL",
+    "lat": 41.770695,
+    "lon": -88.147276,
+    "time": "2026-05-23T14:16:57"
+   },
+   {
+    "place": "O'Hare Intl Airport (ORD), Chicago, IL",
+    "lat": 41.973564,
+    "lon": -87.907056,
+    "time": "2026-05-24T08:07:31"
+   },
+   {
+    "place": "In-flight, ORD→AUS over southern Missouri",
+    "lat": 36.649155,
+    "lon": -91.899885,
+    "time": "2026-05-24T11:22:06"
+   },
+   {
+    "place": "Home, Northwest Hills, Austin, TX",
+    "lat": 30.367748,
+    "lon": -97.766939,
+    "time": "2026-05-24T14:40:57"
+   },
+   {
+    "place": "Costco Wholesale, Cedar Park",
+    "lat": 30.522149,
+    "lon": -97.809135,
+    "time": "2026-05-29T07:48:12"
+   },
+   {
+    "place": "Champion Park Soccer Fields, Cedar Park (Hill Country)",
+    "lat": 30.498647,
+    "lon": -97.765369,
+    "time": "2026-05-29T11:41:06"
+   }
+  ],
+  "videos": [
+   {
+    "title": "Naperville Facility Walkthrough — Coordinator Sync (live)",
+    "channel": "Zoom",
+    "time": "2026-05-13T16:29:59"
+   },
+   {
+    "title": "Arclight Capital — Final Round: Hiring Manager Interview",
+    "channel": "Zoom",
+    "time": "2026-05-15T11:01:52"
+   },
+   {
+    "title": "Arclight Capital — Final Round: Peer Panel",
+    "channel": "Zoom",
+    "time": "2026-05-15T12:20:07"
+   },
+   {
+    "title": "Arclight Capital — Final Round: VP Finance Interview",
+    "channel": "Zoom",
+    "time": "2026-05-15T13:42:27"
+   }
+  ]
+ },
+ "_meta": {
+  "total_days": 30,
+  "n_events": 231
+ }
+}

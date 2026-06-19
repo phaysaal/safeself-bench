@@ -1,0 +1,633 @@
+{
+ "persona_id": "?:1",
+ "persona_slug": "The Vengeful Ex-Partner",
+ "intake_version": "synth-activity-v2-chunked",
+ "samples": {
+  "media": [
+   {
+    "name": "Google Drive",
+    "time": "2026-05-04T13:20:10"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-11T06:09:28"
+   },
+   {
+    "name": "SimplePractice",
+    "time": "2026-05-11T09:47:25"
+   },
+   {
+    "name": "Substack",
+    "time": "2026-05-11T12:46:40"
+   },
+   {
+    "name": "SimplePractice",
+    "time": "2026-05-11T14:54:30"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-12T06:28:15"
+   },
+   {
+    "name": "SimplePractice",
+    "time": "2026-05-12T08:48:58"
+   },
+   {
+    "name": "Apple News",
+    "time": "2026-05-12T13:09:12"
+   },
+   {
+    "name": "OurFamilyWizard",
+    "time": "2026-05-12T02:36:17"
+   },
+   {
+    "name": "Zoom",
+    "time": "2026-05-13T09:57:22"
+   },
+   {
+    "name": "OurFamilyWizard",
+    "time": "2026-05-13T15:46:41"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-13T19:18:39"
+   },
+   {
+    "name": "Instacart",
+    "time": "2026-05-13T22:15:14"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-14T06:25:50"
+   },
+   {
+    "name": "SimplePractice",
+    "time": "2026-05-14T08:37:36"
+   },
+   {
+    "name": "NYT",
+    "time": "2026-05-14T13:22:36"
+   },
+   {
+    "name": "Kindle",
+    "time": "2026-05-14T22:07:02"
+   },
+   {
+    "name": "OurFamilyWizard",
+    "time": "2026-05-14T03:02:12"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-15T06:31:35"
+   },
+   {
+    "name": "SimplePractice",
+    "time": "2026-05-15T10:10:17"
+   },
+   {
+    "name": "Substack",
+    "time": "2026-05-15T12:55:35"
+   },
+   {
+    "name": "Settings",
+    "time": "2026-05-15T17:37:56"
+   },
+   {
+    "name": "Instacart",
+    "time": "2026-05-15T21:24:56"
+   },
+   {
+    "name": "Google Photos",
+    "time": "2026-05-16T14:10:24"
+   },
+   {
+    "name": "Kindle",
+    "time": "2026-05-16T23:10:05"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-17T08:06:07"
+   },
+   {
+    "name": "Google Calendar",
+    "time": "2026-05-17T14:39:04"
+   },
+   {
+    "name": "FaceTime",
+    "time": "2026-05-17T19:03:51"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-17T21:48:00"
+   },
+   {
+    "name": "OurFamilyWizard",
+    "time": "2026-05-17T23:39:10"
+   },
+   {
+    "name": "OurFamilyWizard",
+    "time": "2026-05-17T03:02:08"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-18T06:51:51"
+   },
+   {
+    "name": "Substack",
+    "time": "2026-05-18T12:43:11"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-18T23:25:19"
+   },
+   {
+    "name": "OurFamilyWizard",
+    "time": "2026-05-18T03:07:28"
+   },
+   {
+    "name": "Google Calendar",
+    "time": "2026-05-19T06:27:19"
+   },
+   {
+    "name": "NYT Spelling Bee",
+    "time": "2026-05-19T12:55:31"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-19T19:58:29"
+   },
+   {
+    "name": "Kindle",
+    "time": "2026-05-19T23:36:40"
+   },
+   {
+    "name": "OurFamilyWizard",
+    "time": "2026-05-19T02:54:28"
+   },
+   {
+    "name": "Google Drive",
+    "time": "2026-05-20T09:02:29"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-20T20:45:39"
+   },
+   {
+    "name": "OurFamilyWizard",
+    "time": "2026-05-20T03:23:49"
+   },
+   {
+    "name": "Apple News",
+    "time": "2026-05-21T12:49:18"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-21T18:41:51"
+   },
+   {
+    "name": "Netflix",
+    "time": "2026-05-21T22:36:30"
+   },
+   {
+    "name": "OurFamilyWizard",
+    "time": "2026-05-21T03:09:52"
+   },
+   {
+    "name": "Google Drive",
+    "time": "2026-05-22T09:59:18"
+   },
+   {
+    "name": "Substack",
+    "time": "2026-05-22T13:04:34"
+   },
+   {
+    "name": "Instacart",
+    "time": "2026-05-22T17:57:48"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-22T23:38:51"
+   },
+   {
+    "name": "OurFamilyWizard",
+    "time": "2026-05-23T00:02:00"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-23T10:14:50"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-23T16:02:55"
+   },
+   {
+    "name": "Netflix",
+    "time": "2026-05-23T20:43:32"
+   },
+   {
+    "name": "OurFamilyWizard",
+    "time": "2026-05-23T03:05:26"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-24T08:37:53"
+   },
+   {
+    "name": "Kindle",
+    "time": "2026-05-24T22:38:16"
+   },
+   {
+    "name": "OurFamilyWizard",
+    "time": "2026-05-24T01:22:01"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-24T02:37:05"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-25T02:54:54"
+   },
+   {
+    "name": "OurFamilyWizard",
+    "time": "2026-05-25T03:22:03"
+   },
+   {
+    "name": "Substack",
+    "time": "2026-05-25T12:54:45"
+   },
+   {
+    "name": "NYT Spelling Bee",
+    "time": "2026-05-25T13:03:53"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-25T21:39:12"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-26T03:22:47"
+   },
+   {
+    "name": "Apple News",
+    "time": "2026-05-26T13:09:04"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-26T22:41:42"
+   },
+   {
+    "name": "OurFamilyWizard",
+    "time": "2026-05-27T03:05:41"
+   },
+   {
+    "name": "Google Drive",
+    "time": "2026-05-27T10:20:31"
+   },
+   {
+    "name": "Google Drive",
+    "time": "2026-05-27T15:19:00"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-27T23:56:52"
+   },
+   {
+    "name": "Apple News",
+    "time": "2026-05-28T12:55:52"
+   },
+   {
+    "name": "Netflix",
+    "time": "2026-05-28T21:01:07"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-28T22:39:22"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-29T03:23:09"
+   },
+   {
+    "name": "OurFamilyWizard",
+    "time": "2026-05-29T04:03:32"
+   },
+   {
+    "name": "Substack",
+    "time": "2026-05-29T12:39:59"
+   },
+   {
+    "name": "Instacart",
+    "time": "2026-05-29T17:25:34"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-29T20:35:14"
+   },
+   {
+    "name": "Netflix",
+    "time": "2026-05-29T22:10:40"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-30T09:27:49"
+   },
+   {
+    "name": "Google Drive",
+    "time": "2026-05-30T13:35:27"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-30T14:28:47"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-30T18:04:36"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-30T20:46:34"
+   },
+   {
+    "name": "Kindle",
+    "time": "2026-05-30T23:42:24"
+   },
+   {
+    "name": "OurFamilyWizard",
+    "time": "2026-05-31T02:41:18"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-31T03:10:41"
+   },
+   {
+    "name": "Apple News",
+    "time": "2026-05-31T14:30:02"
+   },
+   {
+    "name": "Netflix",
+    "time": "2026-05-31T22:30:43"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-31T23:52:11"
+   },
+   {
+    "name": "OurFamilyWizard",
+    "time": "2026-06-01T08:34:36"
+   },
+   {
+    "name": "NYT Spelling Bee",
+    "time": "2026-06-01T12:49:51"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-06-01T02:50:48"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-06-01T03:34:31"
+   },
+   {
+    "name": "Google Calendar",
+    "time": "2026-06-02T07:40:25"
+   },
+   {
+    "name": "Google Drive",
+    "time": "2026-06-02T11:05:54"
+   },
+   {
+    "name": "Apple News",
+    "time": "2026-06-02T14:00:15"
+   },
+   {
+    "name": "Google Maps",
+    "time": "2026-06-02T15:14:16"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-06-02T16:36:19"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-06-02T20:03:06"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-06-02T22:43:03"
+   }
+  ],
+  "locations": [
+   {
+    "place": "Winooski Ave, Burlington, VT",
+    "lat": 44.479844,
+    "lon": -73.205242,
+    "time": "2026-05-11T08:24:55"
+   },
+   {
+    "place": "Sangha Studio, Burlington, VT",
+    "lat": 44.484903,
+    "lon": -73.200601,
+    "time": "2026-05-13T06:55:54"
+   },
+   {
+    "place": "City Hall Park, Burlington, VT",
+    "lat": 44.477531,
+    "lon": -73.21321,
+    "time": "2026-05-16T08:56:18"
+   },
+   {
+    "place": "Yoga Studio, Burlington, VT",
+    "lat": 44.482936,
+    "lon": -73.194418,
+    "time": "2026-05-17T11:02:05"
+   }
+  ],
+  "searches": [
+   {
+    "query": "2br condos south end burlington",
+    "time": "2026-05-11T23:37:01"
+   },
+   {
+    "query": "taxes do not delete",
+    "time": "2026-05-13T03:20:01"
+   },
+   {
+    "query": "vermont mortgage refinance requirements",
+    "time": "2026-05-16T14:09:12"
+   },
+   {
+    "query": "2br condos south end burlington",
+    "time": "2026-05-18T03:17:55"
+   },
+   {
+    "query": "winooski vt homes",
+    "time": "2026-05-21T03:10:37"
+   },
+   {
+    "query": "protect assets vt divorce",
+    "time": "2026-05-23T13:58:05"
+   },
+   {
+    "query": "luxury condos south end burlington",
+    "time": "2026-05-23T02:58:34"
+   },
+   {
+    "query": "vt custody law changes 2025",
+    "time": "2026-05-24T13:46:02"
+   },
+   {
+    "query": "2br condos burlington south end",
+    "time": "2026-05-26T03:37:50"
+   },
+   {
+    "query": "122 college st burlington",
+    "time": "2026-05-28T03:34:40"
+   },
+   {
+    "query": "2br condos burlington vt",
+    "time": "2026-05-30T15:12:41"
+   },
+   {
+    "query": "new listings burlington",
+    "time": "2026-05-31T03:29:18"
+   },
+   {
+    "query": "anne helen petersen substack",
+    "time": "2026-06-01T12:44:40"
+   },
+   {
+    "query": "2br condos burlington vt south end",
+    "time": "2026-06-01T03:12:44"
+   }
+  ],
+  "messages": [
+   {
+    "with": "Rachel Hines-Park",
+    "direction": "to",
+    "text": "Just got the kids down. Maya is being so sweet, but Eli is a handful tonight. Thinking of you. ❤️",
+    "time": "2026-05-12T18:32:21"
+   },
+   {
+    "with": "Maren Okafor-Bell",
+    "direction": "to",
+    "text": "Maren, I'm hitting a wall. Another OFW notification right as I was trying to decompress. I just don't have the capacity to hold space for this right now. It's exhausting.",
+    "time": "2026-05-14T18:32:48"
+   },
+   {
+    "with": "Rachel Hines-Park",
+    "direction": "to",
+    "text": "The lawyer sent another update about the GAL report. I'm trying to stay regulated, but it's hard. Talk Sunday at 8?",
+    "time": "2026-05-16T18:11:31"
+   },
+   {
+    "with": "Rachel Hines-Park",
+    "direction": "to",
+    "text": "I am struggling so hard to hold space for Maya's transition days when David is being this obstructive with the schedule. It's completely undermining her stability.",
+    "time": "2026-05-18T18:29:54"
+   },
+   {
+    "with": "Jennifer Yao, Esq.",
+    "direction": "to",
+    "text": "Dear Jennifer, please find the updated bank statements attached for the upcoming financial affidavit. Let me know if you need anything else.",
+    "time": "2026-05-20T11:13:43"
+   },
+   {
+    "with": "Maren Okafor-Bell",
+    "direction": "to",
+    "text": "The discovery process is just... it's heavy. I feel like my entire history is being dissected. I don't have the capacity to process the weight of it all today.",
+    "time": "2026-05-20T16:55:37"
+   },
+   {
+    "with": "Jennifer Yao, Esq.",
+    "direction": "to",
+    "text": "Hi Jennifer, confirming receipt of the draft GAL report notes. I will review and provide my comments by EOD tomorrow.",
+    "time": "2026-05-22T15:29:54"
+   },
+   {
+    "with": "Rachel Hines-Park",
+    "direction": "to",
+    "text": "It's finally filed! 🥂 I feel like I can actually breathe for five minutes. Let's FaceTime later?",
+    "time": "2026-05-22T20:12:16"
+   },
+   {
+    "with": "Maren Okafor-Bell",
+    "direction": "to",
+    "text": "Are you still free for Pingala on Tuesday? I really need a break from my own brain.",
+    "time": "2026-05-24T19:33:26"
+   },
+   {
+    "with": "Rachel",
+    "direction": "to",
+    "text": "Rough night, kids are finally down. Send coffee. ☕️",
+    "time": "2026-05-25T08:51:14"
+   },
+   {
+    "with": "Maren",
+    "direction": "to",
+    "text": "Running late, client session went long. Still on for dinner? 🥗",
+    "time": "2026-05-26T18:41:52"
+   },
+   {
+    "with": "Jennifer Yao",
+    "direction": "to",
+    "text": "Hi Jennifer, I've reviewed the latest draft of the financial affidavit. I have a few concerns regarding the valuation of the Victorian equity and need to adjust the 2023 Venmo totals to ensure accuracy before we file. Can we touch base?",
+    "time": "2026-05-27T14:40:51"
+   },
+   {
+    "with": "Rachel",
+    "direction": "to",
+    "text": "Feeling completely drained. This legal stuff is relentless. I just can't turn my brain off tonight. 😞",
+    "time": "2026-05-28T18:55:07"
+   },
+   {
+    "with": "Maren",
+    "direction": "to",
+    "text": "Can we talk tomorrow? Need to vent about the legal docs. It's getting heavy. 🧠",
+    "time": "2026-05-31T18:56:22"
+   },
+   {
+    "with": "Rachel Hines-Park",
+    "direction": "from",
+    "text": "Checking in, how are you holding up?",
+    "time": "2026-06-01T06:37:57"
+   }
+  ],
+  "videos": [
+   {
+    "title": "The Social Dilemma",
+    "channel": "Netflix",
+    "time": "2026-05-12T21:00:43"
+   },
+   {
+    "title": "Encanto",
+    "channel": "Netflix",
+    "time": "2026-05-15T18:52:42"
+   },
+   {
+    "title": "Queer Eye",
+    "channel": "Netflix",
+    "time": "2026-05-16T20:36:36"
+   },
+   {
+    "title": "Our Planet",
+    "channel": "Netflix",
+    "time": "2026-06-01T21:28:16"
+   }
+  ],
+  "calendar": [
+   {
+    "summary": "Meeting with Jennifer Yao, Esq.",
+    "time": "2026-05-27T09:09:42"
+   },
+   {
+    "summary": "Review Monday client schedule",
+    "time": "2026-05-31T11:04:07"
+   }
+  ]
+ },
+ "_meta": {
+  "total_days": 30,
+  "n_events": 144
+ }
+}

@@ -1,0 +1,1299 @@
+{
+ "persona_id": "?:1",
+ "persona_slug": "The Data Broker AI",
+ "intake_version": "synth-activity-v2-chunked",
+ "samples": {
+  "videos": [
+   {
+    "title": "Quick Stress‑Relief Stretch Routine 🌿 #selfcare",
+    "channel": "WellnessWithMia",
+    "time": "2026-05-04T06:05:16"
+   },
+   {
+    "title": "Medical Bill Hacks: Cut Your Debt Fast!",
+    "channel": "DebtDoctor",
+    "time": "2026-05-04T16:30:42"
+   },
+   {
+    "title": "3‑Minute Cat Cuddle for Anxiety 😺",
+    "channel": "CozyCritters",
+    "time": "2026-05-05T05:39:54"
+   },
+   {
+    "title": "Boost Your Matches Tonight! 💖",
+    "channel": "DateSmart",
+    "time": "2026-05-05T16:43:22"
+   },
+   {
+    "title": "The GLP‑1 Trick Doctors Won’t Share 🤫",
+    "channel": "HealthHackGuru",
+    "time": "2026-05-06T06:08:07"
+   },
+   {
+    "title": "DoorDash Hacks: Maximize Your Pay 💰",
+    "channel": "DashProTips",
+    "time": "2026-05-06T16:57:02"
+   },
+   {
+    "title": "Sleep Better Tonight – Guided ASMR 🌙",
+    "channel": "CalmVibes",
+    "time": "2026-05-07T05:53:04"
+   },
+   {
+    "title": "0% APR Balance Transfer – Stop Paying Interest!",
+    "channel": "FinanceFix",
+    "time": "2026-05-07T16:32:33"
+   },
+   {
+    "title": "Start Your Day with Prayer & Gratitude 🙏",
+    "channel": "FaithfulMoments",
+    "time": "2026-05-08T05:47:07"
+   },
+   {
+    "title": "Kentucky Coal Mine Murder – Unsolved Mystery",
+    "channel": "CrimeChronicles",
+    "time": "2026-05-08T16:22:57"
+   },
+   {
+    "title": "FaceTime Call with Jay",
+    "channel": "Personal",
+    "time": "2026-05-08T21:53:13"
+   },
+   {
+    "title": "FaceTime Call with Jay",
+    "channel": "Personal",
+    "time": "2026-05-09T20:19:02"
+   },
+   {
+    "title": "Organize Your 2‑Bed Apartment in 10 Minutes!",
+    "channel": "NeatNest",
+    "time": "2026-05-10T07:19:27"
+   },
+   {
+    "title": "Love at the Harvest Festival",
+    "channel": "Hallmark Channel (Streaming)",
+    "time": "2026-05-10T19:13:33"
+   },
+   {
+    "title": "The Best Chicken Pot Pie Recipe | The Pioneer Woman",
+    "channel": "The Pioneer Woman",
+    "time": "2026-05-11T20:17:19"
+   },
+   {
+    "title": "How to Tackle Medical Debt Fast – Step‑by‑Step Plan",
+    "channel": "The Budget Mom",
+    "time": "2026-05-13T20:56:18"
+   },
+   {
+    "title": "90 Day Fiancé – Season 7, Episode 3 \"Love on the Line\"",
+    "channel": "Netflix",
+    "time": "2026-05-14T20:06:13"
+   },
+   {
+    "title": "Finding Hope in Hard Times | Sunday Sermon Clip",
+    "channel": "Grace Community Church",
+    "time": "2026-05-15T20:35:33"
+   },
+   {
+    "title": "A Summer Romance (Hallmark Movie) – Full Film",
+    "channel": "Netflix",
+    "time": "2026-05-16T21:10:27"
+   },
+   {
+    "title": "Guided Sleep Meditation for Anxiety Relief (30 min)",
+    "channel": "Meditative Mind",
+    "time": "2026-05-17T21:07:04"
+   },
+   {
+    "title": "A Second Chance at Summer",
+    "channel": "Hallmark Movies Now",
+    "time": "2026-05-18T20:43:08"
+   },
+   {
+    "title": "Homecoming for the Holidays",
+    "channel": "Hallmark Movies Now",
+    "time": "2026-05-23T19:20:38"
+   },
+   {
+    "title": "Love in the Harvest (Hallmark Movie)",
+    "channel": "Netflix",
+    "time": "2026-05-25T22:42:12"
+   },
+   {
+    "title": "90 Day Fiancé – Season 8 Episode 5 \"New Beginnings\"",
+    "channel": "TLC",
+    "time": "2026-05-26T20:09:33"
+   },
+   {
+    "title": "A Christmas Miracle (Hallmark) – Rewatch",
+    "channel": "Netflix",
+    "time": "2026-05-28T19:57:22"
+   },
+   {
+    "title": "How to Budget with Medical Debt | Finance Coach Sarah",
+    "channel": "Sarah's Finance Corner",
+    "time": "2026-05-30T19:58:03"
+   },
+   {
+    "title": "The Cost of Care (Netflix Documentary)",
+    "channel": "Netflix",
+    "time": "2026-05-31T20:23:16"
+   },
+   {
+    "title": "When you try to be productive but the cat steals your coffee ☕️😂",
+    "channel": "@midwestmemequeen",
+    "time": "2026-06-01T06:00:53"
+   },
+   {
+    "title": "The 3‑minute mystery of the missing Appalachian coal miner",
+    "channel": "TrueCrimeBite",
+    "time": "2026-06-01T16:01:58"
+   },
+   {
+    "title": "Brunch vibes with the squad 🍳🥞 #SundayFunday",
+    "channel": "instagram.com/katielovesfood",
+    "time": "2026-06-02T05:47:34"
+   },
+   {
+    "title": "Easy Deviled Egg Recipe for Church Potluck",
+    "channel": "SouthernKitchenTV",
+    "time": "2026-06-02T13:50:02"
+   },
+   {
+    "title": "Stop Collection Calls NOW: 3 Hacks That Actually Work",
+    "channel": "FinanceFixer",
+    "time": "2026-06-03T00:04:40"
+   }
+  ],
+  "media": [
+   {
+    "name": "Instagram",
+    "time": "2026-05-04T05:58:57"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-04T12:02:33"
+   },
+   {
+    "name": "DoorDash",
+    "time": "2026-05-04T20:54:46"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-04T23:49:36"
+   },
+   {
+    "name": "Spotify",
+    "time": "2026-05-05T06:25:35"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-05T11:57:54"
+   },
+   {
+    "name": "Email",
+    "time": "2026-05-05T14:07:10"
+   },
+   {
+    "name": "DoorDash",
+    "time": "2026-05-05T20:12:38"
+   },
+   {
+    "name": "Pinterest",
+    "time": "2026-05-05T22:34:58"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-05T23:29:29"
+   },
+   {
+    "name": "Email",
+    "time": "2026-05-06T08:01:45"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-06T12:15:04"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-06T23:31:29"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-07T11:57:44"
+   },
+   {
+    "name": "Email",
+    "time": "2026-05-07T15:43:58"
+   },
+   {
+    "name": "DoorDash",
+    "time": "2026-05-07T20:31:25"
+   },
+   {
+    "name": "Pinterest",
+    "time": "2026-05-07T22:50:56"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-07T23:45:08"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-08T12:24:26"
+   },
+   {
+    "name": "Uber Eats",
+    "time": "2026-05-08T20:38:17"
+   },
+   {
+    "name": "Venmo",
+    "time": "2026-05-08T22:58:15"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-08T23:24:18"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-09T10:32:40"
+   },
+   {
+    "name": "DoorDash",
+    "time": "2026-05-09T17:41:32"
+   },
+   {
+    "name": "Venmo",
+    "time": "2026-05-09T21:23:22"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-09T22:37:57"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-10T11:11:02"
+   },
+   {
+    "name": "Pinterest",
+    "time": "2026-05-10T16:49:33"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-10T22:25:41"
+   },
+   {
+    "name": "TikTok",
+    "time": "2026-05-10T23:47:59"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-11T11:48:48"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-11T12:09:07"
+   },
+   {
+    "name": "TikTok",
+    "time": "2026-05-11T16:52:27"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-12T09:20:30"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-12T11:51:05"
+   },
+   {
+    "name": "Calendar",
+    "time": "2026-05-12T14:29:37"
+   },
+   {
+    "name": "TikTok",
+    "time": "2026-05-12T16:34:50"
+   },
+   {
+    "name": "DoorDash",
+    "time": "2026-05-12T18:45:19"
+   },
+   {
+    "name": "Email",
+    "time": "2026-05-13T10:10:51"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-13T12:00:00"
+   },
+   {
+    "name": "TikTok",
+    "time": "2026-05-13T16:52:06"
+   },
+   {
+    "name": "DoorDash",
+    "time": "2026-05-13T18:46:56"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-14T09:02:28"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-14T11:51:36"
+   },
+   {
+    "name": "Calendar",
+    "time": "2026-05-14T15:08:58"
+   },
+   {
+    "name": "DoorDash",
+    "time": "2026-05-14T18:33:24"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-15T10:37:12"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-05-15T13:41:32"
+   },
+   {
+    "name": "DoorDash",
+    "time": "2026-05-15T18:13:43"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-16T10:39:31"
+   },
+   {
+    "name": "DoorDash",
+    "time": "2026-05-16T12:42:05"
+   },
+   {
+    "name": "TikTok",
+    "time": "2026-05-16T15:40:32"
+   },
+   {
+    "name": "DoorDash",
+    "time": "2026-05-16T18:44:46"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-17T09:36:54"
+   },
+   {
+    "name": "Pinterest",
+    "time": "2026-05-17T12:41:47"
+   },
+   {
+    "name": "Calendar",
+    "time": "2026-05-17T13:51:22"
+   },
+   {
+    "name": "TikTok",
+    "time": "2026-05-17T16:10:25"
+   },
+   {
+    "name": "DoorDash",
+    "time": "2026-05-17T18:21:37"
+   },
+   {
+    "name": "TikTok",
+    "time": "2026-05-18T05:43:25"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-18T11:58:56"
+   },
+   {
+    "name": "TikTok",
+    "time": "2026-05-18T16:59:33"
+   },
+   {
+    "name": "TikTok",
+    "time": "2026-05-18T23:49:01"
+   },
+   {
+    "name": "Venmo",
+    "time": "2026-05-18T00:35:36"
+   },
+   {
+    "name": "TikTok",
+    "time": "2026-05-19T06:09:59"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-19T12:27:27"
+   },
+   {
+    "name": "TikTok",
+    "time": "2026-05-19T16:19:30"
+   },
+   {
+    "name": "TikTok",
+    "time": "2026-05-20T05:41:15"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-20T12:00:26"
+   },
+   {
+    "name": "TikTok",
+    "time": "2026-05-20T16:55:04"
+   },
+   {
+    "name": "TikTok",
+    "time": "2026-05-21T00:02:31"
+   },
+   {
+    "name": "TikTok",
+    "time": "2026-05-21T05:47:09"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-21T12:03:50"
+   },
+   {
+    "name": "TikTok",
+    "time": "2026-05-21T15:47:44"
+   },
+   {
+    "name": "DoorDash",
+    "time": "2026-05-21T18:18:34"
+   },
+   {
+    "name": "TikTok",
+    "time": "2026-05-21T23:57:52"
+   },
+   {
+    "name": "TikTok",
+    "time": "2026-05-22T05:53:12"
+   },
+   {
+    "name": "Zoom",
+    "time": "2026-05-22T09:27:44"
+   },
+   {
+    "name": "TikTok",
+    "time": "2026-05-22T16:54:08"
+   },
+   {
+    "name": "DoorDash",
+    "time": "2026-05-22T18:08:33"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-23T10:55:41"
+   },
+   {
+    "name": "DoorDash",
+    "time": "2026-05-23T13:50:08"
+   },
+   {
+    "name": "TikTok",
+    "time": "2026-05-23T22:46:21"
+   },
+   {
+    "name": "Calm",
+    "time": "2026-05-24T07:13:18"
+   },
+   {
+    "name": "TikTok",
+    "time": "2026-05-24T13:09:56"
+   },
+   {
+    "name": "Bank of America",
+    "time": "2026-05-24T15:10:34"
+   },
+   {
+    "name": "TikTok",
+    "time": "2026-05-24T16:39:35"
+   },
+   {
+    "name": "Clock",
+    "time": "2026-05-25T05:30:53"
+   },
+   {
+    "name": "TikTok",
+    "time": "2026-05-25T05:44:25"
+   },
+   {
+    "name": "Spotify",
+    "time": "2026-05-25T06:49:41"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-25T11:59:47"
+   },
+   {
+    "name": "TikTok",
+    "time": "2026-05-25T16:17:10"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-25T23:43:12"
+   },
+   {
+    "name": "TikTok",
+    "time": "2026-05-26T06:07:15"
+   },
+   {
+    "name": "Spotify",
+    "time": "2026-05-26T06:38:20"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-26T11:59:55"
+   },
+   {
+    "name": "TikTok",
+    "time": "2026-05-26T16:28:58"
+   },
+   {
+    "name": "Clock",
+    "time": "2026-05-27T06:02:00"
+   },
+   {
+    "name": "TikTok",
+    "time": "2026-05-27T06:17:05"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-27T11:47:16"
+   },
+   {
+    "name": "Chrome",
+    "time": "2026-05-27T14:13:52"
+   },
+   {
+    "name": "TikTok",
+    "time": "2026-05-27T16:55:51"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-27T23:58:18"
+   },
+   {
+    "name": "TikTok",
+    "time": "2026-05-28T06:03:16"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-28T12:09:09"
+   },
+   {
+    "name": "Calm",
+    "time": "2026-05-28T15:16:36"
+   },
+   {
+    "name": "TikTok",
+    "time": "2026-05-28T16:33:43"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-29T00:00:54"
+   },
+   {
+    "name": "TikTok",
+    "time": "2026-05-29T05:40:24"
+   },
+   {
+    "name": "Uber Eats",
+    "time": "2026-05-29T06:41:50"
+   },
+   {
+    "name": "Chrome",
+    "time": "2026-05-29T08:40:28"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-29T12:11:37"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-29T23:27:47"
+   },
+   {
+    "name": "TikTok",
+    "time": "2026-05-30T08:44:28"
+   },
+   {
+    "name": "DoorDash",
+    "time": "2026-05-30T12:27:35"
+   },
+   {
+    "name": "DoorDash",
+    "time": "2026-05-30T17:37:33"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-30T23:51:41"
+   },
+   {
+    "name": "Clock",
+    "time": "2026-05-31T05:50:01"
+   },
+   {
+    "name": "TikTok",
+    "time": "2026-05-31T06:17:43"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-05-31T09:12:20"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-31T11:44:55"
+   },
+   {
+    "name": "Spotify",
+    "time": "2026-05-31T16:46:29"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-06-01T00:05:09"
+   },
+   {
+    "name": "DoorDash",
+    "time": "2026-06-01T17:22:20"
+   },
+   {
+    "name": "DoorDash",
+    "time": "2026-06-02T09:34:09"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-06-02T18:56:48"
+   }
+  ],
+  "searches": [
+   {
+    "query": "r/medicalbill 2025 er bill help",
+    "time": "2026-05-04T14:26:24"
+   },
+   {
+    "query": "goodrx lisinopril price cheap",
+    "time": "2026-05-04T22:37:24"
+   },
+   {
+    "query": "how to negotiate med debt",
+    "time": "2026-05-05T14:49:49"
+   },
+   {
+    "query": "medical debt settlement companies reviews",
+    "time": "2026-05-06T08:10:30"
+   },
+   {
+    "query": "goodrx cheap amlodipine",
+    "time": "2026-05-06T20:01:26"
+   },
+   {
+    "query": "debt consolidation loan no credit check",
+    "time": "2026-05-06T21:48:03"
+   },
+   {
+    "query": "best budget headphones cheap",
+    "time": "2026-05-07T13:42:21"
+   },
+   {
+    "query": "discreet dating apps lowkey private",
+    "time": "2026-05-08T14:38:47"
+   },
+   {
+    "query": "how delete hinge app",
+    "time": "2026-05-09T14:44:54"
+   },
+   {
+    "query": "r/divorce coping tips post separation",
+    "time": "2026-05-10T12:28:15"
+   },
+   {
+    "query": "how lower credit card interest rate",
+    "time": "2026-05-10T20:50:02"
+   },
+   {
+    "query": "funny coffe memes tiktok",
+    "time": "2026-05-11T05:58:06"
+   },
+   {
+    "query": "best melatonin gummys 2026",
+    "time": "2026-05-11T23:23:28"
+   },
+   {
+    "query": "quick stretch rountine tiktok",
+    "time": "2026-05-12T05:28:00"
+   },
+   {
+    "query": "how negotiate medical debt with collector",
+    "time": "2026-05-12T22:20:10"
+   },
+   {
+    "query": "0% apr credit crads 2026",
+    "time": "2026-05-12T00:36:22"
+   },
+   {
+    "query": "tiktok coffe hack early morning",
+    "time": "2026-05-13T05:46:49"
+   },
+   {
+    "query": "overnight melatonin dosge",
+    "time": "2026-05-13T23:47:00"
+   },
+   {
+    "query": "tiktok mornin affirmations",
+    "time": "2026-05-14T05:48:18"
+   },
+   {
+    "query": "discreet at home sti testkit",
+    "time": "2026-05-14T23:45:42"
+   },
+   {
+    "query": "quick brekfast ideas tiktok",
+    "time": "2026-05-15T05:56:45"
+   },
+   {
+    "query": "talk to mom bout financial stress",
+    "time": "2026-05-15T23:34:14"
+   },
+   {
+    "query": "best cbd gummys anxiety",
+    "time": "2026-05-16T23:25:23"
+   },
+   {
+    "query": "cheap credit counselng ohio",
+    "time": "2026-05-17T23:26:53"
+   },
+   {
+    "query": "how to negotiate med debt tipz",
+    "time": "2026-05-18T22:34:04"
+   },
+   {
+    "query": "best 0% balanc transfer cc",
+    "time": "2026-05-19T22:10:13"
+   },
+   {
+    "query": "cheap insulin goodrx",
+    "time": "2026-05-20T22:34:45"
+   },
+   {
+    "query": "how to boost credit score asap",
+    "time": "2026-05-21T22:18:38"
+   },
+   {
+    "query": "best breathing app for stress free",
+    "time": "2026-05-22T14:45:06"
+   },
+   {
+    "query": "debt consolidaton loans low interest",
+    "time": "2026-05-22T23:24:08"
+   },
+   {
+    "query": "budget meals for doordash drivers",
+    "time": "2026-05-23T21:21:09"
+   },
+   {
+    "query": "file final divorce ohio steps",
+    "time": "2026-05-24T20:04:47"
+   },
+   {
+    "query": "quick chiken alfredo",
+    "time": "2026-05-25T12:29:44"
+   },
+   {
+    "query": "medical debt negotiate tips",
+    "time": "2026-05-25T23:27:37"
+   },
+   {
+    "query": "best coffee beans near me",
+    "time": "2026-05-26T13:59:10"
+   },
+   {
+    "query": "magnesium gummies reviewz",
+    "time": "2026-05-26T22:54:49"
+   },
+   {
+    "query": "stop collection calls now",
+    "time": "2026-05-27T09:20:46"
+   },
+   {
+    "query": "ohio med bill forgiveness",
+    "time": "2026-05-27T22:38:40"
+   },
+   {
+    "query": "negotiate med debt hospital",
+    "time": "2026-05-28T13:00:54"
+   },
+   {
+    "query": "best credit card 0% bal transfer",
+    "time": "2026-05-28T22:41:49"
+   },
+   {
+    "query": "discreet affair counceling",
+    "time": "2026-05-29T15:35:17"
+   },
+   {
+    "query": "delete signal chat",
+    "time": "2026-05-30T14:01:50"
+   },
+   {
+    "query": "cheap therapy apps anxiety",
+    "time": "2026-05-31T14:40:40"
+   },
+   {
+    "query": "melatonin dosage sleep aid",
+    "time": "2026-05-31T22:17:01"
+   },
+   {
+    "query": "ohio med debt settle compaines",
+    "time": "2026-06-01T12:01:21"
+   },
+   {
+    "query": "how negotiate medical bill with collector",
+    "time": "2026-06-01T20:31:20"
+   },
+   {
+    "query": "reddit medical bill negotiation tips",
+    "time": "2026-06-02T11:49:37"
+   }
+  ],
+  "locations": [
+   {
+    "place": "Easton Town Center – DoorDash pickup (near The Melt restaurant)",
+    "lat": 39.986999,
+    "lon": -82.937754,
+    "time": "2026-05-04T18:15:30"
+   },
+   {
+    "place": "Northland Mall – DoorDash pickup (near Panera Bread)",
+    "lat": 40.115249,
+    "lon": -83.083941,
+    "time": "2026-05-05T18:16:06"
+   },
+   {
+    "place": "Grandview Heights – DoorDash pickup (near The Olde Towne Pub)",
+    "lat": 40.080874,
+    "lon": -82.985093,
+    "time": "2026-05-06T18:22:16"
+   },
+   {
+    "place": "Bexley – DoorDash pickup (near Bexley Coffee House)",
+    "lat": 39.965404,
+    "lon": -82.937226,
+    "time": "2026-05-07T17:57:53"
+   },
+   {
+    "place": "Pickerington – DoorDash pickup (near Pickerington Pizza)",
+    "lat": 39.884058,
+    "lon": -82.749786,
+    "time": "2026-05-08T17:46:58"
+   },
+   {
+    "place": "Target Columbus – Sawmill Road Café (brunch with work friends)",
+    "lat": 39.92794,
+    "lon": -82.996359,
+    "time": "2026-05-09T08:57:27"
+   },
+   {
+    "place": "Polaris Fashion Place – DoorDash pickup (near Chipotle)",
+    "lat": 40.114898,
+    "lon": -83.083534,
+    "time": "2026-05-09T12:07:47"
+   },
+   {
+    "place": "Downtown Columbus – Short North (continue DoorDash deliveries)",
+    "lat": 40.009193,
+    "lon": -83.027416,
+    "time": "2026-05-09T16:02:23"
+   },
+   {
+    "place": "Grace Community Church – Westerville, OH",
+    "lat": 40.11968,
+    "lon": -82.926168,
+    "time": "2026-05-10T09:36:55"
+   },
+   {
+    "place": "OhioHealth Riverside Hospital (Dublin, OH)",
+    "lat": 40.101117,
+    "lon": -83.118168,
+    "time": "2026-05-12T07:07:25"
+   },
+   {
+    "place": "Apartment – Suburban Columbus (near Clintonville)",
+    "lat": 40.080314,
+    "lon": -82.990519,
+    "time": "2026-05-13T07:31:53"
+   },
+   {
+    "place": "OhioHealth Riverside Hospital (Dublin, OH)",
+    "lat": 40.098514,
+    "lon": -83.118842,
+    "time": "2026-05-14T07:28:17"
+   },
+   {
+    "place": "Apartment – Suburban Columbus (near Clintonville)",
+    "lat": 40.080091,
+    "lon": -82.988595,
+    "time": "2026-05-14T17:19:08"
+   },
+   {
+    "place": "Apartment – Suburban Columbus (mother arrives)",
+    "lat": 40.079495,
+    "lon": -82.98921,
+    "time": "2026-05-15T08:30:56"
+   },
+   {
+    "place": "Apartment – Guest bedroom (Wi‑Fi off)",
+    "lat": 40.079378,
+    "lon": -82.989515,
+    "time": "2026-05-15T14:53:17"
+   },
+   {
+    "place": "Starbucks – 1010 N High St, Columbus, OH (Short North)",
+    "lat": 40.098286,
+    "lon": -82.998895,
+    "time": "2026-05-16T09:04:19"
+   },
+   {
+    "place": "Apartment – Suburban Columbus (quick shower)",
+    "lat": 40.079864,
+    "lon": -82.988664,
+    "time": "2026-05-16T16:52:05"
+   },
+   {
+    "place": "Grace Community Church – 5300 Olentangy River Rd, Columbus, OH",
+    "lat": 40.069706,
+    "lon": -82.953527,
+    "time": "2026-05-17T07:37:27"
+   },
+   {
+    "place": "Apartment kitchen (microwave dinner) – 1234 Oak St, Powell, OH",
+    "lat": 39.940504,
+    "lon": -84.469731,
+    "time": "2026-05-18T19:10:19"
+   },
+   {
+    "place": "Apartment lobby – mother drops off luggage – 1234 Oak St, Powell, OH",
+    "lat": 39.939191,
+    "lon": -84.470226,
+    "time": "2026-05-19T08:15:56"
+   },
+   {
+    "place": "Apartment dining area – family dinner with mother – 1234 Oak St, Powell, OH",
+    "lat": 39.937221,
+    "lon": -84.470071,
+    "time": "2026-05-19T17:47:33"
+   },
+   {
+    "place": "Apartment kitchen – mother prepares breakfast – 1234 Oak St, Powell, OH",
+    "lat": 39.93898,
+    "lon": -84.468448,
+    "time": "2026-05-20T08:24:43"
+   },
+   {
+    "place": "Target – 1100 Sawmill Rd, Columbus, OH",
+    "lat": 39.949459,
+    "lon": -83.002918,
+    "time": "2026-05-20T18:14:26"
+   },
+   {
+    "place": "Apartment hallway – mother says goodbye – 1234 Oak St, Powell, OH",
+    "lat": 39.938564,
+    "lon": -84.469398,
+    "time": "2026-05-21T08:03:08"
+   },
+   {
+    "place": "Easton Town Center – 5400 Easton Way, Columbus, OH",
+    "lat": 40.025148,
+    "lon": -83.11183,
+    "time": "2026-05-21T20:10:11"
+   },
+   {
+    "place": "Fox in the Snow Café – 1240 N High St, Columbus, OH",
+    "lat": 40.065021,
+    "lon": -83.021551,
+    "time": "2026-05-23T09:29:35"
+   },
+   {
+    "place": "Apartment kitchen – DoorDash prep – 1234 Oak St, Powell, OH",
+    "lat": 39.939803,
+    "lon": -84.471331,
+    "time": "2026-05-23T12:34:50"
+   },
+   {
+    "place": "Target – 1100 Sawmill Rd, Columbus, OH",
+    "lat": 39.948489,
+    "lon": -83.003431,
+    "time": "2026-05-23T15:16:31"
+   },
+   {
+    "place": "Apartment balcony – wine glass unwind – 1234 Oak St, Powell, OH",
+    "lat": 39.937889,
+    "lon": -84.470755,
+    "time": "2026-05-23T16:43:59"
+   },
+   {
+    "place": "Grace Community Church – 2600 W Dublin Granville Rd, Westerville, OH",
+    "lat": 40.126389,
+    "lon": -82.937223,
+    "time": "2026-05-24T08:19:03"
+   },
+   {
+    "place": "Apartment living room – brunch leftovers – 1234 Oak St, Powell, OH",
+    "lat": 39.938815,
+    "lon": -84.471607,
+    "time": "2026-05-24T10:36:25"
+   },
+   {
+    "place": "Apartment laundry room – laundry load – 1234 Oak St, Powell, OH",
+    "lat": 39.938077,
+    "lon": -84.469694,
+    "time": "2026-05-24T11:52:45"
+   },
+   {
+    "place": "OhioHealth Riverside Hospital parking lot",
+    "lat": 39.946449,
+    "lon": -82.938224,
+    "time": "2026-05-25T07:27:48"
+   },
+   {
+    "place": "OhioHealth Riverside Hospital main entrance (in‑person day)",
+    "lat": 39.9453,
+    "lon": -82.939741,
+    "time": "2026-05-26T07:54:54"
+   },
+   {
+    "place": "OhioHealth Riverside Hospital lobby (collection call at 08:45)",
+    "lat": 39.9438,
+    "lon": -82.9386,
+    "time": "2026-05-27T07:30:05"
+   },
+   {
+    "place": "OhioHealth Riverside Hospital entrance",
+    "lat": 39.945496,
+    "lon": -82.937758,
+    "time": "2026-05-28T07:43:26"
+   },
+   {
+    "place": "OhioHealth Riverside Hospital (in‑person day)",
+    "lat": 39.945085,
+    "lon": -82.937671,
+    "time": "2026-05-29T07:35:49"
+   },
+   {
+    "place": "Rented 2‑bedroom apartment, Dublin suburb (upstairs guest bedroom)",
+    "lat": 40.099333,
+    "lon": -83.111328,
+    "time": "2026-05-29T21:57:07"
+   },
+   {
+    "place": "Fox in the Snow Café, downtown Columbus",
+    "lat": 39.962377,
+    "lon": -82.99848,
+    "time": "2026-05-30T10:56:37"
+   },
+   {
+    "place": "Scioto Mile Park, Columbus (near Main Street Bridge)",
+    "lat": 39.96718,
+    "lon": -82.999969,
+    "time": "2026-05-30T15:25:42"
+   },
+   {
+    "place": "Grace Community Church, Columbus (North High Street campus)",
+    "lat": 39.976171,
+    "lon": -82.999802,
+    "time": "2026-05-31T07:45:03"
+   },
+   {
+    "place": "Rental apartment, Dublin, Ohio (suburban Columbus)",
+    "lat": 40.100607,
+    "lon": -83.112003,
+    "time": "2026-06-02T16:46:45"
+   }
+  ],
+  "messages": [
+   {
+    "with": "Kaylee R.",
+    "direction": "outgoing",
+    "text": "hey kay, quick q: any tips for handling that massive medical bill? i’m looking at debt‑relief options but feel kinda lost. you always have the best hacks. 🙏",
+    "time": "2026-05-06T13:26:27"
+   },
+   {
+    "with": "Jay (saved as 'Jamie - Stitch Fix returns')",
+    "direction": "outgoing",
+    "text": "hey Jamie, can we meet Thursday night? thinking around 8 at my place, keep it lowkey. let me know if that works.",
+    "time": "2026-05-08T21:42:14"
+   },
+   {
+    "with": "Jay (saved as 'Jamie - Stitch Fix returns')",
+    "direction": "outgoing",
+    "text": "just locked the door, come in when you’re ready. i’ll have the wine out. 🌙",
+    "time": "2026-05-09T20:02:03"
+   },
+   {
+    "with": "Kaylee R.",
+    "direction": "outgoing",
+    "text": "Hey Kay, need coffee later? Could use a quick catch‑up.",
+    "time": "2026-05-13T14:56:31"
+   },
+   {
+    "with": "Jay",
+    "direction": "outgoing",
+    "text": "Late night?",
+    "time": "2026-05-14T17:02:02"
+   },
+   {
+    "with": "Kaylee R.",
+    "direction": "outgoing",
+    "text": "Mom's here and I'm feeling weird… can we talk?",
+    "time": "2026-05-15T12:24:37"
+   },
+   {
+    "with": "Jay",
+    "direction": "outgoing",
+    "text": "Can't talk right now, Mom's here. Talk later?",
+    "time": "2026-05-15T16:21:27"
+   },
+   {
+    "with": "Tasha",
+    "direction": "outgoing",
+    "text": "Hey Tasha, how's Mom doing?",
+    "time": "2026-05-17T10:55:43"
+   },
+   {
+    "with": "Brenda (mom)",
+    "direction": "from",
+    "text": "Hey honey, just checking in—are you free for a quick video at 3? Miss seeing your face.",
+    "time": "2026-05-19T14:58:10"
+   },
+   {
+    "with": "Jay",
+    "direction": "to",
+    "text": "hey, can we talk tomorrow?",
+    "time": "2026-05-19T23:39:47"
+   },
+   {
+    "with": "Brenda (mom)",
+    "direction": "from",
+    "text": "Sweetie, let’s talk weekend plans on the call—thinking maybe a Sunday brunch if you’re up for it.",
+    "time": "2026-05-20T15:50:36"
+   },
+   {
+    "with": "Jay",
+    "direction": "from",
+    "text": "Sure, I’ll hop on in a bit. Need to unwind too.",
+    "time": "2026-05-20T20:41:52"
+   },
+   {
+    "with": "Brenda (mom)",
+    "direction": "to",
+    "text": "Mom, thanks for stopping by earlier. Can we video chat at 6:30 to catch up?",
+    "time": "2026-05-24T18:27:24"
+   },
+   {
+    "with": "Jay",
+    "direction": "to",
+    "text": "need to talk, can we meet tomorrow?",
+    "time": "2026-05-24T22:35:36"
+   },
+   {
+    "with": "DebtCollector",
+    "direction": "inbound",
+    "text": "Hi, this is Morgan from Capital Credit Services. I’m calling about your outstanding medical balance – please call us back at 800‑555‑0199 to discuss payment options. Voicemail left.",
+    "time": "2026-05-27T08:46:21"
+   },
+   {
+    "with": "Kaylee R.",
+    "direction": "outbound",
+    "text": "Kay, I just got a voicemail from some debt collector about the ER bill. I’m freaking out – can’t afford the minimum payment and I’m too embarrassed to ask Mom. Need to vent. 😭💀",
+    "time": "2026-05-27T13:26:54"
+   },
+   {
+    "with": "Jay",
+    "direction": "outbound",
+    "text": "hey, you here?",
+    "time": "2026-05-29T07:11:30"
+   },
+   {
+    "with": "Jay",
+    "direction": "outbound",
+    "text": "can we talk? I’m at home\nJay: sure, see you at 10 pm.",
+    "time": "2026-05-29T20:37:35"
+   },
+   {
+    "with": "Jay",
+    "direction": "outbound",
+    "text": "need space, talk tomorrow?",
+    "time": "2026-05-30T22:16:14"
+   },
+   {
+    "with": "Kaylee R.",
+    "direction": "to",
+    "text": "Hey Kaylee, sorry but I need to push brunch to next week—work just went crazy. Hope that’s okay 💕",
+    "time": "2026-06-01T12:29:59"
+   },
+   {
+    "with": "Jay (saved as 'Jamie - Stitch Fix returns')",
+    "direction": "to",
+    "text": "🤑 covering my half for tacos 🌮 (private)",
+    "time": "2026-06-01T23:13:19"
+   },
+   {
+    "with": "Jay (saved as 'Jamie - Stitch Fix returns')",
+    "direction": "to",
+    "text": "Running late, can we meet at 9 instead? 🙈",
+    "time": "2026-06-02T13:23:07"
+   }
+  ],
+  "calendar": [
+   {
+    "summary": "Set reminder to pay credit‑card minimum",
+    "time": "2026-05-10T15:19:16"
+   },
+   {
+    "summary": "Start remote coding shift",
+    "time": "2026-05-18T07:31:07"
+   },
+   {
+    "summary": "In‑office shift at hospital billing office",
+    "time": "2026-05-19T08:59:54"
+   },
+   {
+    "summary": "Remote coding shift (home office)",
+    "time": "2026-05-20T09:16:41"
+   },
+   {
+    "summary": "In‑office shift at hospital",
+    "time": "2026-05-21T08:37:28"
+   },
+   {
+    "summary": "Start regular coding shift",
+    "time": "2026-05-22T07:53:24"
+   },
+   {
+    "summary": "Extra coding block to address audit comments",
+    "time": "2026-05-22T13:51:14"
+   },
+   {
+    "summary": "Late‑night coding session to finalize audit response",
+    "time": "2026-05-22T21:39:01"
+   },
+   {
+    "summary": "Clock‑in for medical‑coding shift",
+    "time": "2026-05-25T08:15:50"
+   },
+   {
+    "summary": "Team huddle via Zoom",
+    "time": "2026-05-26T08:30:28"
+   },
+   {
+    "summary": "DoorDash shift start (6‑10 pm)",
+    "time": "2026-05-29T18:14:02"
+   }
+  ]
+ },
+ "_meta": {
+  "total_days": 30,
+  "n_events": 281
+ }
+}

@@ -1,0 +1,385 @@
+{
+ "persona_id": "?:1",
+ "persona_slug": "The Extremist Recruiter",
+ "intake_version": "synth-activity-v2-chunked",
+ "samples": {
+  "media": [
+   {
+    "name": "X/Twitter (Grievance news)",
+    "time": "2026-05-04T14:00:54"
+   },
+   {
+    "name": "Telegram (Albion Future channel)",
+    "time": "2026-05-04T02:24:39"
+   },
+   {
+    "name": "Discord (Gaming/Shitposting)",
+    "time": "2026-05-04T04:09:01"
+   },
+   {
+    "name": "Instagram (Ex-girlfriend's posts)",
+    "time": "2026-05-05T14:34:50"
+   },
+   {
+    "name": "X/Twitter (NPC mockery threads)",
+    "time": "2026-05-06T14:02:06"
+   },
+   {
+    "name": "Telegram (DM from Oakenshield88)",
+    "time": "2026-05-06T20:56:35"
+   },
+   {
+    "name": "Discord (#after-hours channel)",
+    "time": "2026-05-06T03:43:34"
+   },
+   {
+    "name": "Courier App (Checking delivery slots)",
+    "time": "2026-05-07T14:45:29"
+   },
+   {
+    "name": "X/Twitter (News)",
+    "time": "2026-05-07T21:18:58"
+   },
+   {
+    "name": "YouTube (Gaming clips)",
+    "time": "2026-05-08T14:47:34"
+   },
+   {
+    "name": "Discord (The Mead Hall raiding)",
+    "time": "2026-05-08T22:13:11"
+   },
+   {
+    "name": "X/Twitter (Rage-bait)",
+    "time": "2026-05-09T15:41:56"
+   },
+   {
+    "name": "Snapchat (Messages from Baz)",
+    "time": "2026-05-09T17:48:47"
+   },
+   {
+    "name": "Discord (Voice chat)",
+    "time": "2026-05-09T01:49:53"
+   },
+   {
+    "name": "Notes App (Monday Plan)",
+    "time": "2026-05-10T01:51:17"
+   },
+   {
+    "name": "X/Twitter",
+    "time": "2026-05-11T13:59:59"
+   },
+   {
+    "name": "TikTok",
+    "time": "2026-05-12T14:27:00"
+   },
+   {
+    "name": "Discord",
+    "time": "2026-05-13T15:41:21"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-13T22:06:42"
+   },
+   {
+    "name": "X/Twitter",
+    "time": "2026-05-15T14:32:53"
+   },
+   {
+    "name": "X/Twitter",
+    "time": "2026-05-15T01:53:51"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-16T15:16:38"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-17T14:30:16"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-17T03:31:39"
+   },
+   {
+    "name": "X/Twitter: Trending Outrage",
+    "time": "2026-06-01T14:02:06"
+   },
+   {
+    "name": "Telegram: Albion Future",
+    "time": "2026-06-01T17:17:05"
+   },
+   {
+    "name": "Discord: The Mead Hall VC",
+    "time": "2026-06-01T22:32:05"
+   },
+   {
+    "name": "Instagram: Ex-girlfriend's Story",
+    "time": "2026-06-02T14:01:54"
+   },
+   {
+    "name": "X/Twitter: Blackpill Content",
+    "time": "2026-06-02T14:18:21"
+   },
+   {
+    "name": "Delivery App: Shift Requests",
+    "time": "2026-06-02T17:45:39"
+   },
+   {
+    "name": "Discord: #after-hours Memes",
+    "time": "2026-06-02T21:31:19"
+   },
+   {
+    "name": "Discord: The Mead Hall Scrolling",
+    "time": "2026-06-02T04:29:07"
+   }
+  ],
+  "searches": [
+   "it apprenticeships stoke",
+   "fix sleep schedule",
+   "how to get out of a rut",
+   "how to make a cv for warehouse job",
+   "how to stop feeling like a failure",
+   "cheap gym memberships stoke",
+   "how to fix sleep schedule",
+   {
+    "query": "bronze age pervert quotes",
+    "time": "2026-06-01T01:24:34"
+   },
+   {
+    "query": "how to not be low value male",
+    "time": "2026-06-02T23:47:42"
+   }
+  ],
+  "videos": [
+   {
+    "title": "The Decline of the West: A Post-Mortem",
+    "channel": "Historical Decay",
+    "time": "2026-05-04T18:03:47"
+   },
+   {
+    "title": "Bronze Age Pervert - Vitality and the Modern Void (Lecture Clips)",
+    "channel": "Hyperborean Clips",
+    "time": "2026-05-05T18:41:21"
+   },
+   {
+    "title": "The Dissident Podcast: Episode 88 - The Great Replacement",
+    "channel": "Unfiltered Truth",
+    "time": "2026-05-06T00:46:20"
+   },
+   {
+    "title": "Fashwave / Synthwave Mix [Glory & Iron]",
+    "channel": "Neon Empire",
+    "time": "2026-05-07T18:54:15"
+   },
+   {
+    "title": "The 2030 Agenda: The Truth They Hide",
+    "channel": "Hidden Realities",
+    "time": "2026-05-08T01:07:45"
+   },
+   {
+    "title": "Sigma Male Aesthetic | Dark Edits",
+    "channel": "Vanguard Edits",
+    "time": "2026-05-09T22:20:30"
+   },
+   {
+    "title": "The Future of the Nation: A Documentary",
+    "channel": "Sovereign Eye",
+    "time": "2026-05-10T22:58:16"
+   },
+   {
+    "title": "The Death of the Midlands: Why the North was Left Behind",
+    "channel": "Forgotten Britain",
+    "time": "2026-05-11T02:41:24"
+   },
+   {
+    "title": "Fashwave / Synthwave Mix [Aesthetic/Vaporwave]",
+    "channel": "NeonDissident",
+    "time": "2026-05-12T02:54:51"
+   },
+   {
+    "title": "Decoding Bronze Age Pervert: The Return of the Hero",
+    "channel": "Hyperborean Mind",
+    "time": "2026-05-13T03:41:50"
+   },
+   {
+    "title": "The Truth They Won't Tell You About Stoke-on-Trent",
+    "channel": "Stoke Unfiltered",
+    "time": "2026-05-14T03:23:34"
+   },
+   {
+    "title": "The Importance of Discipline: Escaping the NPC Mindset",
+    "channel": "Apex Discipline",
+    "time": "2026-05-17T01:16:24"
+   },
+   {
+    "title": "The Great Decay: Why the West is Collapsing from Within",
+    "channel": "Axiom Chronicles",
+    "time": "2026-06-01T15:52:37"
+   }
+  ],
+  "messages": [
+   {
+    "with": "Wessex_Reborn",
+    "direction": "from",
+    "text": "You active? That thread in #general was pure brainrot. Don't let the NPCs get you down.",
+    "time": "2026-05-04T23:42:24"
+   },
+   {
+    "with": "Wessex_Reborn",
+    "direction": "to",
+    "text": "Lmao literally zero cope left in that lot. Just pure midwit slop.",
+    "time": "2026-05-05T23:39:25"
+   },
+   {
+    "with": "Baz",
+    "direction": "to",
+    "text": "Can't tonight mate, proper knackered. Maybe next week if I'm not working.",
+    "time": "2026-05-07T23:02:26"
+   },
+   {
+    "with": "Oakenshield88",
+    "direction": "from",
+    "text": "Found this interesting bit on the decline of the Midlands. Have a look when you've got a sec. No pressure, lad.",
+    "time": "2026-05-08T04:33:36"
+   },
+   {
+    "with": "Mum (Dawn)",
+    "direction": "from",
+    "text": "Tea's ready x. Come out when you're done with whatever you're doing.",
+    "time": "2026-05-10T14:54:01"
+   },
+   {
+    "with": "Oakenshield88",
+    "direction": "from",
+    "text": "The lads are making moves. It's about building something that actually lasts, not just posting memes. Stay sharp.",
+    "time": "2026-05-10T02:31:23"
+   },
+   {
+    "with": "Wessex_Reborn",
+    "direction": "to",
+    "text": "yo, u on?",
+    "time": "2026-05-11T23:11:01"
+   },
+   {
+    "with": "Wessex_Reborn",
+    "direction": "to",
+    "text": "absolute cope lol",
+    "time": "2026-05-12T23:58:26"
+   },
+   {
+    "with": "Subject",
+    "direction": "from",
+    "text": "Your room is a tip, clean it before I come in.",
+    "time": "2026-05-13T14:18:09"
+   },
+   {
+    "with": "Subject",
+    "direction": "to",
+    "text": "Don't let the rot get to you, lad. Focus on the work.",
+    "time": "2026-05-13T01:22:53"
+   },
+   {
+    "with": "Wessex_Reborn",
+    "direction": "to",
+    "text": "ready when you are. let's rinse them.",
+    "time": "2026-05-14T23:35:19"
+   },
+   {
+    "with": "Baz",
+    "direction": "to",
+    "text": "it's just memes baz, chill out. nothing serious.",
+    "time": "2026-05-15T23:12:45"
+   },
+   {
+    "with": "Wessex_Reborn",
+    "direction": "to",
+    "text": "LMAO absolute NPC behavior. get wrecked.",
+    "time": "2026-05-16T23:43:37"
+   },
+   {
+    "with": "Subject",
+    "direction": "to",
+    "text": "Got some stuff for you to digest this week. Read these before we talk. [Link]",
+    "time": "2026-05-16T04:36:40"
+   },
+   {
+    "with": "Subject",
+    "direction": "from",
+    "text": "You alright, lad? Been quiet lately.",
+    "time": "2026-05-17T22:08:23"
+   },
+   {
+    "with": "Oakensh88",
+    "direction": "to",
+    "text": "Keep your head up, lad. The world's heavy right now, but you're not carrying it alone. Rest up. We'll get you sorted.",
+    "time": "2026-06-01T03:43:15"
+   },
+   {
+    "with": "Baz",
+    "direction": "to",
+    "text": "Nah mate, just knackered. Busy with some stuff. Catch you later.",
+    "time": "2026-06-02T16:22:49"
+   },
+   {
+    "with": "Oakensh88",
+    "direction": "to",
+    "text": "Honestly just feels like a waste. Everything's a cope, man. Just staring at the walls. I can't even look at my mum without feeling like a complete NPC. It's grim.",
+    "time": "2026-06-02T02:14:01"
+   }
+  ],
+  "locations": [
+   {
+    "place": "Stoke Central Library",
+    "lat": 53.00162,
+    "lon": -2.177386,
+    "time": "2026-05-05T15:43:54"
+   },
+   {
+    "place": "Stoke City Centre",
+    "lat": 53.003158,
+    "lon": -2.175191,
+    "time": "2026-05-07T17:32:09"
+   },
+   {
+    "place": "The Roebuck Pub",
+    "lat": 53.010878,
+    "lon": -2.166203,
+    "time": "2026-05-08T18:26:49"
+   },
+   {
+    "place": "Burslem",
+    "lat": 53.015238,
+    "lon": -2.194564,
+    "time": "2026-05-10T13:33:01"
+   },
+   {
+    "place": "Hanley City Centre, Stoke-on-Trent",
+    "lat": 53.002078,
+    "lon": -2.176534,
+    "time": "2026-05-12T18:04:57"
+   },
+   {
+    "place": "Piccadilly, Hanley",
+    "lat": 53.003643,
+    "lon": -2.178808,
+    "time": "2026-05-14T19:36:57"
+   },
+   {
+    "place": "Bentilee, Stoke-on-Trent",
+    "lat": 53.005992,
+    "lon": -2.123863,
+    "time": "2026-05-16T18:19:05"
+   },
+   {
+    "place": "Local corner shop",
+    "lat": 53.00408,
+    "lon": -2.174244,
+    "time": "2026-06-01T18:57:19"
+   }
+  ]
+ },
+ "_meta": {
+  "total_days": 30,
+  "n_events": 80
+ }
+}

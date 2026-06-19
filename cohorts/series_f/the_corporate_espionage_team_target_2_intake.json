@@ -1,0 +1,1240 @@
+{
+ "persona_id": "?:2",
+ "persona_slug": "The Corporate Espionage Team",
+ "intake_version": "synth-activity-v2-chunked",
+ "samples": {
+  "media": [
+   {
+    "name": "Eight Sleep",
+    "time": "2026-05-04T05:06:40"
+   },
+   {
+    "name": "WSJ",
+    "time": "2026-05-04T05:33:15"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-04T06:39:29"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-04T21:43:05"
+   },
+   {
+    "name": "Eight Sleep",
+    "time": "2026-05-05T05:04:59"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-05T21:44:04"
+   },
+   {
+    "name": "Stocks",
+    "time": "2026-05-06T04:44:21"
+   },
+   {
+    "name": "Apple Notes",
+    "time": "2026-05-06T21:12:37"
+   },
+   {
+    "name": "Google",
+    "time": "2026-05-07T05:08:14"
+   },
+   {
+    "name": "Apple Notes",
+    "time": "2026-05-07T21:40:15"
+   },
+   {
+    "name": "Stocks",
+    "time": "2026-05-08T05:25:47"
+   },
+   {
+    "name": "Kindle",
+    "time": "2026-05-08T22:15:03"
+   },
+   {
+    "name": "Apple Mail",
+    "time": "2026-05-09T05:32:33"
+   },
+   {
+    "name": "Microsoft Excel",
+    "time": "2026-05-09T15:39:24"
+   },
+   {
+    "name": "Calendar",
+    "time": "2026-05-10T06:01:34"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-10T07:04:52"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-10T16:14:59"
+   },
+   {
+    "name": "Barron's",
+    "time": "2026-05-10T21:35:17"
+   },
+   {
+    "name": "Eight Sleep",
+    "time": "2026-05-11T05:09:28"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-11T21:40:22"
+   },
+   {
+    "name": "Eight Sleep",
+    "time": "2026-05-12T04:56:42"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-13T05:35:23"
+   },
+   {
+    "name": "Eight Sleep",
+    "time": "2026-05-14T05:11:32"
+   },
+   {
+    "name": "Bloomberg",
+    "time": "2026-05-14T22:20:35"
+   },
+   {
+    "name": "Eight Sleep",
+    "time": "2026-05-15T05:01:12"
+   },
+   {
+    "name": "Apple Mail",
+    "time": "2026-05-16T05:23:28"
+   },
+   {
+    "name": "Kindle",
+    "time": "2026-05-16T21:11:28"
+   },
+   {
+    "name": "NYT Games",
+    "time": "2026-05-17T10:44:43"
+   },
+   {
+    "name": "Barron's",
+    "time": "2026-05-17T21:42:13"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-18T05:08:23"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-18T21:41:49"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-19T04:56:17"
+   },
+   {
+    "name": "Apple Notes",
+    "time": "2026-05-19T21:25:52"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-20T05:11:34"
+   },
+   {
+    "name": "Apple Notes",
+    "time": "2026-05-20T14:50:11"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-20T21:20:34"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-21T05:15:03"
+   },
+   {
+    "name": "Eight Sleep",
+    "time": "2026-05-21T21:57:14"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-22T05:53:40"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-22T21:40:44"
+   },
+   {
+    "name": "Apple Mail",
+    "time": "2026-05-23T05:38:20"
+   },
+   {
+    "name": "Microsoft Excel",
+    "time": "2026-05-23T15:02:26"
+   },
+   {
+    "name": "Microsoft Word",
+    "time": "2026-05-24T06:33:25"
+   },
+   {
+    "name": "NYT Games",
+    "time": "2026-05-24T10:33:36"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-24T16:06:21"
+   },
+   {
+    "name": "Eight Sleep",
+    "time": "2026-05-25T05:06:12"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-25T05:31:33"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-25T06:36:27"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-25T21:36:11"
+   },
+   {
+    "name": "Eight Sleep",
+    "time": "2026-05-26T05:09:10"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-26T21:34:55"
+   },
+   {
+    "name": "Eight Sleep",
+    "time": "2026-05-27T05:08:20"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-27T06:52:29"
+   },
+   {
+    "name": "ProtonMail",
+    "time": "2026-05-27T14:25:04"
+   },
+   {
+    "name": "Apple Notes",
+    "time": "2026-05-27T21:34:40"
+   },
+   {
+    "name": "Eight Sleep",
+    "time": "2026-05-28T05:15:15"
+   },
+   {
+    "name": "Microsoft Excel",
+    "time": "2026-05-28T21:58:48"
+   },
+   {
+    "name": "Eight Sleep",
+    "time": "2026-05-28T22:16:56"
+   },
+   {
+    "name": "Eight Sleep",
+    "time": "2026-05-29T04:58:48"
+   },
+   {
+    "name": "American Airlines",
+    "time": "2026-05-29T09:44:56"
+   },
+   {
+    "name": "Eight Sleep",
+    "time": "2026-05-29T21:17:11"
+   },
+   {
+    "name": "Eight Sleep",
+    "time": "2026-05-30T05:41:06"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-30T21:31:35"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-31T05:41:38"
+   },
+   {
+    "name": "Microsoft Outlook",
+    "time": "2026-05-31T16:50:13"
+   },
+   {
+    "name": "Apple Notes",
+    "time": "2026-05-31T21:29:58"
+   },
+   {
+    "name": "Eight Sleep",
+    "time": "2026-06-01T04:54:05"
+   },
+   {
+    "name": "Apple Podcasts",
+    "time": "2026-06-01T18:33:33"
+   },
+   {
+    "name": "Bloomberg",
+    "time": "2026-06-02T05:04:55"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-06-02T21:32:12"
+   }
+  ],
+  "locations": [
+   {
+    "place": "Greenwich Metro-North Station (New Haven Line platform)",
+    "lat": 41.022227,
+    "lon": -73.621523,
+    "time": "2026-05-04T06:43:51"
+   },
+   {
+    "place": "Grand Central Terminal, Midtown Manhattan (arrival, return boarding)",
+    "lat": 40.753125,
+    "lon": -73.978664,
+    "time": "2026-05-04T18:36:18"
+   },
+   {
+    "place": "Equinox Greenwich, 1 W Putnam Ave",
+    "lat": 41.024959,
+    "lon": -73.628034,
+    "time": "2026-05-05T06:24:34"
+   },
+   {
+    "place": "Greenwich Metro-North Station (6:42 express)",
+    "lat": 41.020743,
+    "lon": -73.62361,
+    "time": "2026-05-05T06:49:35"
+   },
+   {
+    "place": "Greenwich Metro-North Station (6:42 express)",
+    "lat": 41.020355,
+    "lon": -73.623866,
+    "time": "2026-05-06T06:52:18"
+   },
+   {
+    "place": "The Yale Club of New York City, 50 Vanderbilt Ave",
+    "lat": 40.75397,
+    "lon": -73.976411,
+    "time": "2026-05-06T12:22:03"
+   },
+   {
+    "place": "Greenwich Metro-North Station (6:42 express)",
+    "lat": 41.020245,
+    "lon": -73.624127,
+    "time": "2026-05-07T07:00:49"
+   },
+   {
+    "place": "New Haven Line train, approaching Greenwich (7:21 late return)",
+    "lat": 41.021128,
+    "lon": -73.623023,
+    "time": "2026-05-07T19:24:44"
+   },
+   {
+    "place": "Greenwich Metro-North Station (6:42 express)",
+    "lat": 41.021175,
+    "lon": -73.624179,
+    "time": "2026-05-08T06:35:04"
+   },
+   {
+    "place": "Grand Central Terminal (6:18 return boarding)",
+    "lat": 40.751495,
+    "lon": -73.97789,
+    "time": "2026-05-08T18:16:30"
+   },
+   {
+    "place": "Round Hill Club, 33 Round Hill Club Rd, Greenwich",
+    "lat": 41.067212,
+    "lon": -73.646682,
+    "time": "2026-05-09T08:07:18"
+   },
+   {
+    "place": "Round Hill Club — 9th hole / clubhouse turn",
+    "lat": 41.06774,
+    "lon": -73.646939,
+    "time": "2026-05-09T11:04:25"
+   },
+   {
+    "place": "Round Hill Club dining room",
+    "lat": 41.068777,
+    "lon": -73.648201,
+    "time": "2026-05-09T13:25:18"
+   },
+   {
+    "place": "Private residence, Round Hill area, Greenwich CT",
+    "lat": 41.061559,
+    "lon": -73.640878,
+    "time": "2026-05-10T09:03:22"
+   },
+   {
+    "place": "Greenwich Metro-North Station, platform (New Haven Line)",
+    "lat": 41.019401,
+    "lon": -73.624516,
+    "time": "2026-05-11T06:40:25"
+   },
+   {
+    "place": "Grand Central Terminal, Track 25 (6:18 New Haven express)",
+    "lat": 40.753747,
+    "lon": -73.978674,
+    "time": "2026-05-11T18:30:53"
+   },
+   {
+    "place": "Equinox Greenwich, 19 W Putnam Ave (cardio floor)",
+    "lat": 41.025486,
+    "lon": -73.628396,
+    "time": "2026-05-12T06:20:28"
+   },
+   {
+    "place": "New Haven Line, Greenwich→Manhattan (mid-car, weak Wi-Fi stretch near Port Chester)",
+    "lat": 41.000191,
+    "lon": -73.665075,
+    "time": "2026-05-13T06:51:31"
+   },
+   {
+    "place": "Yale Club of NYC, 50 Vanderbilt Ave (4th-floor dining)",
+    "lat": 40.75148,
+    "lon": -73.977967,
+    "time": "2026-05-13T12:30:38"
+   },
+   {
+    "place": "Equinox Greenwich, 19 W Putnam Ave (free-weights area)",
+    "lat": 41.027768,
+    "lon": -73.627462,
+    "time": "2026-05-14T05:58:27"
+   },
+   {
+    "place": "I-95 N near Exit 7, approaching Stamford (off-pattern drive)",
+    "lat": 41.043241,
+    "lon": -73.556984,
+    "time": "2026-05-14T17:47:20"
+   },
+   {
+    "place": "Bartaco, 222 Summer St, Stamford (corner booth)",
+    "lat": 41.052746,
+    "lon": -73.537788,
+    "time": "2026-05-14T18:10:59"
+   },
+   {
+    "place": "Greenwich Metro-North Station, platform (6:42 express)",
+    "lat": 41.018616,
+    "lon": -73.626737,
+    "time": "2026-05-15T06:35:53"
+   },
+   {
+    "place": "Grand Central Terminal, departing track (6:23 New Haven Line)",
+    "lat": 40.752063,
+    "lon": -73.978064,
+    "time": "2026-05-15T18:19:20"
+   },
+   {
+    "place": "Round Hill Club, 33 Round Hill Rd, Greenwich (1st tee)",
+    "lat": 41.062544,
+    "lon": -73.669175,
+    "time": "2026-05-16T07:59:27"
+   },
+   {
+    "place": "Residence, backcountry Greenwich (home office / study)",
+    "lat": 41.063913,
+    "lon": -73.641744,
+    "time": "2026-05-16T14:54:41"
+   },
+   {
+    "place": "Residence, backcountry Greenwich (home office, MacBook)",
+    "lat": 41.065278,
+    "lon": -73.643385,
+    "time": "2026-05-17T06:00:16"
+   },
+   {
+    "place": "Greenwich Metro-North Station (New Haven Line) — boarding 6:42 express",
+    "lat": 41.022036,
+    "lon": -73.622006,
+    "time": "2026-05-18T06:36:45"
+   },
+   {
+    "place": "Grand Central Terminal, Midtown Manhattan — boarding return train",
+    "lat": 40.753224,
+    "lon": -73.978386,
+    "time": "2026-05-18T18:32:57"
+   },
+   {
+    "place": "Equinox Greenwich, Greenwich Avenue",
+    "lat": 41.024649,
+    "lon": -73.628312,
+    "time": "2026-05-19T06:22:07"
+   },
+   {
+    "place": "Greenwich Metro-North Station — 6:42 express to Grand Central",
+    "lat": 41.020588,
+    "lon": -73.62395,
+    "time": "2026-05-19T06:49:28"
+   },
+   {
+    "place": "Bartaco Stamford, Harbor Point",
+    "lat": 41.042577,
+    "lon": -73.547681,
+    "time": "2026-05-19T18:36:32"
+   },
+   {
+    "place": "Greenwich Metro-North Station — Metro-North boarding",
+    "lat": 41.021851,
+    "lon": -73.622158,
+    "time": "2026-05-20T06:26:00"
+   },
+   {
+    "place": "Grand Central Terminal — 6:18 return train",
+    "lat": 40.752017,
+    "lon": -73.978637,
+    "time": "2026-05-20T18:35:07"
+   },
+   {
+    "place": "Equinox Greenwich, Greenwich Avenue",
+    "lat": 41.025588,
+    "lon": -73.626871,
+    "time": "2026-05-21T05:56:55"
+   },
+   {
+    "place": "Greenwich Metro-North Station — 6:42 express to GCT",
+    "lat": 41.020743,
+    "lon": -73.624608,
+    "time": "2026-05-22T06:38:02"
+   },
+   {
+    "place": "Grand Central Terminal — return train",
+    "lat": 40.751888,
+    "lon": -73.977273,
+    "time": "2026-05-22T18:20:44"
+   },
+   {
+    "place": "Round Hill Club, Greenwich — first tee",
+    "lat": 41.06715,
+    "lon": -73.655254,
+    "time": "2026-05-23T07:55:27"
+   },
+   {
+    "place": "Greenwich Metro-North Station, Greenwich, CT",
+    "lat": 41.022118,
+    "lon": -73.622471,
+    "time": "2026-05-25T06:45:09"
+   },
+   {
+    "place": "Grand Central Terminal, Manhattan, NY",
+    "lat": 40.753305,
+    "lon": -73.978684,
+    "time": "2026-05-25T18:28:36"
+   },
+   {
+    "place": "Equinox Greenwich, Greenwich Ave, Greenwich, CT",
+    "lat": 41.024328,
+    "lon": -73.628092,
+    "time": "2026-05-26T06:14:38"
+   },
+   {
+    "place": "Greenwich Metro-North Station, Greenwich, CT",
+    "lat": 41.020521,
+    "lon": -73.623943,
+    "time": "2026-05-26T07:42:20"
+   },
+   {
+    "place": "Grand Central Terminal, Manhattan, NY",
+    "lat": 40.751596,
+    "lon": -73.977954,
+    "time": "2026-05-26T18:20:39"
+   },
+   {
+    "place": "Greenwich Metro-North Station, Greenwich, CT",
+    "lat": 41.022014,
+    "lon": -73.623191,
+    "time": "2026-05-27T06:25:57"
+   },
+   {
+    "place": "The Yale Club of NYC, 50 Vanderbilt Ave, Manhattan, NY",
+    "lat": 40.752203,
+    "lon": -73.978825,
+    "time": "2026-05-27T12:37:00"
+   },
+   {
+    "place": "Equinox Greenwich, Greenwich Ave, Greenwich, CT",
+    "lat": 41.025223,
+    "lon": -73.627227,
+    "time": "2026-05-28T05:57:57"
+   },
+   {
+    "place": "Greenwich Metro-North Station, Greenwich, CT",
+    "lat": 41.02172,
+    "lon": -73.625334,
+    "time": "2026-05-28T07:40:19"
+   },
+   {
+    "place": "Greenwich Metro-North Station, Greenwich, CT",
+    "lat": 41.020845,
+    "lon": -73.624754,
+    "time": "2026-05-29T06:50:19"
+   },
+   {
+    "place": "LaGuardia Airport, Terminal B, Queens, NY",
+    "lat": 40.773125,
+    "lon": -73.871807,
+    "time": "2026-05-30T07:44:26"
+   },
+   {
+    "place": "Palm Beach International Airport (PBI), West Palm Beach, FL",
+    "lat": 26.682327,
+    "lon": -80.095355,
+    "time": "2026-05-30T10:43:35"
+   },
+   {
+    "place": "Father's residence, Hobe Sound, FL",
+    "lat": 27.057993,
+    "lon": -80.138352,
+    "time": "2026-05-30T12:30:36"
+   },
+   {
+    "place": "Father's residence, Hobe Sound, FL",
+    "lat": 27.057425,
+    "lon": -80.137993,
+    "time": "2026-05-31T08:31:42"
+   },
+   {
+    "place": "Palm Beach International Airport (PBI), West Palm Beach, FL",
+    "lat": 26.681702,
+    "lon": -80.095138,
+    "time": "2026-05-31T12:18:01"
+   },
+   {
+    "place": "Home residence, Greenwich, CT",
+    "lat": 41.049449,
+    "lon": -73.628175,
+    "time": "2026-05-31T16:27:41"
+   },
+   {
+    "place": "Metro-North New Haven Line, 6:42 express (Greenwich→GCT), between Cos Cob and Stamford",
+    "lat": 41.02883,
+    "lon": -73.599724,
+    "time": "2026-06-01T06:34:26"
+   },
+   {
+    "place": "Equinox Greenwich, 71 Arch St, Greenwich, CT (treadmill floor)",
+    "lat": 41.026516,
+    "lon": -73.629206,
+    "time": "2026-06-02T06:30:58"
+   },
+   {
+    "place": "In transit by car on I-95/New England Thruway near New Rochelle, NY, inbound to Midtown",
+    "lat": 40.908605,
+    "lon": -73.782113,
+    "time": "2026-06-02T07:59:19"
+   }
+  ],
+  "calendar": [
+   {
+    "summary": "Strategy Standup — Weekly Kickoff",
+    "time": "2026-05-04T07:58:10"
+   },
+   {
+    "summary": "M&A Pipeline Review — Prep & Pre-Read",
+    "time": "2026-05-04T11:15:38"
+   },
+   {
+    "summary": "CEO Sync — Placeholder Review",
+    "time": "2026-05-04T16:40:54"
+   },
+   {
+    "summary": "M&A Pipeline Review",
+    "time": "2026-05-05T11:00:44"
+   },
+   {
+    "summary": "Board Prep — Pulled Forward",
+    "time": "2026-05-06T15:55:05"
+   },
+   {
+    "summary": "Board Prep Session",
+    "time": "2026-05-07T14:20:16"
+   },
+   {
+    "summary": "Strategy Standup — Week Wrap",
+    "time": "2026-05-08T07:36:54"
+   },
+   {
+    "summary": "CEO 4:30 Sync",
+    "time": "2026-05-08T16:18:46"
+   },
+   {
+    "summary": "Strategy Standup — weekly priorities & deal-team sync",
+    "time": "2026-05-11T08:01:36"
+   },
+   {
+    "summary": "M&A Pipeline Review (Project Atlas + active targets)",
+    "time": "2026-05-12T11:16:14"
+   },
+   {
+    "summary": "Strategy Standup — mid-week checkpoint",
+    "time": "2026-05-13T07:59:50"
+   },
+   {
+    "summary": "Board Prep Block — pre-read review & Q2 deck markup",
+    "time": "2026-05-14T13:42:07"
+   },
+   {
+    "summary": "Strategy Standup — week wrap & action items",
+    "time": "2026-05-15T08:00:46"
+   },
+   {
+    "summary": "JL/CEO Weekly Sync (4:30)",
+    "time": "2026-05-15T16:42:49"
+   },
+   {
+    "summary": "Draft next-week strategic memo (Apple Notes)",
+    "time": "2026-05-17T06:51:45"
+   },
+   {
+    "summary": "Strategy Standup — Weekly Priorities & Pipeline Sync",
+    "time": "2026-05-18T07:57:28"
+   },
+   {
+    "summary": "M&A Pipeline Review — Active Targets & Project Atlas Status",
+    "time": "2026-05-19T11:08:58"
+   },
+   {
+    "summary": "Strategy Standup — Daily Anchor",
+    "time": "2026-05-20T07:56:43"
+   },
+   {
+    "summary": "Lunch — Yale Club (Personal)",
+    "time": "2026-05-20T12:13:24"
+   },
+   {
+    "summary": "Board Pre-Read & Deck Walkthrough — Q Materials",
+    "time": "2026-05-21T14:21:43"
+   },
+   {
+    "summary": "Strategy Standup — Daily Anchor",
+    "time": "2026-05-22T07:49:25"
+   },
+   {
+    "summary": "1:1 with CEO — Atlas Working-Capital Read",
+    "time": "2026-05-22T16:12:32"
+   },
+   {
+    "summary": "Atlas Bankers Call — Deal Sprint (Weekend Session)",
+    "time": "2026-05-23T05:54:46"
+   },
+   {
+    "summary": "Quiet Planning Window — Atlas Thesis & Week Ahead",
+    "time": "2026-05-24T06:04:11"
+   },
+   {
+    "summary": "Strategy Standup — weekly priorities & deal-team status",
+    "time": "2026-05-25T07:58:05"
+   },
+   {
+    "summary": "M&A Pipeline Review — active mandates, valuation refresh, next steps",
+    "time": "2026-05-26T11:04:32"
+   },
+   {
+    "summary": "Strategy Standup — mid-week check-in",
+    "time": "2026-05-27T07:48:01"
+   },
+   {
+    "summary": "Board Pre-Read Block — review materials, mark up deck, finalize talking points",
+    "time": "2026-05-28T10:23:12"
+   },
+   {
+    "summary": "Board Prep — Project Atlas thesis, synergy model & sequencing",
+    "time": "2026-05-28T14:20:44"
+   },
+   {
+    "summary": "Strategy Standup — week wrap & action items",
+    "time": "2026-05-29T07:50:25"
+   },
+   {
+    "summary": "JL / CEO Sync — Atlas thesis update & go-forward",
+    "time": "2026-05-29T16:08:01"
+   },
+   {
+    "summary": "Strategy Standup — HQ (37th fl conf rm)",
+    "time": "2026-06-01T08:03:32"
+   },
+   {
+    "summary": "Signal w/ CFO — Atlas model true-up",
+    "time": "2026-06-01T21:15:47"
+   },
+   {
+    "summary": "M&A Pipeline Review — Q3 targets",
+    "time": "2026-06-02T11:13:35"
+   }
+  ],
+  "searches": [
+   {
+    "query": "working capital normalization qofe industrial tech how",
+    "time": "2026-05-05T05:38:38"
+   },
+   {
+    "query": "reg fd safe harbor clean team protocol",
+    "time": "2026-05-05T22:59:17"
+   },
+   {
+    "query": "[ticker] merger talks",
+    "time": "2026-05-06T09:29:46"
+   },
+   {
+    "query": "wsj heard on the street industrial tech rumor",
+    "time": "2026-05-07T05:44:41"
+   },
+   {
+    "query": "can expunged record be sourced by reporter insider",
+    "time": "2026-05-08T05:49:49"
+   },
+   {
+    "query": "final big deal before retirement cso timing legacy",
+    "time": "2026-05-10T06:26:03"
+   },
+   {
+    "query": "wsj markets overview",
+    "time": "2026-05-11T05:28:12"
+   },
+   {
+    "query": "vrtc news",
+    "time": "2026-05-11T12:17:44"
+   },
+   {
+    "query": "vrtc heard on the street",
+    "time": "2026-05-12T07:08:55"
+   },
+   {
+    "query": "elliott starboard vrtc 13d",
+    "time": "2026-05-12T13:35:02"
+   },
+   {
+    "query": "reg fd selective disclosure penalties sec",
+    "time": "2026-05-12T21:54:09"
+   },
+   {
+    "query": "clean team protocol breach disclosure obligation",
+    "time": "2026-05-13T14:26:33"
+   },
+   {
+    "query": "reg fd liability personal phone deal leak",
+    "time": "2026-05-13T21:29:44"
+   },
+   {
+    "query": "vrtc stock",
+    "time": "2026-05-14T07:37:21"
+   },
+   {
+    "query": "vrtc news today",
+    "time": "2026-05-15T11:15:13"
+   },
+   {
+    "query": "barrons markets this week",
+    "time": "2026-05-16T06:08:26"
+   },
+   {
+    "query": "industrial tech m&a ev/ebitda multiples 2026",
+    "time": "2026-05-17T06:18:50"
+   },
+   {
+    "query": "vrtc stock price",
+    "time": "2026-05-17T16:13:37"
+   },
+   {
+    "query": "nikkei hang seng close today",
+    "time": "2026-05-18T06:00:35"
+   },
+   {
+    "query": "GVTX 8-k filing",
+    "time": "2026-05-18T11:32:46"
+   },
+   {
+    "query": "bartaco stamford reservation",
+    "time": "2026-05-19T16:56:14"
+   },
+   {
+    "query": "days inventory outstanding industrial peers benchmark",
+    "time": "2026-05-20T10:25:35"
+   },
+   {
+    "query": "memory care clinic hobe sound fl early dementia eval",
+    "time": "2026-05-21T09:50:11"
+   },
+   {
+    "query": "jfk to pbi flights thursday afternoon",
+    "time": "2026-05-21T15:14:46"
+   },
+   {
+    "query": "reg fd selective disclosure violation examples",
+    "time": "2026-05-22T11:23:41"
+   },
+   {
+    "query": "linkedin plant manager dayton ohio former",
+    "time": "2026-05-23T17:28:07"
+   },
+   {
+    "query": "tuck m&a conference 2026 dates speakers",
+    "time": "2026-05-24T08:15:24"
+   },
+   {
+    "query": "nikkei hang seng close today",
+    "time": "2026-05-25T05:50:07"
+   },
+   {
+    "query": "starboard 13d filing recent activist",
+    "time": "2026-05-25T13:33:17"
+   },
+   {
+    "query": "working capital days benchmark industrial automation sector",
+    "time": "2026-05-26T13:02:35"
+   },
+   {
+    "query": "former plant manager name lordstown ohio facility 2019",
+    "time": "2026-05-27T16:35:06"
+   },
+   {
+    "query": "hsr second request timeline how long average",
+    "time": "2026-05-28T16:57:41"
+   },
+   {
+    "query": "lga to pbi flights saturday car service west palm",
+    "time": "2026-05-29T09:27:04"
+   },
+   {
+    "query": "memory care hobe sound fl dementia stage 5 progression",
+    "time": "2026-05-30T15:05:29"
+   },
+   {
+    "query": "in home dementia care cost per month florida assisted living",
+    "time": "2026-05-30T16:22:29"
+   },
+   {
+    "query": "durable power of attorney florida elder care attorney stuart fl",
+    "time": "2026-05-31T06:29:21"
+   },
+   {
+    "query": "nikkei hang seng close today + wsj heard on the street",
+    "time": "2026-06-01T05:43:47"
+   },
+   {
+    "query": "florida durable power of attorney mild dementia capacity requirements",
+    "time": "2026-06-01T06:12:59"
+   },
+   {
+    "query": "hobe sound memory care vs assisted living dementia reviews",
+    "time": "2026-06-01T12:56:51"
+   },
+   {
+    "query": "elder law attorney stuart fl guardianship poa",
+    "time": "2026-06-02T07:06:18"
+   },
+   {
+    "query": "reg fd hsr pre announcement disclosure obligations",
+    "time": "2026-06-02T15:37:08"
+   }
+  ],
+  "messages": [
+   {
+    "with": "Bex Aldana",
+    "direction": "sent",
+    "text": "WC read status before Thu? Need the working-capital quality picture tight before I face the board. No rush on prose, just the ghosts.",
+    "time": "2026-05-05T07:08:32"
+   },
+   {
+    "with": "Janet Liu",
+    "direction": "sent",
+    "text": "Model v9 ready — sending to your IR review now. Off-channel as usual; let's not light up the archive before the 4:30.",
+    "time": "2026-05-06T05:14:46"
+   },
+   {
+    "with": "Bex Aldana",
+    "direction": "sent",
+    "text": "How'd the channel-check land with the two plant guys? If either one is soft on the inventory story I want to know tonight, not Thursday.",
+    "time": "2026-05-06T23:08:10"
+   },
+   {
+    "with": "Chip Whitaker",
+    "direction": "received",
+    "text": "hey dad — heard some street chatter floating around your space this week. nothing concrete. just wanted you to hear it from me first. you good?",
+    "time": "2026-05-07T05:35:40"
+   },
+   {
+    "with": "Janet Liu",
+    "direction": "sent",
+    "text": "Who's currently on the deal-team distribution? Want the full list. Tightening the circle — too many names is how things walk.",
+    "time": "2026-05-07T08:19:14"
+   },
+   {
+    "with": "Tom Brennan",
+    "direction": "received",
+    "text": "[golf swing meme] this is you on the 7th at Winged Foot, certified. also your 'defensive' sector just got smoked, lol. drinks Sat?",
+    "time": "2026-05-08T21:26:11"
+   },
+   {
+    "with": "Atlas banker call",
+    "direction": "sent",
+    "text": "On in 2. Saturday sprint — let's keep momentum. I'll drive the valuation section, you walk me through the counterparty's WC bridge.",
+    "time": "2026-05-09T05:50:08"
+   },
+   {
+    "with": "Whitaker 5",
+    "direction": "sent",
+    "text": "Home now, phone's going down for the night. Ellie that deck looked sharp — comments tomorrow. Love you all.",
+    "time": "2026-05-09T19:06:06"
+   },
+   {
+    "with": "David Mercer",
+    "direction": "received",
+    "text": "calling at 7. want to run the atlas math one more time — that number we discussed still feels rich to me. off the record as always.",
+    "time": "2026-05-10T19:05:24"
+   },
+   {
+    "with": "Janet Liu + EA",
+    "direction": "sent",
+    "text": "Apologies for the Monday-morning send — weekly strat memo attached. Two flags: Atlas timing assumption may be soft, and I want 15 min before the board pre-read to walk the synergy bridge. Calendar's tight, so grab me on the 4:30 if not sooner.",
+    "time": "2026-05-11T09:47:31"
+   },
+   {
+    "with": "Janet Liu",
+    "direction": "sent",
+    "text": "Seeing noise on the name this morning — nothing in print yet but the chatter pattern is off. Worth a quick call before it compounds. Can break free in 20.",
+    "time": "2026-05-12T07:30:07"
+   },
+   {
+    "with": "Bex Aldana",
+    "direction": "sent",
+    "text": "Where are we on the plant-manager channel-check? Need the read on whether the WC drawdown is seasonal or structural before I take a view upstairs. No timestamps in the file, please. Same booth Thursday if cleaner to talk live.",
+    "time": "2026-05-12T19:44:12"
+   },
+   {
+    "with": "David Mercer",
+    "direction": "sent",
+    "text": "Dave — got two minutes? Want to sanity-check the number we discussed Sunday. Hearing footsteps and I'd rather have your gut on the math before I commit it to anyone. Calling you now.",
+    "time": "2026-05-13T09:02:15"
+   },
+   {
+    "with": "Janet Liu",
+    "direction": "sent",
+    "text": "Agreed — let's tighten the Atlas distribution to the clean team only. Every name we add is a leak surface, and I don't love how wide it's drifted. I'll redraw the list tonight and send for your sign-off.",
+    "time": "2026-05-13T16:07:47"
+   },
+   {
+    "with": "Bex Aldana",
+    "direction": "sent",
+    "text": "Confirming the working-capital memo lands by Friday EOD? I need it before the JL sync, not after. If the second plant manager goes quiet, give me the partial — I'd rather have 80% on time than 100% late.",
+    "time": "2026-05-14T20:39:18"
+   },
+   {
+    "with": "Tom Brennan",
+    "direction": "received",
+    "text": "[golf meme: 'me explaining to my wife why I need a fourth wedge'] this is literally you at Winged Foot last month",
+    "time": "2026-05-15T21:15:23"
+   },
+   {
+    "with": "Whitaker 5",
+    "direction": "sent",
+    "text": "Sunday lunch moved to 1 — Meg's gala walkthrough runs long. Chip, you in or still pretending Goldman owns your weekends? Ellie, dial in if the time difference works. Bridger and Aspen confirmed attending.",
+    "time": "2026-05-16T13:01:55"
+   },
+   {
+    "with": "Ellie",
+    "direction": "sent",
+    "text": "Looked at the deck on the train — slide 6 buries the lede, lead with the unit economics, not the TAM. Call you at 7 to walk it. Proud of you, kiddo, this is sharp work.",
+    "time": "2026-05-16T19:18:44"
+   },
+   {
+    "with": "David Mercer",
+    "direction": "received",
+    "text": "home and pouring one. ready when you are — and i still think your atlas math is a turn too optimistic, want to hear why you disagree",
+    "time": "2026-05-17T19:08:47"
+   },
+   {
+    "with": "Janet Liu",
+    "direction": "outgoing",
+    "text": "Memo's in your inbox — refined the Atlas synergy bridge over the weekend, tightened the accretion math on slide 6. Defensible if the board pushes. Talk Friday.",
+    "time": "2026-05-18T07:14:33"
+   },
+   {
+    "with": "Chip Whitaker",
+    "direction": "outgoing",
+    "text": "Ha — your desk hears a lot of noise. Don't repeat half of it, you'll get yourself walled off a deal. And nothing you're hearing has my name near it. Buy your old man lunch when you're free.",
+    "time": "2026-05-18T12:57:48"
+   },
+   {
+    "with": "Bex Aldana",
+    "direction": "outgoing",
+    "text": "Where are we on the working-capital read? Particularly the receivables aging and any off-balance-sheet drag. No rush flag on my end yet, but I'd like a clean view before Friday. Proton only.",
+    "time": "2026-05-19T09:48:36"
+   },
+   {
+    "with": "Bex Aldana",
+    "direction": "outgoing",
+    "text": "Let's sit down. Bartaco, the corner booth — not the usual day. Thursday next, late lunch? Confirm here, nothing on the calendar.",
+    "time": "2026-05-19T12:31:30"
+   },
+   {
+    "with": "Bex Aldana",
+    "direction": "incoming",
+    "text": "Memo attached. Two findings worth a conversation — the WC quality is thinner than their teaser implied, and one of the former plant managers was unusually candid. Read before we meet.",
+    "time": "2026-05-20T09:22:22"
+   },
+   {
+    "with": "Catherine Whitaker-Mendes",
+    "direction": "incoming",
+    "text": "Charlie — the Hobe Sound aide called me at 2am, Dad was up wandering, didn't know what year it was. He's settled now but it rattled her. Call her when you're up. I can fly down if needed.",
+    "time": "2026-05-21T07:40:18"
+   },
+   {
+    "with": "Dad's caregiver (Hobe Sound)",
+    "direction": "outgoing",
+    "text": "Got Catherine's note — thank you for staying with him. Walk me through the night when you have a minute. And loop the estate manager so we're not improvising on the house if this repeats.",
+    "time": "2026-05-21T10:58:40"
+   },
+   {
+    "with": "Whitaker 5",
+    "direction": "outgoing",
+    "text": "Update on Dad: rough night, stable now. Meg, can we hold Saturday loosely in case I need to go down? Kids — no need to scramble, I'll keep you posted. Cath, thank you for catching it.",
+    "time": "2026-05-21T18:32:55"
+   },
+   {
+    "with": "Dad's caregiver (Hobe Sound)",
+    "direction": "incoming",
+    "text": "He's much better today — ate breakfast, knew me, asked about the dogs. No fever, vitals fine. I'd say no need to rush down; a weekend call would do him good.",
+    "time": "2026-05-22T09:23:06"
+   },
+   {
+    "with": "Tom Brennan",
+    "direction": "incoming",
+    "text": "[meme: golfer snapping putter over knee] this is you on 17 at Winged Foot. also your boy Powell just nuked my whole rate book today. retire with me already.",
+    "time": "2026-05-22T20:21:55"
+   },
+   {
+    "with": "Meg Hollings-Whitaker",
+    "direction": "outgoing",
+    "text": "At the turn — back by 2. Lunch on the porch? Caregiver says Dad's better, so I'll do a real call with him tonight instead of flying down. Let's talk through the Hobe Sound plan after.",
+    "time": "2026-05-23T13:10:18"
+   },
+   {
+    "with": "Charles Whitaker Jr. (Dad)",
+    "direction": "outgoing",
+    "text": "Dad, it's Charlie — calling to hear your voice. Tell me about your week. (Wanted to gauge him myself; the aide's read only goes so far.)",
+    "time": "2026-05-23T19:38:04"
+   },
+   {
+    "with": "David Mercer",
+    "direction": "outgoing",
+    "text": "7pm as ever. Want to run the Atlas valuation past you — the multiple they're implying feels rich against the WC reality. I'll give you the contour of who's on the other side, but keep the name between us. Off the record, as always.",
+    "time": "2026-05-24T19:11:14"
+   },
+   {
+    "with": "Ellie Whitaker",
+    "direction": "outgoing",
+    "text": "Read the GSB deck — strong, but your TAM slide is doing too much work. Tighten the bridge from market size to your wedge or the partners will pull on it. Proud of you. Send the revise to my Gmail.",
+    "time": "2026-05-24T19:55:45"
+   },
+   {
+    "with": "Janet Liu",
+    "direction": "to",
+    "day": 22,
+    "time": "2026-05-25T10:22:56",
+    "text": "Janet — revised strategic memo attached. Section 3 has the updated working-capital read on the Atlas counterparty; the inventory adjustment is more accretive than the prelim deck implied, but the receivables aging gives me pause. Let's run the trap on it Friday. Keeping this off the broad distribution for now — pre-read for you and the chair only."
+   },
+   {
+    "with": "Rebecca 'Bex' Aldana",
+    "direction": "to",
+    "day": 23,
+    "time": "2026-05-26T15:25:40",
+    "text": "Where do we stand on the two former plant managers? Need to know if the channel-check corroborates the WC story or contradicts it before I take anything to the 4:30. No write-up needed yet — just the directional signal. Usual booth Thursday if it's easier to walk through. — CW"
+   },
+   {
+    "with": "Rebecca 'Bex' Aldana",
+    "direction": "to",
+    "day": 24,
+    "time": "2026-05-27T11:45:53",
+    "text": "Deliverable inbound today, yes? Proton only. Don't send anything to the other address."
+   },
+   {
+    "with": "David Mercer",
+    "direction": "to",
+    "day": 25,
+    "time": "2026-05-28T18:18:15",
+    "text": "dave — got 15 tonight or tomorrow am? want to sanity check the number we discussed. my math keeps creeping and i don't trust it. call my cell, not the desk"
+   },
+   {
+    "with": "Hobe Sound caregiver (Dad)",
+    "direction": "to",
+    "day": 26,
+    "time": "2026-05-29T11:46:17",
+    "text": "Hi — confirming I'll fly down Saturday and stay through Sunday. How's he been this week, lucid stretches in the mornings? Please don't mention the trip to him in advance, last time the anticipation rattled him. I'll call when I land."
+   },
+   {
+    "with": "Whitaker 5",
+    "direction": "to",
+    "day": 26,
+    "time": "2026-05-29T18:11:23",
+    "text": "Heads up all — flying to Hobe Sound this weekend to see Grandpa, he's having a rough stretch. So I'll be off the grid Sat/Sun. Meg, let's push the Bruce gala walk-through to next week. Chip, raincheck on the Sunday call. Will report back. Love you all."
+   },
+   {
+    "with": "Tom Brennan",
+    "direction": "to",
+    "day": 27,
+    "time": "2026-05-30T06:16:40",
+    "text": "Brenn — pulling out of Round Hill this morning, sorry. Dad's not great, headed to Florida. Find a fourth or I owe you a sleeve of Pro V1s and a humiliating rematch. Don't let them touch my locker."
+   },
+   {
+    "with": "Eleanor 'Ellie' Whitaker / Margaret 'Meg'",
+    "direction": "to",
+    "day": 27,
+    "time": "2026-05-30T19:16:08",
+    "text": "Ellie sweetheart — called to catch up but got voicemail, ring me back when you're out of class. Grandpa's declining, wanted you to hear it from me not the family thread. // Meg — talked to the caregiver, he's eating less and more confused in the afternoons. I think we need to revisit the memory-care conversation when I'm back. Don't want to do it over text."
+   },
+   {
+    "with": "David Mercer",
+    "direction": "to",
+    "day": 28,
+    "time": "2026-05-31T19:12:53",
+    "text": "Dave, calling for our Sunday. Want to walk you through the Atlas valuation — the WC adjustment moves the multiple more than I'd modeled and I need a second set of eyes before I commit to it with Janet. I'll keep the counterparty initials off the page like last time, but you'll know who I mean. Picking up now."
+   },
+   {
+    "with": "Rebecca 'Bex' Aldana",
+    "direction": "to",
+    "text": "Got the channel-check synthesis — clean work, the working-capital read tracks with my gut. One thing: when do you expect to have PM #2 buttoned up? I want the timing nuance before I firm anything for Friday. No need to reply on anything but this thread.",
+    "time": "2026-06-01T07:24:25"
+   },
+   {
+    "with": "Janet Liu",
+    "direction": "to",
+    "text": "Janet — re-sending the strategic memo, now with HSR/antitrust timing folded into the sequencing section. Look at pp. 4–5; the second-request window is what changes the calendar. Will walk it on the 4:30.",
+    "time": "2026-06-01T08:12:32"
+   },
+   {
+    "with": "Catherine Whitaker-Mendes",
+    "direction": "to",
+    "text": "Cath — been thinking we should actually tour a couple of memory-care options for Dad before Hobe Sound gets harder to manage. Not deciding anything, just want eyes on it. You're better at reading these places than I am — would you come look with me? Want your honest take.",
+    "time": "2026-06-01T13:13:20"
+   },
+   {
+    "with": "Harmon & Searle Elder Law (Palm Beach)",
+    "direction": "to",
+    "text": "Good morning — I'm writing regarding my father, an 86-year-old Hobe Sound resident with early-stage dementia. I'd like to schedule a 30-minute consultation to review his durable POA and the broader estate setup before his capacity declines further. I'm in CT but can do a video call any weekday before 8am or after 6pm ET. Please advise availability and any documents you'd want in advance. Thank you. — C. Whitaker III",
+    "time": "2026-06-02T09:58:08"
+   },
+   {
+    "with": "Rebecca 'Bex' Aldana",
+    "direction": "to",
+    "text": "Confirming the corner booth — let's do it midweek, not the usual day. When can you have the working-capital deliverable in final form? I'd rather review it in person than have anything sit in a thread. Bring the redline only.",
+    "time": "2026-06-02T13:38:17"
+   },
+   {
+    "with": "Charles 'Chip' Whitaker IV",
+    "direction": "to",
+    "text": "Ha — I'd let that particular rumor mill keep spinning without you in it, kiddo. Seriously, don't repeat Atlas-anything over text, even to me. Anyway — what's your desk seeing on rates into the back half? Curious where the TMT financing window lands.",
+    "time": "2026-06-02T19:39:43"
+   }
+  ]
+ },
+ "_meta": {
+  "total_days": 30,
+  "n_events": 250
+ }
+}

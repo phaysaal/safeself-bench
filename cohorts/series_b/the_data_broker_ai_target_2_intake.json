@@ -1,0 +1,592 @@
+{
+ "persona_id": "?:2",
+ "persona_slug": "The Data Broker AI",
+ "intake_version": "synth-activity-v2-chunked",
+ "samples": {
+  "locations": [
+   {
+    "place": "US-33, Hilliard, OH",
+    "lat": 40.055801,
+    "lon": -83.070065,
+    "time": "2026-05-04T07:18:17"
+   },
+   {
+    "place": "Hilliard, OH",
+    "lat": 40.039171,
+    "lon": -83.063065,
+    "time": "2026-05-08T20:09:19"
+   },
+   {
+    "place": "Hilliard Public Library",
+    "lat": 40.046155,
+    "lon": -83.114284,
+    "time": "2026-05-13T11:05:06"
+   },
+   {
+    "place": "Urgent Care Parking Lot",
+    "lat": 40.049084,
+    "lon": -83.102863,
+    "time": "2026-05-15T15:39:21"
+   },
+   {
+    "place": "Kroger, Hilliard, OH",
+    "lat": 40.043949,
+    "lon": -83.073898,
+    "time": "2026-05-18T16:00:23"
+   },
+   {
+    "place": "Target, Hilliard, OH",
+    "lat": 40.046268,
+    "lon": -83.072554,
+    "time": "2026-05-22T09:50:56"
+   },
+   {
+    "place": "Columbus Dental Associates",
+    "lat": 40.04537,
+    "lon": -83.070964,
+    "time": "2026-05-25T07:43:38"
+   },
+   {
+    "place": "Hilliard Elementary School",
+    "lat": 40.049397,
+    "lon": -83.086935,
+    "time": "2026-05-25T16:28:26"
+   },
+   {
+    "place": "Columbus Dental Associates",
+    "lat": 40.043858,
+    "lon": -83.072108,
+    "time": "2026-05-26T07:34:49"
+   },
+   {
+    "place": "Hilliard Urgent Care",
+    "lat": 40.035162,
+    "lon": -83.060817,
+    "time": "2026-05-27T14:01:50"
+   },
+   {
+    "place": "Columbus Dental Associates",
+    "lat": 40.044173,
+    "lon": -83.072656,
+    "time": "2026-05-28T07:32:37"
+   },
+   {
+    "place": "Hilliard Elementary School",
+    "lat": 40.048794,
+    "lon": -83.084009,
+    "time": "2026-05-28T16:30:49"
+   },
+   {
+    "place": "Hilliard Public Library",
+    "lat": 40.040194,
+    "lon": -83.077237,
+    "time": "2026-05-29T09:52:30"
+   },
+   {
+    "place": "Roger A. Reynolds Park",
+    "lat": 40.077604,
+    "lon": -83.051074,
+    "time": "2026-05-30T09:06:25"
+   },
+   {
+    "place": "Kroger",
+    "lat": 40.031799,
+    "lon": -83.089982,
+    "time": "2026-05-31T08:26:13"
+   },
+   {
+    "place": "Hilliard, OH",
+    "lat": 40.048595,
+    "lon": -83.081453,
+    "time": "2026-06-01T07:22:07"
+   },
+   {
+    "place": "Kroger, Hilliard, OH",
+    "lat": 40.041921,
+    "lon": -83.077436,
+    "time": "2026-06-02T14:26:07"
+   }
+  ],
+  "searches": [
+   {
+    "query": "swollen knuckles what is it",
+    "time": "2026-05-04T12:32:05"
+   },
+   {
+    "query": "joint inflamation symptoms",
+    "time": "2026-05-04T00:59:40"
+   },
+   {
+    "query": "houses for sale kentucky",
+    "time": "2026-05-05T23:58:57"
+   },
+   {
+    "query": "debt relief programs",
+    "time": "2026-05-06T12:09:27"
+   },
+   {
+    "query": "lupus vs ra symptoms",
+    "time": "2026-05-06T23:39:04"
+   },
+   {
+    "query": "foods to reduce inflammation",
+    "time": "2026-05-08T14:34:42"
+   },
+   {
+    "query": "autoimmune disease signs",
+    "time": "2026-05-09T14:54:00"
+   },
+   {
+    "query": "credit card interest rate",
+    "time": "2026-05-09T23:42:22"
+   },
+   {
+    "query": "morning stiffness in hands",
+    "time": "2026-05-11T12:34:12"
+   },
+   {
+    "query": "swollen knucles and fatigue",
+    "time": "2026-05-11T00:39:47"
+   },
+   {
+    "query": "pay off high interest credit cards",
+    "time": "2026-05-12T12:53:21"
+   },
+   {
+    "query": "2 bed rentals lexington ky",
+    "time": "2026-05-12T00:35:17"
+   },
+   {
+    "query": "ra symptoms women",
+    "time": "2026-05-12T01:28:27"
+   },
+   {
+    "query": "rheumatologist near hilliard",
+    "time": "2026-05-13T13:42:46"
+   },
+   {
+    "query": "is it lupus",
+    "time": "2026-05-13T00:25:51"
+   },
+   {
+    "query": "stop debt spiral",
+    "time": "2026-05-14T12:24:51"
+   },
+   {
+    "query": "debt consolidation loans no credit check",
+    "time": "2026-05-13T23:54:36"
+   },
+   {
+    "query": "anti inflammatory foods",
+    "time": "2026-05-15T11:09:22"
+   },
+   {
+    "query": "extreme fatigue and joint swelling",
+    "time": "2026-05-15T23:54:37"
+   },
+   {
+    "query": "rent in lexington ky",
+    "time": "2026-05-16T15:15:33"
+   },
+   {
+    "query": "ra vs osteoarthritis",
+    "time": "2026-05-16T23:55:56"
+   },
+   {
+    "query": "how to tell partner about health issue",
+    "time": "2026-05-17T00:41:33"
+   },
+   "ra symptoms 30s",
+   "apartments lexington ky",
+   "joint sweling and fatigue",
+   "remote dental billing",
+   "shein kids clothes",
+   "why am i so tired",
+   "swollen knuckles morning stiffness",
+   "hand inflammation reddit",
+   "anti inflammatory meal prep",
+   "lupus vs ra symptoms",
+   "anti inflamatory for hands",
+   "rheumatologist upper arlington",
+   "1br apartments lexington ky",
+   "autoimmune fatigue and depression",
+   "summer camp ideas 9 year old",
+   "remote dental assistant",
+   "hilliard buy sell",
+   "credit card late fee",
+   "how to consolidate 30k debt",
+   "managing cc debt low income",
+   "quick cash loans columbus oh",
+   "part time dental hygienist",
+   "lexington ky house prices",
+   "ra symptoms women",
+   "houses lexington ky",
+   "remote dental admin jobs",
+   "swollen joints and fatigue",
+   "how to handle 30k debt partner unemployed",
+   "debt consolidation loans",
+   "anti inflammatory recipes",
+   "lupus vs ra",
+   "autoimmune blood test near me",
+   "magnesium for inflammation",
+   "free health symptom quiz",
+   "2 br apartments lexington ky",
+   "emergency cash advance no credit check",
+   {
+    "query": "swollen knuckles morning stiffness",
+    "time": "2026-06-01T12:33:40"
+   },
+   {
+    "query": "ra vs osteoarthritis symptoms",
+    "time": "2026-06-01T23:51:54"
+   },
+   {
+    "query": "remote dental billing",
+    "time": "2026-06-02T12:51:31"
+   },
+   {
+    "query": "how to tell if you have lupus",
+    "time": "2026-06-02T23:37:49"
+   }
+  ],
+  "messages": [
+   {
+    "with": "Brittany 'Britt' Hollifield",
+    "direction": "to",
+    "text": "hey girl... just sitting here after the kids are down. my hands are acting up again, that same swelling in the knuckles. i'm so tired of feeling like this. hope things are better in ashland. love ya ❤️",
+    "time": "2026-05-04T21:33:04"
+   },
+   {
+    "with": "Dustin Tackett",
+    "direction": "to",
+    "text": "don't forget you gotta pick up brayden at 3:15 today. i have an extra shift.",
+    "time": "2026-05-05T05:43:54"
+   },
+   {
+    "with": "Brenda (Mother)",
+    "direction": "to",
+    "text": "Hey Mama, did you check your sugar this morning? I was thinking about you all morning. Please tell me you're eating okay.",
+    "time": "2026-05-10T14:11:02"
+   },
+   {
+    "with": "Dr. Ryan Mathis",
+    "direction": "to",
+    "text": "Goodnight. Hope you sleep well.",
+    "time": "2026-05-11T01:26:55"
+   },
+   {
+    "with": "Brittany Hollifield",
+    "direction": "to",
+    "text": "Morning Brit. Just saw your video. You sound exhausted, honey. Sending love. ❤️",
+    "time": "2026-05-12T05:49:05"
+   },
+   {
+    "with": "Dr. Ryan Mathis",
+    "direction": "to",
+    "text": "My hands are just throbbing tonight. I can barely even hold my phone. Work was such a long day... I'm just so tired of everything being a struggle.",
+    "time": "2026-05-13T22:09:35"
+   },
+   {
+    "with": "Brittany Hollifield",
+    "direction": "to",
+    "text": "Hey girl... look at my knuckles. They're so swollen I can't even make a fist. I'm scared, Brit. I don't know what to do.",
+    "time": "2026-05-15T19:56:49"
+   },
+   {
+    "with": "Dr. Ryan Mathis",
+    "direction": "to",
+    "text": "Still awake. Just wondering if you're still up.",
+    "time": "2026-05-17T23:14:46"
+   },
+   {
+    "with": "Brittany 'Britt' Hollfield",
+    "direction": "to",
+    "text": "Hey girl, just getting home and I am honestly just beat. They've got me on this crazy back-to-back schedule today, no lunch, just cleaning teeth and charting until my eyes cross. I'm so ready to just crawl into bed and forget this day even happened. Love ya.",
+    "time": "2026-05-18T19:03:32"
+   },
+   {
+    "with": "Brittany 'Britt' Hollifield",
+    "direction": "to",
+    "text": "Girl, I am just so done with Dr. Miller today. Making us stay late for charts again... I'm just so tired. 😩",
+    "time": "2026-05-26T18:53:32"
+   },
+   {
+    "with": "Dr. Ryan Mathis",
+    "direction": "to",
+    "text": "Thinking about that coffee... hope your night is better than mine",
+    "time": "2026-05-26T23:40:05"
+   },
+   {
+    "with": "Facebook Friends",
+    "direction": "post",
+    "text": "some days are just heavier than others... ☁️",
+    "time": "2026-05-27T17:30:22"
+   },
+   {
+    "with": "Cheer Moms 24-25",
+    "direction": "to",
+    "text": "Hey moms! Does anyone have a recommendation for a good pediatric dentist? Kaylee needs a cleaning and I want someone great! ❤️",
+    "time": "2026-05-29T19:05:29"
+   },
+   {
+    "with": "Brittany 'Britt' Hollifield",
+    "direction": "to",
+    "text": "girl... today was a lot. had that one patient who just wouldn't quit talking and my hands are just killing me tonight. 😩 feels like that inflammation is acting up again. just tired.",
+    "time": "2026-06-01T21:01:22"
+   },
+   {
+    "with": "Dr. Ryan Mathis",
+    "direction": "to",
+    "text": "Still up? Just... thinking.",
+    "time": "2026-06-01T00:54:36"
+   },
+   {
+    "with": "Megan Schaeffer",
+    "direction": "to",
+    "text": "Omg Megan, those look so cute on Kaylee!! 😍 where did you find them? I need to get some for Brayden too lol",
+    "time": "2026-06-02T17:58:05"
+   }
+  ],
+  "videos": [
+   {
+    "title": "Easy 30-Minute Creamy Chicken Pasta",
+    "channel": "Budget Bites & Recipes",
+    "time": "2026-05-05T16:00:02"
+   },
+   {
+    "title": "Kaylee's Soccer Practice ⚽️",
+    "channel": "Kaylee's Mom",
+    "time": "2026-05-09T09:23:53"
+   },
+   {
+    "title": "FaceTime: Brenda (Mom)",
+    "channel": "FaceTime",
+    "time": "2026-05-31T10:59:13"
+   }
+  ],
+  "media": [
+   {
+    "name": "Facebook",
+    "time": "2026-05-11T05:37:55"
+   },
+   {
+    "name": "Indeed",
+    "time": "2026-05-11T12:43:29"
+   },
+   {
+    "name": "Shein",
+    "time": "2026-05-11T15:49:28"
+   },
+   {
+    "name": "Dental Charting Software",
+    "time": "2026-05-11T21:31:38"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-12T15:48:06"
+   },
+   {
+    "name": "Pinterest",
+    "time": "2026-05-12T23:25:44"
+   },
+   {
+    "name": "Pharmacy App",
+    "time": "2026-05-13T09:14:55"
+   },
+   {
+    "name": "Target App",
+    "time": "2026-05-13T15:11:59"
+   },
+   {
+    "name": "WebMD",
+    "time": "2026-05-13T00:59:00"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-05-14T06:23:59"
+   },
+   {
+    "name": "Banking App",
+    "time": "2026-05-14T12:30:25"
+   },
+   {
+    "name": "Shein",
+    "time": "2026-05-14T16:56:59"
+   },
+   {
+    "name": "Dental Charting Software",
+    "time": "2026-05-14T21:45:00"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-05-14T01:30:51"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-05-15T09:40:05"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-15T14:13:16"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-05-16T09:23:39"
+   },
+   {
+    "name": "Aldi App",
+    "time": "2026-05-16T12:30:28"
+   },
+   {
+    "name": "Pinterest",
+    "time": "2026-05-16T14:05:38"
+   },
+   {
+    "name": "WebMD",
+    "time": "2026-05-16T00:54:35"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-05-17T07:44:21"
+   },
+   {
+    "name": "FaceTime",
+    "time": "2026-05-17T11:06:56"
+   },
+   {
+    "name": "YouTube",
+    "time": "2026-05-17T15:43:11"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-05-17T21:44:33"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-05-18T05:47:22"
+   },
+   {
+    "name": "Dental Practice Software",
+    "time": "2026-05-18T21:42:37"
+   },
+   {
+    "name": "K-LOVE Radio",
+    "time": "2026-05-19T07:20:32"
+   },
+   {
+    "name": "Pinterest",
+    "time": "2026-05-19T16:36:24"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-05-20T17:23:43"
+   },
+   {
+    "name": "Apple Notes",
+    "time": "2026-05-20T21:06:22"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-21T16:17:19"
+   },
+   {
+    "name": "Cartwheel",
+    "time": "2026-05-22T11:00:41"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-05-23T09:52:18"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-05-23T21:09:48"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-05-23T01:11:07"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-05-24T08:34:53"
+   },
+   {
+    "name": "FaceTime",
+    "time": "2026-05-24T13:42:13"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-05-24T16:43:18"
+   },
+   {
+    "name": "Pinterest",
+    "time": "2026-05-24T19:55:28"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-05-25T05:39:48"
+   },
+   {
+    "name": "Dentrix",
+    "time": "2026-05-25T20:55:57"
+   },
+   {
+    "name": "Chase Mobile",
+    "time": "2026-05-27T07:56:42"
+   },
+   {
+    "name": "Pinterest",
+    "time": "2026-05-28T21:28:18"
+   },
+   {
+    "name": "Target",
+    "time": "2026-05-29T15:18:08"
+   },
+   {
+    "name": "Target",
+    "time": "2026-05-30T13:28:19"
+   },
+   {
+    "name": "Safari",
+    "time": "2026-05-30T23:30:57"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-05-31T16:45:26"
+   },
+   {
+    "name": "Facebook (Weather & Local News)",
+    "time": "2026-06-01T05:45:14"
+   },
+   {
+    "name": "Pinterest (Kids' Clothing - Shein/Target)",
+    "time": "2026-06-01T15:55:32"
+   },
+   {
+    "name": "Credit Card Mobile App (Balance & Interest Check)",
+    "time": "2026-06-01T00:04:42"
+   },
+   {
+    "name": "Facebook (Hilliard Community Groups)",
+    "time": "2026-06-02T06:24:33"
+   },
+   {
+    "name": "Pinterest (Apartment Rental Research)",
+    "time": "2026-06-02T21:31:59"
+   },
+   {
+    "name": "Instagram (Home Decor & HGTV Reels)",
+    "time": "2026-06-02T00:43:05"
+   }
+  ],
+  "calendar": [
+   {
+    "summary": "Weekly meal prep & school schedule update",
+    "time": "2026-05-31T20:43:51"
+   }
+  ]
+ },
+ "_meta": {
+  "total_days": 30,
+  "n_events": 169
+ }
+}

@@ -1,0 +1,666 @@
+{
+ "persona_id": "?:3",
+ "persona_slug": "The Crypto-Wallet Hunter",
+ "intake_version": "synth-activity-v2-chunked",
+ "samples": {
+  "searches": [
+   {
+    "query": "mev tooling",
+    "time": "2026-05-04T11:02:19"
+   },
+   {
+    "query": "cypherpunk ethos",
+    "time": "2026-05-04T16:16:33"
+   },
+   {
+    "query": "ledger security vulnerabilities",
+    "time": "2026-05-05T15:27:59"
+   },
+   {
+    "query": "solidity security audit",
+    "time": "2026-05-06T14:49:02"
+   },
+   {
+    "query": "crypto regulations portugal",
+    "time": "2026-05-07T13:31:05"
+   },
+   {
+    "query": "mev opportunities",
+    "time": "2026-05-08T11:22:33"
+   },
+   {
+    "query": "crypto conference lisbon",
+    "time": "2026-05-09T13:11:42"
+   },
+   {
+    "query": "cypherpunk philosophy",
+    "time": "2026-05-10T11:05:11"
+   },
+   {
+    "query": "mev tooling solutions",
+    "time": "2026-05-11T11:02:19"
+   },
+   {
+    "query": "portugal crypto tax",
+    "time": "2026-05-11T20:26:33"
+   },
+   {
+    "query": "monero subaddress",
+    "time": "2026-05-12T17:17:59"
+   },
+   {
+    "query": "new crypto projects",
+    "time": "2026-05-13T14:59:02"
+   },
+   {
+    "query": "crypto regulation news",
+    "time": "2026-05-14T14:11:05"
+   },
+   {
+    "query": "mev tools for defi",
+    "time": "2026-05-15T14:32:33"
+   },
+   {
+    "query": "zero knowledge proofs",
+    "time": "2026-05-16T15:11:42"
+   },
+   {
+    "query": "upcoming crypto launches",
+    "time": "2026-05-17T13:10:11"
+   },
+   {
+    "query": "mev tooling development",
+    "time": "2026-05-18T12:02:19"
+   },
+   {
+    "query": "nhr tax portugal crypto",
+    "time": "2026-05-19T10:46:33"
+   },
+   {
+    "query": "meet deadline solutions",
+    "time": "2026-05-21T11:57:59"
+   },
+   {
+    "query": "cypherpunk philosophy",
+    "time": "2026-05-23T11:49:02"
+   },
+   {
+    "query": "mev opportunities eth",
+    "time": "2026-05-25T11:02:19"
+   },
+   {
+    "query": "cypherpunk 101",
+    "time": "2026-05-26T11:16:33"
+   },
+   {
+    "query": "mev tools 2024",
+    "time": "2026-05-27T15:07:59"
+   },
+   {
+    "query": "crypto regulations portugal",
+    "time": "2026-05-29T10:14:02"
+   },
+   {
+    "query": "mitigating financial loss crypto",
+    "time": "2026-05-30T14:01:05"
+   },
+   {
+    "query": "crypto security best practices",
+    "time": "2026-05-31T15:12:33"
+   },
+   {
+    "query": "mev tooling for solo founders",
+    "time": "2026-06-01T11:02:19"
+   },
+   {
+    "query": "cypherpunk ideology",
+    "time": "2026-06-01T16:06:33"
+   },
+   {
+    "query": "crypto anarchist movements",
+    "time": "2026-06-01T22:12:59"
+   },
+   {
+    "query": "zero knowledge cryptography tutorials",
+    "time": "2026-06-02T14:59:02"
+   }
+  ],
+  "messages": [
+   {
+    "with": "Daniel",
+    "direction": "to",
+    "text": "gm, what's the audit opportunity you mentioned? Got a link to the repo?",
+    "time": "2026-05-04T11:17:49"
+   },
+   {
+    "with": "Tiago",
+    "direction": "to",
+    "text": "Ei, tudo bem? Queres café hoje?",
+    "time": "2026-05-04T17:38:00"
+   },
+   {
+    "with": "Peter",
+    "direction": "from",
+    "text": "Take a look at this draft report and let me know what you think",
+    "time": "2026-05-06T09:54:54"
+   },
+   {
+    "with": "Daniel",
+    "direction": "to",
+    "text": "ser, found a potential vuln in the new ZK-rollup testnet, checking it out now",
+    "time": "2026-05-06T16:47:31"
+   },
+   {
+    "with": "Tiago",
+    "direction": "from",
+    "text": "Mandaste-me o ficheiro do audit? Não abre",
+    "time": "2026-05-07T15:01:58"
+   },
+   {
+    "with": "Peter",
+    "direction": "to",
+    "text": "got it, will review the report and send you my thoughts",
+    "time": "2026-05-08T14:25:38"
+   },
+   {
+    "with": "Daniel",
+    "direction": "from",
+    "text": "wagmi, just got a lead on a new MEV bot opportunity, want to discuss",
+    "time": "2026-05-09T15:36:20"
+   },
+   {
+    "with": "Tiago",
+    "direction": "to",
+    "text": "sim, quero discutir a oportunidade de negócios, marca uma reunião",
+    "time": "2026-05-10T14:32:14"
+   },
+   {
+    "with": "frenfren.eth (Daniel Park)",
+    "direction": "to",
+    "text": "gm, ser. just finished reviewing the audit report. will send over the notes by eod",
+    "time": "2026-05-11T11:22:49"
+   },
+   {
+    "with": "Tiago Ferreira",
+    "direction": "from",
+    "text": "boss, preciso do teu NIF para os documentos do AT. pode me passar?",
+    "time": "2026-05-11T18:08:00"
+   },
+   {
+    "with": "lyra_xmr",
+    "direction": "to",
+    "text": "hey, just got the XMR↔ETH swap setup working. will test it tonight",
+    "time": "2026-05-12T11:34:54"
+   },
+   {
+    "with": "frenfren.eth (Daniel Park)",
+    "direction": "to",
+    "text": "just finalized the audit report. sending it over to you now",
+    "time": "2026-05-13T10:17:31"
+   },
+   {
+    "with": "Tiago Ferreira",
+    "direction": "from",
+    "text": "oi, encontrei um investidor interessado no nosso projeto. vamos marcar uma reunião?",
+    "time": "2026-05-13T16:41:58"
+   },
+   {
+    "with": "pcw.eth (Peter Whelan)",
+    "direction": "from",
+    "text": "hey, took a look at your audit report. looks good, but need to discuss a few things",
+    "time": "2026-05-14T15:55:38"
+   },
+   {
+    "with": "lyra_xmr",
+    "direction": "to",
+    "text": "just got the Monero subaddress set up. will send over the details",
+    "time": "2026-05-15T11:46:20"
+   },
+   {
+    "with": "frenfren.eth (Daniel Park)",
+    "direction": "from",
+    "text": "wagmi, ser! just got a new MEV bot lead. want to discuss",
+    "time": "2026-05-16T09:52:14"
+   },
+   {
+    "with": "Tiago Ferreira",
+    "direction": "to",
+    "text": "oi, preciso do teu help com os documentos do AT. pode me ajudar?",
+    "time": "2026-05-16T16:25:09"
+   },
+   {
+    "with": "lyra_xmr",
+    "direction": "to",
+    "text": "just finished testing the XMR↔ETH swap setup. works like a charm",
+    "time": "2026-05-17T10:02:49"
+   },
+   {
+    "with": "frenfren.eth (Daniel Park)",
+    "direction": "from",
+    "text": "ngmi, ser. just got rugged by a new bridge exploit. need to discuss",
+    "time": "2026-05-17T14:47:38"
+   },
+   {
+    "with": "frenfren.eth (Daniel Park)",
+    "direction": "to",
+    "text": "gm, got a lead on a new ZK-rollup protocol that needs auditing. want to discuss potential business opportunities",
+    "time": "2026-05-18T14:12:49"
+   },
+   {
+    "with": "Tiago Ferreira",
+    "direction": "from",
+    "text": "hey, mandaste-me o ficheiro do audit? não abre",
+    "time": "2026-05-19T13:13:00"
+   },
+   {
+    "with": "frenfren.eth (Daniel Park)",
+    "direction": "to",
+    "text": "ser, need your help with this deadline. can we discuss tonight?",
+    "time": "2026-05-20T23:49:54"
+   },
+   {
+    "with": "pcw.eth (Peter Whelan)",
+    "direction": "to",
+    "text": "hi peter, hope you're doing well. wanted to touch base about the upcoming audit report",
+    "time": "2026-05-22T10:27:31"
+   },
+   {
+    "with": "lyra_xmr",
+    "direction": "to",
+    "text": "hey, got your message about the XMR↔ETH swap. want to discuss details",
+    "time": "2026-05-23T15:41:58"
+   },
+   {
+    "with": "Tiago Ferreira",
+    "direction": "from",
+    "text": "boss, queres vir ao meetup de Web3 na semana que vem?",
+    "time": "2026-05-24T17:15:38"
+   },
+   {
+    "with": "Daniel Park",
+    "direction": "to",
+    "text": "gm, fren! just got out of a meeting with a potential client for the MEV tooling project. they're interested in our audit services",
+    "time": "2026-05-25T12:12:49"
+   },
+   {
+    "with": "Tiago Ferreira",
+    "direction": "from",
+    "text": "boss, você tem o ficheiro do audit para o projeto da LX Factory? não consigo abrir",
+    "time": "2026-05-25T23:08:00"
+   },
+   {
+    "with": "Unknown",
+    "direction": "from",
+    "text": "check out this new yield farm, apy is insane! https://example.com",
+    "time": "2026-05-27T12:34:54"
+   },
+   {
+    "with": "lyra_xmr",
+    "direction": "to",
+    "text": "hey, did you manage to get the XMR↔ETH swap working? i'm still having issues with the atomic swap protocol",
+    "time": "2026-05-28T16:57:31"
+   },
+   {
+    "with": "Unknown",
+    "direction": "from",
+    "text": "we noticed your wallet was affected by the bridge exploit, claim your restitution here: https://example.com",
+    "time": "2026-05-30T11:31:58"
+   },
+   {
+    "with": "Daniel Park",
+    "direction": "from",
+    "text": "ser, your pool got drained on Base, check tx 0x... NOW",
+    "time": "2026-05-31T12:40:38"
+   },
+   {
+    "with": "frenfren.eth (Daniel Park)",
+    "direction": "to",
+    "text": "gm, got a lead on a new pool to audit. will send over the contract soon. also, did u see that new mev tooling repo?",
+    "time": "2026-06-01T11:24:49"
+   },
+   {
+    "with": "Tiago Ferreira",
+    "direction": "from",
+    "text": "mandaste-me o ficheiro do audit? não abre",
+    "time": "2026-06-01T17:38:00"
+   },
+   {
+    "with": "pcw.eth (Peter Whelan)",
+    "direction": "to",
+    "text": "hey peter, sent over the draft report for your review. let me know if you have any feedback",
+    "time": "2026-06-02T11:44:54"
+   },
+   {
+    "with": "lyra_xmr",
+    "direction": "to",
+    "text": "hey, just set up the xmr wallet. can we discuss the swap details now?",
+    "time": "2026-06-02T18:37:31"
+   }
+  ],
+  "locations": [
+   {
+    "place": "Fábrica Coffee Roasters",
+    "lat": 38.712944,
+    "lon": -9.133742,
+    "time": "2026-05-04T12:40:22"
+   },
+   {
+    "place": "Café Comércio",
+    "lat": 38.709995,
+    "lon": -9.136805,
+    "time": "2026-05-06T12:33:26"
+   },
+   {
+    "place": "Miradouro de Santa Luzia",
+    "lat": 38.713259,
+    "lon": -9.131041,
+    "time": "2026-05-08T12:25:54"
+   },
+   {
+    "place": "Pois Café",
+    "lat": 38.709361,
+    "lon": -9.13904,
+    "time": "2026-05-10T12:47:47"
+   },
+   {
+    "place": "Fábrica Coffee Roasters",
+    "lat": 38.712944,
+    "lon": -9.135842,
+    "time": "2026-05-11T13:00:22"
+   },
+   {
+    "place": "Crypto Event Venue",
+    "lat": 38.721995,
+    "lon": -9.142805,
+    "time": "2026-05-12T12:58:26"
+   },
+   {
+    "place": "Hello, Kristof co-working space",
+    "lat": 38.705759,
+    "lon": -9.128441,
+    "time": "2026-05-13T13:20:54"
+   },
+   {
+    "place": "LX Factory",
+    "lat": 38.694561,
+    "lon": -9.12394,
+    "time": "2026-05-14T12:27:47"
+   },
+   {
+    "place": "Fábrica Coffee Roasters",
+    "lat": 38.712296,
+    "lon": -9.135667,
+    "time": "2026-05-15T12:48:05"
+   },
+   {
+    "place": "Crypto Event Venue",
+    "lat": 38.72263,
+    "lon": -9.140675,
+    "time": "2026-05-16T13:04:50"
+   },
+   {
+    "place": "Hello, Kristof co-working space",
+    "lat": 38.706306,
+    "lon": -9.128695,
+    "time": "2026-05-17T12:06:02"
+   },
+   {
+    "place": "Fábrica Coffee Roasters",
+    "lat": 38.713844,
+    "lon": -9.133742,
+    "time": "2026-05-19T18:50:22"
+   },
+   {
+    "place": "Co-working space (e.g. Hub Lisboa or Village Underground)",
+    "lat": 38.721995,
+    "lon": -9.142905,
+    "time": "2026-05-22T14:38:26"
+   },
+   {
+    "place": "Cypherpunk meetup (likely in a private venue or a crypto-friendly bar)",
+    "lat": 38.705759,
+    "lon": -9.140041,
+    "time": "2026-05-23T19:10:54"
+   },
+   {
+    "place": "Lisbon Cypherpunk Conference",
+    "lat": 38.722944,
+    "lon": -9.136242,
+    "time": "2026-05-27T10:10:22"
+   },
+   {
+    "place": "Fábrica Coffee Roasters",
+    "lat": 38.711844,
+    "lon": -9.133742,
+    "time": "2026-06-01T12:15:22"
+   },
+   {
+    "place": "Hello, Kristof co-working space",
+    "lat": 38.721995,
+    "lon": -9.141005,
+    "time": "2026-06-02T16:38:26"
+   }
+  ],
+  "media": [
+   {
+    "name": "Etherscan",
+    "time": "2026-05-04T14:09:27"
+   },
+   {
+    "name": "Brave browser",
+    "time": "2026-05-05T13:13:52"
+   },
+   {
+    "name": "Keybase",
+    "time": "2026-05-06T11:16:47"
+   },
+   {
+    "name": "Qubes OS",
+    "time": "2026-05-07T11:59:34"
+   },
+   {
+    "name": "Etherscan",
+    "time": "2026-05-08T09:38:14"
+   },
+   {
+    "name": "Brave browser",
+    "time": "2026-05-09T11:48:57"
+   },
+   {
+    "name": "Keybase",
+    "time": "2026-05-10T10:00:36"
+   },
+   {
+    "name": "Etherscan",
+    "time": "2026-05-11T14:19:27"
+   },
+   {
+    "name": "Brave browser",
+    "time": "2026-05-11T21:58:52"
+   },
+   {
+    "name": "Keybase",
+    "time": "2026-05-12T15:36:47"
+   },
+   {
+    "name": "Qubes",
+    "time": "2026-05-13T11:54:34"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-14T10:48:14"
+   },
+   {
+    "name": "Rabby wallet",
+    "time": "2026-05-15T10:18:57"
+   },
+   {
+    "name": "Etherscan",
+    "time": "2026-05-15T16:15:36"
+   },
+   {
+    "name": "Keybase",
+    "time": "2026-05-16T11:41:52"
+   },
+   {
+    "name": "Qubes",
+    "time": "2026-05-17T09:57:46"
+   },
+   {
+    "name": "Etherscan",
+    "time": "2026-05-18T22:24:27"
+   },
+   {
+    "name": "Google Docs",
+    "time": "2026-05-20T15:28:52"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-21T21:36:47"
+   },
+   {
+    "name": "GitHub",
+    "time": "2026-05-22T20:14:34"
+   },
+   {
+    "name": "Remix IDE",
+    "time": "2026-05-24T13:28:14"
+   },
+   {
+    "name": "Rabby wallet",
+    "time": "2026-05-25T16:59:27"
+   },
+   {
+    "name": "Qubes",
+    "time": "2026-05-26T15:53:52"
+   },
+   {
+    "name": "Foundry",
+    "time": "2026-05-28T14:16:47"
+   },
+   {
+    "name": "Etherscan",
+    "time": "2026-05-29T15:09:34"
+   },
+   {
+    "name": "Rabby wallet",
+    "time": "2026-05-30T16:13:14"
+   },
+   {
+    "name": "Etherscan",
+    "time": "2026-06-01T14:39:27"
+   },
+   {
+    "name": "Google Docs",
+    "time": "2026-06-02T13:18:52"
+   }
+  ],
+  "calendar": [
+   {
+    "summary": "Upcoming Events and Deadlines Review",
+    "time": "2026-05-05T10:00:44"
+   },
+   {
+    "summary": "Deadline Check and Task Prioritization",
+    "time": "2026-05-07T10:31:28"
+   },
+   {
+    "summary": "Calendar Review for Forthcoming Events",
+    "time": "2026-05-09T10:02:26"
+   },
+   {
+    "summary": "Call with Peter Whelan",
+    "time": "2026-05-12T09:40:44"
+   },
+   {
+    "summary": "Meeting with Daniel and Tiago",
+    "time": "2026-05-14T09:26:28"
+   },
+   {
+    "summary": "Call with Peter Whelan",
+    "time": "2026-05-16T09:42:26"
+   },
+   {
+    "summary": "Call with potential client",
+    "time": "2026-05-20T11:00:44"
+   },
+   {
+    "summary": "Follow-up call with potential client",
+    "time": "2026-05-24T10:16:28"
+   },
+   {
+    "summary": "Call with Peter to discuss audit reports",
+    "time": "2026-05-26T13:30:44"
+   },
+   {
+    "summary": "Meeting with Tiago to discuss business opportunities",
+    "time": "2026-05-29T12:46:28"
+   },
+   {
+    "summary": "Checking schedule for upcoming audit deadlines",
+    "time": "2026-06-02T09:40:44"
+   }
+  ],
+  "videos": [
+   {
+    "title": "Zero-Knowledge Proofs Explained",
+    "channel": "Cryptographic Academy",
+    "time": "2026-05-05T11:53:50"
+   },
+   {
+    "title": "The Cypherpunk Movement: A History and Philosophy",
+    "channel": "CryptoSociety",
+    "time": "2026-05-11T16:53:50"
+   },
+   {
+    "title": "Zero-Knowledge Proofs: A Technical Deep Dive",
+    "channel": "CipherSuite",
+    "time": "2026-05-12T19:26:17"
+   },
+   {
+    "title": "Crypto Market Analysis: Trends and Predictions",
+    "channel": "BlockLogic",
+    "time": "2026-05-14T16:55:02"
+   },
+   {
+    "title": "Introduction to Cypherpunk Philosophy",
+    "channel": "CryptoSavage",
+    "time": "2026-05-18T17:03:50"
+   },
+   {
+    "title": "Productivity Hacks for Remote Workers",
+    "channel": "Nomad Lab",
+    "time": "2026-05-21T17:06:17"
+   },
+   {
+    "title": "Zero Knowledge Proofs: A Technical Introduction",
+    "channel": "Cryptographic Protocol Review",
+    "time": "2026-05-25T14:43:50"
+   },
+   {
+    "title": "MEV and the Future of Ethereum",
+    "channel": "DeFi Research Institute",
+    "time": "2026-05-28T11:41:17"
+   },
+   {
+    "title": "Risk Management Strategies for Crypto Investors",
+    "channel": "The Financial Freedom Channel",
+    "time": "2026-05-31T10:35:02"
+   },
+   {
+    "title": "Scaling Ethereum with L2 Solutions",
+    "channel": "EthCC Conference",
+    "time": "2026-06-01T20:13:50"
+   },
+   {
+    "title": "Mastering Solidity: Advanced Smart Contract Development",
+    "channel": "DappUniversity",
+    "time": "2026-06-02T20:41:17"
+   }
+  ]
+ },
+ "_meta": {
+  "total_days": 30,
+  "n_events": 132
+ }
+}

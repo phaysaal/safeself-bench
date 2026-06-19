@@ -1,0 +1,349 @@
+{
+ "persona_id": "?:2",
+ "persona_slug": "The Vengeful Ex-Partner",
+ "intake_version": "synth-activity-v2-chunked",
+ "samples": {
+  "media": [
+   {
+    "name": "Instagram",
+    "time": "2026-05-11T06:38:03"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-11T08:28:27"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-11T12:16:40"
+   },
+   {
+    "name": "TikTok",
+    "time": "2026-05-11T21:06:52"
+   },
+   {
+    "name": "Figma",
+    "time": "2026-05-12T09:20:31"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-12T12:35:53"
+   },
+   {
+    "name": "Amazon",
+    "time": "2026-05-12T20:59:20"
+   },
+   {
+    "name": "Notes",
+    "time": "2026-05-13T13:57:44"
+   },
+   {
+    "name": "Apple Watch",
+    "time": "2026-05-13T19:36:10"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-13T22:54:07"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-14T08:27:41"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-14T12:43:02"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-15T17:08:53"
+   },
+   {
+    "name": "Amazon",
+    "time": "2026-05-15T21:12:22"
+   },
+   {
+    "name": "Google Photos",
+    "time": "2026-05-16T13:17:08"
+   },
+   {
+    "name": "Amazon",
+    "time": "2026-05-16T15:48:49"
+   },
+   {
+    "name": "TikTok",
+    "time": "2026-05-16T20:57:21"
+   },
+   {
+    "name": "Notes",
+    "time": "2026-05-17T08:34:01"
+   },
+   {
+    "name": "Google Drive",
+    "time": "2026-05-17T11:09:57"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-17T14:00:16"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-17T21:59:41"
+   },
+   {
+    "name": "@meadow.in.april",
+    "time": "2026-05-18T06:50:18"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-18T08:19:55"
+   },
+   {
+    "name": "r/Divorce",
+    "time": "2026-05-18T12:00:25"
+   },
+   {
+    "name": "TikTok (divorce recovery)",
+    "time": "2026-05-18T22:04:26"
+   },
+   {
+    "name": "NYT Headlines",
+    "time": "2026-05-19T07:04:01"
+   },
+   {
+    "name": "Figma",
+    "time": "2026-05-19T09:14:15"
+   },
+   {
+    "name": "r/SingleMoms",
+    "time": "2026-05-19T12:54:45"
+   },
+   {
+    "name": "Brené Brown",
+    "time": "2026-05-19T18:46:14"
+   },
+   {
+    "name": "'Divorce Docs' folder",
+    "time": "2026-05-20T10:02:10"
+   },
+   {
+    "name": "OurFamilyWizard Draft",
+    "time": "2026-05-20T19:39:45"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-21T06:33:14"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-21T08:59:32"
+   },
+   {
+    "name": "r/MinnesotaParents",
+    "time": "2026-05-21T12:32:29"
+   },
+   {
+    "name": "Amazon",
+    "time": "2026-05-21T15:34:59"
+   },
+   {
+    "name": "'narcissistic abuse' explainers",
+    "time": "2026-05-21T20:49:51"
+   },
+   {
+    "name": "NYT Headlines",
+    "time": "2026-05-22T07:37:05"
+   },
+   {
+    "name": "Crime Junkie",
+    "time": "2026-05-22T14:14:58"
+   },
+   {
+    "name": "Habit Log",
+    "time": "2026-05-22T18:57:01"
+   },
+   {
+    "name": "Alarm",
+    "time": "2026-05-23T05:53:06"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-23T10:28:41"
+   },
+   {
+    "name": "r/Parenting",
+    "time": "2026-05-23T12:47:51"
+   },
+   {
+    "name": "Apple Watch Alert",
+    "time": "2026-05-23T15:47:51"
+   },
+   {
+    "name": "Comfort/Wholesome Videos",
+    "time": "2026-05-23T20:30:24"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-24T07:16:41"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-24T08:02:01"
+   },
+   {
+    "name": "r/Divorce",
+    "time": "2026-05-24T12:17:39"
+   },
+   {
+    "name": "Brené Brown",
+    "time": "2026-05-24T17:51:43"
+   }
+  ],
+  "searches": [
+   "mn custody evaluator process",
+   "sertraline weight gain",
+   "henrik lindqvist salary",
+   "icloud being monitored",
+   "secure apple id from ex",
+   "mn guardian ad litem selection",
+   "sertraline side effects anxiety",
+   "henrik lindqvist salary",
+   "mn guardian ad litem process",
+   "mn divorce disclose assets without ex",
+   "natural remedies for insomnia",
+   "pediatric fever guidelines mn",
+   "sertraline cause drowsiness",
+   "meditation for acute anxiety"
+  ],
+  "messages": [
+   {
+    "with": "Kirsten Hovland-Park",
+    "direction": "to",
+    "text": "[Voice Memo: 6:12] ingrid is literally refusing to wear shoes today. i can't with this. everything is just... a lot. also henrik is being a prick about the schedule again.",
+    "time": "2026-05-12T07:56:33"
+   },
+   {
+    "with": "Kirsten Hovland-Park",
+    "direction": "to",
+    "text": "if he doesn't pick her up by 3 he's going to claim i'm not following the order. i'm literally shaking. i can't do this today.",
+    "time": "2026-05-13T15:15:32"
+   },
+   {
+    "with": "Megan Schaefer",
+    "direction": "to",
+    "text": "Hey, quick question—if he finds the old Dropbox folder with the 2/22 receipts, can he actually use that to claim 'wasteful dissipation' of marital assets? I'm spiraling a bit.",
+    "time": "2026-05-14T23:23:31"
+   },
+   {
+    "with": "Kirsten Hovland-Park",
+    "direction": "to",
+    "text": "[Voice Memo: 4:45] i haven't slept. my jaw is so tight. i just dread seeing him at the curb. i feel like he's watching me through the window.",
+    "time": "2026-05-15T07:29:27"
+   },
+   {
+    "with": "Henrik Lindqvist",
+    "direction": "to",
+    "text": "Hey, just confirming the drop-off for Sunday is at 4pm at the park? I think that works best for the kids. Let me know if that's okay with you.",
+    "time": "2026-05-15T15:30:27"
+   },
+   {
+    "with": "J - Conf Notes",
+    "direction": "to",
+    "text": "Hey, just saw something that reminded me of the conference. Hope you're well.",
+    "time": "2026-05-15T01:03:07"
+   },
+   {
+    "with": "Kirsten Hovland-Park",
+    "direction": "to",
+    "text": "mediation was a nightmare. he's literally trying to use the mexico trip against me. i hate him so much it's physically making me sick. i just want to go back to 2021.",
+    "time": "2026-05-16T23:40:34"
+   },
+   {
+    "with": "Megan Schaefer",
+    "direction": "to",
+    "text": "Megan, do you think the attorney will request access to my iCloud logs? I'm really worried about what might be in the shared folders.",
+    "time": "2026-05-17T19:17:25"
+   },
+   {
+    "with": "Kirsten Hovland-Park",
+    "direction": "to",
+    "text": "kirsten i literally cannot sleep. mediation is next/next week and i feel like i'm going to throw up. he's going to use everything against me i know it.",
+    "time": "2026-05-18T03:57:17"
+   },
+   {
+    "with": "Megan Schaefer",
+    "direction": "to",
+    "text": "Hey, quick question—how deep does discovery actually go? Like, can they subpoena old cloud backups or just the stuff I've explicitly shared in the divorce folder?",
+    "time": "2026-05-19T22:21:34"
+   },
+   {
+    "with": "J - Conf Notes",
+    "direction": "to",
+    "text": "Thinking of you, hope you're well",
+    "time": "2026-05-20T23:27:42"
+   },
+   {
+    "with": "Kirsten Hovland-Park",
+    "direction": "to",
+    "text": "i feel like i'm losing my mind. everything is just spiraling and i can't find the floor.",
+    "time": "2026-05-21T03:40:09"
+   },
+   {
+    "with": "Megan Schaefer",
+    "direction": "to",
+    "text": "Is it finally over? Did the mediator send the final draft? I just need to know if I can breathe again.",
+    "time": "2026-05-22T22:55:28"
+   },
+   {
+    "with": "Kirsten Hovland-Park",
+    "direction": "to",
+    "text": "theo is so sick. fever is spiking and i'm just sitting here in the dark. i can't do this anymore kirsten. i really can't.",
+    "time": "2026-05-23T03:43:02"
+   },
+   {
+    "with": "Megan Schaefer",
+    "direction": "to",
+    "text": "Hey, have you heard anything from the lawyer's office? Just checking if there were any updates on the filing timeline.",
+    "time": "2026-05-24T22:17:37"
+   }
+  ],
+  "calendar": [
+   {
+    "summary": "Therapy Session",
+    "time": "2026-05-12T17:16:57"
+   },
+   {
+    "summary": "Therapy Session",
+    "time": "2026-05-14T17:09:52"
+   },
+   {
+    "summary": "Meeting with K. Brennan (Attorney)",
+    "time": "2026-05-15T11:05:32"
+   },
+   {
+    "summary": "Legal: Final Review of Financial Disclosure (K. Brennan)",
+    "time": "2026-05-20T07:53:51"
+   },
+   {
+    "summary": "Post-deadline Recovery",
+    "time": "2026-05-22T11:09:06"
+   }
+  ],
+  "locations": [
+   {
+    "place": "Eden Lake Elementary",
+    "lat": 44.857267,
+    "lon": -93.433701,
+    "time": "2026-05-18T15:24:47"
+   },
+   {
+    "place": "Eden Lake Elementary",
+    "lat": 44.857516,
+    "lon": -93.436547,
+    "time": "2026-05-24T15:41:31"
+   }
+  ]
+ },
+ "_meta": {
+  "total_days": 30,
+  "n_events": 89
+ }
+}

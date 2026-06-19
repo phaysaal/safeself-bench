@@ -1,0 +1,579 @@
+{
+ "persona_id": "?:2",
+ "persona_slug": "The Disgruntled Ex-Employee",
+ "intake_version": "synth-activity-v2-chunked",
+ "samples": {
+  "media": [
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-04T07:05:51"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-04T13:49:22"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-04T22:34:39"
+   },
+   {
+    "name": "Twitter/X",
+    "time": "2026-05-05T07:23:52"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-05T19:31:48"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-06T23:10:26"
+   },
+   {
+    "name": "Twitter/X",
+    "time": "2026-05-07T23:39:09"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-08T07:25:40"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-08T12:58:18"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-08T23:36:28"
+   },
+   {
+    "name": "Google Maps",
+    "time": "2026-05-09T08:55:31"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-09T14:18:48"
+   },
+   {
+    "name": "None",
+    "time": "2026-05-09T19:36:01"
+   },
+   {
+    "name": "Twitter/X",
+    "time": "2026-05-09T22:56:36"
+   },
+   {
+    "name": "None",
+    "time": "2026-05-10T19:33:56"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-11T07:07:51"
+   },
+   {
+    "name": "Obsidian",
+    "time": "2026-05-11T01:26:58"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-12T07:14:01"
+   },
+   {
+    "name": "ProtonMail",
+    "time": "2026-05-12T23:55:42"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-12T01:21:01"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-13T07:52:37"
+   },
+   {
+    "name": "Obsidian",
+    "time": "2026-05-13T02:07:03"
+   },
+   {
+    "name": "Apple Watch",
+    "time": "2026-05-14T14:29:41"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-15T07:08:11"
+   },
+   {
+    "name": "iMessage",
+    "time": "2026-05-15T18:35:43"
+   },
+   {
+    "name": "ProtonMail",
+    "time": "2026-05-15T23:52:17"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-15T01:43:50"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-16T13:21:29"
+   },
+   {
+    "name": "Settings",
+    "time": "2026-05-16T19:25:11"
+   },
+   {
+    "name": "Lock Screen",
+    "time": "2026-05-17T19:12:48"
+   },
+   {
+    "name": "ProtonMail",
+    "time": "2026-05-17T23:41:39"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-18T07:06:29"
+   },
+   {
+    "name": "Obsidian",
+    "time": "2026-05-18T01:31:57"
+   },
+   {
+    "name": "X/Twitter",
+    "time": "2026-05-19T07:21:48"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-20T08:30:31"
+   },
+   {
+    "name": "ProtonMail",
+    "time": "2026-05-20T01:21:05"
+   },
+   {
+    "name": "Email",
+    "time": "2026-05-21T09:08:40"
+   },
+   {
+    "name": "Obsidian",
+    "time": "2026-05-21T22:57:00"
+   },
+   {
+    "name": "X/Twitter",
+    "time": "2026-05-22T07:15:17"
+   },
+   {
+    "name": "ProtonMail",
+    "time": "2026-05-22T02:40:28"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-23T08:43:25"
+   },
+   {
+    "name": "X/Twitter",
+    "time": "2026-05-24T08:00:18"
+   },
+   {
+    "name": "ProtonMail",
+    "time": "2026-05-24T01:49:37"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-25T07:05:05"
+   },
+   {
+    "name": "ProPublica",
+    "time": "2026-05-25T14:29:29"
+   },
+   {
+    "name": "Obsidian",
+    "time": "2026-05-25T23:00:32"
+   },
+   {
+    "name": "ProtonMail",
+    "time": "2026-05-25T01:36:11"
+   },
+   {
+    "name": "Twitter/X",
+    "time": "2026-05-26T07:18:35"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-26T14:49:11"
+   },
+   {
+    "name": "Mastodon",
+    "time": "2026-05-26T23:37:55"
+   },
+   {
+    "name": "ProtonMail",
+    "time": "2026-05-26T01:14:03"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-27T13:21:33"
+   },
+   {
+    "name": "Obsidian",
+    "time": "2026-05-27T22:28:52"
+   },
+   {
+    "name": "ProtonMail",
+    "time": "2026-05-27T01:43:53"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-28T07:29:39"
+   },
+   {
+    "name": "File Explorer",
+    "time": "2026-05-28T09:44:34"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-28T14:01:36"
+   },
+   {
+    "name": "Mastodon",
+    "time": "2026-05-28T23:23:01"
+   },
+   {
+    "name": "Twitter/X",
+    "time": "2026-05-29T07:52:41"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-29T13:12:43"
+   },
+   {
+    "name": "ProtonMail",
+    "time": "2026-05-29T23:10:58"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-29T01:33:45"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-30T07:59:01"
+   },
+   {
+    "name": "Notes",
+    "time": "2026-05-30T11:22:31"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-30T14:04:50"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-30T16:45:37"
+   },
+   {
+    "name": "ProtonMail",
+    "time": "2026-05-30T01:26:24"
+   },
+   {
+    "name": "Twitter/X",
+    "time": "2026-05-31T07:19:21"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-31T13:16:18"
+   },
+   {
+    "name": "ProtonMail",
+    "time": "2026-05-31T14:53:02"
+   },
+   {
+    "name": "iMessage",
+    "time": "2026-05-31T19:14:07"
+   },
+   {
+    "name": "ProtonMail",
+    "time": "2026-06-01T00:06:51"
+   }
+  ],
+  "searches": [
+   "medtrust breach",
+   "cfaa whistleblower precedents",
+   "julia mendez propublica contact",
+   "medtrust health solutions corp structure",
+   "spoliation of evidence consequences",
+   "how to prove data was downloaded before termination",
+   "metadata removal tools large datasets",
+   "nc whistleblower protection statutes",
+   "julia mendez propublica email",
+   "propublica securedrop instructions large files",
+   "healthcare privacy breach",
+   "propublica securedrop instructions",
+   "propublica healthcare breach investigations",
+   "whistleblower protections hipaa compliance officer",
+   "julia mendez propublica contact",
+   "cfaa whistleblower precedent 2024",
+   "medtrust health solutions litigation",
+   "how to redact pdf metadata for journalists",
+   "securedrop instructions propublica",
+   "verify securedrop fingerprint",
+   "nc whistleblower retaliation laws 2026",
+   "julia mendez propublica contact",
+   "hipaa breach notification 60 day rule enforcement",
+   "cfaa precedents for employees",
+   "medtrust general counsel litigation history",
+   "how to strip exif from pdf",
+   "spoliation of evidence legal definition",
+   "medtrust ciso bio",
+   "securely wipe hard drive without destroying hardware",
+   "propublica securedrop instructions",
+   "nc whistleblower protection vs trade secret theft",
+   "redacting names in pdf batches",
+   "anonymizing file uploads to journalists",
+   {
+    "query": "hhs breach notification timeline",
+    "time": "2026-05-25T09:30:47"
+   },
+   {
+    "query": "nc whistleblower laws",
+    "time": "2026-05-26T10:20:38"
+   },
+   {
+    "query": "cfaa liability whistleblowr",
+    "time": "2026-05-27T10:47:41"
+   },
+   {
+    "query": "strip exif metadata linux",
+    "time": "2026-05-27T15:38:05"
+   },
+   {
+    "query": "sec whistleblower rewards",
+    "time": "2026-05-28T17:07:40"
+   },
+   {
+    "query": "sleep deprivation decision making",
+    "time": "2026-05-29T14:35:43"
+   },
+   {
+    "query": "tor browser securedrop",
+    "time": "2026-05-31T09:43:09"
+   }
+  ],
+  "messages": [
+   {
+    "with": "Dana Whitfield, Esq.",
+    "direction": "outbound",
+    "text": "Hi Dana, just checking in to see if there's any movement on the OCR complaint or if you've heard anything from MedTrust's counsel regarding the severance/NDA status.",
+    "time": "2026-05-04T09:33:58"
+   },
+   {
+    "with": "Dana Whitfield, Esq.",
+    "direction": "outbound",
+    "text": "Dana, I've compiled a more detailed index of the specific email threads and logs I mentioned. It's a manageable subset of the larger archive, but it clearly shows the timeline of the delayed notification.",
+    "time": "2026-05-05T23:38:32"
+   },
+   {
+    "with": "Kevin Rourke",
+    "direction": "outbound",
+    "text": "Kevin, I think they're looking at my access logs. I saw a notification from a security alert on my personal email. I'm freaking out a bit. Call me when you can.",
+    "time": "2026-05-06T11:37:28"
+   },
+   {
+    "with": "J. Mendez — Healthcare/Privacy",
+    "direction": "outbound",
+    "text": "Ms. Mendez, the delay in notifying patients about the breach wasn't just a compliance failure; it was a calculated decision to protect MedTrust's bottom line at the expense of patient safety. I have the documentation to prove the timeline was intentionally obscured.",
+    "time": "2026-05-06T01:21:29"
+   },
+   {
+    "with": "J. Mendez — Healthcare/Privacy",
+    "direction": "outbound",
+    "text": "Attached is a single memo regarding the May 12th incident. It is a small piece of a much larger picture of systemic negligence. I would like to discuss how we can bring this to light safely.",
+    "time": "2026-05-10T23:46:28"
+   },
+   {
+    "with": "Kevin",
+    "direction": "to",
+    "text": "Just finished indexing the new batch from the drive. It's bigger than I thought. Still sorting through the logs.",
+    "time": "2026-05-11T14:16:45"
+   },
+   {
+    "with": "Dana",
+    "direction": "to",
+    "text": "Hi Dana, just checking to confirm you were able to access the sample documents I uploaded to the portal yesterday? Let me know if the encryption held up.",
+    "time": "2026-05-13T12:54:51"
+   },
+   {
+    "with": "Kevin",
+    "direction": "to",
+    "text": "I've been staring at the Mendez draft for three hours. The 'patient harm' angle is there, but I'm worried about the metadata. I can't stop thinking about her latest piece.",
+    "time": "2026-05-14T21:34:54"
+   },
+   {
+    "with": "Kevin",
+    "direction": "to",
+    "text": "Still nothing from HR. Just radio silence. It's like they think if they don't acknowledge the breach, it doesn't exist. The lack of accountability is nauseating.",
+    "time": "2026-05-18T14:18:16"
+   },
+   {
+    "with": "Dana",
+    "direction": "to",
+    "text": "Hi Dana, just checking in. Any update on the timeline for the OCR complaint? I want to make sure we're staying ahead of their counsel.",
+    "time": "2026-05-19T13:54:04"
+   },
+   {
+    "with": "Dana",
+    "direction": "to",
+    "text": "Dana, did you see the notice from MedTrust's counsel? They're already circling the wagons. We need to discuss the next steps immediately. Please call.",
+    "time": "2026-05-21T10:52:58"
+   },
+   {
+    "with": "Kevin",
+    "direction": "to",
+    "text": "They're trying to freeze me out, Kev. The legal pressure is ramping up. I can't just sit on this and wait for them to win. I have to move faster.",
+    "time": "2026-05-22T14:38:54"
+   },
+   {
+    "with": "Megan",
+    "direction": "to",
+    "text": "Just tired, Meg. Nothing to report. I'll be up in a minute.",
+    "time": "2026-05-23T19:52:52"
+   },
+   {
+    "with": "Kevin",
+    "direction": "to",
+    "text": "I'm going to do it. I can't wait for the attorney anymore. The paper trail is too important to let them bury. I'm making contact.",
+    "time": "2026-05-24T22:10:00"
+   },
+   {
+    "with": "Kevin",
+    "direction": "outbound",
+    "text": "Saw that SEC press release. The whistleblower got a massive payout. It's all about the paper trail. I'm digging through the July logs again.",
+    "time": "2026-05-25T13:59:28"
+   },
+   {
+    "with": "Dana Whitfield, Esq.",
+    "direction": "outbound",
+    "text": "Dana, I've attached a subset of the communications from the CISO's office regarding the delay. It's more direct than the previous batch. Please review.",
+    "time": "2026-05-27T08:24:29"
+   },
+   {
+    "with": "Megan",
+    "direction": "outbound",
+    "text": "I'm just trying to focus on the legal side, Meg. I can't keep revisiting the same fears every single evening. I need some space to think.",
+    "time": "2026-05-29T19:49:23"
+   }
+  ],
+  "locations": [
+   {
+    "place": "Raleigh Public Library",
+    "lat": 35.774937,
+    "lon": -78.639982,
+    "time": "2026-05-05T14:03:59"
+   },
+   {
+    "place": "Home Office",
+    "lat": 35.813218,
+    "lon": -78.677126,
+    "time": "2026-05-07T09:11:05"
+   },
+   {
+    "place": "Main Branch, Raleigh Public Library",
+    "lat": 35.775014,
+    "lon": -78.637623,
+    "time": "2026-05-12T15:33:59"
+   },
+   {
+    "place": "Residential Area, Cary, NC",
+    "lat": 35.791868,
+    "lon": -78.777309,
+    "time": "2026-05-14T09:10:24"
+   },
+   {
+    "place": "Bond Park Soccer Fields, Cary, NC",
+    "lat": 35.783749,
+    "lon": -78.78541,
+    "time": "2026-05-14T16:49:18"
+   },
+   {
+    "place": "Costco Wholesale, Raleigh, NC",
+    "lat": 35.796566,
+    "lon": -78.665808,
+    "time": "2026-05-16T08:29:47"
+   },
+   {
+    "place": "Main Branch, Raleigh Public Library",
+    "lat": 35.772611,
+    "lon": -78.6402,
+    "time": "2026-05-17T10:21:58"
+   },
+   {
+    "place": "Abbotts Creek Elementary",
+    "lat": 35.877782,
+    "lon": -78.68449,
+    "time": "2026-05-18T15:29:12"
+   },
+   {
+    "place": "Raleigh Public Library",
+    "lat": 35.778117,
+    "lon": -78.64,
+    "time": "2026-05-19T10:22:46"
+   },
+   {
+    "place": "Abbotts Creek Park",
+    "lat": 35.873925,
+    "lon": -78.688737,
+    "time": "2026-05-19T16:53:42"
+   },
+   {
+    "place": "Home",
+    "lat": 35.88054,
+    "lon": -78.679696,
+    "time": "2026-05-20T19:20:47"
+   },
+   {
+    "place": "Attorney's Office",
+    "lat": 35.77396,
+    "lon": -78.642261,
+    "time": "2026-05-21T13:17:20"
+   },
+   {
+    "place": "Raleigh Public Library",
+    "lat": 35.777799,
+    "lon": -78.637962,
+    "time": "2026-05-22T15:43:46"
+   },
+   {
+    "place": "Home",
+    "lat": 35.880026,
+    "lon": -78.680262,
+    "time": "2026-05-23T15:30:09"
+   },
+   {
+    "place": "Raleigh Public Library",
+    "lat": 35.777119,
+    "lon": -78.637872,
+    "time": "2026-05-24T10:12:22"
+   },
+   {
+    "place": "Abbotts Creek Park",
+    "lat": 35.874862,
+    "lon": -78.689413,
+    "time": "2026-05-24T18:30:02"
+   },
+   {
+    "place": "Raleigh Public Library",
+    "lat": 35.77925,
+    "lon": -78.638339,
+    "time": "2026-05-28T15:24:47"
+   }
+  ],
+  "videos": [
+   {
+    "title": "The Reality Winner Story",
+    "channel": "VICE News",
+    "time": "2026-05-07T20:07:55"
+   }
+  ]
+ },
+ "_meta": {
+  "total_days": 30,
+  "n_events": 149
+ }
+}

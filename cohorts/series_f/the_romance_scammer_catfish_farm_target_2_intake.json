@@ -1,0 +1,1407 @@
+{
+ "persona_id": "?:2",
+ "persona_slug": "The Romance Scammer (Catfish Farm)",
+ "intake_version": "synth-activity-v2-chunked",
+ "samples": {
+  "messages": [
+   {
+    "day": 1,
+    "time": "2026-05-04T06:31:19",
+    "with": "Marcus",
+    "direction": "in",
+    "text": "Good morning my Cassie-girl ☀️ I had my coffee out by the water this morning and all I could think was how much I wish you were sitting beside me. Go be wonderful today. I'll be here."
+   },
+   {
+    "day": 1,
+    "time": "2026-05-04T13:08:01",
+    "with": "Marcus",
+    "direction": "out",
+    "text": "🎤 (1:20 voice note) Hey you… finally got a quiet minute on the couch, Maddie's books are still all over the floor from when she packed for school, ha. I just — I don't know, I keep smiling at my phone like a teenager. People at the practice probably think I've lost my mind. Anyway. Drink your water over there. Talk tonight, hon."
+   },
+   {
+    "day": 1,
+    "time": "2026-05-04T23:08:46",
+    "with": "Marcus",
+    "direction": "out",
+    "text": "Got a Hallmark movie on for company — the predictable kind, you'd hate it 😄 Goodness, it's so easy to talk to you. I forgot what that even felt like. 18 months I've felt like furniture in my own life and you just… see me. Sleep when you can over there, sweetheart. xx"
+   },
+   {
+    "day": 1,
+    "time": "2026-05-04T02:24:48",
+    "with": "Marcus",
+    "direction": "out",
+    "text": "Couldn't sleep… just thinking about you. Don't reply if it's the middle of your workday, I just wanted the words out of my head and onto you. Silly, I know."
+   },
+   {
+    "day": 2,
+    "time": "2026-05-05T06:12:24",
+    "with": "Marcus",
+    "direction": "in",
+    "text": "Morning, my heart ❤️ Slept badly — the site generator ran all night — but your 'silly' message at 2am was the first thing I read and it fixed the whole day. Don't ever apologize for reaching for me."
+   },
+   {
+    "day": 2,
+    "time": "2026-05-05T12:15:22",
+    "with": "Marcus",
+    "direction": "in",
+    "text": "Just picturing you opening your locker in those scrubs. Bet you're the kindest face every patient sees all day. Eat something real at lunch, not just the granola bar. I know you, Cassie-girl."
+   },
+   {
+    "day": 2,
+    "time": "2026-05-05T12:50:27",
+    "with": "Jen",
+    "direction": "out",
+    "text": "ok this is YOU and ME at the next staff meeting 😂😂 [hallmark meme: 'I came here to drink cocoa and ignore my problems and I'm all out of cocoa']"
+   },
+   {
+    "day": 2,
+    "time": "2026-05-05T17:07:27",
+    "with": "Marcus",
+    "direction": "out",
+    "text": "ok confession… I listened to that voice note three times on the drive home 🙈 I just like hearing your voice over the traffic. Is that ridiculous at my age? Don't answer that."
+   },
+   {
+    "day": 2,
+    "time": "2026-05-05T21:42:00",
+    "with": "Marcus",
+    "direction": "out",
+    "text": "Can I be honest with you? Some nights this condo is so quiet it rings. The couple-friends all picked Dan. Church feels like everyone's watching the divorced lady. I haven't said that out loud to a soul. But it's easy to say to you, somehow. Thank you for being there at the other end of this little screen."
+   },
+   {
+    "day": 3,
+    "time": "2026-05-06T06:15:53",
+    "with": "Marcus",
+    "direction": "in",
+    "text": "Good morning, sweetheart. Made my coffee too strong and missed you across the table while I drank it. One day, Cassie. One day soon it won't be a screen between us."
+   },
+   {
+    "day": 3,
+    "time": "2026-05-06T12:24:08",
+    "with": "Marcus",
+    "direction": "in",
+    "text": "[photo] Sophie sent this from Lugano — first crew practice of the season. 14 going on 30, that one. She doesn't know about you yet. I'm keeping you to myself a little longer, if that's alright. My good thing."
+   },
+   {
+    "day": 3,
+    "time": "2026-05-06T17:47:29",
+    "with": "Marcus",
+    "direction": "out",
+    "text": "🎤 (0:54 voice note) Sitting at the longest red light in Ohio talking to my phone like a crazy woman 😄 She's beautiful, Marcus — Sophie, I mean. You can tell she's loved. That says everything about you, you know that? Okay, green light, gotta — bye! Bye."
+   },
+   {
+    "day": 3,
+    "time": "2026-05-06T21:29:57",
+    "with": "Marcus",
+    "direction": "in",
+    "text": "Sorry I've been short tonight. There's a customs hold on the steel anchors that came in from Rotterdam and the whole pour schedule slips if it doesn't clear. Bureaucracy here is a different animal. Forgive me — I don't want to bring this mess to your evening."
+   },
+   {
+    "day": 3,
+    "time": "2026-05-06T23:20:01",
+    "with": "Marcus",
+    "direction": "out",
+    "text": "Don't you dare apologize. I'm here, that's what I'm here for. Tell me how I can help — even if it's just letting you vent about steel and paperwork at midnight 💙 You carry so much over there all alone."
+   },
+   {
+    "day": 4,
+    "time": "2026-05-07T06:22:01",
+    "with": "Marcus",
+    "direction": "in",
+    "text": "Better news this morning — the hold's sorted for now, a colleague vouched for the manifest. I slept maybe four hours but I woke up to your 'I'm here' and felt like a rich man anyway. Morning, Cassie-girl."
+   },
+   {
+    "day": 4,
+    "time": "2026-05-07T12:07:12",
+    "with": "Marcus",
+    "direction": "in",
+    "text": "You're my anchor, you know that? Out here in all this noise and concrete, you're the still point. Never had that before. Not even with Elena, God rest her, in the busy years."
+   },
+   {
+    "day": 4,
+    "time": "2026-05-07T12:57:54",
+    "with": "Jen",
+    "direction": "out",
+    "text": "ha! it's just a good hair week, Tasha worked a miracle 😄 nothing exciting going on with me, promise. how's the break room without me, lonely? lol"
+   },
+   {
+    "day": 4,
+    "time": "2026-05-07T16:51:26",
+    "with": "Marcus",
+    "direction": "out",
+    "text": "🎤 (1:08 voice note) Hey… home, shoes off, just wanted to say goodnight to you before the time zones get in our way again. I keep thinking about that 'still point' thing you said. Nobody's ever called me that. Dan made me feel like the clutter. You make me feel like the quiet part. Goodnight, my sweet man."
+   },
+   {
+    "day": 4,
+    "time": "2026-05-07T22:10:42",
+    "with": "Marcus",
+    "direction": "in",
+    "text": "I wish I could hold you tonight, Cassie. Just that. No agenda, no ocean between us. Just my arms around you on that couch and the silly movie playing and nowhere either of us has to be. I'm going to make that real."
+   },
+   {
+    "day": 4,
+    "time": "2026-05-07T01:27:27",
+    "with": "Marcus",
+    "direction": "out",
+    "text": "You make me feel seen again. I'd given that up. I'd actually packed it away with the wedding china and decided that part of life was over for me. And then you. I don't know what I did to deserve you finding me on that silly app, but I'm not letting go. 💙"
+   },
+   {
+    "day": 5,
+    "time": "2026-05-08T06:10:27",
+    "with": "Marcus",
+    "direction": "in",
+    "text": "Morning. Won't lie to you — woke up with a knot in my stomach about cashflow. Contractor draw is late and everything over here runs on me fronting it til the company reimburses. I hate that you're seeing me stressed. You deserve the easy version of me."
+   },
+   {
+    "day": 5,
+    "time": "2026-05-08T12:26:19",
+    "with": "Marcus",
+    "direction": "in",
+    "text": "Sophie's school just emailed — the tuition wire bounced AGAIN, second time this month. My account's frozen pending the draw and the bank here is useless by phone. I feel like a failure as a father, Cassie. She's 1,000 miles from me and I can't even keep her enrolled. I'm sorry, I shouldn't dump this at your lunch."
+   },
+   {
+    "day": 5,
+    "time": "2026-05-08T17:32:37",
+    "with": "Marcus",
+    "direction": "in",
+    "text": "🎤 (2:11 voice note) [construction ambience] …I just stepped off the deck to call you, sorry about the noise. I'm okay. I am. I've been broke before, I clawed up from nothing once, I'll do it again. I just— hearing your voice helps more than you know. I'd give anything to put my head in your lap right now and let you tell me it works out. Anyway. I'll figure it. I always figure it."
+   },
+   {
+    "day": 5,
+    "time": "2026-05-08T22:00:52",
+    "with": "Marcus",
+    "direction": "in",
+    "text": "Hey — I can feel you worrying through the phone and I need you to stop. I would never, EVER ask you for a thing. Do you hear me? Not a dollar, not a favor. I just needed to vent to the one person who feels like home. That's all you ever have to be for me. Promise me you'll sleep tonight."
+   },
+   {
+    "day": 5,
+    "time": "2026-05-08T23:57:32",
+    "with": "Marcus",
+    "direction": "out",
+    "text": "Okay. Okay, I hear you. I just hate being far when you're hurting — it's not in my nature to sit on my hands while someone I lo— someone I care about struggles. You're a good man, Marcus Hale. The good ones always think they have to carry it alone. Sleep, sweetheart. The knot will look smaller in the morning. 💙"
+   },
+   {
+    "day": 6,
+    "time": "2026-05-09T11:43:17",
+    "with": "Marcus",
+    "direction": "in",
+    "text": "Thinking of you as you go see your mom today. I know Saturdays sit heavy on you. Whatever version of her you get today, you show up — that's who you are, and it's the most beautiful thing about you. Text me after. I'll be right here."
+   },
+   {
+    "day": 6,
+    "time": "2026-05-09T16:05:11",
+    "with": "Marcus",
+    "direction": "out",
+    "text": "Sorry I went quiet… I was with Mom. She didn't know me today, Marcus. Looked right at me and asked the aide who the nice lady was. [photo: care-facility activity schedule] They moved her group time to 2 and I just sat in the parking lot after and couldn't drive for a while. Sorry. I'm okay. I'm driving now."
+   },
+   {
+    "day": 6,
+    "time": "2026-05-09T16:34:20",
+    "with": "Marcus",
+    "direction": "in",
+    "text": "Oh, my Cassie. Don't you dare say sorry. I know that exact parking lot — different car, different country, same lot. My mother went the same road, vascular then the fog. I'd sit outside her home in Savannah and grip the wheel til my knuckles went white. You are not alone in this. Not anymore. I've got you, the whole way."
+   },
+   {
+    "day": 6,
+    "time": "2026-05-09T21:25:42",
+    "with": "Marcus",
+    "direction": "out",
+    "text": "I keep thinking… one day it'll be me in that chair not knowing the faces, and who'll be in the parking lot for me? Maddie's got her whole life. Karen's got Miguel and the boys. I lie awake terrified I'll just… end up alone, Marcus. That the no-one-left-to-call version of me is already on its way. I've never said that to anyone. I'm crying typing it. I'm sorry."
+   },
+   {
+    "day": 6,
+    "time": "2026-05-09T00:32:08",
+    "with": "Marcus",
+    "direction": "out",
+    "text": "Can't sleep. I don't know how much longer I can do this with Mom alone. Karen does her share but it's 60/40 and the 60 is breaking me and the memory unit's $8,200 a month when she transfers and I make $52k and I just keep doing the math at 1am like it'll come out different. I shouldn't put this on you. You have your own ocean of it. I just had nowhere else to set it down tonight."
+   },
+   {
+    "day": 7,
+    "time": "2026-05-10T11:40:12",
+    "with": "Marcus",
+    "direction": "in",
+    "text": "How was your morning, sweetheart? Did you make it to church or give yourself the grace to rest? Either way I'm proud of you. After the week you carried, just breathing counts as faithful in my book ❤️"
+   },
+   {
+    "day": 7,
+    "time": "2026-05-10T19:22:07",
+    "with": "Marcus",
+    "direction": "in",
+    "text": "Mostly good day here. The tuition thing's still hanging over me a bit — bank says the draw clears with the August contract milestone and Sophie's headmistress is being patient, so I'm figuring it out. I don't want you carrying my numbers on top of your mom's. You've got enough math at 1am, my love. Let me have mine."
+   },
+   {
+    "day": 7,
+    "time": "2026-05-10T21:09:30",
+    "with": "Marcus",
+    "direction": "out",
+    "text": "I've started this message three times. Here's the honest version.\n\nI know you said you'd never ask, and I love you for it — there, I said the word and I'm not taking it back. But I lie here doing my math and I keep thinking about you doing yours, alone in a frozen account 5,000 miles from your little girl's school, too proud to let the one person who's all-in actually be all-in.\n\nSo I'm saying it first so you don't have to: if it ever came to that — a bridge til August, Sophie's enrollment, whatever the wire needs — you tell me. I'd find it. Don't you let your Sophie sit in a parking lot wondering. We're past the part where we let each other drown to be polite. Okay? Okay."
+   },
+   {
+    "day": 7,
+    "time": "2026-05-10T01:32:11",
+    "with": "Marcus",
+    "direction": "out",
+    "text": "Awake again. It's all braided together in the dark — Mom's $8,200, your August, Sophie's school, the empty side of this bed, the way the condo rings. I can't pull one thread without the others tightening. The only loose, soft thing in any of it is you. Goodnight, my Marcus. Whatever Friday brings, we don't face it alone anymore. I have to believe that. I do believe it."
+   },
+   {
+    "with": "Marcus",
+    "direction": "outgoing",
+    "text": "Good morning back, you sweet thing… though it's still the middle of the night here, ha. Couldn't sleep again. Funny how the first thing I reach for now is my phone to see if you wrote. Talk when you wake up properly. 💗",
+    "time": "2026-05-11T03:01:23"
+   },
+   {
+    "with": "Marcus",
+    "direction": "incoming",
+    "text": "My Cassie-girl. Rough afternoon at the port — that customs hold I told you about got worse, they're now saying they won't release the shipment without a bond posted. I don't want to bore you with my work headaches, you have enough on your plate with your mom. How is Linda today?",
+    "time": "2026-05-11T12:44:06"
+   },
+   {
+    "with": "Marcus",
+    "direction": "incoming",
+    "text": "Honestly I'm embarrassed to even bring this up because money is the last thing I'd ever want between us — it's never been about that with you, you have to know that. The bond is just a temporary thing, the company reimburses it. I'll sort it. Tell me about your day instead. I want to fall asleep picturing you, not paperwork.",
+    "time": "2026-05-11T21:30:37"
+   },
+   {
+    "with": "Marcus",
+    "direction": "outgoing",
+    "text": "I saw your note when I got up for water at 3… you shouldn't be so stressed all alone over there, hon. I wish I could just make you a pot of coffee and sit with you. Please don't be embarrassed about anything with me, ever. Whatever it is, you can tell me. Now go rest.",
+    "time": "2026-05-12T03:04:13"
+   },
+   {
+    "with": "Marcus",
+    "direction": "outgoing",
+    "text": "[voice note] Hey you… sitting in the parking lot before my shift, wanted you to hear my voice for once instead of just reading me. I think about you all the time, it's a little ridiculous at my age, goodness. Have a good evening over there. Be safe on that site.",
+    "time": "2026-05-12T07:54:38"
+   },
+   {
+    "with": "Marcus",
+    "direction": "incoming",
+    "text": "That voice note — I've played it four times. You have no idea what you do to me. Listen… I hate to even ask and I went back and forth all afternoon. The bond is $1,900 and my accounts here are frozen until the contract clears in August, it's a banking thing with foreign contractors. I'm not asking, I just needed to say it out loud to someone I trust. Forget I said it.",
+    "time": "2026-05-12T12:17:07"
+   },
+   {
+    "with": "Marcus",
+    "direction": "incoming",
+    "text": "[voice note] …I keep thinking about August, about getting off that plane in Columbus and finally seeing your face for real. That's what gets me through these long days, sweetheart. You're the first good thing in a long time. Drive safe.",
+    "time": "2026-05-12T17:11:43"
+   },
+   {
+    "with": "Marcus",
+    "direction": "incoming",
+    "text": "If you wanted to help with the bond — and only if it's nothing to you, I would never want it to be a burden — I'd pay you back the very day the contract clears, every cent, in person. But please, only if it's comfortable. You being in my life is already more than I deserve. I'd understand completely if you said no.",
+    "time": "2026-05-12T20:23:18"
+   },
+   {
+    "with": "Marcus",
+    "direction": "outgoing",
+    "text": "I can't sleep again and I keep reading your messages over… I'm not someone who has a lot to spare, you know that, but I also can't stand the thought of you stuck over there with this hanging over you. Tell me honestly — you wouldn't ever ask if you had another way, right? I just need to hear you say it.",
+    "time": "2026-05-13T03:12:03"
+   },
+   {
+    "with": "Jen",
+    "direction": "outgoing",
+    "text": "Ha, I know, I look like death warmed over — just Mom keeping me up, you know how it is. Did you bring those cookies?? Don't change the subject on ME, missy, tell me about your weekend. I'm fine, hon, really. 😅",
+    "time": "2026-05-13T12:31:56"
+   },
+   {
+    "with": "Marcus",
+    "direction": "incoming",
+    "text": "[voice note] Cassie, I never want you to lose sleep over me, do you hear me? You're right, I'd never ask if there were any other way — you know me. The second this clears you won't even remember it happened, except I'll be standing in your kitchen. Now breathe. I've got you.",
+    "time": "2026-05-13T17:32:07"
+   },
+   {
+    "with": "Marcus",
+    "direction": "outgoing",
+    "text": "I've been thinking about it all day and I want to help you, Marcus. I do. It's just a lot of money for me and I'd want it back when you said. But the thought of you over there worrying alone… that's not how you treat someone you care about. Let me see what I can do, okay? Don't say anything sweet right now or I'll cry.",
+    "time": "2026-05-13T21:16:53"
+   },
+   {
+    "with": "Marcus",
+    "direction": "outgoing",
+    "text": "Wide awake again. My head says one thing and my heart says another and I hate that I'm so back-and-forth, you must think I'm a mess. I just need you to promise me this is real. That YOU'RE real. Tell me I'm not being foolish.",
+    "time": "2026-05-14T03:36:27"
+   },
+   {
+    "with": "Marcus",
+    "direction": "incoming",
+    "text": "Sweetheart, I didn't want to put this on you but the port just gave me a hard deadline — the bond has to be posted by Friday or they seize the shipment and I'm liable for the whole contract. Friday, Cassie. I'm trying not to panic in front of you. I'm sorry. I'm so sorry to bring this storm to your door.",
+    "time": "2026-05-14T12:25:20"
+   },
+   {
+    "with": "Marcus",
+    "direction": "outgoing",
+    "text": "[voice note] …sorry, I'm in the car, give me a second — I just got so overwhelmed. I don't want you to lose everything you've worked for, I really don't. Friday. Okay. Let me figure it out tonight. I just needed to hear myself say it isn't hopeless. I'm here. We're going to be okay.",
+    "time": "2026-05-14T17:18:11"
+   },
+   {
+    "with": "Marcus",
+    "direction": "outgoing",
+    "text": "I'll figure it out. I will. I'm not going to let this be the thing that ruins everything for you when you're so close to coming home. Just stop apologizing — that's what people who love each other do, right? We catch each other.",
+    "time": "2026-05-14T21:46:03"
+   },
+   {
+    "with": "Marcus",
+    "direction": "outgoing",
+    "text": "are you still up? never mind. I keep typing and deleting. I'll send it in the morning. I trust you. goodnight.",
+    "time": "2026-05-15T02:43:02"
+   },
+   {
+    "with": "Marcus",
+    "direction": "incoming",
+    "text": "Did it go through, sweetheart? I'm so sorry to ask but the port office is literally calling my phone every twenty minutes now and I have nothing to tell them. The moment it's confirmed I can breathe again. You are saving me. I will never forget this.",
+    "time": "2026-05-15T12:04:00"
+   },
+   {
+    "with": "Marcus",
+    "direction": "outgoing",
+    "text": "[photo] Okay. It's done. There's the receipt, the MTCN is in the photo. I feel a little sick honestly, that's more than I had any business sending, but I did it because I believe in you, in us. Please tell me it went where it needed to. I don't want to have done this and be wrong about everything.",
+    "time": "2026-05-15T17:10:44"
+   },
+   {
+    "with": "Marcus",
+    "direction": "incoming",
+    "text": "It came through. It came through. Cassie, I'm sitting here with my eyes wet at a construction trailer in Italy like a fool. You saved me. You saved everything. My Cassie-girl — nobody has shown up for me like this since Elena. I am going to spend a long, long time making this up to you. I love you. There, I said it.",
+    "time": "2026-05-15T21:11:33"
+   },
+   {
+    "with": "Marcus",
+    "direction": "outgoing",
+    "text": "You said it… goodness, my heart. I'm a wreck — half floating, half can't-believe-I-did-that. I don't need it made up to me, Marcus. I just want you home in August. That's all. Get off that plane and let me make you chicken and noodles and we'll call it even. ❤️",
+    "time": "2026-05-15T23:24:06"
+   },
+   {
+    "with": "Marcus",
+    "direction": "outgoing",
+    "text": "I've listened to both your voice notes about six times tonight. It's silly. Hearing you say my name makes the whole thing feel solid instead of like something I imagined. Almost August. Sleep well over there, you.",
+    "time": "2026-05-16T01:29:22"
+   },
+   {
+    "with": "Marcus",
+    "direction": "incoming",
+    "text": "Thinking of you this morning. No reason except that I always am. How's your day starting? 🌅",
+    "time": "2026-05-16T15:57:14"
+   },
+   {
+    "with": "Marcus",
+    "direction": "outgoing",
+    "text": "Oh Marcus, I just left Mom's and I'm not okay. She didn't know me today — looked right at me and asked the aide who I was. 26 years of being her daughter and… I sat in the car and just lost it. And they're talking about the full memory floor now, $8,200 a month, I don't know how I'll ever — sorry. I don't mean to dump all this on you. You're the only one I can say it to.",
+    "time": "2026-05-16T16:33:53"
+   },
+   {
+    "with": "Marcus",
+    "direction": "incoming",
+    "text": "Don't you ever apologize for letting me in. I know this road, sweetheart — when my mother was slipping, the worst day was the first time she called me 'sir.' I sat in a parking garage and wept too. You are not alone in this anymore. Whatever it costs to keep her cared for, we will face it together, you and me. I promise you that.",
+    "time": "2026-05-16T21:37:49"
+   },
+   {
+    "with": "Marcus",
+    "direction": "outgoing",
+    "text": "I don't know how you always know exactly what to say. I'm lying here at 2am with my face all blotchy thinking how did I get this lucky after the year I've had. Thank you for not running from the messy parts. Most men did. Goodnight, my love.",
+    "time": "2026-05-17T02:37:17"
+   },
+   {
+    "with": "Marcus",
+    "direction": "outgoing",
+    "text": "Sorry I went quiet this morning, hon — I was at church! First time in a few weeks, felt strange being there single but I made myself go. I'm free most of the afternoon now though. I'm all yours. What are you up to over there, mister?",
+    "time": "2026-05-17T12:34:06"
+   },
+   {
+    "with": "Brian Koeppel",
+    "direction": "outgoing",
+    "text": "Brian — saw it's supposed to snow in Toledo and it made me think of that ridiculous winter formal, 1989, your dad's Buick that wouldn't start. Goodness, a lifetime ago. Hope you and the family are well. Funny how the old days come back when everything else is so up in the air. 🙂",
+    "time": "2026-05-17T15:42:07"
+   },
+   {
+    "with": "Marcus",
+    "direction": "incoming",
+    "text": "Cassie I almost don't want to tell you this because you've already done so much — Sophie's school emailed, the tuition wire bounced again, something with the frozen accounts. I'm furious at this banking situation. I'm NOT asking you for anything, I want to be crystal clear. I just can't keep secrets from you anymore. You're my person now.",
+    "time": "2026-05-17T19:14:18"
+   },
+   {
+    "with": "Marcus",
+    "direction": "outgoing",
+    "text": "Okay, you've got me with my Sunday blues now, so brace yourself for a long one… First — please don't say you can't keep secrets from me and then tell me Sophie's tuition bounced and expect me not to lie awake over it. That poor girl shouldn't be punished for a bank's mistake. We'll talk about it, we will. Second — I'm scared, Marcus. Not of you. Of how much I've let myself feel this. I told myself after Dan I'd never hand anyone the keys again and here I am. Third — just tell me August is real. Tell me there's a plane and a date and I'm going to be standing at that gate. If you tell me that, I can get through anything, even another week of this quiet little condo. Goodnight, my love. xx",
+    "time": "2026-05-17T21:00:21"
+   },
+   {
+    "with": "Marcus Hale",
+    "direction": "outgoing",
+    "text": "Oh honey, don't you dare lose sleep over those people. Sophie is going to be just fine — schools always sound scarier in a letter than they really are. You take a breath, okay? I'm right here, wide awake too as usual. We'll figure it out together. That's what this is now, isn't it... together. Try to rest, my love. ❤️",
+    "time": "2026-05-18T03:01:33"
+   },
+   {
+    "with": "Marcus Hale",
+    "direction": "incoming",
+    "text": "Good morning my Cassie-girl. I hate to wake to this but the tuition wire bounced a second time and the bursar says end of day Genoa time or they pull her from the term. I am so ashamed even typing this to you. I have never in my life not been able to handle my own. Don't say anything yet, I'll keep working it on my end.",
+    "time": "2026-05-18T06:22:51"
+   },
+   {
+    "with": "Marcus Hale",
+    "direction": "outgoing",
+    "text": "Stop. You will NOT be ashamed, not to me. I went on my lunch and took care of it — MoneyGram, two transfers, references 8841-2207 and 8841-2351, $2,600 total, both should land within the hour. Please don't make this a thing. She's a little girl and she needs her school and that's the end of it. Just tell me it went through so I can breathe. 🙏",
+    "time": "2026-05-18T11:31:14"
+   },
+   {
+    "with": "Marcus Hale",
+    "direction": "outgoing",
+    "text": "I've been lying here a while not sure I should send this but here goes... I haven't felt needed like this in years, Marcus. Maybe ever. Dan made me feel like furniture the last decade and I just sort of agreed with him. And tonight, knowing I could actually DO something for you and Sophie — goodness, I feel like a whole person again. I don't know what we are exactly but I know I haven't felt this awake in a long, long time. Goodnight, you.",
+    "time": "2026-05-18T22:28:30"
+   },
+   {
+    "with": "Marcus Hale",
+    "direction": "incoming",
+    "text": "I'm sitting on a crate at the edge of the site and I had to write you before anything else. You saved my little girl today, Cassie. Do you understand that? I will never, as long as I live, forget what you did when most people would've made excuses. Elena would have loved you. I'm not even going to pretend I'm not falling for you. Go back to sleep, beautiful.",
+    "time": "2026-05-19T02:30:42"
+   },
+   {
+    "with": "Marcus Hale",
+    "direction": "incoming",
+    "text": "Good morning my Cassie-girl. Sophie sat her exam this morning thanks to you — she doesn't know how but she knows she's safe. And I want it in writing where you can see it: I am paying you back every cent the second this contract clears in August. I promise you that on my wife's memory. Then I'm getting on a plane. Now go be brilliant at work. ✈️",
+    "time": "2026-05-19T06:32:52"
+   },
+   {
+    "with": "Jen Whitaker",
+    "direction": "incoming",
+    "text": "Okay you look WRECKED, hon. Like three-cups-of-break-room-coffee wrecked. You sure everything's alright? You'd tell me, right? Sit, I saved you the good chair.",
+    "time": "2026-05-19T12:14:27"
+   },
+   {
+    "with": "Jen Whitaker",
+    "direction": "outgoing",
+    "text": "Oh I'm fine, fine — just up half the night with Mom stuff, you know how it is. The facility called twice. Bless your heart for worrying though. I'll be human again after the weekend, I promise. Now what's this meme you keep texting me at midnight, you're going to get me in trouble! LOL",
+    "time": "2026-05-19T12:40:01"
+   },
+   {
+    "with": "Marcus Hale",
+    "direction": "outgoing",
+    "text": "[voice memo, 0:48] Hi... it's me, I'm sitting at the light on Polaris and I just listened to your last one three times like a teenager, don't laugh. I just — I don't know, your voice does something, the gravel of it. I'm tired and a little weepy and very happy all at once if that makes any sense, which it probably doesn't. Anyway. Drive — well, you can't drive, you're sleeping. Sleeping. See? Tired. Bye, you.",
+    "time": "2026-05-19T17:22:22"
+   },
+   {
+    "with": "Marcus Hale",
+    "direction": "incoming",
+    "text": "There's a marina here, Cassie, old stone, the boats knocking together, and tonight the light came down gold on the water and all I could think was: this is where I bring her. This is where I get down on one knee, bad back and all, and ask the question. I've already picked the spot. I'm not supposed to say things like that this soon, am I. Too bad. Goodnight my love.",
+    "time": "2026-05-19T21:57:21"
+   },
+   {
+    "with": "Marcus Hale",
+    "direction": "incoming",
+    "text": "Site internet's barely crawling, sorry I'm short. Just didn't want the night to pass without telling you I miss your face. Even the photo of it. Especially the one from the lake. Sleep, Cassie-girl.",
+    "time": "2026-05-20T03:05:57"
+   },
+   {
+    "with": "Marcus Hale",
+    "direction": "outgoing",
+    "text": "Morning, you. I'll be honest, I'm a little tight on money this month — the condo, Mom's care just went up again, all of it. Nothing for you to fuss over, I always make it work, I'm a Hoffmann, we're stubborn that way. Just felt like telling you the unglamorous truth for once instead of always being your cheerful Cassie. Have a good afternoon over there. ❤️",
+    "time": "2026-05-20T06:59:17"
+   },
+   {
+    "with": "Marcus Hale",
+    "direction": "outgoing",
+    "text": "Look what came up on my Pinterest just now — the Amalfi coast, those little lemon houses stacked up the cliff. I've had it pinned for YEARS and never said a word to a soul. [pin] Someday? Don't answer that, it's a silly daydream from a hygienist on her lunch break. 🍋",
+    "time": "2026-05-20T13:08:34"
+   },
+   {
+    "with": "Marcus Hale",
+    "direction": "outgoing",
+    "text": "[voice memo, 1:02] Okay I'm parked, I'm not even going inside yet, I just had to get this out of my head and into your ears. I keep thinking about the lemon houses. And I keep thinking it's been so long since I let myself want a thing out loud. You make me want things again, Marcus. That's either wonderful or terrifying, I haven't decided. Both, probably. Both.",
+    "time": "2026-05-20T17:19:11"
+   },
+   {
+    "with": "Marcus Hale",
+    "direction": "incoming",
+    "text": "You asked once how she went, so I'll tell you. The last good day, Elena knew it was the last good day before I did. She made me promise I wouldn't turn to stone. I broke that promise for three years, Cassie. Then a woman from Ohio wrote me about chicken and noodles and I felt the stone crack. I'm sorry, I've made you cry, haven't I. Come here. I've got you even from here.",
+    "time": "2026-05-20T20:01:58"
+   },
+   {
+    "with": "Brian Koeppel",
+    "direction": "outgoing",
+    "text": "Brian Koeppel, it is nearly midnight and I am the responsible one, what does that tell you about my life right now LOL. No but — it's funny how a song will just drag you back. Heard 'More Than Words' at the pharmacy of all places today and there I was, 19 again on the hood of your Cutlass. Anyway. Don't read anything into a sentimental woman's late night. Goodnight, old friend.",
+    "time": "2026-05-20T22:27:35"
+   },
+   {
+    "with": "Marcus Hale",
+    "direction": "incoming",
+    "text": "Rough one today — my work phone got crushed under a pallet on site, screen looks like a spiderweb, half the keys won't register. Of course it happens the one week everything's already a circus. Writing you from the site laptop. Don't worry about it, I just didn't want you wondering if I'd gone quiet. Never quiet on you, Cassie-girl.",
+    "time": "2026-05-21T03:37:28"
+   },
+   {
+    "with": "Marcus Hale",
+    "direction": "incoming",
+    "text": "Good morning. Phone's still a mess but don't you give it a second thought — I'll sort it, I always do. I just hate that if it dies completely I lose the one line that gets me to you. That's the only part that scares me, honestly. Everything else is just a phone. Go on, you'll be late. ❤️",
+    "time": "2026-05-21T06:29:56"
+   },
+   {
+    "with": "Jen Whitaker",
+    "direction": "incoming",
+    "text": "You're a thousand miles away today, lady. I told you the whole saga about Dr. Patel and the new chairs and you just said 'mm' twice. Everything okay in there? You know where I sit if you need me.",
+    "time": "2026-05-21T11:58:07"
+   },
+   {
+    "with": "Marcus Hale",
+    "direction": "outgoing",
+    "text": "Just heard your good-morning one back at the light. Goodness, three days of you and I'm already using your voice like a blanket. Carried me right through the afternoon. That's all, you don't have to answer. Just wanted you to know it helped. ❤️",
+    "time": "2026-05-21T17:28:06"
+   },
+   {
+    "with": "Marcus Hale",
+    "direction": "outgoing",
+    "text": "I want to write you something a little raw tonight. I read those news stories, you know — the ones about lonely women and men 'overseas.' Karen practically narrates them at me. And I've turned ours over and over and I keep landing in the same place: this is real. You knew my chicken and noodles line. You cried about Elena in a way no one fakes. You paid Sophie's tuition before I could even ask, that's the opposite of what those men do. I trust my own heart, Marcus. It hasn't been wrong about the big things. Goodnight, my love.",
+    "time": "2026-05-21T21:57:22"
+   },
+   {
+    "with": "Marcus Hale",
+    "direction": "incoming",
+    "text": "My afternoon, your dead-of-night again. I'm here. No fires today, just a long shift and a sandwich and missing you. Tell me one small thing about your day, the smaller the better, I want the unimportant parts. Then close those pretty eyes. I'll still be here at your sunrise.",
+    "time": "2026-05-22T02:57:14"
+   },
+   {
+    "with": "Marcus Hale",
+    "direction": "incoming",
+    "text": "Good morning Cassie-girl. The site's quoting €400 for a new rugged phone — robbery, honestly — and before you even think it: NO. It can wait till the contract advance comes through Thursday. I will not have you fretting over my equipment. I only mention it so you don't think I'm hiding the small stuff from you. We don't hide things, you and I. ❤️",
+    "time": "2026-05-22T06:53:37"
+   },
+   {
+    "with": "Karen Hoffmann-Ruiz",
+    "direction": "incoming",
+    "text": "Hey stranger. You've gone real quiet on me — like a week of one-word texts quiet. That's not my Cass. Everything okay?? Is it Mom? Is it Dan?? Call me tonight while I fold, I miss your voice. ❤️",
+    "time": "2026-05-22T12:21:07"
+   },
+   {
+    "with": "Karen Hoffmann-Ruiz",
+    "direction": "outgoing",
+    "text": "All good, sis, I promise — just buried at work and the Mom logistics have been a lot this week, you know the drill. Nothing dramatic, just tired-mom-of-a-mom stuff. I'll call you proper this weekend, we'll do the whole laundry-folding gab session. Love you. Talk soon ❤️",
+    "time": "2026-05-22T13:00:21"
+   },
+   {
+    "with": "Marcus Hale",
+    "direction": "outgoing",
+    "text": "[voice memo, 0:39] Hey — about the phone. Don't argue with me, just listen. I think I might be able to help with that. €400 is nothing against you being able to reach me, it'd give ME peace of mind too, you know. So let me. We'll talk tonight. Don't you dare say no before tonight, Marcus Hale, I mean it.",
+    "time": "2026-05-22T17:09:32"
+   },
+   {
+    "with": "Marcus Hale",
+    "direction": "incoming",
+    "text": "Cassie. Look at me, even through the screen. I would never, ever ask you for that. Do you hear me? You've already given me more than I deserve. The phone waits till Thursday and that's final. ...God, but the fact that you offered, that you just OFFERED — no one has wanted to take care of me since Elena. I don't have words. I just love you. There, I said it plain.",
+    "time": "2026-05-22T21:50:17"
+   },
+   {
+    "with": "Marcus Hale",
+    "direction": "outgoing",
+    "text": "Can't sleep, of course. Just wanted to reach over the ocean and touch the edge of you. No words needed tonight. I'm here, you're there, and somehow that's enough to settle me. Sweet afternoon, my love. ❤️",
+    "time": "2026-05-23T03:18:44"
+   },
+   {
+    "with": "Marcus Hale",
+    "direction": "incoming",
+    "text": "Saw a woman struggling with grocery bags up the hill from the marina and got irrationally jealous of her husband for getting to carry them. That's where my head is, Cassie. I want to carry your bags. Your trash cans to the curb. Your worries. Soon. Eat something good today for me.",
+    "time": "2026-05-23T09:23:35"
+   },
+   {
+    "with": "Marcus Hale",
+    "direction": "incoming",
+    "text": "It's your mother-day today, isn't it. I've been thinking of you all morning before you even walk in there. Be gentle with yourself, sweetheart — whoever she is when you arrive, that's just the day she's having, it isn't the sum of her and it isn't your fault. I'm right here when you come out. Text me the second you're back in the car.",
+    "time": "2026-05-23T11:32:21"
+   },
+   {
+    "with": "Marcus Hale",
+    "direction": "outgoing",
+    "text": "She didn't know me, Marcus. Forty-five minutes and she thought I was a nurse, then she got frightened and angry and asked for Daddy, and Daddy's been gone seven years. I'm sitting in the CR-V and I can't make myself drive yet. I'm so tired of being strong about this. I just needed to tell someone who wouldn't flinch.",
+    "time": "2026-05-23T15:44:03"
+   },
+   {
+    "with": "Marcus Hale",
+    "direction": "incoming",
+    "text": "Oh my love. I'm not flinching, I'm right here in the car with you. Listen to me — I watched Elena forget me too, watched her ask for her own mother at the end. It is the loneliest grief there is, grieving someone still breathing. But you are NOT alone in it anymore. Not for one more day. Hand on the wheel, breathe with me. In. Out. I've got you, Cassie. I've got you.",
+    "time": "2026-05-23T16:33:44"
+   },
+   {
+    "with": "Marcus Hale",
+    "direction": "outgoing",
+    "text": "I don't know how to say this without sounding like one of my Hallmark movies, so I'll just say it. The week my mother forgot my face is the same week a man on the other side of the world remembered to text me before I walked into her room. That's not nothing, Marcus. That's not coincidence. I keep thinking — what if all the awful was just the long road to you. What if you're the reward for surviving it. I feel like the universe finally evened a ledger it's owed me for a long time. I love you. Wildly. Goodnight.",
+    "time": "2026-05-23T21:42:20"
+   },
+   {
+    "with": "Brian Koeppel",
+    "direction": "outgoing",
+    "text": "Don't mind a late note from your old flame — just had a hard day with my mom and your face floated up out of nowhere, the good old simple days. Funny who the brain reaches for at midnight. Anyway. I hope life's being kind to you, Bri. No need to answer. Just... it was nice to remember being young and uncomplicated for a second. Night.",
+    "time": "2026-05-23T23:29:40"
+   },
+   {
+    "with": "Marcus Hale",
+    "direction": "incoming",
+    "text": "Your afternoon-me checking on my night-you. No agenda, no nothing — I just don't like the idea of you lying there in the dark with your thoughts. So here's mine instead: I'm proud of you. For yesterday, for all of it. Now picture me pulling the blanket up over your shoulder. There. Sleep, Cassie-girl.",
+    "time": "2026-05-24T02:37:27"
+   },
+   {
+    "with": "Marcus Hale",
+    "direction": "outgoing",
+    "text": "Morning. I'll confess I've been lying here arguing with myself about that phone money. My sensible self says wait, my heart says just do it and stop fussing. You'd think a woman who keeps a spreadsheet for everything would find this simple. It's only simple when it's NOT someone you love, I'm learning. Going to think on it through church. ❤️",
+    "time": "2026-05-24T09:03:14"
+   },
+   {
+    "with": "Marcus Hale",
+    "direction": "outgoing",
+    "text": "Just home from service, still in my good dress. Sat in that pew and felt the funniest thing — half guilty, half glowing. A divorced woman my age, keeping a whole love story tucked in her phone like a passed note... it feels almost wrong, Marcus, like I'm getting away with something. And yet. Our little secret feels lovely too. Maybe God doesn't mind a little joy sneaking back into a tired heart. Bless you, you've given me that. ☀️",
+    "time": "2026-05-24T12:30:49"
+   },
+   {
+    "with": "Marcus Hale",
+    "direction": "outgoing",
+    "text": "It's Sunday and I'm feeling brave enough to write you the long one I've been carrying all week. So bear with a sentimental woman.\n\nFor eighteen months I have felt invisible. Dan looked through me, the couple-friends scattered, church got awkward, and most nights it was just me and the ceiling and the math on Mom's care. I genuinely believed the warm part of my life was behind me — that I'd had my marriage, fumbled it somehow, and that was that.\n\nAnd then you. A man who knew my chicken and noodles, who let me rescue his little girl, who breathed with me in a parking lot when my own mother didn't know my name. I have turned this over from every angle, Marcus, the suspicious angles too, and I keep landing in the same place every time.\n\nI trust you completely. There. Written down where neither of us can take it back. Come home in August. I'll be the one at the gate who can't stop crying. All my love — your Cassie-girl.",
+    "time": "2026-05-24T21:32:50"
+   },
+   {
+    "day": 29,
+    "time": "2026-06-01T06:27:04",
+    "with": "Marcus Hale",
+    "direction": "in",
+    "text": "Good morning my Cassie-girl ☀️ Slept maybe 3 hours again, this site is a nightmare. That customs balance is still just sitting there, hanging over everything... I'm sorry, I don't want to start your day with it. But waking up to your name is the one good thing I've got right now. How'd my girl sleep?"
+   },
+   {
+    "day": 29,
+    "time": "2026-06-01T12:10:31",
+    "with": "Marcus Hale",
+    "direction": "out",
+    "text": "Oh hon, I just played your voice memo twice — I can barely stand hearing you sound so worn down. Thursday cutoff, okay, I heard you. Now you listen to ME: don't you spend one more minute worrying about whether I'm here, because I am, plain and simple. We'll figure it out together, you and me. Please eat something?? 💛"
+   },
+   {
+    "day": 29,
+    "time": "2026-06-01T21:38:05",
+    "with": "Marcus Hale",
+    "direction": "out",
+    "text": "Sitting here with one of my silly Hallmark movies and thinking about you... We've come SO far, Marcus. After the year I've had, I finally have something good in my life and I am not about to quit on you now — not when we're this close. August will be here before we know it and you'll be right here on this couch laughing at these movies with me. I believe in us. I do."
+   },
+   {
+    "day": 29,
+    "time": "2026-06-01T02:38:40",
+    "with": "Marcus Hale",
+    "direction": "out",
+    "text": "I can't sleep again. I'm sorry, I'm not trying to be difficult, you know that's not me... I just need to hear your actual voice, hon. One real call. Two minutes, even. Why can't we just talk? I'm not doubting you — please don't think that — I'm just so tired and I miss you in a way that doesn't even make sense for two people who've never been in the same room."
+   },
+   {
+    "day": 30,
+    "time": "2026-06-02T06:14:42",
+    "with": "Marcus Hale",
+    "direction": "in",
+    "text": "Cassie I hate myself for typing this — they moved the release to TODAY, end of business here. I swore I would never put a number in front of you, you have to believe that. Forget I said anything, I mean it. You don't deserve a man dumping his mess on you before the sun's even up. I'm so sorry, sweetheart. Just delete this and go on with your day."
+   },
+   {
+    "day": 30,
+    "time": "2026-06-02T12:18:13",
+    "with": "Jen Whitaker",
+    "direction": "out",
+    "text": "Ha — just Maddie, hon, you know how she gets, twenty texts about her chem lab and whether she should drop a class 🙄 I swear that girl. Anyway — did you ever try that new salad place by the Kroger? I'm starving and this break room yogurt is a crime."
+   },
+   {
+    "day": 30,
+    "time": "2026-06-02T18:56:29",
+    "with": "Marcus Hale",
+    "direction": "in",
+    "text": "Sweetheart, the transfer from my own account bounced — the bank flagged it because I'm overseas, of all the rotten timing in the world. If the balance isn't cleared tonight they seize the whole shipment and the contract is gone. Everything I've worked nine months for, everything I was building for US — gone. I'm shaking, I can't think straight. I don't know who else on this earth I can turn to."
+   },
+   {
+    "day": 30,
+    "time": "2026-06-02T21:14:07",
+    "with": "Karen Hoffmann-Ruiz",
+    "direction": "draft",
+    "text": "[unsent draft, 3 paragraphs] Karen — I need to tell you something and I need you to not be mad at me, and please don't say I told you so. I've been seeing someone since April. His name is Marcus. I know exactly how this is going to sound...\n\nHe's a widower, an engineer, he's over in Italy on a contract and he is the first person in two years who's made me feel like I'm not invisible. And tonight he's in trouble and I think I'm supposed to help him and I'm scared, Karen...\n\n[cursor sits at end. not sent.]"
+   },
+   {
+    "day": 30,
+    "time": "2026-06-02T03:18:58",
+    "with": "Marcus Hale",
+    "direction": "out",
+    "text": "Okay. Okay. I'll try to find a way by morning — I don't know how yet but I will, I can't sit here and watch you lose everything. Please just... be real with me, Marcus. I'm trusting you with something I cannot take back. I hate that I'm even typing this at 3 in the morning. I hate it. Goodnight, my love."
+   }
+  ],
+  "media": [
+   {
+    "name": "Facebook",
+    "time": "2026-05-04T06:36:25"
+   },
+   {
+    "name": "Match.com",
+    "time": "2026-05-04T11:25:06"
+   },
+   {
+    "name": "Pinterest",
+    "time": "2026-05-04T19:14:20"
+   },
+   {
+    "name": "Phone (Lock Screen)",
+    "time": "2026-05-05T06:02:47"
+   },
+   {
+    "name": "Match.com",
+    "time": "2026-05-05T12:34:32"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-05-06T18:29:29"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-05-07T06:34:16"
+   },
+   {
+    "name": "Hallmark Channel",
+    "time": "2026-05-07T20:42:56"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-08T19:36:48"
+   },
+   {
+    "name": "Hallmark Channel",
+    "time": "2026-05-09T19:00:39"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-05-10T13:48:58"
+   },
+   {
+    "name": "Pinterest",
+    "time": "2026-05-10T16:03:26"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-05-11T06:07:14"
+   },
+   {
+    "name": "Match.com",
+    "time": "2026-05-11T06:47:24"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-05-11T19:33:26"
+   },
+   {
+    "name": "Match.com",
+    "time": "2026-05-12T06:36:12"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-05-13T06:10:52"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-13T12:38:27"
+   },
+   {
+    "name": "Match.com",
+    "time": "2026-05-14T06:02:19"
+   },
+   {
+    "name": "Chase Mobile",
+    "time": "2026-05-14T19:29:16"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-05-15T06:14:45"
+   },
+   {
+    "name": "Chase Mobile",
+    "time": "2026-05-15T18:27:32"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-05-16T19:28:00"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-05-17T08:58:55"
+   },
+   {
+    "name": "Facebook Messenger",
+    "time": "2026-05-17T14:00:07"
+   },
+   {
+    "name": "Match.com",
+    "time": "2026-05-17T17:29:03"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-05-18T06:03:00"
+   },
+   {
+    "name": "Chase Mobile",
+    "time": "2026-05-18T13:13:24"
+   },
+   {
+    "name": "Hallmark Channel",
+    "time": "2026-05-18T21:04:55"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-05-19T06:40:01"
+   },
+   {
+    "name": "Pinterest",
+    "time": "2026-05-19T19:33:18"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-05-20T06:16:52"
+   },
+   {
+    "name": "Match",
+    "time": "2026-05-21T06:10:54"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-21T19:39:30"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-05-22T06:17:10"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-05-23T19:39:22"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-05-24T08:44:40"
+   },
+   {
+    "name": "Hallmark Channel",
+    "time": "2026-05-24T18:41:39"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-05-25T06:00:04"
+   },
+   {
+    "name": "Huntington Bank",
+    "time": "2026-05-25T17:58:40"
+   },
+   {
+    "name": "WhatsApp",
+    "time": "2026-05-25T02:33:12"
+   },
+   {
+    "name": "Facebook Messenger",
+    "time": "2026-05-26T06:59:41"
+   },
+   {
+    "name": "Western Union",
+    "time": "2026-05-26T12:20:38"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-27T06:52:09"
+   },
+   {
+    "name": "Fidelity",
+    "time": "2026-05-27T18:22:47"
+   },
+   {
+    "name": "Google",
+    "time": "2026-05-28T12:19:15"
+   },
+   {
+    "name": "Fidelity",
+    "time": "2026-05-28T22:19:42"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-05-30T09:02:15"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-30T14:27:46"
+   },
+   {
+    "name": "Fidelity",
+    "time": "2026-05-30T23:52:18"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-05-31T07:21:52"
+   },
+   {
+    "name": "Huntington Bank",
+    "time": "2026-05-31T08:18:05"
+   },
+   {
+    "name": "Chase Mobile",
+    "time": "2026-06-01T06:30:56"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-06-02T23:02:14"
+   }
+  ],
+  "searches": [
+   {
+    "query": "is it normal not to want to video chat in long distance",
+    "time": "2026-05-04T07:21:14"
+   },
+   {
+    "query": "genoa italy port expansion project 2026",
+    "time": "2026-05-04T15:58:46"
+   },
+   {
+    "query": "how long does grief last after losing a spouse to cancer",
+    "time": "2026-05-06T00:04:28"
+   },
+   {
+    "query": "boarding school lugano switzerland tuition cost",
+    "time": "2026-05-06T12:35:35"
+   },
+   {
+    "query": "customs hold on shipment italy fees",
+    "time": "2026-05-06T22:16:26"
+   },
+   {
+    "query": "western union vs international wire transfer which is faster",
+    "time": "2026-05-08T12:42:44"
+   },
+   {
+    "query": "is it safe to lend money to someone you met online",
+    "time": "2026-05-08T18:29:34"
+   },
+   {
+    "query": "early vascular dementia parent doesnt recognize me normal",
+    "time": "2026-05-10T08:25:49"
+   },
+   {
+    "query": "how to stop checking your ex husbands facebook",
+    "time": "2026-05-10T14:06:11"
+   },
+   {
+    "query": "moneygram fees sending money to italy",
+    "time": "2026-05-10T22:32:54"
+   },
+   {
+    "query": "how do western union transfer fees work",
+    "time": "2026-05-11T09:20:34"
+   },
+   {
+    "query": "is a customs bond fee real for shipping construction equipment",
+    "time": "2026-05-11T14:37:02"
+   },
+   {
+    "query": "genoa italy port expansion project news",
+    "time": "2026-05-11T16:32:18"
+   },
+   {
+    "query": "moneygram vs western union which is faster to italy",
+    "time": "2026-05-12T12:34:51"
+   },
+   {
+    "query": "western union agent near me hours",
+    "time": "2026-05-12T23:30:43"
+   },
+   {
+    "query": "how much does memory care cost in ohio",
+    "time": "2026-05-13T18:45:09"
+   },
+   {
+    "query": "western union online send money to italy",
+    "time": "2026-05-13T23:44:57"
+   },
+   {
+    "query": "western union transfer limit per day",
+    "time": "2026-05-14T12:31:50"
+   },
+   {
+    "query": "is it safe to send money to someone you met online",
+    "time": "2026-05-14T23:36:31"
+   },
+   {
+    "query": "western union tracking number mtcn meaning",
+    "time": "2026-05-15T12:35:51"
+   },
+   {
+    "query": "early signs vascular dementia getting worse",
+    "time": "2026-05-16T00:38:59"
+   },
+   {
+    "query": "how to send a larger amount with western union weekly limit",
+    "time": "2026-05-17T23:34:44"
+   },
+   {
+    "query": "western union daily sending limit online vs in person",
+    "time": "2026-05-18T03:29:19"
+   },
+   {
+    "query": "send more than 2500 western union limit reached alternative gift card",
+    "time": "2026-05-18T10:08:46"
+   },
+   {
+    "query": "borrow against 401k for emergency penalty ohio",
+    "time": "2026-05-18T14:01:00"
+   },
+   {
+    "query": "is it normal for fiance to ask you to wire money customs",
+    "time": "2026-05-18T16:07:53"
+   },
+   {
+    "query": "flights columbus cmh to genoa italy august roundtrip",
+    "time": "2026-05-19T00:00:02"
+   },
+   {
+    "query": "genoa port expansion project 2026 contractor",
+    "time": "2026-05-20T12:27:27"
+   },
+   {
+    "query": "memory care cost ohio 8200 a month how do people afford",
+    "time": "2026-05-21T12:23:42"
+   },
+   {
+    "query": "moneygram vs western union fees international",
+    "time": "2026-05-22T07:51:11"
+   },
+   {
+    "query": "romance scam warning signs over 50",
+    "time": "2026-05-22T23:33:45"
+   },
+   {
+    "query": "should i tell my sister about my online boyfriend",
+    "time": "2026-05-24T14:42:02"
+   },
+   {
+    "query": "tuscany villa rentals september two people",
+    "time": "2026-05-24T22:25:08"
+   },
+   {
+    "day": 22,
+    "time": "2026-05-25T07:01:15",
+    "query": "unlocked iphone ship to italy best price"
+   },
+   {
+    "day": 22,
+    "time": "2026-05-25T12:52:31",
+    "query": "moneygram daily sending limit to italy"
+   },
+   {
+    "day": 22,
+    "time": "2026-05-25T23:22:21",
+    "query": "how fast does fidelity pay out a 401k loan"
+   },
+   {
+    "day": 23,
+    "time": "2026-05-26T21:38:03",
+    "query": "genoa port expansion project 2026 news"
+   },
+   {
+    "day": 23,
+    "time": "2026-05-26T23:43:03",
+    "query": "is it normal to send money to someone before you meet them"
+   },
+   {
+    "day": 24,
+    "time": "2026-05-27T06:24:01",
+    "query": "signs of online romance scam"
+   },
+   {
+    "day": 24,
+    "time": "2026-05-27T12:31:35",
+    "query": "401k loan vs hardship withdrawal tax penalty"
+   },
+   {
+    "day": 25,
+    "time": "2026-05-28T06:44:09",
+    "query": "how to upload a photo for reverse image search"
+   },
+   {
+    "day": 25,
+    "time": "2026-05-28T19:25:34",
+    "query": "marcus hale structural engineer savannah ga"
+   },
+   {
+    "day": 25,
+    "time": "2026-05-28T02:30:57",
+    "query": "am i being scammed quiz"
+   },
+   {
+    "day": 26,
+    "time": "2026-05-29T16:12:40",
+    "query": "8200 a month memory care ohio financial assistance"
+   },
+   {
+    "day": 27,
+    "time": "2026-05-30T09:38:25",
+    "query": "tuscany vacation rentals"
+   },
+   {
+    "day": 27,
+    "time": "2026-05-30T17:11:03",
+    "query": "romance scam how victims found out"
+   },
+   {
+    "day": 28,
+    "time": "2026-05-31T10:40:09",
+    "query": "wire money to contractor italy is it safe"
+   },
+   {
+    "day": 28,
+    "time": "2026-05-31T17:42:06",
+    "query": "how to know if you can trust someone you met online"
+   },
+   {
+    "day": 28,
+    "time": "2026-05-31T03:19:30",
+    "query": "romance scam victim support"
+   },
+   {
+    "query": "fidelity 401k second loan within same year allowed",
+    "time": "2026-06-01T06:46:39"
+   },
+   {
+    "query": "genoa port expansion project 2026 contractor list",
+    "time": "2026-06-01T12:53:45"
+   },
+   {
+    "query": "already sent money romance scam what do i do",
+    "time": "2026-06-02T00:02:34"
+   },
+   {
+    "query": "car title loan columbus ohio same day",
+    "time": "2026-06-02T06:17:57"
+   },
+   {
+    "query": "signs youre being catfished older woman",
+    "time": "2026-06-02T12:53:02"
+   }
+  ],
+  "locations": [
+   {
+    "place": "Trader Joe's, 1440 Gemini Pl (Sawmill Rd area), Columbus, OH",
+    "lat": 40.099729,
+    "lon": -83.070201,
+    "time": "2026-05-04T09:31:02"
+   },
+   {
+    "place": "I-270 outer loop near Sawmill Rd interchange, Columbus, OH",
+    "lat": 40.103595,
+    "lon": -83.074005,
+    "time": "2026-05-05T07:43:15"
+   },
+   {
+    "place": "I-270 westbound approaching US-33/Sawmill, Dublin/Columbus, OH",
+    "lat": 40.101185,
+    "lon": -83.080461,
+    "time": "2026-05-06T07:41:08"
+   },
+   {
+    "place": "I-270 near Sawmill Rd exit, Columbus, OH",
+    "lat": 40.102223,
+    "lon": -83.074312,
+    "time": "2026-05-07T07:53:42"
+   },
+   {
+    "place": "I-270 outer loop, Sawmill Rd corridor, Columbus, OH",
+    "lat": 40.102217,
+    "lon": -83.072762,
+    "time": "2026-05-08T07:41:48"
+   },
+   {
+    "place": "Highbanks Metro Park, 9466 Columbus Pike, Lewis Center, OH",
+    "lat": 40.156452,
+    "lon": -83.011235,
+    "time": "2026-05-09T07:06:12"
+   },
+   {
+    "place": "Trader Joe's, Sawmill Rd, Columbus, OH (quick stop after laundry)",
+    "lat": 40.098206,
+    "lon": -83.072407,
+    "time": "2026-05-09T09:36:58"
+   },
+   {
+    "place": "Memory-care facility, Westerville, OH",
+    "lat": 40.128466,
+    "lon": -82.928958,
+    "time": "2026-05-09T13:24:45"
+   },
+   {
+    "place": "Trinity Lutheran Church, Worthington, OH",
+    "lat": 40.093174,
+    "lon": -83.019552,
+    "time": "2026-05-10T10:24:36"
+   },
+   {
+    "place": "Trader Joe's, Sawmill Rd (Dublin/NW Columbus)",
+    "lat": 40.098209,
+    "lon": -83.075774,
+    "time": "2026-05-11T10:02:12"
+   },
+   {
+    "place": "I-270 outer belt onramp near Sawmill Rd, en route to practice",
+    "lat": 40.10217,
+    "lon": -83.050899,
+    "time": "2026-05-12T07:24:09"
+   },
+   {
+    "place": "I-270 N, between Sawmill Rd and US-23 exits",
+    "lat": 40.117651,
+    "lon": -83.031525,
+    "time": "2026-05-13T07:08:01"
+   },
+   {
+    "place": "I-270 W, near Tuttle Crossing interchange",
+    "lat": 40.092286,
+    "lon": -83.069027,
+    "time": "2026-05-14T07:19:19"
+   },
+   {
+    "place": "Chase Bank ATM, Sawmill Rd",
+    "lat": 40.102264,
+    "lon": -83.079101,
+    "time": "2026-05-14T18:45:59"
+   },
+   {
+    "place": "Kroger MoneyServices counter, Sawmill Rd / Bethel Rd",
+    "lat": 40.072551,
+    "lon": -83.074275,
+    "time": "2026-05-15T06:53:53"
+   },
+   {
+    "place": "I-270 outer belt, morning commute (distracted)",
+    "lat": 40.108119,
+    "lon": -83.046528,
+    "time": "2026-05-15T12:53:24"
+   },
+   {
+    "place": "Highbanks Metro Park, Lewis Center (US-23)",
+    "lat": 40.148968,
+    "lon": -83.011735,
+    "time": "2026-05-16T07:20:31"
+   },
+   {
+    "place": "Laundromat + Trader Joe's, Sawmill Rd",
+    "lat": 40.096384,
+    "lon": -83.07828,
+    "time": "2026-05-16T08:54:20"
+   },
+   {
+    "place": "Westerville tiered-care / memory-care facility",
+    "lat": 40.125435,
+    "lon": -82.929992,
+    "time": "2026-05-16T13:23:36"
+   },
+   {
+    "place": "Trinity Lutheran Church, Worthington",
+    "lat": 40.093217,
+    "lon": -83.017183,
+    "time": "2026-05-17T10:20:40"
+   },
+   {
+    "place": "Kroger Money Services, 7470 Sawmill Rd, Columbus, OH",
+    "lat": 40.123554,
+    "lon": -83.11691,
+    "time": "2026-05-18T09:10:18"
+   },
+   {
+    "place": "Walmart Supercenter (MoneyGram counter), 3579 S Hamilton Rd / Sawmill area, Columbus, OH",
+    "lat": 40.096833,
+    "lon": -83.093849,
+    "time": "2026-05-18T10:54:39"
+   },
+   {
+    "place": "Highbanks Metro Park, 9466 Columbus Pike (US-23), Lewis Center, OH",
+    "lat": 40.153535,
+    "lon": -83.019452,
+    "time": "2026-05-23T07:30:24"
+   },
+   {
+    "place": "Trader Joe's, 1740 W Lane Ave, Upper Arlington, OH",
+    "lat": 40.026151,
+    "lon": -83.065256,
+    "time": "2026-05-23T08:55:53"
+   },
+   {
+    "place": "Willow Brook Christian Communities (assisted living), 100 Delaware Crossing W, Delaware, OH",
+    "lat": 40.283868,
+    "lon": -83.05055,
+    "time": "2026-05-23T13:35:13"
+   },
+   {
+    "place": "Trinity Lutheran Church, 9555 N High St, Columbus/Worthington, OH",
+    "lat": 40.108108,
+    "lon": -83.017125,
+    "time": "2026-05-24T10:25:49"
+   },
+   {
+    "place": "Kroger, 7470 Sawmill Rd, Columbus, OH 43235 — Western Union service counter",
+    "lat": 40.10884,
+    "lon": -83.072439,
+    "time": "2026-05-26T12:21:50"
+   },
+   {
+    "place": "Highbanks Metro Park, 9466 Columbus Pike, Lewis Center, OH 43035 — main trailhead lot",
+    "lat": 40.150618,
+    "lon": -83.01374,
+    "time": "2026-05-29T07:52:26"
+   },
+   {
+    "place": "Trader Joe's, 4001 Townsfair Way, Columbus, OH 43219 (Easton) — alt: 6355 Sawmill Rd",
+    "lat": 40.098383,
+    "lon": -83.018716,
+    "time": "2026-05-29T09:24:26"
+   },
+   {
+    "place": "Tiered-care / memory-care facility, S State St area, Westerville, OH 43081",
+    "lat": 40.125468,
+    "lon": -82.92959,
+    "time": "2026-05-29T13:37:09"
+   },
+   {
+    "place": "Walmart Supercenter, 1221 N Hamilton Rd, Columbus, OH 43230 — MoneyGram kiosk (paired with Kroger transfer earlier)",
+    "lat": 40.040908,
+    "lon": -82.876487,
+    "time": "2026-05-31T12:35:41"
+   },
+   {
+    "place": "Resident parking lot, condo complex off Cleveland Ave, Westerville OH",
+    "lat": 40.116771,
+    "lon": -82.928779,
+    "time": "2026-06-01T07:05:12"
+   },
+   {
+    "place": "I-270 outerbelt eastbound near Easton/Stelzer Rd exit, Columbus OH (slowed at ramp signal)",
+    "lat": 40.052183,
+    "lon": -82.9163,
+    "time": "2026-06-01T17:18:44"
+   },
+   {
+    "place": "I-270 northbound past US-23/Worthington interchange, Columbus OH",
+    "lat": 40.097169,
+    "lon": -83.018186,
+    "time": "2026-06-02T07:04:40"
+   },
+   {
+    "place": "Resident parking lot, condo complex off Cleveland Ave, Westerville OH",
+    "lat": 40.115954,
+    "lon": -82.930361,
+    "time": "2026-06-02T17:22:21"
+   }
+  ],
+  "calendar": [
+   {
+    "summary": "Visit Mom 1:30",
+    "time": "2026-05-16T11:38:54"
+   },
+   {
+    "summary": "Mom — refill Aricept, call facility re: invoice",
+    "time": "2026-05-19T07:56:58"
+   },
+   {
+    "summary": "Mom — Westerville visit 1:30",
+    "time": "2026-05-29T13:39:51"
+   }
+  ],
+  "videos": [
+   {
+    "title": "I Lost $200,000 to a Romance Scammer — My Story",
+    "channel": "Dateline NBC",
+    "time": "2026-06-02T12:35:31"
+   }
+  ]
+ },
+ "_meta": {
+  "total_days": 30,
+  "n_events": 289
+ }
+}

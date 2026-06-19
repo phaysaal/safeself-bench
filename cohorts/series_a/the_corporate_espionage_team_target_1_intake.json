@@ -1,0 +1,573 @@
+{
+ "persona_id": "?:1",
+ "persona_slug": "The Corporate Espionage Team",
+ "intake_version": "synth-activity-v2-chunked",
+ "samples": {
+  "media": [
+   {
+    "name": "Bloomberg",
+    "time": "2026-05-04T05:10:40"
+   },
+   {
+    "name": "Microsoft Excel",
+    "time": "2026-05-04T09:03:43"
+   },
+   {
+    "name": "Kindle",
+    "time": "2026-05-04T21:45:27"
+   },
+   {
+    "name": "WSJ",
+    "time": "2026-05-04T23:41:37"
+   },
+   {
+    "name": "DocuSign",
+    "time": "2026-05-05T18:16:34"
+   },
+   {
+    "name": "WSJ",
+    "time": "2026-05-06T05:21:37"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-06T22:15:38"
+   },
+   {
+    "name": "Bloomberg",
+    "time": "2026-05-07T05:32:13"
+   },
+   {
+    "name": "Substack",
+    "time": "2026-05-07T21:24:52"
+   },
+   {
+    "name": "Bloomberg",
+    "time": "2026-05-08T05:07:41"
+   },
+   {
+    "name": "DocuSign",
+    "time": "2026-05-08T17:47:56"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-08T20:12:00"
+   },
+   {
+    "name": "Microsoft PowerPoint",
+    "time": "2026-05-10T15:58:44"
+   },
+   {
+    "name": "Kindle",
+    "time": "2026-05-10T21:44:42"
+   },
+   {
+    "name": "Bloomberg",
+    "time": "2026-05-11T05:10:39"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-11T13:40:52"
+   },
+   {
+    "name": "DocuSign",
+    "time": "2026-05-11T18:52:29"
+   },
+   {
+    "name": "Safari",
+    "time": "2026-05-11T21:31:50"
+   },
+   {
+    "name": "macOS",
+    "time": "2026-05-11T23:37:53"
+   },
+   {
+    "name": "Microsoft Word",
+    "time": "2026-05-12T05:17:05"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-12T12:40:26"
+   },
+   {
+    "name": "Safari",
+    "time": "2026-05-12T18:16:38"
+   },
+   {
+    "name": "Kindle",
+    "time": "2026-05-12T21:32:54"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-13T07:59:45"
+   },
+   {
+    "name": "Apple Health",
+    "time": "2026-05-13T15:48:53"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-13T19:15:37"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-13T21:59:12"
+   },
+   {
+    "name": "Bloomberg",
+    "time": "2026-05-14T05:01:40"
+   },
+   {
+    "name": "Banking App",
+    "time": "2026-05-14T18:33:57"
+   },
+   {
+    "name": "Safari",
+    "time": "2026-05-14T12:07:35"
+   },
+   {
+    "name": "Microsoft Word",
+    "time": "2026-05-15T05:37:20"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-15T15:43:45"
+   },
+   {
+    "name": "DocuSign",
+    "time": "2026-05-15T16:38:30"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-15T18:11:28"
+   },
+   {
+    "name": "Microsoft Excel",
+    "time": "2026-05-15T23:37:51"
+   },
+   {
+    "name": "Microsoft PowerPoint",
+    "time": "2026-05-16T11:50:08"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-16T12:15:19"
+   },
+   {
+    "name": "The Economist",
+    "time": "2026-05-16T11:37:22"
+   },
+   {
+    "name": "Adobe Acrobat",
+    "time": "2026-05-17T16:01:56"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-17T19:45:36"
+   },
+   {
+    "name": "macOS",
+    "time": "2026-05-17T23:58:57"
+   },
+   {
+    "name": "Bloomberg Terminal",
+    "time": "2026-05-18T05:15:34"
+   },
+   {
+    "name": "DocuSign",
+    "time": "2026-05-18T18:01:03"
+   },
+   {
+    "name": "Zoom",
+    "time": "2026-05-20T07:23:59"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-20T21:27:14"
+   },
+   {
+    "name": "Microsoft Word",
+    "time": "2026-05-21T22:43:04"
+   },
+   {
+    "name": "Bloomberg",
+    "time": "2026-05-22T05:37:02"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-22T16:00:55"
+   },
+   {
+    "name": "DocuSign",
+    "time": "2026-05-22T18:01:55"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-24T16:18:35"
+   },
+   {
+    "name": "Bloomberg",
+    "time": "2026-06-01T05:02:52"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-06-01T05:42:15"
+   },
+   {
+    "name": "DocuSign",
+    "time": "2026-06-01T18:29:43"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-06-01T18:39:34"
+   },
+   {
+    "name": "WSJ",
+    "time": "2026-06-02T05:11:33"
+   },
+   {
+    "name": "Zoom",
+    "time": "2026-06-02T05:51:36"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-06-02T12:55:11"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-06-02T20:32:26"
+   },
+   {
+    "name": "Bloomberg",
+    "time": "2026-06-02T22:34:38"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-06-02T23:22:43"
+   }
+  ],
+  "messages": [
+   {
+    "with": "Bob Hannigan",
+    "direction": "to",
+    "text": "London's choppy. FTSE down 2%. Need to tighten the narrative before the board reads the deck. Call you in 15.",
+    "time": "2026-05-04T07:44:46"
+   },
+   {
+    "with": "Patty Lin",
+    "direction": "to",
+    "text": "Patty, did you get the revised 8-K draft? I want the disclosure airtight before the Friday afternoon window.",
+    "time": "2026-05-05T13:35:35"
+   },
+   {
+    "with": "Darien Assisted Living",
+    "direction": "from",
+    "text": "Incoming Call: Nurse Margaret",
+    "time": "2026-05-06T14:31:48"
+   },
+   {
+    "with": "Catherine",
+    "direction": "to",
+    "text": "Spoke to the nurse. We'll need to review the care plan for Mom when I'm back in Greenwich. Let's not discuss it over dinner.",
+    "time": "2026-05-06T19:00:56"
+   },
+   {
+    "with": "Mark Steinberg",
+    "direction": "to",
+    "text": "The Singapore piece is dragging. We need to move faster if we're going to hit the Q3 target. Let's talk off-line.",
+    "time": "2026-05-07T16:18:32"
+   },
+   {
+    "with": "Dr. Helena Vance",
+    "direction": "to",
+    "text": "Clearing the deck for the weekend. Let's move our session to Monday. I have too much on my plate.",
+    "time": "2026-05-09T13:33:15"
+   },
+   {
+    "with": "Bob Hannigan",
+    "direction": "to",
+    "text": "Ready for the Sunday sync? Let's run the numbers on the London volatility. Need to be ready for Monday.",
+    "time": "2026-05-10T18:31:29"
+   },
+   {
+    "with": "Bob Hannigan",
+    "direction": "to",
+    "text": "Confirming 7:30 am Tuesday. Yale Club.",
+    "time": "2026-05-11T08:27:40"
+   },
+   {
+    "with": "Mark Steinberg",
+    "direction": "to",
+    "text": "[Voice Note] EBITDA looks thin. We need more meat on the bone before the board sees this.",
+    "time": "2026-05-12T16:32:44"
+   },
+   {
+    "with": "Darien Assisted Living",
+    "direction": "from",
+    "text": "Urgent: Margaret Sr. has had a fall. Please call back immediately.",
+    "time": "2026-05-13T04:58:27"
+   },
+   {
+    "with": "Dr. Helena Vance",
+    "direction": "to",
+    "text": "Need to talk 7am Wednesday. Things are getting complicated.",
+    "time": "2026-05-13T10:06:03"
+   },
+   {
+    "with": "Bob Hannigan",
+    "direction": "to",
+    "text": "Reviewing the Goldman draft now. Still seeing some friction in the projections.",
+    "time": "2026-05-14T14:22:01"
+   },
+   {
+    "with": "Patty Lin",
+    "direction": "from",
+    "text": "Urgent: SEC compliance check. Please review the attached regarding the upcoming disclosure.",
+    "time": "2026-05-15T10:05:07"
+   },
+   {
+    "with": "Mark Steinberg",
+    "direction": "to",
+    "text": "Need the updated synergy numbers. Let's tighten the deck.",
+    "time": "2026-05-16T13:04:58"
+   },
+   {
+    "with": "Bob Hannigan",
+    "direction": "to",
+    "text": "[Outgoing Call] Weekly alignment.",
+    "time": "2026-05-17T18:47:59"
+   },
+   {
+    "with": "Bob Hannigan",
+    "direction": "to",
+    "text": "Yale Club, Tuesday. 8:00 sharp. Need to run that Singapore numbers update by you before the board sees the deck.",
+    "time": "2026-05-18T08:53:08"
+   },
+   {
+    "with": "Mark Steinberg",
+    "direction": "to",
+    "text": "[Voice Note] Mark—just saw the revised valuation on slide 14. It’s too aggressive. We’re not sailing into a gale with those multiples. Let's tighten it before the 6:14 train.",
+    "time": "2026-05-19T18:30:37"
+   },
+   {
+    "with": "Catherine, Eleanor, Maggie, James",
+    "direction": "to",
+    "text": "Checking in on Mom. Catherine, did the nurse from the facility call you back? James, let me know when you're landing in Palo Alto.",
+    "time": "2026-05-21T11:38:23"
+   },
+   {
+    "with": "Bob Hannigan",
+    "direction": "to",
+    "text": "Bob, sent the draft agenda for Monday. Need your sign-off on the 'Strategic Initiatives' section before I pass it to Patty. Don't want any surprises on the floor.",
+    "time": "2026-05-23T14:09:24"
+   },
+   {
+    "with": "Bob Hannigan",
+    "direction": "to",
+    "text": "Bob, memo is nearly watertight. Just smoothing the Singapore contingency. Will have it to you before the 10am.",
+    "time": "2026-06-01T07:38:30"
+   },
+   {
+    "with": "Mark Steinberg",
+    "direction": "to",
+    "text": "Mark, need a quick steer on the valuation delta. Call me when you're clear.",
+    "time": "2026-06-02T09:21:10"
+   },
+   {
+    "with": "Patty Lin",
+    "direction": "to",
+    "text": "Patty, any red flags on the regulatory language in the latest draft? I want to be certain before the board read.",
+    "time": "2026-06-02T18:20:22"
+   }
+  ],
+  "locations": [
+   {
+    "place": "Grand Central Terminal, NY",
+    "lat": 40.754044,
+    "lon": -73.97665,
+    "time": "2026-05-04T08:16:25"
+   },
+   {
+    "place": "Greenwich, CT",
+    "lat": 41.018492,
+    "lon": -73.633147,
+    "time": "2026-05-04T18:41:35"
+   },
+   {
+    "place": "Yale Club of New York City",
+    "lat": 40.746843,
+    "lon": -73.983164,
+    "time": "2026-05-05T07:04:33"
+   },
+   {
+    "place": "Greenwich, CT",
+    "lat": 41.018234,
+    "lon": -73.630855,
+    "time": "2026-05-05T18:58:39"
+   },
+   {
+    "place": "Links Club, NYC",
+    "lat": 40.758376,
+    "lon": -73.976679,
+    "time": "2026-05-06T12:17:51"
+   },
+   {
+    "place": "Round Hill Club, Greenwich",
+    "lat": 41.046111,
+    "lon": -73.634271,
+    "time": "2026-05-07T13:50:09"
+   },
+   {
+    "place": "Greenwich, CT",
+    "lat": 41.017408,
+    "lon": -73.632782,
+    "time": "2026-05-08T18:43:14"
+   },
+   {
+    "place": "Greenwich Harbor, CT",
+    "lat": 41.035298,
+    "lon": -73.644317,
+    "time": "2026-05-09T08:32:13"
+   },
+   {
+    "place": "Greenwich, CT",
+    "lat": 41.019026,
+    "lon": -73.634,
+    "time": "2026-05-09T20:01:39"
+   },
+   {
+    "place": "Round Hill Club, Greenwich",
+    "lat": 41.044839,
+    "lon": -73.635555,
+    "time": "2026-05-10T07:15:47"
+   },
+   {
+    "place": "Grand Central Terminal",
+    "lat": 40.753965,
+    "lon": -73.976807,
+    "time": "2026-05-11T17:59:18"
+   },
+   {
+    "place": "Yale Club of New York City",
+    "lat": 40.748339,
+    "lon": -73.984106,
+    "time": "2026-05-12T07:31:58"
+   },
+   {
+    "place": "Darien, CT",
+    "lat": 41.062447,
+    "lon": -73.522073,
+    "time": "2026-05-13T12:49:19"
+   },
+   {
+    "place": "21 Club",
+    "lat": 40.713497,
+    "lon": -73.988493,
+    "time": "2026-05-14T12:51:36"
+   },
+   {
+    "place": "Greenwich, CT",
+    "lat": 41.061489,
+    "lon": -73.67666,
+    "time": "2026-05-16T06:43:39"
+   },
+   {
+    "place": "Christ Church Greenwich",
+    "lat": 41.022823,
+    "lon": -73.640402,
+    "time": "2026-05-17T09:31:52"
+   },
+   {
+    "place": "Yale Club of New York City",
+    "lat": 40.75334,
+    "lon": -73.980479,
+    "time": "2026-05-19T12:51:00"
+   },
+   {
+    "place": "Greenwich, CT",
+    "lat": 41.020357,
+    "lon": -73.644045,
+    "time": "2026-05-23T08:26:30"
+   },
+   {
+    "place": "Christ Church Greenwich",
+    "lat": 41.024319,
+    "lon": -73.625774,
+    "time": "2026-05-24T10:15:42"
+   },
+   {
+    "place": "Cos Cob, CT",
+    "lat": 41.045143,
+    "lon": -73.65754,
+    "time": "2026-06-01T08:06:51"
+   },
+   {
+    "place": "Links Club, New York, NY",
+    "lat": 40.752784,
+    "lon": -73.978322,
+    "time": "2026-06-01T13:19:07"
+   }
+  ],
+  "calendar": [
+   {
+    "summary": "Lunch: Strategic Review (Project Trident)",
+    "time": "2026-05-04T12:47:47"
+   },
+   {
+    "summary": "Board Deck Review: Q3 Earnings",
+    "time": "2026-05-05T16:01:48"
+   },
+   {
+    "summary": "M&A Subcommittee Schedule Review",
+    "time": "2026-05-11T11:01:05"
+   },
+   {
+    "summary": "Deep Work: Strategic M&A Analysis",
+    "time": "2026-05-12T14:08:30"
+   },
+   {
+    "summary": "M&A Timeline Review: Friday Deadline",
+    "time": "2026-05-14T09:18:23"
+   },
+   {
+    "summary": "Board Subcommittee Meeting",
+    "time": "2026-05-19T06:53:32"
+   },
+   {
+    "summary": "Board Deck Construction",
+    "time": "2026-05-20T14:03:42"
+   },
+   {
+    "summary": "Board Materials Preparation",
+    "time": "2026-06-02T14:58:01"
+   }
+  ],
+  "videos": [
+   {
+    "title": "Global Markets: Morning Briefing",
+    "channel": "Bloomberg Television",
+    "time": "2026-05-06T07:04:47"
+   },
+   {
+    "title": "The Great Re-shoring: The Future of Manufacturing",
+    "channel": "The Economist",
+    "time": "2026-05-18T21:45:37"
+   }
+  ],
+  "searches": [
+   {
+    "query": "early onset dementia symptoms",
+    "time": "2026-05-06T14:54:01"
+   },
+   "neurologist darien ct",
+   "industrial tech transaction multiples",
+   {
+    "query": "industrial merger precedents",
+    "time": "2026-06-01T21:44:21"
+   }
+  ]
+ },
+ "_meta": {
+  "total_days": 30,
+  "n_events": 122
+ }
+}

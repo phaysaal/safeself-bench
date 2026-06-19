@@ -1,0 +1,1340 @@
+{
+ "persona_id": "?:1",
+ "persona_slug": "The Advanced Persistent Threat (APT)",
+ "intake_version": "synth-activity-v2-chunked",
+ "samples": {
+  "calendar": [
+   {
+    "summary": "IVF appointment – Shady Grove Fertility",
+    "time": "2026-05-04T06:55:02"
+   },
+   {
+    "summary": "Team briefing on policy memo",
+    "time": "2026-05-04T13:09:26"
+   },
+   {
+    "summary": "Orangetheory Fitness session",
+    "time": "2026-05-05T06:22:46"
+   },
+   {
+    "summary": "Orangetheory Fitness",
+    "time": "2026-05-07T06:42:51"
+   },
+   {
+    "summary": "One‑on‑one with Dr. Anika Bhattacharya",
+    "time": "2026-05-07T10:21:08"
+   },
+   {
+    "summary": "WFH start – deep‑work block",
+    "time": "2026-05-08T07:23:59"
+   },
+   {
+    "summary": "Orangetheory Fitness",
+    "time": "2026-05-09T05:42:01"
+   },
+   {
+    "summary": "Admin morning – bills, Mint.com, email triage",
+    "time": "2026-05-10T09:13:01"
+   },
+   {
+    "summary": "Team stand‑up meeting",
+    "time": "2026-05-11T09:21:20"
+   },
+   {
+    "summary": "Daily team sync",
+    "time": "2026-05-12T08:04:32"
+   },
+   {
+    "summary": "Policy‑briefing meeting with senior fellows",
+    "time": "2026-05-13T09:45:00"
+   },
+   {
+    "summary": "Policy briefing with senior leadership",
+    "time": "2026-05-14T07:50:40"
+   },
+   {
+    "summary": "Sarah’s IVF appointment at Shady Grove (solo)",
+    "time": "2026-05-15T07:14:13"
+   },
+   {
+    "summary": "Virtual sync with Berlin partner",
+    "time": "2026-05-15T15:19:14"
+   },
+   {
+    "summary": "Lunch with analyst team (30 min)",
+    "time": "2026-05-18T13:41:29"
+   },
+   {
+    "summary": "Audit‑prep meeting with compliance officer (30 min)",
+    "time": "2026-05-19T09:10:24"
+   },
+   {
+    "summary": "Audit docs review session with legal counsel (45 min)",
+    "time": "2026-05-20T09:42:13"
+   },
+   {
+    "summary": "Lunch with Anika at Rasika (1 hr)",
+    "time": "2026-05-21T13:32:49"
+   },
+   {
+    "summary": "WFH – audit follow‑up (blocked 9‑12) (3 hr)",
+    "time": "2026-05-23T08:15:30"
+   },
+   {
+    "summary": "Lunch with Marcus at Ambar (1 hr)",
+    "time": "2026-05-24T14:03:27"
+   },
+   {
+    "summary": "Wake alarm (Oura Ring)",
+    "time": "2026-05-25T05:44:11"
+   },
+   {
+    "summary": "Wake alarm",
+    "time": "2026-05-26T05:56:06"
+   },
+   {
+    "summary": "IVF appointment – blood draw",
+    "time": "2026-05-26T07:20:51"
+   },
+   {
+    "summary": "Wake alarm",
+    "time": "2026-05-27T05:34:37"
+   },
+   {
+    "summary": "Wake alarm",
+    "time": "2026-05-28T06:07:59"
+   },
+   {
+    "summary": "Wake alarm",
+    "time": "2026-05-29T05:57:13"
+   },
+   {
+    "summary": "Lights out (late due to audit)",
+    "time": "2026-05-29T23:05:50"
+   },
+   {
+    "summary": "Lights out",
+    "time": "2026-05-30T23:13:48"
+   },
+   {
+    "summary": "Admin morning – bills, Mint.com",
+    "time": "2026-05-31T06:59:26"
+   },
+   {
+    "summary": "Lights out",
+    "time": "2026-05-31T22:30:52"
+   },
+   {
+    "summary": "IVF result call with clinic",
+    "time": "2026-06-01T10:30:01"
+   },
+   {
+    "summary": "Urgent briefing prep block",
+    "time": "2026-06-02T08:56:07"
+   }
+  ],
+  "locations": [
+   {
+    "place": "Metro Center Metro Station (Washington, DC)",
+    "lat": 38.899385,
+    "lon": -77.027509,
+    "time": "2026-05-04T07:15:18"
+   },
+   {
+    "place": "Blue Bottle Coffee – 2000 I St NW (Washington, DC)",
+    "lat": 38.897193,
+    "lon": -77.028218,
+    "time": "2026-05-04T17:27:40"
+   },
+   {
+    "place": "Metro Center Metro Station (Washington, DC)",
+    "lat": 38.897315,
+    "lon": -77.027667,
+    "time": "2026-05-05T07:32:44"
+   },
+   {
+    "place": "Think Tank SCIF, 1775 Pennsylvania Ave NW (Washington, DC)",
+    "lat": 38.897585,
+    "lon": -77.035416,
+    "time": "2026-05-05T12:59:12"
+   },
+   {
+    "place": "Spider Kelly’s, 4200 Wilson Blvd (Ballston, Arlington, VA)",
+    "lat": 38.882949,
+    "lon": -77.110374,
+    "time": "2026-05-05T18:20:30"
+   },
+   {
+    "place": "Think Tank SCIF, 1775 Pennsylvania Ave NW (Washington, DC)",
+    "lat": 38.896564,
+    "lon": -77.035416,
+    "time": "2026-05-06T12:49:27"
+   },
+   {
+    "place": "Think Tank SCIF, 1775 Pennsylvania Ave NW (Washington, DC)",
+    "lat": 38.896703,
+    "lon": -77.036911,
+    "time": "2026-05-07T13:05:32"
+   },
+   {
+    "place": "Ambar, 2115 N Courthouse Rd (Clarendon, Arlington, VA)",
+    "lat": 38.889579,
+    "lon": -77.098194,
+    "time": "2026-05-08T18:37:32"
+   },
+   {
+    "place": "Eastern Market, 225 7th St SE (Washington, DC)",
+    "lat": 38.885491,
+    "lon": -76.998077,
+    "time": "2026-05-09T09:00:20"
+   },
+   {
+    "place": "Compass Rose, 3320 M St NW (Georgetown, Washington, DC)",
+    "lat": 38.903574,
+    "lon": -77.049724,
+    "time": "2026-05-09T11:51:26"
+   },
+   {
+    "place": "Le Pain Quotidien, 1600 Wilson Blvd (Rosslyn, Arlington, VA)",
+    "lat": 38.89351,
+    "lon": -77.070943,
+    "time": "2026-05-09T17:38:32"
+   },
+   {
+    "place": "Condo, Clarendon (Arlington, VA)",
+    "lat": 38.888798,
+    "lon": -77.099491,
+    "time": "2026-05-10T11:48:42"
+   },
+   {
+    "place": "Think Tank Office, 1500 I St NW, Washington, DC",
+    "lat": 38.90554,
+    "lon": -77.014474,
+    "time": "2026-05-11T06:48:02"
+   },
+   {
+    "place": "Orangetheory Fitness – Clarendon, 1315 Wilson Blvd #200, Arlington, VA",
+    "lat": 38.889925,
+    "lon": -77.094911,
+    "time": "2026-05-12T06:09:08"
+   },
+   {
+    "place": "Clarendon Metro Station (Orange Line), 1300 Wilson Blvd, Arlington, VA",
+    "lat": 38.887503,
+    "lon": -77.093971,
+    "time": "2026-05-12T06:27:47"
+   },
+   {
+    "place": "SCIF (Secure Compartmented Information Facility) inside 1500 I St NW, Washington, DC",
+    "lat": 38.904937,
+    "lon": -77.013541,
+    "time": "2026-05-12T12:53:06"
+   },
+   {
+    "place": "SCIF exit lobby, 1500 I St NW, Washington, DC",
+    "lat": 38.904244,
+    "lon": -77.013157,
+    "time": "2026-05-12T15:55:53"
+   },
+   {
+    "place": "Metro Center Station, Washington, DC",
+    "lat": 38.897722,
+    "lon": -77.026792,
+    "time": "2026-05-13T06:24:13"
+   },
+   {
+    "place": "Orangetheory Fitness – Clarendon, 1315 Wilson Blvd #200, Arlington, VA",
+    "lat": 38.889325,
+    "lon": -77.095221,
+    "time": "2026-05-14T06:03:41"
+   },
+   {
+    "place": "Clarendon Metro Station (Orange Line), 1300 Wilson Blvd, Arlington, VA",
+    "lat": 38.888688,
+    "lon": -77.093108,
+    "time": "2026-05-14T06:27:05"
+   },
+   {
+    "place": "SCIF (Secure Compartmented Information Facility) inside 1500 I St NW, Washington, DC",
+    "lat": 38.904968,
+    "lon": -77.016129,
+    "time": "2026-05-14T13:10:24"
+   },
+   {
+    "place": "SCIF exit lobby, 1500 I St NW, Washington, DC",
+    "lat": 38.903276,
+    "lon": -77.014943,
+    "time": "2026-05-14T16:16:03"
+   },
+   {
+    "place": "Blue Bottle Coffee – 2000 I St NW, Washington, DC",
+    "lat": 38.909258,
+    "lon": -77.04245,
+    "time": "2026-05-15T08:14:22"
+   },
+   {
+    "place": "Ambar – 2225 Wilson Blvd, Arlington, VA",
+    "lat": 38.89067,
+    "lon": -77.099181,
+    "time": "2026-05-15T19:39:54"
+   },
+   {
+    "place": "Orangetheory Fitness – Clarendon, 1315 Wilson Blvd #200, Arlington, VA",
+    "lat": 38.889263,
+    "lon": -77.095545,
+    "time": "2026-05-16T06:08:29"
+   },
+   {
+    "place": "Eastern Market – 225 7th St SE, Washington, DC",
+    "lat": 38.883258,
+    "lon": -76.996567,
+    "time": "2026-05-16T08:48:22"
+   },
+   {
+    "place": "Le Pain Quotidien – 2400 14th St NW, Washington, DC",
+    "lat": 38.913222,
+    "lon": -77.038145,
+    "time": "2026-05-16T11:14:48"
+   },
+   {
+    "place": "Home – Condo, Clarendon, Arlington, VA",
+    "lat": 38.888195,
+    "lon": -77.101423,
+    "time": "2026-05-17T09:04:11"
+   },
+   {
+    "place": "Parents' Home – Suburban Cincinnati, OH",
+    "lat": 39.150612,
+    "lon": -84.448843,
+    "time": "2026-05-17T13:20:10"
+   },
+   {
+    "place": "Condo bedroom (Clarendon, Arlington, VA)",
+    "lat": 38.891109,
+    "lon": -77.093816,
+    "time": "2026-05-18T05:25:17"
+   },
+   {
+    "place": "Clarendon Metro Station entrance (Orange Line)",
+    "lat": 38.889499,
+    "lon": -77.095548,
+    "time": "2026-05-18T07:15:09"
+   },
+   {
+    "place": "Clarendon Metro Station exit / walk to condo",
+    "lat": 38.888047,
+    "lon": -77.094677,
+    "time": "2026-05-18T18:43:53"
+   },
+   {
+    "place": "Condo bedroom (Clarendon, Arlington, VA)",
+    "lat": 38.890071,
+    "lon": -77.092851,
+    "time": "2026-05-19T05:37:36"
+   },
+   {
+    "place": "Orange Line train (between Clarendon and Rosslyn)",
+    "lat": 38.891721,
+    "lon": -77.082192,
+    "time": "2026-05-19T07:00:43"
+   },
+   {
+    "place": "Think‑tank SCIF, Washington, DC (Dupont Circle area)",
+    "lat": 38.915407,
+    "lon": -77.035198,
+    "time": "2026-05-19T14:28:43"
+   },
+   {
+    "place": "Condo bedroom (Clarendon, Arlington, VA)",
+    "lat": 38.888731,
+    "lon": -77.094526,
+    "time": "2026-05-20T05:48:12"
+   },
+   {
+    "place": "Rosslyn Metro Station (delay in tunnel)",
+    "lat": 38.894859,
+    "lon": -77.071334,
+    "time": "2026-05-20T07:03:01"
+   },
+   {
+    "place": "Think‑tank SCIF, Washington, DC (Dupont Circle area)",
+    "lat": 38.916592,
+    "lon": -77.037737,
+    "time": "2026-05-20T13:04:53"
+   },
+   {
+    "place": "Condo bedroom (Clarendon, Arlington, VA)",
+    "lat": 38.88813,
+    "lon": -77.093952,
+    "time": "2026-05-21T06:02:25"
+   },
+   {
+    "place": "Clarendon Metro Station boarding (Orange Line)",
+    "lat": 38.888354,
+    "lon": -77.095339,
+    "time": "2026-05-21T06:58:04"
+   },
+   {
+    "place": "Clarendon Metro Station exit / walk to condo",
+    "lat": 38.889437,
+    "lon": -77.094173,
+    "time": "2026-05-21T18:40:35"
+   },
+   {
+    "place": "Condo bedroom (Clarendon, Arlington, VA)",
+    "lat": 38.889214,
+    "lon": -77.095128,
+    "time": "2026-05-22T05:49:42"
+   },
+   {
+    "place": "Clarendon Metro Station boarding (Orange Line)",
+    "lat": 38.888281,
+    "lon": -77.093964,
+    "time": "2026-05-22T07:08:59"
+   },
+   {
+    "place": "Eastern Market, Washington, DC",
+    "lat": 38.885663,
+    "lon": -77.001259,
+    "time": "2026-05-22T08:48:22"
+   },
+   {
+    "place": "Think‑tank SCIF, Washington, DC (Dupont Circle area)",
+    "lat": 38.914399,
+    "lon": -77.035528,
+    "time": "2026-05-22T14:10:24"
+   },
+   {
+    "place": "Condo (Clarendon, Arlington, VA) – home arrival",
+    "lat": 38.889936,
+    "lon": -77.093199,
+    "time": "2026-05-22T18:37:56"
+   },
+   {
+    "place": "Condo bedroom (Clarendon, Arlington, VA)",
+    "lat": 38.889915,
+    "lon": -77.095663,
+    "time": "2026-05-23T05:20:45"
+   },
+   {
+    "place": "Home office (Condo, Clarendon)",
+    "lat": 38.890097,
+    "lon": -77.09411,
+    "time": "2026-05-23T07:32:06"
+   },
+   {
+    "place": "Home office (Condo, Clarendon)",
+    "lat": 38.888148,
+    "lon": -77.093644,
+    "time": "2026-05-23T12:59:52"
+   },
+   {
+    "place": "Orangetheory Fitness Clarendon",
+    "lat": 38.888867,
+    "lon": -77.093891,
+    "time": "2026-05-23T17:04:22"
+   },
+   {
+    "place": "Condo bedroom (Clarendon, Arlington, VA)",
+    "lat": 38.888363,
+    "lon": -77.093983,
+    "time": "2026-05-24T05:32:09"
+   },
+   {
+    "place": "Clarendon Metro Station boarding (Orange Line)",
+    "lat": 38.889128,
+    "lon": -77.095292,
+    "time": "2026-05-24T07:04:35"
+   },
+   {
+    "place": "Clarendon Metro Station exit / walk to condo",
+    "lat": 38.889823,
+    "lon": -77.095553,
+    "time": "2026-05-24T18:58:54"
+   },
+   {
+    "place": "Clarendon Metro Station (Orange Line) entrance",
+    "lat": 38.889827,
+    "lon": -77.094004,
+    "time": "2026-05-25T06:57:23"
+   },
+   {
+    "place": "Brookings Institution, Washington, DC",
+    "lat": 38.90478,
+    "lon": -77.045771,
+    "time": "2026-05-25T08:25:18"
+   },
+   {
+    "place": "Shady Grove Fertility Clinic, Rockville, MD",
+    "lat": 39.097856,
+    "lon": -77.14753,
+    "time": "2026-05-26T06:07:53"
+   },
+   {
+    "place": "Shady Grove Metro Station entrance",
+    "lat": 39.099935,
+    "lon": -77.150224,
+    "time": "2026-05-26T09:26:45"
+   },
+   {
+    "place": "Secure SCIF conference room, Brookings Institution",
+    "lat": 38.904049,
+    "lon": -77.04481,
+    "time": "2026-05-26T12:46:10"
+   },
+   {
+    "place": "Clarendon Metro Station entrance",
+    "lat": 38.888843,
+    "lon": -77.093527,
+    "time": "2026-05-27T07:14:43"
+   },
+   {
+    "place": "Brookings Institution, Washington, DC",
+    "lat": 38.904246,
+    "lon": -77.046311,
+    "time": "2026-05-27T08:34:40"
+   },
+   {
+    "place": "Clarendon Metro Station entrance",
+    "lat": 38.88896,
+    "lon": -77.092983,
+    "time": "2026-05-28T07:01:45"
+   },
+   {
+    "place": "Eastern Market, Washington, DC",
+    "lat": 38.885899,
+    "lon": -76.99908,
+    "time": "2026-05-28T09:05:08"
+   },
+   {
+    "place": "Secure SCIF conference room, Brookings Institution",
+    "lat": 38.903251,
+    "lon": -77.045197,
+    "time": "2026-05-28T13:15:54"
+   },
+   {
+    "place": "Clarendon Metro Station entrance",
+    "lat": 38.888181,
+    "lon": -77.094564,
+    "time": "2026-05-29T06:55:10"
+   },
+   {
+    "place": "Home office, condo in Clarendon, Arlington, VA",
+    "lat": 38.889363,
+    "lon": -77.099066,
+    "time": "2026-05-29T09:24:51"
+   },
+   {
+    "place": "Orangetheory Fitness Clarendon, Arlington, VA",
+    "lat": 38.890204,
+    "lon": -77.100551,
+    "time": "2026-05-30T06:06:28"
+   },
+   {
+    "place": "Eastern Market, Washington, DC",
+    "lat": 38.88352,
+    "lon": -76.99722,
+    "time": "2026-05-30T08:59:01"
+   },
+   {
+    "place": "Ambar Restaurant, Clarendon, Arlington, VA",
+    "lat": 38.888653,
+    "lon": -77.09416,
+    "time": "2026-05-30T17:47:41"
+   },
+   {
+    "place": "Home brunch, condo in Clarendon, Arlington, VA",
+    "lat": 38.887957,
+    "lon": -77.099009,
+    "time": "2026-05-31T13:08:14"
+   },
+   {
+    "place": "Pentagon SCIF, Arlington, VA (Faraday lobby cubby)",
+    "lat": 38.871239,
+    "lon": -77.053323,
+    "time": "2026-06-01T12:54:04"
+   },
+   {
+    "place": "Compass Rose Coffee, Clarendon, Arlington, VA",
+    "lat": 38.886219,
+    "lon": -77.094709,
+    "time": "2026-06-02T09:38:36"
+   },
+   {
+    "place": "Pentagon SCIF, Arlington, VA (Faraday lobby cubby)",
+    "lat": 38.86817,
+    "lon": -77.053805,
+    "time": "2026-06-02T13:01:11"
+   }
+  ],
+  "media": [
+   {
+    "name": "Outlook",
+    "time": "2026-05-04T08:32:16"
+   },
+   {
+    "name": "Politico Playbook",
+    "time": "2026-05-04T12:02:21"
+   },
+   {
+    "name": "Freedom.to",
+    "time": "2026-05-04T14:41:25"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-04T22:11:56"
+   },
+   {
+    "name": "Twitter/X",
+    "time": "2026-05-05T06:24:51"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-05T08:53:29"
+   },
+   {
+    "name": "Axios",
+    "time": "2026-05-05T12:28:34"
+   },
+   {
+    "name": "PDF Reader",
+    "time": "2026-05-05T15:26:44"
+   },
+   {
+    "name": "Twitter/X",
+    "time": "2026-05-06T06:34:32"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-06T08:08:09"
+   },
+   {
+    "name": "Punchbowl",
+    "time": "2026-05-06T12:35:57"
+   },
+   {
+    "name": "GitHub",
+    "time": "2026-05-06T18:16:18"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-06T21:48:48"
+   },
+   {
+    "name": "Health",
+    "time": "2026-05-06T23:09:23"
+   },
+   {
+    "name": "Twitter/X",
+    "time": "2026-05-07T06:47:33"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-07T09:06:44"
+   },
+   {
+    "name": "Podcast",
+    "time": "2026-05-07T12:25:21"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-07T22:41:42"
+   },
+   {
+    "name": "Freedom.to",
+    "time": "2026-05-08T09:06:41"
+   },
+   {
+    "name": "GitHub",
+    "time": "2026-05-08T11:04:12"
+   },
+   {
+    "name": "Politico Playbook",
+    "time": "2026-05-08T12:44:15"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-08T16:27:27"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-08T22:30:10"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-09T09:55:05"
+   },
+   {
+    "name": "Google Calendar",
+    "time": "2026-05-09T13:00:40"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-09T22:29:12"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-10T10:41:11"
+   },
+   {
+    "name": "YouTube",
+    "time": "2026-05-10T17:47:14"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-10T22:35:48"
+   },
+   {
+    "name": "Spotify",
+    "time": "2026-05-11T06:29:44"
+   },
+   {
+    "name": "Zoom",
+    "time": "2026-05-11T12:48:00"
+   },
+   {
+    "name": "Kindle",
+    "time": "2026-05-11T22:23:39"
+   },
+   {
+    "name": "Spotify",
+    "time": "2026-05-12T07:09:24"
+   },
+   {
+    "name": "Spotify",
+    "time": "2026-05-13T07:00:47"
+   },
+   {
+    "name": "Spotify",
+    "time": "2026-05-14T07:00:28"
+   },
+   {
+    "name": "Mint",
+    "time": "2026-05-17T09:48:59"
+   },
+   {
+    "name": "NYT Crossword",
+    "time": "2026-05-17T14:54:07"
+   },
+   {
+    "name": "Orangetheory",
+    "time": "2026-05-18T05:38:25"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-18T08:17:03"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-18T15:39:54"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-19T11:56:26"
+   },
+   {
+    "name": "Freedom.to",
+    "time": "2026-05-20T14:59:29"
+   },
+   {
+    "name": "Orangetheory",
+    "time": "2026-05-21T05:49:29"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-21T08:50:19"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-21T15:26:17"
+   },
+   {
+    "name": "None",
+    "time": "2026-05-22T09:25:25"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-23T09:11:01"
+   },
+   {
+    "name": "Orangetheory",
+    "time": "2026-05-24T06:10:34"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-24T08:50:14"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-24T15:21:04"
+   },
+   {
+    "name": "Twitter/X",
+    "time": "2026-05-25T06:16:36"
+   },
+   {
+    "name": "The Daily Podcast",
+    "time": "2026-05-25T07:24:42"
+   },
+   {
+    "name": "Microsoft Outlook",
+    "time": "2026-05-25T09:13:38"
+   },
+   {
+    "name": "Politico Playbook",
+    "time": "2026-05-25T12:16:30"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-25T22:34:26"
+   },
+   {
+    "name": "Patient Portal",
+    "time": "2026-05-26T08:13:50"
+   },
+   {
+    "name": "Microsoft Outlook",
+    "time": "2026-05-26T10:19:10"
+   },
+   {
+    "name": "Politico Playbook",
+    "time": "2026-05-26T12:13:54"
+   },
+   {
+    "name": "GitHub",
+    "time": "2026-05-26T20:21:39"
+   },
+   {
+    "name": "Twitter/X",
+    "time": "2026-05-27T06:20:11"
+   },
+   {
+    "name": "Politico Playbook",
+    "time": "2026-05-27T12:33:36"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-27T22:58:30"
+   },
+   {
+    "name": "Twitter/X",
+    "time": "2026-05-28T06:32:17"
+   },
+   {
+    "name": "Politico Playbook",
+    "time": "2026-05-28T11:51:27"
+   },
+   {
+    "name": "Microsoft Word",
+    "time": "2026-05-28T16:53:08"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-28T22:56:19"
+   },
+   {
+    "name": "Twitter/X",
+    "time": "2026-05-29T06:45:29"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-29T12:06:04"
+   },
+   {
+    "name": "GitHub",
+    "time": "2026-05-29T14:39:41"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-29T20:34:45"
+   },
+   {
+    "name": "Blue Bottle",
+    "time": "2026-05-30T07:37:36"
+   },
+   {
+    "name": "Google Calendar",
+    "time": "2026-05-30T10:48:05"
+   },
+   {
+    "name": "NYT Crossword",
+    "time": "2026-05-30T13:03:41"
+   },
+   {
+    "name": "Kindle",
+    "time": "2026-05-30T20:40:28"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-31T08:44:15"
+   },
+   {
+    "name": "Politico Playbook",
+    "time": "2026-05-31T11:51:53"
+   },
+   {
+    "name": "Meal Prep",
+    "time": "2026-05-31T17:09:44"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-31T20:27:02"
+   },
+   {
+    "name": "Twitter",
+    "time": "2026-06-01T06:28:37"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-06-01T14:58:12"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-06-01T22:55:56"
+   },
+   {
+    "name": "Twitter",
+    "time": "2026-06-02T06:45:36"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-06-02T14:24:53"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-06-02T22:32:56"
+   }
+  ],
+  "messages": [
+   {
+    "with": "Marcus Webb",
+    "direction": "to",
+    "text": "Hey Marcus, just wrapped the briefing prep. Quick sanity check—any red flags you see on the NSC memo before I file it tomorrow?",
+    "time": "2026-05-05T20:15:19"
+   },
+   {
+    "with": "Sarah Chen-Holloway",
+    "direction": "to",
+    "text": "Sarah, the Indo‑Pacific risk matrix draft is taking longer than expected. I’ll be on the call at 19:00, but can we push tonight’s dinner to after I’m done? Thanks for covering the meds schedule.",
+    "time": "2026-05-07T17:30:06"
+   },
+   {
+    "with": "Marcus Webb",
+    "direction": "to",
+    "text": "Marcus, thinking about the fishing trip—if we move it to the first weekend of June I can dodge the clearance review window. Does that work for you?",
+    "time": "2026-05-08T20:29:54"
+   },
+   {
+    "with": "Marcus Webb",
+    "direction": "to",
+    "text": "Update: the senior staff meeting went smoother than anticipated; the draft got a nod, but they want a tighter timeline. I’ll need a quick read‑through from you before Friday.",
+    "time": "2026-05-09T20:37:22"
+   },
+   {
+    "with": "Sarah Chen-Holloway",
+    "direction": "to",
+    "text": "Can't wait for dinner at home tonight ❤️",
+    "time": "2026-05-11T19:28:52"
+   },
+   {
+    "with": "Marcus Webb",
+    "direction": "to",
+    "text": "Hey Marcus, got a quick window for coffee tomorrow morning?",
+    "time": "2026-05-12T19:04:31"
+   },
+   {
+    "with": "Dr. Anika Bhattacharya",
+    "direction": "to",
+    "text": "Anika, just saw a r/geopolitics thread on Baltic deterrence—thought you might find the analysis useful.",
+    "time": "2026-05-13T12:54:37"
+   },
+   {
+    "with": "Sarah Chen-Holloway",
+    "direction": "to",
+    "text": "Feeling a bit on edge today. Can we talk later tonight?",
+    "time": "2026-05-13T15:32:09"
+   },
+   {
+    "with": "Marcus Webb",
+    "direction": "to",
+    "text": "Marcus, late‑night r/neoliberal discussion on the new stimulus—interesting take, worth a chat.",
+    "time": "2026-05-13T23:43:57"
+   },
+   {
+    "with": "Jonathan Reese (J.R.)",
+    "direction": "to",
+    "text": "Saturday market confirmed, 9 am at Eastern Market. See you then.",
+    "time": "2026-05-14T16:31:58"
+   },
+   {
+    "with": "Dr. Anika Bhattacharya",
+    "direction": "to",
+    "text": "Anika, Politico Playbook just flagged a NSC staffing shift—could be a hook for our next briefing.",
+    "time": "2026-05-15T12:22:11"
+   },
+   {
+    "with": "Marcus Webb",
+    "direction": "to",
+    "text": "Weekend plans? Thinking of a hike on Catoctin. Up for it?",
+    "time": "2026-05-15T17:39:49"
+   },
+   {
+    "with": "Sarah Chen-Holloway",
+    "direction": "to",
+    "text": "Breakfast at home, then heading to the market? Let me know.",
+    "time": "2026-05-16T07:40:14"
+   },
+   {
+    "with": "Jonathan Reese (J.R.)",
+    "direction": "to",
+    "text": "Uploaded the data packet to the secure drop; ping me when you’ve retrieved it.",
+    "time": "2026-05-16T09:56:43"
+   },
+   {
+    "with": "Emily Holloway-Park",
+    "direction": "from",
+    "text": "Emily, great catching up—let’s schedule a video dinner soon.",
+    "time": "2026-05-17T12:15:39"
+   },
+   {
+    "with": "Anika Bhattacharya",
+    "direction": "outgoing",
+    "text": "Just posted a brief comment on r/geopolitics about the Ukraine aid package—thought you might find the framing useful for our next memo.",
+    "time": "2026-05-18T22:15:59"
+   },
+   {
+    "with": "Marcus Webb",
+    "direction": "incoming",
+    "text": "Audit notice from security—need docs by 5 pm. Can you cover for me this afternoon?",
+    "time": "2026-05-19T06:12:30"
+   },
+   {
+    "with": "Anika Bhattacharya",
+    "direction": "outgoing",
+    "text": "Anika, could you give a quick review of my audit packet? I’m on a tight deadline.",
+    "time": "2026-05-19T16:49:58"
+   },
+   {
+    "with": "Marcus Webb",
+    "direction": "outgoing",
+    "text": "Just left a low‑key comment on r/neoliberal. Nothing major, but wanted you to know I’m still monitoring the discourse.",
+    "time": "2026-05-19T22:46:13"
+   },
+   {
+    "with": "J.R. (Jonathan Reese)",
+    "direction": "outgoing",
+    "text": "Change our meet‑up to 9 am tomorrow; I’m getting the sense we’re being watched.",
+    "time": "2026-05-20T17:53:14"
+   },
+   {
+    "with": "Anika Bhattacharya",
+    "direction": "outgoing",
+    "text": "Pushed the latest policy draft to GitHub. Let me know if the executive summary aligns with the briefing track.",
+    "time": "2026-05-20T22:33:33"
+   },
+   {
+    "with": "Sarah Chen-Holloway",
+    "direction": "outgoing",
+    "text": "Just winding down with a quick scroll on r/DCcord. Talk later tonight?",
+    "time": "2026-05-20T23:54:28"
+   },
+   {
+    "with": "Marcus Webb",
+    "direction": "outgoing",
+    "text": "Dropped a comment on trade policy in r/neoliberal—thought you’d appreciate the angle.",
+    "time": "2026-05-21T22:20:02"
+   },
+   {
+    "with": "J.R. (Jonathan Reese)",
+    "direction": "incoming",
+    "text": "Urgent—meet at 9 am, someone’s tailing us.",
+    "time": "2026-05-22T06:02:57"
+   },
+   {
+    "with": "Sarah Chen-Holloway",
+    "direction": "outgoing",
+    "text": "Running late; I’ll be home after 7 pm.",
+    "time": "2026-05-22T09:47:15"
+   },
+   {
+    "with": "Marcus Webb",
+    "direction": "outgoing",
+    "text": "Need a cover story for a personal issue. Can we catch up later today?",
+    "time": "2026-05-22T16:43:16"
+   },
+   {
+    "with": "Anika Bhattacharya",
+    "direction": "outgoing",
+    "text": "Quick scroll on r/geopolitics—nothing actionable, just staying in the loop.",
+    "time": "2026-05-22T22:46:50"
+   },
+   {
+    "with": "Sarah Chen-Holloway",
+    "direction": "incoming",
+    "text": "IVF appointment cancelled, need to reschedule ASAP.",
+    "time": "2026-05-23T06:11:23"
+   },
+   {
+    "with": "Anika Bhattacharya",
+    "direction": "outgoing",
+    "text": "Taking the afternoon off for a personal matter; I’ll update you tomorrow.",
+    "time": "2026-05-23T13:52:43"
+   },
+   {
+    "with": "J.R. (Jonathan Reese)",
+    "direction": "outgoing",
+    "text": "We need to discuss next steps; can we talk tomorrow?",
+    "time": "2026-05-23T19:14:35"
+   },
+   {
+    "with": "Marcus Webb",
+    "direction": "outgoing",
+    "text": "Left a low‑engagement comment on r/neoliberal—just keeping the channel warm.",
+    "time": "2026-05-23T21:20:13"
+   },
+   {
+    "with": "Sarah Chen-Holloway",
+    "direction": "outgoing",
+    "text": "Late‑night scroll on r/DCcord; I’ll be up early for the day.",
+    "time": "2026-05-24T22:06:13"
+   },
+   {
+    "with": "J.R.",
+    "direction": "outgoing",
+    "text": "Hey, Eastern Market this Saturday at 9 am? Same spot by the flower stall—let me know if that still works.",
+    "time": "2026-05-27T15:25:29"
+   },
+   {
+    "with": "J.R.",
+    "direction": "outgoing",
+    "text": "Got the latest draft on the regional assessment. I’ve redacted the sensitive sections per our protocol—see attached. Your thoughts before I file?",
+    "time": "2026-05-28T10:33:41"
+   },
+   {
+    "with": "Marcus Webb",
+    "direction": "outgoing",
+    "text": "Marcus, can we lock in a quick call Friday afternoon? Need to run the clearance‑prep scenario by you before the NSC briefing.",
+    "time": "2026-05-30T15:34:17"
+   },
+   {
+    "with": "J.R.",
+    "direction": "outgoing",
+    "text": "Saturday’s market meet was solid. How about we shift to the coffee cart near the fish stall next week? Same day, 9 am.",
+    "time": "2026-05-31T15:35:59"
+   },
+   {
+    "with": "Sarah",
+    "direction": "outgoing",
+    "text": "Result pending, feeling anxious. Thanks for being my steady.",
+    "time": "2026-06-01T10:43:07"
+   },
+   {
+    "with": "Sarah",
+    "direction": "outgoing",
+    "text": "Thanks for being supportive, love you ❤️",
+    "time": "2026-06-01T23:14:45"
+   },
+   {
+    "with": "Jonathan Reese",
+    "direction": "outgoing",
+    "text": "Got the notes, sending the file now.",
+    "time": "2026-06-02T09:44:28"
+   },
+   {
+    "with": "Sarah",
+    "direction": "outgoing",
+    "text": "Long day, love you.",
+    "time": "2026-06-02T23:07:15"
+   }
+  ],
+  "videos": [
+   {
+    "title": "Munich Security Conference 2024 – Panel on Emerging Global Threats (Full Recap)",
+    "channel": "CSIS",
+    "time": "2026-05-05T22:56:16"
+   },
+   {
+    "title": "Stress Management for Security‑Cleared Professionals – Webinar Recording",
+    "channel": "Defense Health Agency",
+    "time": "2026-05-07T19:53:03"
+   },
+   {
+    "title": "EU‑US Defense Policy Roundtable – Brussels Partners (Recorded Zoom Session)",
+    "channel": "Atlantic Council",
+    "time": "2026-05-08T13:55:06"
+   },
+   {
+    "title": "Secure Messaging App Tutorial – End‑to‑End Encryption Walkthrough",
+    "channel": "Electronic Frontier Foundation",
+    "time": "2026-05-09T14:50:54"
+   },
+   {
+    "title": "Henry Kissinger – Leadership & Diplomacy (Kindle Audiobook)",
+    "channel": "Audible",
+    "time": "2026-05-10T20:04:22"
+   },
+   {
+    "title": "Advanced Policy Analysis",
+    "channel": "LinkedIn Learning",
+    "time": "2026-05-15T13:32:41"
+   },
+   {
+    "title": "Counter‑Surveillance Tips: How to Stay Unseen",
+    "channel": "YouTube",
+    "time": "2026-05-16T14:51:44"
+   },
+   {
+    "title": "The Spy Who Came In From The Cold",
+    "channel": "Netflix",
+    "time": "2026-05-17T20:12:44"
+   },
+   {
+    "title": "How to Navigate a Security Clearance Audit – Step‑by‑Step Guide",
+    "channel": "ClearancePrep",
+    "time": "2026-05-19T20:34:55"
+   },
+   {
+    "title": "Henry Kissinger on Leadership – Chapter Summary from ‘Leadership’ (Kindle Edition)",
+    "channel": "The Atlantic Bookshelf",
+    "time": "2026-05-20T20:07:24"
+   },
+   {
+    "title": "Stress Management for Secret‑Clearance Professionals – Practical Techniques",
+    "channel": "Defense Wellness Hub",
+    "time": "2026-05-22T20:46:55"
+   },
+   {
+    "title": "15‑Minute Guided Meditation for Focused Decision‑Makers",
+    "channel": "Insight Timer – Mindful Leaders",
+    "time": "2026-05-23T15:20:08"
+   },
+   {
+    "title": "Inside the NSC: Former Staffer Discusses Maintaining Clearance Resilience",
+    "channel": "PolicyTalk Podcast",
+    "time": "2026-05-24T20:29:57"
+   }
+  ],
+  "searches": [
+   {
+    "query": "sf-86 audit checklst pdf",
+    "time": "2026-05-06T09:15:44"
+   },
+   {
+    "query": "clearance mitigation lettr sample",
+    "time": "2026-05-06T14:57:01"
+   },
+   {
+    "query": "clearance mitigtion letter tmpl pdf",
+    "time": "2026-05-07T14:19:34"
+   },
+   {
+    "query": "fertility clinic near dc best",
+    "time": "2026-05-10T15:45:30"
+   },
+   {
+    "query": "nato summt outcomes 2024",
+    "time": "2026-05-11T12:14:04"
+   },
+   {
+    "query": "defense budet bill latest text",
+    "time": "2026-05-12T12:18:29"
+   },
+   {
+    "query": "how to fast track clearance response",
+    "time": "2026-05-13T10:54:09"
+   },
+   {
+    "query": "french politcal podcasts 2026 list",
+    "time": "2026-05-14T11:57:59"
+   },
+   {
+    "query": "secure file tranfer methods for sensitive data",
+    "time": "2026-05-16T12:55:41"
+   },
+   {
+    "query": "best ivf clinic near washington dc",
+    "time": "2026-05-17T16:09:57"
+   },
+   {
+    "query": "foriegn policy twitter list",
+    "time": "2026-05-18T06:37:29"
+   },
+   {
+    "query": "politico playbook nato fundng",
+    "time": "2026-05-18T12:27:48"
+   },
+   {
+    "query": "security clearance updates twitter",
+    "time": "2026-05-19T06:14:28"
+   },
+   {
+    "query": "sf-86 update guidelines pdf",
+    "time": "2026-05-19T10:10:59"
+   },
+   {
+    "query": "defense budget leak twitter",
+    "time": "2026-05-20T06:28:50"
+   },
+   {
+    "query": "clearance attorney dr patel email",
+    "time": "2026-05-20T11:26:08"
+   },
+   {
+    "query": "morning briefing twitter",
+    "time": "2026-05-21T06:29:18"
+   },
+   {
+    "query": "politico playbook midday roundup",
+    "time": "2026-05-21T12:10:55"
+   },
+   {
+    "query": "security clearance anxiety twitter",
+    "time": "2026-05-22T06:43:10"
+   },
+   {
+    "query": "confidential source compromised advice",
+    "time": "2026-05-22T12:27:39"
+   },
+   {
+    "query": "fertility clinic appointment reschedule",
+    "time": "2026-05-23T11:21:28"
+   },
+   {
+    "query": "morning policy briefs twitter",
+    "time": "2026-05-24T06:29:49"
+   },
+   {
+    "query": "politico playbook mid day update",
+    "time": "2026-05-24T12:22:44"
+   },
+   {
+    "query": "clearance audit checklst pdf",
+    "time": "2026-05-25T14:06:43"
+   },
+   {
+    "query": "ivf success ratess 34",
+    "time": "2026-05-27T09:47:41"
+   },
+   {
+    "query": "clearance audit final review prep guide",
+    "time": "2026-05-27T13:45:50"
+   },
+   {
+    "query": "post audit clearance implications secret",
+    "time": "2026-05-29T15:56:08"
+   },
+   {
+    "query": "ivf next cycle timing schedule",
+    "time": "2026-05-31T09:55:00"
+   },
+   {
+    "query": "indopacific strategic outlook 2026",
+    "time": "2026-06-01T08:04:10"
+   }
+  ]
+ },
+ "_meta": {
+  "total_days": 30,
+  "n_events": 283
+ }
+}

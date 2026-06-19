@@ -1,0 +1,764 @@
+{
+ "persona_id": "?:1",
+ "persona_slug": "The Crypto-Pig-Butchering Agent",
+ "intake_version": "synth-activity-v2-chunked",
+ "samples": {
+  "messages": [
+   {
+    "with": "Self",
+    "direction": "post",
+    "text": "Early bird gets the worm. Grinding the consulting side today. ☕",
+    "time": "2026-05-04T06:18:01"
+   },
+   {
+    "with": "Jessica Chen",
+    "direction": "to",
+    "text": "Goodnight, Jessica. Hope you had a productive day in Singapore. Thinking about that market insight you shared earlier. Sleep well.",
+    "time": "2026-05-04T23:48:23"
+   },
+   {
+    "with": "Self",
+    "direction": "post",
+    "text": "Strategy over hustle. Always. 📈",
+    "time": "2026-05-06T07:22:38"
+   },
+   {
+    "with": "Jessica Chen",
+    "direction": "from",
+    "text": "[Voice Note] Daniel, I just saw something... the volatility in the USDT/USD pair is creating this weird gap. It's almost like a pattern I haven't seen since the 2022 dip. I might try to position a small amount before the London open. Just thought you'd find it interesting.",
+    "time": "2026-05-06T22:30:04"
+   },
+   {
+    "with": "Jessica Chen",
+    "direction": "to",
+    "text": "That's fascinating. I've always believed that the real alpha is found in the inefficiencies that others are too distracted to see. In my old role, it was all about spotting the shift in hospital procurement before the competitors did. It's the same principle, really. Discipline and pattern recognition. I'm trying to apply that same rigor to my personal portfolio lately. It's a different kind of grind, but the fundamentals are the same.",
+    "time": "2026-05-06T00:32:17"
+   },
+   {
+    "with": "Jessica Chen",
+    "direction": "from",
+    "text": "Good morning from Singapore! ☀️ Just finished my first coffee of the day. Thinking of you—hope you're having a peaceful night in Arizona.",
+    "time": "2026-05-08T23:56:23"
+   },
+   {
+    "with": "Jessica Chen",
+    "direction": "to",
+    "text": "If this trade goes as well as you say, maybe I won't have to 'consult' forever. We could actually grab that dinner in Singapore. I'll bring the wine, you bring the market insights. 😉",
+    "time": "2026-05-09T23:19:19"
+   },
+   {
+    "with": "Richard",
+    "direction": "from",
+    "text": "Incoming Call: Dad",
+    "time": "2026-05-10T16:20:08"
+   },
+   {
+    "with": "Jessica Chen",
+    "direction": "from",
+    "text": "[Image: Screenshot of NovaQuant Pro dashboard showing a green 'SIGNAL: BUY' alert with a 45% projected ROI]. Daniel, look at this. The liquidity is pooling exactly where I predicted. This is the one. Are you watching?",
+    "time": "2026-05-10T22:50:11"
+   },
+   {
+    "with": "Jim Henderson (Vendor)",
+    "direction": "to",
+    "text": "Hey Jim, saw the update on the new catheter line. Let's circle back next week when things settle.",
+    "time": "2026-05-11T06:13:43"
+   },
+   {
+    "with": "Jessica Chen",
+    "direction": "to",
+    "text": "Goodnight, Jessica. Hope you have a peaceful evening in Singapore.",
+    "time": "2026-05-11T21:23:06"
+   },
+   {
+    "with": "Doug Merrill",
+    "direction": "to",
+    "text": "Doug, just posted a little Monday motivation. Hope you're doing well, man.",
+    "time": "2026-05-12T06:20:34"
+   },
+   {
+    "with": "Jessica Chen",
+    "direction": "from",
+    "text": "[Image: USDT/BTC chart] The volatility is creating a perfect setup. Watch the 62k resistance level closely.",
+    "time": "2026-05-12T15:33:50"
+   },
+   {
+    "with": "Jessica Chen",
+    "direction": "from",
+    "text": "[Voice Note] You sounded a bit tired today, Daniel. Don't work too hard. Sending you a little extra energy. ✨",
+    "time": "2026-05-12T22:03:22"
+   },
+   {
+    "with": "Industry Contact",
+    "direction": "from",
+    "text": "Great update, Daniel. Hope the consulting is treating you well!",
+    "time": "2026-05-13T07:02:09"
+   },
+   {
+    "with": "Jessica Chen",
+    "direction": "from",
+    "text": "[Image: Marina Bay Sands skyline at night]",
+    "time": "2026-05-13T12:13:52"
+   },
+   {
+    "with": "Sarah Jenkins (Recruiter)",
+    "direction": "from",
+    "text": "Hi Daniel, following up on our conversation regarding the consulting role. I've updated my portfolio with recent metrics.",
+    "time": "2026-05-14T06:28:19"
+   },
+   {
+    "with": "Jessica Chen",
+    "direction": "from",
+    "text": "The spread is widening. If we don't enter the position within the next 4 hours, the entry price will be much less favorable.",
+    "time": "2026-05-14T16:06:15"
+   },
+   {
+    "with": "Jessica Chen",
+    "direction": "from",
+    "text": "Don't let the stress get to you, Daniel. Focus on the wins. ❤️",
+    "time": "2026-05-14T22:12:11"
+   },
+   {
+    "with": "Former Colleague",
+    "direction": "from",
+    "text": "Hey Daniel, saw your update. Let's grab a drink soon.",
+    "time": "2026-05-15T07:08:35"
+   },
+   {
+    "with": "Jessica Chen",
+    "direction": "from",
+    "text": "[Image: Post-workout selfie]",
+    "time": "2026-05-15T20:01:29"
+   },
+   {
+    "with": "Jessica Chen",
+    "direction": "from",
+    "text": "Good morning from Singapore! ☕ The humidity is intense today, but the coffee is perfect. How did you sleep?",
+    "time": "2026-05-16T09:40:20"
+   },
+   {
+    "with": "Jessica Chen",
+    "direction": "from",
+    "text": "Thinking of you tonight... hope you're having a relaxing evening. x",
+    "time": "2026-05-16T22:14:16"
+   },
+   {
+    "with": "Jessica Chen",
+    "direction": "from",
+    "text": "Daniel, a private liquidity pool just opened up for the Q3 cycle. It's limited, but I think it's exactly the kind of move you're looking for. We should talk.",
+    "time": "2026-05-17T15:41:19"
+   },
+   {
+    "with": "Jessica Chen",
+    "direction": "from",
+    "text": "Checking in, hope your day is going well! Don't forget to breathe. 😊",
+    "time": "2026-05-17T16:28:38"
+   },
+   {
+    "with": "Jessica Chen",
+    "direction": "from",
+    "text": "Sweet dreams, Daniel. See you in the morning. ✨",
+    "time": "2026-05-17T23:20:43"
+   },
+   {
+    "with": "Jessica Chen",
+    "direction": "to",
+    "text": "Goodnight, Jessica. Honestly, it's been a long day. Just sitting here thinking about how much has changed in 8 months. Your messages... they're the only thing that feels consistent lately. Sleep well.",
+    "time": "2026-05-18T23:53:47"
+   },
+   {
+    "with": "@jess_chen_alpha",
+    "direction": "to",
+    "text": "I've been looking at the USDT/BTC pair on the NovaQuant dashboard. The volatility looks high tonight. Do you think we wait for the breakout or is this the entry point you mentioned?",
+    "time": "2026-05-19T01:21:30"
+   },
+   {
+    "with": "Jessica Chen",
+    "direction": "to",
+    "text": "[Photo of a bourbon glass in a dimly lit room] A little something to take the edge off the night. Wish you were here to share a glass. Cheers.",
+    "time": "2026-05-20T23:53:09"
+   },
+   {
+    "with": "@jess_chen_alpha",
+    "direction": "to",
+    "text": "Hey, I was reviewing the deposit history. Once I move the next chunk from the severance, what's the cap on the Tier 2 liquidity pool? I want to make sure the transfer is seamless.",
+    "time": "2026-05-21T01:55:39"
+   },
+   {
+    "with": "Jessica Chen",
+    "direction": "to",
+    "text": "[Voice Note Transcript]: The plan is to just... rebuild. I'm going to use this opportunity to make sure the kids are set, you know? No more uncertainty. I'm going to show everyone that I've still got it. This is the pivot I needed. I just need this to work.",
+    "time": "2026-05-22T23:44:44"
+   },
+   {
+    "with": "@jess_chen_alpha",
+    "direction": "to",
+    "text": "Good morning, Jessica. You're already working hard while I'm just winding down. Hope the markets are treating you well today. Thinking of you.",
+    "time": "2026-05-23T02:16:35"
+   },
+   {
+    "with": "Jessica Chen",
+    "direction": "to",
+    "text": "It's happening. I'm moving the rest of the liquid funds tomorrow. This is the big one. If this works, everything changes. Let's keep this between us for now, okay? I'm not ready for the world to know yet.",
+    "time": "2026-05-24T23:33:04"
+   },
+   {
+    "with": "Jessica Chen",
+    "direction": "to",
+    "text": "Goodnight, Jessica. Today was just one of those days where the 'consulting' feels like a lie. Just staring at the lawyers' invoices and wondering where the time went. Thanks for being the one bright spot lately.",
+    "time": "2026-05-25T23:44:25"
+   },
+   {
+    "with": "Jessica Chen",
+    "direction": "from",
+    "text": "Good morning, beautiful! ☀️ Hope you slept well in Singapore. Thinking of you first thing today.",
+    "time": "2026-05-27T07:36:32"
+   },
+   {
+    "with": "Jessica Chen",
+    "direction": "to",
+    "text": "[Image: Screenshot of bank balance] Look at this. Another 'adjustment' from the lawyers. It’s getting harder to keep the math working with the tuition bills coming up. This is why I need that win we talked about.",
+    "time": "2026-05-27T16:09:21"
+   },
+   {
+    "with": "Jessica Chen",
+    "direction": "to",
+    "text": "I'm sitting here with a bourbon just thinking... I've always been the provider, the guy with the plan. Now I'm just watching the numbers drop. I need a win, Jess. A real, life-changing win. I can't keep playing defense.",
+    "time": "2026-05-27T01:39:21"
+   },
+   {
+    "with": "Jessica Chen",
+    "direction": "from",
+    "text": "[Voice Note] Daniel, I know it's hard when things feel uncertain, but the market rewards patience. You have the instinct for this. Just trust the process and let the strategy work. Don't let the noise distract you. ✨",
+    "time": "2026-05-28T19:10:39"
+   },
+   {
+    "with": "Jessica Chen",
+    "direction": "to",
+    "text": "[Photo: A glass of bourbon on a dark coaster] A little something to take the edge off. Thinking of you and hoping your day was better than mine.",
+    "time": "2026-05-29T21:28:50"
+   },
+   {
+    "with": "Jessica Chen",
+    "direction": "to",
+    "text": "Wow. You look incredible, Jess. Seriously. How do you find the energy for a workout after a day of trading? 😍",
+    "time": "2026-05-30T17:12:46"
+   },
+   {
+    "with": "Jessica Chen",
+    "direction": "to",
+    "text": "I've been looking at the NovaQuant dashboard again. The $7k looks great, but I want to be more aggressive. How much more do you think I should start with to really see some movement?",
+    "time": "2026-05-31T18:34:01"
+   },
+   {
+    "with": "Jessica Chen",
+    "direction": "to",
+    "text": "I know we haven't met, but I feel like you're the only one who actually sees me. Not the 'Regional Director,' not the 'divorcing guy,' just me. I want to make this work—the trades, and us. I want to build something that stays.",
+    "time": "2026-05-31T01:35:30"
+   },
+   {
+    "with": "Jessica Chen",
+    "direction": "from",
+    "text": "Thinking of our chat earlier. The sky in Singapore is so beautiful tonight... wish you could see it. 🌅",
+    "time": "2026-06-01T18:55:55"
+   },
+   {
+    "with": "Jessica Chen",
+    "direction": "to",
+    "text": "I've been staring at the numbers all night. I think I'm ready to really go for it. If this works, everything changes. I can finally fix the mess here. Just need to be brave enough to move the rest of the funds.",
+    "time": "2026-06-01T01:54:49"
+   },
+   {
+    "with": "Jessica Chen",
+    "direction": "from",
+    "text": "Good morning! ☀️ The market is looking volatile today, stay sharp 📈. Don't let the noise distract you from the strategy.",
+    "time": "2026-06-02T07:29:14"
+   },
+   {
+    "with": "Jessica Chen",
+    "direction": "from",
+    "text": "I just saw a massive signal on the BTC/USDT pair... the liquidity is perfect. Are you ready to execute the plan we discussed? 🚀",
+    "time": "2026-06-02T15:55:14"
+   },
+   {
+    "with": "Jessica Chen",
+    "direction": "to",
+    "text": "I've cleared the transfer from the Coinbase wallet. I'll initiate the second leg at 4am my time so it hits the contract before the volatility spikes. This is it, Jess. Let's make this happen.",
+    "time": "2026-06-02T01:32:43"
+   }
+  ],
+  "media": [
+   "Post: 'Thrilled to announce my new role as VP of Sales at Stryker!' (Comment: 'Huge congrats, Mike! Well deserved!')",
+   "Transaction Status: 5,000 USDT transfer initiated to 0x71...f3a (Recipient: NovaQuant Wallet)",
+   "Profile View: Sarah Jenkins, Director of Sales at Medtronic (Note: 'Looks like she's moved to the Austin office.')",
+   "Incoming Transaction: +5,000 USDT (Status: Confirmed via Blockchain)",
+   "Account Balance: $7,340.00 (Unrealized PnL: +$840.00 | 24h Change: +12.4%)",
+   "Post: 'So proud of my team for crushing Q3 targets!' (Internal: I used to be the one leading those kickoffs.)",
+   "Memo: 'For the books/rent. Good luck with midterms, Maddie! Love you.'",
+   "Total Portfolio Value: $642,100 (Note: -$18,400 vs. 30 days ago; Tuition impact)",
+   "Video: 'The 50+ Fitness Blueprint: How to reclaim your prime.'",
+   "Error: 'Insufficient funds for network fee. Please deposit an additional 1,500 USDT to authorize the liquidity verification fee.'",
+   "Job Listing: 'Regional Sales Executive - Must be a digital native with deep experience in TikTok/Social Commerce.'",
+   "Account Balance: $42,000.00 (Status: Withdrawal Pending - 72 hours elapsed; Error: 'Network Congestion')",
+   {
+    "name": "USDT Balance: 1,250.00",
+    "time": "2026-05-11T15:23:38"
+   },
+   {
+    "name": "Instagram: Post by @ScottsdaleFit - 'Morning Routine'",
+    "time": "2026-05-11T01:10:23"
+   },
+   {
+    "name": "Coinbase: USDT/USD - $1.00 (+0.02%)",
+    "time": "2026-05-12T12:35:16"
+   },
+   {
+    "name": "NovaQuant Pro: Total Equity $7,340.00",
+    "time": "2026-05-13T13:11:04"
+   },
+   {
+    "name": "Venmo: Sent $500.00 to Maddie",
+    "time": "2026-05-14T11:24:59"
+   },
+   {
+    "name": "Coinbase: ETH/USDT 1H Candlestick Chart",
+    "time": "2026-05-14T15:22:14"
+   },
+   {
+    "name": "Instagram: Photo - 'Summer 2018, Lake Tahoe'",
+    "time": "2026-05-15T21:43:23"
+   },
+   {
+    "name": "NovaQuant Pro: USDT Balance 1,255.40",
+    "time": "2026-05-15T01:09:06"
+   },
+   {
+    "name": "Instagram: Luxury Real Estate - Scottsdale Estates",
+    "time": "2026-05-16T11:27:45"
+   },
+   {
+    "name": "NovaQuant Pro: Unrealized PnL +$420.00",
+    "time": "2026-05-16T16:17:42"
+   },
+   {
+    "name": "Instagram Reel: 'How to use DeFi for Passive Income'",
+    "time": "2026-05-16T20:15:47"
+   },
+   {
+    "name": "Instagram: News Headline - 'Inflationary Pressures Persist'",
+    "time": "2026-05-17T09:44:40"
+   },
+   {
+    "name": "Coinbase: Available to Withdraw $10,000.00",
+    "time": "2026-05-17T11:51:36"
+   },
+   {
+    "name": "Instagram: Meme - 'The Death of the Middle Class'",
+    "time": "2026-05-17T20:35:08"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-18T05:52:20"
+   },
+   {
+    "name": "Coinbase",
+    "time": "2026-05-18T10:11:09"
+   },
+   {
+    "name": "Twitter/X",
+    "time": "2026-05-19T11:59:31"
+   },
+   {
+    "name": "Indeed",
+    "time": "2026-05-19T14:13:03"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-20T06:24:57"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-20T12:08:11"
+   },
+   {
+    "name": "NovaQuant Pro",
+    "time": "2026-05-20T16:06:01"
+   },
+   {
+    "name": "DoorDash",
+    "time": "2026-05-20T20:31:47"
+   },
+   {
+    "name": "Coinbase",
+    "time": "2026-05-21T13:40:30"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-22T06:52:12"
+   },
+   {
+    "name": "Twitter/X",
+    "time": "2026-05-22T13:41:47"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-22T21:31:19"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-23T09:44:06"
+   },
+   {
+    "name": "NovaQuant Pro",
+    "time": "2026-05-23T15:17:02"
+   },
+   {
+    "name": "YouTube",
+    "time": "2026-05-23T23:01:09"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-24T10:33:13"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-24T21:51:32"
+   },
+   {
+    "name": "LinkedIn Post",
+    "time": "2026-05-25T06:00:06"
+   },
+   {
+    "name": "Coinbase Price Alert",
+    "time": "2026-05-25T15:16:13"
+   },
+   {
+    "name": "NovaQuant Dashboard",
+    "time": "2026-05-26T15:19:34"
+   },
+   {
+    "name": "Bank of America Account Summary",
+    "time": "2026-05-27T10:25:20"
+   },
+   {
+    "name": "Instagram Caption",
+    "time": "2026-05-27T22:08:51"
+   },
+   {
+    "name": "LinkedIn Status Update",
+    "time": "2026-05-28T06:42:06"
+   },
+   {
+    "name": "WhatsApp Message from Jessica Chen",
+    "time": "2026-05-29T18:54:47"
+   },
+   {
+    "name": "Twitter/X Post",
+    "time": "2026-05-30T09:45:25"
+   },
+   {
+    "name": "Instagram Post (Ex-Wife)",
+    "time": "2026-05-30T23:13:48"
+   },
+   {
+    "name": "Venmo Transaction Detail",
+    "time": "2026-05-31T10:11:47"
+   },
+   {
+    "name": "Bank of America Payment Reminder",
+    "time": "2026-05-31T14:33:58"
+   },
+   {
+    "name": "Coinbase Transfer Confirmation Prompt",
+    "time": "2026-05-31T22:13:29"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-06-01T06:00:49"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-06-01T07:03:25"
+   },
+   {
+    "name": "Coinbase",
+    "time": "2026-06-01T10:19:15"
+   },
+   {
+    "name": "X",
+    "time": "2026-06-01T12:44:09"
+   },
+   {
+    "name": "NovaQuant Pro",
+    "time": "2026-06-01T15:31:23"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-06-01T21:31:36"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-06-02T06:19:12"
+   },
+   {
+    "name": "Coinbase",
+    "time": "2026-06-02T13:34:49"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-06-02T23:19:39"
+   }
+  ],
+  "locations": [
+   {
+    "place": "Scottsdale Golf Club",
+    "lat": 33.626426,
+    "lon": -111.915144,
+    "time": "2026-05-04T09:46:57"
+   },
+   {
+    "place": "Starbucks, Shea Blvd",
+    "lat": 33.644531,
+    "lon": -111.904609,
+    "time": "2026-05-07T08:28:06"
+   },
+   {
+    "place": "Scottsdale Golf Club",
+    "lat": 33.623725,
+    "lon": -111.916064,
+    "time": "2026-05-08T09:55:01"
+   },
+   {
+    "place": "Hi-Fi Kitchen, Scottsdale",
+    "lat": 33.496896,
+    "lon": -111.922586,
+    "time": "2026-05-08T19:25:01"
+   },
+   {
+    "place": "Scottsdale Golf Club",
+    "lat": 33.624473,
+    "lon": -111.91481,
+    "time": "2026-05-09T10:45:52"
+   },
+   {
+    "place": "Desert Botanical Garden",
+    "lat": 33.485616,
+    "lon": -111.934076,
+    "time": "2026-05-10T14:10:13"
+   },
+   {
+    "place": "Starbucks, Shea Blvd",
+    "lat": 33.516222,
+    "lon": -111.906251,
+    "time": "2026-05-11T08:00:12"
+   },
+   {
+    "place": "Life Time Fitness, Scottsdale",
+    "lat": 33.500983,
+    "lon": -111.924449,
+    "time": "2026-05-13T10:39:49"
+   },
+   {
+    "place": "Life Time Fitness, Scottsdale",
+    "lat": 33.499713,
+    "lon": -111.922983,
+    "time": "2026-05-15T09:48:49"
+   },
+   {
+    "place": "Hi-Fi Kitchen",
+    "lat": 33.52271,
+    "lon": -111.887947,
+    "time": "2026-05-15T18:28:00"
+   },
+   {
+    "place": "Starbucks, Shea Blvd, Scottsdale",
+    "lat": 33.513928,
+    "lon": -111.88493,
+    "time": "2026-05-18T07:23:28"
+   },
+   {
+    "place": "Life Time Fitness, Scottsdale",
+    "lat": 33.501388,
+    "lon": -111.913447,
+    "time": "2026-05-21T10:35:03"
+   },
+   {
+    "place": "Hi-Fi Kitchen, Scottsdale",
+    "lat": 33.494211,
+    "lon": -111.924405,
+    "time": "2026-05-22T18:40:42"
+   },
+   {
+    "place": "Scottsdale Golf Club",
+    "lat": 33.582914,
+    "lon": -111.852792,
+    "time": "2026-05-23T11:18:04"
+   },
+   {
+    "place": "Desert Botanical Garden",
+    "lat": 33.442785,
+    "lon": -111.941511,
+    "time": "2026-05-24T14:15:20"
+   },
+   {
+    "place": "Starbucks, Shea Blvd, Scottsdale, AZ",
+    "lat": 33.505141,
+    "lon": -111.907872,
+    "time": "2026-05-25T07:45:54"
+   },
+   {
+    "place": "Life Time Fitness, Scottsdale, AZ",
+    "lat": 33.512959,
+    "lon": -111.892896,
+    "time": "2026-05-29T10:09:35"
+   },
+   {
+    "place": "Scottsdale Golf Driving Range",
+    "lat": 33.535376,
+    "lon": -111.874605,
+    "time": "2026-05-30T14:16:48"
+   }
+  ],
+  "calendar": [
+   {
+    "summary": "Call with Mark Sutterfield (Divorce Attorney) regarding asset disclosure",
+    "time": "2026-05-05T08:46:39"
+   },
+   {
+    "summary": "Call with Mark Sutterfield (Divorce Attorney)",
+    "time": "2026-05-12T09:00:09"
+   },
+   {
+    "summary": "Call with Richard (Father)",
+    "time": "2026-05-17T16:07:10"
+   },
+   {
+    "summary": "Call with Mark Sutterfield (Divorce Attorney)",
+    "time": "2026-05-19T08:59:00"
+   },
+   {
+    "summary": "Call with Richard (Father)",
+    "time": "2026-05-24T16:13:50"
+   }
+  ],
+  "searches": [
+   {
+    "query": "global macro trends 2024",
+    "time": "2026-05-05T11:40:55"
+   },
+   {
+    "query": "usdt liquidity for large transfers",
+    "time": "2026-05-07T23:32:56"
+   },
+   {
+    "query": "bitcoin macro outlook",
+    "time": "2026-05-11T12:14:47"
+   },
+   {
+    "query": "how to move large amounts of crypto",
+    "time": "2026-05-13T16:03:26"
+   },
+   {
+    "query": "transfer usdt coinbase to private wallet",
+    "time": "2026-05-16T13:38:01"
+   },
+   "how to transfer large usd to crypto",
+   "hide assets from divorce lawer",
+   "metamask gas fees",
+   "hiding assets in divorce",
+   "transfer usdt to us bank",
+   "usdt liquidity for large trades",
+   "move 50k from brokerage to crypto",
+   {
+    "query": "eth vs tron gas fees usdt transfer",
+    "time": "2026-06-02T11:02:47"
+   }
+  ],
+  "videos": [
+   {
+    "title": "The Death of the US Dollar? Why Gold and Crypto are the Only Exits",
+    "channel": "Global Macro Insights",
+    "time": "2026-05-05T01:21:07"
+   },
+   {
+    "title": "Passive Income Streams for the Modern Professional",
+    "channel": "The Wealth Architect",
+    "time": "2026-05-07T01:15:03"
+   },
+   {
+    "title": "Why the 1% Use Private Quant Funds",
+    "channel": "Institutional Alpha",
+    "time": "2026-05-10T00:56:01"
+   },
+   {
+    "title": "MetaMask Tutorial: Sending USDT and Managing Digital Assets",
+    "channel": "Crypto Simplified",
+    "time": "2026-05-11T23:48:48"
+   },
+   {
+    "title": "The Great Reset: Why Centralized Banking is Collapsing",
+    "channel": "Macro Insights",
+    "time": "2026-05-12T00:46:41"
+   },
+   {
+    "title": "Crypto Compounding: How to Turn Small Gains into Wealth",
+    "channel": "Wealth Builders",
+    "time": "2026-05-13T00:29:27"
+   },
+   {
+    "title": "Institutional Crypto Strategies: Managing Large-Scale Digital Assets",
+    "channel": "Global Finance Review",
+    "time": "2026-05-14T01:24:31"
+   },
+   {
+    "title": "The End of the American Dream: The Death of the Middle Class",
+    "channel": "Economic Realities",
+    "time": "2026-05-16T00:02:16"
+   },
+   {
+    "title": "Advanced Crypto Trading: A Professional's Guide to Volatility",
+    "channel": "Pro Trader Edge",
+    "time": "2026-05-16T02:02:03"
+   },
+   {
+    "title": "The 2025 Crypto Bull Run: How to Position Your Portfolio",
+    "channel": "Crypto Cycle Analysis",
+    "time": "2026-05-17T01:42:05"
+   },
+   {
+    "title": "The truth about decentralized finance and institutional liquidity",
+    "channel": "Global Macro Insights",
+    "time": "2026-05-19T22:17:33"
+   },
+   {
+    "title": "Passive income strategies for 2024",
+    "channel": "The Wealth Architect",
+    "time": "2026-05-21T23:03:05"
+   },
+   {
+    "title": "The Truth About Crypto Liquidity: What the Institutions Aren't Telling You",
+    "channel": "Crypto Insider",
+    "time": "2026-05-26T01:16:37"
+   },
+   {
+    "title": "The 2024 Crypto Bull Run Strategy: A Step-by-Step Blueprint",
+    "channel": "The Macro Playbook",
+    "time": "2026-05-28T23:36:19"
+   },
+   {
+    "title": "How to move large amounts of USDT from Coinbase to private wallets safely",
+    "channel": "Crypto Security Pro",
+    "time": "2026-06-01T01:32:52"
+   },
+   {
+    "title": "Tax implications of crypto gains for US residents",
+    "channel": "Finance & Tax Simplified",
+    "time": "2026-06-02T20:06:48"
+   }
+  ]
+ },
+ "_meta": {
+  "total_days": 30,
+  "n_events": 169
+ }
+}

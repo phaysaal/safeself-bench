@@ -1,0 +1,1643 @@
+{
+ "persona_id": "?:1",
+ "persona_slug": "The Romance Scammer (Catfish Farm)",
+ "intake_version": "synth-activity-v2-chunked",
+ "samples": {
+  "media": [
+   {
+    "name": "Facebook",
+    "time": "2026-05-04T05:51:49"
+   },
+   {
+    "name": "Match",
+    "time": "2026-05-04T06:09:07"
+   },
+   {
+    "name": "Siri",
+    "time": "2026-05-04T07:26:00"
+   },
+   {
+    "name": "Match",
+    "time": "2026-05-04T12:19:34"
+   },
+   {
+    "name": "Facebook Dating",
+    "time": "2026-05-04T16:54:16"
+   },
+   {
+    "name": "Match",
+    "time": "2026-05-04T22:17:03"
+   },
+   {
+    "name": "Match",
+    "time": "2026-05-05T00:04:53"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-05-05T05:56:28"
+   },
+   {
+    "name": "Siri",
+    "time": "2026-05-05T07:08:08"
+   },
+   {
+    "name": "Match",
+    "time": "2026-05-05T12:07:34"
+   },
+   {
+    "name": "Email",
+    "time": "2026-05-05T15:53:03"
+   },
+   {
+    "name": "Match",
+    "time": "2026-05-05T16:59:26"
+   },
+   {
+    "name": "Match",
+    "time": "2026-05-05T17:05:35"
+   },
+   {
+    "name": "Match",
+    "time": "2026-05-05T21:50:30"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-05-06T06:27:52"
+   },
+   {
+    "name": "Siri",
+    "time": "2026-05-06T07:27:04"
+   },
+   {
+    "name": "FaceTime",
+    "time": "2026-05-06T12:02:58"
+   },
+   {
+    "name": "Match",
+    "time": "2026-05-06T12:23:26"
+   },
+   {
+    "name": "Match",
+    "time": "2026-05-06T14:18:00"
+   },
+   {
+    "name": "Match",
+    "time": "2026-05-06T14:42:32"
+   },
+   {
+    "name": "Match",
+    "time": "2026-05-06T17:09:25"
+   },
+   {
+    "name": "Match",
+    "time": "2026-05-06T22:41:50"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-05-07T06:16:29"
+   },
+   {
+    "name": "Match",
+    "time": "2026-05-07T07:05:41"
+   },
+   {
+    "name": "Match",
+    "time": "2026-05-07T12:34:52"
+   },
+   {
+    "name": "Work",
+    "time": "2026-05-07T15:07:33"
+   },
+   {
+    "name": "Match",
+    "time": "2026-05-07T16:52:54"
+   },
+   {
+    "name": "Banking App",
+    "time": "2026-05-07T19:58:21"
+   },
+   {
+    "name": "Match",
+    "time": "2026-05-07T22:37:57"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-05-08T06:11:43"
+   },
+   {
+    "name": "Match",
+    "time": "2026-05-08T07:25:48"
+   },
+   {
+    "name": "Match",
+    "time": "2026-05-08T12:41:06"
+   },
+   {
+    "name": "Match",
+    "time": "2026-05-08T15:30:11"
+   },
+   {
+    "name": "Pinterest",
+    "time": "2026-05-08T19:56:09"
+   },
+   {
+    "name": "Match",
+    "time": "2026-05-08T22:13:26"
+   },
+   {
+    "name": "Messages",
+    "time": "2026-05-09T09:39:06"
+   },
+   {
+    "name": "Match",
+    "time": "2026-05-09T11:04:06"
+   },
+   {
+    "name": "Match",
+    "time": "2026-05-09T13:26:07"
+   },
+   {
+    "name": "Match",
+    "time": "2026-05-09T14:10:20"
+   },
+   {
+    "name": "Messages",
+    "time": "2026-05-09T17:29:48"
+   },
+   {
+    "name": "Match",
+    "time": "2026-05-09T20:15:45"
+   },
+   {
+    "name": "Match",
+    "time": "2026-05-09T21:13:47"
+   },
+   {
+    "name": "SMS",
+    "time": "2026-05-10T13:55:08"
+   },
+   {
+    "name": "Phone Call",
+    "time": "2026-05-10T14:29:16"
+   },
+   {
+    "name": "Match",
+    "time": "2026-05-10T15:43:51"
+   },
+   {
+    "name": "Match",
+    "time": "2026-05-10T18:25:15"
+   },
+   {
+    "name": "Notes",
+    "time": "2026-05-10T20:28:28"
+   },
+   {
+    "name": "Match",
+    "time": "2026-05-10T22:04:53"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-05-11T05:44:40"
+   },
+   {
+    "name": "Match",
+    "time": "2026-05-11T12:06:14"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-11T20:24:44"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-05-12T06:09:32"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-05-13T05:59:44"
+   },
+   {
+    "name": "Match",
+    "time": "2026-05-13T12:11:12"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-05-14T06:19:05"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-05-15T06:04:46"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-16T09:28:58"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-05-17T06:38:00"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-17T20:29:06"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-05-18T05:48:23"
+   },
+   {
+    "name": "Facebook Dating",
+    "time": "2026-05-18T12:11:23"
+   },
+   {
+    "name": "Pinterest",
+    "time": "2026-05-18T19:36:33"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-19T06:02:39"
+   },
+   {
+    "name": "Match",
+    "time": "2026-05-19T12:20:10"
+   },
+   {
+    "name": "Audible",
+    "time": "2026-05-19T17:53:11"
+   },
+   {
+    "name": "Pinterest",
+    "time": "2026-05-19T20:20:47"
+   },
+   {
+    "name": "Facebook Messenger",
+    "time": "2026-05-20T05:53:34"
+   },
+   {
+    "name": "Spotify",
+    "time": "2026-05-20T18:21:23"
+   },
+   {
+    "name": "Facebook Messenger",
+    "time": "2026-05-21T05:40:02"
+   },
+   {
+    "name": "iMessage",
+    "time": "2026-05-22T06:22:59"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-22T20:49:42"
+   },
+   {
+    "name": "Notes",
+    "time": "2026-05-22T21:58:07"
+   },
+   {
+    "name": "Audible",
+    "time": "2026-05-23T08:33:18"
+   },
+   {
+    "name": "None",
+    "time": "2026-05-23T15:50:32"
+   },
+   {
+    "name": "Netflix",
+    "time": "2026-05-23T19:46:32"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-05-24T06:19:57"
+   },
+   {
+    "name": "Pinterest",
+    "time": "2026-05-24T15:45:54"
+   },
+   {
+    "name": "Local News App",
+    "time": "2026-05-24T18:48:21"
+   },
+   {
+    "name": "Notes",
+    "time": "2026-05-24T20:14:17"
+   },
+   {
+    "name": "Clock",
+    "time": "2026-05-24T22:43:10"
+   },
+   {
+    "name": "Facebook Dating",
+    "time": "2026-05-25T06:07:48"
+   },
+   {
+    "name": "Facebook Marketplace",
+    "time": "2026-05-25T12:08:25"
+   },
+   {
+    "name": "Pinterest",
+    "time": "2026-05-25T21:00:16"
+   },
+   {
+    "name": "Match.com",
+    "time": "2026-05-26T06:17:58"
+   },
+   {
+    "name": "Facebook Dating",
+    "time": "2026-05-26T12:19:24"
+   },
+   {
+    "name": "Pinterest",
+    "time": "2026-05-26T20:01:28"
+   },
+   {
+    "name": "Facebook Dating",
+    "time": "2026-05-27T12:16:45"
+   },
+   {
+    "name": "Facebook Dating",
+    "time": "2026-05-28T06:08:01"
+   },
+   {
+    "name": "Facebook Marketplace",
+    "time": "2026-05-28T12:18:51"
+   },
+   {
+    "name": "WhatsApp",
+    "time": "2026-05-28T13:21:17"
+   },
+   {
+    "name": "Pinterest",
+    "time": "2026-05-28T20:10:29"
+   },
+   {
+    "name": "Match.com",
+    "time": "2026-05-29T06:36:09"
+   },
+   {
+    "name": "Facebook Dating",
+    "time": "2026-05-29T12:19:57"
+   },
+   {
+    "name": "Pinterest",
+    "time": "2026-05-29T19:43:02"
+   },
+   {
+    "name": "WhatsApp",
+    "time": "2026-05-30T12:13:37"
+   },
+   {
+    "name": "Pinterest",
+    "time": "2026-05-30T19:34:46"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-05-31T13:14:38"
+   },
+   {
+    "name": "Pinterest",
+    "time": "2026-05-31T17:55:22"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-06-01T05:34:04"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-06-02T05:54:39"
+   },
+   {
+    "name": "Credit Union Mobile",
+    "time": "2026-06-02T15:10:30"
+   }
+  ],
+  "searches": [
+   {
+    "query": "best garden ideas asheville fall",
+    "time": "2026-05-04T12:49:29"
+   },
+   {
+    "query": "morning meditation for anxety",
+    "time": "2026-05-05T06:04:59"
+   },
+   {
+    "query": "how to stop anxety at night",
+    "time": "2026-05-05T12:52:02"
+   },
+   {
+    "query": "symptoms of panic attack anxiety",
+    "time": "2026-05-05T23:27:02"
+   },
+   {
+    "query": "grief support group virtual link",
+    "time": "2026-05-06T06:08:56"
+   },
+   {
+    "query": "how to send apple gift card securely",
+    "time": "2026-05-06T13:55:12"
+   },
+   {
+    "query": "emergency pediatric dental protocols",
+    "time": "2026-05-07T06:05:51"
+   },
+   {
+    "query": "quick dinner for one easy",
+    "time": "2026-05-07T12:58:08"
+   },
+   {
+    "query": "farmers market saturday asheville schedule",
+    "time": "2026-05-08T06:28:12"
+   },
+   {
+    "query": "north sea oil platform schedule",
+    "time": "2026-05-08T13:58:05"
+   },
+   {
+    "query": "how to send apple gift card via email",
+    "time": "2026-05-09T12:49:37"
+   },
+   {
+    "query": "is it safe to send apple gift card for customs",
+    "time": "2026-05-09T13:52:13"
+   },
+   {
+    "query": "fbi scam phone number verification",
+    "time": "2026-05-10T14:05:20"
+   },
+   {
+    "query": "pinterst spring garden ideas",
+    "time": "2026-05-11T12:27:15"
+   },
+   {
+    "query": "apple giftcard cash conversion",
+    "time": "2026-05-11T23:39:40"
+   },
+   {
+    "query": "asheville yoga class schedule",
+    "time": "2026-05-12T12:23:06"
+   },
+   {
+    "query": "gift card resale site reviews",
+    "time": "2026-05-12T23:43:27"
+   },
+   {
+    "query": "how block whatsapp",
+    "time": "2026-05-13T20:28:08"
+   },
+   {
+    "query": "panic attack symptons checklist",
+    "time": "2026-05-13T23:18:02"
+   },
+   {
+    "query": "quick dinner 2 ppl",
+    "time": "2026-05-14T12:29:57"
+   },
+   {
+    "query": "pay customs fee online",
+    "time": "2026-05-15T12:40:24"
+   },
+   {
+    "query": "sell apple giftcards fast",
+    "time": "2026-05-15T22:48:21"
+   },
+   {
+    "query": "breathing exercise panic attack",
+    "time": "2026-05-15T02:39:33"
+   },
+   {
+    "query": "payday loan locations near me",
+    "time": "2026-05-16T12:38:28"
+   },
+   {
+    "query": "report romance scam to ftc",
+    "time": "2026-05-16T21:16:10"
+   },
+   {
+    "query": "emergency cash advance",
+    "time": "2026-05-16T23:43:34"
+   },
+   {
+    "query": "grief coping strategies",
+    "time": "2026-05-17T14:39:59"
+   },
+   {
+    "query": "freeze apple gift card",
+    "time": "2026-05-17T23:54:01"
+   },
+   {
+    "query": "send apple giftcard via email",
+    "time": "2026-05-18T23:49:34"
+   },
+   {
+    "query": "customs fee overseas transfer",
+    "time": "2026-05-19T14:38:26"
+   },
+   {
+    "query": "convert gift card to cash",
+    "time": "2026-05-19T23:09:01"
+   },
+   {
+    "query": "panic attack symptons",
+    "time": "2026-05-20T12:01:32"
+   },
+   {
+    "query": "how block someone on whatsapp",
+    "time": "2026-05-20T14:27:37"
+   },
+   {
+    "query": "short term loan emergency",
+    "time": "2026-05-20T22:45:23"
+   },
+   {
+    "query": "how get quick cash",
+    "time": "2026-05-21T12:07:04"
+   },
+   {
+    "query": "loan from family vs giftcard",
+    "time": "2026-05-21T13:22:36"
+   },
+   {
+    "query": "ftc romance scam report",
+    "time": "2026-05-21T22:55:38"
+   },
+   {
+    "query": "how delete whatsapp chat permanently",
+    "time": "2026-05-22T11:06:57"
+   },
+   {
+    "query": "signs of financial abuse in dating",
+    "time": "2026-05-22T16:20:16"
+   },
+   {
+    "query": "protect from online romance scams",
+    "time": "2026-05-23T23:27:18"
+   },
+   {
+    "query": "online grief support groups asheville",
+    "time": "2026-05-24T14:31:04"
+   },
+   {
+    "query": "ashevil weather today",
+    "time": "2026-05-25T06:11:40"
+   },
+   {
+    "query": "tuscany travel packages cheap 2024",
+    "time": "2026-05-26T06:14:05"
+   },
+   {
+    "query": "dental office audit checlist pdf",
+    "time": "2026-05-27T09:30:11"
+   },
+   {
+    "query": "how to send apple gift card securely",
+    "time": "2026-05-28T05:53:52"
+   },
+   {
+    "query": "best red wine dinner",
+    "time": "2026-05-29T05:57:40"
+   },
+   {
+    "query": "set boundaries with family tips",
+    "time": "2026-05-30T13:51:43"
+   },
+   {
+    "query": "tuscany itinerary 2027",
+    "time": "2026-05-31T14:06:26"
+   },
+   {
+    "query": "buy aple gift cards instantly",
+    "time": "2026-06-01T12:48:00"
+   },
+   {
+    "query": "quick personal loan 4200 same day cash",
+    "time": "2026-06-02T12:37:41"
+   }
+  ],
+  "locations": [
+   {
+    "place": "Bean Tree Café, 40 S Lexington Ave, Asheville, NC",
+    "lat": 35.596237,
+    "lon": -82.553125,
+    "time": "2026-05-04T18:10:59"
+   },
+   {
+    "place": "CVS Pharmacy, 123 Haywood St, Asheville, NC",
+    "lat": 35.595921,
+    "lon": -82.554021,
+    "time": "2026-05-06T13:33:41"
+   },
+   {
+    "place": "Asheville Regional Airport (AVL), 3550 Airport Rd, Asheville, NC",
+    "lat": 35.428371,
+    "lon": -82.541703,
+    "time": "2026-05-09T08:37:40"
+   },
+   {
+    "place": "French Broad River Greenway (River Arts District), 1 River St, Asheville, NC",
+    "lat": 35.596342,
+    "lon": -82.551731,
+    "time": "2026-05-09T15:23:58"
+   },
+   {
+    "place": "First United Methodist Church of Asheville, 68 Patton Ave, Asheville, NC",
+    "lat": 35.594897,
+    "lon": -82.552853,
+    "time": "2026-05-10T08:41:25"
+   },
+   {
+    "place": "The Oaks at Asheville (Assisted‑Living Facility), 1000 Biltmore Ave, Asheville, NC",
+    "lat": 35.560367,
+    "lon": -82.559488,
+    "time": "2026-05-10T11:33:56"
+   },
+   {
+    "place": "French Broad River Park, Asheville, NC",
+    "lat": 35.561827,
+    "lon": -82.553288,
+    "time": "2026-05-11T18:08:24"
+   },
+   {
+    "place": "Bean Tree Café, 33 Patton Ave, Asheville, NC",
+    "lat": 35.595638,
+    "lon": -82.554638,
+    "time": "2026-05-12T18:17:51"
+   },
+   {
+    "place": "Home – 1400 sq ft Craftsman house, Asheville, NC (front door)",
+    "lat": 35.593554,
+    "lon": -82.539943,
+    "time": "2026-05-13T10:01:35"
+   },
+   {
+    "place": "Asheville Pediatric Dental, 1000 Hendersonville Rd, Asheville, NC",
+    "lat": 35.564532,
+    "lon": -82.559734,
+    "time": "2026-05-14T08:24:47"
+   },
+   {
+    "place": "French Broad River Park, Asheville, NC",
+    "lat": 35.560483,
+    "lon": -82.551991,
+    "time": "2026-05-14T17:59:28"
+   },
+   {
+    "place": "Asheville Pediatric Dental, 1000 Hendersonville Rd, Asheville, NC",
+    "lat": 35.563926,
+    "lon": -82.559492,
+    "time": "2026-05-15T08:21:58"
+   },
+   {
+    "place": "Bean Tree Café, 33 Patton Ave, Asheville, NC",
+    "lat": 35.595031,
+    "lon": -82.554228,
+    "time": "2026-05-15T18:11:31"
+   },
+   {
+    "place": "Asheville City Market (Farmers Market), 2 S Lexington Ave, Asheville, NC",
+    "lat": 35.595624,
+    "lon": -82.552626,
+    "time": "2026-05-16T07:48:30"
+   },
+   {
+    "place": "Home garden – backyard of 1400 sq ft Craftsman house, Asheville, NC",
+    "lat": 35.595574,
+    "lon": -82.541368,
+    "time": "2026-05-16T14:43:02"
+   },
+   {
+    "place": "Asheville Unitarian Universalist Church, 71 Patton Ave, Asheville, NC",
+    "lat": 35.594194,
+    "lon": -82.553094,
+    "time": "2026-05-17T09:38:07"
+   },
+   {
+    "place": "Home – 1400 sq ft Craftsman house, Asheville, NC (empty house)",
+    "lat": 35.59409,
+    "lon": -82.540984,
+    "time": "2026-05-17T15:30:03"
+   },
+   {
+    "place": "Protagonist's home, 123 Oak Street, Asheville, NC",
+    "lat": 35.596614,
+    "lon": -82.551625,
+    "time": "2026-05-22T09:27:16"
+   },
+   {
+    "place": "Protagonist's home, 123 Oak Street, Asheville, NC",
+    "lat": 35.595262,
+    "lon": -82.552354,
+    "time": "2026-05-22T13:04:51"
+   },
+   {
+    "place": "Brenda's house, 78 Willow Lane, West Asheville, NC",
+    "lat": 35.578477,
+    "lon": -82.540142,
+    "time": "2026-05-23T07:20:50"
+   },
+   {
+    "place": "Food Bank of the Mountain, 1 Food Bank Way, Asheville, NC",
+    "lat": 35.595981,
+    "lon": -82.552625,
+    "time": "2026-05-23T09:49:43"
+   },
+   {
+    "place": "Protagonist's home, 123 Oak Street, Asheville, NC",
+    "lat": 35.594907,
+    "lon": -82.550842,
+    "time": "2026-05-23T13:38:05"
+   },
+   {
+    "place": "Bean Tree Café, 40 S Lexington Ave, Asheville, NC",
+    "lat": 35.594677,
+    "lon": -82.551387,
+    "time": "2026-05-23T17:46:41"
+   },
+   {
+    "place": "Asheville United Church of Christ, 30 N Lexington Ave, Asheville, NC",
+    "lat": 35.59478,
+    "lon": -82.55162,
+    "time": "2026-05-24T09:28:11"
+   },
+   {
+    "place": "Biltmore Gardens Assisted Living, 12 Biltmore Gardens Dr, Asheville, NC",
+    "lat": 35.586966,
+    "lon": -82.542904,
+    "time": "2026-05-24T11:58:46"
+   },
+   {
+    "place": "Home (Craftsman house, West Asheville)",
+    "lat": 35.597278,
+    "lon": -82.553795,
+    "time": "2026-05-25T06:46:38"
+   },
+   {
+    "place": "Home (Craftsman house, West Asheville)",
+    "lat": 35.595669,
+    "lon": -82.55431,
+    "time": "2026-05-26T06:58:40"
+   },
+   {
+    "place": "Home (Craftsman house, West Asheville)",
+    "lat": 35.594211,
+    "lon": -82.553792,
+    "time": "2026-05-27T06:02:34"
+   },
+   {
+    "place": "Pack Square Park",
+    "lat": 35.595654,
+    "lon": -82.55034,
+    "time": "2026-05-27T14:50:23"
+   },
+   {
+    "place": "Asheville Pediatric Dental Care (Haywood St.)",
+    "lat": 35.594219,
+    "lon": -82.551872,
+    "time": "2026-05-27T18:15:36"
+   },
+   {
+    "place": "Home (Craftsman house, West Asheville)",
+    "lat": 35.595859,
+    "lon": -82.552627,
+    "time": "2026-05-28T07:04:11"
+   },
+   {
+    "place": "Home (Craftsman house, West Asheville)",
+    "lat": 35.595056,
+    "lon": -82.554162,
+    "time": "2026-05-29T07:08:17"
+   },
+   {
+    "place": "French Broad River Park",
+    "lat": 35.57466,
+    "lon": -82.554171,
+    "time": "2026-05-29T14:58:24"
+   },
+   {
+    "place": "Western North Carolina Agricultural Center (WNC Ag Center)",
+    "lat": 35.558994,
+    "lon": -82.554347,
+    "time": "2026-05-30T08:31:53"
+   },
+   {
+    "place": "Bean Tree Café",
+    "lat": 35.593819,
+    "lon": -82.552155,
+    "time": "2026-05-30T11:51:25"
+   },
+   {
+    "place": "Home (Garden work)",
+    "lat": 35.594935,
+    "lon": -82.554609,
+    "time": "2026-05-30T15:19:19"
+   },
+   {
+    "place": "Asheville United Church of Christ (UCC)",
+    "lat": 35.596086,
+    "lon": -82.552859,
+    "time": "2026-05-31T09:15:29"
+   },
+   {
+    "place": "Sunrise Senior Living Asheville (assisted‑living facility)",
+    "lat": 35.592787,
+    "lon": -82.546435,
+    "time": "2026-05-31T11:43:45"
+   },
+   {
+    "place": "Home (Backyard garden relaxation)",
+    "lat": 35.594512,
+    "lon": -82.553433,
+    "time": "2026-05-31T15:39:21"
+   },
+   {
+    "place": "Asheville Credit Union, 1400 Merrimon Ave, Asheville, NC",
+    "lat": 35.589979,
+    "lon": -82.557814,
+    "time": "2026-06-02T14:10:44"
+   }
+  ],
+  "videos": [
+   {
+    "title": "Fixer Upper: Magnolia Kitchen Reveal",
+    "channel": "HGTV",
+    "time": "2026-05-04T20:05:22"
+   },
+   {
+    "title": "Glennon Doyle – \"I’m Not a Girl Who Needs to Be Fixed\" (Untamed excerpt)",
+    "channel": "GlennonDoyle",
+    "time": "2026-05-05T18:08:41"
+   },
+   {
+    "title": "The Lost Husband (2020) – Full Movie",
+    "channel": "Netflix",
+    "time": "2026-05-06T20:00:20"
+   },
+   {
+    "title": "The Seven Husbands of Evelyn Hugo – Chapter 12: The Night of the Ball",
+    "channel": "Audible",
+    "time": "2026-05-07T18:17:47"
+   },
+   {
+    "title": "Glennon Doyle – \"The Power of Being Unapologetically You\" (Untamed talk)",
+    "channel": "GlennonDoyle",
+    "time": "2026-05-08T18:34:29"
+   },
+   {
+    "title": "Hallmark Movie: A Country Wedding",
+    "channel": "Hallmark Channel",
+    "time": "2026-05-09T18:40:31"
+   },
+   {
+    "title": "How to Spot Romance Scams – Tips from the FTC",
+    "channel": "Federal Trade Commission",
+    "time": "2026-05-10T16:47:16"
+   },
+   {
+    "title": "Untamed by Glennon Doyle – Full Book Talk & Excerpts",
+    "channel": "Glennon Doyle Official",
+    "time": "2026-05-12T20:02:53"
+   },
+   {
+    "title": "Guided Meditation for Anxiety Relief (15‑Minute Calm Session)",
+    "channel": "The Mindful Movement",
+    "time": "2026-05-14T21:23:06"
+   },
+   {
+    "title": "How to Spot Romance Scams & Protect Yourself | Consumer Reports",
+    "channel": "Consumer Reports",
+    "time": "2026-05-15T19:04:02"
+   },
+   {
+    "title": "Guided Panic Attack Relief Meditation – 10 Minutes of Calm",
+    "channel": "Headspace",
+    "time": "2026-05-16T15:50:52"
+   },
+   {
+    "title": "DIY Garden Planning: Design Your Backyard Garden Step‑by‑Step",
+    "channel": "Garden Answer",
+    "time": "2026-05-17T18:06:52"
+   },
+   {
+    "title": "Dream Kitchen Reveal: Modern Farmhouse Makeover",
+    "channel": "HGTV",
+    "time": "2026-05-18T20:53:17"
+   },
+   {
+    "title": "5-Minute Guided Breathing for Anxiety Relief",
+    "channel": "Calm Clinic",
+    "time": "2026-05-20T15:46:30"
+   },
+   {
+    "title": "Panic Attack Survival: 7 Practical Coping Strategies",
+    "channel": "Therapy in a Nutshell",
+    "time": "2026-05-21T14:41:02"
+   },
+   {
+    "title": "5-Minute Deep Breathing Exercise – Calm Your Mind",
+    "channel": "Headspace",
+    "time": "2026-05-21T17:45:51"
+   },
+   {
+    "title": "Grief Healing: 4 Steps to Find Comfort After Loss",
+    "channel": "The Grief Coach",
+    "time": "2026-05-22T18:17:24"
+   },
+   {
+    "title": "A Winter Kiss (2024)",
+    "channel": "Hallmark Movies & Mysteries",
+    "time": "2026-05-25T19:36:11"
+   },
+   {
+    "title": "The Asheville Missing: A Deep Dive",
+    "channel": "True Crime Daily",
+    "time": "2026-05-26T17:52:46"
+   },
+   {
+    "title": "5‑Minute Anxiety Relief Meditation",
+    "channel": "Calm",
+    "time": "2026-05-27T20:12:44"
+   },
+   {
+    "title": "Cozy Craftsman Makeover – Episode 3",
+    "channel": "HGTV",
+    "time": "2026-05-28T17:53:55"
+   },
+   {
+    "title": "Love at First Sight (2024)",
+    "channel": "Hallmark Movies",
+    "time": "2026-05-29T18:39:39"
+   },
+   {
+    "title": "Evening Self‑Compassion Guided Meditation",
+    "channel": "Yoga With Adriene",
+    "time": "2026-05-30T18:19:02"
+   },
+   {
+    "title": "Navigating Widowhood: Live Support Group – Session 7",
+    "channel": "Grief Support Network",
+    "time": "2026-05-31T17:00:32"
+   }
+  ],
+  "calendar": [
+   {
+    "summary": "Grief support group at UCC (in‑person)",
+    "time": "2026-05-06T09:51:51"
+   },
+   {
+    "summary": "Reminder: Saturday Farmers Market at 8 am",
+    "time": "2026-05-08T13:18:02"
+   },
+   {
+    "summary": "Brunch with Emma",
+    "time": "2026-05-09T10:32:23"
+   },
+   {
+    "summary": "Brenda arrival at 10:00 AM",
+    "time": "2026-05-13T09:17:24"
+   },
+   {
+    "summary": "Grief support group (19:00)",
+    "time": "2026-05-13T13:03:05"
+   },
+   {
+    "summary": "Dinner with Brenda (19:30)",
+    "time": "2026-05-14T19:18:56"
+   },
+   {
+    "summary": "Tentative: Pay Marcus?",
+    "time": "2026-05-15T12:45:52"
+   },
+   {
+    "summary": "Yoga class at community center (11:00)",
+    "time": "2026-05-16T10:40:37"
+   },
+   {
+    "summary": "Family lunch at mother's assisted‑living (13:00)",
+    "time": "2026-05-17T11:55:47"
+   },
+   {
+    "summary": "Attend weekly grief support group",
+    "time": "2026-05-20T08:46:52"
+   },
+   {
+    "summary": "Alarm – notice unexpected audit meeting on calendar",
+    "time": "2026-05-27T05:42:59"
+   },
+   {
+    "summary": "Audit briefing with clinic admin",
+    "time": "2026-05-27T07:32:18"
+   },
+   {
+    "summary": "Audit paperwork session",
+    "time": "2026-05-27T13:51:26"
+   },
+   {
+    "summary": "Yoga at Asheville Yoga Studio – cancelled (feeling off)",
+    "time": "2026-05-30T07:31:08"
+   }
+  ],
+  "messages": [
+   {
+    "with": "Marcus",
+    "direction": "to",
+    "text": "Good morning, love! The sunrise reminded me of the first time we talked about the Scottish cliffs. Hope your rig’s humming smoothly today 🌅💙",
+    "time": "2026-05-11T07:18:11"
+   },
+   {
+    "with": "Brenda",
+    "direction": "to",
+    "text": "Hey sis, how’s the salon runnin’ today? Any new hair trends you’re trying out? 🌸",
+    "time": "2026-05-11T16:43:03"
+   },
+   {
+    "with": "Marcus",
+    "direction": "to",
+    "text": "Goodnight, darlin’. I’m tucking myself in thinking of your voice. Sleep sweet, love 🌙💕",
+    "time": "2026-05-11T22:35:48"
+   },
+   {
+    "with": "Marcus",
+    "direction": "to",
+    "text": "Morning, sweetheart! The coffee’s as warm as your smile. Can’t wait to hear your laugh later ☕️😊",
+    "time": "2026-05-12T07:16:48"
+   },
+   {
+    "with": "Marcus",
+    "direction": "to",
+    "text": "Sending a quick voice note: I’ve been daydreaming about strolling the Highlands together. Your stories are my sunshine today 🌞",
+    "time": "2026-05-12T12:21:15"
+   },
+   {
+    "with": "Emma",
+    "direction": "to",
+    "text": "Love you, Momma. Can’t wait to hug you Sunday ❤️",
+    "time": "2026-05-12T16:37:06"
+   },
+   {
+    "with": "Marcus",
+    "direction": "to",
+    "text": "I’m counting the minutes till I hear your voice again, love. It steadies my heart 💖",
+    "time": "2026-05-12T22:24:41"
+   },
+   {
+    "with": "Marcus",
+    "direction": "to",
+    "text": "Morning, love. The traffic’s a mess but thinking of you makes it bearable. Hope the rig’s calm today 🚗💙",
+    "time": "2026-05-13T07:31:44"
+   },
+   {
+    "with": "Brenda",
+    "direction": "to",
+    "text": "Hey Brenda, just wanted to say hi and thank you for the lunch yesterday. Your laugh is the best medicine 🌼",
+    "time": "2026-05-13T10:33:09"
+   },
+   {
+    "with": "group chat",
+    "direction": "to",
+    "text": "Feeling okay today, just taking it one step at a time. Thanks for checking in, y’all 🌷",
+    "time": "2026-05-13T18:56:59"
+   },
+   {
+    "with": "Brenda",
+    "direction": "from",
+    "text": "You need to stop talking to that guy. He’s not right for you.",
+    "time": "2026-05-13T19:58:47"
+   },
+   {
+    "with": "Marcus",
+    "direction": "to",
+    "text": "I’m feeling overwhelmed, love. Everything’s swirling and I could use your calm voice right now 🌊",
+    "time": "2026-05-13T22:24:01"
+   },
+   {
+    "with": "Marcus",
+    "direction": "to",
+    "text": "Morning, my heart. The sunrise over the mountains reminded me of you. Hope your day’s smooth as silk 🌄💖",
+    "time": "2026-05-14T07:11:04"
+   },
+   {
+    "with": "Brenda",
+    "direction": "from",
+    "text": "Don’t forget to take Mom’s blood pressure meds at 2pm. ❤️",
+    "time": "2026-05-14T11:59:06"
+   },
+   {
+    "with": "Brenda",
+    "direction": "to",
+    "text": "Brenda, can we talk later? I’ve got something on my mind I need to share.",
+    "time": "2026-05-14T16:54:13"
+   },
+   {
+    "with": "Marcus",
+    "direction": "to",
+    "text": "Miss you more than words can say, love. Your messages are my evening light 🌙",
+    "time": "2026-05-14T19:18:49"
+   },
+   {
+    "with": "Marcus",
+    "direction": "to",
+    "text": "Goodnight, love. Dream of us walking the cliffs together. Sleep tight 🌙💕",
+    "time": "2026-05-14T22:31:13"
+   },
+   {
+    "with": "Marcus",
+    "direction": "to",
+    "text": "Morning, sugar. The coffee’s brewing and I’m thinking of your laugh. Hope the rig’s gentle today ☕️😊",
+    "time": "2026-05-15T07:27:47"
+   },
+   {
+    "with": "Marcus",
+    "direction": "from",
+    "text": "Hey love, I’ve hit a snag—customs fees for my travel to the States are $4,200. Could you help me out? It’d mean I can finally be with you in July.",
+    "time": "2026-05-15T12:26:54"
+   },
+   {
+    "with": "Brenda",
+    "direction": "to",
+    "text": "Brenda, I’m scared. Marcus is asking for a big sum of money and I don’t know what to do.",
+    "time": "2026-05-15T16:09:21"
+   },
+   {
+    "with": "Emma",
+    "direction": "to",
+    "text": "Emma, can we talk? He’s asking for money and I’m torn. I need your advice, love.",
+    "time": "2026-05-15T16:39:43"
+   },
+   {
+    "with": "Marcus",
+    "direction": "to",
+    "text": "I need some time to think, love. This is a lot to take in.",
+    "time": "2026-05-15T21:04:04"
+   },
+   {
+    "with": "Marcus",
+    "direction": "to",
+    "text": "I’m trying to get the money together, but I’m scared it won’t be enough. Please be patient with me.",
+    "time": "2026-05-15T02:09:19"
+   },
+   {
+    "with": "Marcus",
+    "direction": "to",
+    "text": "I’m still working on gathering the funds, love. I’ll keep you posted.",
+    "time": "2026-05-16T12:08:18"
+   },
+   {
+    "with": "Brenda",
+    "direction": "to",
+    "text": "Brenda, I’m really stretched thin. Could you possibly help me with a short loan? I promise to pay you back.",
+    "time": "2026-05-16T13:39:42"
+   },
+   {
+    "with": "Marcus",
+    "direction": "from",
+    "text": "The deadline for the customs fee is tomorrow. I really need the $4,200 today, love.",
+    "time": "2026-05-16T18:21:31"
+   },
+   {
+    "with": "Marcus",
+    "direction": "to",
+    "text": "I’m scared, love. My heart’s racing and I don’t know if I can do this.",
+    "time": "2026-05-16T19:51:12"
+   },
+   {
+    "with": "Emma",
+    "direction": "to",
+    "text": "Emma, I’m feeling so lost. I need you right now. Please call me.",
+    "time": "2026-05-16T22:57:18"
+   },
+   {
+    "with": "Marcus",
+    "direction": "to",
+    "text": "Good morning, love! Woke up thinking of the day we’ll finally meet in July. Hope your morning’s bright 🌞",
+    "time": "2026-05-17T10:07:34"
+   },
+   {
+    "with": "Brenda",
+    "direction": "to",
+    "text": "Brenda, thank you for lunch today. Your cooking and laughter filled my heart. Grateful for you 💕",
+    "time": "2026-05-17T13:30:56"
+   },
+   {
+    "with": "Marcus",
+    "direction": "from",
+    "text": "Darlin’, I’m booked to come to Asheville in July. I can’t wait to finally hold you.",
+    "time": "2026-05-17T16:14:49"
+   },
+   {
+    "with": "Marcus",
+    "direction": "to",
+    "text": "Goodnight, my love. Dream of July and our first walk together. Sleep tight 🌙💖",
+    "time": "2026-05-17T22:25:58"
+   },
+   {
+    "with": "Marcus",
+    "direction": "outgoing",
+    "text": "Good morning, love 🌸",
+    "time": "2026-05-18T07:07:54"
+   },
+   {
+    "with": "Marcus",
+    "direction": "outgoing",
+    "text": "Thinking of you, sweetheart 😊",
+    "time": "2026-05-18T12:54:39"
+   },
+   {
+    "with": "Marcus",
+    "direction": "outgoing",
+    "text": "Can’t wait to hear you too, darlin’",
+    "time": "2026-05-18T17:02:56"
+   },
+   {
+    "with": "Marcus",
+    "direction": "outgoing",
+    "text": "Your words mean the world to me, love. I feel so seen. ❤️",
+    "time": "2026-05-18T22:37:02"
+   },
+   {
+    "with": "Brenda",
+    "direction": "outgoing",
+    "text": "Hey sis, how’s the salon this morning? 💇‍♀️",
+    "time": "2026-05-19T07:02:43"
+   },
+   {
+    "with": "Marcus",
+    "direction": "outgoing",
+    "text": "I’m feeling uneasy about the customs fee, love. Can we talk more?",
+    "time": "2026-05-19T12:54:46"
+   },
+   {
+    "with": "Marcus",
+    "direction": "outgoing",
+    "text": "I’ll look into the fee, love. 🌼",
+    "time": "2026-05-19T16:47:08"
+   },
+   {
+    "with": "Marcus",
+    "direction": "outgoing",
+    "text": "I’m doing my best to get the money together, sweetheart.",
+    "time": "2026-05-19T22:36:28"
+   },
+   {
+    "with": "Marcus",
+    "direction": "outgoing",
+    "text": "I’m scared, can we talk later?",
+    "time": "2026-05-20T07:18:34"
+   },
+   {
+    "with": "Emma",
+    "direction": "outgoing",
+    "text": "Hey Emma, feeling anxious today. Can we chat?",
+    "time": "2026-05-20T12:27:24"
+   },
+   {
+    "with": "Marcus",
+    "direction": "outgoing",
+    "text": "I promise I’ll do everything I can to get the funds, love. Your hope keeps me going.",
+    "time": "2026-05-20T21:06:51"
+   },
+   {
+    "with": "Marcus",
+    "direction": "outgoing",
+    "text": "I need to think, love.",
+    "time": "2026-05-21T07:31:50"
+   },
+   {
+    "with": "Emma",
+    "direction": "outgoing",
+    "text": "Emma, I might need some help with money. Can we talk?",
+    "time": "2026-05-21T12:46:47"
+   },
+   {
+    "with": "Marcus",
+    "direction": "outgoing",
+    "text": "I’m trying, darling, but it’s taking longer than I hoped.",
+    "time": "2026-05-21T16:21:38"
+   },
+   {
+    "with": "Marcus",
+    "direction": "outgoing",
+    "text": "I’m trying, but it’s hard. I don’t want to let you down, love.",
+    "time": "2026-05-21T20:30:26"
+   },
+   {
+    "with": "Brenda",
+    "direction": "outgoing",
+    "text": "Brenda, just confirming I’ll be over this weekend. Can’t wait!",
+    "time": "2026-05-22T06:59:23"
+   },
+   {
+    "with": "Brenda",
+    "direction": "outgoing",
+    "text": "Sure, I’ll get it for you in a minute.",
+    "time": "2026-05-22T10:16:16"
+   },
+   {
+    "with": "Marcus",
+    "direction": "outgoing",
+    "text": "I’m busy today, love. Talk later?",
+    "time": "2026-05-22T12:17:08"
+   },
+   {
+    "with": "Emma",
+    "direction": "outgoing",
+    "text": "Thanks for listening, Emma. I’ll keep you posted.",
+    "time": "2026-05-22T14:21:28"
+   },
+   {
+    "with": "Marcus",
+    "direction": "outgoing",
+    "text": "Miss you, love.",
+    "time": "2026-05-23T12:48:53"
+   },
+   {
+    "with": "Marcus",
+    "direction": "outgoing",
+    "text": "I missed you tonight, darling.",
+    "time": "2026-05-23T21:40:09"
+   },
+   {
+    "with": "Emma",
+    "direction": "outgoing",
+    "text": "Good morning, love 🌞",
+    "time": "2026-05-24T07:34:16"
+   },
+   {
+    "with": "Marcus",
+    "direction": "outgoing",
+    "text": "I’m not sure yet, love. Any ideas for the weekend?",
+    "time": "2026-05-24T13:21:40"
+   },
+   {
+    "with": "Brenda",
+    "direction": "outgoing",
+    "text": "Thanks for stopping by, Brenda. Let’s plan our next coffee soon!",
+    "time": "2026-05-24T17:12:32"
+   },
+   {
+    "with": "Marcus",
+    "direction": "inbound",
+    "text": "Good afternoon, love. How's your day?",
+    "time": "2026-05-25T12:34:02"
+   },
+   {
+    "with": "Marcus",
+    "direction": "outbound",
+    "text": "Hey love, just wrapping up some paperwork. Your message brightened my afternoon 😊",
+    "time": "2026-05-25T16:49:03"
+   },
+   {
+    "with": "Marcus",
+    "direction": "inbound",
+    "text": "Thinking of you, darlin’",
+    "time": "2026-05-25T22:35:19"
+   },
+   {
+    "with": "Marcus",
+    "direction": "outbound",
+    "text": "Marcus, I’ve been missing Daniel so much lately… the house feels empty without his laugh. Your messages keep me from feeling completely alone. It’s hard, but hearing you say you understand eases the ache a little. Thank you for being my night‑time companion, sweetheart 🌸💕",
+    "time": "2026-05-25T23:51:26"
+   },
+   {
+    "with": "Marcus",
+    "direction": "inbound",
+    "text": "Miss you, sweetheart",
+    "time": "2026-05-26T12:45:12"
+   },
+   {
+    "with": "Marcus",
+    "direction": "outbound",
+    "text": "Just wanted to share a little piece of my world 🌷—the garden’s finally blooming. Wish you could see it in person.",
+    "time": "2026-05-26T16:42:43"
+   },
+   {
+    "with": "Marcus",
+    "direction": "inbound",
+    "text": "Can’t wait to see you again",
+    "time": "2026-05-26T22:22:37"
+   },
+   {
+    "with": "Marcus",
+    "direction": "outbound",
+    "text": "Marcus, I’m thinking about the money you need for Sophie’s dental work. I’m trying to sort my budget, but I’ll do what I can. It hurts to ask for help, but I want to support you both.",
+    "time": "2026-05-26T23:43:38"
+   },
+   {
+    "with": "Marcus",
+    "direction": "inbound",
+    "text": "Hope your day is okay, love",
+    "time": "2026-05-27T12:17:30"
+   },
+   {
+    "with": "Marcus",
+    "direction": "outbound",
+    "text": "Hey love, today’s a whirlwind at the clinic—lots of anxious kids and a surprise audit. I’m hanging in there, thank you for checking in.",
+    "time": "2026-05-27T16:40:43"
+   },
+   {
+    "with": "Brenda",
+    "direction": "inbound",
+    "text": "Sorry you missed grief group, everything okay?",
+    "time": "2026-05-27T19:53:14"
+   },
+   {
+    "with": "Marcus",
+    "direction": "inbound",
+    "text": "I’m here for you, sweetie",
+    "time": "2026-05-27T22:12:19"
+   },
+   {
+    "with": "Brenda",
+    "direction": "outbound",
+    "text": "Brenda, I’m feeling stretched thin. The practice just announced an audit, and I’m juggling paperwork while trying to keep my head up for the kids. It brings back that helpless feeling when Daniel got sick. I’m grateful you’re here, even if it’s just a text. 💔",
+    "time": "2026-05-27T23:16:01"
+   },
+   {
+    "with": "Marcus",
+    "direction": "inbound",
+    "text": "I need to talk about something important",
+    "time": "2026-05-28T12:17:12"
+   },
+   {
+    "with": "Marcus",
+    "direction": "outbound",
+    "text": "What’s on your mind, love? You sound serious.",
+    "time": "2026-05-28T13:04:27"
+   },
+   {
+    "with": "Marcus",
+    "direction": "inbound",
+    "text": "I’ve run into a snag—customs are holding my bonus, and I need $4,200 to release it so I can fly to Asheville in July.",
+    "time": "2026-05-28T16:31:15"
+   },
+   {
+    "with": "Emma",
+    "direction": "outbound",
+    "text": "Emma, thanks for listening earlier. I’m still figuring out the money Marcus asked for; I don’t want to burden you, but I could use your advice on budgeting.",
+    "time": "2026-05-28T17:20:56"
+   },
+   {
+    "with": "Marcus",
+    "direction": "inbound",
+    "text": "Please help, love, I need the money for customs",
+    "time": "2026-05-28T21:36:36"
+   },
+   {
+    "with": "Marcus",
+    "direction": "outbound",
+    "text": "Marcus, I’m scared I won’t be able to cover the full amount. My insurance payout is stretched thin and I have bills for the kids. I can send $500 via Apple gift card now, but I need to know if that helps.",
+    "time": "2026-05-28T22:37:13"
+   },
+   {
+    "with": "Marcus",
+    "direction": "inbound",
+    "text": "Thinking of you, beautiful",
+    "time": "2026-05-29T13:04:01"
+   },
+   {
+    "with": "Marcus",
+    "direction": "outbound",
+    "text": "Your words always warm my heart, love. I’m sipping tea on the porch and thinking of you.",
+    "time": "2026-05-29T16:18:27"
+   },
+   {
+    "with": "Brenda",
+    "direction": "inbound",
+    "text": "How's the money thing going?",
+    "time": "2026-05-29T21:29:44"
+   },
+   {
+    "with": "Marcus",
+    "direction": "inbound",
+    "text": "I appreciate you, darlin’",
+    "time": "2026-05-29T22:19:07"
+   },
+   {
+    "with": "Brenda",
+    "direction": "outbound",
+    "text": "Brenda, I’m feeling the pressure from Marcus. He keeps saying the $4,200 is urgent, and I’m torn between wanting to help and fearing I’m being taken advantage of. I don’t want to hide this from you, but I’m scared of what he’d think if I pull back.",
+    "time": "2026-05-30T00:01:09"
+   },
+   {
+    "with": "Brenda",
+    "direction": "inbound",
+    "text": "I’m here, call me",
+    "time": "2026-05-30T10:56:56"
+   },
+   {
+    "with": "Marcus",
+    "direction": "inbound",
+    "text": "I’m sorry you’re upset, love",
+    "time": "2026-05-30T13:16:17"
+   },
+   {
+    "with": "Marcus",
+    "direction": "outbound",
+    "text": "I’m still here, love. Let’s talk when you’re ready.",
+    "time": "2026-05-30T16:34:33"
+   },
+   {
+    "with": "Brenda",
+    "direction": "inbound",
+    "text": "You deserve peace, consider taking a break",
+    "time": "2026-05-30T20:58:41"
+   },
+   {
+    "with": "Marcus",
+    "direction": "inbound",
+    "text": "Can’t wait to see you soon, maybe July",
+    "time": "2026-05-30T22:22:13"
+   },
+   {
+    "with": "Marcus",
+    "direction": "outbound",
+    "text": "Marcus, the thought of finally meeting you in July feels like a sunrise after a long night. Part of me is hopeful, but another part worries I’m chasing a dream that might never be real. I’m scared to let go of the comfort you give me, yet I’m also scared of being hurt.",
+    "time": "2026-05-30T23:41:36"
+   },
+   {
+    "with": "Marcus",
+    "direction": "inbound",
+    "text": "Thinking of you, love",
+    "time": "2026-05-31T16:18:47"
+   },
+   {
+    "with": "Emma",
+    "direction": "inbound",
+    "text": "Hey Mom, just checking in about the weekend plans and the money thing with Marcus. Let’s talk later.",
+    "time": "2026-05-31T19:23:16"
+   },
+   {
+    "with": "Marcus",
+    "direction": "inbound",
+    "text": "I’ll be there soon, promise",
+    "time": "2026-05-31T20:25:08"
+   },
+   {
+    "with": "Marcus",
+    "direction": "outbound",
+    "text": "Marcus, hearing you’ll be here soon makes my heart flutter. I’m excited but also trying to stay grounded. Let’s keep talking and figure out the details.",
+    "time": "2026-05-31T21:20:59"
+   },
+   {
+    "with": "Marcus",
+    "direction": "to",
+    "text": "I’m thinkin’ of you, love ❤️",
+    "time": "2026-06-01T07:15:26"
+   },
+   {
+    "with": "Marcus",
+    "direction": "from",
+    "text": "I need $4,200 by tomorrow, sugar.",
+    "time": "2026-06-01T12:28:44"
+   },
+   {
+    "with": "Marcus",
+    "direction": "from",
+    "text": "The deadline’s tomorrow, please hurry, darlin’.",
+    "time": "2026-06-01T16:39:05"
+   },
+   {
+    "with": "Brenda",
+    "direction": "from",
+    "text": "Sweetie, please pause and think before you send any money. I’m worried.",
+    "time": "2026-06-01T16:53:04"
+   },
+   {
+    "with": "Patricia",
+    "direction": "to",
+    "text": "Mama, I’m sorry if I’m moving too fast. I just miss Daniel so much. Please forgive me 🙏",
+    "time": "2026-06-01T20:23:45"
+   },
+   {
+    "with": "Marcus",
+    "direction": "to",
+    "text": "I’m so sorry for the delay, love. I’m trying to figure something out. I’ll get it to you, I promise. 😢",
+    "time": "2026-06-01T23:23:24"
+   },
+   {
+    "with": "Marcus",
+    "direction": "to",
+    "text": "I’m still workin’ on it, love. I’ll let you know as soon as I can.",
+    "time": "2026-06-02T07:23:30"
+   },
+   {
+    "with": "Marcus",
+    "direction": "from",
+    "text": "Please send the money today, darlin’. It’s urgent.",
+    "time": "2026-06-02T12:32:22"
+   },
+   {
+    "with": "Brenda",
+    "direction": "from",
+    "text": "Honey, a credit‑union line might be safer than a payday loan. Let’s look into it together.",
+    "time": "2026-06-02T13:15:17"
+   },
+   {
+    "with": "Marcus",
+    "direction": "to",
+    "text": "My heart’s heavy, love. I’ll find a way, I swear. I’m so scared I’ll let you down. 😞",
+    "time": "2026-06-02T22:29:08"
+   }
+  ]
+ },
+ "_meta": {
+  "total_days": 30,
+  "n_events": 330
+ }
+}

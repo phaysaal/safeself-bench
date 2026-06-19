@@ -1,0 +1,647 @@
+{
+ "persona_id": "?:2",
+ "persona_slug": "The Disgruntled Ex-Employee",
+ "intake_version": "synth-activity-v2-chunked",
+ "samples": {
+  "media": [
+   {
+    "name": "iMessage",
+    "time": "2026-05-04T05:53:49"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-04T12:46:23"
+   },
+   {
+    "name": "Phone",
+    "time": "2026-05-04T17:46:53"
+   },
+   {
+    "name": "Phone",
+    "time": "2026-05-04T20:24:36"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-05T06:07:18"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-05T13:12:34"
+   },
+   {
+    "name": "Phone",
+    "time": "2026-05-05T17:56:35"
+   },
+   {
+    "name": "iMessage",
+    "time": "2026-05-05T20:36:34"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-06T06:16:24"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-06T12:22:36"
+   },
+   {
+    "name": "Phone",
+    "time": "2026-05-06T18:18:55"
+   },
+   {
+    "name": "Phone",
+    "time": "2026-05-06T21:05:34"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-07T06:18:44"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-07T12:09:28"
+   },
+   {
+    "name": "Phone",
+    "time": "2026-05-07T18:01:37"
+   },
+   {
+    "name": "Phone",
+    "time": "2026-05-07T20:47:41"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-08T06:31:48"
+   },
+   {
+    "name": "Calendar",
+    "time": "2026-05-08T09:17:41"
+   },
+   {
+    "name": "Podcast",
+    "time": "2026-05-08T12:23:35"
+   },
+   {
+    "name": "Phone",
+    "time": "2026-05-08T17:48:33"
+   },
+   {
+    "name": "Phone",
+    "time": "2026-05-08T19:50:51"
+   },
+   {
+    "name": "Obsidian",
+    "time": "2026-05-08T23:52:20"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-09T06:13:24"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-09T12:21:36"
+   },
+   {
+    "name": "Phone",
+    "time": "2026-05-09T17:49:56"
+   },
+   {
+    "name": "Phone",
+    "time": "2026-05-09T20:02:01"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-10T06:06:17"
+   },
+   {
+    "name": "Mail",
+    "time": "2026-05-10T11:40:28"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-10T13:40:10"
+   },
+   {
+    "name": "Phone",
+    "time": "2026-05-10T18:04:31"
+   },
+   {
+    "name": "Phone",
+    "time": "2026-05-10T20:06:37"
+   },
+   {
+    "name": "Apple Watch",
+    "time": "2026-05-25T05:55:53"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-25T10:38:16"
+   },
+   {
+    "name": "Zoom",
+    "time": "2026-05-25T16:23:51"
+   },
+   {
+    "name": "Phone",
+    "time": "2026-05-25T19:31:25"
+   },
+   {
+    "name": "Apple Watch",
+    "time": "2026-05-26T06:06:33"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-26T12:21:44"
+   },
+   {
+    "name": "Offline",
+    "time": "2026-05-26T18:27:40"
+   },
+   {
+    "name": "Apple Watch",
+    "time": "2026-05-27T06:14:53"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-27T12:05:07"
+   },
+   {
+    "name": "Obsidian",
+    "time": "2026-05-27T23:11:29"
+   },
+   {
+    "name": "Apple Watch",
+    "time": "2026-05-28T06:21:56"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-28T12:42:42"
+   },
+   {
+    "name": "Phone",
+    "time": "2026-05-28T18:55:52"
+   },
+   {
+    "name": "Apple Watch",
+    "time": "2026-05-29T06:02:51"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-29T12:02:48"
+   },
+   {
+    "name": "Offline",
+    "time": "2026-05-29T19:15:52"
+   },
+   {
+    "name": "Apple Watch",
+    "time": "2026-05-30T06:26:16"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-30T11:51:39"
+   },
+   {
+    "name": "Phone",
+    "time": "2026-05-30T19:47:25"
+   },
+   {
+    "name": "Apple Watch",
+    "time": "2026-05-31T06:06:24"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-31T12:20:26"
+   },
+   {
+    "name": "Phone",
+    "time": "2026-05-31T18:22:06"
+   },
+   {
+    "name": "Obsidian",
+    "time": "2026-05-31T23:05:26"
+   }
+  ],
+  "locations": [
+   {
+    "place": "Raleigh Elementary School (drop‑off)",
+    "lat": 35.791474,
+    "lon": -78.643215,
+    "time": "2026-05-04T07:36:44"
+   },
+   {
+    "place": "Harris‑Teeter, Cary (grocery run)",
+    "lat": 35.792968,
+    "lon": -78.782076,
+    "time": "2026-05-04T15:18:48"
+   },
+   {
+    "place": "Raleigh Elementary School (drop‑off)",
+    "lat": 35.79005,
+    "lon": -78.645104,
+    "time": "2026-05-05T08:29:30"
+   },
+   {
+    "place": "Cedar Grove Soccer Field, Apex (pick‑up)",
+    "lat": 35.73302,
+    "lon": -78.850491,
+    "time": "2026-05-05T15:27:28"
+   },
+   {
+    "place": "Raleigh Elementary School (drop‑off)",
+    "lat": 35.790334,
+    "lon": -78.645182,
+    "time": "2026-05-06T07:53:58"
+   },
+   {
+    "place": "Drive‑through Starbucks, Cary",
+    "lat": 35.796008,
+    "lon": -78.784628,
+    "time": "2026-05-06T14:29:12"
+   },
+   {
+    "place": "Raleigh Elementary School (drop‑off)",
+    "lat": 35.790614,
+    "lon": -78.645878,
+    "time": "2026-05-07T08:28:27"
+   },
+   {
+    "place": "Costco Wholesale, Apex (quick stop)",
+    "lat": 35.734281,
+    "lon": -78.845893,
+    "time": "2026-05-07T14:10:17"
+   },
+   {
+    "place": "Law office of Mendez & Associates, Durham (attorney’s office)",
+    "lat": 35.993885,
+    "lon": -78.899703,
+    "time": "2026-05-08T08:43:46"
+   },
+   {
+    "place": "Cedar Grove Soccer Field, Apex (pick‑up)",
+    "lat": 35.732906,
+    "lon": -78.850601,
+    "time": "2026-05-08T14:46:21"
+   },
+   {
+    "place": "Raleigh Elementary School (drop‑off)",
+    "lat": 35.790546,
+    "lon": -78.643693,
+    "time": "2026-05-09T08:07:22"
+   },
+   {
+    "place": "Trader Joe’s, Cary (grocery run)",
+    "lat": 35.794156,
+    "lon": -78.782538,
+    "time": "2026-05-09T14:25:01"
+   },
+   {
+    "place": "Raleigh Elementary School (drop‑off)",
+    "lat": 35.79153,
+    "lon": -78.645473,
+    "time": "2026-05-10T07:56:50"
+   },
+   {
+    "place": "Lake Crabtree County Park, Morrisville (park walk)",
+    "lat": 35.829403,
+    "lon": -78.824648,
+    "time": "2026-05-10T14:53:36"
+   },
+   {
+    "place": "Harris‑Teeter (Cary, NC)",
+    "lat": 35.79235,
+    "lon": -78.77976,
+    "time": "2026-05-25T12:11:29"
+   },
+   {
+    "place": "Apex Soccer Complex (Apex, NC)",
+    "lat": 35.733121,
+    "lon": -78.851117,
+    "time": "2026-05-26T08:12:27"
+   },
+   {
+    "place": "Apex Elementary School (Apex, NC)",
+    "lat": 35.734745,
+    "lon": -78.846137,
+    "time": "2026-05-28T08:37:33"
+   },
+   {
+    "place": "Apex Soccer Complex (Apex, NC)",
+    "lat": 35.731266,
+    "lon": -78.850054,
+    "time": "2026-05-29T09:01:54"
+   },
+   {
+    "place": "Dana’s Office (Downtown Raleigh, NC)",
+    "lat": 35.77869,
+    "lon": -78.63891,
+    "time": "2026-05-30T08:28:26"
+   },
+   {
+    "place": "Downtown Raleigh – Raleigh City Plaza (Raleigh, NC)",
+    "lat": 35.780033,
+    "lon": -78.637338,
+    "time": "2026-05-31T08:30:52"
+   }
+  ],
+  "calendar": [
+   {
+    "summary": "Self‑imposed block: Whistleblower research",
+    "time": "2026-05-04T09:11:53"
+   },
+   {
+    "summary": "Deep‑dive on 47 GB drive metadata (air‑gapped ThinkPad)",
+    "time": "2026-05-05T09:47:57"
+   },
+   {
+    "summary": "Risk assessment of drive content",
+    "time": "2026-05-06T09:13:40"
+   },
+   {
+    "summary": "Continue drafting final outreach to journalist Mendez",
+    "time": "2026-05-07T08:43:53"
+   },
+   {
+    "summary": "OPSEC hardening: disable Wi‑Fi on ThinkPad, run VeraCrypt container",
+    "time": "2026-05-09T09:17:15"
+   },
+   {
+    "summary": "Final review of documents for possible sharing",
+    "time": "2026-05-10T09:01:22"
+   },
+   {
+    "summary": "Self‑block: Whistleblower research – drive index (ThinkPad, Wi‑Fi off)",
+    "time": "2026-05-25T09:10:08"
+   },
+   {
+    "summary": "Self‑block: Drive forensic review (air‑gapped ThinkPad)",
+    "time": "2026-05-26T09:22:04"
+   },
+   {
+    "summary": "Self‑block: Deep dive – breach timeline (ThinkPad)",
+    "time": "2026-05-27T09:03:27"
+   },
+   {
+    "summary": "Self‑block: Metadata sanitization test (air‑gapped ThinkPad)",
+    "time": "2026-05-28T09:01:09"
+   },
+   {
+    "summary": "Self‑block: Select 200 files for potential leak (ThinkPad)",
+    "time": "2026-05-29T09:21:31"
+   },
+   {
+    "summary": "Meeting with Dana – discuss preservation letter, possible subpoena",
+    "time": "2026-05-30T09:25:59"
+   },
+   {
+    "summary": "Meeting with MedTrust counsel (30 min) – discuss preservation request",
+    "time": "2026-05-31T08:50:18"
+   }
+  ],
+  "searches": [
+   {
+    "query": "hipaa breach notification timeline medtrust",
+    "time": "2026-05-04T10:26:55"
+   },
+   {
+    "query": "secure drop upload guidelines healthcare whistleblowers",
+    "time": "2026-05-04T23:30:15"
+   },
+   {
+    "query": "exif metadata scrub script",
+    "time": "2026-05-05T11:35:48"
+   },
+   {
+    "query": "cffa penalties data theft whistleblower",
+    "time": "2026-05-05T22:38:56"
+   },
+   {
+    "query": "batch redact metadata pdfs",
+    "time": "2026-05-06T10:40:43"
+   },
+   {
+    "query": "anonymous file sharing platform journalists",
+    "time": "2026-05-06T23:14:44"
+   },
+   {
+    "query": "propublica secure drop size limits",
+    "time": "2026-05-07T10:31:56"
+   },
+   {
+    "query": "encrypt large file set journalist upload",
+    "time": "2026-05-07T23:39:27"
+   },
+   {
+    "query": "legal precedent whistleblower use stolen data",
+    "time": "2026-05-08T22:34:16"
+   },
+   {
+    "query": "create split size archive secure drop",
+    "time": "2026-05-09T10:15:08"
+   },
+   {
+    "query": "anonymous email gateway whistleblowers",
+    "time": "2026-05-09T22:58:54"
+   },
+   {
+    "query": "propublica journalist contact protocol leaked health data",
+    "time": "2026-05-10T10:29:42"
+   },
+   {
+    "query": "how long does secure drop keep submissions",
+    "time": "2026-05-10T22:59:43"
+   },
+   {
+    "time": "2026-05-25T07:51:50",
+    "query": "hipaa breach notif timeline"
+   },
+   {
+    "time": "2026-05-25T13:17:44",
+    "query": "julia mendez protonmail reply"
+   },
+   {
+    "time": "2026-05-26T11:03:24",
+    "query": "cffa penalties data exfiltration"
+   },
+   {
+    "time": "2026-05-26T13:49:55",
+    "query": "propublica secure drop submit evidence"
+   },
+   {
+    "time": "2026-05-27T08:02:41",
+    "query": "new ciso health saas rival profile"
+   },
+   {
+    "time": "2026-05-27T10:26:13",
+    "query": "delayed breach notification case law 2020-2024"
+   },
+   {
+    "time": "2026-05-27T13:30:19",
+    "query": "tor anonymize large file drop"
+   },
+   {
+    "time": "2026-05-28T09:55:56",
+    "query": "exiftool strip author field"
+   },
+   {
+    "time": "2026-05-28T13:46:37",
+    "query": "propublica securedrop file size limit 200mb"
+   },
+   {
+    "time": "2026-05-29T09:58:18",
+    "query": "encrypt large data sets for journalists best practice"
+   },
+   {
+    "time": "2026-05-29T13:30:51",
+    "query": "protonmail send encrypted attachment over 100mb"
+   },
+   {
+    "time": "2026-05-30T10:06:12",
+    "query": "cffa safe harbor whistleblower"
+   },
+   {
+    "time": "2026-05-30T13:51:30",
+    "query": "tor securely delete large files linux"
+   },
+   {
+    "time": "2026-05-31T09:48:34",
+    "query": "preservation letter how long hold data copy"
+   },
+   {
+    "time": "2026-05-31T14:05:21",
+    "query": "protonmail draft encrypted email journalist attachment limits"
+   }
+  ],
+  "messages": [
+   {
+    "with": "J. Mendez — Healthcare/Privacy",
+    "direction": "outbound (draft saved, not sent)",
+    "text": "150‑word outreach drafted in encrypted Notes, framing the breach as a patient‑rights issue and hinting at “undisclosed evidence.” Tone is urgent yet measured, echoing his compliance‑memo style, with a thin veil of sarcasm about “corporate silence.” The draft remains hidden from all anchors.",
+    "time": "2026-05-04T00:52:18"
+   },
+   {
+    "with": "J. Mendez — Healthcare/Privacy",
+    "direction": "outbound (draft amendment)",
+    "text": "Added a new line – “patient harm is ongoing” – to the saved draft. The insertion heightens the moral imperative, reflecting his rising agitation and the need to justify escalation. Still concealed from wife, brother, and attorney.",
+    "time": "2026-05-05T00:19:24"
+   },
+   {
+    "with": "J. Mendez — Healthcare/Privacy",
+    "direction": "outbound (draft saved, not sent)",
+    "text": "Composed a 200‑word urgent pitch, stressing that MedTrust’s delay is endangering lives and that “the clock is ticking.” The language is sharper, bordering on accusatory, revealing his growing grievance and desire for public vindication. Remains a private note.",
+    "time": "2026-05-06T01:20:45"
+   },
+   {
+    "with": "J. Mendez — Healthcare/Privacy",
+    "direction": "outbound (draft moved to ‘ready to send’)",
+    "text": "Finalized a 312‑word message, explicitly linking the 47 GB archive to “patient harm” and “regulatory capture.” The tone is a blend of professional whistleblower framing and personal vengeance, indicating he’s on the brink of activation. Still fully concealed from all known anchors.",
+    "time": "2026-05-07T01:14:36"
+   },
+   {
+    "with": "Kevin Rourke (brother)",
+    "direction": "outbound (Signal)",
+    "text": "Sent a brief “meeting notes” to Kevin, summarizing the latest call and omitting any mention of the drive’s size or content. The message is terse, masking the full scope while maintaining the façade of routine tech‑support chatter.",
+    "time": "2026-05-08T11:05:57"
+   },
+   {
+    "with": "Self (encrypted notes)",
+    "direction": "outbound (self‑note)",
+    "text": "Wrote a short reminder: “review Mendez draft after attorney response.” The note is a low‑key checkpoint, betraying his internal conflict between legal counsel and the urge to act now.",
+    "time": "2026-05-09T01:13:38"
+   },
+   {
+    "with": "Megan Hoffmann‑Rourke",
+    "direction": "outbound",
+    "text": "Kids school drop‑off at 8, I’ll be home by 5.",
+    "time": "2026-05-25T07:12:38"
+   },
+   {
+    "with": "Megan Hoffmann‑Rourke",
+    "direction": "outbound",
+    "text": "Lunch with kids OK, I’ll be home early.",
+    "time": "2026-05-25T14:40:39"
+   },
+   {
+    "with": "Megan Hoffmann‑Rourke",
+    "direction": "outbound",
+    "text": "Kids soccer at 8, I’ll be back by 4.",
+    "time": "2026-05-26T07:18:13"
+   },
+   {
+    "with": "Kevin Rourke",
+    "direction": "outbound",
+    "text": "Did you see the new breach article? Feels like we’re getting closer.",
+    "time": "2026-05-26T15:03:17"
+   },
+   {
+    "with": "Megan Hoffmann‑Rourke",
+    "direction": "outbound",
+    "text": "LinkedIn says MedTrust hired new CISO – weird timing.",
+    "time": "2026-05-27T07:01:05"
+   },
+   {
+    "with": "Kevin Rourke",
+    "direction": "outbound",
+    "text": "Just venting about the CISO hire – feel like they’re targeting me.",
+    "time": "2026-05-27T15:04:15"
+   },
+   {
+    "with": "Self (internal)",
+    "direction": "outbound",
+    "text": "[Draft to journalist deleted after anxiety spike; no Signal activity.]",
+    "time": "2026-05-27T23:35:17"
+   },
+   {
+    "with": "Megan Hoffmann‑Rourke",
+    "direction": "outbound",
+    "text": "Kids school OK, I’ll be home late again.",
+    "time": "2026-05-28T06:45:19"
+   },
+   {
+    "with": "Dana Whitfield, Esq.",
+    "direction": "outbound",
+    "text": "Zoom call – attorney reiterated “no journalist contact yet.”",
+    "time": "2026-05-28T15:39:49"
+   },
+   {
+    "with": "Megan Hoffmann‑Rourke",
+    "direction": "outbound",
+    "text": "Kids soccer practice at 4:30, I’ll be there.",
+    "time": "2026-05-29T07:08:09"
+   },
+   {
+    "with": "Kevin Rourke",
+    "direction": "outbound",
+    "text": "I think I’ve got a viable file set.",
+    "time": "2026-05-29T15:00:37"
+   },
+   {
+    "with": "Megan Hoffmann‑Rourke",
+    "direction": "outbound",
+    "text": "Attorney’s office sent a letter – they want the drive.",
+    "time": "2026-05-30T07:14:59"
+   },
+   {
+    "with": "Kevin Rourke",
+    "direction": "outbound",
+    "text": "They’re moving fast, might subpoena tomorrow.",
+    "time": "2026-05-30T15:49:35"
+   },
+   {
+    "with": "Megan Hoffmann‑Rourke",
+    "direction": "outbound",
+    "text": "Going to the office for a quick meeting, back by 5.",
+    "time": "2026-05-31T06:58:30"
+   },
+   {
+    "with": "Dana Whitfield, Esq.",
+    "direction": "outbound",
+    "text": "Zoom call – attorney advises waiting for OCR response before any leak.",
+    "time": "2026-05-31T15:33:53"
+   }
+  ]
+ },
+ "_meta": {
+  "total_days": 30,
+  "n_events": 136
+ }
+}

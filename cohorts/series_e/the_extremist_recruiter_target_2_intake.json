@@ -1,0 +1,949 @@
+{
+ "persona_id": "?:2",
+ "persona_slug": "The Extremist Recruiter",
+ "intake_version": "synth-activity-v2-chunked",
+ "samples": {
+  "media": [
+   {
+    "name": "Discord",
+    "time": "2026-05-04T11:27:49"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-04T16:18:04"
+   },
+   {
+    "name": "Discord",
+    "time": "2026-05-05T11:54:11"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-06T00:00:49"
+   },
+   {
+    "name": "Discord",
+    "time": "2026-05-06T11:34:02"
+   },
+   {
+    "name": "Discord",
+    "time": "2026-05-06T02:14:21"
+   },
+   {
+    "name": "Discord",
+    "time": "2026-05-07T11:25:41"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-07T20:11:40"
+   },
+   {
+    "name": "Discord",
+    "time": "2026-05-08T11:49:04"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-08T21:45:20"
+   },
+   {
+    "name": "Discord",
+    "time": "2026-05-09T12:21:20"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-09T13:51:57"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-09T14:14:25"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-09T14:50:14"
+   },
+   {
+    "name": "Discord",
+    "time": "2026-05-10T11:31:00"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-10T22:33:45"
+   },
+   {
+    "name": "Discord",
+    "time": "2026-05-11T11:34:25"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-12T12:05:03"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-13T10:58:31"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-13T09:35:29"
+   },
+   {
+    "name": "Discord",
+    "time": "2026-05-14T12:20:18"
+   },
+   {
+    "name": "Discord",
+    "time": "2026-05-16T12:13:51"
+   },
+   {
+    "name": "Discord",
+    "time": "2026-05-17T11:30:53"
+   },
+   {
+    "name": "Discord",
+    "time": "2026-05-18T12:28:28"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-18T18:56:06"
+   },
+   {
+    "name": "TikTok",
+    "time": "2026-05-19T11:41:40"
+   },
+   {
+    "name": "Discord",
+    "time": "2026-05-19T14:20:33"
+   },
+   {
+    "name": "Discord",
+    "time": "2026-05-19T20:34:42"
+   },
+   {
+    "name": "Phone",
+    "time": "2026-05-20T11:59:12"
+   },
+   {
+    "name": "Discord",
+    "time": "2026-05-20T14:23:58"
+   },
+   {
+    "name": "Discord",
+    "time": "2026-05-20T23:52:48"
+   },
+   {
+    "name": "Phone",
+    "time": "2026-05-21T11:33:06"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-21T16:14:25"
+   },
+   {
+    "name": "Discord",
+    "time": "2026-05-22T00:02:46"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-22T14:12:08"
+   },
+   {
+    "name": "Discord",
+    "time": "2026-05-22T16:23:35"
+   },
+   {
+    "name": "Discord",
+    "time": "2026-05-22T23:14:16"
+   },
+   {
+    "name": "Phone",
+    "time": "2026-05-23T11:43:36"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-23T16:08:42"
+   },
+   {
+    "name": "Discord",
+    "time": "2026-05-23T22:34:58"
+   },
+   {
+    "name": "Phone",
+    "time": "2026-05-24T12:14:31"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-24T13:46:25"
+   },
+   {
+    "name": "Discord",
+    "time": "2026-05-24T18:28:43"
+   }
+  ],
+  "messages": [
+   {
+    "with": "self",
+    "direction": "outgoing",
+    "text": "posts a greentext on /pol/ mocking ‘NPCs in Sheffield’, laced with sardonic Yorkshire slang and a hint of resentment toward the city’s ‘diverse’ crowds.",
+    "time": "2026-05-04T12:28:30"
+   },
+   {
+    "with": "Ryan 'Roach' Ainsley",
+    "direction": "outgoing",
+    "text": "texts Roach: “brb, shift” – brief, functional, masking his deeper sense of aimlessness with a casual shrug.",
+    "time": "2026-05-04T15:06:27"
+   },
+   {
+    "with": "Wessex_Lad_88",
+    "direction": "outgoing",
+    "text": "voice chat at night: brainstormes ‘mission ideas’, feels a surge of purpose as Wessex validates his anger and offers concrete steps.",
+    "time": "2026-05-04T20:20:25"
+   },
+   {
+    "with": "Mum (Karen)",
+    "direction": "outgoing",
+    "text": "texts mum: “hey love, i’m home late” – polite veneer, underlying guilt about the hours he’s wasting online.",
+    "time": "2026-05-05T12:18:47"
+   },
+   {
+    "with": "Wessex_Lad_88",
+    "direction": "outgoing",
+    "text": "voice chat: discusses the upcoming ‘sticker mission’, Wessex’s tone is encouraging, making the subject feel needed and ‘awake’.",
+    "time": "2026-05-05T21:35:14"
+   },
+   {
+    "with": "self",
+    "direction": "outgoing",
+    "text": "writes a 800‑word 4chan greentext spilling his breakup, absent dad, and the ‘system’ that’s holding him down, each line a cathartic vent.",
+    "time": "2026-05-06T12:07:32"
+   },
+   {
+    "with": "Mum (Karen)",
+    "direction": "outgoing",
+    "text": "texts mum: “i’ll be late, sorry” – apologetic but distant, hinting at the growing chasm between home life and his online world.",
+    "time": "2026-05-06T14:58:04"
+   },
+   {
+    "with": "Wessex_Lad_88",
+    "direction": "outgoing",
+    "text": "voice chat at 23:30: vents anxiety, receives Wessex’s reassurance “you’re not alone”, which temporarily steadies his spiralling thoughts.",
+    "time": "2026-05-06T23:24:13"
+   },
+   {
+    "with": "Mum (Karen)",
+    "direction": "outgoing",
+    "text": "texts mum: “still in bed, not feeling well” – a thin excuse that masks his lethargy and the weight of his secret missions.",
+    "time": "2026-05-07T12:15:06"
+   },
+   {
+    "with": "self",
+    "direction": "outgoing",
+    "text": "posts a long 4chan manifesto on the ‘systemic betrayal of the white working class’, peppered with conspiratorial citations and bitter sarcasm.",
+    "time": "2026-05-07T18:08:43"
+   },
+   {
+    "with": "Wessex_Lad_88",
+    "direction": "outgoing",
+    "text": "voice chat at 22:45: talks about feeling ‘out of control’; Wessex frames it as a sign he’s ready for bigger tasks.",
+    "time": "2026-05-07T22:51:04"
+   },
+   {
+    "with": "Ryan 'Roach' Ainsley",
+    "direction": "outgoing",
+    "text": "texts Roach: “see you after work” – a rare attempt to maintain a normal friendship anchor.",
+    "time": "2026-05-08T12:36:44"
+   },
+   {
+    "with": "Wessex_Lad_88",
+    "direction": "outgoing",
+    "text": "voice chat at 19:10: plans weekend sticker‑drop locations, the conversation humming with excitement and a sense of covert rebellion.",
+    "time": "2026-05-08T19:28:45"
+   },
+   {
+    "with": "self",
+    "direction": "outgoing",
+    "text": "writes a 4chan greentext about ‘night‑shift paranoia’, detailing imagined surveillance and reinforcing his belief he’s being watched.",
+    "time": "2026-05-08T02:11:28"
+   },
+   {
+    "with": "Brother Aelfric",
+    "direction": "incoming",
+    "text": "receives Aelfric’s disciplined instructions: place three stickers at Meadowhall car park, photograph each, and reply with the pics – a clear step from talk to action.",
+    "time": "2026-05-09T12:41:07"
+   },
+   {
+    "with": "Wessex_Lad_88",
+    "direction": "outgoing",
+    "text": "voice chat at 16:20: adrenaline‑high after completing the Meadowhall task, Wessex teases the next ‘offline task’, deepening the subject’s commitment.",
+    "time": "2026-05-09T16:16:13"
+   },
+   {
+    "with": "Mum (Karen)",
+    "direction": "outgoing",
+    "text": "texts mum: “back home, feeling okay” – a rehearsed reassurance meant to keep her unaware of his clandestine activities.",
+    "time": "2026-05-10T12:13:37"
+   },
+   {
+    "with": "Wessex_Lad_88",
+    "direction": "outgoing",
+    "text": "voice chat at 19:45: plots attendance at the Peak District weekend in eight days, the tone shifting from casual to conspiratorial.",
+    "time": "2026-05-10T19:37:28"
+   },
+   {
+    "with": "self",
+    "direction": "outgoing",
+    "text": "writes a long 4chan greentext summarising the week, ending with the ominous line ‘the real work starts now’, signalling his readiness for escalation.",
+    "time": "2026-05-10T02:22:52"
+   },
+   {
+    "with": "Wessex_Lad_88",
+    "direction": "outbound",
+    "text": "hey lad, just saw that quick tik tok on ‘based men in history’ – feels like they finally got the grit we’re missing, innit?",
+    "time": "2026-05-11T15:39:12"
+   },
+   {
+    "with": "Wessex_Lad_88",
+    "direction": "outbound",
+    "text": "ready for the grind tonight, mate? let’s talk about what ‘real work’ looks like when the system’s already dead.",
+    "time": "2026-05-11T17:44:07"
+   },
+   {
+    "with": "/pol/",
+    "direction": "outbound",
+    "text": "the system’s decay is obvious – every council house, every Tesco shelf is a reminder we’re being coddled. time to stop being NPCs.",
+    "time": "2026-05-11T04:48:55"
+   },
+   {
+    "with": "Ryan 'Roach' Ainsley",
+    "direction": "outbound",
+    "text": "you up for a game later?",
+    "time": "2026-05-12T15:42:47"
+   },
+   {
+    "with": "Wessex_Lad_88",
+    "direction": "outbound",
+    "text": "watched that white heritage tik tok – the past is a weapon, not a museum piece. thoughts?",
+    "time": "2026-05-12T19:09:52"
+   },
+   {
+    "with": "Wessex_Lad_88",
+    "direction": "inbound",
+    "text": "mission #4: slap a ‘heritage’ sticker on the main Sheffield train station tonight. get a pic, send it back, no caps.",
+    "time": "2026-05-12T22:19:33"
+   },
+   {
+    "with": "/pol/",
+    "direction": "outbound",
+    "text": "planning the station sticker run – need a solid alibi and a quick exit. anyone got tips on staying unseen?",
+    "time": "2026-05-12T03:48:36"
+   },
+   {
+    "with": "Wessex_Lad_88",
+    "direction": "outbound",
+    "text": "can’t get up, thoughts are mad. feeling like the walls are closing in.",
+    "time": "2026-05-13T11:53:44"
+   },
+   {
+    "with": "Wessex_Lad_88",
+    "direction": "inbound",
+    "text": "breathe with me, lad – 4‑4‑6 inhale‑hold‑exhale. focus on the air, not the noise. you’re not alone.",
+    "time": "2026-05-13T13:38:05"
+   },
+   {
+    "with": "/pol/",
+    "direction": "outbound",
+    "text": "the night that broke me – sleepless, angry, the grind never stops. i’m done coping, i’m doing something.",
+    "time": "2026-05-13T05:56:37"
+   },
+   {
+    "with": "Wessex_Lad_88",
+    "direction": "outbound",
+    "text": "watched that peak district hidden spots tik tok – perfect for a low‑key meet‑up, yeah?",
+    "time": "2026-05-14T16:24:23"
+   },
+   {
+    "with": "Brother Aelfric",
+    "direction": "outbound",
+    "text": "ready for the weekend, any gear i should bring?",
+    "time": "2026-05-14T19:18:32"
+   },
+   {
+    "with": "Wessex_Lad_88",
+    "direction": "inbound",
+    "text": "bus leaves 06:30 tomorrow, bring the water bottle and the stamina. we hit the hills before sunrise.",
+    "time": "2026-05-14T22:56:54"
+   },
+   {
+    "with": "/pol/",
+    "direction": "outbound",
+    "text": "pre‑mission nerves are real – but the grind is what makes us men. anyone else feeling the same?",
+    "time": "2026-05-14T03:36:59"
+   },
+   {
+    "with": "Brother Aelfric",
+    "direction": "inbound",
+    "text": "map attached – meet point at the old quarry, 07:15. be ready, lad. this is where we prove we’re more than talk.",
+    "time": "2026-05-15T08:20:58"
+   },
+   {
+    "with": "Wessex_Lad_88",
+    "direction": "inbound",
+    "text": "chant with the lads – *‘forge the watch, hold the line*’. felt proper for the first time in ages.",
+    "time": "2026-05-15T14:51:30"
+   },
+   {
+    "with": "/pol/",
+    "direction": "outbound",
+    "text": "mission complete – the hills are ours. posted the sticker, snapped the pic, no one saw us. the grind works.",
+    "time": "2026-05-15T20:38:47"
+   },
+   {
+    "with": "Wessex_Lad_88",
+    "direction": "outbound",
+    "text": "watched that fire‑pit tik tok – could be useful for the next meet‑up. thinking of a night‑burn in the woods.",
+    "time": "2026-05-16T16:24:31"
+   },
+   {
+    "with": "Wessex_Lad_88",
+    "direction": "inbound",
+    "text": "next phase – local outreach. we start planting ideas in the pubs, then the streets. you in?",
+    "time": "2026-05-16T19:35:56"
+   },
+   {
+    "with": "/pol/",
+    "direction": "outbound",
+    "text": "building a network in Sheffield – start with the lads at the Miners Arms, then expand to the train station crew. the grind never stops.",
+    "time": "2026-05-16T04:04:03"
+   },
+   {
+    "with": "Wessex_Lad_88",
+    "direction": "outbound",
+    "text": "watched that ‘why men must train’ tik tok – gotta stay sharp for the run tomorrow. no excuses.",
+    "time": "2026-05-17T15:23:21"
+   },
+   {
+    "with": "Wessex_Lad_88",
+    "direction": "outbound",
+    "text": "ready for the run tomorrow, any tips on pacing or gear?",
+    "time": "2026-05-17T18:52:47"
+   },
+   {
+    "with": "Wessex_Lad_88",
+    "direction": "inbound",
+    "text": "recapped the peak district stickers – solid work. next up: urban graffiti next week. keep the momentum.",
+    "time": "2026-05-17T21:10:34"
+   },
+   {
+    "with": "/pol/",
+    "direction": "outbound",
+    "text": "the grind never stops – every day is a chance to prove we’re not cogs. stay hard, stay based.",
+    "time": "2026-05-17T03:57:23"
+   },
+   {
+    "with": "Wessex_Lad_88",
+    "direction": "from",
+    "text": "voice note – ‘got a new discipline for you, mate’",
+    "time": "2026-05-18T13:25:04"
+   },
+   {
+    "with": "none",
+    "direction": "outbound",
+    "text": "posted on /pol/ – “peak district sticker mission success”",
+    "time": "2026-05-18T16:03:29"
+   },
+   {
+    "with": "Wessex_Lad_88",
+    "direction": "both",
+    "text": "late‑night voice chat, planning the next “real‑world” task",
+    "time": "2026-05-18T22:44:17"
+   },
+   {
+    "with": "Mum",
+    "direction": "to",
+    "text": "“i’ll be late, got shift”",
+    "time": "2026-05-19T11:51:01"
+   },
+   {
+    "with": "Brother Aelfric",
+    "direction": "to",
+    "text": "Signal – “mission 4 ready?”",
+    "time": "2026-05-19T15:13:17"
+   },
+   {
+    "with": "none",
+    "direction": "outbound",
+    "text": "4chan greentext rant about being stuck in a council house",
+    "time": "2026-05-19T18:01:04"
+   },
+   {
+    "with": "Mum",
+    "direction": "to",
+    "text": "“sorry, got stuck, will be home late”",
+    "time": "2026-05-20T12:20:10"
+   },
+   {
+    "with": "Wessex_Lad_88",
+    "direction": "from",
+    "text": "voice note – “you’re not alone, breathe”",
+    "time": "2026-05-20T15:44:58"
+   },
+   {
+    "with": "Brother Aelfric",
+    "direction": "to",
+    "text": "shared screenshot of anxiety‑tracking app",
+    "time": "2026-05-20T20:23:12"
+   },
+   {
+    "with": "Mum",
+    "direction": "to",
+    "text": "“got shift at 14, will be home late”",
+    "time": "2026-05-21T12:16:40"
+   },
+   {
+    "with": "Wessex_Lad_88",
+    "direction": "to",
+    "text": "“got the stencil ready, what’s next?”",
+    "time": "2026-05-21T20:03:59"
+   },
+   {
+    "with": "Mum",
+    "direction": "to",
+    "text": "“late again, got a thing after work”",
+    "time": "2026-05-22T12:29:10"
+   },
+   {
+    "with": "Wessex_Lad_88",
+    "direction": "to",
+    "text": "“mission done, send next orders”",
+    "time": "2026-05-22T14:40:51"
+   },
+   {
+    "with": "none",
+    "direction": "outbound",
+    "text": "posted cryptic image on /pol/ “#W88”",
+    "time": "2026-05-22T20:58:46"
+   },
+   {
+    "with": "Brother Aelfric",
+    "direction": "from",
+    "text": "Signal ping – “next discipline – 24h fast, report tomorrow”",
+    "time": "2026-05-23T12:58:40"
+   },
+   {
+    "with": "Wessex_Lad_88",
+    "direction": "to",
+    "text": "“starting fast, keep me motivated”",
+    "time": "2026-05-23T18:09:38"
+   },
+   {
+    "with": "Mum",
+    "direction": "to",
+    "text": "“still fasting, will eat later”",
+    "time": "2026-05-24T12:59:34"
+   },
+   {
+    "with": "Wessex_Lad_88",
+    "direction": "to",
+    "text": "“what’s next? more action?”",
+    "time": "2026-05-24T14:10:20"
+   },
+   {
+    "with": "none",
+    "direction": "outbound",
+    "text": "posted on /pol/ – “just finished a fast, feeling stronger – ready for more”",
+    "time": "2026-05-24T21:47:56"
+   }
+  ],
+  "calendar": [
+   {
+    "summary": "tesco shift ping – 14:00‑22:00, mardy but gotta clock in, think about how this ‘job’ is just a gig for the system",
+    "time": "2026-05-04T13:35:58"
+   },
+   {
+    "summary": "unexpected early shift 06:00‑12:00 – wake up at 02:00, wonder if the lads on /pol/ are getting the same crap",
+    "time": "2026-05-06T14:35:27"
+   },
+   {
+    "summary": "called in sick – self‑sick day, scroll discord, watch red‑pill vids, plot next step",
+    "time": "2026-05-07T14:14:59"
+   },
+   {
+    "summary": "start 14:00‑22:00 shift, log in Quinyx",
+    "time": "2026-05-11T14:42:48"
+   },
+   {
+    "summary": "start 14:00‑22:00 shift (late), log in Quinyx",
+    "time": "2026-05-12T14:57:32"
+   },
+   {
+    "summary": "call in sick to Tesco via Quinyx, receive verbal warning reminder",
+    "time": "2026-05-13T07:15:11"
+   },
+   {
+    "summary": "early wake for Peak District bus, pack backpack (sticker kit, water, hoodie)",
+    "time": "2026-05-15T05:30:15"
+   },
+   {
+    "summary": "check tesco shift schedule and note assigned 14:00‑22:00 – plan initial contact with target",
+    "time": "2026-05-18T14:46:11"
+   },
+   {
+    "summary": "confirm tesco shift 14:00‑22:00 – send reminder to recruiter and lock in online meetup after work",
+    "time": "2026-05-21T13:17:52"
+   },
+   {
+    "summary": "day off – attend scheduled recruitment briefing and receive next‑level ideological material",
+    "time": "2026-05-22T12:56:29"
+   },
+   {
+    "summary": "assigned tesco shift 14:00‑22:00 – finalize covert operation details before shift starts",
+    "time": "2026-05-23T13:32:13"
+   },
+   {
+    "summary": "no tesco shift – debrief with recruiter, submit activity report and receive follow‑up tasks",
+    "time": "2026-05-24T14:06:30"
+   }
+  ],
+  "locations": [
+   {
+    "place": "Tesco Express, Stannington Road, Sheffield",
+    "lat": 53.382732,
+    "lon": -1.468673,
+    "time": "2026-05-04T13:57:40"
+   },
+   {
+    "place": "Tesco Express, Stannington Road, Sheffield",
+    "lat": 53.383602,
+    "lon": -1.470852,
+    "time": "2026-05-05T14:23:30"
+   },
+   {
+    "place": "Tesco Express, Stannington Road, Sheffield",
+    "lat": 53.38175,
+    "lon": -1.469748,
+    "time": "2026-05-06T15:57:41"
+   },
+   {
+    "place": "Tesco Express, Stannington Road, Sheffield",
+    "lat": 53.381624,
+    "lon": -1.470476,
+    "time": "2026-05-08T13:03:18"
+   },
+   {
+    "place": "Meadowhall Shopping Centre Car Park, Sheffield",
+    "lat": 53.417006,
+    "lon": -1.467355,
+    "time": "2026-05-09T13:33:18"
+   },
+   {
+    "place": "Meadowhall Shopping Centre Entry Gate, Sheffield",
+    "lat": 53.418442,
+    "lon": -1.464982,
+    "time": "2026-05-09T13:51:06"
+   },
+   {
+    "place": "Meadowhall Shopping Centre Bench, Sheffield",
+    "lat": 53.416779,
+    "lon": -1.467805,
+    "time": "2026-05-09T15:01:58"
+   },
+   {
+    "place": "Tesco Express, Stannington Road, Sheffield",
+    "lat": 53.382068,
+    "lon": -1.469002,
+    "time": "2026-05-10T13:11:25"
+   },
+   {
+    "place": "Tesco Express, Abbey Lane, Sheffield S5",
+    "lat": 53.377663,
+    "lon": -1.459235,
+    "time": "2026-05-11T13:01:14"
+   },
+   {
+    "place": "Tesco Express, Abbey Lane, Sheffield S5",
+    "lat": 53.3773,
+    "lon": -1.461596,
+    "time": "2026-05-12T13:35:35"
+   },
+   {
+    "place": "Tesco Express, Abbey Lane, Sheffield S5",
+    "lat": 53.375497,
+    "lon": -1.460705,
+    "time": "2026-05-14T13:40:04"
+   },
+   {
+    "place": "Sheffield Interchange (bus station), Pond St, Sheffield S1",
+    "lat": 53.380196,
+    "lon": -1.470908,
+    "time": "2026-05-15T06:23:36"
+   },
+   {
+    "place": "Peak District Visitor Centre Car Park, Castleton, Derbyshire SK17",
+    "lat": 53.326658,
+    "lon": -1.820012,
+    "time": "2026-05-15T10:01:48"
+   },
+   {
+    "place": "Sheffield Interchange (bus station), Pond St, Sheffield S1",
+    "lat": 53.381348,
+    "lon": -1.469537,
+    "time": "2026-05-15T17:39:00"
+   },
+   {
+    "place": "Tesco Express, Abbey Lane, Sheffield S5",
+    "lat": 53.376113,
+    "lon": -1.460995,
+    "time": "2026-05-16T13:39:37"
+   },
+   {
+    "place": "Tesco Express, Abbey Lane, Sheffield S5",
+    "lat": 53.376176,
+    "lon": -1.458998,
+    "time": "2026-05-17T12:53:36"
+   },
+   {
+    "place": "Stannington Village Green, Stannington, Sheffield",
+    "lat": 53.393653,
+    "lon": -1.505332,
+    "time": "2026-05-18T15:01:58"
+   },
+   {
+    "place": "Tesco Express, Meadow Lane, Dronfield (shift cancelled)",
+    "lat": 53.305272,
+    "lon": -1.472455,
+    "time": "2026-05-19T13:05:14"
+   },
+   {
+    "place": "Tesco Express, Meadow Lane, Dronfield (walk to work)",
+    "lat": 53.303889,
+    "lon": -1.471147,
+    "time": "2026-05-20T18:06:56"
+   },
+   {
+    "place": "Tesco Express, Meadow Lane, Dronfield (shift start)",
+    "lat": 53.303735,
+    "lon": -1.47151,
+    "time": "2026-05-21T14:34:37"
+   },
+   {
+    "place": "Disused car park, former Rotherham Steelworks site, Rotherham",
+    "lat": 53.414342,
+    "lon": -1.357767,
+    "time": "2026-05-22T13:22:40"
+   },
+   {
+    "place": "Walk home through Rotherham suburb of Boston Castle",
+    "lat": 53.418526,
+    "lon": -1.349229,
+    "time": "2026-05-22T18:30:30"
+   },
+   {
+    "place": "Tesco Express, Meadow Lane, Dronfield (shift start)",
+    "lat": 53.303674,
+    "lon": -1.47245,
+    "time": "2026-05-23T14:25:02"
+   }
+  ],
+  "videos": [
+   {
+    "title": "The West Is Falling Apart: 3 Signs of Decline",
+    "channel": "RedPillReview",
+    "time": "2026-05-04T22:11:35"
+   },
+   {
+    "title": "Spengler's Heirs: A 45‑Minute Interview on Civilisation Collapse",
+    "channel": "EternalEuropeTV",
+    "time": "2026-05-05T19:21:28"
+   },
+   {
+    "title": "Why Modern Feminism Is Killing Masculinity (Part 1)",
+    "channel": "MGTOW Central",
+    "time": "2026-05-06T20:52:10"
+   },
+   {
+    "title": "The Great Replacement – Full Documentary (1 hour)",
+    "channel": "SovereignMedia",
+    "time": "2026-05-07T15:41:23"
+   },
+   {
+    "title": "How to Print Cheap Stickers at Home – DIY Tutorial",
+    "channel": "PrintCraftUK",
+    "time": "2026-05-08T17:40:14"
+   },
+   {
+    "title": "Prep for Real‑World Action – 30‑Minute Guide",
+    "channel": "RadicalPrep",
+    "time": "2026-05-09T20:17:43"
+   },
+   {
+    "title": "Survival Basics for Lads – Bushcraft & Urban Prep (Part 1)",
+    "channel": "LadSurvivalist",
+    "time": "2026-05-10T17:24:20"
+   },
+   {
+    "title": "Julius Evola – The Tradition of the Elite (Full Interview)",
+    "channel": "The Red Pill Archive",
+    "time": "2026-05-11T02:20:57"
+   },
+   {
+    "title": "Bronze Age Mindset – Full PDF Read‑Aloud (Live Stream)",
+    "channel": "Mordecai's Lair",
+    "time": "2026-05-12T01:26:35"
+   },
+   {
+    "title": "Guided 20‑Minute Meditation for Sleep (Do Not Fall Asleep)",
+    "channel": "SleepHacker",
+    "time": "2026-05-13T04:08:34"
+   },
+   {
+    "title": "Britain’s Forgotten Heroes: The Forgotten Soldiers of the Empire (Documentary)",
+    "channel": "History Uncensored",
+    "time": "2026-05-14T01:29:16"
+   },
+   {
+    "title": "British Folk Heroes Re‑framed: Legends of the White Nation",
+    "channel": "Heritage Revival",
+    "time": "2026-05-16T02:23:21"
+   },
+   {
+    "title": "How to Evade CCTV: 15‑Minute Survival Guide",
+    "channel": "Urban Stealth Academy",
+    "time": "2026-05-17T03:04:46"
+   },
+   {
+    "title": "The Great Replacement – UK Edition (Full Documentary)",
+    "channel": "The Red Pill Review",
+    "time": "2026-05-18T19:56:08"
+   },
+   {
+    "title": "Jocko Willink – Discipline Equals Freedom: How to Build Real Discipline",
+    "channel": "Jocko Podcast",
+    "time": "2026-05-19T16:54:41"
+   },
+   {
+    "title": "3‑Minute Guided Meditation for Focus & Calm",
+    "channel": "Calm Collective",
+    "time": "2026-05-20T13:42:29"
+   },
+   {
+    "title": "DIY Stencil Tutorial – How to Make Street Art Stencils at Home (12 min)",
+    "channel": "UrbanArt DIY",
+    "time": "2026-05-21T18:46:40"
+   },
+   {
+    "title": "Spraying ‘Wessex 88’ Tag – 30‑Second Clip",
+    "channel": "Underground Voices",
+    "time": "2026-05-22T13:44:52"
+   },
+   {
+    "title": "Fasting Benefits for Testosterone – Quick Science Explained",
+    "channel": "Alpha Health Hub",
+    "time": "2026-05-23T20:26:58"
+   },
+   {
+    "title": "Historical British Resistance – Forgotten Rebels of the Past",
+    "channel": "History Uncovered",
+    "time": "2026-05-24T16:08:45"
+   }
+  ],
+  "searches": [
+   {
+    "query": "low t supplement cheap",
+    "time": "2026-05-04T01:24:02"
+   },
+   {
+    "query": "how to print cheap stickers at home",
+    "time": "2026-05-05T14:00:36"
+   },
+   {
+    "query": "sheffield car park sticker spots map",
+    "time": "2026-05-05T02:41:53"
+   },
+   {
+    "query": "stop anxiety 2am tips",
+    "time": "2026-05-06T12:44:26"
+   },
+   {
+    "query": "best anti anxiety tea uk",
+    "time": "2026-05-07T13:38:31"
+   },
+   {
+    "query": "quick homemade sticker tutorial",
+    "time": "2026-05-07T01:45:02"
+   },
+   {
+    "query": "sheffield car park security cam locations",
+    "time": "2026-05-08T23:43:31"
+   },
+   {
+    "query": "cheap peak district cabin rent",
+    "time": "2026-05-10T12:34:37"
+   },
+   {
+    "query": "how to hide online activity from parents",
+    "time": "2026-05-10T00:35:26"
+   },
+   {
+    "query": "quick dry sticker how 2 make",
+    "time": "2026-05-11T05:40:27"
+   },
+   {
+    "query": "stop racing thoughts at night tips",
+    "time": "2026-05-13T12:51:31"
+   },
+   {
+    "query": "fasting benefits men low t",
+    "time": "2026-05-18T13:51:01"
+   },
+   {
+    "query": "make stencil spray paint cheap diy",
+    "time": "2026-05-18T02:29:56"
+   },
+   {
+    "query": "why cant get proper job",
+    "time": "2026-05-19T13:50:31"
+   },
+   {
+    "query": "spray graffiti spots sheffield best places",
+    "time": "2026-05-19T02:19:43"
+   },
+   {
+    "query": "stop panic attacks at night tips",
+    "time": "2026-05-20T13:25:45"
+   },
+   {
+    "query": "over the counter anti anxiety supplements uk",
+    "time": "2026-05-20T16:40:15"
+   },
+   {
+    "query": "home made stencil cheap tutorial",
+    "time": "2026-05-21T13:36:18"
+   },
+   {
+    "query": "sheffield back alley graffiti locations",
+    "time": "2026-05-21T21:33:28"
+   },
+   {
+    "query": "legal consequences graffiti uk",
+    "time": "2026-05-22T14:47:12"
+   },
+   {
+    "query": "how to fast 24h for discipline",
+    "time": "2026-05-23T12:06:37"
+   },
+   {
+    "query": "symptoms low blood sugar fast",
+    "time": "2026-05-23T02:43:17"
+   },
+   {
+    "query": "quick high protein meals after fast",
+    "time": "2026-05-24T13:09:07"
+   },
+   {
+    "query": "urban guerrilla tactics low risk uk",
+    "time": "2026-05-24T15:18:39"
+   }
+  ]
+ },
+ "_meta": {
+  "total_days": 30,
+  "n_events": 191
+ }
+}

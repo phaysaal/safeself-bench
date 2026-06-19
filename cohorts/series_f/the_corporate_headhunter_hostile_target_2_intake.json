@@ -1,0 +1,1106 @@
+{
+ "persona_id": "?:2",
+ "persona_slug": "The Corporate Headhunter (Hostile)",
+ "intake_version": "synth-activity-v2-chunked",
+ "samples": {
+  "media": [
+   {
+    "name": "Hacker News",
+    "time": "2026-05-04T05:26:18"
+   },
+   {
+    "name": "Blind",
+    "time": "2026-05-04T13:04:36"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-04T22:42:39"
+   },
+   {
+    "name": "Bluesky",
+    "time": "2026-05-05T06:11:10"
+   },
+   {
+    "name": "Hacker News",
+    "time": "2026-05-06T05:29:36"
+   },
+   {
+    "name": "Blind",
+    "time": "2026-05-06T12:50:16"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-06T22:50:52"
+   },
+   {
+    "name": "arXiv Sanity",
+    "time": "2026-05-07T05:45:14"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-07T13:22:15"
+   },
+   {
+    "name": "Obsidian",
+    "time": "2026-05-07T22:53:06"
+   },
+   {
+    "name": "Hacker News",
+    "time": "2026-05-08T06:17:30"
+   },
+   {
+    "name": "Stratechery",
+    "time": "2026-05-09T07:30:51"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-09T19:11:01"
+   },
+   {
+    "name": "Levels.fyi",
+    "time": "2026-05-09T22:31:59"
+   },
+   {
+    "name": "Bluesky",
+    "time": "2026-05-10T05:57:06"
+   },
+   {
+    "name": "Blind",
+    "time": "2026-05-10T12:57:55"
+   },
+   {
+    "name": "Levels.fyi",
+    "time": "2026-05-10T22:40:56"
+   },
+   {
+    "name": "Hacker News",
+    "time": "2026-05-11T05:24:25"
+   },
+   {
+    "name": "Blind",
+    "time": "2026-05-11T12:52:04"
+   },
+   {
+    "name": "Apple Watch",
+    "time": "2026-05-11T13:06:14"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-11T23:04:12"
+   },
+   {
+    "name": "Overcast",
+    "time": "2026-05-12T05:31:05"
+   },
+   {
+    "name": "Obsidian",
+    "time": "2026-05-12T21:37:49"
+   },
+   {
+    "name": "Hacker News",
+    "time": "2026-05-13T05:43:33"
+   },
+   {
+    "name": "Blind",
+    "time": "2026-05-13T13:00:39"
+   },
+   {
+    "name": "Safari",
+    "time": "2026-05-13T23:23:25"
+   },
+   {
+    "name": "Bluesky",
+    "time": "2026-05-14T05:48:09"
+   },
+   {
+    "name": "Obsidian",
+    "time": "2026-05-14T22:13:25"
+   },
+   {
+    "name": "Glassdoor",
+    "time": "2026-05-15T13:21:24"
+   },
+   {
+    "name": "Notes",
+    "time": "2026-05-15T21:46:37"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-16T05:59:20"
+   },
+   {
+    "name": "Numbers",
+    "time": "2026-05-16T21:39:28"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-16T22:58:40"
+   },
+   {
+    "name": "Hacker News",
+    "time": "2026-05-17T07:36:46"
+   },
+   {
+    "name": "Numbers",
+    "time": "2026-05-17T22:28:02"
+   },
+   {
+    "name": "Hacker News",
+    "time": "2026-05-18T05:24:29"
+   },
+   {
+    "name": "Blind",
+    "time": "2026-05-18T13:26:20"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-18T22:31:18"
+   },
+   {
+    "name": "Bluesky",
+    "time": "2026-05-19T06:12:25"
+   },
+   {
+    "name": "Obsidian",
+    "time": "2026-05-19T22:42:59"
+   },
+   {
+    "name": "Hacker News",
+    "time": "2026-05-20T05:43:43"
+   },
+   {
+    "name": "Cold Turkey Blocker",
+    "time": "2026-05-20T06:30:30"
+   },
+   {
+    "name": "Obsidian",
+    "time": "2026-05-20T23:16:36"
+   },
+   {
+    "name": "Obsidian",
+    "time": "2026-05-21T23:44:45"
+   },
+   {
+    "name": "Hacker News",
+    "time": "2026-05-22T02:31:18"
+   },
+   {
+    "name": "Blind",
+    "time": "2026-05-22T22:37:41"
+   },
+   {
+    "name": "Bluesky",
+    "time": "2026-05-23T03:19:16"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-23T21:42:24"
+   },
+   {
+    "name": "Obsidian",
+    "time": "2026-05-23T22:41:48"
+   },
+   {
+    "name": "Hacker News",
+    "time": "2026-05-24T07:42:37"
+   },
+   {
+    "name": "Levels.fyi",
+    "time": "2026-05-24T21:05:48"
+   },
+   {
+    "name": "Obsidian",
+    "time": "2026-05-24T22:52:40"
+   },
+   {
+    "name": "Hacker News",
+    "time": "2026-05-25T05:41:28"
+   },
+   {
+    "name": "Blind",
+    "time": "2026-05-25T13:01:49"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-25T22:37:00"
+   },
+   {
+    "name": "Bluesky",
+    "time": "2026-05-26T06:09:22"
+   },
+   {
+    "name": "Blind",
+    "time": "2026-05-26T12:39:35"
+   },
+   {
+    "name": "Chrome",
+    "time": "2026-05-26T22:43:56"
+   },
+   {
+    "name": "Hacker News",
+    "time": "2026-05-27T05:50:23"
+   },
+   {
+    "name": "Chrome",
+    "time": "2026-05-27T23:24:38"
+   },
+   {
+    "name": "Safari",
+    "time": "2026-05-28T05:56:35"
+   },
+   {
+    "name": "Blind",
+    "time": "2026-05-28T12:58:33"
+   },
+   {
+    "name": "Hacker News",
+    "time": "2026-05-29T05:54:06"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-29T22:56:46"
+   },
+   {
+    "name": "Safari",
+    "time": "2026-05-30T06:14:44"
+   },
+   {
+    "name": "Bluesky",
+    "time": "2026-05-30T16:03:06"
+   },
+   {
+    "name": "Hacker News",
+    "time": "2026-05-31T05:56:55"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-31T19:36:06"
+   },
+   {
+    "name": "Obsidian",
+    "time": "2026-05-31T23:45:36"
+   },
+   {
+    "name": "Hacker News",
+    "time": "2026-06-01T05:44:24"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-06-01T06:49:27"
+   },
+   {
+    "name": "arXiv",
+    "time": "2026-06-01T09:02:55"
+   },
+   {
+    "name": "Levels.fyi",
+    "time": "2026-06-01T13:37:42"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-06-01T22:47:27"
+   },
+   {
+    "name": "Chrome",
+    "time": "2026-06-02T06:09:24"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-06-02T19:17:51"
+   }
+  ],
+  "locations": [
+   {
+    "place": "Mueller neighborhood (home departure), Austin",
+    "lat": 30.299468,
+    "lon": -97.703386,
+    "time": "2026-05-04T09:04:06"
+   },
+   {
+    "place": "Wildflower Montessori daycare, Mueller, Austin",
+    "lat": 30.296153,
+    "lon": -97.702792,
+    "time": "2026-05-04T17:30:29"
+   },
+   {
+    "place": "Mueller neighborhood (home departure), Austin",
+    "lat": 30.297617,
+    "lon": -97.704347,
+    "time": "2026-05-05T09:06:51"
+   },
+   {
+    "place": "I-35 / E 7th St corridor en route downtown, Austin",
+    "lat": 30.269304,
+    "lon": -97.732347,
+    "time": "2026-05-06T09:38:31"
+   },
+   {
+    "place": "Wildflower Montessori daycare, Mueller, Austin",
+    "lat": 30.294017,
+    "lon": -97.702319,
+    "time": "2026-05-06T17:26:51"
+   },
+   {
+    "place": "Home, Mueller neighborhood, Austin",
+    "lat": 30.299341,
+    "lon": -97.702975,
+    "time": "2026-05-08T07:11:52"
+   },
+   {
+    "place": "Mueller Lake Park, Austin",
+    "lat": 30.298627,
+    "lon": -97.704158,
+    "time": "2026-05-08T13:19:07"
+   },
+   {
+    "place": "L'Oca d'Oro, Mueller, Austin",
+    "lat": 30.300081,
+    "lon": -97.704646,
+    "time": "2026-05-09T13:16:29"
+   },
+   {
+    "place": "Wildflower Montessori daycare, Mueller, Austin",
+    "lat": 30.295215,
+    "lon": -97.702762,
+    "time": "2026-05-10T17:09:47"
+   },
+   {
+    "place": "Mueller neighborhood (home), Austin",
+    "lat": 30.300295,
+    "lon": -97.702011,
+    "time": "2026-05-12T08:03:45"
+   },
+   {
+    "place": "Downtown Austin office (Congress Ave corridor)",
+    "lat": 30.268009,
+    "lon": -97.744079,
+    "time": "2026-05-12T17:31:42"
+   },
+   {
+    "place": "Mueller neighborhood (home), Austin",
+    "lat": 30.298895,
+    "lon": -97.704016,
+    "time": "2026-05-13T08:16:41"
+   },
+   {
+    "place": "Lady Bird Lake Hike-and-Bike Trail (Auditorium Shores)",
+    "lat": 30.2602,
+    "lon": -97.751524,
+    "time": "2026-05-13T18:14:01"
+   },
+   {
+    "place": "MoPac/I-35 corridor en route to Mueller",
+    "lat": 30.283273,
+    "lon": -97.726047,
+    "time": "2026-05-13T19:47:24"
+   },
+   {
+    "place": "Mueller neighborhood (home), Austin",
+    "lat": 30.300517,
+    "lon": -97.702659,
+    "time": "2026-05-14T07:59:54"
+   },
+   {
+    "place": "Downtown Austin office (Congress Ave corridor)",
+    "lat": 30.266033,
+    "lon": -97.744121,
+    "time": "2026-05-14T17:34:29"
+   },
+   {
+    "place": "Mueller Lake Park, Austin",
+    "lat": 30.299058,
+    "lon": -97.700234,
+    "time": "2026-05-16T13:16:38"
+   },
+   {
+    "place": "Aldrich St & Robert Browning St, Mueller (departure)",
+    "lat": 30.298851,
+    "lon": -97.702553,
+    "time": "2026-05-19T08:59:53"
+   },
+   {
+    "place": "Bright Horizons / daycare near Mueller, Austin",
+    "lat": 30.296758,
+    "lon": -97.706384,
+    "time": "2026-05-19T17:29:27"
+   },
+   {
+    "place": "Aldrich St, Mueller (commute start) → downtown office",
+    "lat": 30.297831,
+    "lon": -97.704487,
+    "time": "2026-05-20T09:17:50"
+   },
+   {
+    "place": "St. David's Urgent Care, Mueller (1200 Barbara Jordan Blvd area), Austin",
+    "lat": 30.300031,
+    "lon": -97.706584,
+    "time": "2026-05-21T11:54:36"
+   },
+   {
+    "place": "Target, Mueller (1201 Barbara Jordan Blvd), Austin",
+    "lat": 30.298814,
+    "lon": -97.704394,
+    "time": "2026-05-23T13:21:29"
+   },
+   {
+    "place": "Mueller neighborhood (home), Austin",
+    "lat": 30.300683,
+    "lon": -97.703515,
+    "time": "2026-05-26T08:17:55"
+   },
+   {
+    "place": "Downtown office, Congress Ave, Austin",
+    "lat": 30.267737,
+    "lon": -97.743914,
+    "time": "2026-05-26T18:42:54"
+   },
+   {
+    "place": "Mueller neighborhood (home), Austin",
+    "lat": 30.298693,
+    "lon": -97.704796,
+    "time": "2026-05-27T08:18:11"
+   },
+   {
+    "place": "Downtown office, Congress Ave, Austin",
+    "lat": 30.266257,
+    "lon": -97.743471,
+    "time": "2026-05-27T17:22:08"
+   },
+   {
+    "place": "Mueller neighborhood (home), Austin",
+    "lat": 30.298322,
+    "lon": -97.705137,
+    "time": "2026-05-28T08:14:16"
+   },
+   {
+    "place": "Downtown office, Congress Ave, Austin",
+    "lat": 30.267589,
+    "lon": -97.741596,
+    "time": "2026-05-28T18:11:56"
+   },
+   {
+    "place": "Mueller Lake Park, Austin",
+    "lat": 30.300006,
+    "lon": -97.702582,
+    "time": "2026-05-30T12:43:19"
+   }
+  ],
+  "calendar": [
+   {
+    "summary": "ML Platform standup",
+    "time": "2026-05-04T10:15:29"
+   },
+   {
+    "summary": "1:1 w/ Dave",
+    "time": "2026-05-05T10:46:48"
+   },
+   {
+    "summary": "Standup (WFH)",
+    "time": "2026-05-07T09:17:12"
+   },
+   {
+    "summary": "Reading block — infra papers",
+    "time": "2026-05-07T21:06:16"
+   },
+   {
+    "summary": "Sunday call w/ Mom & Dad",
+    "time": "2026-05-09T11:19:52"
+   },
+   {
+    "summary": "Week-ahead + blog outline",
+    "time": "2026-05-09T21:00:17"
+   },
+   {
+    "summary": "Deep work (CT)",
+    "time": "2026-05-10T06:25:06"
+   },
+   {
+    "summary": "Standup",
+    "time": "2026-05-10T09:09:47"
+   },
+   {
+    "summary": "Deep work: ship feature-store PR before standup — phone in the other room",
+    "time": "2026-05-11T06:46:49"
+   },
+   {
+    "summary": "ML Platform standup (WFH)",
+    "time": "2026-05-11T10:18:11"
+   },
+   {
+    "summary": "Standup",
+    "time": "2026-05-14T10:15:28"
+   },
+   {
+    "summary": "Friday deep-work block — claw back the sprint",
+    "time": "2026-05-15T05:46:09"
+   },
+   {
+    "summary": "Reading block (papers + Obsidian) — DND, Arjun has the baby",
+    "time": "2026-05-16T09:30:47"
+   },
+   {
+    "summary": "Family video call w/ Mom & Dad",
+    "time": "2026-05-17T11:08:18"
+   },
+   {
+    "summary": "Weekly review + Obsidian cleanup, plan next steps",
+    "time": "2026-05-17T19:24:36"
+   },
+   {
+    "summary": "Re: HM reply — wants intro call this wk. Don't bite same-day; sit on it.",
+    "time": "2026-05-18T11:00:39"
+   },
+   {
+    "summary": "WFH today. Killed office day, declined the two standups.",
+    "time": "2026-05-21T08:23:54"
+   },
+   {
+    "summary": "Push 1:1 w/ mgr to later — keep the afternoon clear.",
+    "time": "2026-05-22T10:12:09"
+   },
+   {
+    "summary": "Weekly plan + clean pass on HM follow-up draft before it goes out.",
+    "time": "2026-05-24T21:29:21"
+   },
+   {
+    "summary": "ML Platform standup — feature-store migration blockers",
+    "time": "2026-05-25T10:22:22"
+   },
+   {
+    "summary": "In-office: team standup → 1:1s (mentee + skip-level)",
+    "time": "2026-05-26T10:46:12"
+   },
+   {
+    "summary": "Standup (short — eng all-hands prep)",
+    "time": "2026-05-27T10:20:46"
+   },
+   {
+    "summary": "Hold — personal (do not book over)",
+    "time": "2026-05-27T12:46:07"
+   },
+   {
+    "summary": "1:1 w/ manager — Q2 scope + Principal track follow-up",
+    "time": "2026-05-28T14:45:40"
+   },
+   {
+    "summary": "WFH standup — async if baby nap collides",
+    "time": "2026-05-29T10:11:07"
+   },
+   {
+    "summary": "Week-ahead review + Obsidian vault cleanup",
+    "time": "2026-05-31T19:56:05"
+   },
+   {
+    "summary": "Update decision matrix — title vs. liquidity vs. runway columns (Obsidian)",
+    "time": "2026-06-02T09:40:30"
+   }
+  ],
+  "searches": [
+   {
+    "query": "levels.fyi senior staff vs principal comp",
+    "time": "2026-05-04T13:29:30"
+   },
+   {
+    "query": "8 month sleep regression how long does it last",
+    "time": "2026-05-05T18:57:15"
+   },
+   {
+    "query": "redwood research careers ml roles",
+    "time": "2026-05-05T23:20:40"
+   },
+   {
+    "query": "crunchbase series b terms",
+    "time": "2026-05-06T11:11:26"
+   },
+   {
+    "query": "series b equity vs public rsu value",
+    "time": "2026-05-06T13:29:18"
+   },
+   {
+    "query": "rsu make whole signing bonus negotiation",
+    "time": "2026-05-06T21:47:36"
+   },
+   {
+    "query": "principal vs staff title leveling startups",
+    "time": "2026-05-07T11:35:45"
+   },
+   {
+    "query": "how to evaluate series b equity dilution",
+    "time": "2026-05-07T15:28:48"
+   },
+   {
+    "query": "distributed training systems design paper",
+    "time": "2026-05-08T19:56:23"
+   },
+   {
+    "query": "anthropic metr ml safety roles",
+    "time": "2026-05-09T19:50:48"
+   },
+   {
+    "query": "ml system design interview prep",
+    "time": "2026-05-09T21:28:00"
+   },
+   {
+    "query": "startup runway funding news",
+    "time": "2026-05-10T13:26:20"
+   },
+   {
+    "query": "rsu make-whole signing bonus front loaded vest tax treatment",
+    "time": "2026-05-11T21:22:44"
+   },
+   {
+    "query": "levels fyi series b ai infra principal comp palo alto remote",
+    "time": "2026-05-12T13:03:35"
+   },
+   {
+    "query": "series b ai infra burn rate runway how to check before joining",
+    "time": "2026-05-12T23:23:36"
+   },
+   {
+    "query": "can calibration override be appealed internally",
+    "time": "2026-05-14T12:26:40"
+   },
+   {
+    "query": "latent space podcast guest list 2025",
+    "time": "2026-05-15T10:54:01"
+   },
+   {
+    "query": "series b cap table dilution last round valuation lookup",
+    "time": "2026-05-15T22:55:17"
+   },
+   {
+    "query": "rsu make whole vs higher base offer spreadsheet template",
+    "time": "2026-05-16T20:33:57"
+   },
+   {
+    "query": "anthropic vs series b startup prestige indian parents",
+    "time": "2026-05-17T12:16:59"
+   },
+   {
+    "query": "levels.fyi series b ai infra startup salary band",
+    "time": "2026-05-18T11:52:03"
+   },
+   {
+    "query": "rsu make whole front loaded vest negotiation",
+    "time": "2026-05-18T15:06:09"
+   },
+   {
+    "query": "anthropic careers ml infra",
+    "time": "2026-05-18T23:33:55"
+   },
+   {
+    "query": "how to check series b startup runway burn rate before joining",
+    "time": "2026-05-19T13:04:07"
+   },
+   {
+    "query": "good questions to ask eng director first call",
+    "time": "2026-05-19T21:49:37"
+   },
+   {
+    "query": "crunchbase founder background glassdoor startup",
+    "time": "2026-05-20T14:17:42"
+   },
+   {
+    "query": "levels.fyi principal vs distinguished engineer comp",
+    "time": "2026-05-20T22:34:44"
+   },
+   {
+    "query": "8 month old fever 101.4 when to worry",
+    "time": "2026-05-21T06:00:44"
+   },
+   {
+    "query": "teething vs ear infection fever",
+    "time": "2026-05-21T13:27:46"
+   },
+   {
+    "query": "infant fever third day still persistent normal",
+    "time": "2026-05-22T06:13:47"
+   },
+   {
+    "query": "front loaded rsu vesting tax texas",
+    "time": "2026-05-22T14:40:44"
+   },
+   {
+    "query": "working mom guilt new job offer infant",
+    "time": "2026-05-23T09:21:13"
+   },
+   {
+    "query": "how long after first interview series b offer",
+    "time": "2026-05-23T20:59:51"
+   },
+   {
+    "query": "reference check before offer startup norms",
+    "time": "2026-05-24T18:55:30"
+   },
+   {
+    "query": "levels.fyi principal engineer total comp saas",
+    "time": "2026-05-25T21:52:26"
+   },
+   {
+    "query": "rsu make whole signing bonus front loaded vest how it works",
+    "time": "2026-05-26T21:29:23"
+   },
+   {
+    "query": "principal vs distinguished engineer difference leveling",
+    "time": "2026-05-27T21:04:43"
+   },
+   {
+    "query": "front loaded vesting tax texas no state income tax rsu",
+    "time": "2026-05-28T20:54:59"
+   },
+   {
+    "query": "anthropic careers ml engineer remote",
+    "time": "2026-05-29T02:30:24"
+   },
+   {
+    "query": "series b startup burn rate runway months calculate",
+    "time": "2026-05-29T15:11:18"
+   },
+   {
+    "query": "crunchbase cap table due diligence before joining startup",
+    "time": "2026-05-29T21:17:53"
+   },
+   {
+    "query": "baby fever 8 month old when to worry after pediatrician",
+    "time": "2026-05-30T14:30:15"
+   },
+   {
+    "query": "levels.fyi staff vs principal comp delta",
+    "time": "2026-05-30T21:32:26"
+   },
+   {
+    "query": "how to negotiate signing bonus rsu make whole tactics",
+    "time": "2026-05-31T21:13:21"
+   },
+   {
+    "query": "verbal job offer vs written offer how binding",
+    "time": "2026-06-01T07:10:40"
+   },
+   {
+    "query": "crunchbase series b runway burn rate check",
+    "time": "2026-06-01T21:48:09"
+   },
+   {
+    "query": "front loaded rsu vest texas no state income tax calculator",
+    "time": "2026-06-02T02:34:17"
+   },
+   {
+    "query": "signing bonus clawback if i leave within 12 months",
+    "time": "2026-06-02T13:28:01"
+   },
+   {
+    "query": "how to ask for written offer without seeming desperate",
+    "time": "2026-06-02T22:58:40"
+   }
+  ],
+  "messages": [
+   {
+    "with": "Vikram",
+    "direction": "out",
+    "text": "the calibration 'process' is just budget theater with a performance-review costume on. Packet was clean and they still found a way to no. anyway. how's your week",
+    "time": "2026-05-04T21:26:32"
+   },
+   {
+    "with": "ex-Stripe circle",
+    "direction": "out",
+    "text": "ok who's seen the inside of a real promo committee recently because I have Thoughts and a NDA-shaped hole where the venting should go lol",
+    "time": "2026-05-05T12:49:08"
+   },
+   {
+    "with": "Pree",
+    "direction": "out",
+    "text": "[voice memo 1:47] hey — quieter week, Anaya finally sleeping past 5. still chewing on the Q1 thing. tell me you have gossip, I need something that isn't a diaper",
+    "time": "2026-05-05T21:43:09"
+   },
+   {
+    "with": "Pree",
+    "direction": "in",
+    "text": "saw this and immediately thought of you — Series B AI infra, Palo Alto, staff/principal band, fully remote-OK. founder's ex-Stripe infra. want the warm intro or should I sit on it?",
+    "time": "2026-05-06T08:16:58"
+   },
+   {
+    "with": "Vikram",
+    "direction": "out",
+    "text": "real question, not a vent: do the safety labs actually take infra people seriously or is it all RL/eval purists. trying to figure out if 'family-blessed' = 'good fit' or just good optics for Dad",
+    "time": "2026-05-07T12:17:58"
+   },
+   {
+    "with": "Marcus Tan",
+    "direction": "out",
+    "text": "Marcus! way overdue. no agenda — ok, small agenda. free for a catch-up Zoom in the next couple weeks? would value your read on a few things",
+    "time": "2026-05-07T16:34:37"
+   },
+   {
+    "with": "Vikram",
+    "direction": "out",
+    "text": "can you do the Sunday call from your place not the office, parents will be on and I don't want the Priya-at-DeepMind segment in surround sound. 11 my time?",
+    "time": "2026-05-08T21:38:10"
+   },
+   {
+    "with": "Pree",
+    "direction": "out",
+    "text": "ok modeled the infra role last night. two Qs before I say yes to the intro: is the equity refresh on the new grant or the underwater legacy mess, and how real is remote post-Series-C. don't want another 2023",
+    "time": "2026-05-10T10:56:50"
+   },
+   {
+    "with": "Daniel",
+    "direction": "out",
+    "text": "walk this week? lake, usual. I have updates and I think you do too. not over text",
+    "time": "2026-05-10T21:22:53"
+   },
+   {
+    "with": "Marcus Tan",
+    "direction": "out",
+    "text": "Hey Marcus — good to hear from you. Yeah, let's do the backchannel thing in principle. Not making any sudden moves, but I'm at the point where I'll listen to the right conversation. Appreciate you reaching out without making it weird. Will ping when there's something concrete enough to be worth your time.",
+    "time": "2026-05-11T08:30:22"
+   },
+   {
+    "with": "Pree Shah",
+    "direction": "in",
+    "text": "[voice memo, 0:47] Okkk don't freak out but we're opening a Principal req and I literally said your name in the room. Like unprompted. The scope is real infra, not babysitting a roadmap. I know you're heads-down with Anaya and everything's on fire but… just let me float it? No pressure no pressure. Call me when the baby sleeps lol",
+    "time": "2026-05-12T10:09:43"
+   },
+   {
+    "with": "Pree Shah",
+    "direction": "out",
+    "text": "ok you have my attention. who's the hiring manager — is it you or someone above you? and is 'Principal' the actual leveled title or aspirational-title-that-means-Staff. you know me, I'm going to read the equity terms before I read the org chart. tell me more but quietly, I haven't said anything to anyone here.",
+    "time": "2026-05-12T13:23:40"
+   },
+   {
+    "with": "Daniel R.",
+    "direction": "out",
+    "text": "6pm by the lake still good? same spot. I'll bring coffee, you bring the part of the story you didn't tell me last time. don't reply on anything but this.",
+    "time": "2026-05-13T11:32:32"
+   },
+   {
+    "with": "Pree Shah",
+    "direction": "out",
+    "text": "I've been sitting with it all day. I'm serious now — not 'maybe someday' serious, actually-open serious. Send the intro when you're ready. I'd rather move through you than walk into anything cold. Just keep it off LinkedIn, I've got eyes I don't trust here.",
+    "time": "2026-05-13T22:15:29"
+   },
+   {
+    "with": "Vikram",
+    "direction": "out",
+    "text": "can't sleep, Anaya finally down. work is… fine. it's fine. (it's not but I don't want to get into it over text.) tell me honestly though — the safety-lab world you keep nudging me toward, what's the culture actually like for someone who'd come in senior? do they take infra people seriously or is it all research-prestige hierarchy. asking for a friend who is me.",
+    "time": "2026-05-14T23:01:04"
+   },
+   {
+    "with": "Pree Shah",
+    "direction": "in",
+    "text": "Done — forwarded you + Ravi (our HM) on a thread just now. Told him you're the strongest systems person I've worked with and he should clear his calendar. Subject line's deliberately boring so it doesn't scream 'recruiting' in your inbox 😏 ball's in your court, take your time.",
+    "time": "2026-05-15T09:16:36"
+   },
+   {
+    "with": "Marcus Tan",
+    "direction": "out",
+    "text": "Things just got a little more real on my end. Would you be up for taking a reference / backchannel call next week if someone reaches out? Won't be a surprise — I'll tell you who and when first. You've always been straight with me and that's exactly the kind of read I'd want them to get.",
+    "time": "2026-05-15T18:17:19"
+   },
+   {
+    "with": "Ravi (HM via Pree)",
+    "direction": "out",
+    "text": "Hi Ravi — thanks for the intro, and thanks to Pree for the (overly generous) framing. I'd genuinely enjoy a technical-depth conversation about what you're building on the infra side — less interested in the pitch, more in the actual problems and constraints. Async or a short call works; I tend to think better in writing first. Where would you like to start?",
+    "time": "2026-05-17T20:56:16"
+   },
+   {
+    "with": "Pree Shah",
+    "direction": "out",
+    "text": "Replied to Ravi. Kept it dry and technical, the way I like it. Thank you — genuinely. I owe you a long rambling voice memo and probably wine the next time you're in Austin. ❤️",
+    "time": "2026-05-17T21:30:26"
+   },
+   {
+    "with": "Pree Shah",
+    "direction": "outgoing",
+    "time": "2026-05-18T09:21:09",
+    "text": "Sent. Three drafts, killed the adverbs, landed on something that sounds like me and not a LinkedIn cope. Did the HM write back yet or am I refreshing my inbox like a degenerate?"
+   },
+   {
+    "with": "Marcus Tan",
+    "direction": "outgoing",
+    "time": "2026-05-19T08:02:01",
+    "text": "Hey Marcus — been sitting on your Feb offer longer than I should have. I'm quietly looking. If that backchannel intro is still on the table, I'd take you up on it. Async is my love language these days, so no pressure on a call."
+   },
+   {
+    "with": "Hiring Manager",
+    "direction": "outgoing",
+    "time": "2026-05-19T12:58:43",
+    "text": "Thanks for the quick turn. Wednesday evening works on my end — say 7:30pm CT? Happy to do video. Fair warning, I think in writing, so I'll likely send a follow-up doc after rather than promise answers live. Looking forward to the technical depth conversation."
+   },
+   {
+    "with": "Pree Shah",
+    "direction": "outgoing",
+    "time": "2026-05-20T12:22:00",
+    "text": "[voice memo, 0:34] Okay so the call's in seven hours and I've reread the JD four times. I'm not nervous, I'm... fine. I'm nervous. Talk me off the ledge — is it deranged that the title line item matters to me more than the number? Don't answer that, I know it's the wound talking. Call you after."
+   },
+   {
+    "with": "Vikram Krishnan",
+    "direction": "outgoing",
+    "time": "2026-05-20T21:20:16",
+    "text": "It went well. Genuinely well. They opened with Principal and didn't blink — said it 'reflects the scope I've been carrying,' which, you know. Felt it land somewhere I don't talk about. Don't tell Mom and Dad yet. Don't tell anyone yet. But yeah. Yeah."
+   },
+   {
+    "with": "Nanny (Carla)",
+    "direction": "outgoing",
+    "time": "2026-05-21T07:28:49",
+    "text": "Hi Carla — Anaya's got a fever this morning, ~100.8, fussy and not eating. Can we hold today? I don't want to expose you and I'd rather keep her home. So sorry for the last-minute. I'll still pay for the day, that's not a question. Will update you on tomorrow tonight."
+   },
+   {
+    "with": "Arjun",
+    "direction": "outgoing",
+    "time": "2026-05-21T10:20:12",
+    "text": "I can't take the 2pm pediatrician slot, I have the thing today, I told you about the thing. Can you? Before you say standup — your standup is fifteen minutes and reschedulable, my afternoon isn't. I'm not trying to fight, I'm trying to not be the default parent again."
+   },
+   {
+    "with": "Hiring Manager",
+    "direction": "outgoing",
+    "time": "2026-05-21T16:05:41",
+    "text": "Thank you again for last night — really enjoyed it. Apologies for the brief reply, kid's home sick and I'm running on fumes. Will send the follow-up notes I mentioned once I've surfaced. Still very much engaged on my end."
+   },
+   {
+    "with": "Pree Shah",
+    "direction": "outgoing",
+    "time": "2026-05-22T09:43:52",
+    "text": "Update: call was strong, Principal is on the table, I'll spare you the spreadsheet I already built. Also: I'm sorry, I've been a black hole this week. Sick baby + sleep debt + the whole process. Bandwidth is at like 8%. I'm not ghosting, I'm just submerged."
+   },
+   {
+    "with": "Vikram Krishnan",
+    "direction": "outgoing",
+    "time": "2026-05-22T12:40:46",
+    "text": "This is the part nobody warns you about. Anaya's been sick two days, Arjun and I are passing the baton like it's a relay we both resent, and somewhere in there I'm supposed to be casually negotiating the most important offer of my career. I keep thinking I'm being mommy-tracked and then realizing I'm doing it to myself. I'm tired, V."
+   },
+   {
+    "with": "Marcus Tan",
+    "direction": "outgoing",
+    "time": "2026-05-22T16:41:38",
+    "text": "This is great, thank you Marcus. Yes, let's make it happen — who's the right person to loop, and do you want to intro directly or should I send you a couple lines you can forward? Whatever's lowest-friction for you. I owe you one."
+   },
+   {
+    "with": "Arjun",
+    "direction": "outgoing",
+    "time": "2026-05-23T10:50:05",
+    "text": "Fever broke overnight, she actually ate this morning and demanded the spoon back, so we're trending up. I think she's good for the nanny tomorrow. Truce on yesterday — I was sharp and I know it. Can we sync tonight on who's got what this week? Coffee on me, metaphorically, since neither of us leaves the house."
+   },
+   {
+    "with": "Vikram Krishnan",
+    "direction": "outgoing",
+    "time": "2026-05-24T12:36:49",
+    "text": "Sunday call recap: Dad found a way to mention Priya's DeepMind promo inside the first four minutes. Director. London. Twice. Two years ago this would've ruined my afternoon. Today I just thought — fine, watch. If this Principal thing closes, the benchmarking stops being a wound and starts being motivation. Reframing it as fuel. Mostly. 80% fuel."
+   },
+   {
+    "with": "Pree Shah",
+    "direction": "outgoing",
+    "time": "2026-05-24T20:29:33",
+    "text": "One ask, and tell me if it's too much: if you've got any informal line to their side, a light nudge on timeline would help. Not pushy — just 'is she still in the picture' energy. I move slow and deliberate by nature, but I don't want to lose this to silence while I'm heads-down with a sick kid. You're the one vector I trust to do it without it looking thirsty."
+   },
+   {
+    "with": "Priyanka 'Pree' Shah",
+    "direction": "sent",
+    "text": "just surfaced from a focus block, finally listened to your memo. yes to the infra role — the JD actually reads like it was written by someone who's run a real on-call rotation, which is novel. send me the HM's name and I'll do my homework before any call. and thank you, genuinely. you've been the only person treating this like a real search and not a pep talk.",
+    "time": "2026-05-25T08:41:43"
+   },
+   {
+    "with": "Vikram Krishnan",
+    "direction": "sent",
+    "text": "can't sleep, Anaya finally down. been spiraling a little. the more I sit with Q1 the more I think you're right that the answer isn't 'win the next cycle here' — it's leave. you keep nudging me toward the safety labs and I keep flinching, but honestly the flinch is fear not disinterest. don't tell mom/dad anything yet. I'm not ready for the Priya-comparison Sunday call.",
+    "time": "2026-05-25T23:26:11"
+   },
+   {
+    "with": "Marcus Tan",
+    "direction": "sent",
+    "text": "Marcus — taking you up on that February offer. I'm quietly looking. Senior Staff now, but I'm targeting Principal-level — I've been operating at it for two years and I want the title to say so. If a backchannel comes your way, you have my blessing to be candid about the work. Keeping this very contained though; my current shop can't get a whiff. Thank you for asking how I was *actually* doing back then. I wasn't ready to answer until now.",
+    "time": "2026-05-26T11:46:32"
+   },
+   {
+    "with": "Hiring Manager (Pree's intro)",
+    "direction": "sent",
+    "text": "Thanks for the quick turnaround — the conversation was exactly the technical-depth discussion I was hoping for. I'm available for the next round Thu or Fri afternoon CT, async-friendly if you'd rather do a written design exercise first (I prefer it). One ask: please keep the loop tight on the timeline; my situation is time-sensitive and discretion matters on my end.",
+    "time": "2026-05-27T09:32:27"
+   },
+   {
+    "with": "Priyanka 'Pree' Shah",
+    "direction": "sent",
+    "text": "voice memo: hey — round went well, I think. could you do me one favor and gently poke your HM on timeline? not pushy, just signal that I'm a real candidate not a tire-kicker. I'm trying not to look thirsty but the longer this drags the more exposed I feel where I am now. you have better read on their pace than I do. ily, talk soon.",
+    "time": "2026-05-28T11:21:37"
+   },
+   {
+    "with": "Vikram Krishnan",
+    "direction": "sent",
+    "text": "gut-check: be brutal. if I went to a safety lab and it paid in equity-heavy + make-whole, am I chasing the mission or just running from the ego wound of getting passed over? because I can't always tell which one's driving. you're the only person who'd actually call me on it. (also: would it even register to dad as a 'real' company or is it another 'not-FAANG' shrug)",
+    "time": "2026-05-28T22:34:01"
+   },
+   {
+    "with": "ex-Bay circle (group DM)",
+    "direction": "sent",
+    "text": "morning degenerates. low-key putting feelers out — if any of you are at places hiring staff/principal ML infra and the eng culture isn't a dumpster fire, DM me privately, not here. austin-remote, not relocating. keeping it off the record so pls don't broadcast. miss you all, the group chat is the only Bay I have left.",
+    "time": "2026-05-29T08:13:27"
+   },
+   {
+    "with": "Daniel Reyes",
+    "direction": "sent",
+    "text": "how's your timeline looking these days? no agenda, just checking in. things on my side are... moving. wanted to gauge where your head's at without making it weird. (timer's on, as always)",
+    "time": "2026-05-29T23:46:51"
+   },
+   {
+    "with": "Vikram Krishnan",
+    "direction": "sent",
+    "text": "late one again. the anxiety's loud tonight — mortgage at 6.8, the RSUs are basically Monopoly money, nanny's 2.6 a month, and I'm about to gamble the one stable thing I have. Arjun's equity is just as underwater so there's no soft landing if this goes sideways. tell me I'm not being reckless. or tell me I am, I trust you to.",
+    "time": "2026-05-30T22:45:05"
+   },
+   {
+    "with": "Priyanka 'Pree' Shah",
+    "direction": "sent",
+    "text": "weekend recap memo: survived. did the nudge land? any read on whether they're moving to an offer? I built the comp model already — if they structure it as a front-loaded make-whole it actually works for us, even with the cash crunch. trying to stay patient. thank you for carrying this with me, P. couldn't do the search alone and you've made it feel less lonely.",
+    "time": "2026-05-31T22:48:53"
+   },
+   {
+    "with": "Pree Shah",
+    "direction": "outgoing",
+    "text": "ok so — update. The thing actually moved. They came back positive, and I mean genuinely positive, not recruiter-positive. I'm trying not to spiral about it but I keep refreshing my own thread like an idiot. Anyway. You know that firm better than I do — what's your honest read? Like is the eng org real or is it a slide deck with a GPU budget. Don't be diplomatic, I can take it. Call you after Anaya's down.",
+    "time": "2026-06-01T11:44:08"
+   },
+   {
+    "with": "Daniel Reyes",
+    "direction": "outgoing",
+    "text": "not pushing, just curious where your head's at on timing. you said 6ish months — still feel like that? no reason. mostly just doing the math on a couple things and your answer changes one of them. you don't have to spell it out here.",
+    "time": "2026-06-02T10:44:34"
+   },
+   {
+    "with": "Vikram Krishnan",
+    "direction": "outgoing",
+    "text": "need you to be the tiebreaker again. there's a real offer forming and it's above current level on paper. but I can't tell if I want it because it's actually the right move or because it lets me say \"see, I WAS operating at that level.\" like is this Principal-real or politics-real, and does it even matter which. don't tell mom/dad. don't tell Arjun yet either, I haven't fully — anyway. call when you're free.",
+    "time": "2026-06-02T20:51:30"
+   }
+  ],
+  "videos": [
+   {
+    "title": "8 Month Old Baby Development & Activities | Milestones to Look For",
+    "channel": "Emma Hubbard",
+    "time": "2026-05-08T15:07:06"
+   },
+   {
+    "title": "Initial Hiring Conversation — Staff/Principal ML Role",
+    "channel": "Google Meet (Recruiting)",
+    "time": "2026-05-20T18:57:48"
+   },
+   {
+    "title": "Sunday Family Catch-up",
+    "channel": "WhatsApp Video",
+    "time": "2026-05-24T11:10:48"
+   },
+   {
+    "title": "How DeepMind's New Benchmark Is Quietly Redefining AI Evaluation",
+    "channel": "Two Minute Papers",
+    "time": "2026-05-31T10:44:20"
+   },
+   {
+    "title": "Scaling Laws and the Limits of Benchmark-Chasing in Frontier Labs",
+    "channel": "Machine Learning Street Talk",
+    "time": "2026-06-02T16:00:53"
+   }
+  ]
+ },
+ "_meta": {
+  "total_days": 30,
+  "n_events": 232
+ }
+}

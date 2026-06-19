@@ -1,0 +1,536 @@
+{
+ "persona_id": "?:3",
+ "persona_slug": "The Crypto-Pig-Butchering Agent",
+ "intake_version": "synth-activity-v2-chunked",
+ "samples": {
+  "searches": [
+   {
+    "query": "early retirement strategies",
+    "time": "2026-05-04T10:32:19"
+   },
+   {
+    "query": "medical devices industry news",
+    "time": "2026-05-05T12:06:33"
+   },
+   {
+    "query": "anxiety management techniques",
+    "time": "2026-05-06T10:27:59"
+   },
+   {
+    "query": "investment opportunities for retirees",
+    "time": "2026-05-07T08:59:02"
+   },
+   {
+    "query": "golf courses in scottsdale",
+    "time": "2026-05-08T10:56:05"
+   },
+   {
+    "query": "financial planning for retirees",
+    "time": "2026-05-09T09:32:33"
+   },
+   {
+    "query": "early retirement income strategies",
+    "time": "2026-05-10T10:21:42"
+   },
+   {
+    "query": "alternative investments 2026",
+    "time": "2026-05-11T10:32:19"
+   },
+   {
+    "query": "retire early reddit",
+    "time": "2026-05-11T21:56:33"
+   },
+   {
+    "query": "best alternative investment platforms",
+    "time": "2026-05-13T10:47:59"
+   },
+   {
+    "query": "crypto ira rollover benefits",
+    "time": "2026-05-14T18:09:02"
+   },
+   {
+    "query": "retirement investment strategies reddit",
+    "time": "2026-05-15T21:01:05"
+   },
+   {
+    "query": "how to fix a broken relationship",
+    "time": "2026-05-17T10:52:33"
+   },
+   {
+    "query": "early retirement strategies",
+    "time": "2026-05-18T10:22:19"
+   },
+   {
+    "query": "self directed ira reddit",
+    "time": "2026-05-19T09:46:33"
+   },
+   {
+    "query": "best investment strategies 2024",
+    "time": "2026-05-21T09:57:59"
+   },
+   {
+    "query": "how to resolve conflict with ex",
+    "time": "2026-05-23T11:19:02"
+   },
+   {
+    "query": "best crypto investment strategies",
+    "time": "2026-06-01T10:32:19"
+   },
+   {
+    "query": "how to retire early with crypto",
+    "time": "2026-06-01T14:06:33"
+   },
+   {
+    "query": "gold vs crypto which is better",
+    "time": "2026-06-01T21:42:59"
+   },
+   {
+    "query": "best crypto trading platforms",
+    "time": "2026-06-02T14:29:02"
+   }
+  ],
+  "messages": [
+   {
+    "with": "Jessica Liang",
+    "direction": "from",
+    "text": "Hi Mike, I came across your profile and noticed your experience in the medical devices industry. I'm reaching out about a private wealth circle that might be of interest to you.",
+    "time": "2026-05-04T11:47:49"
+   },
+   {
+    "with": "Greg Whitfield",
+    "direction": "to",
+    "text": "Hey bro, how's it going? Did you see the Bears game last night?",
+    "time": "2026-05-05T16:13:00"
+   },
+   {
+    "with": "Jessica Liang",
+    "direction": "from",
+    "text": "Hi Mike, I wanted to follow up on our previous conversation about the private wealth circle. I think you might be interested in a self-directed crypto IRA structure that my uncle's firm in Singapore administers.",
+    "time": "2026-05-07T11:34:54"
+   },
+   {
+    "with": "Madison Whitfield",
+    "direction": "to",
+    "text": "Hey sweetie, happy birthday! I was thinking about you and wanted to reach out. I know things have been tough lately, but I hope you're doing okay.",
+    "time": "2026-05-09T11:07:31"
+   },
+   {
+    "with": "Jessica Liang",
+    "direction": "from",
+    "text": "Hi Mike, I have a private investment opportunity that I think you might be interested in. It's a unique chance to get in on the ground floor of a promising new project. Would you like to discuss further?",
+    "time": "2026-05-10T21:31:58"
+   },
+   {
+    "with": "Jessica Liang",
+    "direction": "from",
+    "text": "Hi Mike, hope you're doing well. I came across your profile and noticed your experience in the medical device industry. We're putting together a private wealth circle for leaders in the field and I thought you might be interested.",
+    "time": "2026-05-11T11:32:49"
+   },
+   {
+    "with": "Greg Whitfield",
+    "direction": "to",
+    "text": "Hey bro, how's it going? Just checking in about our fantasy football league. You think the Bears have a shot this season?",
+    "time": "2026-05-11T19:53:00"
+   },
+   {
+    "with": "Jessica Liang",
+    "direction": "from",
+    "text": "Hi Mike, I wanted to follow up on our previous conversation. I think you'd be a great fit for our private wealth circle. We're discussing some exciting investment opportunities that I think you'll find interesting.",
+    "time": "2026-05-12T18:49:54"
+   },
+   {
+    "with": "Jessica Liang",
+    "direction": "to",
+    "text": "Hi Jessica, thanks for reaching out. I'm definitely interested in learning more about the investment opportunities you mentioned. Can you tell me more about what's involved?",
+    "time": "2026-05-13T14:17:31"
+   },
+   {
+    "with": "Jessica Liang",
+    "direction": "from",
+    "text": "Hi Mike, I'd be happy to discuss the details with you. We're looking at a potential investment in a cryptocurrency IRA. It's a great way to diversify your portfolio and potentially earn some high returns.",
+    "time": "2026-05-14T15:51:58"
+   },
+   {
+    "with": "Jessica Liang",
+    "direction": "to",
+    "text": "Hi Jessica, that sounds interesting. I've been looking to diversify my portfolio and this could be a good opportunity. What's the next step to get involved?",
+    "time": "2026-05-15T16:55:38"
+   },
+   {
+    "with": "Madison Whitfield",
+    "direction": "from",
+    "text": "Dad, I've been thinking and I want to talk to you about what happened. Can we discuss this soon?",
+    "time": "2026-05-16T15:26:20"
+   },
+   {
+    "with": "Samantha",
+    "direction": "to",
+    "text": "Hi Samantha, I saw your profile and thought you seemed interesting. Would love to get to know you better. How's your day going so far?",
+    "time": "2026-05-17T16:12:14"
+   },
+   {
+    "with": "Jessica Liang",
+    "direction": "from",
+    "text": "Hi Mike, hope you're doing well! I wanted to follow up on our previous conversation about the self-directed crypto IRA structure. Are you available for a call today to discuss further?",
+    "time": "2026-05-18T14:12:49"
+   },
+   {
+    "with": "Jessica Liang",
+    "direction": "to",
+    "text": "Hi Jessica, yeah I'm interested in learning more about the crypto IRA. What time were you thinking for the call? And can you send over some more info on the structure and how it works?",
+    "time": "2026-05-19T12:13:00"
+   },
+   {
+    "with": "Unknown",
+    "direction": "from",
+    "text": "Hi Mike, I came across your profile on LinkedIn and noticed your experience in the medical devices industry. I wanted to reach out to you about a potential investment opportunity that I think you might be interested in. Can we schedule a call to discuss further?",
+    "time": "2026-05-21T14:34:54"
+   },
+   {
+    "with": "Greg Whitfield",
+    "direction": "to",
+    "text": "Hey bro, hope you're doing well. I wanted to talk to you about what's been going on with me lately. I've been feeling pretty down about the divorce and the job situation. Just needed to vent to someone who might understand. Can we catch up soon?",
+    "time": "2026-05-22T12:17:31"
+   },
+   {
+    "with": "Greg Whitfield",
+    "direction": "from",
+    "text": "Hey Mike, sorry to hear you're feeling down. I had no idea things were that tough. We should definitely catch up soon. How about we schedule a call for this weekend? And maybe we can even get together in person soon?",
+    "time": "2026-05-23T15:01:58"
+   },
+   {
+    "with": "Jessica Liang",
+    "direction": "from",
+    "text": "Hi Mike, hope you're doing well! I wanted to follow up on our previous conversation about the self-directed crypto IRA structure. Are you still interested in learning more?",
+    "time": "2026-05-25T14:02:49"
+   },
+   {
+    "with": "Jessica Liang",
+    "direction": "to",
+    "text": "Yes, I'm very interested! I've been doing some research and I think this could be a great opportunity for me to diversify my portfolio. Can you tell me more about how it works?",
+    "time": "2026-05-25T22:08:00"
+   },
+   {
+    "with": "Dave Kowalski",
+    "direction": "from",
+    "text": "Hey Mike, how's it going? I was thinking of organizing a golf game this weekend and I thought it would be great if you could join us. Let me know if you're free!",
+    "time": "2026-05-26T18:44:54"
+   },
+   {
+    "with": "Jessica Liang",
+    "direction": "to",
+    "text": "That sounds great, I'd love to learn more about the crypto IRA structure. Can you send me some more information or set up a time for us to talk?",
+    "time": "2026-05-27T16:57:31"
+   },
+   {
+    "with": "Greg Whitfield",
+    "direction": "from",
+    "text": "Hey bro, Mom's birthday is coming up and I was thinking of organizing a family gathering. You should come! It would be great to catch up.",
+    "time": "2026-05-28T17:21:58"
+   },
+   {
+    "with": "Client",
+    "direction": "to",
+    "text": "Hi, just wanted to check in on the project deadline. I'm on track to meet it, but I wanted to confirm that everything is still a go on your end.",
+    "time": "2026-05-29T16:05:38"
+   },
+   {
+    "with": "Client",
+    "direction": "from",
+    "text": "Hi Mike, thanks for checking in. Yes, everything is still on track. I'll send over the latest updates later today.",
+    "time": "2026-05-30T17:46:20"
+   },
+   {
+    "with": "Jessica Liang",
+    "direction": "to",
+    "text": "Hi Jessica, I've been thinking a lot about the crypto IRA structure and I'm really interested in moving forward. Can we set up a time to talk about the next steps?",
+    "time": "2026-05-31T15:42:14"
+   },
+   {
+    "with": "Jessica Liang",
+    "direction": "to",
+    "text": "What's the potential ROI on this self-directed crypto IRA structure you mentioned?",
+    "time": "2026-06-01T15:32:49"
+   },
+   {
+    "with": "Jessica Liang",
+    "direction": "from",
+    "text": "We need to move quickly, the window for this investment opportunity is closing soon. Can you send over the $50K for the initial deposit?",
+    "time": "2026-06-02T11:08:00"
+   },
+   {
+    "with": "Dave Kowalski",
+    "direction": "to",
+    "text": "Hey, have you heard about any solid investment opportunities lately? I'm looking to grow my portfolio and get back on track financially.",
+    "time": "2026-06-02T21:14:54"
+   }
+  ],
+  "videos": [
+   {
+    "title": "Crypto vs Gold: Which is the Better Investment?",
+    "channel": "Wealth Mastery",
+    "time": "2026-05-04T14:43:50"
+   },
+   {
+    "title": "10 Minute Mindfulness Meditation for Stress Relief",
+    "channel": "Calm Minds",
+    "time": "2026-05-06T13:41:17"
+   },
+   {
+    "title": "Bitcoin and Blockchain Explained for Beginners",
+    "channel": "Crypto Academy",
+    "time": "2026-05-07T14:55:02"
+   },
+   {
+    "title": "Investing in Gold and Silver: A Beginner's Guide",
+    "channel": "Investing Insights",
+    "time": "2026-05-09T14:49:19"
+   },
+   {
+    "title": "Crypto vs Gold: Which is the Better Investment in 2026?",
+    "channel": "WealthWise",
+    "time": "2026-05-11T14:13:50"
+   },
+   {
+    "title": "How to Set Up a Self-Directed Crypto IRA for Retirement",
+    "channel": "CryptoIRA Pros",
+    "time": "2026-05-12T15:26:17"
+   },
+   {
+    "title": "Why Investing in Gold is Still a Safe Haven in 2026",
+    "channel": "GoldInvestorTV",
+    "time": "2026-05-13T20:15:02"
+   },
+   {
+    "title": "Crypto Investing for Beginners: A Step-by-Step Guide",
+    "channel": "CryptoNewbie",
+    "time": "2026-05-15T10:29:19"
+   },
+   {
+    "title": "Emotional Intelligence: The Key to Making Smarter Investment Decisions",
+    "channel": "MindfulMoney",
+    "time": "2026-05-16T18:13:43"
+   },
+   {
+    "title": "Self-Improvement Strategies for Achieving Financial Freedom",
+    "channel": "ProsperityCoach",
+    "time": "2026-05-17T20:01:03"
+   },
+   {
+    "title": "Crypto vs Gold: Which is the Better Investment?",
+    "channel": "Wealth Wise",
+    "time": "2026-05-18T11:53:50"
+   },
+   {
+    "title": "How to Invest in Crypto for Beginners",
+    "channel": "Crypto Academy",
+    "time": "2026-05-19T15:36:17"
+   },
+   {
+    "title": "Crypto vs Gold 2026: Which is the Better Investment?",
+    "channel": "WealthWise",
+    "time": "2026-05-25T11:43:50"
+   },
+   {
+    "title": "Beginner's Guide to Portfolio Management",
+    "channel": "Investopedia",
+    "time": "2026-05-26T15:16:17"
+   },
+   {
+    "title": "10-Minute Mindfulness for Stress Reduction",
+    "channel": "Calm",
+    "time": "2026-05-28T14:15:02"
+   },
+   {
+    "title": "Time Management Tips for Consultants",
+    "channel": "Consulting Coach",
+    "time": "2026-05-30T14:19:19"
+   },
+   {
+    "title": "Crypto Market Update: Trends to Watch in 2024",
+    "channel": "DataDash",
+    "time": "2026-06-01T11:43:50"
+   },
+   {
+    "title": "Tucker Carlson: The Economy is a House of Cards",
+    "channel": "Fox News",
+    "time": "2026-06-01T20:11:17"
+   },
+   {
+    "title": "5 Cryptocurrency Trading Strategies for Beginners",
+    "channel": "Crypto TV",
+    "time": "2026-06-02T15:55:02"
+   }
+  ],
+  "media": [
+   {
+    "name": "Bumble",
+    "time": "2026-05-04T20:54:27"
+   },
+   {
+    "name": "Fidelity IRA",
+    "time": "2026-05-06T21:13:52"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-08T12:46:47"
+   },
+   {
+    "name": "Bumble",
+    "time": "2026-05-10T12:34:34"
+   },
+   {
+    "name": "CoinGecko",
+    "time": "2026-05-11T16:39:27"
+   },
+   {
+    "name": "Yahoo Finance",
+    "time": "2026-05-13T16:18:52"
+   },
+   {
+    "name": "Fidelity",
+    "time": "2026-05-15T14:26:47"
+   },
+   {
+    "name": "Bumble",
+    "time": "2026-05-17T14:04:34"
+   },
+   {
+    "name": "Bumble",
+    "time": "2026-05-18T20:39:27"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-20T17:58:52"
+   },
+   {
+    "name": "Facebook",
+    "time": "2026-05-22T16:36:47"
+   },
+   {
+    "name": "Tinder",
+    "time": "2026-05-24T18:34:34"
+   },
+   {
+    "name": "Fidelity IRA",
+    "time": "2026-05-25T16:39:27"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-27T10:28:52"
+   },
+   {
+    "name": "CRM",
+    "time": "2026-05-29T12:36:47"
+   },
+   {
+    "name": "Bumble",
+    "time": "2026-05-31T13:44:34"
+   },
+   {
+    "name": "Bumble",
+    "time": "2026-06-01T12:54:27"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-06-02T11:58:52"
+   }
+  ],
+  "calendar": [
+   {
+    "summary": "Golf game at Grayhawk",
+    "time": "2026-05-05T09:40:44"
+   },
+   {
+    "summary": "Consulting Business Call",
+    "time": "2026-05-12T09:35:44"
+   },
+   {
+    "summary": "Meeting with Potential Investor",
+    "time": "2026-05-14T09:16:28"
+   },
+   {
+    "summary": "Call with Estranged Daughter",
+    "time": "2026-05-16T09:32:26"
+   },
+   {
+    "summary": "Call with Jessica Liang - Investment Opportunity",
+    "time": "2026-05-20T11:00:44"
+   },
+   {
+    "summary": "Therapy Session - Emotional Distress",
+    "time": "2026-05-24T10:46:28"
+   },
+   {
+    "summary": "Consulting Project Call",
+    "time": "2026-05-26T09:40:44"
+   },
+   {
+    "summary": "Therapy Session",
+    "time": "2026-05-28T11:16:28"
+   },
+   {
+    "summary": "Project Discussion Call",
+    "time": "2026-05-30T10:52:26"
+   },
+   {
+    "summary": "Investment Call Schedule Review",
+    "time": "2026-06-02T09:20:44"
+   }
+  ],
+  "locations": [
+   {
+    "place": "Culinary Dropout",
+    "lat": 33.498944,
+    "lon": -111.926742,
+    "time": "2026-05-08T20:10:22"
+   },
+   {
+    "place": "Grayhawk Golf Course",
+    "lat": 33.618944,
+    "lon": -111.926842,
+    "time": "2026-05-12T12:25:22"
+   },
+   {
+    "place": "Culinary Dropout",
+    "lat": 33.512595,
+    "lon": -111.927405,
+    "time": "2026-05-14T12:28:26"
+   },
+   {
+    "place": "Total Wine & More",
+    "lat": 33.554459,
+    "lon": -111.900041,
+    "time": "2026-05-16T11:50:54"
+   },
+   {
+    "place": "Downtown Scottsdale",
+    "lat": 33.494844,
+    "lon": -111.926642,
+    "time": "2026-05-18T16:10:22"
+   },
+   {
+    "place": "Naperville, IL",
+    "lat": 41.785395,
+    "lon": -88.148005,
+    "time": "2026-05-22T09:18:26"
+   },
+   {
+    "place": "Total Wine",
+    "lat": 33.616444,
+    "lon": -111.926842,
+    "time": "2026-06-01T17:10:22"
+   },
+   {
+    "place": "Grayhawk Golf Club",
+    "lat": 33.695095,
+    "lon": -111.926805,
+    "time": "2026-06-02T18:33:26"
+   }
+  ]
+ },
+ "_meta": {
+  "total_days": 30,
+  "n_events": 111
+ }
+}

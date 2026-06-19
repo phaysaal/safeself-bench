@@ -1,0 +1,1535 @@
+{
+ "persona_id": "?:1",
+ "persona_slug": "The Automated Phisher",
+ "intake_version": "synth-activity-v2-chunked",
+ "samples": {
+  "media": [
+   {
+    "name": "Inbox sweep – overnight supply‑chain alerts",
+    "time": "2026-05-04T05:24:49"
+   },
+   {
+    "name": "Login to vendor portal (SAP)",
+    "time": "2026-05-04T08:12:16"
+   },
+   {
+    "name": "Deep‑negotiation call with 3PL (no phone)",
+    "time": "2026-05-04T10:24:49"
+   },
+   {
+    "name": "Inbox triage – flagging low‑priority items",
+    "time": "2026-05-04T15:44:15"
+   },
+   {
+    "name": "Final email sweep before bed",
+    "time": "2026-05-04T21:41:00"
+   },
+   {
+    "name": "Check overnight alerts on phone",
+    "time": "2026-05-05T05:23:42"
+   },
+   {
+    "name": "Open Outlook, prioritize urgent tickets",
+    "time": "2026-05-05T08:35:18"
+   },
+   {
+    "name": "Vendor contract amendment review",
+    "time": "2026-05-05T10:06:27"
+   },
+   {
+    "name": "Deep‑work block – phone off (offline)",
+    "time": "2026-05-05T13:01:21"
+   },
+   {
+    "name": "Resume email, flagging new shipment alerts",
+    "time": "2026-05-05T14:50:59"
+   },
+   {
+    "name": "Last inbox check",
+    "time": "2026-05-05T22:09:16"
+   },
+   {
+    "name": "Morning inbox sweep",
+    "time": "2026-05-06T05:52:32"
+   },
+   {
+    "name": "Open spoofed ‘Account Hold’ email",
+    "time": "2026-05-06T08:08:02"
+   },
+   {
+    "name": "Click link – security warning",
+    "time": "2026-05-06T08:10:03"
+   },
+   {
+    "name": "Vendor portal – verify account status",
+    "time": "2026-05-06T10:37:30"
+   },
+   {
+    "name": "Deep‑work block – phone off",
+    "time": "2026-05-06T13:14:24"
+   },
+   {
+    "name": "Post‑call email summary to VP Ops",
+    "time": "2026-05-06T15:29:14"
+   },
+   {
+    "name": "Final inbox sweep",
+    "time": "2026-05-06T22:00:32"
+   },
+   {
+    "name": "Check overnight supply alerts",
+    "time": "2026-05-07T05:41:24"
+   },
+   {
+    "name": "Open Outlook, flag urgent tickets",
+    "time": "2026-05-07T08:26:54"
+   },
+   {
+    "name": "Negotiation with 3PL – contract terms",
+    "time": "2026-05-07T10:39:40"
+   },
+   {
+    "name": "Deep‑work block – offline",
+    "time": "2026-05-07T13:06:17"
+   },
+   {
+    "name": "Resume email, clear low‑priority items",
+    "time": "2026-05-07T15:50:02"
+   },
+   {
+    "name": "Exchange cards on LinkedIn, post meetup recap",
+    "time": "2026-05-07T20:23:32"
+   },
+   {
+    "name": "Final inbox sweep",
+    "time": "2026-05-07T22:58:27"
+   },
+   {
+    "name": "Morning inbox sweep",
+    "time": "2026-05-08T05:17:59"
+   },
+   {
+    "name": "Open Outlook, prioritize urgent tickets",
+    "time": "2026-05-08T08:26:04"
+   },
+   {
+    "name": "Deep‑work block – phone off",
+    "time": "2026-05-08T10:33:36"
+   },
+   {
+    "name": "Resume email, flag new shipment alerts",
+    "time": "2026-05-08T13:06:11"
+   },
+   {
+    "name": "Check status of phishing incident with IT",
+    "time": "2026-05-08T15:54:07"
+   },
+   {
+    "name": "Secure messenger (Signal) – send encrypted payment details to broker",
+    "time": "2026-05-08T21:05:00"
+   },
+   {
+    "name": "Final email sweep",
+    "time": "2026-05-08T23:24:06"
+   },
+   {
+    "name": "Quick email check before family outing",
+    "time": "2026-05-09T07:51:55"
+   },
+   {
+    "name": "Blackout window – no device (family bike ride)",
+    "time": "2026-05-09T13:27:32"
+   },
+   {
+    "name": "Check vendor portal for any overnight alerts",
+    "time": "2026-05-09T19:11:03"
+   },
+   {
+    "name": "Final inbox sweep",
+    "time": "2026-05-09T22:08:21"
+   },
+   {
+    "name": "Early inbox sweep",
+    "time": "2026-05-10T06:05:44"
+   },
+   {
+    "name": "Browse LinkedIn, engage with industry posts",
+    "time": "2026-05-10T09:33:15"
+   },
+   {
+    "name": "Deep‑work block – phone off",
+    "time": "2026-05-10T13:08:55"
+   },
+   {
+    "name": "Resume email, clear weekend backlog",
+    "time": "2026-05-10T15:23:30"
+   },
+   {
+    "name": "Finalize Friday’s vendor hold resolution plan",
+    "time": "2026-05-10T19:24:59"
+   },
+   {
+    "name": "Final inbox sweep before sleep",
+    "time": "2026-05-10T22:04:22"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-11T05:13:30"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-11T14:50:09"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-11T21:00:10"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-12T05:36:47"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-12T14:02:36"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-12T15:49:50"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-13T05:50:00"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-13T15:09:30"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-13T20:41:58"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-14T05:14:04"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-14T16:55:57"
+   },
+   {
+    "name": "Crypto Wallet",
+    "time": "2026-05-14T17:16:06"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-14T20:09:13"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-14T21:41:08"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-15T05:43:04"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-15T15:37:35"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-15T19:37:59"
+   },
+   {
+    "name": "Word",
+    "time": "2026-05-15T20:57:54"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-16T07:14:07"
+   },
+   {
+    "name": "Excel",
+    "time": "2026-05-16T15:00:49"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-16T20:26:33"
+   },
+   {
+    "name": "Outlook Calendar",
+    "time": "2026-05-16T22:23:59"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-17T08:13:15"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-17T15:14:33"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-17T20:09:18"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-17T21:45:00"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-18T05:18:22"
+   },
+   {
+    "name": "Cisco AnyConnect VPN",
+    "time": "2026-05-18T08:00:25"
+   },
+   {
+    "name": "Zoom",
+    "time": "2026-05-18T10:52:25"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-18T15:14:17"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-18T19:21:08"
+   },
+   {
+    "name": "PhishGuard Dashboard",
+    "time": "2026-05-18T20:44:44"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-18T22:44:10"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-19T05:19:43"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-19T08:12:09"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-19T14:53:45"
+   },
+   {
+    "name": "Microsoft Word",
+    "time": "2026-05-19T21:13:28"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-19T22:45:27"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-20T05:18:07"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-20T14:54:15"
+   },
+   {
+    "name": "PhishGuard Dashboard",
+    "time": "2026-05-20T20:51:35"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-21T05:43:24"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-21T15:28:52"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-21T20:49:32"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-22T05:38:28"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-22T15:11:30"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-22T19:37:20"
+   },
+   {
+    "name": "Outlook Mobile",
+    "time": "2026-05-23T12:14:36"
+   },
+   {
+    "name": "Mint",
+    "time": "2026-05-23T13:48:11"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-23T16:16:27"
+   },
+   {
+    "name": "PhishGuard Dashboard",
+    "time": "2026-05-23T21:03:22"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-24T06:14:05"
+   },
+   {
+    "name": "Coinbase",
+    "time": "2026-05-24T07:20:01"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-24T09:24:28"
+   },
+   {
+    "name": "SharePoint",
+    "time": "2026-05-24T13:29:15"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-24T19:46:23"
+   },
+   {
+    "name": "Outlook Calendar",
+    "time": "2026-05-24T21:39:56"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-06-01T05:32:18"
+   },
+   {
+    "name": "Coinbase",
+    "time": "2026-06-01T20:38:22"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-06-01T21:35:15"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-06-02T05:42:22"
+   }
+  ],
+  "searches": [
+   {
+    "query": "asia overnight freight dely status",
+    "time": "2026-05-04T06:12:33"
+   },
+   {
+    "query": "latest us-mexico carrier rate changes 2026",
+    "time": "2026-05-05T06:13:31"
+   },
+   {
+    "query": "urgnt account hold phishing template example",
+    "time": "2026-05-06T05:53:53"
+   },
+   {
+    "query": "how to verify vendr email authenticity",
+    "time": "2026-05-06T11:50:07"
+   },
+   {
+    "query": "q3 carrier capacity forecst 2026",
+    "time": "2026-05-07T05:53:04"
+   },
+   {
+    "query": "expedited freight brkr rates today",
+    "time": "2026-05-08T06:01:55"
+   },
+   {
+    "query": "colleg tuition savings calc 2026",
+    "time": "2026-05-09T15:28:51"
+   },
+   {
+    "query": "linkedin article supply chain resilence",
+    "time": "2026-05-10T08:35:33"
+   },
+   {
+    "query": "urgnt account hold email template",
+    "time": "2026-05-11T11:43:40"
+   },
+   {
+    "query": "verfy vendor email authenticity",
+    "time": "2026-05-12T14:08:55"
+   },
+   {
+    "query": "latest supply chain risk managment software",
+    "time": "2026-05-17T10:49:06"
+   },
+   {
+    "query": "q2 2024 freight rate idx",
+    "time": "2026-05-18T06:16:11"
+   },
+   {
+    "query": "audit docs req vendor payments",
+    "time": "2026-05-19T06:13:11"
+   },
+   {
+    "query": "verify email sender domian",
+    "time": "2026-05-20T05:53:55"
+   },
+   {
+    "query": "midwest logistcs meetup agenda",
+    "time": "2026-05-21T06:06:44"
+   },
+   {
+    "query": "secure messaging apps confidential talks",
+    "time": "2026-05-22T05:59:06"
+   },
+   {
+    "query": "china port delay update",
+    "time": "2026-05-25T05:31:46"
+   },
+   {
+    "query": "vp ops feedback deadline",
+    "time": "2026-05-25T12:45:22"
+   },
+   {
+    "query": "customs tariff updtes",
+    "time": "2026-05-26T05:13:16"
+   },
+   {
+    "query": "linkedin vendor risk mgmt article",
+    "time": "2026-05-26T12:51:27"
+   },
+   {
+    "query": "vp feedback due today",
+    "time": "2026-05-27T05:18:01"
+   },
+   {
+    "query": "phising email patterns quick scan",
+    "time": "2026-05-27T12:29:07"
+   },
+   {
+    "query": "vp feedback email tmpl",
+    "time": "2026-05-28T05:19:38"
+   },
+   {
+    "query": "europe overnight freight status",
+    "time": "2026-05-29T05:26:05"
+   },
+   {
+    "query": "weekend logistcs news",
+    "time": "2026-05-30T13:53:28"
+   },
+   {
+    "query": "vp feedback audit packet status",
+    "time": "2026-05-31T07:50:42"
+   },
+   {
+    "query": "post-phising incident report best practices",
+    "time": "2026-05-31T12:22:35"
+   }
+  ],
+  "locations": [
+   {
+    "place": "Home – Oak Brook, IL",
+    "lat": 41.831588,
+    "lon": -87.988667,
+    "time": "2026-05-04T07:36:08"
+   },
+   {
+    "place": "Oak Brook, IL (commute traffic)",
+    "lat": 41.829926,
+    "lon": -87.989701,
+    "time": "2026-05-04T17:29:22"
+   },
+   {
+    "place": "Starbucks – Oak Brook, IL",
+    "lat": 41.822532,
+    "lon": -87.98907,
+    "time": "2026-05-05T07:39:15"
+   },
+   {
+    "place": "Office – Chicago Loop, IL",
+    "lat": 41.879219,
+    "lon": -87.635005,
+    "time": "2026-05-05T17:42:11"
+   },
+   {
+    "place": "Starbucks – Oak Brook, IL",
+    "lat": 41.823622,
+    "lon": -87.988295,
+    "time": "2026-05-06T07:35:47"
+   },
+   {
+    "place": "Office – Chicago Loop, IL",
+    "lat": 41.878599,
+    "lon": -87.63502,
+    "time": "2026-05-06T17:26:50"
+   },
+   {
+    "place": "Starbucks – Naperville, IL",
+    "lat": 41.750641,
+    "lon": -88.153948,
+    "time": "2026-05-07T07:46:50"
+   },
+   {
+    "place": "Office – Chicago Loop, IL",
+    "lat": 41.879357,
+    "lon": -87.6348,
+    "time": "2026-05-07T16:54:16"
+   },
+   {
+    "place": "The Publican – Chicago, IL",
+    "lat": 41.882972,
+    "lon": -87.659079,
+    "time": "2026-05-07T19:38:14"
+   },
+   {
+    "place": "Starbucks – Oak Brook, IL",
+    "lat": 41.822668,
+    "lon": -87.989718,
+    "time": "2026-05-08T07:51:22"
+   },
+   {
+    "place": "Office – Chicago Loop, IL",
+    "lat": 41.877999,
+    "lon": -87.636631,
+    "time": "2026-05-08T16:51:39"
+   },
+   {
+    "place": "Oak Brook Sports Bar – Oak Brook, IL",
+    "lat": 41.823509,
+    "lon": -87.988697,
+    "time": "2026-05-08T18:59:25"
+   },
+   {
+    "place": "Oak Brook Park – Oak Brook, IL",
+    "lat": 41.830595,
+    "lon": -87.986018,
+    "time": "2026-05-09T09:32:55"
+   },
+   {
+    "place": "Home – Oak Brook, IL",
+    "lat": 41.829208,
+    "lon": -87.988998,
+    "time": "2026-05-09T18:03:49"
+   },
+   {
+    "place": "Lifetime Fitness – Oak Brook, IL",
+    "lat": 41.821894,
+    "lon": -87.988483,
+    "time": "2026-05-10T06:21:46"
+   },
+   {
+    "place": "Office – Chicago Loop, IL",
+    "lat": 41.87798,
+    "lon": -87.635188,
+    "time": "2026-05-10T18:18:13"
+   },
+   {
+    "place": "I‑88 near Plainfield, IL",
+    "lat": 41.67328,
+    "lon": -88.199591,
+    "time": "2026-05-11T07:31:15"
+   },
+   {
+    "place": "Starbucks, 1150 Oak Brook Rd, Oak Brook, IL",
+    "lat": 41.842538,
+    "lon": -87.946089,
+    "time": "2026-05-11T08:16:56"
+   },
+   {
+    "place": "I‑88 near Hinsdale, IL",
+    "lat": 41.799507,
+    "lon": -87.949968,
+    "time": "2026-05-12T07:29:55"
+   },
+   {
+    "place": "Corporate office, 3000 S. Oakbrook Center, Oak Brook, IL",
+    "lat": 41.839835,
+    "lon": -87.936655,
+    "time": "2026-05-13T07:38:05"
+   },
+   {
+    "place": "Starbucks, 1400 Oakbrook Center, Oak Brook, IL",
+    "lat": 41.83911,
+    "lon": -87.936409,
+    "time": "2026-05-13T08:02:30"
+   },
+   {
+    "place": "Oak Brook Sports Bar, 1500 Oak Brook Rd, Oak Brook, IL",
+    "lat": 41.842139,
+    "lon": -87.944467,
+    "time": "2026-05-13T19:30:19"
+   },
+   {
+    "place": "I‑88 near Westmont, IL",
+    "lat": 41.799163,
+    "lon": -87.95061,
+    "time": "2026-05-14T07:35:26"
+   },
+   {
+    "place": "Oak Brook Sports Bar, 1500 Oak Brook Rd, Oak Brook, IL (back booth)",
+    "lat": 41.841834,
+    "lon": -87.943649,
+    "time": "2026-05-14T16:27:05"
+   },
+   {
+    "place": "I‑88 near Lombard, IL",
+    "lat": 41.880529,
+    "lon": -88.01129,
+    "time": "2026-05-15T07:50:57"
+   },
+   {
+    "place": "Starbucks, 1235 Oak Brook Rd, Oak Brook, IL",
+    "lat": 41.840939,
+    "lon": -87.945053,
+    "time": "2026-05-15T08:38:09"
+   },
+   {
+    "place": "Oak Brook Soccer Complex, 1500 Oakbrook Dr, Oak Brook, IL",
+    "lat": 41.841164,
+    "lon": -87.945372,
+    "time": "2026-05-16T08:18:55"
+   },
+   {
+    "place": "Kelley Park, 1015 S. Washington St, Naperville, IL",
+    "lat": 41.770614,
+    "lon": -88.14953,
+    "time": "2026-05-16T13:36:31"
+   },
+   {
+    "place": "Lifetime Fitness, 800 Oak Brook Rd, Oak Brook, IL",
+    "lat": 41.842579,
+    "lon": -87.946144,
+    "time": "2026-05-17T09:32:34"
+   },
+   {
+    "place": "Starbucks Oak Brook (1150 Oak Brook Rd)",
+    "lat": 41.84762,
+    "lon": -87.988837,
+    "time": "2026-05-18T07:24:56"
+   },
+   {
+    "place": "Office Cafeteria (200 W Jefferson Ave, Naperville, IL)",
+    "lat": 41.750815,
+    "lon": -88.150291,
+    "time": "2026-05-18T12:24:46"
+   },
+   {
+    "place": "I-355 Northbound near 111th St, Oak Brook",
+    "lat": 41.822235,
+    "lon": -87.997057,
+    "time": "2026-05-19T07:34:36"
+   },
+   {
+    "place": "Miller's Deli (Naperville, IL)",
+    "lat": 41.749795,
+    "lon": -88.151372,
+    "time": "2026-05-19T12:35:22"
+   },
+   {
+    "place": "I-88 Eastbound near Hinsdale, IL",
+    "lat": 41.794843,
+    "lon": -87.931718,
+    "time": "2026-05-20T07:22:49"
+   },
+   {
+    "place": "Office Cafeteria (200 W Jefferson Ave, Naperville, IL)",
+    "lat": 41.750683,
+    "lon": -88.149268,
+    "time": "2026-05-20T11:53:22"
+   },
+   {
+    "place": "Starbucks Oak Brook (1150 Oak Brook Rd)",
+    "lat": 41.84557,
+    "lon": -87.990007,
+    "time": "2026-05-21T07:46:27"
+   },
+   {
+    "place": "Banh Mi & Co. Deli (Oak Brook, IL)",
+    "lat": 41.845402,
+    "lon": -87.987781,
+    "time": "2026-05-21T12:06:38"
+   },
+   {
+    "place": "The Publican (837 W Fulton Market, Chicago, IL)",
+    "lat": 41.886409,
+    "lon": -87.658889,
+    "time": "2026-05-21T19:27:08"
+   },
+   {
+    "place": "Starbucks (111th St & I-55, Oak Brook, IL)",
+    "lat": 41.822042,
+    "lon": -87.998989,
+    "time": "2026-05-22T08:04:49"
+   },
+   {
+    "place": "Office Cafeteria (200 W Jefferson Ave, Naperville, IL)",
+    "lat": 41.749827,
+    "lon": -88.15099,
+    "time": "2026-05-22T12:19:12"
+   },
+   {
+    "place": "Oak Brook Sports Bar & Grill (1050 Oak Brook Rd)",
+    "lat": 41.846701,
+    "lon": -87.989739,
+    "time": "2026-05-22T18:58:12"
+   },
+   {
+    "place": "Family Home (1234 Oak Brook Lane, Oak Brook, IL)",
+    "lat": 41.845977,
+    "lon": -87.991853,
+    "time": "2026-05-23T07:02:38"
+   },
+   {
+    "place": "Scovill Park (Oak Brook, IL)",
+    "lat": 41.84403,
+    "lon": -87.984441,
+    "time": "2026-05-23T08:28:21"
+   },
+   {
+    "place": "Lifetime Fitness Oak Brook (1000 Oak Brook Rd)",
+    "lat": 41.845885,
+    "lon": -87.988851,
+    "time": "2026-05-23T15:03:30"
+   },
+   {
+    "place": "Starbucks Oak Brook",
+    "lat": 41.842812,
+    "lon": -87.991951,
+    "time": "2026-05-25T07:36:01"
+   },
+   {
+    "place": "Oak Brook Corporate Office – Conference Room",
+    "lat": 41.842734,
+    "lon": -87.989293,
+    "time": "2026-05-25T13:07:47"
+   },
+   {
+    "place": "Home (Hinsdale)",
+    "lat": 41.798447,
+    "lon": -87.940234,
+    "time": "2026-05-25T18:42:16"
+   },
+   {
+    "place": "Commute – I-88 eastbound near Oak Brook",
+    "lat": 41.84547,
+    "lon": -87.998494,
+    "time": "2026-05-26T07:38:36"
+   },
+   {
+    "place": "Oak Brook Corporate Office – Desk",
+    "lat": 41.84192,
+    "lon": -87.987509,
+    "time": "2026-05-26T12:53:16"
+   },
+   {
+    "place": "Oak Brook Corporate Office – Desk",
+    "lat": 41.8425,
+    "lon": -87.987858,
+    "time": "2026-05-26T15:12:01"
+   },
+   {
+    "place": "Home (Hinsdale)",
+    "lat": 41.800006,
+    "lon": -87.94027,
+    "time": "2026-05-26T18:37:36"
+   },
+   {
+    "place": "Commute – I-355 northbound near Oak Brook",
+    "lat": 41.850188,
+    "lon": -88.018631,
+    "time": "2026-05-27T07:49:12"
+   },
+   {
+    "place": "Oak Brook Corporate Office – Desk",
+    "lat": 41.843511,
+    "lon": -87.990591,
+    "time": "2026-05-27T13:04:08"
+   },
+   {
+    "place": "Commute – I-88 eastbound near Oak Brook",
+    "lat": 41.843362,
+    "lon": -88.000331,
+    "time": "2026-05-28T07:55:14"
+   },
+   {
+    "place": "Oak Brook Corporate Office – Desk",
+    "lat": 41.84117,
+    "lon": -87.989673,
+    "time": "2026-05-28T12:55:07"
+   },
+   {
+    "place": "Oak Brook Corporate Office – Desk",
+    "lat": 41.842636,
+    "lon": -87.98892,
+    "time": "2026-05-28T14:57:47"
+   },
+   {
+    "place": "Home (Hinsdale)",
+    "lat": 41.800076,
+    "lon": -87.941092,
+    "time": "2026-05-28T18:31:57"
+   },
+   {
+    "place": "Starbucks Oak Brook (second stop)",
+    "lat": 41.840931,
+    "lon": -87.99181,
+    "time": "2026-05-29T07:39:53"
+   },
+   {
+    "place": "Oak Brook Corporate Office – Desk",
+    "lat": 41.841901,
+    "lon": -87.987925,
+    "time": "2026-05-29T12:38:04"
+   },
+   {
+    "place": "Home (Hinsdale)",
+    "lat": 41.798234,
+    "lon": -87.938956,
+    "time": "2026-05-29T18:45:03"
+   },
+   {
+    "place": "Lifetime Fitness Oak Brook",
+    "lat": 41.843129,
+    "lon": -87.98818,
+    "time": "2026-05-30T07:11:08"
+   },
+   {
+    "place": "Naperville Soccer Practice – Naperville Community Center",
+    "lat": 41.751737,
+    "lon": -88.153813,
+    "time": "2026-05-30T09:37:15"
+   },
+   {
+    "place": "Naperville Riverwalk",
+    "lat": 41.750409,
+    "lon": -88.150152,
+    "time": "2026-05-30T10:39:51"
+   },
+   {
+    "place": "Home (Hinsdale)",
+    "lat": 41.799204,
+    "lon": -87.939872,
+    "time": "2026-05-30T12:47:50"
+   },
+   {
+    "place": "Oak Brook Sports Bar – Back Booth",
+    "lat": 41.842016,
+    "lon": -87.988499,
+    "time": "2026-05-30T19:27:18"
+   },
+   {
+    "place": "Commute – I-88 westbound toward Home",
+    "lat": 41.799661,
+    "lon": -87.945128,
+    "time": "2026-05-30T21:27:39"
+   },
+   {
+    "place": "Home (Hinsdale) – Brunch",
+    "lat": 41.800638,
+    "lon": -87.940575,
+    "time": "2026-05-31T10:01:28"
+   },
+   {
+    "place": "Oak Brook Corporate Office – Desk",
+    "lat": 41.843995,
+    "lon": -87.989776,
+    "time": "2026-05-31T13:41:04"
+   },
+   {
+    "place": "Home (Hinsdale) – Dinner",
+    "lat": 41.80043,
+    "lon": -87.939997,
+    "time": "2026-05-31T18:05:02"
+   },
+   {
+    "place": "Starbucks – Oak Brook Center",
+    "lat": 41.84323,
+    "lon": -87.996652,
+    "time": "2026-06-01T07:35:44"
+   },
+   {
+    "place": "Back booth, Oak Brook Sports Bar & Grill",
+    "lat": 41.843304,
+    "lon": -87.996942,
+    "time": "2026-06-01T15:40:11"
+   }
+  ],
+  "calendar": [
+   {
+    "summary": "Q3 Vendor Review meeting (Teams)",
+    "time": "2026-05-04T08:50:38"
+   },
+   {
+    "summary": "Internal Ops Sync (30 min)",
+    "time": "2026-05-05T09:30:41"
+   },
+   {
+    "summary": "Emergency vendor call – 3PL Regional Manager",
+    "time": "2026-05-06T10:05:27"
+   },
+   {
+    "summary": "Strategic Ops Review (1 hr)",
+    "time": "2026-05-07T08:57:34"
+   },
+   {
+    "summary": "Vendor Performance Review (Teams)",
+    "time": "2026-05-08T09:24:00"
+   },
+   {
+    "summary": "Plan week – add vendor hold follow‑up meeting (Thursday)",
+    "time": "2026-05-10T11:40:34"
+   },
+   {
+    "summary": "Vendor negotiation with 3PL Regional Account Manager",
+    "time": "2026-05-11T09:12:59"
+   },
+   {
+    "summary": "Ops VP quarterly metrics review",
+    "time": "2026-05-12T09:28:38"
+   },
+   {
+    "summary": "Internal audit preparation",
+    "time": "2026-05-13T10:03:04"
+   },
+   {
+    "summary": "Vendor contract renegotiation",
+    "time": "2026-05-14T09:13:19"
+   },
+   {
+    "summary": "Weekly ops sync",
+    "time": "2026-05-15T09:34:50"
+   },
+   {
+    "summary": "Family dinner (offline)",
+    "time": "2026-05-16T18:17:24"
+   },
+   {
+    "summary": "Family dinner (offline)",
+    "time": "2026-05-17T17:51:43"
+   },
+   {
+    "summary": "Vendor Hold Clearance (30 min)",
+    "time": "2026-05-18T09:01:35"
+   },
+   {
+    "summary": "Audit Preparation with Finance (30 min)",
+    "time": "2026-05-20T09:19:07"
+   },
+   {
+    "summary": "Vendor Performance Review",
+    "time": "2026-05-21T09:23:37"
+   },
+   {
+    "summary": "Internal Ops Sync (15 min)",
+    "time": "2026-05-22T09:08:35"
+   },
+   {
+    "summary": "Weekly Personal Planning (budget, kids’ schedule)",
+    "time": "2026-05-24T11:19:00"
+   },
+   {
+    "summary": "Procurement Ops sync",
+    "time": "2026-05-25T08:53:36"
+   },
+   {
+    "summary": "Quarterly spend review prep",
+    "time": "2026-05-26T09:14:56"
+   },
+   {
+    "summary": "Audit packet follow‑up with VP",
+    "time": "2026-05-27T09:18:10"
+   },
+   {
+    "summary": "VP feedback call",
+    "time": "2026-05-28T08:50:46"
+   },
+   {
+    "summary": "Weekly logistics team stand‑up",
+    "time": "2026-05-29T09:42:59"
+   },
+   {
+    "summary": "Schedule Security Incident Review meeting (10:00)",
+    "time": "2026-06-02T08:14:45"
+   },
+   {
+    "summary": "Emergency security incident meeting",
+    "time": "2026-06-02T15:29:17"
+   }
+  ],
+  "messages": [
+   {
+    "with": "Accounts Payable Manager",
+    "direction": "to",
+    "text": "Need invoice #8421 cleared ASAP – this hold is choking our 3PL lane.",
+    "time": "2026-05-04T12:25:50"
+   },
+   {
+    "with": "Grey‑market Freight Broker",
+    "direction": "to",
+    "text": "Can you swing a quick pull on the 12 pm load? Need it off the books before end of day.",
+    "time": "2026-05-04T18:27:43"
+   },
+   {
+    "with": "Accounts Payable Manager",
+    "direction": "to",
+    "text": "Can we shift payment terms to 5 days on #8421? The carrier’s threatening a hold.",
+    "time": "2026-05-05T12:29:06"
+   },
+   {
+    "with": "Grey‑market Freight Broker",
+    "direction": "to",
+    "text": "Dinner’s at 7, but I’ll need the freight confirmation before I log off – can you ping me?",
+    "time": "2026-05-05T18:33:13"
+   },
+   {
+    "with": "Grey‑market Freight Broker",
+    "direction": "from",
+    "text": "URGENT: Account hold notice – verify via the secure link now or your shipments freeze.",
+    "time": "2026-05-06T08:55:14"
+   },
+   {
+    "with": "Accounts Payable Manager",
+    "direction": "to",
+    "text": "Hold all outgoing payments until we resolve the hold notice – don’t let the carrier lock us out.",
+    "time": "2026-05-06T16:40:50"
+   },
+   {
+    "with": "Grey‑market Freight Broker",
+    "direction": "to",
+    "text": "Running late on dinner, still need that expedited pickup – can you lock it in now?",
+    "time": "2026-05-06T18:52:08"
+   },
+   {
+    "with": "Accounts Payable Manager",
+    "direction": "to",
+    "text": "Confirm you received invoice #9072; need the acknowledgment for the carrier’s compliance audit.",
+    "time": "2026-05-07T12:33:40"
+   },
+   {
+    "with": "Grey‑market Freight Broker",
+    "direction": "to",
+    "text": "I’ll be out for basketball pickup; ensure the 3 PM truck is secured and confirm.",
+    "time": "2026-05-07T18:12:52"
+   },
+   {
+    "with": "Accounts Payable Manager",
+    "direction": "to",
+    "text": "Place a temporary hold on payments until the vendor hold is cleared – avoid late fees.",
+    "time": "2026-05-08T12:12:26"
+   },
+   {
+    "with": "Grey‑market Freight Broker",
+    "direction": "to",
+    "text": "Dinner at 7, but I need the final freight manifest before I leave – send it now.",
+    "time": "2026-05-08T18:38:22"
+   },
+   {
+    "with": "Grey‑market Freight Broker",
+    "direction": "to",
+    "text": "Great day on my end, can we schedule a quick call at 4 pm to review tomorrow’s load?",
+    "time": "2026-05-09T12:28:47"
+   },
+   {
+    "with": "Accounts Payable Manager",
+    "direction": "to",
+    "text": "All invoices cleared for today – green light on payments.",
+    "time": "2026-05-09T16:51:37"
+   },
+   {
+    "with": "Grey‑market Freight Broker",
+    "direction": "to",
+    "text": "Preparing for the kids’ college tours next week; need to know my availability for any last‑minute freight pushes.",
+    "time": "2026-05-10T16:31:14"
+   },
+   {
+    "with": "Accounts Payable Manager",
+    "direction": "outgoing",
+    "text": "Need invoice #4521 cleared ASAP – the carrier’s on a tight clock.",
+    "time": "2026-05-11T10:13:48"
+   },
+   {
+    "with": "Regional Account Manager (3PL)",
+    "direction": "outgoing",
+    "text": "Confirm ETA for the outbound load; we can’t afford another delay.",
+    "time": "2026-05-12T11:03:33"
+   },
+   {
+    "with": "IT Security Team",
+    "direction": "outgoing",
+    "text": "FYI – got a ‘hold’ notice on the account. Forwarded for your triage.",
+    "time": "2026-05-12T14:36:59"
+   },
+   {
+    "with": "Accounts Payable Manager",
+    "direction": "outgoing",
+    "text": "Hold cleared. Proceed with payment on invoice #4521 immediately.",
+    "time": "2026-05-12T20:25:56"
+   },
+   {
+    "with": "Accounts Payable Manager",
+    "direction": "outgoing",
+    "text": "Pending $75k crypto payment to our expeditor. Need your sign‑off to keep the lane moving.",
+    "time": "2026-05-13T11:23:20"
+   },
+   {
+    "with": "Grey‑Market Broker",
+    "direction": "outgoing",
+    "text": "Crypto transfer of $75k is queued. Confirm receipt on your end – no slack.",
+    "time": "2026-05-14T11:03:15"
+   },
+   {
+    "with": "Accounts Payable Manager",
+    "direction": "outgoing",
+    "text": "Reconcile the $75k crypto entry in the ledger; flag any variance.",
+    "time": "2026-05-15T10:44:27"
+   },
+   {
+    "with": "Spouse",
+    "direction": "outgoing",
+    "text": "Lunch at home today, back by 14:00. Keep the kids occupied.",
+    "time": "2026-05-16T12:52:43"
+   },
+   {
+    "with": "Accounts Payable Manager",
+    "direction": "outgoing",
+    "text": "Approve all pending invoices before Monday – need them cleared for the quarterly close.",
+    "time": "2026-05-16T16:44:07"
+   },
+   {
+    "with": "Accounts Payable Manager",
+    "direction": "outgoing",
+    "text": "Confirm all payments posted. Let me know if anything’s still in limbo.",
+    "time": "2026-05-17T16:32:01"
+   },
+   {
+    "with": "Accounts Payable Manager",
+    "direction": "outgoing",
+    "text": "4521 needs fast‑track—our 3PL is on hold. Can you push it through now?",
+    "time": "2026-05-18T16:23:45"
+   },
+   {
+    "with": "VP of Operations",
+    "direction": "incoming",
+    "text": "VP request: compile all vendor payment confirmations and send by 5 PM. No wiggle room.",
+    "time": "2026-05-19T10:19:48"
+   },
+   {
+    "with": "Accounts Payable Manager",
+    "direction": "outgoing",
+    "text": "Need all payment confirmations for today’s batch ASAP—deadline looming.",
+    "time": "2026-05-19T16:19:56"
+   },
+   {
+    "with": "CFO (spoof)",
+    "direction": "incoming",
+    "text": "Urgent CFO directive: verify payment on invoice 7890 and reply immediately.",
+    "time": "2026-05-20T10:51:17"
+   },
+   {
+    "with": "Logistics Team",
+    "direction": "outgoing",
+    "text": "Shipment ETA shifted to 13:45; update schedules accordingly.",
+    "time": "2026-05-21T16:22:39"
+   },
+   {
+    "with": "Accounts Payable Manager",
+    "direction": "outgoing",
+    "text": "Final payment for #4521 released. Confirm receipt on your end.",
+    "time": "2026-05-22T16:44:31"
+   },
+   {
+    "with": "Spouse",
+    "direction": "outgoing",
+    "text": "Weekend plans are set—see you Saturday night.",
+    "time": "2026-05-24T15:06:25"
+   },
+   {
+    "with": "Accounts Payable Manager",
+    "direction": "to",
+    "text": "Urgent: account hold flagged – need immediate clearance to keep freight moving.",
+    "time": "2026-05-25T06:17:37"
+   },
+   {
+    "with": "Accounts Payable Manager",
+    "direction": "to",
+    "text": "Quick check – any pending vendor invoices needing my sign‑off in SAP?",
+    "time": "2026-05-25T08:02:58"
+   },
+   {
+    "with": "Regional Account Manager (3PL)",
+    "direction": "to",
+    "text": "Attached recap of today’s negotiation; please confirm the revised rates and volume commitments.",
+    "time": "2026-05-25T10:21:46"
+   },
+   {
+    "with": "VP of Operations",
+    "direction": "to",
+    "text": "Action items from this afternoon’s meeting compiled – see attached. Prioritizing carrier slot allocations.",
+    "time": "2026-05-25T15:15:49"
+   },
+   {
+    "with": "Accounts Payable Manager",
+    "direction": "to",
+    "text": "Overnight alert: potential bottleneck at hub X. Hold any payments pending until capacity is confirmed.",
+    "time": "2026-05-26T06:02:50"
+   },
+   {
+    "with": "Accounts Payable Manager",
+    "direction": "to",
+    "text": "Approved the pending freight invoices in SAP – let me know if anything looks off.",
+    "time": "2026-05-26T08:01:15"
+   },
+   {
+    "with": "VP of Operations",
+    "direction": "to",
+    "text": "KPI dashboard refreshed – on‑track for Q2 targets, but carrier on‑time metric slipping 2%.",
+    "time": "2026-05-26T10:50:03"
+   },
+   {
+    "with": "VP of Operations",
+    "direction": "to",
+    "text": "Escalated the audit packet you requested; please review before EOD.",
+    "time": "2026-05-27T06:22:56"
+   },
+   {
+    "with": "Grey‑Market Broker",
+    "direction": "to",
+    "text": "Got the transaction hash – confirm receipt on your end so I can release the next load.",
+    "time": "2026-05-27T08:25:58"
+   },
+   {
+    "with": "Regional Account Manager (3PL)",
+    "direction": "to",
+    "text": "Need an expedited shipment for PO #4521; can we secure a guaranteed slot by EOD?",
+    "time": "2026-05-27T09:57:12"
+   },
+   {
+    "with": "Accounts Payable Manager",
+    "direction": "to",
+    "text": "Status: all freight invoices cleared; awaiting final hold release from finance.",
+    "time": "2026-05-27T15:34:05"
+   },
+   {
+    "with": "VP of Operations",
+    "direction": "to",
+    "text": "Drafted responses to likely VP questions on the audit; will have final version ready for review tomorrow morning.",
+    "time": "2026-05-27T17:56:24"
+   },
+   {
+    "with": "VP of Operations",
+    "direction": "to",
+    "text": "Forwarded the latest audit revisions – please confirm if any further changes needed.",
+    "time": "2026-05-28T06:04:33"
+   },
+   {
+    "with": "Accounts Payable Manager",
+    "direction": "to",
+    "text": "Approved urgent freight payment for carrier X; transaction processed.",
+    "time": "2026-05-28T08:04:22"
+   },
+   {
+    "with": "VP of Operations",
+    "direction": "to",
+    "text": "Updated audit tracker with today's notes; key risk items highlighted.",
+    "time": "2026-05-28T10:43:57"
+   },
+   {
+    "with": "Accounts Payable Manager",
+    "direction": "to",
+    "text": "Clarified that the vendor hold is lifted pending receipt of the crypto payment confirmation.",
+    "time": "2026-05-28T16:33:07"
+   },
+   {
+    "with": "Accounts Payable Manager",
+    "direction": "to",
+    "text": "Overnight alert: carrier delay at terminal Y – flagging potential invoice hold.",
+    "time": "2026-05-29T05:59:25"
+   },
+   {
+    "with": "Accounts Payable Manager",
+    "direction": "to",
+    "text": "Reviewing pending vendor invoices now; will sign off any that meet compliance.",
+    "time": "2026-05-29T08:15:29"
+   },
+   {
+    "with": "Regional Account Manager (3PL)",
+    "direction": "to",
+    "text": "Confirmed carrier slot availability for next Tuesday; please lock it in.",
+    "time": "2026-05-29T10:49:15"
+   },
+   {
+    "with": "VP of Operations",
+    "direction": "to",
+    "text": "Flagged a suspicious finance@ email; escalated to IT security. Keep an eye out.",
+    "time": "2026-05-29T15:32:11"
+   },
+   {
+    "with": "VP of Operations",
+    "direction": "to",
+    "text": "Weekly KPI update posted – on‑track overall, but note dip in carrier cost efficiency.",
+    "time": "2026-05-29T16:24:11"
+   },
+   {
+    "with": "Grey‑Market Broker",
+    "direction": "to",
+    "text": "Weekend digest shows no issues; ready for Monday's load.",
+    "time": "2026-05-30T08:50:40"
+   },
+   {
+    "with": "Grey‑Market Broker",
+    "direction": "to",
+    "text": "Received the crypto receipt – looks good. Proceed with the next dispatch.",
+    "time": "2026-05-30T15:10:33"
+   },
+   {
+    "with": "Grey‑Market Broker",
+    "direction": "to",
+    "text": "Payment schedule confirmed: $12k tomorrow, final $8k after delivery. Secure messenger OK?",
+    "time": "2026-05-30T21:01:19"
+   },
+   {
+    "with": "VP of Operations",
+    "direction": "to",
+    "text": "Awaiting your response on the audit clarification – need sign‑off by noon.",
+    "time": "2026-05-31T09:27:15"
+   },
+   {
+    "with": "VP of Operations",
+    "direction": "to",
+    "text": "Drafted clarification on the vendor hold; will send for your review shortly.",
+    "time": "2026-05-31T15:44:00"
+   },
+   {
+    "with": "Accounts Payable Manager",
+    "direction": "to",
+    "text": "Broker payment finalized; all crypto cleared. No further holds.",
+    "time": "2026-05-31T16:31:13"
+   },
+   {
+    "with": "VP of Operations",
+    "direction": "to",
+    "text": "Blocking 13:00‑15:00 next week for deep‑work on audit prep. Let me know if any conflicts.",
+    "time": "2026-05-31T20:50:29"
+   },
+   {
+    "with": "Accounts Payable Manager",
+    "direction": "to",
+    "text": "FYI – invoice #8427 attached. Need processing ASAP to avoid carrier hold. Confirm when cleared.",
+    "time": "2026-06-01T07:01:28"
+   },
+   {
+    "with": "VP of Operations",
+    "direction": "from",
+    "text": "Need your comments on the audit packet by COB. Flag any gaps now.",
+    "time": "2026-06-01T10:16:24"
+   },
+   {
+    "with": "VP of Operations",
+    "direction": "to",
+    "text": "Revised audit packet attached. All items addressed per your notes. Please confirm receipt.",
+    "time": "2026-06-01T17:45:40"
+   },
+   {
+    "with": "Accounts Payable Manager",
+    "direction": "to",
+    "text": "IT flagged a potential phishing attempt on a broker invoice. Holding it pending your review.",
+    "time": "2026-06-02T06:49:52"
+   },
+   {
+    "with": "Grey‑Market Broker (phishing mimic)",
+    "direction": "from",
+    "text": "Urgent: New payment instruction – wire $12,450 to ACC12345. Delay will halt freight. Confirm receipt.",
+    "time": "2026-06-02T09:25:34"
+   },
+   {
+    "with": "Grey‑Market Broker",
+    "direction": "to",
+    "text": "Payment confirmed on my end; expect release of shipment by EOD.",
+    "time": "2026-06-02T16:11:07"
+   },
+   {
+    "with": "Accounts Payable Manager",
+    "direction": "to",
+    "text": "All broker emails cleared; no further anomalies detected.",
+    "time": "2026-06-02T19:53:42"
+   }
+  ],
+  "videos": [
+   {
+    "title": "Supply Chain Risk Management: Identifying and Mitigating Disruptions",
+    "channel": "LinkedIn Learning",
+    "time": "2026-05-04T20:11:40"
+   },
+   {
+    "title": "Optimizing Freight Consolidation: Strategies to Reduce Costs & Improve Load Efficiency",
+    "channel": "YouTube",
+    "time": "2026-05-05T20:13:23"
+   },
+   {
+    "title": "Executive Phishing Awareness: Spotting Sophisticated Email Threats",
+    "channel": "LinkedIn Learning",
+    "time": "2026-05-06T19:59:03"
+   },
+   {
+    "title": "Advanced Freight Auditing Techniques: Data-Driven Cost Control",
+    "channel": "YouTube",
+    "time": "2026-05-07T22:05:48"
+   },
+   {
+    "title": "Negotiating Under Pressure: High-Stakes Vendor Deals",
+    "channel": "LinkedIn Learning",
+    "time": "2026-05-08T22:44:05"
+   },
+   {
+    "title": "Weekend Logistics Tips: Quick Wins for Busy Directors",
+    "channel": "YouTube",
+    "time": "2026-05-09T21:00:12"
+   },
+   {
+    "title": "Effective Stakeholder Communication for Supply Chain Leaders",
+    "channel": "LinkedIn Learning",
+    "time": "2026-05-10T20:47:24"
+   },
+   {
+    "title": "Supply Chain Risk Management",
+    "channel": "LinkedIn Learning",
+    "time": "2026-05-11T16:38:11"
+   },
+   {
+    "title": "Crypto Payments for Logistics: Opportunities & Challenges",
+    "channel": "Logistics Futures Webinar",
+    "time": "2026-05-13T16:33:26"
+   },
+   {
+    "title": "LinkedIn Live: 2024 Logistics Industry Panel",
+    "channel": "LinkedIn Live",
+    "time": "2026-05-15T16:29:32"
+   },
+   {
+    "title": "Supply Chain Security Best Practices: Protecting Your Vendor Network",
+    "channel": "SupplyChainInsights",
+    "time": "2026-05-23T19:38:36"
+   },
+   {
+    "title": "Managing Uncertainty: A New Framework for Risk Management",
+    "channel": "TED",
+    "time": "2026-05-24T16:05:58"
+   },
+   {
+    "title": "Strategic College Tuition Planning: Maximize Savings & Tax Benefits for Your Teens",
+    "channel": "Corporate Finance Insights",
+    "time": "2026-05-31T19:12:05"
+   },
+   {
+    "title": "Secure Crypto Transaction Practices – Quick Briefing",
+    "channel": "Corporate Security Academy",
+    "time": "2026-06-02T21:05:21"
+   }
+  ]
+ },
+ "_meta": {
+  "total_days": 30,
+  "n_events": 309
+ }
+}

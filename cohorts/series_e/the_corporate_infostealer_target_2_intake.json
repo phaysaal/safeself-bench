@@ -1,0 +1,1343 @@
+{
+ "persona_id": "?:2",
+ "persona_slug": "The Corporate Infostealer",
+ "intake_version": "synth-activity-v2-chunked",
+ "samples": {
+  "media": [
+   {
+    "name": "Apple Health",
+    "time": "2026-05-04T05:59:15"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-04T12:48:02"
+   },
+   {
+    "name": "Apple Watch",
+    "time": "2026-05-05T05:54:37"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-05T12:28:33"
+   },
+   {
+    "name": "Oura",
+    "time": "2026-05-06T06:04:11"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-06T12:40:47"
+   },
+   {
+    "name": "Apple Health",
+    "time": "2026-05-07T05:54:29"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-07T13:19:05"
+   },
+   {
+    "name": "Oura",
+    "time": "2026-05-08T06:09:39"
+   },
+   {
+    "name": "Zoom",
+    "time": "2026-05-08T12:17:58"
+   },
+   {
+    "name": "Apple Watch",
+    "time": "2026-05-09T06:33:35"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-09T12:49:04"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-10T10:32:23"
+   },
+   {
+    "name": "DocuSign",
+    "time": "2026-05-10T11:49:20"
+   },
+   {
+    "name": "Zillow",
+    "time": "2026-05-10T21:46:00"
+   },
+   {
+    "name": "Apple Health sync – sleep data upload (credential‑rich Oura sync).",
+    "time": "2026-05-11T06:00:46"
+   },
+   {
+    "name": "Coupa approval screen – taps Approve without reviewing details (MFA fatigue).",
+    "time": "2026-05-11T15:12:01"
+   },
+   {
+    "name": "Okta push notification – auto‑approved (pre‑coffee MFA fatigue).",
+    "time": "2026-05-12T05:47:34"
+   },
+   {
+    "name": "Zoom – 1:1 with CFO (real), discuss Q2 forecast.",
+    "time": "2026-05-12T14:18:40"
+   },
+   {
+    "name": "Okta MFA push – approved while still in shower.",
+    "time": "2026-05-13T05:47:58"
+   },
+   {
+    "name": "Coupa – approves $48K ACH (no verification).",
+    "time": "2026-05-13T14:12:33"
+   },
+   {
+    "name": "Okta push – auto‑approved (pre‑coffee).",
+    "time": "2026-05-14T05:50:21"
+   },
+   {
+    "name": "DocuSign – clicks malicious link, credentials harvested.",
+    "time": "2026-05-14T15:53:56"
+   },
+   {
+    "name": "Okta push – approved while still in bathroom scroll.",
+    "time": "2026-05-15T05:59:38"
+   },
+   {
+    "name": "Coupa – approves $48K ACH (same vendor as earlier, no verification).",
+    "time": "2026-05-15T18:25:25"
+   },
+   {
+    "name": "Okta push – auto‑approved (sleep‑deprived).",
+    "time": "2026-05-16T05:56:47"
+   },
+   {
+    "name": "Phone call from dad’s memory‑care facility (real) – medication issue, Mike answers on road.",
+    "time": "2026-05-16T11:29:53"
+   },
+   {
+    "name": "DocuSign – clicks malicious link from spoofed SMS, further credential capture.",
+    "time": "2026-05-16T15:27:07"
+   },
+   {
+    "name": "Okta push – approved (still fatigued).",
+    "time": "2026-05-17T06:00:13"
+   },
+   {
+    "name": "Google Drive – opens “M&A diligence pack” (now accessible to attacker).",
+    "time": "2026-05-17T10:21:30"
+   },
+   {
+    "name": "Slack mobile active – checks #finance‑leadership for overnight alerts",
+    "time": "2026-05-18T05:54:16"
+   },
+   {
+    "name": "Coupa approval – $12K vendor invoice",
+    "time": "2026-05-18T16:46:24"
+   },
+   {
+    "name": "MFA push for Okta – taps Approve without reading (pre‑coffee)",
+    "time": "2026-05-19T05:41:05"
+   },
+   {
+    "name": "Google Docs – reviews M&A diligence folder (read‑only)",
+    "time": "2026-05-19T14:15:38"
+   },
+   {
+    "name": "Bill.com – approves $8K recurring payment",
+    "time": "2026-05-19T19:30:07"
+   },
+   {
+    "name": "Slack mobile – quick reply to CFO ‘got it, will push’",
+    "time": "2026-05-20T06:22:29"
+   },
+   {
+    "name": "Coupa – approves $22K invoice (auto‑approved)",
+    "time": "2026-05-20T13:08:30"
+   },
+   {
+    "name": "Slack DM from Marc: ‘got the stats for the league?’",
+    "time": "2026-05-20T20:29:31"
+   },
+   {
+    "name": "MFA push – approves without reading (still sleepy)",
+    "time": "2026-05-21T05:48:41"
+   },
+   {
+    "name": "iCloud – opens shared folder ‘Dad_Legal’ to locate POA PDF",
+    "time": "2026-05-21T12:32:24"
+   },
+   {
+    "name": "Bill.com – reviews pending ACH, sees $48K approved earlier, no further action",
+    "time": "2026-05-21T19:44:41"
+   },
+   {
+    "name": "MFA push – taps Approve (still fatigued)",
+    "time": "2026-05-22T06:00:50"
+   },
+   {
+    "name": "Clicks link, lands on fake Okta login, enters reused password ‘Caleb2019!’",
+    "time": "2026-05-22T09:29:16"
+   },
+   {
+    "name": "Malicious page requests MFA – attacker auto‑approves via compromised Okta session (no user prompt)",
+    "time": "2026-05-22T09:19:39"
+   },
+   {
+    "name": "Slack – sees new channel invite ‘#finance‑leadership‑alerts’ (created by attacker, auto‑joined)",
+    "time": "2026-05-22T20:21:30"
+   },
+   {
+    "name": "Slack mobile – reads #finance‑leadership‑alerts, notices odd “new policy” doc (doesn’t verify)",
+    "time": "2026-05-23T06:24:28"
+   },
+   {
+    "name": "Google Drive – clicks malicious macro, triggers credential dump to attacker",
+    "time": "2026-05-23T12:24:21"
+   },
+   {
+    "name": "Coupa – approves $5K expense for team off‑site (auto‑approved)",
+    "time": "2026-05-23T18:52:42"
+   },
+   {
+    "name": "MFA push – approves without reading (habitual)",
+    "time": "2026-05-24T05:32:49"
+   },
+   {
+    "name": "Bill.com – processes $60K wire (malicious redirect already in place)",
+    "time": "2026-05-24T11:52:07"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-25T06:26:56"
+   },
+   {
+    "name": "Phone",
+    "time": "2026-05-25T15:34:01"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-25T17:56:58"
+   },
+   {
+    "name": "Sleep‑tracker",
+    "time": "2026-05-25T23:47:59"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-26T06:13:15"
+   },
+   {
+    "name": "Coupa",
+    "time": "2026-05-26T14:18:59"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-26T17:37:53"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-27T06:30:00"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-27T13:42:49"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-27T17:24:30"
+   },
+   {
+    "name": "DocuSign",
+    "time": "2026-05-27T21:25:56"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-27T22:43:29"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-28T06:49:54"
+   },
+   {
+    "name": "Coupa",
+    "time": "2026-05-28T13:12:24"
+   },
+   {
+    "name": "Google Drive",
+    "time": "2026-05-28T18:16:40"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-28T20:12:18"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-29T06:29:07"
+   },
+   {
+    "name": "Chrome",
+    "time": "2026-05-29T09:30:25"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-29T11:44:50"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-29T18:26:52"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-29T22:31:46"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-30T06:19:57"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-30T12:39:37"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-30T16:33:06"
+   },
+   {
+    "name": "Google Drive",
+    "time": "2026-05-30T18:57:21"
+   },
+   {
+    "name": "Sleep‑tracker",
+    "time": "2026-05-30T23:02:03"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-31T06:32:32"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-31T12:31:34"
+   },
+   {
+    "name": "Google Drive",
+    "time": "2026-05-31T18:21:01"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-31T20:42:10"
+   }
+  ],
+  "messages": [
+   {
+    "with": "David Chen (CFO)",
+    "direction": "from",
+    "text": "Morning, Mike – quick favor: can you approve the $48K wire to Acme Corp before EOD? Board prep needs the numbers tonight. Thanks.",
+    "time": "2026-05-04T06:52:44"
+   },
+   {
+    "with": "Senior Analyst",
+    "direction": "to",
+    "text": "Hey, can you drop the latest ARR deck in #finance‑leadership when you get a sec? Need it for the board sync.",
+    "time": "2026-05-04T09:30:58"
+   },
+   {
+    "with": "Coupa Vendor (Automated)",
+    "direction": "to",
+    "text": "Approved invoice #74293 – one‑click OK. Let me know if anything looks off.",
+    "time": "2026-05-04T13:20:57"
+   },
+   {
+    "with": "David Chen (CFO)",
+    "direction": "from",
+    "text": "Mike, need those board prep numbers before tomorrow morning. Can you pull the latest NRR and send over?",
+    "time": "2026-05-04T18:33:16"
+   },
+   {
+    "with": "Junior Analyst",
+    "direction": "to",
+    "text": "Got your question on the expense policy – yes, the new travel cap applies retroactively from 1 Jan.",
+    "time": "2026-05-05T06:45:44"
+   },
+   {
+    "with": "David Chen (CFO)",
+    "direction": "from",
+    "text": "Quick favor – wire to vendor X needs approval EOD. It’s urgent for the audit trail.",
+    "time": "2026-05-05T10:01:00"
+   },
+   {
+    "with": "Vendor X",
+    "direction": "to",
+    "text": "Attached is the updated banking details PDF. Please confirm receipt and let us know if you need anything else.",
+    "time": "2026-05-05T12:58:32"
+   },
+   {
+    "with": "Junior Analyst",
+    "direction": "to",
+    "text": "All cleared on my end – approvals pushed through. Let me know if any other tickets are pending.",
+    "time": "2026-05-05T19:11:24"
+   },
+   {
+    "with": "Team Channel",
+    "direction": "to",
+    "text": "Good morning, everyone – FYI I’m on the usual cadence, ping me if anything spikes.",
+    "time": "2026-05-06T06:57:34"
+   },
+   {
+    "with": "David Chen (CFO)",
+    "direction": "from",
+    "text": "Mike, follow‑up on that wire – need it locked in now for the board deck. Appreciate the speed.",
+    "time": "2026-05-06T10:07:49"
+   },
+   {
+    "with": "Internal Audit",
+    "direction": "to",
+    "text": "Received the exception alert on cost center 1123. I’m reviewing the details and will respond shortly.",
+    "time": "2026-05-06T13:31:36"
+   },
+   {
+    "with": "David Chen (CFO)",
+    "direction": "to",
+    "text": "Just gave the deck a final skim – looks solid. Let me know if you need any tweaks before Monday.",
+    "time": "2026-05-06T20:36:53"
+   },
+   {
+    "with": "Junior Analyst",
+    "direction": "to",
+    "text": "Got your note, will update the policy doc and push it out by EOD.",
+    "time": "2026-05-07T06:54:46"
+   },
+   {
+    "with": "David Chen (CFO)",
+    "direction": "from",
+    "text": "Mike, another quick favor – need that wire approved ASAP, board prep is heating up.",
+    "time": "2026-05-07T11:07:14"
+   },
+   {
+    "with": "Vendor X",
+    "direction": "to",
+    "text": "Please see the attached ACH change form – updated routing info for Q2 audit. Confirm when processed.",
+    "time": "2026-05-07T16:21:14"
+   },
+   {
+    "with": "David Chen (CFO)",
+    "direction": "to",
+    "text": "Checking in – still waiting on the wire confirmation. Let me know if you hit any snags.",
+    "time": "2026-05-07T20:56:32"
+   },
+   {
+    "with": "Senior Analyst",
+    "direction": "to",
+    "text": "Q2 forecast looks on track; I’ll add the revised churn assumptions and drop the sheet in the channel.",
+    "time": "2026-05-08T06:44:07"
+   },
+   {
+    "with": "David Chen (CFO)",
+    "direction": "from",
+    "text": "Urgent: need that wire before EOD today. It’s critical for tomorrow’s board meeting.",
+    "time": "2026-05-08T10:04:02"
+   },
+   {
+    "with": "DocuSign (Fake)",
+    "direction": "to",
+    "text": "Clicked the link, entered Okta password to sign the ‘daycare re‑enrollment’ doc – all set.",
+    "time": "2026-05-08T12:33:31"
+   },
+   {
+    "with": "Vendor X",
+    "direction": "to",
+    "text": "Approved the ACH request – MFA push approved. Let me know if anything else is needed.",
+    "time": "2026-05-08T19:11:53"
+   },
+   {
+    "with": "Junior Analyst",
+    "direction": "to",
+    "text": "Got it, will close the ticket now.",
+    "time": "2026-05-09T06:48:55"
+   },
+   {
+    "with": "David Chen (CFO)",
+    "direction": "from",
+    "text": "Mike, any update on the wire status? The board is asking for confirmation.",
+    "time": "2026-05-09T11:15:08"
+   },
+   {
+    "with": "Junior Analyst",
+    "direction": "to",
+    "text": "All remaining Coupa requests approved – backlog cleared.",
+    "time": "2026-05-09T18:33:25"
+   },
+   {
+    "with": "David Chen (CFO)",
+    "direction": "from",
+    "text": "Quick fav before tomorrow – need the latest numbers ASAP for the board deck.",
+    "time": "2026-05-10T09:12:52"
+   },
+   {
+    "with": "Jennifer 'Jen' Halloran‑Reese (Spouse)",
+    "direction": "from",
+    "text": "Hey love, can you DocuSign the daycare re‑enrollment? I’m stuck in stand‑up.",
+    "time": "2026-05-10T11:20:26"
+   },
+   {
+    "with": "Team Channel",
+    "direction": "to",
+    "text": "Final check – all pending items cleared. Let me know if anything else comes up before the board meeting.",
+    "time": "2026-05-10T13:20:24"
+   },
+   {
+    "with": "Family Group Chat",
+    "direction": "to",
+    "text": "Kids, bedtime story at 8 pm – I’ll read ‘The Little Engine That Could’ tonight. Sleep tight!",
+    "time": "2026-05-10T20:28:06"
+   },
+   {
+    "with": "Jennifer \"Jen\" Halloran-Reese",
+    "direction": "to",
+    "text": "Morning, need you to sign the daycare renewal DocuSign – link",
+    "time": "2026-05-11T06:57:33"
+   },
+   {
+    "with": "David Chen (CFO)",
+    "direction": "from",
+    "text": "Quick favor: approve $48K vendor ACH, urgent.",
+    "time": "2026-05-11T08:51:51"
+   },
+   {
+    "with": "Reddit (r/fatFIRE)",
+    "direction": "outbound",
+    "text": "Clicked on sponsored ‘low‑fee mortgage refinance’ link.",
+    "time": "2026-05-11T12:47:44"
+   },
+   {
+    "with": "Marcus \"Marc\" Oduya",
+    "direction": "from",
+    "text": "Check out this new fintech JD, looks like you – https://linkedin.com/some‑job‑post",
+    "time": "2026-05-11T18:13:03"
+   },
+   {
+    "with": "David Chen (CFO) [spoofed]",
+    "direction": "from",
+    "text": "Urgent wire to vendor X, attach DocuSign.",
+    "time": "2026-05-12T09:31:22"
+   },
+   {
+    "with": "Reddit (lunch scroll)",
+    "direction": "outbound",
+    "text": "Clicked on ‘How to hide crypto gains’ article.",
+    "time": "2026-05-12T12:30:35"
+   },
+   {
+    "with": "Jennifer \"Jen\" Halloran-Reese",
+    "direction": "from",
+    "text": "Can you sign the new lease amendment? DocuSign link",
+    "time": "2026-05-12T19:45:30"
+   },
+   {
+    "with": "Jennifer \"Jen\" Halloran-Reese",
+    "direction": "to",
+    "text": "Did you see the dentist reminder?",
+    "time": "2026-05-13T06:28:32"
+   },
+   {
+    "with": "David Chen (CFO) [spoofed]",
+    "direction": "from",
+    "text": "Need wire before EOD for board prep.",
+    "time": "2026-05-13T09:18:20"
+   },
+   {
+    "with": "#finance‑leadership (Slack)",
+    "direction": "inbound",
+    "text": "CFO posted ‘quick fav, please approve attached wire’ (malicious attachment).",
+    "time": "2026-05-13T12:50:20"
+   },
+   {
+    "with": "Marcus \"Marc\" Oduya",
+    "direction": "from",
+    "text": "Funny meme about CFOs, check it out – https://phishing‑site.example.com",
+    "time": "2026-05-13T21:09:36"
+   },
+   {
+    "with": "Jennifer \"Jen\" Halloran-Reese",
+    "direction": "from",
+    "text": "DocuSign for dad’s neurologist follow‑up, please sign.",
+    "time": "2026-05-14T06:44:05"
+   },
+   {
+    "with": "David Chen (CFO) [spoofed]",
+    "direction": "from",
+    "text": "Urgent: vendor banking update, sign DocuSign now.",
+    "time": "2026-05-14T11:57:34"
+   },
+   {
+    "with": "David Chen (CFO)",
+    "direction": "from",
+    "text": "Need that wire approved ASAP, board meeting in 2h.",
+    "time": "2026-05-14T15:03:22"
+   },
+   {
+    "with": "Jennifer \"Jen\" Halloran-Reese",
+    "direction": "from",
+    "text": "Thanks for handling dad’s call, love you.",
+    "time": "2026-05-14T22:45:51"
+   },
+   {
+    "with": "David Chen (CFO) [spoofed]",
+    "direction": "from",
+    "text": "Final board prep wire, sign now.",
+    "time": "2026-05-15T10:36:33"
+   },
+   {
+    "with": "Marcus \"Marc\" Oduya",
+    "direction": "from",
+    "text": "Check out this fintech VC fund, could be your next move – https://attacker‑vc.example.com",
+    "time": "2026-05-15T13:38:16"
+   },
+   {
+    "with": "Jennifer \"Jen\" Halloran-Reese",
+    "direction": "from",
+    "text": "Dinner later, need you to sign the new lease amendment.",
+    "time": "2026-05-15T20:59:42"
+   },
+   {
+    "with": "Jennifer \"Jen\" Halloran-Reese (SMS spoof)",
+    "direction": "to",
+    "text": "Can you DocuSign the daycare re‑enrollment? Link inside.",
+    "time": "2026-05-16T06:23:53"
+   },
+   {
+    "with": "David Chen (CFO) [spoofed]",
+    "direction": "from",
+    "text": "Need you to approve urgent vendor change, link – https://malicious‑link.example.com",
+    "time": "2026-05-16T10:31:38"
+   },
+   {
+    "with": "Allison Reese (sister)",
+    "direction": "from",
+    "text": "Bob’s meds changed, need paperwork ASAP.",
+    "time": "2026-05-16T13:44:42"
+   },
+   {
+    "with": "#finance‑leadership (Slack)",
+    "direction": "inbound",
+    "text": "CFO posted ‘All wires approved, great work’ (attacker now sees approvals).",
+    "time": "2026-05-16T19:08:41"
+   },
+   {
+    "with": "David Chen (CFO)",
+    "direction": "from",
+    "text": "Quick favor, sign attached doc before 11am.",
+    "time": "2026-05-17T09:50:30"
+   },
+   {
+    "with": "Jennifer \"Jen\" Halloran-Reese",
+    "direction": "from",
+    "text": "Can you look at the mortgage refinance email? I’m busy.",
+    "time": "2026-05-17T12:07:38"
+   },
+   {
+    "with": "Marcus \"Marc\" Oduya",
+    "direction": "from",
+    "text": "Check this new fintech VC fund, looks promising – https://attacker‑vc2.example.com",
+    "time": "2026-05-17T20:44:24"
+   },
+   {
+    "with": "David Chen (CFO)",
+    "direction": "from",
+    "text": "Hey Mike, quick favor – need a wire approved EOD for board prep. Can you push it now?",
+    "time": "2026-05-18T09:37:14"
+   },
+   {
+    "with": "Jennifer \"Jen\" Halloran‑Reese (spouse)",
+    "direction": "from",
+    "text": "Hey love, can you sign the daycare re‑enrollment DocuSign? I’m stuck in stand‑up. 🙏",
+    "time": "2026-05-18T12:01:53"
+   },
+   {
+    "with": "Marcus \"Marc\" Oduya (best friend)",
+    "direction": "from",
+    "text": "Mike, fantasy football draft is tonight at 8. Got the lineup? Need your kicker pick.",
+    "time": "2026-05-18T20:52:53"
+   },
+   {
+    "with": "David Chen (CFO)",
+    "direction": "from",
+    "text": "Mike, need updated banking details for vendor X ASAP. Here’s the link to the new info.",
+    "time": "2026-05-19T09:56:36"
+   },
+   {
+    "with": "Allison Reese (sister)",
+    "direction": "from",
+    "text": "Dad’s latest memory test results are in. Can we hop on a quick call?",
+    "time": "2026-05-19T17:18:47"
+   },
+   {
+    "with": "Vendor (external)",
+    "direction": "from",
+    "text": "Please see the attached PDF for updated ACH details. Let me know if you have questions.",
+    "time": "2026-05-20T10:14:01"
+   },
+   {
+    "with": "Jennifer \"Jen\" Halloran‑Reese (spouse)",
+    "direction": "from",
+    "text": "Can you double‑check the new daycare enrollment DocuSign? I’m on a call.",
+    "time": "2026-05-20T16:30:00"
+   },
+   {
+    "with": "Neurologist (phone call)",
+    "direction": "from",
+    "text": "Urgent admission needed for dad’s condition. I’ll send you the cost estimate shortly.",
+    "time": "2026-05-21T10:33:09"
+   },
+   {
+    "with": "David Chen (CFO)",
+    "direction": "from",
+    "text": "Need wire for vendor audit – $48,000. New bank info attached. Approve when you can.",
+    "time": "2026-05-21T13:48:28"
+   },
+   {
+    "with": "Jennifer \"Jen\" Halloran‑Reese (spouse)",
+    "direction": "from",
+    "text": "I’m sorry about dad. Can you handle the 3 pm vendor thing? Thanks.",
+    "time": "2026-05-21T21:08:56"
+   },
+   {
+    "with": "Rachel Vandermeer (recruiter) – spoofed address",
+    "direction": "from",
+    "text": "Re: Arclight — final round + comp details (CONFIDENTIAL). Please review the attached DocuSign packet.",
+    "time": "2026-05-22T09:35:43"
+   },
+   {
+    "with": "David Chen (CFO)",
+    "direction": "from",
+    "text": "Need quick sign‑off on Q3 budget revisions. Click the link when you have a sec.",
+    "time": "2026-05-22T12:11:00"
+   },
+   {
+    "with": "David Chen (CFO) – real email",
+    "direction": "from",
+    "text": "Please review the attached audit exception doc and let me know if anything looks off.",
+    "time": "2026-05-23T10:26:26"
+   },
+   {
+    "with": "Jennifer \"Jen\" Halloran‑Reese (spouse)",
+    "direction": "from",
+    "text": "Can you check the new lease payment link? My phone battery died.",
+    "time": "2026-05-23T16:42:03"
+   },
+   {
+    "with": "David Chen (CFO)",
+    "direction": "from",
+    "text": "Urgent – need to sign off on $60K vendor wire before EOD. Approve now, please.",
+    "time": "2026-05-24T10:25:12"
+   },
+   {
+    "with": "Allison Reese (sister)",
+    "direction": "from",
+    "text": "Dad’s memory‑care facility quote is ready. Need a decision when you can.",
+    "time": "2026-05-24T17:41:59"
+   },
+   {
+    "with": "Jennifer 'Jen' Halloran-Reese",
+    "direction": "to",
+    "text": "Hey love, can you forward me the daycare renewal link when you get a sec? I’m stuck on a spreadsheet and need to get this done before the audit deadline. 🙏",
+    "time": "2026-05-25T14:38:02"
+   },
+   {
+    "with": "Vendor (Acme Supplies)",
+    "direction": "from",
+    "text": "Sure, I’ve approved the $12,000 invoice. Let me know if you need anything else for the Q2 prep. (Sent from my work Gmail – double‑checking the banking details before I forward to finance).",
+    "time": "2026-05-25T21:49:56"
+   },
+   {
+    "with": "David Chen",
+    "direction": "from",
+    "text": "Got it, Dave. I’ll push the wire to XYZ now and confirm once it’s in the system. Anything else for the board prep?",
+    "time": "2026-05-26T13:09:08"
+   },
+   {
+    "with": "Jennifer 'Jen' Halloran-Reese",
+    "direction": "to",
+    "text": "Kids doing okay? When you have a minute, can you sign the daycare renewal? I’m trying to wrap up the audit exception doc before the CFO checks in.",
+    "time": "2026-05-26T19:57:55"
+   },
+   {
+    "with": "Allison Reese-Vogel",
+    "direction": "to",
+    "text": "Bob’s memory‑care search is moving fast. Any chance you could help coordinate a facility tour this week? I’m juggling a couple of tight closes and could use a hand.",
+    "time": "2026-05-27T12:10:05"
+   },
+   {
+    "with": "Jennifer 'Jen' Halloran-Reese",
+    "direction": "to",
+    "text": "Jen, I need you to sign the POA doc for Dad tonight. I’m about to lock in the new banking info for his accounts and can’t wait much longer.",
+    "time": "2026-05-27T18:50:42"
+   },
+   {
+    "with": "Jennifer 'Jen' Halloran-Reese",
+    "direction": "to",
+    "text": "Kids are napped, so I’ll finish the audit exception doc. Ping me if you see anything odd in the draft – I’m running on coffee and dad’s neurologist notes.",
+    "time": "2026-05-28T16:41:20"
+   },
+   {
+    "with": "Rachel Vandermeer",
+    "direction": "from",
+    "text": "Hi Mike, attached is the confidential offer letter we discussed. Please review and DocuSign at your earliest convenience – the deadline is Friday afternoon. Let me know if you have any questions.",
+    "time": "2026-05-29T09:16:18"
+   },
+   {
+    "with": "Jennifer 'Jen' Halloran-Reese",
+    "direction": "to",
+    "text": "Hey, the county issued a property‑tax refund notice and they need a quick signature. Can you sign the attached doc? I’ll file it tonight.",
+    "time": "2026-05-30T13:45:45"
+   },
+   {
+    "with": "Jennifer 'Jen' Halloran-Reese",
+    "direction": "to",
+    "text": "Can you take a look at the board deck tonight? I’m polishing the financials and could use your UX eye before I send it out tomorrow.",
+    "time": "2026-05-31T15:40:34"
+   }
+  ],
+  "locations": [
+   {
+    "place": "Home (Austin suburb – Cedar Park)",
+    "lat": 30.5086,
+    "lon": -97.8217,
+    "time": "2026-05-04T07:02:57"
+   },
+   {
+    "place": "NimbusLedger Austin Satellite Office (North Loop area)",
+    "lat": 30.286071,
+    "lon": -97.75287,
+    "time": "2026-05-05T07:42:09"
+   },
+   {
+    "place": "NimbusLedger Austin Satellite Office (North Loop area)",
+    "lat": 30.284015,
+    "lon": -97.75191,
+    "time": "2026-05-06T07:19:15"
+   },
+   {
+    "place": "Home (Austin suburb – Cedar Park)",
+    "lat": 30.50761,
+    "lon": -97.822816,
+    "time": "2026-05-07T07:20:57"
+   },
+   {
+    "place": "NimbusLedger Austin Satellite Office (North Loop area)",
+    "lat": 30.283373,
+    "lon": -97.752429,
+    "time": "2026-05-08T07:15:43"
+   },
+   {
+    "place": "Zilker Metropolitan Park, Austin",
+    "lat": 30.267748,
+    "lon": -97.771439,
+    "time": "2026-05-09T07:18:48"
+   },
+   {
+    "place": "Home – upstairs workout room (Peloton bike)",
+    "lat": 30.502225,
+    "lon": -97.813851,
+    "time": "2026-05-11T07:08:13"
+   },
+   {
+    "place": "Commute – I‑35 North, near Burnet Road (CarPlay listening)",
+    "lat": 30.3153,
+    "lon": -97.725531,
+    "time": "2026-05-12T07:30:46"
+   },
+   {
+    "place": "Home – downstairs quick Peloton ride",
+    "lat": 30.501003,
+    "lon": -97.815713,
+    "time": "2026-05-13T07:14:57"
+   },
+   {
+    "place": "Home – bathroom/shower area, kids’ kitchen (breakfast prep)",
+    "lat": 30.501066,
+    "lon": -97.815375,
+    "time": "2026-05-14T07:21:51"
+   },
+   {
+    "place": "Home – workout room (Peloton bike)",
+    "lat": 30.500423,
+    "lon": -97.816338,
+    "time": "2026-05-15T07:31:09"
+   },
+   {
+    "place": "Home – kitchen table (hurried breakfast, kids ready)",
+    "lat": 30.503048,
+    "lon": -97.814074,
+    "time": "2026-05-16T06:50:26"
+   },
+   {
+    "place": "Home – upstairs workout room (Peloton bike)",
+    "lat": 30.501124,
+    "lon": -97.816218,
+    "time": "2026-05-17T07:28:27"
+   },
+   {
+    "place": "Residence – Austin, TX (home bedroom)",
+    "lat": 30.268194,
+    "lon": -97.74209,
+    "time": "2026-05-18T07:08:55"
+   },
+   {
+    "place": "Home office – Austin, TX (dedicated office space)",
+    "lat": 30.268623,
+    "lon": -97.743753,
+    "time": "2026-05-20T09:04:53"
+   },
+   {
+    "place": "Commute – Austin, TX (on I‑35 northbound, near 183 tollway interchange)",
+    "lat": 30.306212,
+    "lon": -97.754695,
+    "time": "2026-05-23T08:37:48"
+   },
+   {
+    "place": "Home (Austin, TX) – Peloton workout",
+    "lat": 30.267336,
+    "lon": -97.742155,
+    "time": "2026-05-25T07:02:59"
+   },
+   {
+    "place": "I‑35 Northbound, Austin, TX – Commute to office",
+    "lat": 30.300935,
+    "lon": -97.750741,
+    "time": "2026-05-26T07:18:46"
+   },
+   {
+    "place": "Pflugerville Elementary School, Pflugerville, TX – School pickup",
+    "lat": 30.43712,
+    "lon": -97.619979,
+    "time": "2026-05-26T15:06:46"
+   },
+   {
+    "place": "St. David's Medical Center, Austin, TX – Hospital lobby",
+    "lat": 30.266596,
+    "lon": -97.743165,
+    "time": "2026-05-27T15:36:22"
+   },
+   {
+    "place": "I‑35 Northbound, Austin, TX – Commute to office",
+    "lat": 30.298439,
+    "lon": -97.750871,
+    "time": "2026-05-28T08:13:56"
+   },
+   {
+    "place": "Pflugerville Elementary School, Pflugerville, TX – School run",
+    "lat": 30.438437,
+    "lon": -97.618641,
+    "time": "2026-05-28T14:46:30"
+   },
+   {
+    "place": "Home (Austin, TX) – Peloton workout",
+    "lat": 30.266292,
+    "lon": -97.743826,
+    "time": "2026-05-29T07:22:58"
+   },
+   {
+    "place": "Barton Creek Soccer Complex, Austin, TX – Kids soccer practice",
+    "lat": 30.299349,
+    "lon": -97.784988,
+    "time": "2026-05-29T14:14:25"
+   },
+   {
+    "place": "I‑35 Northbound, Austin, TX – Commute to office",
+    "lat": 30.299899,
+    "lon": -97.751576,
+    "time": "2026-05-30T07:51:16"
+   },
+   {
+    "place": "Pflugerville Elementary School, Pflugerville, TX – School run",
+    "lat": 30.4368,
+    "lon": -97.620655,
+    "time": "2026-05-30T14:57:30"
+   },
+   {
+    "place": "Home (Austin, TX) – Peloton workout",
+    "lat": 30.266338,
+    "lon": -97.742712,
+    "time": "2026-05-31T07:12:52"
+   },
+   {
+    "place": "Pflugerville Elementary School, Pflugerville, TX – School pickup",
+    "lat": 30.43658,
+    "lon": -97.620602,
+    "time": "2026-05-31T14:00:55"
+   }
+  ],
+  "calendar": [
+   {
+    "summary": "Remote work – deep‑work block: Forecast Model",
+    "time": "2026-05-04T08:24:03"
+   },
+   {
+    "summary": "School run – pick‑up kids (blocked, do not book)",
+    "time": "2026-05-04T15:22:02"
+   },
+   {
+    "summary": "In‑office stand‑up (09:00 AM) via Google Meet",
+    "time": "2026-05-05T08:55:21"
+   },
+   {
+    "summary": "School pickup (no device)",
+    "time": "2026-05-05T14:44:18"
+   },
+   {
+    "summary": "Deep‑work Forecast Model block (9:30‑11:30)",
+    "time": "2026-05-06T09:13:19"
+   },
+   {
+    "summary": "School run block (offline)",
+    "time": "2026-05-06T15:14:26"
+   },
+   {
+    "summary": "Remote work start – deep‑work block: Forecast Model",
+    "time": "2026-05-07T08:17:54"
+   },
+   {
+    "summary": "Dad – call neurologist (30 min), emotional dip, MFA pushes ignored",
+    "time": "2026-05-07T15:24:03"
+   },
+   {
+    "summary": "In‑office 1:1 with CFO (Monday‑style prep)",
+    "time": "2026-05-08T08:52:18"
+   },
+   {
+    "summary": "School run block (offline)",
+    "time": "2026-05-08T15:10:25"
+   },
+   {
+    "summary": "Remote deep‑work block: Forecast Model (9:30‑11:30)",
+    "time": "2026-05-09T09:47:03"
+   },
+   {
+    "summary": "School pickup block (offline)",
+    "time": "2026-05-09T14:58:01"
+   },
+   {
+    "summary": "Sunday prep mode – open Slack, review Monday board deck in Drive",
+    "time": "2026-05-10T08:28:49"
+   },
+   {
+    "summary": "Deep Work – Forecast Model (WFH)",
+    "time": "2026-05-11T08:17:24"
+   },
+   {
+    "summary": "School Run – Offline (Phone Locked)",
+    "time": "2026-05-11T15:28:35"
+   },
+   {
+    "summary": "Finance Ops Sync (In‑Office)",
+    "time": "2026-05-12T09:00:28"
+   },
+   {
+    "summary": "School Run – Offline",
+    "time": "2026-05-12T15:10:11"
+   },
+   {
+    "summary": "Finance Leadership Stand‑up (In‑Office)",
+    "time": "2026-05-13T09:03:07"
+   },
+   {
+    "summary": "School Run – Offline",
+    "time": "2026-05-13T15:41:07"
+   },
+   {
+    "summary": "Deep Work Block – Finance (WFH, Slack Active)",
+    "time": "2026-05-14T08:44:53"
+   },
+   {
+    "summary": "Dad Neurologist Call (Real)",
+    "time": "2026-05-14T14:10:18"
+   },
+   {
+    "summary": "Email Triage & Vendor Banking SOP Review (Remote)",
+    "time": "2026-05-15T09:08:01"
+   },
+   {
+    "summary": "School Run – Offline",
+    "time": "2026-05-15T15:21:57"
+   },
+   {
+    "summary": "Costco Shopping Trip (Location Ping)",
+    "time": "2026-05-16T08:40:32"
+   },
+   {
+    "summary": "Review Monday Board Deck (Remote – High‑Risk Prep)",
+    "time": "2026-05-17T09:02:28"
+   },
+   {
+    "summary": "School Run – Offline",
+    "time": "2026-05-17T15:24:00"
+   },
+   {
+    "summary": "Deep Work – Forecast Model (WFH, Slack open)",
+    "time": "2026-05-18T08:44:15"
+   },
+   {
+    "summary": "School run (phone silent, no activity)",
+    "time": "2026-05-18T15:18:50"
+   },
+   {
+    "summary": "Commute to office (In‑office) – Acquired podcast",
+    "time": "2026-05-19T09:06:18"
+   },
+   {
+    "summary": "School run (silent mode)",
+    "time": "2026-05-19T15:20:26"
+   },
+   {
+    "summary": "School run (silent)",
+    "time": "2026-05-20T15:18:38"
+   },
+   {
+    "summary": "Dad – call neurologist (WFH, video call)",
+    "time": "2026-05-21T09:32:12"
+   },
+   {
+    "summary": "School run (silent, mind preoccupied)",
+    "time": "2026-05-21T15:05:31"
+   },
+   {
+    "summary": "Dentist/Recruiter Zoom (labeled ‘dentist’, recruiter call with Rachel)",
+    "time": "2026-05-22T08:55:49"
+   },
+   {
+    "summary": "School run (silent)",
+    "time": "2026-05-22T16:35:47"
+   },
+   {
+    "summary": "School run (silent)",
+    "time": "2026-05-23T15:07:02"
+   },
+   {
+    "summary": "Deep Work – Forecast Model (WFH, Slack open, attacker monitoring)",
+    "time": "2026-05-24T08:49:27"
+   },
+   {
+    "summary": "School run (silent)",
+    "time": "2026-05-24T15:07:39"
+   },
+   {
+    "summary": "Team stand‑up (Zoom) – review action items",
+    "time": "2026-05-25T09:21:56"
+   },
+   {
+    "summary": "In‑person finance sync – update forecast model",
+    "time": "2026-05-26T09:31:57"
+   },
+   {
+    "summary": "Dad neurologist call (Zoom) – discuss rapid decline",
+    "time": "2026-05-27T09:57:26"
+   },
+   {
+    "summary": "One‑on‑one with CFO (Zoom) – Q2 cash‑flow discussion",
+    "time": "2026-05-28T09:43:08"
+   },
+   {
+    "summary": "Dentist/‘PT’ block – recruiter Zoom (Stonefork)",
+    "time": "2026-05-29T09:43:30"
+   },
+   {
+    "summary": "Weekly finance sync – share updated forecast",
+    "time": "2026-05-31T09:13:17"
+   }
+  ],
+  "searches": [
+   {
+    "query": "q2 expense variance template excel",
+    "time": "2026-05-04T12:10:06"
+   },
+   {
+    "query": "2026 fintech nrr benchmark",
+    "time": "2026-05-05T11:44:46"
+   },
+   {
+    "query": "401k hardship withdrawal 2025 form",
+    "time": "2026-05-06T12:30:05"
+   },
+   {
+    "query": "memory care naperville il near me",
+    "time": "2026-05-07T12:11:12"
+   },
+   {
+    "query": "carta early liquidity program eligibility",
+    "time": "2026-05-08T13:27:52"
+   },
+   {
+    "query": "netSuite audit exception filing steps",
+    "time": "2026-05-10T09:46:34"
+   },
+   {
+    "query": "travis county 2026 propety tax refund",
+    "time": "2026-05-11T10:44:03"
+   },
+   {
+    "query": "quick board prep cfo request",
+    "time": "2026-05-12T06:40:15"
+   },
+   {
+    "query": "m&a diligence deck download",
+    "time": "2026-05-12T11:25:20"
+   },
+   {
+    "query": "carta early liquidity program 2026",
+    "time": "2026-05-13T11:06:56"
+   },
+   {
+    "query": "eldercare benefits enrollment 2026 texas",
+    "time": "2026-05-14T13:36:27"
+   },
+   {
+    "query": "cfo quick wire approval pressure",
+    "time": "2026-05-15T06:41:20"
+   },
+   {
+    "query": "rsu early exercise calculator",
+    "time": "2026-05-15T11:42:35"
+   },
+   {
+    "query": "texas long term care insurance 2026",
+    "time": "2026-05-16T11:58:29"
+   },
+   {
+    "query": "report phishing without hr backlash",
+    "time": "2026-05-17T06:30:50"
+   },
+   {
+    "query": "travis county property tax refund form",
+    "time": "2026-05-17T13:39:08"
+   },
+   {
+    "query": "fintech q2 2026 arr benchmarks",
+    "time": "2026-05-18T10:51:03"
+   },
+   {
+    "query": "fed rate outlook july 2026",
+    "time": "2026-05-19T07:24:58"
+   },
+   {
+    "query": "mortgage refinance reddit personalfinance",
+    "time": "2026-05-19T12:58:50"
+   },
+   {
+    "query": "travis county property tax relief 2026 zillow",
+    "time": "2026-05-19T21:55:24"
+   },
+   {
+    "query": "cfo bec scams blind post",
+    "time": "2026-05-20T12:13:23"
+   },
+   {
+    "query": "nimbusledger finance salary range glassdoor",
+    "time": "2026-05-20T22:35:53"
+   },
+   {
+    "query": "competitor finance director linkedin posts",
+    "time": "2026-05-21T06:55:52"
+   },
+   {
+    "query": "transfer hospital bills to insurance pdf",
+    "time": "2026-05-21T16:37:45"
+   },
+   {
+    "query": "fake docusign email how to spot blind",
+    "time": "2026-05-22T07:31:08"
+   },
+   {
+    "query": "rsu early liquidity program 2026",
+    "time": "2026-05-22T14:35:02"
+   },
+   {
+    "query": "hide suspicious activity from it reddit fatfire",
+    "time": "2026-05-23T13:46:22"
+   },
+   {
+    "query": "travis county property tax refund 2026 zillow",
+    "time": "2026-05-23T22:37:46"
+   },
+   {
+    "query": "quarter close stress management tips apple news",
+    "time": "2026-05-24T07:18:03"
+   },
+   {
+    "query": "how long does a wire reversal take",
+    "time": "2026-05-24T13:16:12"
+   },
+   {
+    "query": "mortgag refi rates texas 2026",
+    "time": "2026-05-25T12:49:21"
+   },
+   {
+    "query": "how to change vendor ach banking info",
+    "time": "2026-05-26T11:59:18"
+   },
+   {
+    "query": "memory care naperville il",
+    "time": "2026-05-27T10:33:55"
+   },
+   {
+    "query": "cfo impersonation scam example",
+    "time": "2026-05-28T12:15:16"
+   },
+   {
+    "query": "rsu early liquidity program details",
+    "time": "2026-05-29T10:22:15"
+   },
+   {
+    "query": "costco cedar park hours",
+    "time": "2026-05-30T11:08:15"
+   },
+   {
+    "query": "how to file sox exception",
+    "time": "2026-05-31T11:08:33"
+   }
+  ],
+  "videos": [
+   {
+    "title": "How to Model RSU Early‑Exercise for Maximum Tax Efficiency",
+    "channel": "The Financial Engineer",
+    "time": "2026-05-18T12:52:56"
+   },
+   {
+    "title": "All‑In Podcast – Episode 342: Navigating Career Transitions in Tech Finance",
+    "channel": "All‑In Podcast",
+    "time": "2026-05-20T19:05:32"
+   },
+   {
+    "title": "Meditation for Anxious Parents: 10‑Minute Guided Practice",
+    "channel": "Calm Mind Center",
+    "time": "2026-05-24T20:10:42"
+   },
+   {
+    "title": "Excel Pivot Table Basics: Quick Tips for Finance Professionals",
+    "channel": "Microsoft Excel Training",
+    "time": "2026-05-25T20:35:19"
+   },
+   {
+    "title": "The Night Shift (Season 2, Episode 3) – 30 Min Clip",
+    "channel": "Netflix",
+    "time": "2026-05-26T22:51:18"
+   },
+   {
+    "title": "How to Negotiate a Lower Mortgage Rate – Step‑by‑Step Guide",
+    "channel": "The Mortgage Coach",
+    "time": "2026-05-28T22:38:06"
+   },
+   {
+    "title": "Breaking Point – Episode 4 (45 Min) | Drama Series",
+    "channel": "Netflix",
+    "time": "2026-05-30T22:00:20"
+   },
+   {
+    "title": "Mortgage Refinance Calculator Walkthrough – Live Demo",
+    "channel": "HomeFinance Hub",
+    "time": "2026-05-31T22:42:15"
+   }
+  ]
+ },
+ "_meta": {
+  "total_days": 30,
+  "n_events": 277
+ }
+}

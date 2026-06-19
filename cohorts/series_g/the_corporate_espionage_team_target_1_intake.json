@@ -1,0 +1,984 @@
+{
+ "persona_id": "?:1",
+ "persona_slug": "The Corporate Espionage Team",
+ "intake_version": "synth-activity-v2-chunked",
+ "samples": {
+  "media": [
+   {
+    "name": "Bloomberg",
+    "time": "2026-05-04T04:56:01"
+   },
+   {
+    "name": "DocuSign",
+    "time": "2026-05-04T17:29:13"
+   },
+   {
+    "name": "Bloomberg",
+    "time": "2026-05-05T11:58:54"
+   },
+   {
+    "name": "Bloomberg",
+    "time": "2026-05-06T05:18:53"
+   },
+   {
+    "name": "Microsoft PowerPoint",
+    "time": "2026-05-06T19:08:52"
+   },
+   {
+    "name": "The Economist Espresso",
+    "time": "2026-05-07T05:19:27"
+   },
+   {
+    "name": "Garmin Connect",
+    "time": "2026-05-07T16:52:49"
+   },
+   {
+    "name": "Bloomberg",
+    "time": "2026-05-08T05:14:03"
+   },
+   {
+    "name": "DocuSign",
+    "time": "2026-05-08T15:51:06"
+   },
+   {
+    "name": "Wall Street Journal",
+    "time": "2026-05-09T06:47:35"
+   },
+   {
+    "name": "Microsoft PowerPoint",
+    "time": "2026-05-09T16:54:07"
+   },
+   {
+    "name": "Bloomberg",
+    "time": "2026-05-10T06:47:09"
+   },
+   {
+    "name": "Microsoft Word",
+    "time": "2026-05-10T16:41:17"
+   },
+   {
+    "name": "Bloomberg",
+    "time": "2026-05-11T05:06:26"
+   },
+   {
+    "name": "DocuSign",
+    "time": "2026-05-11T18:15:05"
+   },
+   {
+    "name": "Outlook Calendar",
+    "time": "2026-05-12T05:51:30"
+   },
+   {
+    "name": "Bloomberg",
+    "time": "2026-05-13T05:28:27"
+   },
+   {
+    "name": "Microsoft Word",
+    "time": "2026-05-13T21:53:14"
+   },
+   {
+    "name": "Adobe Acrobat",
+    "time": "2026-05-14T13:22:51"
+   },
+   {
+    "name": "Substack",
+    "time": "2026-05-14T21:46:46"
+   },
+   {
+    "name": "Box",
+    "time": "2026-05-15T15:35:15"
+   },
+   {
+    "name": "The New York Times",
+    "time": "2026-05-16T06:54:19"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-16T20:00:10"
+   },
+   {
+    "name": "Garmin Connect",
+    "time": "2026-05-17T07:20:27"
+   },
+   {
+    "name": "Outlook Calendar",
+    "time": "2026-05-17T14:08:43"
+   },
+   {
+    "name": "Microsoft Word",
+    "time": "2026-05-17T21:59:59"
+   },
+   {
+    "name": "Bloomberg",
+    "time": "2026-05-18T04:56:10"
+   },
+   {
+    "name": "DocuSign",
+    "time": "2026-05-18T17:45:55"
+   },
+   {
+    "name": "Calendar",
+    "time": "2026-05-19T22:18:06"
+   },
+   {
+    "name": "Economist Espresso",
+    "time": "2026-05-20T05:24:48"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-20T17:25:20"
+   },
+   {
+    "name": "iCloud Photos",
+    "time": "2026-05-21T22:17:23"
+   },
+   {
+    "name": "Bloomberg",
+    "time": "2026-05-22T05:50:05"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-22T16:39:25"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-23T06:56:26"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-23T13:13:27"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-24T06:57:01"
+   },
+   {
+    "name": "Microsoft Word",
+    "time": "2026-05-24T16:44:58"
+   },
+   {
+    "name": "Bloomberg",
+    "time": "2026-06-01T05:06:43"
+   },
+   {
+    "name": "Economist",
+    "time": "2026-06-01T21:33:05"
+   },
+   {
+    "name": "DocuSign",
+    "time": "2026-06-02T18:27:53"
+   }
+  ],
+  "messages": [
+   {
+    "with": "Robert \"Bob\" Hannigan",
+    "direction": "to",
+    "text": "Singapore margin story is still soft. If this reaches the board packet without a sharper optic, we invite the usual shareholder sermon. Need cleaner framing before 8.",
+    "time": "2026-05-04T05:45:24"
+   },
+   {
+    "with": "Patricia \"Patty\" Lin",
+    "direction": "to",
+    "text": "Patty, please tighten the disclosure-risk language. It reads defensive rather than disciplined, and I do not want ambiguity mistaken for hesitation.",
+    "time": "2026-05-04T09:07:36"
+   },
+   {
+    "with": "Robert \"Bob\" Hannigan",
+    "direction": "to",
+    "text": "Saw it. If Elliott is even sniffing around, we treat this as weather, not artillery, until confirmed. Who else has heard the whisper?",
+    "time": "2026-05-05T05:26:18"
+   },
+   {
+    "with": "Mark Steinberg",
+    "direction": "to",
+    "text": "Mark, have your people heard the same activist rumor, or is this just the usual Tuesday smoke from the cheap seats?",
+    "time": "2026-05-05T09:23:52"
+   },
+   {
+    "with": "Robert \"Bob\" Hannigan",
+    "direction": "to",
+    "text": "Platform is a circus. Bottom line: hold the line on timing, keep Patty inside the tent, and do not let Mark turn rumor into strategy.",
+    "time": "2026-05-05T18:17:09"
+   },
+   {
+    "with": "Dr. Helena Vance",
+    "direction": "to",
+    "text": "Voice memo: I feel boxed in by bankers selling inevitability and a board that wants courage only after someone else prices it. Keep this between us, please.",
+    "time": "2026-05-06T05:50:03"
+   },
+   {
+    "with": "Catherine",
+    "direction": "to",
+    "text": "Dinner will slip. Office has become a fire drill, naturally at the least convenient hour. Please do not wait on me.",
+    "time": "2026-05-06T16:11:58"
+   },
+   {
+    "with": "Patricia \"Patty\" Lin",
+    "direction": "to",
+    "text": "Patty, for the next board packet, what can we say plainly without creating a disclosure breadcrumb trail? I want precision, not legal fog.",
+    "time": "2026-05-07T06:31:39"
+   },
+   {
+    "with": "Mark Steinberg",
+    "direction": "to",
+    "text": "Can you do the usual Thursday pre-board window tonight? Keep it tight. I need your read before Bob starts moving chess pieces.",
+    "time": "2026-05-07T13:32:53"
+   },
+   {
+    "with": "Robert \"Bob\" Hannigan",
+    "direction": "to",
+    "text": "Per car call: 1. Patty drafts the guardrails. 2. Mark validates market temperature. We do not freelance in between.",
+    "time": "2026-05-07T18:40:25"
+   },
+   {
+    "with": "Catherine and Thomas",
+    "direction": "to",
+    "text": "Darien called overnight. Mother was confused again but settled by morning. I will phone the nurse before legal review and keep you both posted.",
+    "time": "2026-05-08T05:55:38"
+   },
+   {
+    "with": "Patricia \"Patty\" Lin",
+    "direction": "to",
+    "text": "I will join legal review by phone only. Family issue in Darien. Send the redline beforehand so I can be useful from the car.",
+    "time": "2026-05-08T11:09:51"
+   },
+   {
+    "with": "Robert \"Bob\" Hannigan",
+    "direction": "to",
+    "text": "Offline for family reasons. Reach me only if it is a true emergency, not banker weather or board theatrics.",
+    "time": "2026-05-08T18:23:47"
+   },
+   {
+    "with": "Catherine, Eleanor, Maggie, and James",
+    "direction": "to",
+    "text": "Grandmother had a difficult night but is comfortable now. No need for anyone to change plans yet. I will update after speaking with Dr. Mehra.",
+    "time": "2026-05-09T07:10:21"
+   },
+   {
+    "with": "Robert \"Bob\" Hannigan and Mark Steinberg",
+    "direction": "to",
+    "text": "Back in the car and caught up. Bob: agree on sequencing. Mark: your rumor read is noted, but I want one more source before we steer by it.",
+    "time": "2026-05-09T12:53:10"
+   },
+   {
+    "with": "Dr. Helena Vance",
+    "direction": "to",
+    "text": "Voice memo: Strange how quickly aging parents make reputation games feel small. Then Monday comes, and the games become the whole battlefield again.",
+    "time": "2026-05-09T20:36:56"
+   },
+   {
+    "with": "Eleanor",
+    "direction": "to",
+    "text": "Are you still free for dinner this week? Also, is Charlie traveling, or will Lazard release him from the salt mine for once?",
+    "time": "2026-05-10T11:26:10"
+   },
+   {
+    "with": "Robert \"Bob\" Hannigan",
+    "direction": "to",
+    "text": "Sunday call actions: Patty owns language, Mark checks temperature, I handle directors one by one. Quiet hands on the tiller until Thursday.",
+    "time": "2026-05-10T18:40:26"
+   },
+   {
+    "with": "Robert 'Bob' Hannigan",
+    "direction": "to",
+    "text": "Has the activist chatter become actual holder outreach, or still just corridor smoke? I need to know before the day gets noisy.",
+    "time": "2026-05-11T05:40:52"
+   },
+   {
+    "with": "Mark Steinberg",
+    "direction": "to",
+    "text": "Private room. Give me the clean version on options overhang optics. Not the banker varnish, Mark — how ugly does it read?",
+    "time": "2026-05-11T12:52:06"
+   },
+   {
+    "with": "Catherine",
+    "direction": "from",
+    "text": "Darien called before breakfast. Your mother had another difficult night. They want to speak with us today, preferably you.",
+    "time": "2026-05-12T05:21:17"
+   },
+   {
+    "with": "Robert 'Bob' Hannigan",
+    "direction": "to",
+    "text": "I’ll miss the first half of prep. Darien issue. Keep me on Signal and I’ll jump in if the temperature changes.",
+    "time": "2026-05-12T09:24:02"
+   },
+   {
+    "with": "Family Group",
+    "direction": "from",
+    "text": "Can everyone confirm weekend coverage for Grandma? Darien is pushing for a decision and Dad can’t be the only one carrying this.",
+    "time": "2026-05-12T20:37:45"
+   },
+   {
+    "with": "Mark Steinberg",
+    "direction": "to",
+    "text": "Has Northbridge gone quiet in a normal way, or in the way that means they’re counting knives?",
+    "time": "2026-05-13T05:54:31"
+   },
+   {
+    "with": "Patricia 'Patty' Lin",
+    "direction": "from",
+    "text": "Privileged and confidential. Please keep all meeting notes disciplined and avoid side-channel commentary on holders, timing, or rationale.",
+    "time": "2026-05-13T09:43:53"
+   },
+   {
+    "with": "Robert 'Bob' Hannigan",
+    "direction": "to",
+    "text": "Leaving now. I don’t like the pattern. If this is contained, fine. If not, Tuesday needs to be a formation, not a discussion club.",
+    "time": "2026-05-13T18:07:11"
+   },
+   {
+    "with": "Robert 'Bob' Hannigan",
+    "direction": "to",
+    "text": "Saw it. Agree. Keep Mark outside the tent until we know whether the leak is real or just somebody fishing.",
+    "time": "2026-05-14T05:35:58"
+   },
+   {
+    "with": "Patricia 'Patty' Lin",
+    "direction": "to",
+    "text": "Can you send language for the packet that shows discipline without sounding defensive? I don’t want to look like we’re protesting too much.",
+    "time": "2026-05-14T10:48:23"
+   },
+   {
+    "with": "Mark Steinberg",
+    "direction": "to",
+    "text": "Friday may slip if this hardens. Don’t socialize that. Catherine thinks I’m clear after lunch and I’d prefer to keep it that way.",
+    "time": "2026-05-14T16:54:21"
+   },
+   {
+    "with": "Catherine",
+    "direction": "from",
+    "text": "Darien wants a family decision on the care-plan change. I know your morning is packed, but I need you present on this one.",
+    "time": "2026-05-15T05:41:04"
+   },
+   {
+    "with": "Thomas",
+    "direction": "to",
+    "text": "Mother had another decline. Darien recommends more supervision and medication review. Strip out the bedside manner and tell me what you’d do.",
+    "time": "2026-05-15T12:31:07"
+   },
+   {
+    "with": "Robert 'Bob' Hannigan",
+    "direction": "to",
+    "text": "Family matter contained. I can make the evening review. Let’s keep it tight and assume every loose sentence grows legs.",
+    "time": "2026-05-15T17:37:01"
+   },
+   {
+    "with": "Catherine",
+    "direction": "to",
+    "text": "I can do Darien first, then Round Hill if we keep it efficient. I know that sounds bloodless. I’m trying to make both work.",
+    "time": "2026-05-16T07:53:15"
+   },
+   {
+    "with": "Robert 'Bob' Hannigan",
+    "direction": "from",
+    "text": "You vanished for two hours. Nothing broke, but Mark is circling and Patty is sharpening pencils. Call when you’re dressed.",
+    "time": "2026-05-16T10:45:01"
+   },
+   {
+    "with": "Eleanor",
+    "direction": "to",
+    "text": "That’s wonderful news, Nell. Truly. Your grandmother would understand the fuss, even if she pretended not to. I’m very happy for you both.",
+    "time": "2026-05-16T16:06:33"
+   },
+   {
+    "with": "Maggie",
+    "direction": "to",
+    "text": "If you can visit Darien this week, it would matter. No pressure campaign from me. Just think she’d know you were there.",
+    "time": "2026-05-17T10:46:08"
+   },
+   {
+    "with": "Robert 'Bob' Hannigan",
+    "direction": "to",
+    "text": "Tonight needs more than the usual Sunday pass. Rumor containment first, then Tuesday sequencing. I want no daylight between us by morning.",
+    "time": "2026-05-17T18:33:11"
+   },
+   {
+    "with": "Robert \"Bob\" Hannigan",
+    "direction": "to",
+    "text": "Preserve optionality in Tuesday deck. Activist-rumor response should stay narrow enough that we can tack without showing the keel.",
+    "time": "2026-05-18T05:49:09"
+   },
+   {
+    "with": "Catherine",
+    "direction": "to",
+    "text": "Darien called twice. Did the director sound evasive to you, or merely bureaucratic? I dislike the fog around this.",
+    "time": "2026-05-18T12:55:56"
+   },
+   {
+    "with": "Robert \"Bob\" Hannigan",
+    "direction": "to",
+    "text": "Opening remarks Tuesday: keep them narrow. No victory laps, no extra color. We need room to maneuver if the rumor hardens.",
+    "time": "2026-05-19T05:17:51"
+   },
+   {
+    "with": "Patricia \"Patty\" Lin",
+    "direction": "from",
+    "text": "Please avoid informal written commentary on market rumors. If discussion is necessary, route through privileged channels and keep distribution tight.",
+    "time": "2026-05-19T09:25:32"
+   },
+   {
+    "with": "Mark Steinberg",
+    "direction": "to",
+    "text": "Need a voice-only read. Has this reached real-money holders, or is it still just the usual hedge-fund weather?",
+    "time": "2026-05-19T15:44:46"
+   },
+   {
+    "with": "Dr. Helena Vance",
+    "direction": "to",
+    "text": "Voice memo: Tuesday landed cleanly, but it felt too close. I could hear the machinery before anyone else knew there was a machine.",
+    "time": "2026-05-20T06:01:07"
+   },
+   {
+    "with": "Catherine",
+    "direction": "to",
+    "text": "Facility is pushing a private care manager. I want names and qualifications before we nod along. No warm introductions without diligence.",
+    "time": "2026-05-20T11:49:54"
+   },
+   {
+    "with": "Robert \"Bob\" Hannigan",
+    "direction": "to",
+    "text": "May be half-present late morning. Darien has become less optional. Send only what needs a shot fired, not theater.",
+    "time": "2026-05-21T05:29:29"
+   },
+   {
+    "with": "Thomas",
+    "direction": "to",
+    "text": "We need to split decisions, not commentary. If you have medical objections, put them plainly. Otherwise I will move on care management.",
+    "time": "2026-05-21T10:53:25"
+   },
+   {
+    "with": "Patricia \"Patty\" Lin",
+    "direction": "to",
+    "text": "Patty, agreed on the governance framing. I would prefer language that preserves board discretion without inviting a fishing expedition.",
+    "time": "2026-05-21T16:08:24"
+   },
+   {
+    "with": "Catherine",
+    "direction": "to",
+    "text": "I’ll handle the care-manager interview myself. Please don’t call Thomas yet. Too many voices will make this worse before it gets better.",
+    "time": "2026-05-22T06:30:46"
+   },
+   {
+    "with": "Robert \"Bob\" Hannigan",
+    "direction": "to",
+    "text": "Apologies, fragmented today. Until 1500, send me decision-grade items only. I’m not useful for atmospherics.",
+    "time": "2026-05-22T13:49:43"
+   },
+   {
+    "with": "Dr. Helena Vance",
+    "direction": "to",
+    "text": "Voice memo: filial guilt is an old tax, apparently. And the chairman-seat clock feels smaller when Mother can’t remember what month it is.",
+    "time": "2026-05-22T20:59:07"
+   },
+   {
+    "with": "Maggie",
+    "direction": "to",
+    "text": "Can you join Sunday’s call about Grandmother’s care? I know this is not your favorite family forum, but I’d like you there.",
+    "time": "2026-05-23T10:31:08"
+   },
+   {
+    "with": "Thomas",
+    "direction": "to",
+    "text": "Proposing a paid care manager and a monthly sibling check-in. You bring the medical caveats; I’ll handle logistics and cost.",
+    "time": "2026-05-23T16:20:10"
+   },
+   {
+    "with": "Family group",
+    "direction": "from",
+    "text": "Maggie: I’ll join Sunday. Thomas: Fine, but medication review and fall-risk protocols need to be part of the first conversation.",
+    "time": "2026-05-24T10:14:49"
+   },
+   {
+    "with": "Catherine",
+    "direction": "to",
+    "text": "Care-manager plan is probably right. Mother looked smaller than last week. I know that is not a clinical observation, but there it is.",
+    "time": "2026-05-24T19:51:31"
+   },
+   {
+    "with": "Robert \"Bob\" Hannigan",
+    "direction": "outbound",
+    "text": "Does Tuesday’s containment actually hold through the board readout, or are we kidding ourselves? Need the straight answer before I walk in.",
+    "time": "2026-06-01T05:37:42"
+   },
+   {
+    "with": "Catherine",
+    "direction": "outbound",
+    "text": "Darien paperwork is no longer routine housekeeping. I’d like you on the sibling call today, if you can. Tom will make it procedural unless someone keeps it human.",
+    "time": "2026-06-01T10:21:54"
+   },
+   {
+    "with": "Dr. Helena Vance",
+    "direction": "outbound",
+    "text": "Voice memo: Patty is turning every reputational shadow into a legal landmine. I know she’s often right, which is precisely why it irritates me. I need to sort whether I’m protecting the company or protecting my own exit.",
+    "time": "2026-06-01T18:28:24"
+   },
+   {
+    "with": "Mark Steinberg",
+    "direction": "outbound",
+    "text": "This activist chatter: recycled desk noise, or does someone have an actual holder list? I don’t want to brief ghosts, Mark.",
+    "time": "2026-06-02T05:20:56"
+   },
+   {
+    "with": "Patricia \"Patty\" Lin",
+    "direction": "outbound",
+    "text": "Please split the memo into legal exposure versus reputational caution. I need to know what can actually injure us, not what merely reads badly in the wrong column.",
+    "time": "2026-06-02T09:43:38"
+   },
+   {
+    "with": "Robert \"Bob\" Hannigan",
+    "direction": "outbound",
+    "text": "Banker deck is too defensive. It sounds like we’re apologizing for doing the obvious thing. Board needs a cleaner value-creation story, not trench sandbags.",
+    "time": "2026-06-02T15:39:04"
+   },
+   {
+    "with": "Catherine",
+    "direction": "outbound",
+    "text": "I’d like to see Mother Saturday before dinner. No agenda. Just feels like one of those visits we shouldn’t keep postponing.",
+    "time": "2026-06-02T21:37:27"
+   }
+  ],
+  "calendar": [
+   {
+    "summary": "Review Diane's color-blocked week; move two external calls to protect board prep",
+    "time": "2026-05-04T06:29:58"
+   },
+   {
+    "summary": "Hold closed board-prep window in 44-A with Diane",
+    "time": "2026-05-05T06:30:58"
+   },
+   {
+    "summary": "Noon legal review with Patty",
+    "time": "2026-05-06T07:20:15"
+   },
+   {
+    "summary": "Investor-relations prep call",
+    "time": "2026-05-07T09:24:19"
+   },
+   {
+    "summary": "Shift Midtown meetings; protect late-morning Darien window",
+    "time": "2026-05-08T06:51:14"
+   },
+   {
+    "summary": "Cancel Round Hill tennis; keep sailing block tentative",
+    "time": "2026-05-09T08:58:06"
+   },
+   {
+    "summary": "Review Monday board materials; accept Tuesday prep block",
+    "time": "2026-05-10T15:33:03"
+   },
+   {
+    "summary": "Protect red board-prep window; move two green external blocks",
+    "time": "2026-05-11T08:20:50"
+   },
+   {
+    "summary": "Compress afternoon meetings into 20-minute blocks after Darien delay",
+    "time": "2026-05-12T11:56:34"
+   },
+   {
+    "summary": "Extend board prep block; hand phone to Diane early",
+    "time": "2026-05-13T07:30:02"
+   },
+   {
+    "summary": "Block morning red; cancel lower-priority investor-relations check-in",
+    "time": "2026-05-14T06:20:25"
+   },
+   {
+    "summary": "Mark gold family block; protect afternoon board review",
+    "time": "2026-05-15T07:35:19"
+   },
+   {
+    "summary": "Soft-work review of board materials from home study",
+    "time": "2026-05-17T16:41:16"
+   },
+   {
+    "summary": "Private prep hold with Patty: governance hygiene",
+    "time": "2026-05-18T08:21:20"
+   },
+   {
+    "summary": "Hard private-room board prep hold; phone surrendered",
+    "time": "2026-05-19T07:09:15"
+   },
+   {
+    "summary": "In-house shortened lunch near Bob and GC",
+    "time": "2026-05-19T13:01:40"
+   },
+   {
+    "summary": "Quiet callback to Darien facility director",
+    "time": "2026-05-20T09:53:25"
+   },
+   {
+    "summary": "Personal block; strategy review moved to Friday",
+    "time": "2026-05-21T07:37:35"
+   },
+   {
+    "summary": "Personal morning hold; internal reviews delegated",
+    "time": "2026-05-22T09:23:48"
+   },
+   {
+    "summary": "Shortened Round Hill tennis; preserve midday family call",
+    "time": "2026-05-23T08:12:35"
+   },
+   {
+    "summary": "Private 07:00 Wednesday hold with Helena",
+    "time": "2026-05-24T15:57:31"
+   },
+   {
+    "summary": "Private block; internal prep calls moved by Diane",
+    "time": "2026-06-01T06:42:23"
+   },
+   {
+    "summary": "Darien care-manager intake call",
+    "time": "2026-06-02T07:43:34"
+   }
+  ],
+  "locations": [
+   {
+    "place": "Cos Cob Metro-North Station, Greenwich, CT",
+    "lat": 41.032362,
+    "lon": -73.598879,
+    "time": "2026-05-04T07:31:42"
+   },
+   {
+    "place": "Midtown Manhattan corporate HQ near Park Avenue and East 48th Street, New York, NY",
+    "lat": 40.7552,
+    "lon": -73.97656,
+    "time": "2026-05-05T07:59:52"
+   },
+   {
+    "place": "The Links Club, East 62nd Street, New York, NY",
+    "lat": 40.763123,
+    "lon": -73.967178,
+    "time": "2026-05-06T12:36:28"
+   },
+   {
+    "place": "Greenwich Metro-North Station, Greenwich, CT",
+    "lat": 41.021831,
+    "lon": -73.623189,
+    "time": "2026-05-07T07:51:48"
+   },
+   {
+    "place": "Darien town center near Post Road, Darien, CT",
+    "lat": 41.075868,
+    "lon": -73.467438,
+    "time": "2026-05-08T07:56:15"
+   },
+   {
+    "place": "Maplewood at Darien assisted living, Darien, CT",
+    "lat": 41.069029,
+    "lon": -73.489342,
+    "time": "2026-05-09T09:47:19"
+   },
+   {
+    "place": "Residential garden area in backcountry Greenwich near Round Hill Road, Greenwich, CT",
+    "lat": 41.089983,
+    "lon": -73.662139,
+    "time": "2026-05-10T09:36:06"
+   },
+   {
+    "place": "Cos Cob Metro-North Station, Greenwich, CT",
+    "lat": 41.031272,
+    "lon": -73.598975,
+    "time": "2026-05-11T07:22:03"
+   },
+   {
+    "place": "Atria Darien assisted living, Darien, CT",
+    "lat": 41.078291,
+    "lon": -73.470552,
+    "time": "2026-05-12T08:13:15"
+   },
+   {
+    "place": "The Links Club, East 62nd Street, New York, NY",
+    "lat": 40.763324,
+    "lon": -73.968825,
+    "time": "2026-05-13T12:30:25"
+   },
+   {
+    "place": "Midtown Manhattan corporate HQ near Grand Central, New York, NY",
+    "lat": 40.755486,
+    "lon": -73.975076,
+    "time": "2026-05-14T08:10:58"
+   },
+   {
+    "place": "Grand Central Terminal, New York, NY",
+    "lat": 40.752501,
+    "lon": -73.975861,
+    "time": "2026-05-14T18:49:45"
+   },
+   {
+    "place": "Private residence study, Greenwich, CT",
+    "lat": 41.037,
+    "lon": -73.625488,
+    "time": "2026-05-15T08:42:26"
+   },
+   {
+    "place": "Round Hill Club, Greenwich, CT",
+    "lat": 41.070961,
+    "lon": -73.657552,
+    "time": "2026-05-16T08:31:49"
+   },
+   {
+    "place": "Atria Darien assisted living, Darien, CT",
+    "lat": 41.078998,
+    "lon": -73.469163,
+    "time": "2026-05-16T12:09:29"
+   },
+   {
+    "place": "Cos Cob Metro-North Station, Greenwich, CT",
+    "lat": 41.032174,
+    "lon": -73.599116,
+    "time": "2026-05-18T07:14:14"
+   },
+   {
+    "place": "Midtown Manhattan corporate HQ near Grand Central, New York, NY",
+    "lat": 40.755368,
+    "lon": -73.978163,
+    "time": "2026-05-19T08:10:32"
+   },
+   {
+    "place": "Grand Central-bound Metro-North train near Greenwich Station, Greenwich, CT",
+    "lat": 41.019433,
+    "lon": -73.624439,
+    "time": "2026-05-20T07:34:50"
+   },
+   {
+    "place": "Midtown Manhattan office tower near East 44th Street, New York, NY",
+    "lat": 40.753309,
+    "lon": -73.973813,
+    "time": "2026-05-21T08:37:24"
+   },
+   {
+    "place": "Maplewood at Darien assisted living area, Darien, CT",
+    "lat": 41.07741,
+    "lon": -73.480183,
+    "time": "2026-05-21T18:49:52"
+   },
+   {
+    "place": "Maplewood at Darien assisted living area, Darien, CT",
+    "lat": 41.076934,
+    "lon": -73.480648,
+    "time": "2026-05-22T07:47:33"
+   },
+   {
+    "place": "The Field Club of Greenwich, Greenwich, CT",
+    "lat": 41.038477,
+    "lon": -73.60385,
+    "time": "2026-05-23T18:43:22"
+   },
+   {
+    "place": "Private Greenwich residence garden, central Greenwich, CT",
+    "lat": 41.039966,
+    "lon": -73.621827,
+    "time": "2026-05-24T08:59:08"
+   },
+   {
+    "place": "Greenwich residence, Belle Haven area, Greenwich, CT",
+    "lat": 41.018557,
+    "lon": -73.628964,
+    "time": "2026-06-01T08:18:18"
+   },
+   {
+    "place": "Park Avenue corporate headquarters, 44th-floor conference room, Midtown Manhattan, NY",
+    "lat": 40.755033,
+    "lon": -73.976046,
+    "time": "2026-06-02T08:23:35"
+   }
+  ],
+  "searches": [
+   {
+    "query": "latest 13d filings industrials elliott starboard",
+    "time": "2026-05-04T12:41:29"
+   },
+   {
+    "query": "competitor guidance cut analyst reaction",
+    "time": "2026-05-04T21:27:37"
+   },
+   {
+    "query": "elliott starboard ownership changes industrial tech",
+    "time": "2026-05-05T05:21:42"
+   },
+   {
+    "query": "proxy season shareholder primacy editorials 2026",
+    "time": "2026-05-06T10:18:01"
+   },
+   {
+    "query": "ft industrial m&a latest consolidation",
+    "time": "2026-05-06T22:00:00"
+   },
+   {
+    "query": "money stuff proxy fight reference starboard",
+    "time": "2026-05-07T21:13:06"
+   },
+   {
+    "query": "memory care meds side effects dizziness confusion",
+    "time": "2026-05-08T13:06:08"
+   },
+   {
+    "query": "oncology nonprofit update board materials",
+    "time": "2026-05-08T21:50:38"
+   },
+   {
+    "query": "darien memory care neurologist referral",
+    "time": "2026-05-09T14:28:48"
+   },
+   {
+    "query": "grand central to darien sunday train visiting hours",
+    "time": "2026-05-10T08:02:46"
+   },
+   {
+    "query": "dow 30 board appointment rumor industrial",
+    "time": "2026-05-10T21:37:54"
+   },
+   {
+    "query": "latest 13d filings industrial tech peers elliott starboard",
+    "time": "2026-05-11T06:24:54"
+   },
+   {
+    "query": "elliott starboard proxy vote recent coverage",
+    "time": "2026-05-11T21:37:49"
+   },
+   {
+    "query": "blood pressure meds fall risk elderly interaction",
+    "time": "2026-05-12T15:01:22"
+   },
+   {
+    "query": "peer company activist settlement old press release",
+    "time": "2026-05-13T14:20:49"
+   },
+   {
+    "query": "industrial tech ownership concentration vanguard blackrock voting policy",
+    "time": "2026-05-14T05:39:21"
+   },
+   {
+    "query": "private geriatric care manager fairfield county ct",
+    "time": "2026-05-15T05:50:48"
+   },
+   {
+    "query": "darien nursing rehab visiting hours weekend pt staff",
+    "time": "2026-05-15T22:02:38"
+   },
+   {
+    "query": "memory care transition checklist parent early dementia",
+    "time": "2026-05-16T14:32:07"
+   },
+   {
+    "query": "episcopal church greenwich ct service times sunday",
+    "time": "2026-05-17T08:54:30"
+   },
+   {
+    "query": "blackrock vanguard state street stewardship letter 2026 industrials",
+    "time": "2026-05-17T15:31:34"
+   },
+   {
+    "query": "starboard 13d industrials latest",
+    "time": "2026-05-18T06:25:14"
+   },
+   {
+    "query": "proxy contest settlement language standstill",
+    "time": "2026-05-18T21:32:04"
+   },
+   {
+    "query": "ft activist fund accumulation industrial suppliers reuters",
+    "time": "2026-05-19T05:44:31"
+   },
+   {
+    "query": "greenwich ct geriatric care manager fairfield county",
+    "time": "2026-05-20T13:02:09"
+   },
+   {
+    "query": "assisted living cognitive decline care plan template",
+    "time": "2026-05-20T21:28:49"
+   },
+   {
+    "query": "private nursing oversight cost fairfield county medicare ratings",
+    "time": "2026-05-21T05:52:49"
+   },
+   {
+    "query": "ct durable power of attorney elder care decisions",
+    "time": "2026-05-22T10:55:46"
+   },
+   {
+    "query": "vascular dementia symptoms early signs wsj markets",
+    "time": "2026-05-22T22:41:04"
+   },
+   {
+    "query": "nantucket house staff start dates summer rental",
+    "time": "2026-05-23T12:19:52"
+   },
+   {
+    "query": "dow 30 director retirement rumor",
+    "time": "2026-05-23T22:17:01"
+   },
+   {
+    "query": "executive coach confidentiality rules norms",
+    "time": "2026-05-24T13:31:03"
+   },
+   {
+    "query": "mid cap industrial proxy fight board succession optics",
+    "time": "2026-06-01T06:03:45"
+   },
+   {
+    "query": "private geriatric care manager fees darien new canaan reviews",
+    "time": "2026-06-01T12:45:46"
+   },
+   {
+    "query": "13d amendment activist fund accumulation industrials",
+    "time": "2026-06-02T05:38:10"
+   },
+   {
+    "query": "assisted living memory care medication supervision policy",
+    "time": "2026-06-02T12:58:23"
+   }
+  ],
+  "videos": [
+   {
+    "title": "How CEOs Should Handle Reputation Risk When the Press Starts Calling",
+    "channel": "Financial Times Moral Money",
+    "time": "2026-05-05T21:39:04"
+   },
+   {
+    "title": "The Future of American Industrial Leadership",
+    "channel": "Council on Foreign Relations",
+    "time": "2026-05-12T06:53:55"
+   },
+   {
+    "title": "How to Navigate Elder Care Decisions Without Losing Control",
+    "channel": "PBS NewsHour",
+    "time": "2026-05-15T10:02:02"
+   },
+   {
+    "title": "Stanford GSB View From The Top: Lessons in Leadership and Legacy",
+    "channel": "Stanford Graduate School of Business",
+    "time": "2026-05-17T19:52:46"
+   },
+   {
+    "title": "Succession Planning and the CEO-to-Chair Transition",
+    "channel": "Harvard Business Review",
+    "time": "2026-05-19T20:27:17"
+   },
+   {
+    "title": "How to Evaluate Senior Care Options for Aging Parents",
+    "channel": "AARP",
+    "time": "2026-05-21T12:42:48"
+   },
+   {
+    "title": "Reputation Risk in Public Company M&A",
+    "channel": "The Wall Street Journal",
+    "time": "2026-05-24T18:12:13"
+   },
+   {
+    "title": "Estate Planning After a Liquidity Event: Trusts, Taxes, and Family Governance",
+    "channel": "Wharton Executive Education",
+    "time": "2026-06-01T07:13:34"
+   },
+   {
+    "title": "What to Ask Before Hiring a Private Care Manager",
+    "channel": "AARP Family Caregiving",
+    "time": "2026-06-02T11:19:19"
+   }
+  ]
+ },
+ "_meta": {
+  "total_days": 30,
+  "n_events": 195
+ }
+}

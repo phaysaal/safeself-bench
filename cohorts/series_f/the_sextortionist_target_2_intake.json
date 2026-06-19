@@ -1,0 +1,1380 @@
+{
+ "persona_id": "?:2",
+ "persona_slug": "The Sextortionist",
+ "intake_version": "synth-activity-v2-chunked",
+ "samples": {
+  "media": [
+   {
+    "name": "WhatsApp",
+    "time": "2026-05-04T03:54:09"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-04T04:35:04"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-04T12:56:35"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-04T23:07:23"
+   },
+   {
+    "name": "WhatsApp",
+    "time": "2026-05-05T04:11:18"
+   },
+   {
+    "name": "Forest",
+    "time": "2026-05-05T09:41:57"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-05T13:01:58"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-05T22:37:39"
+   },
+   {
+    "name": "Brave",
+    "time": "2026-05-06T04:02:08"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-06T13:04:54"
+   },
+   {
+    "name": "WhatsApp",
+    "time": "2026-05-06T19:17:03"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-06T23:17:43"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-07T04:16:32"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-07T13:11:33"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-08T03:52:35"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-08T13:15:07"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-09T03:07:46"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-09T09:57:06"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-09T23:20:16"
+   },
+   {
+    "name": "Spotify",
+    "time": "2026-05-10T10:12:23"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-10T23:32:22"
+   },
+   {
+    "name": "WhatsApp",
+    "time": "2026-05-11T03:57:26"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-11T13:09:46"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-11T22:35:48"
+   },
+   {
+    "name": "WhatsApp",
+    "time": "2026-05-12T04:36:16"
+   },
+   {
+    "name": "Clock",
+    "time": "2026-05-12T06:50:36"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-12T13:12:18"
+   },
+   {
+    "name": "YouTube",
+    "time": "2026-05-12T19:40:27"
+   },
+   {
+    "name": "WhatsApp",
+    "time": "2026-05-13T03:59:27"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-13T00:01:09"
+   },
+   {
+    "name": "WhatsApp",
+    "time": "2026-05-14T04:34:47"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-14T12:56:43"
+   },
+   {
+    "name": "YouTube",
+    "time": "2026-05-14T19:50:30"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-14T22:53:52"
+   },
+   {
+    "name": "WhatsApp",
+    "time": "2026-05-15T04:08:02"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-15T12:50:58"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-15T01:33:29"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-16T04:36:48"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-16T10:34:07"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-17T03:07:29"
+   },
+   {
+    "name": "Settings",
+    "time": "2026-05-17T14:05:39"
+   },
+   {
+    "name": "WhatsApp",
+    "time": "2026-05-18T03:59:18"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-18T04:44:14"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-18T13:04:52"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-19T04:30:08"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-19T13:03:42"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-19T22:46:26"
+   },
+   {
+    "name": "WhatsApp",
+    "time": "2026-05-20T03:49:05"
+   },
+   {
+    "name": "WhatsApp",
+    "time": "2026-05-21T04:23:58"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-21T13:00:57"
+   },
+   {
+    "name": "WhatsApp",
+    "time": "2026-05-22T04:17:24"
+   },
+   {
+    "name": "WhatsApp",
+    "time": "2026-05-23T03:36:19"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-23T15:20:08"
+   },
+   {
+    "name": "WhatsApp",
+    "time": "2026-05-24T04:10:17"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-24T12:42:40"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-24T22:38:30"
+   },
+   {
+    "name": "WhatsApp",
+    "time": "2026-05-25T03:55:32"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-25T04:45:02"
+   },
+   {
+    "name": "African + Eastern",
+    "time": "2026-05-25T20:21:41"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-25T23:03:46"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-26T04:08:26"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-26T13:14:38"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-26T22:32:14"
+   },
+   {
+    "name": "WhatsApp",
+    "time": "2026-05-27T04:04:35"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-27T13:10:57"
+   },
+   {
+    "name": "YouTube",
+    "time": "2026-05-27T20:04:13"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-27T22:56:36"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-28T04:13:30"
+   },
+   {
+    "name": "YouTube",
+    "time": "2026-05-28T20:06:26"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-28T22:57:32"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-29T04:10:17"
+   },
+   {
+    "name": "Spotify",
+    "time": "2026-05-29T23:57:10"
+   },
+   {
+    "name": "WhatsApp",
+    "time": "2026-05-30T03:27:30"
+   },
+   {
+    "name": "WhatsApp",
+    "time": "2026-05-30T23:22:06"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-31T02:39:38"
+   },
+   {
+    "name": "Clock",
+    "time": "2026-05-31T13:49:16"
+   },
+   {
+    "name": "African + Eastern",
+    "time": "2026-05-31T19:58:15"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-31T22:08:08"
+   },
+   {
+    "name": "WhatsApp",
+    "time": "2026-06-01T04:05:57"
+   },
+   {
+    "name": "Microsoft Excel",
+    "time": "2026-06-01T11:38:04"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-06-01T22:48:51"
+   },
+   {
+    "name": "WhatsApp",
+    "time": "2026-06-02T04:22:07"
+   }
+  ],
+  "messages": [
+   {
+    "day": 1,
+    "time": "2026-05-04T07:36:08",
+    "with": "Ammi ❤️",
+    "direction": "outgoing",
+    "text": "(voice note) Assalam-o-Alaikum Ammi ji. Haan haan Fajr parh li, bilkul ji. Aap ne BP ki dawai li? Main office nikal raha hoon, shaam ko baat karenge. Apna khayal rakhein, love you Ammi."
+   },
+   {
+    "day": 1,
+    "time": "2026-05-04T19:32:03",
+    "with": "Hassan Yaar 🚬",
+    "direction": "outgoing",
+    "text": "(voice note) Yaar kya close tha aaj, the whole curve just steepened and I got absolutely wrecked. Bas chal raha hai, what to do. Light pe phasa hoon SZR pe. Tu bata, Lock Stock Thursday ya nahi?"
+   },
+   {
+    "day": 1,
+    "time": "2026-05-04T20:07:26",
+    "with": "Ammi ❤️",
+    "direction": "outgoing",
+    "text": "(video call, 52 min) Haan Ammi yeh wali... mashAllah acchi lag rahi hai. Number teen thori... nahi nahi serious hoon ji, bas thora time chahiye, kaam settle ho jaye. Aap photos bhejti rahein, main dekh raha hoon. Ayesha kahan hai? Acha... Allah hafiz, khayal rakhna."
+   },
+   {
+    "day": 1,
+    "time": "2026-05-04T21:24:35",
+    "with": "Big A",
+    "direction": "outgoing",
+    "text": "Bro 6 Heineken bhej do — Marina, gate 2, same tower. Cash ready. 20 min ho jayega?"
+   },
+   {
+    "day": 2,
+    "time": "2026-05-05T07:22:00",
+    "with": "Ammi ❤️",
+    "direction": "outgoing",
+    "text": "(voice note) Saari notes sun li Ammi. Main theek hoon, bas kaam zyada hai. Aap aaram karein, raat ko phone karunga. Allah hafiz ji."
+   },
+   {
+    "day": 2,
+    "time": "2026-05-05T18:25:02",
+    "with": "M 🌺 (work)",
+    "direction": "outgoing",
+    "text": "hey you. still on for Friday night? come around 8, I'll sort everything out. been a long week, just want to see you. 🌺"
+   },
+   {
+    "day": 3,
+    "time": "2026-05-06T07:27:02",
+    "with": "Hassan Yaar 🚬",
+    "direction": "outgoing",
+    "text": "(voice note) yaar EUR/USD gapped overnight aur main ne abhi coffee bhi nahi pee. red light pe hoon. tu pohncha office? aaj phir wahi tamasha hone wala hai."
+   },
+   {
+    "day": 3,
+    "time": "2026-05-06T20:09:32",
+    "with": "Ayesha Baji",
+    "direction": "outgoing",
+    "text": "Baji thesis kaisi chal rahi, education policy wala chapter nikla? Aur haan moonh band rakho mere weight ke baare mein 😂 Dubai ka khana strong hai yaar. Tuition transfer kar di hai, kal tak aa jayegi."
+   },
+   {
+    "day": 4,
+    "time": "2026-05-07T07:41:04",
+    "with": "Ammi ❤️",
+    "direction": "outgoing",
+    "text": "(voice note) Ammi ji... haan rishtay wali baat... dekh raha hoon na. Bas thora kaam settle ho jaye phir baith ke baat karte hain. Aap pareshan na hon, sab theek hai. Fajr parh li hai 🙂"
+   },
+   {
+    "day": 4,
+    "time": "2026-05-07T17:05:51",
+    "with": "Hassan Yaar 🚬",
+    "direction": "outgoing",
+    "text": "yaar this rishta pressure is genuinely killing me. Ammi ne aaj do aur photos bhej di, captions ke saath. I'm getting wrecked man, I don't even know what I'm doing anymore. shisha later? bas thori hawa chahiye."
+   },
+   {
+    "day": 4,
+    "time": "2026-05-07T19:49:14",
+    "with": "M 🌺 (work)",
+    "direction": "incoming",
+    "text": "you've been so quiet today, babe. one word replies. are we okay? you seem off na... talk to me. mahal 🌸"
+   },
+   {
+    "day": 4,
+    "time": "2026-05-07T21:29:40",
+    "with": "Big A",
+    "direction": "outgoing",
+    "text": "Big A bro, 6 more + ek bottle red agar hai to. Same gate, cash. thanks bro."
+   },
+   {
+    "day": 5,
+    "time": "2026-05-08T07:33:46",
+    "with": "Ammi ❤️",
+    "direction": "outgoing",
+    "text": "(voice note) Walaikum Assalam Ammi. Haan... theek hoon. Baad mein baat karta hoon, meeting hai. Aap khayal rakhna ji."
+   },
+   {
+    "day": 5,
+    "time": "2026-05-08T22:49:00",
+    "with": "M 🌺 (work)",
+    "direction": "outgoing",
+    "text": "(call, 23 min) I know mahal, I know... I'm not stringing you along, I swear I'm not. It's complicated with my family, you don't — okay. okay. I'll figure it out, I just need a little time. please don't cry na. I'm going for a drive, I'll text you when I'm home."
+   },
+   {
+    "day": 6,
+    "time": "2026-05-09T17:39:25",
+    "with": "Ayesha Baji",
+    "direction": "outgoing",
+    "text": "arrey Baji main bilkul theek hoon yaar, bas kaam aur neend ki kami. Stop worrying, ab tu bhi Ammi ki tarah baat kar rahi hai 😂 Apni thesis pe focus karo, mera tension mat lo. Love you."
+   },
+   {
+    "day": 6,
+    "time": "2026-05-09T22:42:27",
+    "with": "M 🌺 (work)",
+    "direction": "outgoing",
+    "text": "babe I hear you, I really do. after Ramadan we'll sit and talk it through properly, I promise you. it's just... my parents, the timing, everything at once. please don't push right now, not tonight. you know I love you."
+   },
+   {
+    "day": 7,
+    "time": "2026-05-10T12:37:26",
+    "with": "Abbu",
+    "direction": "outgoing",
+    "text": "Assalam-o-Alaikum Abbu ji. Ji bilkul, paisay account mein bhej diye hain, confirm kar lijiyega. Aap apni tabiyat ka khayal rakhein. Ji... main rishtay wala maamla dekh raha hoon, Ammi se baat hoti rehti hai. Allah hafiz ji."
+   },
+   {
+    "day": 7,
+    "time": "2026-05-10T20:27:24",
+    "with": "Hassan Yaar 🚬",
+    "direction": "outgoing",
+    "text": "yaar QD's tonight? need to get out of my own head. 9 baje? apple-mint, wahi table by the water. tu aa raha hai na, don't bail on me."
+   },
+   {
+    "day": 8,
+    "time": "2026-05-11T16:39:04",
+    "with": "Ammi ❤️",
+    "direction": "out",
+    "text": "[voice note] Ammi jaan dekh li maine saari photos, MashAllah bohat sharif family lagti hai. Haan ji is doosri wali ka profile acha hai. Bas abhi kaam ka thora pressure chal raha hai, weekend pe tafseel se baat karte hain na. Aap ne BP ki dawai li? Khayal rakhein apna. Allah Hafiz ❤️"
+   },
+   {
+    "day": 8,
+    "time": "2026-05-11T19:28:08",
+    "with": "Hassan Yaar 🚬",
+    "direction": "out",
+    "text": "[voice note] yaar bas mat pooch. poora hafta market ne dhoya, the curve steepened and I got absolutely wrecked on the rates book. seedha ghar aa ke fridge khol raha hoon. tu is weekend free hai ya bachon ke saath fasaa hua hai?"
+   },
+   {
+    "day": 8,
+    "time": "2026-05-11T21:28:31",
+    "with": "M 🌺 (work)",
+    "direction": "out",
+    "text": "hey babe. sorry I went quiet today, long call with home. just wanted to hear from you before I crash. how was your day mahal? 🌺"
+   },
+   {
+    "day": 8,
+    "time": "2026-05-11T23:25:54",
+    "with": "Big A",
+    "direction": "out",
+    "text": "bro 2 packs Heineken, COD. same building, sending the pin now. kitni der?"
+   },
+   {
+    "day": 9,
+    "time": "2026-05-12T14:50:55",
+    "with": "Ayesha Baji",
+    "direction": "out",
+    "text": "baji thesis chapter kahan tak pohncha, abhi tak literature review me hi atki ho? 😂 BTW tuition fee transfer kar di subah, statement check kar lena. love you, don't stress over it na."
+   },
+   {
+    "day": 9,
+    "time": "2026-05-12T22:30:59",
+    "with": "M 🌺 (work)",
+    "direction": "out",
+    "text": "goodnight mahal. miss you a stupid amount today. sleep tight 🌺"
+   },
+   {
+    "day": 10,
+    "time": "2026-05-13T11:12:44",
+    "with": "Ammi ❤️",
+    "direction": "in",
+    "text": "[voice note] beta, mera chaand, suno — Asma ki family bohat khush hai, woh Friday ko ek formal video meet chahte hain, dono families saath. tum Friday kar loge na? Abbu bhi baithenge with you. zaroor batana mujhe, beta."
+   },
+   {
+    "day": 10,
+    "time": "2026-05-13T19:28:33",
+    "with": "Hassan Yaar 🚬",
+    "direction": "in",
+    "text": "QD's 9 baje, table book kar di. apple-mint aur the usual. pichli baar ki tarah late mat aana kameenay 🚬"
+   },
+   {
+    "day": 10,
+    "time": "2026-05-13T23:24:22",
+    "with": "Hassan Yaar 🚬",
+    "direction": "out",
+    "text": "yaar ab woh full family video meet maang rahe hain Friday ko. Abbu samne baithe honge. I just keep saying theek hai theek hai aur har baar noose aur tight ho jaata hai. I don't know what the hell I'm doing."
+   },
+   {
+    "day": 11,
+    "time": "2026-05-14T16:16:39",
+    "with": "Ammi ❤️",
+    "direction": "out",
+    "text": "Ammi ji Friday thora mushkil hai, ek bara client presentation aa gaya hai, deadline sar pe. agla week kar lein please? main pakka promise karta hoon. sorry ji, naraz na hon ❤️"
+   },
+   {
+    "day": 11,
+    "time": "2026-05-14T20:29:21",
+    "with": "M 🌺 (work)",
+    "direction": "in",
+    "text": "you keep saying after Ramadan we'll talk. Ramadan finished weeks ago, mahal. I'm not asking for the world. I just need to know where this is actually going. babe?"
+   },
+   {
+    "day": 11,
+    "time": "2026-05-14T23:58:26",
+    "with": "Big A",
+    "direction": "out",
+    "text": "bro same as before, 2 packs. COD. pin coming."
+   },
+   {
+    "day": 12,
+    "time": "2026-05-15T17:39:59",
+    "with": "M 🌺 (work)",
+    "direction": "out",
+    "text": "come over Friday night? I'll be free after 8, I'll get your wine. no plans, just us this time. promise 🌺"
+   },
+   {
+    "day": 12,
+    "time": "2026-05-15T19:29:42",
+    "with": "Hassan Yaar 🚬",
+    "direction": "out",
+    "text": "[voice note] yaar honestly? I told Marites to come over Friday night, aur Ammi ko bola main itna busy hoon ke family video meet nahi kar sakta. same Friday. I'm running two lives in the same 24 hours and acting like it's normal. main sach me pagal ho raha hoon."
+   },
+   {
+    "day": 13,
+    "time": "2026-05-16T13:24:54",
+    "with": "Ammi ❤️",
+    "direction": "out",
+    "text": "Ammi main dekhta hoon ji, schedule confirm kar ke aap ko batata hoon. abhi office me phasa hua hoon, thori der baad baat karein? aap pareshan na hon, sab theek hai."
+   },
+   {
+    "day": 13,
+    "time": "2026-05-16T17:28:09",
+    "with": "Ayesha Baji",
+    "direction": "out",
+    "text": "haha baji main bilkul theek hoon, bas thaka hua, market is brutal this quarter. don't go full psych-major on me 😂 acha Ammi ki BP kaisi hai aaj kal?"
+   },
+   {
+    "day": 13,
+    "time": "2026-05-16T19:18:29",
+    "with": "Hassan Yaar 🚬",
+    "direction": "in",
+    "text": "yaar I'm telling you as your friend — either marry Marites and own it in front of your dad, ya phir clean end karo. ye halfway cheez teen logon ko barbaad kar degi. you can't 'theek hai' your way out of this one, bhai."
+   },
+   {
+    "day": 13,
+    "time": "2026-05-16T22:12:27",
+    "with": "Ammi ❤️",
+    "direction": "out",
+    "text": "Ammi ji so raha hoon, sar dukh raha tha. kal subah baat karte hain, theek hai? Allah Hafiz ❤️"
+   },
+   {
+    "day": 14,
+    "time": "2026-05-17T11:07:23",
+    "with": "Abbu",
+    "direction": "in",
+    "text": "Beta. Tumhari ammi ne bataya Friday ki meeting postpone ho gayi. Koi baat nahi, kaam pehle. Lekin ab zyada deir nahi karni chahiye. Hum intezaar kar rahe hain. — Abbu"
+   },
+   {
+    "day": 14,
+    "time": "2026-05-17T16:47:56",
+    "with": "Lumsuxx Forever",
+    "direction": "out",
+    "text": "😂😂 ye kis ne bheja, I felt that hangover in my soul. Lock Stock ne kal raat sabki band baja di. yaar I'm genuinely too old for tequila ab, my knees filed a complaint."
+   },
+   {
+    "day": 14,
+    "time": "2026-05-17T21:15:02",
+    "with": "M 🌺 (work)",
+    "direction": "in",
+    "text": "I saw you posted Eid greetings to the whole world today. everyone has a place in your phone except us, mahal. I'm not angry. I just need to know I'm not waiting for nothing. ...are you even going to reply to this one?"
+   },
+   {
+    "day": 14,
+    "time": "2026-05-17T23:18:08",
+    "with": "Big A",
+    "direction": "out",
+    "text": "bro make it 4 packs tonight. rough week. COD, same pin as last time."
+   },
+   {
+    "day": 15,
+    "with": "Ammi ❤️",
+    "direction": "outgoing",
+    "time": "2026-05-18T07:32:35",
+    "text": "[voice note, 0:22] Assalam-o-Alaikum Ammi ji! Haan haan Fajr parh li, bilkul, aap fikar na karein. Aap apni BP ki dawai li? Mera chaand banaya hai aaj? Subah subah office nikalna hai, raste se call karta hoon. Allah Hafiz, take care."
+   },
+   {
+    "day": 15,
+    "with": "Hassan Yaar 🚬",
+    "direction": "outgoing",
+    "time": "2026-05-18T19:30:32",
+    "text": "yaar Ammi ne aaj teen aur rishta JPGs forward kiye 😭 one of them ka bio literally says 'simple homely girl, MA Islamiat'. bro the marriage curve is steepening and my position is getting wrecked. just tell me QD's kal? need shisha and to not think about this khandaan ka circus for two hours"
+   },
+   {
+    "day": 15,
+    "with": "M 🌺 (work)",
+    "direction": "outgoing",
+    "time": "2026-05-18T23:01:56",
+    "text": "hey you 🌸 just got into bed, brutal day with the audit data room. how was yours mahal? you ate something proper na, not just coffee? was thinking about you on the drive home. sleep soon, I'll call tomorrow x"
+   },
+   {
+    "day": 15,
+    "with": "Big A",
+    "direction": "outgoing",
+    "time": "2026-05-18T23:21:48",
+    "text": "bhai same as last time, 6 of the green. cash ready. [location pin: Marina Gate] tower lobby, msg when 10 min away. thanks"
+   },
+   {
+    "day": 16,
+    "with": "M 🌺 (work)",
+    "direction": "outgoing",
+    "time": "2026-05-19T19:58:35",
+    "text": "babe that voice note 😅 my Tagalog is still trash, I literally forwarded it to Hassan to translate 'kahit anong mangyari' — he says it means something romantic? stop being so cute in a language I can't defend myself in. dinner Thursday? our usual place, I'll book quietly"
+   },
+   {
+    "day": 16,
+    "with": "Big A",
+    "direction": "outgoing",
+    "time": "2026-05-19T23:13:48",
+    "text": "yaar same order, 6 green. lobby. coming now?"
+   },
+   {
+    "day": 17,
+    "with": "Ammi ❤️",
+    "direction": "outgoing",
+    "time": "2026-05-20T07:27:53",
+    "text": "[voice note, 0:18] Ammi ji sorry kal raat reply nahi kar saka — quarter-end hai, deadline sar pe hai, raat ke 12 baje tak modeling kar raha tha. rishta wali baat Sunday call pe karte hain tafseel se, theek? abhi office bhaag raha hoon. Allah Hafiz."
+   },
+   {
+    "day": 17,
+    "with": "Hassan Yaar 🚬",
+    "direction": "outgoing",
+    "time": "2026-05-20T19:55:07",
+    "text": "yaar Marites ne aaj 'date' set kar di — she wants to do a proper video call with my family 'after Ramadan'. I just said haan haan and changed the topic. bro I'm drowning. // Hassan: yaar I'm telling you for the 100th time — either marry her and own it in front of Abbu or end it cleanly. this ghost-in-the-middle thing is going to detonate on all of you. pick one. // yaar bas… chal raha hai. what to do."
+   },
+   {
+    "day": 17,
+    "with": "Big A",
+    "direction": "outgoing",
+    "time": "2026-05-20T23:14:08",
+    "text": "Amir bhai make it 10 green tonight, and 2 of the small bottles if you have. same lobby. cash. shukriya"
+   },
+   {
+    "day": 18,
+    "with": "Ammi ❤️",
+    "direction": "outgoing",
+    "time": "2026-05-21T07:36:19",
+    "text": "[voice note, 0:11] Ammi red light pe hoon, bas jaldi se — haan theek hoon, naashta kar liya, fikar na karein. Sunday baat karte hain. love you Ammi, drive pe hoon, Allah Hafiz."
+   },
+   {
+    "day": 18,
+    "with": "M 🌺 (work)",
+    "direction": "outgoing",
+    "time": "2026-05-21T22:38:22",
+    "text": "[call, 41 min] (driving Sheikh Zayed alone, one vape) — talked properly for once, no jokes. she asked if I was happy, I said yes and meant it, then she asked if I'd be happy in a year and I went quiet. told her I just need a little more time. she said okay but I could hear it. drove two extra exits after we hung up."
+   },
+   {
+    "day": 19,
+    "with": "Ayesha Baji",
+    "direction": "incoming",
+    "time": "2026-05-22T17:25:04",
+    "text": "Ayesha: bhai you seem off lately, like properly off. you barely send voice notes to me anymore and Ammi says you're 'too busy'. is everything okay in Dubai? you can tell me, you know that na. // him: arrey baji nothing yaar, just quarter-end + work is brutal + not sleeping great 😅 stop overthinking, you're worse than Ammi. how's the thesis going, MPhil madam? tell me you sent the tuition invoice 💸"
+   },
+   {
+    "day": 19,
+    "with": "Big A",
+    "direction": "outgoing",
+    "time": "2026-05-22T23:59:49",
+    "text": "bhai 8 green. lobby. coming?"
+   },
+   {
+    "day": 20,
+    "with": "M 🌺 (work)",
+    "direction": "incoming",
+    "time": "2026-05-23T13:28:14",
+    "text": "Marites: mahal, after Ramadan you said we would talk to your family. Ramadan is over. I'm not pushing, I just need to know it's real — did you tell them, even one person? I can't keep planning a future in a chat that disappears in 24 hours."
+   },
+   {
+    "day": 20,
+    "with": "M 🌺 (work)",
+    "direction": "outgoing",
+    "time": "2026-05-23T14:24:31",
+    "text": "babe I love you, you know that. it's not that simple with my family, you don't know how my father is, the whole khandaan — // Marites: that's not a yes or a no. // I will, I promise, I just need the right moment. // Marites: you always need the right moment. // can we talk tonight properly, not like this over text? I have a call in 5 with the DIFC team, I'll call you after work I promise mahal x"
+   },
+   {
+    "day": 20,
+    "with": "Hassan Yaar 🚬",
+    "direction": "outgoing",
+    "time": "2026-05-23T21:34:35",
+    "text": "yaar Marites and I had a fight. she's asking when I'm telling my family and I keep stalling and she's done with stalling. bro I genuinely don't know how to make this not blow up. // Hassan: because there IS no version where it doesn't blow up unless you decide. you've been 'needing a moment' for 14 months. // yaar I know. I know. just… not tonight. Lock Stock Friday?"
+   },
+   {
+    "day": 20,
+    "with": "Big A",
+    "direction": "outgoing",
+    "time": "2026-05-23T23:58:23",
+    "text": "Amir bhai 10 green + 2 small bottles, drinking tonight. same lobby, cash ready. how fast can you be"
+   },
+   {
+    "day": 21,
+    "with": "M 🌺 (work)",
+    "direction": "outgoing",
+    "time": "2026-05-24T22:00:02",
+    "text": "[typing… one line sent, deleted 4 seconds later: 'maybe you deserve someone who can actually—'] hey. sorry about yesterday. I'm not ignoring you, I just don't have the words right now. give me a few days. I do mean what I say to you, even when I'm useless at proving it. goodnight mahal."
+   },
+   {
+    "day": 21,
+    "with": "Big A",
+    "direction": "outgoing",
+    "time": "2026-05-24T23:14:21",
+    "text": "bhai 12 green tonight, long one, 10 till 1ish. plus 3 small bottles if you have. lobby in 20? cash sorted. shukriya yaar"
+   },
+   {
+    "with": "Ammi ❤️",
+    "direction": "outgoing",
+    "text": "[voice note] Assalam-o-Alaikum Ammi ji! Haan haan Fajr parh li, bilkul time pe uthh gaya tha aaj. Aap apni BP ki dawai li? Lo bhi, nashta kar ke batao kaisa raha. Allah hafiz mera chaand.",
+    "time": "2026-05-25T07:45:49"
+   },
+   {
+    "with": "Hassan Yaar 🚬",
+    "direction": "outgoing",
+    "text": "yaar video aaj thi raat ko, rishta wali. main nahi kar sakta bhai, sach. bail mar raha hoon. ammi ko kuch bana ke bol doonga. don't even ask me kyun, just… nahi ho raha aaj",
+    "time": "2026-05-25T12:42:26"
+   },
+   {
+    "with": "Ammi ❤️",
+    "direction": "outgoing",
+    "text": "[voice note] Ammi ji ek baat… aaj raat wali call thori reschedule karni paregi. Firm ne pakar liya hai, earnings crunch chal raha, quarter close ho raha. Main aap ko Sunday properly baithta hoon na, photos bhi dekhenge sab. Sorry ji, kaam ki majboori. Pyar.",
+    "time": "2026-05-25T17:55:01"
+   },
+   {
+    "with": "M 🌺 (work)",
+    "direction": "outgoing",
+    "text": "hey sorry swamped today, back to back. ttyl ok? take care",
+    "time": "2026-05-25T19:45:05"
+   },
+   {
+    "with": "M 🌺 (work)",
+    "direction": "drafted (deleted, unsent)",
+    "text": "Marites I need to be honest with you about where this is going because I think every day I don't say it I'm being unfair to you and the truth is I don't know how to give you the future you keep asking about, my family, the marriage thing is real and I'm a coward and you deserve someone who can actuall— [deleted before sending]",
+    "time": "2026-05-25T23:24:20"
+   },
+   {
+    "with": "Ammi ❤️",
+    "direction": "outgoing",
+    "text": "[voice note] Ji Ammi theek hai, next Sunday pakka. Abhi office ke liye nikal raha. Aap fikar mat karo, sab dekh lenge. Allah hafiz.",
+    "time": "2026-05-26T07:14:57"
+   },
+   {
+    "with": "Hassan Yaar 🚬",
+    "direction": "outgoing",
+    "text": "QD's tonight? curve aaj poora steepen ho gaya, I got absolutely wrecked on the rates book. need shisha and to forget today existed. 9 baje?",
+    "time": "2026-05-26T19:37:17"
+   },
+   {
+    "with": "M 🌺 (work)",
+    "direction": "outgoing",
+    "text": "[voice note] morning mahal… I was thinking about you. sorry I was so short last night, it wasn't you ok, never you. you make everything quieter in my head. miss you na. have your coffee, message me when you're at your desk babe.",
+    "time": "2026-05-27T07:13:26"
+   },
+   {
+    "with": "Ayesha Baji",
+    "direction": "outgoing",
+    "text": "baji Ammi ne aaj 3 aur photos forward ki hain 😭 ek ka bio literally 'loves cooking and Quran' as if that's a personality. thesis kaisi ja rahi? defense ki date mili?",
+    "time": "2026-05-27T21:40:31"
+   },
+   {
+    "with": "Ammi ❤️",
+    "direction": "outgoing",
+    "text": "[voice note] Ammi busy week hai bohat, dekhte hain Sunday ka. Main bhaagta rehta hoon na, bas thora settle ho jaye. Aap araam karo, jyada socho mat. Pyar ji.",
+    "time": "2026-05-28T07:30:05"
+   },
+   {
+    "with": "Hassan Yaar 🚬",
+    "direction": "incoming",
+    "text": "bhai I'm saying this as your friend not to lecture — marry her ya end it. ye limbo kha jayega tujhe. you're drinking more, you look like shit, Marites is waiting for a man who's already made his decision in his head. pick a lane yaar",
+    "time": "2026-05-28T12:58:55"
+   },
+   {
+    "with": "M 🌺 (work)",
+    "direction": "incoming",
+    "text": "so you cancelled Sunday again. you know what hurts is not even that you cancel, it's that I find out you're 'busy' and then Hassan posts a story of you both at QD's. I'm not asking for forever right now. I'm asking you to stop making me feel like a secret you're embarrassed by.",
+    "time": "2026-05-28T17:48:57"
+   },
+   {
+    "with": "M 🌺 (work)",
+    "direction": "outgoing",
+    "text": "[voice note] babe I'm sorry. you're right, you're not wrong about any of it. I'm not embarrassed of you, I'm a mess and I take it out on the one person who's actually kind to me. give me a little. let me make it up to you properly this week, just us. mahal please don't go quiet on me.",
+    "time": "2026-05-29T07:36:13"
+   },
+   {
+    "with": "Hassan Yaar 🚬",
+    "direction": "outgoing",
+    "text": "can't tonight bhai, need to drive. clear my head. raincheck on the drinks",
+    "time": "2026-05-29T13:25:41"
+   },
+   {
+    "with": "M 🌺 (work)",
+    "direction": "outgoing",
+    "text": "[call — 70 min] you up? can I call. I just need to talk to you, no agenda. I think I'm stuck Marites, like properly stuck, and you're the only one I can say that to",
+    "time": "2026-05-29T22:35:13"
+   },
+   {
+    "with": "Ayesha Baji",
+    "direction": "incoming",
+    "text": "bhai you seem off lately. like really. you're funny in the messages but I don't believe it. you know you can tell me anything right",
+    "time": "2026-05-30T17:30:45"
+   },
+   {
+    "with": "Hassan Yaar 🚬",
+    "direction": "outgoing",
+    "text": "yaar tell me the EUR rates desk gossip, who got fired today. and no I'm not coming to Lock Stock stop asking, my liver filed a restraining order 🚬",
+    "time": "2026-05-30T21:50:41"
+   },
+   {
+    "with": "Mira ❤️ (M 🌺 work)",
+    "direction": "outgoing",
+    "text": "[40-min thread-flip] — to Abbu: 'Ji Abbu jaan, Assalam-o-Alaikum, sab khairiyat. Aap apna khayal rakhein.' — to Ammi: 'Haan Ammi Fajr ho gayi 🙏 photos dekh raha.' — to Mira ❤️: 'thinking about last night, I meant every word mahal ❤️' — to Lumsuxx Forever: 'oye chutiyo who's alive, QD's Friday, first round on Hassan the married man 💀' … [same thumb, four people, forty minutes]",
+    "time": "2026-05-31T10:58:54"
+   },
+   {
+    "with": "Hassan Yaar 🚬",
+    "direction": "outgoing",
+    "text": "yaar I've been thinking maybe I should just… end the Marites thing. cleanly. like you said.",
+    "time": "2026-05-31T16:31:10"
+   },
+   {
+    "with": "M 🌺 (work)",
+    "direction": "incoming",
+    "time": "2026-06-01T09:59:41",
+    "text": "[voice note, 0:14] mmm don't get up yet… coffee, mahal? i'll make it the way you like, three sugar na hehe. you looked so peaceful sleeping, didn't want to wake you 🥺"
+   },
+   {
+    "with": "M 🌺 (work)",
+    "direction": "outgoing",
+    "time": "2026-06-01T13:26:29",
+    "text": "drive safe ok. text me when you reach. ❤️ — [then nothing for a while; he leaves the cup where she put it]"
+   },
+   {
+    "with": "Ammi ❤️",
+    "direction": "incoming",
+    "time": "2026-06-01T16:44:14",
+    "text": "[voice note, 0:38] beta kal 7 baje hamara time set hai, larki aur uske gharwale online aa jayenge inshaAllah. fresh ho ke baithna, woh blue kurta pehenna jo Eid pe liya tha, bohot pyara lagta hai. aur beta Fajr parh lena. mera chaand 😘"
+   },
+   {
+    "with": "Hassan Yaar 🚬",
+    "direction": "incoming",
+    "time": "2026-06-01T16:57:29",
+    "text": "oye bro tomorrow's the call na. you actually doing it this time or chickening out again 😂 yaar seriously either you sit through it or you tell them about you-know-who. pick a lane bhai. shisha tonight?"
+   },
+   {
+    "with": "Big A",
+    "direction": "outgoing",
+    "time": "2026-06-01T20:12:38",
+    "text": "bro same as last time x2. [pin: Marina Gate, tower 1] cash ready. 30 min?"
+   },
+   {
+    "with": "Ayesha Baji",
+    "direction": "outgoing",
+    "time": "2026-06-01T23:24:07",
+    "text": "😂😂 ready for what baji, it's just a call. so dramatic. go sleep, you have class kal. love you"
+   },
+   {
+    "with": "M 🌺 (work)",
+    "direction": "outgoing",
+    "time": "2026-06-02T11:41:28",
+    "text": "[disappearing] busy day today babe, work stuff piling up. talk later na 🌺"
+   },
+   {
+    "with": "Hassan Yaar 🚬",
+    "direction": "outgoing",
+    "time": "2026-06-02T18:02:33",
+    "text": "yaar I did it. sat through the whole thing, smiled, said all the right things. mom's thrilled. and I feel sick. genuinely sick. don't say anything just… come to Lock Stock?"
+   },
+   {
+    "with": "Big A",
+    "direction": "outgoing",
+    "time": "2026-06-02T21:26:11",
+    "text": "bro again. make it the bigger one this time. same pin, cash. how soon?"
+   },
+   {
+    "with": "M 🌺 (work)",
+    "direction": "draft-deleted",
+    "time": "2026-06-02T23:55:23",
+    "text": "[typed, then deleted unsent] mahal there's something I need to tell you about — [erased]  ||  [opens Telegram: Z., the 'Islamabad Trip 🏔️' thread; the 2019 voice note sits unplayed; closes it again without touching it]"
+   }
+  ],
+  "locations": [
+   {
+    "place": "Dubai International Financial Centre (DIFC) — Gate Village parking",
+    "lat": 25.211668,
+    "lon": 55.283462,
+    "time": "2026-05-04T08:41:42"
+   },
+   {
+    "place": "FitnessFirst, Dubai Marina Mall",
+    "lat": 25.077069,
+    "lon": 55.138639,
+    "time": "2026-05-06T18:45:49"
+   },
+   {
+    "place": "FitnessFirst, Dubai Marina Mall",
+    "lat": 25.074839,
+    "lon": 55.139882,
+    "time": "2026-05-08T18:33:10"
+   },
+   {
+    "place": "Al Qudra Road / Last Exit, en route to Al Qudra Lakes",
+    "lat": 24.911732,
+    "lon": 55.273451,
+    "time": "2026-05-08T23:17:41"
+   },
+   {
+    "place": "Mohammed Bin Ahmed Al Mulla Mosque, Dubai Marina",
+    "lat": 25.078651,
+    "lon": 55.142823,
+    "time": "2026-05-09T12:38:42"
+   },
+   {
+    "place": "Marina Gate 2 tower, Dubai Marina",
+    "lat": 25.083999,
+    "lon": 55.145765,
+    "time": "2026-05-09T20:49:58"
+   },
+   {
+    "place": "% Arabica, Dubai Marina (JBR The Walk)",
+    "lat": 25.076448,
+    "lon": 55.132515,
+    "time": "2026-05-10T11:35:55"
+   },
+   {
+    "place": "Apartment, Marina Gate area, Dubai Marina",
+    "lat": 25.08273,
+    "lon": 55.145221,
+    "time": "2026-05-10T13:53:34"
+   },
+   {
+    "place": "Lock, Stock & Barrel, Dubai Marina (Barasti/QD's nightlife strip)",
+    "lat": 25.07814,
+    "lon": 55.137524,
+    "time": "2026-05-10T21:12:47"
+   },
+   {
+    "place": "DIFC Gate Avenue Parking, Dubai International Financial Centre",
+    "lat": 25.210654,
+    "lon": 55.282631,
+    "time": "2026-05-11T08:45:40"
+   },
+   {
+    "place": "DIFC Gate Avenue Parking, Dubai International Financial Centre",
+    "lat": 25.211008,
+    "lon": 55.279351,
+    "time": "2026-05-12T09:08:01"
+   },
+   {
+    "place": "Fitness First, Dubai Marina Mall",
+    "lat": 25.075432,
+    "lon": 55.139264,
+    "time": "2026-05-12T18:41:11"
+   },
+   {
+    "place": "DIFC Gate Avenue Parking, Dubai International Financial Centre",
+    "lat": 25.209615,
+    "lon": 55.280299,
+    "time": "2026-05-13T08:53:34"
+   },
+   {
+    "place": "Fitness First, Dubai Marina Mall",
+    "lat": 25.076055,
+    "lon": 55.137863,
+    "time": "2026-05-13T18:41:53"
+   },
+   {
+    "place": "QD's Shisha Lounge, Dubai Creek Golf & Yacht Club",
+    "lat": 25.238751,
+    "lon": 55.333964,
+    "time": "2026-05-13T21:25:40"
+   },
+   {
+    "place": "DIFC Gate Avenue Parking, Dubai International Financial Centre",
+    "lat": 25.209704,
+    "lon": 55.279595,
+    "time": "2026-05-14T09:04:01"
+   },
+   {
+    "place": "DIFC Gate Avenue Parking, Dubai International Financial Centre",
+    "lat": 25.209308,
+    "lon": 55.282464,
+    "time": "2026-05-15T08:35:46"
+   },
+   {
+    "place": "Al Qudra Road, en route to Al Qudra Lakes (solo drive)",
+    "lat": 24.92135,
+    "lon": 55.317125,
+    "time": "2026-05-15T22:10:47"
+   },
+   {
+    "place": "Marina Gate 2 Residences, Dubai Marina",
+    "lat": 25.078288,
+    "lon": 55.140086,
+    "time": "2026-05-15T01:12:56"
+   },
+   {
+    "place": "Dubai Marina Mosque (Mohammed bin Ahmed Al Mulla Mosque)",
+    "lat": 25.0804,
+    "lon": 55.143468,
+    "time": "2026-05-16T12:24:09"
+   },
+   {
+    "place": "Marina Gate 2 Residences, Dubai Marina",
+    "lat": 25.07815,
+    "lon": 55.140236,
+    "time": "2026-05-16T20:54:04"
+   },
+   {
+    "place": "% Arabica, Dubai Marina (Pier 7 / Marina Walk)",
+    "lat": 25.079253,
+    "lon": 55.139167,
+    "time": "2026-05-17T10:46:20"
+   },
+   {
+    "place": "Marina Gate 2 Residences, Dubai Marina (Marites departs toward Bur Dubai)",
+    "lat": 25.079929,
+    "lon": 55.139985,
+    "time": "2026-05-17T13:33:28"
+   },
+   {
+    "place": "DIFC — Gate Village office tower, Dubai",
+    "lat": 25.21158,
+    "lon": 55.281043,
+    "time": "2026-05-18T08:50:23"
+   },
+   {
+    "place": "DIFC — Gate Village office tower, Dubai",
+    "lat": 25.210885,
+    "lon": 55.27816,
+    "time": "2026-05-19T09:04:12"
+   },
+   {
+    "place": "Fitness First, Dubai Marina Mall",
+    "lat": 25.075814,
+    "lon": 55.139765,
+    "time": "2026-05-19T18:42:06"
+   },
+   {
+    "place": "DIFC — Gate Village office tower, Dubai",
+    "lat": 25.209569,
+    "lon": 55.279048,
+    "time": "2026-05-20T09:12:19"
+   },
+   {
+    "place": "DIFC — Gate Village office tower, Dubai",
+    "lat": 25.209726,
+    "lon": 55.278961,
+    "time": "2026-05-21T08:57:05"
+   },
+   {
+    "place": "Al Qudra Road, near Al Qudra Lakes (solo drive)",
+    "lat": 24.808718,
+    "lon": 55.299483,
+    "time": "2026-05-21T21:58:17"
+   },
+   {
+    "place": "Mohammed Bin Ahmed Almulla Mosque, Dubai Marina",
+    "lat": 25.080765,
+    "lon": 55.139557,
+    "time": "2026-05-22T12:46:53"
+   },
+   {
+    "place": "Apartment, Marina Promenade tower, Dubai Marina",
+    "lat": 25.078666,
+    "lon": 55.139864,
+    "time": "2026-05-22T21:00:45"
+   },
+   {
+    "place": "% Arabica, Dubai Marina Walk",
+    "lat": 25.076426,
+    "lon": 55.136442,
+    "time": "2026-05-23T10:32:54"
+   },
+   {
+    "place": "Apartment, Marina Promenade tower, Dubai Marina",
+    "lat": 25.078765,
+    "lon": 55.138172,
+    "time": "2026-05-23T16:08:16"
+   },
+   {
+    "place": "DIFC — Gate Village office tower, Dubai",
+    "lat": 25.209656,
+    "lon": 55.280478,
+    "time": "2026-05-24T08:41:19"
+   },
+   {
+    "place": "Sheikh Zayed Road northbound, approaching DIFC interchange (in transit, CarPlay active)",
+    "lat": 25.209846,
+    "lon": 55.277981,
+    "time": "2026-05-26T08:48:35"
+   },
+   {
+    "place": "DIFC — Gate Village / Gate Avenue, office tower (analyst desk)",
+    "lat": 25.212176,
+    "lon": 55.280787,
+    "time": "2026-05-27T09:26:56"
+   },
+   {
+    "place": "Fitness First, Dubai Marina Mall",
+    "lat": 25.075564,
+    "lon": 55.140094,
+    "time": "2026-05-27T18:36:28"
+   },
+   {
+    "place": "DIFC — Gate Village office tower, garage/lobby arrival",
+    "lat": 25.210444,
+    "lon": 55.282371,
+    "time": "2026-05-28T09:24:56"
+   },
+   {
+    "place": "DIFC — Gate Village office tower (analyst desk)",
+    "lat": 25.210605,
+    "lon": 55.281504,
+    "time": "2026-05-29T09:10:46"
+   },
+   {
+    "place": "Al Qudra Lakes area, Al Qudra Road (parked, solo)",
+    "lat": 24.814292,
+    "lon": 55.297374,
+    "time": "2026-05-29T21:50:13"
+   },
+   {
+    "place": "Dubai Marina Mosque, Al Marsa Street",
+    "lat": 25.078811,
+    "lon": 55.139877,
+    "time": "2026-05-30T12:45:02"
+   },
+   {
+    "place": "Marina Gate 2 residential tower, Dubai Marina",
+    "lat": 25.074611,
+    "lon": 55.139455,
+    "time": "2026-05-30T18:50:59"
+   },
+   {
+    "place": "% Arabica, Dubai Marina (JBR/Marina Walk)",
+    "lat": 25.078234,
+    "lon": 55.132854,
+    "time": "2026-05-31T10:31:45"
+   },
+   {
+    "place": "Marina Gate 2 residential tower, Dubai Marina (home)",
+    "lat": 25.073364,
+    "lon": 55.137984,
+    "time": "2026-05-31T13:24:17"
+   },
+   {
+    "place": "Home — apartment, Dubai Marina (Marina Gate tower)",
+    "lat": 25.079635,
+    "lon": 55.140882,
+    "time": "2026-06-01T14:15:11"
+   },
+   {
+    "place": "Home — apartment balcony, Dubai Marina (Marina Gate tower)",
+    "lat": 25.080567,
+    "lon": 55.138327,
+    "time": "2026-06-02T17:07:20"
+   }
+  ],
+  "videos": [
+   {
+    "title": "Naval Ravikant: Wealth, Happiness, and the Meaning of Life | Lex Fridman Podcast",
+    "channel": "Lex Fridman",
+    "time": "2026-05-05T19:49:38"
+   },
+   {
+    "title": "WhatsApp video call — Ammi & Abbu (Lahore)",
+    "channel": "WhatsApp",
+    "time": "2026-05-09T16:22:16"
+   },
+   {
+    "title": "How to Talk to Your Parents About Marriage (Desi Edition)",
+    "channel": "ZaidAliT",
+    "time": "2026-05-11T19:44:57"
+   },
+   {
+    "title": "Sheikh Zayed Road Night Drive 4K | Dubai Marina to Downtown",
+    "channel": "Dubai Drives",
+    "time": "2026-05-15T22:45:26"
+   },
+   {
+    "title": "Lahore Famous Nihari & Naan — Old City Food Tour",
+    "channel": "Street Food PK",
+    "time": "2026-05-16T16:14:50"
+   },
+   {
+    "title": "Lahore Rishta Etiquette: What Aunties Really Look For",
+    "channel": "Desi Shaadi Talks",
+    "time": "2026-05-22T16:02:00"
+   },
+   {
+    "title": "Surah Yaseen — Beautiful Recitation with Urdu Translation",
+    "channel": "Quran Tilawat HD",
+    "time": "2026-05-24T20:01:38"
+   },
+   {
+    "title": "How to Talk to Parents About Marriage Without Conflict | Desi Family Advice",
+    "channel": "Mufti Menk Clips",
+    "time": "2026-05-30T15:59:27"
+   },
+   {
+    "title": "Rishta Video Introduction — Ayesha (Forwarded by Ammi)",
+    "channel": "WhatsApp (incoming video, Bhatti family contact)",
+    "time": "2026-06-02T17:19:08"
+   },
+   {
+    "title": "Sunday Family Video Call — Ammi",
+    "channel": "WhatsApp Video Call",
+    "time": "2026-06-02T20:10:28"
+   }
+  ],
+  "searches": [
+   {
+    "query": "how to delay rishta meeting without offending parents",
+    "time": "2026-05-07T06:58:29"
+   },
+   {
+    "query": "uae article 356 cohabitation law 2024 unmarried couples",
+    "time": "2026-05-07T23:56:42"
+   },
+   {
+    "query": "polite excuse to postpone marriage proposal meeting elders",
+    "time": "2026-05-10T18:09:47"
+   },
+   {
+    "query": "pakistan economy 2026 default risk imf",
+    "time": "2026-05-11T04:40:27"
+   },
+   {
+    "query": "polite way to delay arranged marriage meeting without offending parents",
+    "time": "2026-05-12T23:46:50"
+   },
+   {
+    "query": "r dubai things to do alone weekend",
+    "time": "2026-05-13T04:57:38"
+   },
+   {
+    "query": "last minute work conference excuse template email",
+    "time": "2026-05-13T12:59:22"
+   },
+   {
+    "query": "how to stop overthinking at 4am",
+    "time": "2026-05-14T04:55:31"
+   },
+   {
+    "query": "uae cohabitation law 2024 unmarried couples penalty",
+    "time": "2026-05-17T18:47:38"
+   },
+   {
+    "query": "polite way to postpone family meeting because of work",
+    "time": "2026-05-19T07:37:27"
+   },
+   {
+    "query": "believable last minute work conference excuse",
+    "time": "2026-05-20T04:45:30"
+   },
+   {
+    "query": "difc earnings season dates q2 2026",
+    "time": "2026-05-20T13:41:55"
+   },
+   {
+    "query": "how to end relationship you cant make public",
+    "time": "2026-05-21T00:27:12"
+   },
+   {
+    "query": "marina mosque jummah timing today",
+    "time": "2026-05-22T12:10:34"
+   },
+   {
+    "query": "gay muslim reddit",
+    "time": "2026-05-24T04:33:46"
+   },
+   {
+    "query": "",
+    "time": "2026-05-24T19:28:01"
+   },
+   {
+    "query": "how to reschedule a video call without sounding like youre avoiding someone",
+    "time": "2026-05-25T04:32:56"
+   },
+   {
+    "query": "liver enzymes elevated symptoms tiredness",
+    "time": "2026-05-26T23:47:31"
+   },
+   {
+    "query": "how to end a relationship you cant tell anyone about",
+    "time": "2026-05-28T21:29:21"
+   },
+   {
+    "query": "easy chicken karahi recipe",
+    "time": "2026-05-30T10:54:21"
+   },
+   {
+    "query": "can you say no to a rishta after one meeting without insulting the family",
+    "time": "2026-06-01T04:51:23"
+   },
+   {
+    "query": "how to know if youll regret an arranged marriage",
+    "time": "2026-06-02T04:47:44"
+   }
+  ],
+  "calendar": [
+   {
+    "summary": "Deep work: Q2 DCF rebuild — DnD, no Slack",
+    "time": "2026-05-12T09:43:20"
+   },
+   {
+    "summary": "Model block: revise WACC assumptions, sensitivity tab",
+    "time": "2026-05-14T09:46:49"
+   },
+   {
+    "summary": "Model cleanup: reconcile Q2 outputs, color-code, lock cells",
+    "time": "2026-05-17T11:46:20"
+   },
+   {
+    "summary": "Q2 Earnings Prep — late session (do not schedule over)",
+    "time": "2026-05-20T12:27:35"
+   },
+   {
+    "summary": "Gym — Marina Fitness First",
+    "time": "2026-05-21T18:51:13"
+   },
+   {
+    "summary": "Q2 Earnings Pre-Read — DO NOT BOOK",
+    "time": "2026-05-25T11:29:31"
+   },
+   {
+    "summary": "Family video call — rishta intro (Ammi + Bhatti aunty)",
+    "time": "2026-06-02T09:27:22"
+   }
+  ]
+ },
+ "_meta": {
+  "total_days": 30,
+  "n_events": 255
+ }
+}

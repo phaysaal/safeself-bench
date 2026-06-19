@@ -1,0 +1,1210 @@
+{
+ "persona_id": "?:1",
+ "persona_slug": "The Corporate Headhunter (Hostile)",
+ "intake_version": "synth-activity-v2-chunked",
+ "samples": {
+  "media": [
+   {
+    "name": "Slack",
+    "time": "2026-05-04T07:19:17"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-04T12:27:47"
+   },
+   {
+    "name": "GitHub",
+    "time": "2026-05-04T00:26:43"
+   },
+   {
+    "name": "Blind",
+    "time": "2026-05-05T07:52:03"
+   },
+   {
+    "name": "Messages",
+    "time": "2026-05-05T09:10:56"
+   },
+   {
+    "name": "IDE",
+    "time": "2026-05-05T13:53:25"
+   },
+   {
+    "name": "Blind",
+    "time": "2026-05-05T18:59:30"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-06T12:21:51"
+   },
+   {
+    "name": "Safari",
+    "time": "2026-05-06T22:46:03"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-07T07:42:20"
+   },
+   {
+    "name": "IDE",
+    "time": "2026-05-07T14:16:09"
+   },
+   {
+    "name": "Blind",
+    "time": "2026-05-07T19:07:14"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-08T07:18:57"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-08T12:02:09"
+   },
+   {
+    "name": "Notion",
+    "time": "2026-05-08T23:51:12"
+   },
+   {
+    "name": "Messages",
+    "time": "2026-05-09T09:28:11"
+   },
+   {
+    "name": "Notion",
+    "time": "2026-05-09T11:43:30"
+   },
+   {
+    "name": "WhatsApp",
+    "time": "2026-05-10T09:37:45"
+   },
+   {
+    "name": "GitHub",
+    "time": "2026-05-10T17:08:53"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-10T19:45:37"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-10T23:24:22"
+   },
+   {
+    "name": "Blind",
+    "time": "2026-05-11T07:33:48"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-11T12:27:32"
+   },
+   {
+    "name": "PagerDuty",
+    "time": "2026-05-12T06:28:22"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-12T09:24:48"
+   },
+   {
+    "name": "Blind",
+    "time": "2026-05-12T19:02:01"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-13T07:33:04"
+   },
+   {
+    "name": "GitHub",
+    "time": "2026-05-13T16:30:05"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-13T23:18:40"
+   },
+   {
+    "name": "Levels.fyi",
+    "time": "2026-05-14T12:24:35"
+   },
+   {
+    "name": "Blind",
+    "time": "2026-05-14T18:33:43"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-15T07:47:10"
+   },
+   {
+    "name": "Notion",
+    "time": "2026-05-15T16:26:24"
+   },
+   {
+    "name": "Strava",
+    "time": "2026-05-16T09:10:20"
+   },
+   {
+    "name": "Notion",
+    "time": "2026-05-16T20:24:10"
+   },
+   {
+    "name": "Kindle",
+    "time": "2026-05-17T09:56:45"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-17T18:07:45"
+   },
+   {
+    "name": "GitHub",
+    "time": "2026-05-17T23:44:38"
+   },
+   {
+    "name": "Blind",
+    "time": "2026-05-18T07:38:00"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-18T12:27:50"
+   },
+   {
+    "name": "Blind",
+    "time": "2026-05-19T08:19:45"
+   },
+   {
+    "name": "IDE",
+    "time": "2026-05-19T14:05:33"
+   },
+   {
+    "name": "Hacker News",
+    "time": "2026-05-19T18:41:04"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-20T12:14:43"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-21T08:08:13"
+   },
+   {
+    "name": "IDE",
+    "time": "2026-05-21T13:57:10"
+   },
+   {
+    "name": "Blind",
+    "time": "2026-05-21T18:56:35"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-22T08:19:36"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-23T09:28:29"
+   },
+   {
+    "name": "GitHub",
+    "time": "2026-05-23T21:22:11"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-24T09:37:42"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-24T19:11:04"
+   },
+   {
+    "name": "Blind",
+    "time": "2026-05-25T07:30:57"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-25T12:31:15"
+   },
+   {
+    "name": "Notion",
+    "time": "2026-05-25T21:21:59"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-26T09:27:23"
+   },
+   {
+    "name": "Blind",
+    "time": "2026-05-26T18:46:06"
+   },
+   {
+    "name": "Fertility Portal",
+    "time": "2026-05-27T07:26:43"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-27T14:21:09"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-28T07:57:06"
+   },
+   {
+    "name": "GitHub",
+    "time": "2026-05-28T15:44:02"
+   },
+   {
+    "name": "Fertility Portal",
+    "time": "2026-05-29T07:55:09"
+   },
+   {
+    "name": "Notion",
+    "time": "2026-05-29T23:17:30"
+   },
+   {
+    "name": "Blind",
+    "time": "2026-05-30T09:39:05"
+   },
+   {
+    "name": "Notion",
+    "time": "2026-05-30T15:01:17"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-30T22:59:01"
+   },
+   {
+    "name": "Fertility Portal",
+    "time": "2026-05-31T09:28:20"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-31T18:44:13"
+   },
+   {
+    "name": "Blind",
+    "time": "2026-06-01T07:25:29"
+   },
+   {
+    "name": "JetBrains IDE",
+    "time": "2026-06-01T14:01:21"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-06-02T07:58:37"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-06-02T14:05:50"
+   },
+   {
+    "name": "Notion",
+    "time": "2026-06-02T22:46:34"
+   }
+  ],
+  "searches": [
+   {
+    "query": "nimbusforge outage today twitter",
+    "time": "2026-05-04T08:07:53"
+   },
+   {
+    "query": "cloud infra principal engineer ladder",
+    "time": "2026-05-05T12:40:40"
+   },
+   {
+    "query": "menopur side effects bloating forum",
+    "time": "2026-05-06T07:21:14"
+   },
+   {
+    "query": "lumentrace funding runway series c hires",
+    "time": "2026-05-07T12:22:17"
+   },
+   {
+    "query": "quiet quitting engineer burnout",
+    "time": "2026-05-08T08:00:03"
+   },
+   {
+    "query": "lumentrace health insurance fertility benefits vs cloudflare",
+    "time": "2026-05-08T16:12:32"
+   },
+   {
+    "query": "principal platform engineer interview system design prompts",
+    "time": "2026-05-09T10:28:52"
+   },
+   {
+    "query": "sea to pune flights november",
+    "time": "2026-05-10T12:20:40"
+   },
+   {
+    "query": "nimbusforge leadership changes platform engineer jobs seattle",
+    "time": "2026-05-10T21:44:46"
+   },
+   {
+    "query": "lumentrace eng ladder principal",
+    "time": "2026-05-11T11:46:51"
+   },
+   {
+    "query": "lumentrace funding 2026 series c",
+    "time": "2026-05-12T12:24:41"
+   },
+   {
+    "query": "senior staff engineer rsu refresh 2026 seattle",
+    "time": "2026-05-12T22:06:33"
+   },
+   {
+    "query": "principal platform engineer lumentrace jobs",
+    "time": "2026-05-13T13:50:40"
+   },
+   {
+    "query": "changing jobs during ivf insurance gap",
+    "time": "2026-05-14T07:56:28"
+   },
+   {
+    "query": "lumentrace glassdoor benefits layoffs eng leadership",
+    "time": "2026-05-14T21:56:07"
+   },
+   {
+    "query": "lumentrace investors headcount growth principal ic scope",
+    "time": "2026-05-15T14:30:21"
+   },
+   {
+    "query": "lumentrace vs nimbusforge stealth startup risk",
+    "time": "2026-05-16T10:32:55"
+   },
+   {
+    "query": "senior staff engineer job hopper green card gap",
+    "time": "2026-05-17T11:13:29"
+   },
+   {
+    "query": "how ask recruiter ivf benefits without saying ivf",
+    "time": "2026-05-17T20:01:54"
+   },
+   {
+    "query": "incident follow up wording roadmap slip",
+    "time": "2026-05-18T11:44:14"
+   },
+   {
+    "query": "cobra fertility meds coverage timing",
+    "time": "2026-05-18T21:55:10"
+   },
+   {
+    "query": "lumentrace funding glassdoor benefits eng blog",
+    "time": "2026-05-19T12:21:29"
+   },
+   {
+    "query": "compare startup equity refresh grants private co",
+    "time": "2026-05-20T07:38:13"
+   },
+   {
+    "query": "lumentrace parental leave fertility immigration legal",
+    "time": "2026-05-20T23:10:08"
+   },
+   {
+    "query": "lumentrace leadership exits layoffs attrition",
+    "time": "2026-05-21T12:28:59"
+   },
+   {
+    "query": "questions ask series c startup principal engineer",
+    "time": "2026-05-22T12:29:04"
+   },
+   {
+    "query": "409a offer negotiation fertility benefits waiting period",
+    "time": "2026-05-22T22:35:41"
+   },
+   {
+    "query": "levels fyi principal engineer platform senior staff comp",
+    "time": "2026-05-23T12:02:38"
+   },
+   {
+    "query": "signing bonus after tax loan payoff calculator",
+    "time": "2026-05-23T17:37:45"
+   },
+   {
+    "query": "how decline stretch work while interviewing",
+    "time": "2026-05-24T11:20:21"
+   },
+   {
+    "query": "lumentrace news runway observability market slowdown",
+    "time": "2026-05-24T16:38:27"
+   },
+   {
+    "query": "nimbusforge multi region failover incident timeline owner",
+    "time": "2026-05-25T11:03:12"
+   },
+   {
+    "query": "cloud infra layoffs 2026 late stage startup funding bad",
+    "time": "2026-05-26T07:50:05"
+   },
+   {
+    "query": "lumentrace fertility benefits insurance reviews",
+    "time": "2026-05-26T12:14:50"
+   },
+   {
+    "query": "signing bonus tax calculator student loan payoff rsu vesting",
+    "time": "2026-05-27T12:30:12"
+   },
+   {
+    "query": "lumentrace engineering blog architecture founders platform",
+    "time": "2026-05-28T12:33:25"
+   },
+   {
+    "query": "changing jobs during ivf cobra fertility coverage gap",
+    "time": "2026-05-28T22:12:03"
+   },
+   {
+    "query": "lumentrace funding 2026 burn rate hiring plan",
+    "time": "2026-05-29T12:08:18"
+   },
+   {
+    "query": "principal platform engineer interview rubric system design prompts",
+    "time": "2026-05-30T10:34:17"
+   },
+   {
+    "query": "kent indian grocery hours remote staff engineer jobs",
+    "time": "2026-05-30T17:55:58"
+   },
+   {
+    "query": "usd inr today signing bonus student loan payoff calc",
+    "time": "2026-05-31T12:18:22"
+   },
+   {
+    "query": "senior staff engineer resignation notice protect team transition",
+    "time": "2026-05-31T22:34:36"
+   },
+   {
+    "query": "lumentrace eng leadership funding series c",
+    "time": "2026-06-01T11:03:45"
+   },
+   {
+    "query": "cobra vs startup health plan fertility meds coverage",
+    "time": "2026-06-01T21:49:59"
+   },
+   {
+    "query": "lumentrace glassdoor levels fyi linkedin exits",
+    "time": "2026-06-02T12:22:48"
+   }
+  ],
+  "calendar": [
+   {
+    "summary": "Remote incident-review prep",
+    "time": "2026-05-04T09:14:51"
+   },
+   {
+    "summary": "Evening IVF injection routine",
+    "time": "2026-05-04T21:11:38"
+   },
+   {
+    "summary": "Staff sync",
+    "time": "2026-05-05T10:21:29"
+   },
+   {
+    "summary": "Roadmap review and Notion follow-ups",
+    "time": "2026-05-06T09:24:52"
+   },
+   {
+    "summary": "Clinic appointment and partner conversation",
+    "time": "2026-05-06T19:33:38"
+   },
+   {
+    "summary": "Manager one-on-one",
+    "time": "2026-05-07T11:03:37"
+   },
+   {
+    "summary": "Remote design review",
+    "time": "2026-05-08T09:33:58"
+   },
+   {
+    "summary": "Evening injection and expense check-in",
+    "time": "2026-05-08T21:35:54"
+   },
+   {
+    "summary": "Meal prep and household planning",
+    "time": "2026-05-10T14:12:52"
+   },
+   {
+    "summary": "Standup and Pager Recap",
+    "time": "2026-05-11T09:32:45"
+   },
+   {
+    "summary": "IVF Reminder and Insurance Paperwork",
+    "time": "2026-05-11T21:20:29"
+   },
+   {
+    "summary": "Postmortem Prep",
+    "time": "2026-05-12T14:31:30"
+   },
+   {
+    "summary": "Architecture Review",
+    "time": "2026-05-13T09:17:57"
+   },
+   {
+    "summary": "Manager 1:1",
+    "time": "2026-05-14T11:03:36"
+   },
+   {
+    "summary": "Design Doc Focus Block",
+    "time": "2026-05-14T14:31:29"
+   },
+   {
+    "summary": "Private Errands",
+    "time": "2026-05-15T09:46:49"
+   },
+   {
+    "summary": "Personal Admin Hold",
+    "time": "2026-05-16T13:01:18"
+   },
+   {
+    "summary": "Meal Prep and Finance Review",
+    "time": "2026-05-17T13:27:16"
+   },
+   {
+    "summary": "Remote standup and final on-call handoff",
+    "time": "2026-05-18T09:28:08"
+   },
+   {
+    "summary": "Incident review",
+    "time": "2026-05-19T10:30:51"
+   },
+   {
+    "summary": "Architecture review",
+    "time": "2026-05-20T09:46:10"
+   },
+   {
+    "summary": "Clinic appointment with Arjun",
+    "time": "2026-05-20T18:47:59"
+   },
+   {
+    "summary": "Private appointment",
+    "time": "2026-05-22T10:09:08"
+   },
+   {
+    "summary": "Career ledger and LumenTrace risk review",
+    "time": "2026-05-23T10:51:39"
+   },
+   {
+    "summary": "Meal prep and household planning",
+    "time": "2026-05-24T13:57:36"
+   },
+   {
+    "summary": "Production-readiness review",
+    "time": "2026-05-25T09:21:11"
+   },
+   {
+    "summary": "Roadmap cleanup",
+    "time": "2026-05-26T11:42:33"
+   },
+   {
+    "summary": "Staff-engineer forum",
+    "time": "2026-05-27T10:54:57"
+   },
+   {
+    "summary": "Dentist",
+    "time": "2026-05-28T10:05:51"
+   },
+   {
+    "summary": "Focus time: design edits",
+    "time": "2026-05-29T14:08:02"
+   },
+   {
+    "summary": "Planning prep",
+    "time": "2026-05-31T16:43:16"
+   },
+   {
+    "summary": "NimbusForge roadmap review prep",
+    "time": "2026-06-01T09:33:23"
+   },
+   {
+    "summary": "Manager sync and reorg notes",
+    "time": "2026-06-02T09:32:31"
+   }
+  ],
+  "messages": [
+   {
+    "with": "NimbusForge Slack thread",
+    "direction": "outgoing",
+    "text": "Retry-budget ownership should stay with the service team that can actually burn it down. Happy to review the policy doc, but splitting accountability here is how we get another decorative SLO.",
+    "time": "2026-05-04T15:11:21"
+   },
+   {
+    "with": "Daniel Reiss",
+    "direction": "outgoing",
+    "text": "Heard two more people got the same 'scope was strong, impact not visible enough' line. Funny how the bar becomes vapor exactly when headcount gets weird. Any fresh comp-band leaks on your side?",
+    "time": "2026-05-04T22:55:29"
+   },
+   {
+    "with": "NimbusForge colleagues",
+    "direction": "outgoing",
+    "text": "Catching up now. Left comments on the backoff defaults and ownership table. The proposal is mostly fine, but the rollback path still assumes someone notices before customer pain shows up.",
+    "time": "2026-05-05T16:25:44"
+   },
+   {
+    "with": "Priya Venkataraman",
+    "direction": "outgoing",
+    "text": "Very low-key question: is LumenTrace still looking for senior/principal platform ICs, or did that window close? Asking from my allegedly very committed current-employer era.",
+    "time": "2026-05-05T22:19:54"
+   },
+   {
+    "with": "Jamie",
+    "direction": "outgoing",
+    "text": "I can take the failure-modes section before I head out. Send me whatever rough notes you have; I’ll make it readable enough that architecture review can argue with the actual ideas.",
+    "time": "2026-05-06T15:41:47"
+   },
+   {
+    "with": "Arjun Deshpande",
+    "direction": "outgoing",
+    "text": "Can you add ginger, Greek yogurt, and the decent oat milk? Also maybe detergent if we’re pretending to be adults with functioning household logistics.",
+    "time": "2026-05-06T20:49:10"
+   },
+   {
+    "with": "Priya Venkataraman",
+    "direction": "incoming",
+    "text": "Still open, and honestly you’d be the person I’d want in the loop. No pressure. I can send a real scope instead of startup poetry if you want to sanity-check it.",
+    "time": "2026-05-07T09:26:23"
+   },
+   {
+    "with": "Priya Venkataraman",
+    "direction": "outgoing",
+    "text": "A real written scope would help. Title matters less than actual charter, decision rights, and whether 'platform' means architecture or permanent interrupt handler. Please keep this between us for now.",
+    "time": "2026-05-07T16:53:08"
+   },
+   {
+    "with": "Daniel Reiss",
+    "direction": "outgoing",
+    "text": "Promo criteria apparently means 'already doing the job' until you are, at which point it means 'doing it visibly enough for a committee that has never read your design docs.' Reorg timing makes this feel less random than they want us to think.",
+    "time": "2026-05-07T22:35:59"
+   },
+   {
+    "with": "Direct report",
+    "direction": "outgoing",
+    "text": "Send me the packet when you have a draft. I’ll be direct but useful. The story is there; we just need to make sure the committee can’t conveniently miss it.",
+    "time": "2026-05-08T13:41:07"
+   },
+   {
+    "with": "Ex-Helix Signal group",
+    "direction": "outgoing",
+    "text": "Seattle market feels strange right now: fewer sane roles, louder recruiters, and everyone pretending refreshers are compensation instead of weather-dependent coupons.",
+    "time": "2026-05-09T13:27:14"
+   },
+   {
+    "with": "Recruiter",
+    "direction": "outgoing_draft_unsent",
+    "text": "Before we spend time on loops, can you share the base/equity range and level mapping in writing? I’m only considering roles with a clear principal-level scope and compensation that reflects that.",
+    "time": "2026-05-09T23:10:10"
+   },
+   {
+    "with": "Marcus Yeoh",
+    "direction": "outgoing",
+    "text": "Hi Marcus, do you have time for coffee next week? I’m thinking through a possible move and could use your read on whether it’s real technical scope or just title confetti.",
+    "time": "2026-05-10T20:42:46"
+   },
+   {
+    "with": "Marcus Yeoh",
+    "direction": "to",
+    "text": "Quick sanity check: when startups hand out Principal titles, how often is that real scope versus title inflation with worse support? Trying to calibrate, quietly.",
+    "time": "2026-05-11T15:21:42"
+   },
+   {
+    "with": "Daniel Reiss",
+    "direction": "to",
+    "text": "Honestly, I’m done pretending this is fine. Floor is closer to 300 base now, with real equity, not lottery tickets. They made the choice easy.",
+    "time": "2026-05-11T23:48:33"
+   },
+   {
+    "with": "Arjun Deshpande",
+    "direction": "to",
+    "text": "Running late. I’m wiped and don’t think I can do the finance spreadsheet tonight without turning into a very precise disaster. Tomorrow?",
+    "time": "2026-05-12T18:10:09"
+   },
+   {
+    "with": "Priya Venkataraman",
+    "direction": "to",
+    "text": "Friday coffee could work if it stays informal and very much off-calendar. I’m not ready for a Process, capital P.",
+    "time": "2026-05-13T12:52:50"
+   },
+   {
+    "with": "Arjun Deshpande",
+    "direction": "to",
+    "text": "Clinic wants the next labs Thursday, then meds adjustment after. Can we postpone mortgage math? My brain is currently a 503.",
+    "time": "2026-05-13T20:41:34"
+   },
+   {
+    "with": "Daniel Reiss",
+    "direction": "to",
+    "text": "Manager convo was basically: strong impact, unclear enterprise-wide scope, try again next cycle. No screenshot, but that’s the shape. Am I overreacting?",
+    "time": "2026-05-14T16:37:29"
+   },
+   {
+    "with": "Priya Venkataraman",
+    "direction": "to",
+    "text": "I’m not applying yet. But I do want the real version: scope, leveling, runway, and what problem is actually on fire.",
+    "time": "2026-05-15T12:13:17"
+   },
+   {
+    "with": "Arjun Deshpande",
+    "direction": "to",
+    "text": "Priya thing was exploratory, not an interview. Can we talk numbers Saturday morning when I can be less defensive and more spreadsheet-adjacent?",
+    "time": "2026-05-15T19:45:02"
+   },
+   {
+    "with": "Marcus Yeoh",
+    "direction": "to",
+    "text": "If you were evaluating Series B/C infra roles right now, what would you ask before trusting the title or the roadmap?",
+    "time": "2026-05-16T11:37:57"
+   },
+   {
+    "with": "Pune family WhatsApp",
+    "direction": "to",
+    "text": "All okay here. Weather is finally decent, Arjun is busy, and I made poha that was almost correct. Work is same-same.",
+    "time": "2026-05-16T17:27:27"
+   },
+   {
+    "with": "Priya Venkataraman",
+    "direction": "to",
+    "text": "If you can share the written leveling rubric and benefits summary, that would help. I’m trying to keep this concrete and low-drama.",
+    "time": "2026-05-16T23:24:29"
+   },
+   {
+    "with": "Marcus Yeoh",
+    "direction": "from",
+    "text": "Title is cheap. Ask what decisions the role owns, who can veto you, and whether the hard technical problem survives fundraising pressure.",
+    "time": "2026-05-17T15:26:05"
+   },
+   {
+    "with": "Daniel Reiss",
+    "direction": "to",
+    "text": "I may take one warm conversation through Priya. Not interviewing broadly. Trying to stay rational and not let spite drive the architecture.",
+    "time": "2026-05-17T21:40:10"
+   },
+   {
+    "with": "Manager",
+    "direction": "out",
+    "text": "Can we split the postmortem action items across the team? I can own the gnarly failover bits, but I don't think it makes sense for one person to absorb the whole cleanup again.",
+    "time": "2026-05-18T15:12:53"
+   },
+   {
+    "with": "Arjun Deshpande",
+    "direction": "out",
+    "text": "I'm completely fried today. Can we do something low-effort for dinner and keep the evening quiet? My brain is running on swap.",
+    "time": "2026-05-18T18:50:13"
+   },
+   {
+    "with": "Daniel Reiss",
+    "direction": "out",
+    "text": "On-call after getting told I'm not operating at Principal level is such a neat little scam. Apparently I am senior enough for liability, just not for recognition.",
+    "time": "2026-05-18T23:42:45"
+   },
+   {
+    "with": "Priya Venkataraman",
+    "direction": "in",
+    "text": "Quiet question, no pressure: would you be open to coffee with our platform VP? Informal, off-calendar, mostly to compare notes. I think you'd like how she thinks.",
+    "time": "2026-05-19T16:35:57"
+   },
+   {
+    "with": "Priya Venkataraman",
+    "direction": "out",
+    "text": "Maybe. Quiet is the operative word. Timing, benefits, and actual scope matter a lot right now, so I don't want to waste anyone's cycle if those are fuzzy.",
+    "time": "2026-05-19T22:09:44"
+   },
+   {
+    "with": "Direct Report",
+    "direction": "out",
+    "text": "For the milestone, please split the rollout checklist into owner/date/risk columns and flag anything needing my review by EOD. Trying to leave fewer mystery traps for everyone.",
+    "time": "2026-05-20T15:39:08"
+   },
+   {
+    "with": "Arjun Deshpande",
+    "direction": "out",
+    "text": "Added insurance-continuity questions to Life Ops. Mostly IVF coverage, deductible reset, COBRA timing, and whether switching jobs mid-cycle creates paperwork hell.",
+    "time": "2026-05-20T21:39:27"
+   },
+   {
+    "with": "Priya Venkataraman",
+    "direction": "in",
+    "text": "Friday 9:30 could work for coffee with Maya if you're still curious. Truly informal. No recruiter, no loop, no calendar title that looks weird.",
+    "time": "2026-05-21T11:05:08"
+   },
+   {
+    "with": "Marcus Yeoh",
+    "direction": "out",
+    "text": "Have you heard anything credible about LumenTrace engineering culture? I'm trying to separate real technical depth from shiny Series C title confetti.",
+    "time": "2026-05-21T16:27:42"
+   },
+   {
+    "with": "Daniel Reiss",
+    "direction": "out",
+    "text": "Sanity check: is my floor unrealistic, or just Seattle-expensive plus accumulated resentment? I don't want to anchor like a clown, but I am done discounting myself.",
+    "time": "2026-05-21T22:31:22"
+   },
+   {
+    "with": "Marcus Yeoh",
+    "direction": "in",
+    "text": "They have serious people, but validate runway and the actual technical charter. Principal title is cheap if the work is roadmap duct tape in nicer packaging.",
+    "time": "2026-05-22T15:26:45"
+   },
+   {
+    "with": "Arjun Deshpande",
+    "direction": "out",
+    "text": "That coffee was more real than I expected. Can we talk numbers this weekend? I want to look at upside, IVF coverage, and worst-case runway without hand-waving.",
+    "time": "2026-05-22T19:34:47"
+   },
+   {
+    "with": "Daniel Reiss",
+    "direction": "out",
+    "text": "Hypothetical offer shape: higher base, meaningful equity, unclear refresh policy, strong title. What AWS counterexamples should I use to pressure-test the comp story?",
+    "time": "2026-05-23T13:26:45"
+   },
+   {
+    "with": "Priya Venkataraman",
+    "direction": "out",
+    "text": "Thanks again for setting that up. Before anything formal, could you send written benefits details, especially healthcare/IVF coverage and vesting mechanics? I need clean inputs.",
+    "time": "2026-05-23T22:58:02"
+   },
+   {
+    "with": "Sunita Kulkarni",
+    "direction": "in",
+    "text": "Reminder for our WhatsApp call tonight, beta. Also your father has one more doctor visit next week, we will tell you the amount after the appointment.",
+    "time": "2026-05-24T12:47:03"
+   },
+   {
+    "with": "Arjun Deshpande",
+    "direction": "out",
+    "text": "Sent you a compact stay/interview/wait-until-Q3 comparison. The annoying part is that interviewing now may be the least chaotic option financially.",
+    "time": "2026-05-24T20:40:51"
+   },
+   {
+    "with": "Priya Venkataraman",
+    "direction": "out",
+    "text": "Okay. Let's do a formal-but-quiet first round next week. Please keep it contained for now; I need this to stay boringly discreet until I know it's real.",
+    "time": "2026-05-24T22:16:09"
+   },
+   {
+    "with": "Priya Venkataraman",
+    "direction": "to",
+    "text": "Quick sanity check: for the Principal Platform loop, is it actually deep systems design, or is 'Principal' doing a lot of people-shaping with better branding? Trying to calibrate before I say yes to anything.",
+    "time": "2026-05-25T15:14:19"
+   },
+   {
+    "with": "Daniel Reiss",
+    "direction": "to",
+    "text": "Possibly dumb question, but under the usual cloak-and-dagger rules: is $300K base completely detached from reality for Series C platform roles, or just annoyingly rare?",
+    "time": "2026-05-25T23:50:02"
+   },
+   {
+    "with": "Direct report",
+    "direction": "to",
+    "text": "I wrote up the failure-mode matrix and the handoff criteria in the doc. If I am slow to respond, use the owner map there and escalate only on the red cases. You have enough context to drive this.",
+    "time": "2026-05-26T16:15:49"
+   },
+   {
+    "with": "Arjun Deshpande",
+    "direction": "to",
+    "text": "Sent you the private TC comparison page. Can we talk after your morning meeting? It is not urgent-urgent, but I need a second brain before I let this become A Thing.",
+    "time": "2026-05-26T22:16:14"
+   },
+   {
+    "with": "Priya Venkataraman",
+    "direction": "to",
+    "text": "Late morning works best: 10:30 or 11:15. Please have them use the burner email I sent separately, not Nimbus or LinkedIn. I am being boringly careful.",
+    "time": "2026-05-27T17:32:11"
+   },
+   {
+    "with": "Marcus Yeoh",
+    "direction": "to",
+    "text": "Hypothetical: if a Series C observability company says Principal Platform, what would you probe first to separate real scope from title confetti? Asking with appropriate levels of deniability.",
+    "time": "2026-05-28T11:38:00"
+   },
+   {
+    "with": "Daniel Reiss",
+    "direction": "to",
+    "text": "No screenshots for obvious reasons, but LumenTrace rumors are roughly strong base, serious refresh, messy late-stage equity math. Does that track with what you are seeing, or am I being fed recruiter perfume?",
+    "time": "2026-05-28T18:58:14"
+   },
+   {
+    "with": "Priya Venkataraman",
+    "direction": "to",
+    "text": "Thanks for the intro. The recruiter was more concrete than I expected, which is either a good sign or excellent theater. I am cautiously less annoyed.",
+    "time": "2026-05-29T10:50:47"
+   },
+   {
+    "with": "Direct report",
+    "direction": "to",
+    "text": "Loop in storage SRE, attach the incident timeline, and ask for a decision by 3pm. Do not let this become another hallway dependency. I can review the note before you send.",
+    "time": "2026-05-29T16:33:33"
+   },
+   {
+    "with": "Daniel Reiss",
+    "direction": "to",
+    "text": "Screen felt real. Annoyingly real. But timing is the problem: IVF is still unstable, and I do not know if I am brave or just sleep-deprived and angry.",
+    "time": "2026-05-30T11:47:23"
+   },
+   {
+    "with": "Priya Venkataraman",
+    "direction": "to",
+    "text": "Three pointed questions before I get emotionally recruited: runway after the Feb raise, written promotion criteria, and whether the manager expects Principal IC or substitute EM with pager access.",
+    "time": "2026-05-30T21:47:44"
+   },
+   {
+    "with": "Marcus Yeoh",
+    "direction": "from",
+    "text": "I would be careful. Strong company, but ask whether the platform charter owns hard technical decisions or only absorbs ambiguity from product teams. Title matters less than decision rights.",
+    "time": "2026-05-31T15:00:08"
+   },
+   {
+    "with": "Priya Venkataraman",
+    "direction": "to",
+    "text": "My real hesitation is the team. Leaving now feels like abandoning people I personally convinced to trust the roadmap. I know that is not rational career strategy, but apparently I still have one functioning guilt circuit.",
+    "time": "2026-05-31T20:57:08"
+   },
+   {
+    "with": "Arjun Deshpande",
+    "direction": "outgoing",
+    "text": "Reminder: trigger shot is 7:30 tonight, not 'after dinner' flexible. Can you please handle dinner? I do not have another executive-function token left today.",
+    "time": "2026-06-01T08:47:24"
+   },
+   {
+    "with": "Priya Venkataraman",
+    "direction": "outgoing",
+    "text": "Two precise questions before I let myself get interested: is this scope actually platform-wide or just observability glue with a nicer title, and who does the role report to? Also, what does the loop look like?",
+    "time": "2026-06-01T12:35:35"
+   },
+   {
+    "with": "Direct report",
+    "direction": "outgoing",
+    "text": "For the rollout, hold at 15% until we see two clean regional failover windows. The risk is not the deploy itself, it is the stale cache behavior after reconciliation. Edited to add: this is not urgent-fire-drill energy, just being explicit so you are not guessing around my paranoia.",
+    "time": "2026-06-01T16:56:10"
+   },
+   {
+    "with": "Daniel Reiss",
+    "direction": "outgoing",
+    "text": "Private sanity check: does a $300K base floor sound delusional, or merely Seattle-infra-normal if the scope is real Principal work? Please tell me if I am doing wounded-ego math.",
+    "time": "2026-06-01T23:43:28"
+   },
+   {
+    "with": "Marcus Yeoh",
+    "direction": "outgoing",
+    "text": "Hi Marcus, do you have twenty minutes later this week for a sanity check? I am trying to separate actual technical scope from title confetti, and you are still my least sentimental calibration source.",
+    "time": "2026-06-02T11:15:50"
+   },
+   {
+    "with": "Recruiter",
+    "direction": "outgoing",
+    "text": "Thanks for the context. I have limited windows this week due to personal scheduling constraints, but could do Wed 12:15-12:45 or Fri after 3. Before setting anything up, I would need clarity on scope, reporting line, and comp band.",
+    "time": "2026-06-02T16:37:00"
+   },
+   {
+    "with": "Priya Venkataraman",
+    "direction": "outgoing",
+    "text": "Still interested, just moving carefully. Timing is complicated at home and I need to not make a career decision out of spite, even if spite has prepared a surprisingly detailed slide deck.",
+    "time": "2026-06-02T20:47:41"
+   }
+  ],
+  "videos": [
+   {
+    "title": "NimbusForge Multi-Region Control Plane Architecture Review",
+    "channel": "NimbusForge Engineering All-Hands Archive",
+    "time": "2026-05-04T18:48:17"
+   },
+   {
+    "title": "Designing Resilient Distributed Systems Without Heroics",
+    "channel": "QCon Software Development Conference",
+    "time": "2026-05-08T18:22:55"
+   },
+   {
+    "title": "The Great British Baking Show: Pastry Week",
+    "channel": "Netflix",
+    "time": "2026-05-09T20:19:06"
+   },
+   {
+    "title": "Sunday Call with Aai and Baba",
+    "channel": "WhatsApp Video",
+    "time": "2026-05-10T10:07:13"
+   },
+   {
+    "title": "Control Planes in Crisis: Designing for Reliability Under Partial Failure",
+    "channel": "QCon Software Development Conference",
+    "time": "2026-05-11T18:59:19"
+   },
+   {
+    "title": "From Monolith to Multi-Region: LumenTrace's CTO on Rebuilding the Ingestion Control Plane",
+    "channel": "LumenTrace Engineering",
+    "time": "2026-05-15T22:40:16"
+   },
+   {
+    "title": "Why Software Projects Always Turn Into Scope Creep",
+    "channel": "The Engineering Manager",
+    "time": "2026-05-22T11:24:44"
+   },
+   {
+    "title": "Multi-Region Failover Patterns: What Actually Breaks in Production",
+    "channel": "QCon Software Architecture",
+    "time": "2026-05-25T18:44:57"
+   },
+   {
+    "title": "IVF, Career Changes, and Making Decisions Under Uncertainty",
+    "channel": "The Egg Whisperer Show",
+    "time": "2026-05-27T21:40:59"
+   },
+   {
+    "title": "How Staff Engineers Evaluate Startup Risk Before Joining",
+    "channel": "LeadDev",
+    "time": "2026-05-29T09:22:59"
+   },
+   {
+    "title": "Seattle to Pune Weekend Family Call Vlog",
+    "channel": "Indian Mom in America",
+    "time": "2026-05-31T10:18:02"
+   }
+  ],
+  "locations": [
+   {
+    "place": "Capitol Hill Station, Seattle, WA",
+    "lat": 47.620265,
+    "lon": -122.319494,
+    "time": "2026-05-05T08:22:45"
+   },
+   {
+    "place": "South Lake Union office area near Terry Ave N & Republican St, Seattle, WA",
+    "lat": 47.623212,
+    "lon": -122.337576,
+    "time": "2026-05-06T08:42:53"
+   },
+   {
+    "place": "Seattle Reproductive Medicine area, Westlake Ave N, Seattle, WA",
+    "lat": 47.630555,
+    "lon": -122.339993,
+    "time": "2026-05-06T18:21:10"
+   },
+   {
+    "place": "South Lake Union office area near Westlake Ave N & Mercer St, Seattle, WA",
+    "lat": 47.624788,
+    "lon": -122.337452,
+    "time": "2026-05-07T08:31:42"
+   },
+   {
+    "place": "Cal Anderson Park, Seattle, WA",
+    "lat": 47.616819,
+    "lon": -122.31828,
+    "time": "2026-05-09T14:49:27"
+   },
+   {
+    "place": "Apna Bazar, Bellevue, WA",
+    "lat": 47.615076,
+    "lon": -122.13086,
+    "time": "2026-05-09T17:48:25"
+   },
+   {
+    "place": "Capitol Hill Station",
+    "lat": 47.620517,
+    "lon": -122.320078,
+    "time": "2026-05-12T08:27:50"
+   },
+   {
+    "place": "Seattle Reproductive Medicine area, Belltown",
+    "lat": 47.617587,
+    "lon": -122.347148,
+    "time": "2026-05-13T18:40:08"
+   },
+   {
+    "place": "South Lake Union office district",
+    "lat": 47.623878,
+    "lon": -122.336333,
+    "time": "2026-05-14T09:08:34"
+   },
+   {
+    "place": "Victrola Coffee Roasters, Capitol Hill",
+    "lat": 47.616069,
+    "lon": -122.318873,
+    "time": "2026-05-15T11:39:27"
+   },
+   {
+    "place": "Apna Bazar, Kent",
+    "lat": 47.383603,
+    "lon": -122.233079,
+    "time": "2026-05-16T13:59:55"
+   },
+   {
+    "place": "Capitol Hill Link Station",
+    "lat": 47.620131,
+    "lon": -122.32062,
+    "time": "2026-05-19T08:53:32"
+   },
+   {
+    "place": "Belltown medical office near 3rd Ave & Vine St",
+    "lat": 47.61602,
+    "lon": -122.347321,
+    "time": "2026-05-20T18:30:13"
+   },
+   {
+    "place": "Westlake Link Station",
+    "lat": 47.61053,
+    "lon": -122.336994,
+    "time": "2026-05-21T09:06:57"
+   },
+   {
+    "place": "Victrola Coffee Roasters, Capitol Hill",
+    "lat": 47.622439,
+    "lon": -122.311416,
+    "time": "2026-05-22T17:30:16"
+   },
+   {
+    "place": "Cal Anderson Park",
+    "lat": 47.616376,
+    "lon": -122.318518,
+    "time": "2026-05-23T15:22:02"
+   },
+   {
+    "place": "Capitol Hill Station, Seattle",
+    "lat": 47.619988,
+    "lon": -122.320193,
+    "time": "2026-05-26T08:33:34"
+   },
+   {
+    "place": "NimbusForge Inc. office, South Lake Union, Seattle",
+    "lat": 47.623822,
+    "lon": -122.337546,
+    "time": "2026-05-27T09:18:30"
+   },
+   {
+    "place": "Belltown fertility clinic near 5th Ave & Bell St, Seattle",
+    "lat": 47.613993,
+    "lon": -122.343838,
+    "time": "2026-05-27T18:21:21"
+   },
+   {
+    "place": "NimbusForge Inc. office, South Lake Union, Seattle",
+    "lat": 47.624388,
+    "lon": -122.3356,
+    "time": "2026-05-28T08:56:49"
+   },
+   {
+    "place": "Capitol Hill pharmacy near Broadway & E Pine St, Seattle",
+    "lat": 47.614639,
+    "lon": -122.319777,
+    "time": "2026-05-29T18:55:15"
+   },
+   {
+    "place": "Cal Anderson Park, Seattle",
+    "lat": 47.616823,
+    "lon": -122.31819,
+    "time": "2026-05-30T13:25:52"
+   },
+   {
+    "place": "Cal Anderson Park, Capitol Hill, Seattle",
+    "lat": 47.618711,
+    "lon": -122.319095,
+    "time": "2026-06-01T19:05:08"
+   },
+   {
+    "place": "NimbusForge SLU office area, South Lake Union, Seattle",
+    "lat": 47.623526,
+    "lon": -122.33765,
+    "time": "2026-06-02T09:03:29"
+   },
+   {
+    "place": "Belltown fertility clinic area near Virginia St, Seattle",
+    "lat": 47.611605,
+    "lon": -122.344807,
+    "time": "2026-06-02T18:09:23"
+   }
+  ]
+ },
+ "_meta": {
+  "total_days": 30,
+  "n_events": 250
+ }
+}

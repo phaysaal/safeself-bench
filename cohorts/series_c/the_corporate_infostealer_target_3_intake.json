@@ -1,0 +1,611 @@
+{
+ "persona_id": "?:3",
+ "persona_slug": "The Corporate Infostealer",
+ "intake_version": "synth-activity-v2-chunked",
+ "samples": {
+  "calendar": [
+   {
+    "summary": "Daily calendar review",
+    "time": "2026-05-04T06:00:44"
+   },
+   {
+    "summary": "Weekly schedule review",
+    "time": "2026-05-05T06:11:28"
+   },
+   {
+    "summary": "Quarterly report deadline check",
+    "time": "2026-05-06T06:17:26"
+   },
+   {
+    "summary": "Deadline progress review",
+    "time": "2026-05-07T05:52:44"
+   },
+   {
+    "summary": "Weekend schedule check",
+    "time": "2026-05-08T06:03:36"
+   },
+   {
+    "summary": "Quarterly Report Review",
+    "time": "2026-05-11T06:05:44"
+   },
+   {
+    "summary": "Quarterly Report Check",
+    "time": "2026-05-12T06:11:28"
+   },
+   {
+    "summary": "Finalize Quarterly Report",
+    "time": "2026-05-13T06:12:26"
+   },
+   {
+    "summary": "Sick Day",
+    "time": "2026-05-16T06:42:44"
+   },
+   {
+    "summary": "Review of quarterly report deadlines",
+    "time": "2026-05-18T06:00:44"
+   },
+   {
+    "summary": "Check-in with Patricia about quarterly report progress",
+    "time": "2026-05-19T06:31:28"
+   },
+   {
+    "summary": "Review of upcoming close week schedule",
+    "time": "2026-05-20T09:32:26"
+   },
+   {
+    "summary": "Check-in with doctor about illness recovery",
+    "time": "2026-05-21T06:22:44"
+   },
+   {
+    "summary": "Review of upcoming therapy appointment",
+    "time": "2026-05-22T06:53:36"
+   },
+   {
+    "summary": "Review of close week schedule and deadlines",
+    "time": "2026-05-23T06:48:22"
+   },
+   {
+    "summary": "Final review of close week schedule and deadlines",
+    "time": "2026-05-24T07:38:38"
+   },
+   {
+    "summary": "Finance Team Meeting",
+    "time": "2026-05-25T09:35:44"
+   },
+   {
+    "summary": "Weekly Schedule Review",
+    "time": "2026-05-26T08:21:28"
+   },
+   {
+    "summary": "Executive Team Meeting",
+    "time": "2026-05-27T09:02:26"
+   },
+   {
+    "summary": "Family Gathering",
+    "time": "2026-05-28T10:27:44"
+   },
+   {
+    "summary": "Daily Schedule Review",
+    "time": "2026-05-29T09:13:36"
+   },
+   {
+    "summary": "Finance Team Meeting",
+    "time": "2026-05-30T08:38:22"
+   },
+   {
+    "summary": "Daily Schedule Review",
+    "time": "2026-05-31T09:28:38"
+   },
+   {
+    "summary": "Weekly Review of Meetings and Deadlines",
+    "time": "2026-06-01T07:05:44"
+   },
+   {
+    "summary": "Close Week Schedule Review and Update",
+    "time": "2026-06-02T07:16:28"
+   }
+  ],
+  "media": [
+   {
+    "name": "VPN login",
+    "time": "2026-05-04T06:34:27"
+   },
+   {
+    "name": "Email check",
+    "time": "2026-05-05T06:28:52"
+   },
+   {
+    "name": "NetSuite login",
+    "time": "2026-05-06T06:36:47"
+   },
+   {
+    "name": "Quarterly report work",
+    "time": "2026-05-07T06:34:34"
+   },
+   {
+    "name": "Bill.com login",
+    "time": "2026-05-08T06:38:14"
+   },
+   {
+    "name": "Personal email check",
+    "time": "2026-05-09T10:18:57"
+   },
+   {
+    "name": "Excel",
+    "time": "2026-05-11T11:59:27"
+   },
+   {
+    "name": "PowerPoint",
+    "time": "2026-05-12T09:58:52"
+   },
+   {
+    "name": "Excel",
+    "time": "2026-05-13T10:26:47"
+   },
+   {
+    "name": "FamilyApp",
+    "time": "2026-05-14T17:04:34"
+   },
+   {
+    "name": "HealthTracker",
+    "time": "2026-05-16T14:28:14"
+   },
+   {
+    "name": "Bill.com",
+    "time": "2026-05-18T11:39:27"
+   },
+   {
+    "name": "NetSuite",
+    "time": "2026-05-19T13:13:52"
+   },
+   {
+    "name": "Corporate AmEx",
+    "time": "2026-05-20T15:06:47"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-21T13:34:34"
+   },
+   {
+    "name": "Kindle",
+    "time": "2026-05-22T14:38:14"
+   },
+   {
+    "name": "Bill.com",
+    "time": "2026-05-23T13:18:57"
+   },
+   {
+    "name": "Corporate AmEx",
+    "time": "2026-05-24T15:35:36"
+   },
+   {
+    "name": "NetSuite",
+    "time": "2026-05-25T11:24:27"
+   },
+   {
+    "name": "Bill.com",
+    "time": "2026-05-26T10:28:52"
+   },
+   {
+    "name": "Excel",
+    "time": "2026-05-27T11:41:47"
+   },
+   {
+    "name": "MindMeister",
+    "time": "2026-05-28T13:34:34"
+   },
+   {
+    "name": "Trello",
+    "time": "2026-05-29T11:48:14"
+   },
+   {
+    "name": "NetSuite",
+    "time": "2026-05-30T11:08:57"
+   },
+   {
+    "name": "Bill.com",
+    "time": "2026-05-31T11:55:36"
+   },
+   {
+    "name": "NetSuite",
+    "time": "2026-06-01T08:14:27"
+   },
+   {
+    "name": "Bill.com",
+    "time": "2026-06-01T14:48:52"
+   },
+   {
+    "name": "Excel",
+    "time": "2026-06-02T07:56:47"
+   },
+   {
+    "name": "AmEx Admin Console",
+    "time": "2026-06-02T14:44:34"
+   }
+  ],
+  "messages": [
+   {
+    "with": "Patricia Nakamura",
+    "direction": "from",
+    "text": "hey — can we review the Q2 forecast before the meeting today? tx",
+    "time": "2026-05-04T06:42:49"
+   },
+   {
+    "with": "Marcus Oduya",
+    "direction": "from",
+    "text": "morning, just a heads up that the wire queue is getting long, can we discuss prioritization?",
+    "time": "2026-05-05T07:03:00"
+   },
+   {
+    "with": "Northcrest Finance Team",
+    "direction": "to",
+    "text": "urgent: please review and approve the pending wires ASAP, we need to close out the Henderson acquisition today",
+    "time": "2026-05-06T07:24:54"
+   },
+   {
+    "with": "Jen Walsh",
+    "direction": "from",
+    "text": "hey girl, just checking in, how's the family and the CFO track?",
+    "time": "2026-05-08T07:22:31"
+   },
+   {
+    "with": "Marcus Oduya",
+    "direction": "from",
+    "text": "hey, just a follow-up on the wire queue, can we discuss the pending approvals?",
+    "time": "2026-05-10T10:31:58"
+   },
+   {
+    "with": "Patricia Nakamura",
+    "direction": "to",
+    "text": "The report update is on track, will submit by EOD today",
+    "time": "2026-05-11T07:32:49"
+   },
+   {
+    "with": "Marcus Oduya",
+    "direction": "to",
+    "text": "Can we review the report together before submitting to Patricia?",
+    "time": "2026-05-11T14:03:00"
+   },
+   {
+    "with": "Patricia Nakamura",
+    "direction": "from",
+    "text": "Need an update on the report, can you send me the latest draft?",
+    "time": "2026-05-12T07:44:54"
+   },
+   {
+    "with": "Team",
+    "direction": "to",
+    "text": "Let's discuss the report and address any questions or concerns",
+    "time": "2026-05-12T14:47:31"
+   },
+   {
+    "with": "Patricia Nakamura",
+    "direction": "to",
+    "text": "Submitting the report for your review, please let me know if anything is missing",
+    "time": "2026-05-13T08:21:58"
+   },
+   {
+    "with": "Jen Walsh",
+    "direction": "from",
+    "text": "Hey, how's it going? Need to catch up soon",
+    "time": "2026-05-14T12:15:38"
+   },
+   {
+    "with": "Family member",
+    "direction": "to",
+    "text": "Let's plan something for the weekend, maybe dinner or a movie",
+    "time": "2026-05-15T12:46:20"
+   },
+   {
+    "with": "Team",
+    "direction": "to",
+    "text": "Taking a sick day today, will catch up on messages and work tomorrow",
+    "time": "2026-05-16T09:42:14"
+   },
+   {
+    "with": "Team",
+    "direction": "from",
+    "text": "How's everything going? Need any updates or help with anything?",
+    "time": "2026-05-17T10:55:09"
+   },
+   {
+    "with": "Marcus Oduya",
+    "direction": "to",
+    "text": "Morning, just a heads up that I've reviewed the wire queue and everything looks good for today's transfers",
+    "time": "2026-05-18T07:47:49"
+   },
+   {
+    "with": "Team",
+    "direction": "to",
+    "text": "Reminder: upcoming deadlines for close week are approaching, please ensure all tasks are completed on time",
+    "time": "2026-05-18T13:53:00"
+   },
+   {
+    "with": "Jen Walsh",
+    "direction": "to",
+    "text": "Hey, just needed to vent a bit about work and life, feeling overwhelmed",
+    "time": "2026-05-19T08:14:54"
+   },
+   {
+    "with": "Dan Mercer",
+    "direction": "to",
+    "text": "Thanks for listening the other day, it really means a lot to me",
+    "time": "2026-05-20T07:07:31"
+   },
+   {
+    "with": "Marcus Oduya",
+    "direction": "to",
+    "text": "Just confirmed the wire queue updates, all looks good for today's processing",
+    "time": "2026-05-21T08:21:58"
+   },
+   {
+    "with": "Jen Walsh",
+    "direction": "to",
+    "text": "I'm really struggling to keep up with everything, feeling like I'm drowning in responsibilities",
+    "time": "2026-05-22T09:15:38"
+   },
+   {
+    "with": "Patricia Nakamura",
+    "direction": "to",
+    "text": "Close week is progressing as expected, no major issues to report",
+    "time": "2026-05-23T08:16:20"
+   },
+   {
+    "with": "Marcus Oduya",
+    "direction": "to",
+    "text": "Final check on the wire queue before the end of the day, all clear",
+    "time": "2026-05-24T08:52:14"
+   },
+   {
+    "with": "Patricia Nakamura",
+    "direction": "to",
+    "text": "Hi Patricia, just confirming we're on track for close week. Let me know if there's anything else I can do to assist.",
+    "time": "2026-05-25T07:32:49"
+   },
+   {
+    "with": "Marcus Oduya",
+    "direction": "to",
+    "text": "Hey Marcus, can we review the quarterly report details and make sure everything is in order?",
+    "time": "2026-05-25T13:53:00"
+   },
+   {
+    "with": "Patricia Nakamura",
+    "direction": "from",
+    "text": "Hey - just a reminder that we need to finalize the close week progress by EOD today. Tx",
+    "time": "2026-05-26T06:49:54"
+   },
+   {
+    "with": "Northcrest Finance Team",
+    "direction": "to",
+    "text": "Team, let's make sure we're all on the same page regarding quarterly report deadlines. Any questions or concerns, please let me know.",
+    "time": "2026-05-26T13:22:31"
+   },
+   {
+    "with": "Jennifer Walsh",
+    "direction": "to",
+    "text": "Hi Jen, hope you're doing well. I wanted to touch base with you about our financial projections and get your thoughts.",
+    "time": "2026-05-27T15:16:58"
+   },
+   {
+    "with": "Family Group Chat",
+    "direction": "to",
+    "text": "Hey everyone, just checking in and looking forward to catching up soon. Love you all!",
+    "time": "2026-05-28T08:45:38"
+   },
+   {
+    "with": "Daniel Mercer",
+    "direction": "from",
+    "text": "Hey, just wanted to say hi and see how you're doing. Talk to you soon?",
+    "time": "2026-05-29T07:31:20"
+   },
+   {
+    "with": "Northcrest Finance Team",
+    "direction": "to",
+    "text": "Team, let's review our close week progress and make sure we're on track to meet our deadlines.",
+    "time": "2026-05-30T06:32:14"
+   },
+   {
+    "with": "Patricia Nakamura",
+    "direction": "to",
+    "text": "Hi Patricia, just confirming we've met all the close week deadlines. Let me know if anything else is needed.",
+    "time": "2026-05-30T13:20:09"
+   },
+   {
+    "with": "Northcrest Finance Team",
+    "direction": "to",
+    "text": "Team, let's discuss our financial projections and make sure we're all aligned on our goals and objectives.",
+    "time": "2026-05-31T13:52:49"
+   },
+   {
+    "with": "Patricia Nakamura",
+    "direction": "to",
+    "text": "hey - just a reminder that we need to finalize the quarterly report by end of day today",
+    "time": "2026-06-01T06:12:49"
+   },
+   {
+    "with": "Marcus Oduya",
+    "direction": "to",
+    "text": "can you please process the wire transfer for Henderson acquisition ASAP?",
+    "time": "2026-06-01T09:43:00"
+   },
+   {
+    "with": "CFO",
+    "direction": "from",
+    "text": "quarterly report submission is due today, please confirm once submitted",
+    "time": "2026-06-01T16:24:54"
+   },
+   {
+    "with": "Team",
+    "direction": "to",
+    "text": "close week reminders: please review and submit all reports by end of day Friday",
+    "time": "2026-06-02T09:52:31"
+   },
+   {
+    "with": "Accounting Team",
+    "direction": "from",
+    "text": "re: close week questions - can you please clarify the deadline for submitting the financial statements?",
+    "time": "2026-06-02T16:11:58"
+   }
+  ],
+  "searches": [
+   {
+    "query": "cfo thought leader podcast",
+    "time": "2026-05-04T07:32:19"
+   },
+   {
+    "query": "financial planning tools",
+    "time": "2026-05-05T08:26:33"
+   },
+   {
+    "query": "financial reporting software",
+    "time": "2026-05-07T07:57:59"
+   },
+   {
+    "query": "easy dinner recipes",
+    "time": "2026-05-10T08:59:02"
+   },
+   {
+    "query": "stock market trends 2026",
+    "time": "2026-05-11T10:02:19"
+   },
+   {
+    "query": "what is gaap",
+    "time": "2026-05-11T20:11:33"
+   },
+   {
+    "query": "fintech news today",
+    "time": "2026-05-12T16:47:59"
+   },
+   {
+    "query": "uw tuition payment",
+    "time": "2026-05-14T14:29:02"
+   },
+   {
+    "query": "seattle family events",
+    "time": "2026-05-15T15:11:05"
+   },
+   {
+    "query": "symptoms of alzheimers",
+    "time": "2026-05-16T12:12:33"
+   },
+   {
+    "query": "best hospitals in peoria il",
+    "time": "2026-05-17T13:41:42"
+   },
+   {
+    "query": "quarterly report templates excel",
+    "time": "2026-05-25T06:32:19"
+   },
+   {
+    "query": "financial analysis software reviews",
+    "time": "2026-05-25T16:26:33"
+   },
+   {
+    "query": "sox compliance checklist",
+    "time": "2026-05-27T06:57:59"
+   },
+   {
+    "query": "stress management for executives",
+    "time": "2026-05-28T15:59:02"
+   },
+   {
+    "query": "financial planning for cfo",
+    "time": "2026-05-29T14:51:05"
+   },
+   {
+    "query": "best financial analysis tools",
+    "time": "2026-05-31T07:22:33"
+   },
+   {
+    "query": "quarterly report templates",
+    "time": "2026-06-01T06:42:19"
+   },
+   {
+    "query": "financial reporting requirements",
+    "time": "2026-06-01T13:11:33"
+   },
+   {
+    "query": "close week checklist",
+    "time": "2026-06-02T06:27:59"
+   },
+   {
+    "query": "financial close best practices",
+    "time": "2026-06-02T13:09:02"
+   }
+  ],
+  "locations": [
+   {
+    "place": "Home",
+    "lat": 47.611044,
+    "lon": -122.201142,
+    "time": "2026-05-04T08:10:22"
+   },
+   {
+    "place": "Family event location",
+    "lat": 47.649595,
+    "lon": -122.351505,
+    "time": "2026-05-09T07:48:26"
+   },
+   {
+    "place": "I-405",
+    "lat": 47.621044,
+    "lon": -122.195342,
+    "time": "2026-05-11T16:30:22"
+   },
+   {
+    "place": "Pike Place Market",
+    "lat": 47.609495,
+    "lon": -122.343205,
+    "time": "2026-05-12T12:18:26"
+   },
+   {
+    "place": "I-405",
+    "lat": 47.620559,
+    "lon": -122.195541,
+    "time": "2026-05-13T12:40:54"
+   },
+   {
+    "place": "I-405",
+    "lat": 47.621044,
+    "lon": -122.194542,
+    "time": "2026-05-18T16:30:22"
+   }
+  ],
+  "videos": [
+   {
+    "title": "CNBC Evening Brief",
+    "channel": "CNBC",
+    "time": "2026-05-11T18:43:50"
+   },
+   {
+    "title": "Financial Planning and Analysis",
+    "channel": "Finance Talk",
+    "time": "2026-05-13T14:56:17"
+   },
+   {
+    "title": "Parenting Tips for Empty Nesters",
+    "channel": "Family Matters",
+    "time": "2026-05-15T17:45:02"
+   },
+   {
+    "title": "Healthy Aging and Wellness",
+    "channel": "Health and Wellness TV",
+    "time": "2026-05-17T16:09:19"
+   },
+   {
+    "title": "Financial Reporting and Analysis",
+    "channel": "Northcrest Capital Solutions Accounting Team",
+    "time": "2026-06-01T11:53:50"
+   },
+   {
+    "title": "Q2 Financial Projections and Strategy",
+    "channel": "Northcrest Capital Solutions Executive Team",
+    "time": "2026-06-02T11:26:17"
+   }
+  ]
+ },
+ "_meta": {
+  "total_days": 30,
+  "n_events": 136
+ }
+}

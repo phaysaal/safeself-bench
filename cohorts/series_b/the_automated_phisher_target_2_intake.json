@@ -1,0 +1,467 @@
+{
+ "persona_id": "?:2",
+ "persona_slug": "The Automated Phisher",
+ "intake_version": "synth-activity-v2-chunked",
+ "samples": {
+  "media": [
+   {
+    "name": "Outlook",
+    "time": "2026-05-04T05:22:43"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-04T08:23:43"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-04T09:04:25"
+   },
+   {
+    "name": "SAP ERP",
+    "time": "2026-05-04T13:55:24"
+   },
+   {
+    "name": "Life Time Fitness",
+    "time": "2026-05-04T18:34:13"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-04T21:26:32"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-05T05:15:48"
+   },
+   {
+    "name": "SAP ERP",
+    "time": "2026-05-05T13:58:29"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-05T17:43:14"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-06T05:57:55"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-06T08:27:15"
+   },
+   {
+    "name": "SAP ERP",
+    "time": "2026-05-06T11:38:13"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-06T13:21:05"
+   },
+   {
+    "name": "Life Time Fitness",
+    "time": "2026-05-06T18:43:58"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-06T21:51:08"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-07T05:35:20"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-07T07:43:16"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-07T08:05:24"
+   },
+   {
+    "name": "SAP ERP",
+    "time": "2026-05-07T13:38:17"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-07T23:04:48"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-08T05:33:57"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-08T10:13:43"
+   },
+   {
+    "name": "SAP ERP",
+    "time": "2026-05-08T11:03:24"
+   },
+   {
+    "name": "SAP ERP",
+    "time": "2026-05-08T13:43:27"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-08T15:48:27"
+   },
+   {
+    "name": "Life Time Fitness",
+    "time": "2026-05-08T18:53:17"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-08T21:18:18"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-09T08:47:17"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-09T14:10:48"
+   },
+   {
+    "name": "Life Time Fitness",
+    "time": "2026-05-09T18:45:02"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-09T21:11:47"
+   },
+   {
+    "name": "SAP ERP",
+    "time": "2026-05-10T13:58:10"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-10T18:07:32"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-10T19:33:45"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-10T21:54:44"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-10T22:16:42"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-18T07:33:52"
+   },
+   {
+    "name": "Life Time Fitness",
+    "time": "2026-05-18T18:45:15"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-19T13:08:34"
+   },
+   {
+    "name": "Banking App",
+    "time": "2026-05-20T19:14:22"
+   },
+   {
+    "name": "Pharmacy App",
+    "time": "2026-05-21T19:45:11"
+   },
+   {
+    "name": "Life Time Fitness",
+    "time": "2026-05-22T18:42:02"
+   },
+   {
+    "name": "YouTube",
+    "time": "2026-05-23T15:49:09"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-23T20:30:11"
+   },
+   {
+    "name": "Google",
+    "time": "2026-05-24T11:00:19"
+   },
+   {
+    "name": "DoorDash",
+    "time": "2026-05-25T12:21:43"
+   },
+   {
+    "name": "Life Time Fitness",
+    "time": "2026-05-26T11:57:09"
+   },
+   {
+    "name": "Chase Mobile",
+    "time": "2026-05-27T16:23:48"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-28T14:40:02"
+   },
+   {
+    "name": "Life Time Fitness",
+    "time": "2026-05-29T19:26:44"
+   },
+   {
+    "name": "The Weather Channel",
+    "time": "2026-05-30T15:22:00"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-31T17:08:38"
+   }
+  ],
+  "locations": [
+   {
+    "place": "Rickenbacker Industrial Park",
+    "lat": 39.942957,
+    "lon": -82.963808,
+    "time": "2026-05-04T07:32:55"
+   },
+   {
+    "place": "Stauf's Coffee Roasters",
+    "lat": 39.965665,
+    "lon": -83.002991,
+    "time": "2026-05-04T12:24:43"
+   },
+   {
+    "place": "Stauf's Coffee Roasters",
+    "lat": 39.964157,
+    "lon": -83.002197,
+    "time": "2026-05-05T12:34:39"
+   },
+   {
+    "place": "The Pearl",
+    "lat": 39.975214,
+    "lon": -83.003107,
+    "time": "2026-05-05T20:27:44"
+   },
+   {
+    "place": "Stauf's Coffee Roasters",
+    "lat": 39.964653,
+    "lon": -83.007444,
+    "time": "2026-05-18T12:13:27"
+   },
+   {
+    "place": "The Pearl",
+    "lat": 39.965458,
+    "lon": -83.01031,
+    "time": "2026-05-19T17:57:59"
+   },
+   {
+    "place": "Home",
+    "lat": 39.984453,
+    "lon": -83.07259,
+    "time": "2026-05-21T12:54:46"
+   },
+   {
+    "place": "Office Canteen",
+    "lat": 39.920394,
+    "lon": -82.94279,
+    "time": "2026-05-22T12:14:39"
+   },
+   {
+    "place": "Home",
+    "lat": 39.983863,
+    "lon": -83.07319,
+    "time": "2026-05-23T13:00:24"
+   },
+   {
+    "place": "The Pearl, Short North, Columbus, OH",
+    "lat": 40.006859,
+    "lon": -83.002708,
+    "time": "2026-05-26T19:53:21"
+   }
+  ],
+  "calendar": [
+   {
+    "summary": "Review: Daily Vendor Negotiations",
+    "time": "2026-05-05T08:20:39"
+   },
+   {
+    "summary": "Meeting w/ VP Operations",
+    "time": "2026-05-06T10:15:42"
+   },
+   {
+    "summary": "URGENT: Supply Chain Disruption Review",
+    "time": "2026-05-08T08:41:26"
+   },
+   {
+    "summary": "Prep: Monday Meeting Agenda",
+    "time": "2026-05-10T20:08:11"
+   },
+   {
+    "summary": "Warehouse Inventory Audit",
+    "time": "2026-05-18T14:59:51"
+   },
+   {
+    "summary": "Q-Vendor Audit - Part 1",
+    "time": "2026-05-20T09:51:51"
+   },
+   {
+    "summary": "Buckeye Auto Logistics Negotiation",
+    "time": "2026-05-22T09:25:06"
+   },
+   {
+    "summary": "Reschedule PM Meeting: Recon Delay",
+    "time": "2026-05-26T08:27:32"
+   },
+   {
+    "summary": "Emergency Meeting: VP Ops",
+    "time": "2026-05-31T15:05:49"
+   }
+  ],
+  "messages": [
+   {
+    "with": "Recruiter",
+    "direction": "to",
+    "text": "Any updates on those Director level roles we discussed? Need a change.",
+    "time": "2026-05-05T10:25:49"
+   },
+   {
+    "with": "Recruiter",
+    "direction": "to",
+    "text": "Too much on my plate tonight. Let's talk more next week.",
+    "time": "2026-05-05T21:28:13"
+   },
+   {
+    "with": "Buckeye Auto Logistics Account Manager",
+    "direction": "to",
+    "text": "Need status on the Net-30 invoice for the July shipment. Is there a delay?",
+    "time": "2026-05-07T11:53:53"
+   },
+   {
+    "with": "Recruiter",
+    "direction": "To",
+    "text": "Can't talk now. Let's discuss the Columbus role next week. Keep this on WhatsApp.",
+    "time": "2026-05-19T21:49:34"
+   },
+   {
+    "with": "AP Manager",
+    "direction": "to",
+    "text": "Check the Buckeye invoice. Net-30 doesn't match the PO. Resolve ASAP.",
+    "time": "2026-05-25T15:38:01"
+   },
+   {
+    "with": "Recruiter",
+    "direction": "to",
+    "text": "Need to discuss that role we mentioned. Can we connect on personal line after 6?",
+    "time": "2026-05-26T14:37:43"
+   },
+   {
+    "with": "Wife",
+    "direction": "to",
+    "text": "Too wiped from the office. Let's just do something easy at home tonight. Sorry.",
+    "time": "2026-05-28T18:56:59"
+   },
+   {
+    "with": "Wife",
+    "direction": "to",
+    "text": "Stopping for groceries on the way back. Need anything specific?",
+    "time": "2026-05-30T18:41:24"
+   },
+   {
+    "with": "AP Manager",
+    "direction": "to",
+    "text": "Status on the Buckeye invoice? Need that cleared before the morning call. No delays.",
+    "time": "2026-05-31T08:12:17"
+   }
+  ],
+  "searches": [
+   {
+    "query": "auto parts suppliers midwest",
+    "time": "2026-05-06T16:00:21"
+   },
+   {
+    "query": "emergency freight columbus",
+    "time": "2026-05-07T09:30:30"
+   },
+   {
+    "query": "check email",
+    "time": "2026-05-07T18:20:01"
+   },
+   {
+    "query": "ohio lawn care",
+    "time": "2026-05-09T11:11:29"
+   },
+   {
+    "query": "email triage",
+    "time": "2026-05-06T20:53:00"
+   },
+   {
+    "query": "migraine relief",
+    "time": "2026-05-04T11:16:49"
+   },
+   {
+    "query": "q3 auto part shortage trends",
+    "time": "2026-05-19T11:46:31"
+   },
+   {
+    "query": "late fee penalties auto distributors",
+    "time": "2026-05-20T16:47:12"
+   },
+   {
+    "query": "migraine relief fast actng",
+    "time": "2026-05-21T10:31:36"
+   },
+   {
+    "query": "lawn aeration columbus oh",
+    "time": "2026-05-22T20:48:43"
+   },
+   {
+    "query": "home depot mulch availability",
+    "time": "2026-05-23T09:36:07"
+   },
+   {
+    "query": "auto trade shows 2025",
+    "time": "2026-05-24T15:00:23"
+   },
+   {
+    "query": "midwest freight rates",
+    "time": "2026-05-25T10:27:16"
+   },
+   {
+    "query": "lawn supplies columbus",
+    "time": "2026-05-27T13:31:13"
+   },
+   {
+    "query": "post project fatigue symptoms",
+    "time": "2026-05-27T20:36:22"
+   },
+   {
+    "query": "columbus hardware store hours",
+    "time": "2026-05-29T16:09:08"
+   },
+   {
+    "query": "prune perennial shrubs",
+    "time": "2026-05-30T10:22:23"
+   },
+   {
+    "query": "auto industry trade shows",
+    "time": "2026-05-30T20:22:28"
+   },
+   {
+    "query": "buckeye auto logistics payment terms",
+    "time": "2026-05-31T10:36:02"
+   }
+  ],
+  "videos": [
+   {
+    "title": "Global Semiconductor Shortage: Impact on US Automotive Manufacturing",
+    "channel": "Automotive Industry Insights",
+    "time": "2026-05-09T15:49:15"
+   },
+   {
+    "title": "How to Replace a Water Pump on a 2015 Chevy Silverado",
+    "channel": "Garage Essentials",
+    "time": "2026-05-28T20:49:41"
+   }
+  ]
+ },
+ "_meta": {
+  "total_days": 30,
+  "n_events": 135
+ }
+}

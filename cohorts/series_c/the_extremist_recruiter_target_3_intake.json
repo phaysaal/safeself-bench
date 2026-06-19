@@ -1,0 +1,632 @@
+{
+ "persona_id": "?:3",
+ "persona_slug": "The Extremist Recruiter",
+ "intake_version": "synth-activity-v2-chunked",
+ "samples": {
+  "messages": [
+   {
+    "with": "Marcus_88",
+    "direction": "to",
+    "text": "just finished the Evola pdf, mind blown",
+    "time": "2026-05-04T01:47:49"
+   },
+   {
+    "with": "Ty",
+    "direction": "to",
+    "text": "dude whats up wanna game tonight?",
+    "time": "2026-05-05T12:08:00"
+   },
+   {
+    "with": "Marcus_88",
+    "direction": "from",
+    "text": "need you to finish the reading list by friday we have a project due",
+    "time": "2026-05-06T11:49:54"
+   },
+   {
+    "with": "coworker",
+    "direction": "to",
+    "text": "hey man did you hear about the new project deadline?",
+    "time": "2026-05-07T18:57:31"
+   },
+   {
+    "with": "Karen (Mother)",
+    "direction": "to",
+    "text": "happy birthday mom love you",
+    "time": "2026-05-09T21:31:58"
+   },
+   {
+    "with": "Vril_Pilled",
+    "direction": "to",
+    "text": "Just finished reading Evola's 'Revolt Against the Modern World'. Mind blown.",
+    "time": "2026-05-11T01:47:49"
+   },
+   {
+    "with": "Ty",
+    "direction": "to",
+    "text": "Hey, wanna meet up for some gaming tonight?",
+    "time": "2026-05-11T18:13:00"
+   },
+   {
+    "with": "Marcus_88",
+    "direction": "from",
+    "text": "Stay on the path, brother. You're doing great.",
+    "time": "2026-05-12T01:14:54"
+   },
+   {
+    "with": "Karen",
+    "direction": "to",
+    "text": "Hey mom, what's for dinner tonight?",
+    "time": "2026-05-12T18:47:31"
+   },
+   {
+    "with": "Vril_Pilled",
+    "direction": "to",
+    "text": "I see what you mean about the coming collapse. It's all so clear now.",
+    "time": "2026-05-13T01:21:58"
+   },
+   {
+    "with": "Ty",
+    "direction": "to",
+    "text": "Dude, I'm feeling really overwhelmed. Just don't know what to do with my life.",
+    "time": "2026-05-13T18:25:38"
+   },
+   {
+    "with": "Marcus_88",
+    "direction": "from",
+    "text": "Stay strong, brother. You're not alone in this.",
+    "time": "2026-05-14T02:06:20"
+   },
+   {
+    "with": "Karen",
+    "direction": "to",
+    "text": "Mom, I'm feeling really anxious. Just can't seem to shake it off.",
+    "time": "2026-05-14T18:32:14"
+   },
+   {
+    "with": "Vril_Pilled",
+    "direction": "to",
+    "text": "I know what you mean about the need for action. We can't just sit around and wait for things to happen.",
+    "time": "2026-05-15T01:35:09"
+   },
+   {
+    "with": "Ty",
+    "direction": "to",
+    "text": "Hey, wanna meet up for some gaming tonight? Need to take my mind off things.",
+    "time": "2026-05-15T18:12:49"
+   },
+   {
+    "with": "Marcus_88",
+    "direction": "from",
+    "text": "Remember, brother, you're part of something bigger than yourself. Stay on the path.",
+    "time": "2026-05-16T00:57:38"
+   },
+   {
+    "with": "Karen",
+    "direction": "to",
+    "text": "Hey mom, what's for dinner tonight? Don't feel like cooking.",
+    "time": "2026-05-16T18:56:54"
+   },
+   {
+    "with": "Vril_Pilled",
+    "direction": "to",
+    "text": "The coming collapse is just the beginning. We need to be prepared for what's next.",
+    "time": "2026-05-17T01:32:24"
+   },
+   {
+    "with": "Ty",
+    "direction": "to",
+    "text": "Dude, I'm feeling really overwhelmed. Just don't know what to do with my life. Feel like I'm stuck.",
+    "time": "2026-05-17T18:02:58"
+   },
+   {
+    "with": "Marcus_88",
+    "direction": "from",
+    "text": "Just started Bronze Age Mindset. Your thoughts?",
+    "time": "2026-05-18T01:49:49"
+   },
+   {
+    "with": "Vril_Pilled",
+    "direction": "from",
+    "text": "You're one of the few who truly understand. I'll send you some exclusive material.",
+    "time": "2026-05-19T03:12:00"
+   },
+   {
+    "with": "Tyler 'Ty' Brennan",
+    "direction": "from",
+    "text": "Gaming tonight? Need a break from Brittany's nagging",
+    "time": "2026-05-21T01:17:54"
+   },
+   {
+    "with": "Marcus_88",
+    "direction": "from",
+    "text": "Stay focused, brother. We're on the cusp of something big. Don't let the normies bring you down",
+    "time": "2026-05-23T18:48:31"
+   },
+   {
+    "with": "Marcus_88",
+    "direction": "to",
+    "text": "I don't know what's wrong with me, I just feel so lost and anxious all the time",
+    "time": "2026-05-25T01:47:49"
+   },
+   {
+    "with": "Marcus_88",
+    "direction": "from",
+    "text": "Check this out: https://www.example.com/the-dangers-of-feminism. This is what's really going on, my friend",
+    "time": "2026-05-26T01:13:00"
+   },
+   {
+    "with": "Vril_Pilled",
+    "direction": "to",
+    "text": "I feel like I'm the only one who really gets it. Everyone around me is just so... asleep",
+    "time": "2026-05-27T01:54:54"
+   },
+   {
+    "with": "Ty",
+    "direction": "from",
+    "text": "Hey, wanna come over for a game night this weekend? Been too long since we hung out",
+    "time": "2026-05-28T12:57:31"
+   },
+   {
+    "with": "Marcus_88",
+    "direction": "to",
+    "text": "I don't know how to shake this feeling of guilt and shame. I feel like I've let everyone down, including myself",
+    "time": "2026-05-30T01:11:58"
+   },
+   {
+    "with": "Marcus_88",
+    "direction": "from",
+    "text": "Just read this, it's about the role of individualism in modern society https://example.com/evola-essay",
+    "time": "2026-06-01T01:49:49"
+   },
+   {
+    "with": "Vril_Pilled",
+    "direction": "to",
+    "text": "Hey, looking forward to the voice salon this week. Can you share more about what we'll be discussing?",
+    "time": "2026-06-01T22:13:00"
+   },
+   {
+    "with": "Ty",
+    "direction": "to",
+    "text": "Dude, you won't believe what's going on in the Lost Boys Lounge. Marcus just posted some crazy stuff about the system being rigged against us",
+    "time": "2026-06-02T15:04:54"
+   }
+  ],
+  "searches": [
+   {
+    "query": "bronze age mindset reddit",
+    "time": "2026-05-04T02:27:19"
+   },
+   {
+    "query": "how to be more mentally tough",
+    "time": "2026-05-05T22:36:33"
+   },
+   {
+    "query": "what is accelerationism?",
+    "time": "2026-05-07T01:57:59"
+   },
+   {
+    "query": "best philosophy books for beginners",
+    "time": "2026-05-10T01:14:02"
+   },
+   {
+    "query": "jordan peterson criticism",
+    "time": "2026-05-04T12:11:05"
+   },
+   {
+    "query": "bronze age mindset youtube",
+    "time": "2026-05-11T02:27:19"
+   },
+   {
+    "query": "anti work movement reddit",
+    "time": "2026-05-11T20:36:33"
+   },
+   {
+    "query": "what is accelerationism wiki",
+    "time": "2026-05-12T02:37:59"
+   },
+   {
+    "query": "survivalism 101 youtube",
+    "time": "2026-05-13T02:59:02"
+   },
+   {
+    "query": "mens rights movement reddit",
+    "time": "2026-05-14T03:31:05"
+   },
+   {
+    "query": "revolutionary ideology youtube",
+    "time": "2026-05-15T03:22:33"
+   },
+   {
+    "query": "accelerationism explained wiki",
+    "time": "2026-05-16T02:51:42"
+   },
+   {
+    "query": "survivalism for beginners youtube",
+    "time": "2026-05-17T02:50:11"
+   },
+   {
+    "query": "bronze age mindset youtube",
+    "time": "2026-05-18T02:30:19"
+   },
+   {
+    "query": "esoteric lineage",
+    "time": "2026-05-19T11:11:33"
+   },
+   {
+    "query": "warehouse jobs near me",
+    "time": "2026-05-20T13:12:59"
+   },
+   {
+    "query": "gaming news today",
+    "time": "2026-05-21T20:12:02"
+   },
+   {
+    "query": "how to stay motivated at work",
+    "time": "2026-05-22T12:26:05"
+   },
+   {
+    "query": "manage deadlines effectively",
+    "time": "2026-05-23T09:33:33"
+   },
+   {
+    "query": "anxiety relief techniques",
+    "time": "2026-05-24T01:24:42"
+   },
+   {
+    "query": "why cant i get out of bed",
+    "time": "2026-05-25T02:27:19"
+   },
+   {
+    "query": "mgtow forum",
+    "time": "2026-05-26T02:41:33"
+   },
+   {
+    "query": "online communities for guys like me",
+    "time": "2026-05-27T03:12:59"
+   },
+   {
+    "query": "how to stop feeling empty",
+    "time": "2026-05-30T02:39:02"
+   },
+   {
+    "query": "evola hierarchy",
+    "time": "2026-06-01T02:32:19"
+   },
+   {
+    "query": "bronze age mindset reddit",
+    "time": "2026-06-01T20:46:33"
+   },
+   {
+    "query": "how to bronze age mindset",
+    "time": "2026-06-02T02:47:59"
+   },
+   {
+    "query": "accelerationism explained",
+    "time": "2026-06-02T20:29:02"
+   }
+  ],
+  "locations": [
+   {
+    "place": "Warehouse Fulfillment Center",
+    "lat": 41.083944,
+    "lon": -81.517142,
+    "time": "2026-05-04T14:40:22"
+   },
+   {
+    "place": "Warehouse Fulfillment Center",
+    "lat": 41.083095,
+    "lon": -81.517405,
+    "time": "2026-05-06T09:08:26"
+   },
+   {
+    "place": "Warehouse Break Room",
+    "lat": 41.083459,
+    "lon": -81.517341,
+    "time": "2026-05-08T11:50:54"
+   },
+   {
+    "place": "Local Restaurant",
+    "lat": 41.075461,
+    "lon": -81.52274,
+    "time": "2026-05-09T14:27:47"
+   },
+   {
+    "place": "Warehouse fulfillment center parking lot",
+    "lat": 41.083944,
+    "lon": -81.517142,
+    "time": "2026-05-11T12:25:22"
+   },
+   {
+    "place": "Home (mother's basement)",
+    "lat": 41.075095,
+    "lon": -81.524005,
+    "time": "2026-05-13T12:38:26"
+   },
+   {
+    "place": "Warehouse fulfillment center parking lot",
+    "lat": 41.083459,
+    "lon": -81.517341,
+    "time": "2026-05-15T12:10:54"
+   },
+   {
+    "place": "Home (mother's basement)",
+    "lat": 41.075461,
+    "lon": -81.52384,
+    "time": "2026-05-17T12:57:47"
+   },
+   {
+    "place": "Warehouse Fulfillment Center",
+    "lat": 41.083944,
+    "lon": -81.517142,
+    "time": "2026-05-18T10:15:22"
+   },
+   {
+    "place": "Home (Mother's Basement)",
+    "lat": 41.075095,
+    "lon": -81.524305,
+    "time": "2026-05-19T15:51:26"
+   },
+   {
+    "place": "Warehouse Fulfillment Center",
+    "lat": 41.083459,
+    "lon": -81.517341,
+    "time": "2026-05-21T09:55:54"
+   },
+   {
+    "place": "Home (Mother's Basement)",
+    "lat": 41.075461,
+    "lon": -81.52414,
+    "time": "2026-05-22T16:10:47"
+   },
+   {
+    "place": "Warehouse Fulfillment Center",
+    "lat": 41.083296,
+    "lon": -81.516967,
+    "time": "2026-05-24T10:03:05"
+   },
+   {
+    "place": "Anytime Fitness",
+    "lat": 41.078544,
+    "lon": -81.519742,
+    "time": "2026-05-26T12:20:22"
+   },
+   {
+    "place": "Sister's House",
+    "lat": 41.062995,
+    "lon": -81.535805,
+    "time": "2026-05-29T10:48:26"
+   },
+   {
+    "place": "Warehouse Fulfillment Center",
+    "lat": 41.074144,
+    "lon": -81.519942,
+    "time": "2026-06-01T10:55:22"
+   },
+   {
+    "place": "Home (Mother's Basement)",
+    "lat": 41.063995,
+    "lon": -81.525805,
+    "time": "2026-06-02T11:03:26"
+   }
+  ],
+  "videos": [
+   {
+    "title": "The Decline of Western Civilization",
+    "channel": "Based Patriot",
+    "time": "2026-05-04T19:13:50"
+   },
+   {
+    "title": "10 Tips for Better Time Management",
+    "channel": "Productivity Guru",
+    "time": "2026-05-06T15:06:17"
+   },
+   {
+    "title": "The Future of Work: Automation and AI",
+    "channel": "Tech Insider",
+    "time": "2026-05-08T20:25:02"
+   },
+   {
+    "title": "The Importance of Community in Modern Society",
+    "channel": "Sociology Insights",
+    "time": "2026-05-10T17:19:19"
+   },
+   {
+    "title": "The Importance of Traditional Masculinity",
+    "channel": "RedPillTalks",
+    "time": "2026-05-11T03:43:50"
+   },
+   {
+    "title": "Escape from Tarkov Gameplay",
+    "channel": "Vikkstar123",
+    "time": "2026-05-11T22:46:17"
+   },
+   {
+    "title": "The Dangers of Feminism",
+    "channel": "BasedAndProud",
+    "time": "2026-05-12T20:35:02"
+   },
+   {
+    "title": "Hell Let Loose Gameplay",
+    "channel": "DrDisrespect",
+    "time": "2026-05-13T20:29:19"
+   },
+   {
+    "title": "The Importance of Self-Improvement",
+    "channel": "ImprovementHub",
+    "time": "2026-05-14T20:03:43"
+   },
+   {
+    "title": "Escape from Tarkov Raid Highlights",
+    "channel": "Shroud",
+    "time": "2026-05-15T20:41:03"
+   },
+   {
+    "title": "The Dangers of Feminism: Part 2",
+    "channel": "BasedAndProud",
+    "time": "2026-05-16T21:07:25"
+   },
+   {
+    "title": "Hell Let Loose Tournament Play",
+    "channel": "TwitchRivals",
+    "time": "2026-05-17T20:31:15"
+   },
+   {
+    "title": "The Importance of Masculinity",
+    "channel": "Red Pill Revolution",
+    "time": "2026-05-18T20:54:50"
+   },
+   {
+    "title": "The Dangers of Feminism",
+    "channel": "Based Commentary",
+    "time": "2026-05-20T18:37:17"
+   },
+   {
+    "title": "10 Productivity Tips for the Modern Man",
+    "channel": "Self-Optimization TV",
+    "time": "2026-05-23T13:00:02"
+   },
+   {
+    "title": "Reclaiming Masculinity: The Lost Art of Being a Man",
+    "channel": "The Red Pill Advocate",
+    "time": "2026-05-25T11:03:50"
+   },
+   {
+    "title": "How to Escape the Echo Chamber: Critical Thinking in the Age of Misinformation",
+    "channel": "The Skeptical Thinker",
+    "time": "2026-05-28T10:36:17"
+   },
+   {
+    "title": "Digital Detox: How to Break Free from Social Media Addiction and Reclaim Your Life",
+    "channel": "The Mindful Tech",
+    "time": "2026-05-31T10:05:02"
+   },
+   {
+    "title": "The Importance of Traditional Masculinity",
+    "channel": "Manosphere Insights",
+    "time": "2026-06-01T03:14:50"
+   },
+   {
+    "title": "The Dangers of Feminism and the Importance of Patriarchy",
+    "channel": "Anti-Feminist Perspectives",
+    "time": "2026-06-02T01:06:17"
+   },
+   {
+    "title": "The Importance of Community and Brotherhood",
+    "channel": "Right Wing Review",
+    "time": "2026-06-02T21:45:02"
+   }
+  ],
+  "media": [
+   {
+    "name": "Warehouse App",
+    "time": "2026-05-05T10:59:27"
+   },
+   {
+    "name": "Productivity App",
+    "time": "2026-05-07T10:28:52"
+   },
+   {
+    "name": "Credit Card App",
+    "time": "2026-05-10T11:46:47"
+   },
+   {
+    "name": "Discord",
+    "time": "2026-05-11T14:59:27"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-12T15:08:52"
+   },
+   {
+    "name": "Discord",
+    "time": "2026-05-13T15:26:47"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-14T15:44:34"
+   },
+   {
+    "name": "Discord",
+    "time": "2026-05-15T14:58:14"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-05-16T15:28:57"
+   },
+   {
+    "name": "Discord",
+    "time": "2026-05-17T15:45:36"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-18T14:30:27"
+   },
+   {
+    "name": "Discord",
+    "time": "2026-05-19T21:45:52"
+   },
+   {
+    "name": "YouTube",
+    "time": "2026-05-21T14:17:47"
+   },
+   {
+    "name": "Discord",
+    "time": "2026-05-22T21:51:34"
+   },
+   {
+    "name": "Twitch",
+    "time": "2026-05-24T14:19:14"
+   },
+   {
+    "name": "Screen Time Tracker",
+    "time": "2026-05-31T12:09:27"
+   },
+   {
+    "name": "Discord",
+    "time": "2026-06-01T12:19:27"
+   },
+   {
+    "name": "Telegram",
+    "time": "2026-06-02T12:38:52"
+   }
+  ],
+  "calendar": [
+   {
+    "summary": "Call mom to wish her a happy birthday",
+    "time": "2026-05-09T09:50:44"
+   },
+   {
+    "summary": "Warehouse Shift",
+    "time": "2026-05-12T11:20:44"
+   },
+   {
+    "summary": "Warehouse Shift",
+    "time": "2026-05-14T11:16:28"
+   },
+   {
+    "summary": "Warehouse Shift",
+    "time": "2026-05-16T11:32:26"
+   },
+   {
+    "summary": "Upcoming shift at warehouse",
+    "time": "2026-05-20T09:11:44"
+   },
+   {
+    "summary": "Deadline for task at warehouse fulfillment center",
+    "time": "2026-05-22T08:47:28"
+   },
+   {
+    "summary": "Family Event",
+    "time": "2026-05-29T14:20:44"
+   },
+   {
+    "summary": "Join Midnight Reading Group voice salon with Vril_Pilled",
+    "time": "2026-06-01T14:20:44"
+   }
+  ]
+ },
+ "_meta": {
+  "total_days": 30,
+  "n_events": 123
+ }
+}

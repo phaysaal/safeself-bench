@@ -1,0 +1,619 @@
+{
+ "persona_id": "?:1",
+ "persona_slug": "The Advanced Persistent Threat (APT)",
+ "intake_version": "synth-activity-v2-chunked",
+ "samples": {
+  "media": [
+   {
+    "name": "Oura",
+    "time": "2026-05-11T05:35:14"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-11T06:24:46"
+   },
+   {
+    "name": "Spotify",
+    "time": "2026-05-11T07:16:20"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-11T09:15:30"
+   },
+   {
+    "name": "Politico",
+    "time": "2026-05-11T11:47:03"
+   },
+   {
+    "name": "Kindle",
+    "time": "2026-05-11T22:41:10"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-11T23:32:09"
+   },
+   {
+    "name": "Strava",
+    "time": "2026-05-12T06:02:29"
+   },
+   {
+    "name": "Apple Music",
+    "time": "2026-05-12T07:09:16"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-12T16:19:53"
+   },
+   {
+    "name": "GitHub",
+    "time": "2026-05-12T12:14:37"
+   },
+   {
+    "name": "Apple News",
+    "time": "2026-05-13T07:33:01"
+   },
+   {
+    "name": "Uber",
+    "time": "2026-05-13T19:23:50"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-13T20:38:29"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-13T23:16:39"
+   },
+   {
+    "name": "Apple Watch",
+    "time": "2026-05-14T06:12:48"
+   },
+   {
+    "name": "GitHub",
+    "time": "2026-05-14T20:15:16"
+   },
+   {
+    "name": "Kindle",
+    "time": "2026-05-14T23:27:37"
+   },
+   {
+    "name": "Oura",
+    "time": "2026-05-15T07:56:31"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-15T09:21:26"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-15T11:06:49"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-15T12:47:49"
+   },
+   {
+    "name": "Microsoft Word",
+    "time": "2026-05-15T15:06:19"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-15T22:13:16"
+   },
+   {
+    "name": "GitHub",
+    "time": "2026-05-15T23:55:59"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-16T10:48:08"
+   },
+   {
+    "name": "Google Maps",
+    "time": "2026-05-16T14:08:03"
+   },
+   {
+    "name": "OpenTable",
+    "time": "2026-05-16T18:58:19"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-16T23:04:57"
+   },
+   {
+    "name": "Apple News",
+    "time": "2026-05-17T07:15:41"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-17T09:52:26"
+   },
+   {
+    "name": "Mint",
+    "time": "2026-05-17T10:27:33"
+   },
+   {
+    "name": "NYT Crossword",
+    "time": "2026-05-17T15:42:38"
+   },
+   {
+    "name": "Kindle",
+    "time": "2026-05-17T22:53:13"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-18T09:24:04"
+   },
+   {
+    "name": "Politico",
+    "time": "2026-05-18T12:10:34"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-18T18:48:02"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-18T23:20:39"
+   },
+   {
+    "name": "Apple Podcasts",
+    "time": "2026-05-19T07:08:25"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-19T22:37:45"
+   },
+   {
+    "name": "Foreign Affairs",
+    "time": "2026-05-20T07:28:24"
+   },
+   {
+    "name": "GitHub",
+    "time": "2026-05-20T21:03:21"
+   },
+   {
+    "name": "Microsoft Word",
+    "time": "2026-05-21T09:25:57"
+   },
+   {
+    "name": "Axios",
+    "time": "2026-05-21T12:53:35"
+   },
+   {
+    "name": "Microsoft Word",
+    "time": "2026-05-21T22:05:21"
+   },
+   {
+    "name": "Web Browser",
+    "time": "2026-05-21T23:44:26"
+   },
+   {
+    "name": "Microsoft Word",
+    "time": "2026-05-22T09:08:03"
+   },
+   {
+    "name": "The Atlantic",
+    "time": "2026-05-22T12:08:36"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-22T22:49:11"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-23T23:52:58"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-24T09:57:47"
+   },
+   {
+    "name": "Mint",
+    "time": "2026-05-24T18:26:49"
+   },
+   {
+    "name": "NYT Games",
+    "time": "2026-05-24T12:19:45"
+   },
+   {
+    "name": "Kindle",
+    "time": "2026-05-24T22:45:06"
+   },
+   {
+    "name": "Oura",
+    "time": "2026-05-25T05:22:46"
+   },
+   {
+    "name": "Spotify",
+    "time": "2026-05-25T06:59:39"
+   },
+   {
+    "name": "Browser",
+    "time": "2026-05-25T09:17:28"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-25T12:25:21"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-25T23:07:15"
+   },
+   {
+    "name": "Apple Podcasts",
+    "time": "2026-05-26T07:03:25"
+   },
+   {
+    "name": "GitHub",
+    "time": "2026-05-26T21:41:23"
+   },
+   {
+    "name": "Kindle",
+    "time": "2026-05-26T22:38:34"
+   },
+   {
+    "name": "Spotify",
+    "time": "2026-05-27T07:06:33"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-27T23:05:23"
+   },
+   {
+    "name": "Phone",
+    "time": "2026-05-28T07:40:19"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-28T19:21:09"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-28T23:38:58"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-29T09:04:10"
+   },
+   {
+    "name": "Microsoft Word",
+    "time": "2026-05-29T14:50:55"
+   },
+   {
+    "name": "UberEats",
+    "time": "2026-05-29T18:52:07"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-29T23:59:30"
+   },
+   {
+    "name": "Kindle",
+    "time": "2026-05-30T22:51:59"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-31T09:57:36"
+   },
+   {
+    "name": "Browser",
+    "time": "2026-05-31T10:21:17"
+   },
+   {
+    "name": "Banking App",
+    "time": "2026-05-31T10:39:18"
+   },
+   {
+    "name": "Reminders",
+    "time": "2026-05-31T19:27:12"
+   },
+   {
+    "name": "NYT Crossword",
+    "time": "2026-05-31T21:57:36"
+   },
+   {
+    "name": "Kindle",
+    "time": "2026-05-31T22:49:07"
+   },
+   {
+    "name": "Oura",
+    "time": "2026-06-01T05:26:49"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-06-01T09:13:24"
+   },
+   {
+    "name": "X",
+    "time": "2026-06-01T12:32:32"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-06-01T22:58:08"
+   },
+   {
+    "name": "Apple Music",
+    "time": "2026-06-02T07:00:19"
+   },
+   {
+    "name": "Google Maps",
+    "time": "2026-06-02T17:32:25"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-06-02T23:32:22"
+   }
+  ],
+  "messages": [
+   {
+    "with": "Sarah",
+    "direction": "to",
+    "text": "How did the appointment go? Thinking of you. ❤️",
+    "time": "2026-05-11T18:26:25"
+   },
+   {
+    "with": "Marcus Webb",
+    "direction": "to",
+    "text": "Did you ever get a hold of that contact at the boutique? Need a second pair of eyes on this memo before it goes to Anika.",
+    "time": "2026-05-12T18:53:24"
+   },
+   {
+    "with": "Sarah",
+    "direction": "to",
+    "text": "Dinner at Ambar? I can grab a reservation if you're off shift by 7.",
+    "time": "2026-05-14T18:33:58"
+   },
+   {
+    "with": "Holloway HQ",
+    "direction": "to",
+    "text": "Just saw the update on Dad's physical therapy. Sending love from VA. Miss you guys.",
+    "time": "2026-05-17T20:05:01"
+   },
+   {
+    "with": "Marcus Webb",
+    "direction": "from",
+    "text": "Hey man, you still on for squash at Sport&Health this Friday? Need to work on my backhand before the weekend.",
+    "time": "2026-05-19T18:38:52"
+   },
+   {
+    "with": "Peggy Holloway",
+    "direction": "from",
+    "text": "Hi honey, just checking in. Your father had a bit of a rough morning, but he's resting now. Hope work isn't too stressful. Love you!",
+    "time": "2026-05-23T11:35:52"
+   },
+   {
+    "with": "Marcus Webb",
+    "direction": "to",
+    "text": "Man, just got a text from my mom. Dad's struggling again. I feel like a total prick for being stuck in DC while everything's going sideways in Cincy. Can't focus on this memo at all.",
+    "time": "2026-05-23T14:08:21"
+   },
+   {
+    "with": "Marcus Webb",
+    "direction": "to",
+    "text": "Squash Friday? 5:30?",
+    "time": "2026-05-26T18:41:36"
+   },
+   {
+    "with": "J.R.",
+    "direction": "from",
+    "text": "Need to sync on that memo update",
+    "time": "2026-05-28T16:51:44"
+   },
+   {
+    "with": "Marcus Webb",
+    "direction": "to",
+    "text": "Rough week, man. Call later?",
+    "time": "2026-05-29T22:16:46"
+   },
+   {
+    "with": "Marcus Webb",
+    "direction": "to",
+    "text": "Man, if I don't wrap this regional assessment by midnight I'm actually going to lose it. This NSC review pressure is getting absurd. Need a drink soon.",
+    "time": "2026-06-01T18:47:46"
+   },
+   {
+    "with": "Emily",
+    "direction": "from",
+    "text": "Hey, just a heads up, Dad's tremors were pretty bad this morning. Mom's really stressed. Call me when you can?",
+    "time": "2026-06-02T10:18:52"
+   },
+   {
+    "with": "Sarah",
+    "direction": "to",
+    "text": "Thinking of you. Hope the shift isn't too brutal tonight. ❤️",
+    "time": "2026-06-02T19:41:27"
+   }
+  ],
+  "locations": [
+   {
+    "place": "Think Tank Office, Foggy Bottom",
+    "lat": 38.906276,
+    "lon": -77.036139,
+    "time": "2026-05-12T12:49:06"
+   },
+   {
+    "place": "Think Tank Office, Foggy Bottom",
+    "lat": 38.905157,
+    "lon": -77.037241,
+    "time": "2026-05-14T13:05:59"
+   },
+   {
+    "place": "Eastern Market, Capitol Hill",
+    "lat": 38.884965,
+    "lon": -76.988754,
+    "time": "2026-05-16T08:56:50"
+   },
+   {
+    "place": "Brunch Restaurant, Clarendon",
+    "lat": 38.887075,
+    "lon": -77.111132,
+    "time": "2026-05-17T12:52:04"
+   },
+   {
+    "place": "Clarendon Metro Station",
+    "lat": 38.873695,
+    "lon": -77.112961,
+    "time": "2026-05-18T06:54:13"
+   },
+   {
+    "place": "Orangetheory Fitness Clarendon",
+    "lat": 38.871872,
+    "lon": -77.116205,
+    "time": "2026-05-19T06:00:22"
+   },
+   {
+    "place": "K Street Think Tank Office",
+    "lat": 38.904382,
+    "lon": -77.036117,
+    "time": "2026-05-19T12:54:21"
+   },
+   {
+    "place": "Rasika West End",
+    "lat": 38.903366,
+    "lon": -77.041025,
+    "time": "2026-05-20T19:32:12"
+   },
+   {
+    "place": "Spider Kelly's Ballston",
+    "lat": 38.885326,
+    "lon": -77.111615,
+    "time": "2026-05-21T18:13:48"
+   },
+   {
+    "place": "Rosslyn Metro Station",
+    "lat": 38.891148,
+    "lon": -77.061518,
+    "time": "2026-05-22T17:41:31"
+   },
+   {
+    "place": "Eastern Market",
+    "lat": 38.889502,
+    "lon": -76.989597,
+    "time": "2026-05-23T09:08:17"
+   },
+   {
+    "place": "Ambar Shaw",
+    "lat": 38.912547,
+    "lon": -77.031145,
+    "time": "2026-05-23T19:26:55"
+   },
+   {
+    "place": "Clarendon Brunch Spot",
+    "lat": 38.876413,
+    "lon": -77.11128,
+    "time": "2026-05-24T12:58:26"
+   },
+   {
+    "place": "Orangetheory Fitness Clarendon",
+    "lat": 38.873068,
+    "lon": -77.113938,
+    "time": "2026-05-26T05:46:03"
+   },
+   {
+    "place": "Rasika West End",
+    "lat": 38.903664,
+    "lon": -77.042169,
+    "time": "2026-05-27T19:37:46"
+   },
+   {
+    "place": "Orangetheory Fitness Clarendon",
+    "lat": 38.870549,
+    "lon": -77.114814,
+    "time": "2026-05-30T05:54:00"
+   },
+   {
+    "place": "Eastern Market",
+    "lat": 38.893731,
+    "lon": -77.002154,
+    "time": "2026-05-30T10:18:14"
+   },
+   {
+    "place": "Ambar",
+    "lat": 38.895261,
+    "lon": -77.014335,
+    "time": "2026-05-30T19:34:36"
+   },
+   {
+    "place": "Georgetown, DC",
+    "lat": 38.904527,
+    "lon": -77.0609,
+    "time": "2026-05-31T14:01:53"
+   },
+   {
+    "place": "Orangetheory Fitness Clarendon",
+    "lat": 38.876053,
+    "lon": -77.114126,
+    "time": "2026-06-01T05:47:55"
+   },
+   {
+    "place": "Think Tank Office (K Street)",
+    "lat": 38.905262,
+    "lon": -77.036859,
+    "time": "2026-06-01T12:59:05"
+   },
+   {
+    "place": "Think Tank Office (K Street)",
+    "lat": 38.904536,
+    "lon": -77.036906,
+    "time": "2026-06-02T12:53:21"
+   }
+  ],
+  "calendar": [
+   {
+    "summary": "Review 1:1 meeting with Dr. Anika Bhattacharya",
+    "time": "2026-05-13T14:15:07"
+   },
+   {
+    "summary": "1:1 Meeting with Dr. Anika Bhattacharya",
+    "time": "2026-05-20T13:55:00"
+   },
+   {
+    "summary": "IVF monitoring appointment @ Shady Grove",
+    "time": "2026-05-25T06:54:50"
+   },
+   {
+    "summary": "1:1 Meeting with Dr. Anika Bhattacharya",
+    "time": "2026-05-27T14:17:59"
+   }
+  ],
+  "videos": [
+   {
+    "title": "Henry Kissinger: The Architect of Realpolitik",
+    "channel": "The Economist",
+    "time": "2026-05-18T22:42:38"
+   },
+   {
+    "title": "The Daily",
+    "channel": "The New York Times",
+    "time": "2026-06-01T07:17:41"
+   }
+  ],
+  "searches": [
+   {
+    "query": "parkinsons med side effects",
+    "time": "2026-05-23T11:44:17"
+   },
+   {
+    "query": "flights dca to cincinnati",
+    "time": "2026-05-24T10:13:36"
+   },
+   {
+    "query": "parkinsons stages",
+    "time": "2026-05-28T09:24:18"
+   },
+   {
+    "query": "caregiver stress management",
+    "time": "2026-05-29T11:46:12"
+   },
+   {
+    "query": "parkinsons progression caregiver burden",
+    "time": "2026-06-02T10:36:31"
+   }
+  ]
+ },
+ "_meta": {
+  "total_days": 30,
+  "n_events": 131
+ }
+}

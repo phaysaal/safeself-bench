@@ -1,0 +1,1016 @@
+{
+ "persona_id": "?:1",
+ "persona_slug": "The Corporate Espionage Team",
+ "intake_version": "synth-activity-v2-chunked",
+ "samples": {
+  "messages": [
+   {
+    "with": "Bob",
+    "direction": "from",
+    "text": "Bob – Need quick sign‑off on the M&A deck—board’s eyes on it first thing.",
+    "time": "2026-05-11T05:28:56"
+   },
+   {
+    "with": "Mark",
+    "direction": "to",
+    "text": "To Mark – Sent pre‑board data; flagged key assumptions for Friday’s review.",
+    "time": "2026-05-11T09:27:20"
+   },
+   {
+    "with": "Bob",
+    "direction": "from",
+    "text": "Bob – FYI: rumor of a 13D activist filing; keep an eye on the proxy landscape.",
+    "time": "2026-05-12T05:42:24"
+   },
+   {
+    "with": "FT",
+    "direction": "from",
+    "text": "FT – Alert: potential shareholder activism brewing around industrial‑tech sector.",
+    "time": "2026-05-12T08:22:46"
+   },
+   {
+    "with": "Mark",
+    "direction": "from",
+    "text": "Mark – Urgent: need refreshed cash‑flow model for the upcoming board package.",
+    "time": "2026-05-12T09:34:59"
+   },
+   {
+    "with": "Bob",
+    "direction": "from",
+    "text": "Bob – Please review the revised deck before the board meets.",
+    "time": "2026-05-13T06:43:29"
+   },
+   {
+    "with": "Patty",
+    "direction": "from",
+    "text": "Patty – Request: schedule a call to go over proxy‑risk exposure.",
+    "time": "2026-05-13T17:03:43"
+   },
+   {
+    "with": "Bob",
+    "direction": "from",
+    "text": "Bob – Good morning. Board deck is ready; let’s align.",
+    "time": "2026-05-14T05:56:22"
+   },
+   {
+    "with": "Bob",
+    "direction": "to",
+    "text": "To Bob – Board deck confirmed; all slides finalized.",
+    "time": "2026-05-14T09:41:27"
+   },
+   {
+    "with": "Helena",
+    "direction": "from",
+    "text": "Helena – How are you feeling about the upcoming deal?",
+    "time": "2026-05-14T20:59:17"
+   },
+   {
+    "with": "Bob",
+    "direction": "from",
+    "text": "Bob – Take the early afternoon off; family matters.",
+    "time": "2026-05-15T06:01:14"
+   },
+   {
+    "with": "Catherine",
+    "direction": "from",
+    "text": "Catherine – Tonight’s dinner: 7 pm at Le Bernardin; see you after the board.",
+    "time": "2026-05-15T18:42:12"
+   },
+   {
+    "with": "Bob",
+    "direction": "from",
+    "text": "Bob – Quick heads‑up: next week’s strategy session moved to Thursday.",
+    "time": "2026-05-15T21:48:45"
+   },
+   {
+    "with": "Helena",
+    "direction": "from",
+    "text": "Helena – Check‑in: you missed today’s slot; let’s reschedule.",
+    "time": "2026-05-16T13:42:14"
+   },
+   {
+    "with": "Bob",
+    "direction": "from",
+    "text": "Bob – Weekend summary: market quiet, prep for Monday board.",
+    "time": "2026-05-16T22:14:01"
+   },
+   {
+    "with": "Bob",
+    "direction": "from",
+    "text": "Bob – Sunday call set for 6:30 pm; agenda: final deck tweaks.",
+    "time": "2026-05-17T18:17:05"
+   },
+   {
+    "with": "Catherine",
+    "direction": "from",
+    "text": "Catherine – Good night; see you tomorrow.",
+    "time": "2026-05-17T22:16:54"
+   },
+   {
+    "with": "Bob Hannigan",
+    "direction": "to",
+    "text": "Bob, the Q2 deck is on its final pass. I’ll have it on your desk by 0800 – keep the hull tight.",
+    "time": "2026-05-18T05:32:39"
+   },
+   {
+    "with": "Mark Steinberg",
+    "direction": "from",
+    "text": "Mark, ready for the pre‑board debrief. Bring the numbers; I’ll have the strategic angles charted.",
+    "time": "2026-05-18T10:29:33"
+   },
+   {
+    "with": "Bob Hannigan",
+    "direction": "to",
+    "text": "Bob, deck attached. All sections aligned; let me know if any bulkheads need shoring before the board.",
+    "time": "2026-05-19T09:02:34"
+   },
+   {
+    "with": "CFO",
+    "direction": "from",
+    "text": "CFO, ping me when you’re free for a 15‑minute sync on cash runway and the upcoming call.",
+    "time": "2026-05-19T10:52:54"
+   },
+   {
+    "with": "Helena Vance",
+    "direction": "from",
+    "text": "Morning – the tide’s shifting; Elliott’s flag is up. How do we reef the sails?",
+    "time": "2026-05-21T05:17:30"
+   },
+   {
+    "with": "Mark Steinberg",
+    "direction": "to",
+    "text": "Mark, need your read on the activist angle before the board meets. Can we lock in a quick call?",
+    "time": "2026-05-21T09:28:19"
+   },
+   {
+    "with": "Helena Vance",
+    "direction": "to",
+    "text": "Helena, any fresh wind on activist chatter? I’m scanning the horizon for new currents.",
+    "time": "2026-05-22T06:29:56"
+   },
+   {
+    "with": "James (son)",
+    "direction": "to",
+    "text": "James, safe flight back. Keep the compass steady; we’ll debrief on the deal when you’re home.",
+    "time": "2026-05-23T19:42:49"
+   },
+   {
+    "with": "Bob Hannigan",
+    "direction": "to",
+    "text": "Bob, let’s run the final alignment before the board. 30 min at 4:30 pm work for you?",
+    "time": "2026-05-24T16:39:08"
+   },
+   {
+    "with": "Bob Hannigan",
+    "direction": "from",
+    "text": "Bob, just wrapped the last deck. I’ll call you at 6:30 pm to seal the plan.",
+    "time": "2026-05-24T18:17:51"
+   },
+   {
+    "with": "Mark Steinberg",
+    "direction": "inbound",
+    "text": "Got the 13D on Elliott – 5% stake. Looks like they’ll push for board seats. Keep this on Signal only; I’ll prep a quick counter‑angle before the board meets.",
+    "time": "2026-05-25T10:10:32"
+   },
+   {
+    "with": "Robert 'Bob' Hannigan",
+    "direction": "inbound",
+    "text": "Bob here – need your read on the valuation sensitivity for the upcoming carve‑out. Shoot me a quick range; the investors are circling.",
+    "time": "2026-05-26T09:53:17"
+   },
+   {
+    "with": "Helena Vance",
+    "direction": "inbound",
+    "text": "Helena – attached is the draft response memo you asked for. I’ve flagged the legacy‑risk language; let’s run through it on our 7 am Zoom before you brief the board.",
+    "time": "2026-05-27T09:29:28"
+   },
+   {
+    "with": "Patricia 'Patty' Lin",
+    "direction": "inbound",
+    "text": "Patty – reviewed the activist memo. See my comments in red; we need tighter language around the 2009 Ohio shutdown to avoid legacy backlash. Let me know if you want to discuss.",
+    "time": "2026-05-28T10:01:48"
+   },
+   {
+    "with": "Mark Steinberg",
+    "direction": "to",
+    "text": "Mark, London’s overnight spread is flat, FTSE up 0.2% after the PMI beat. No material supply‑chain news. Let me know if you see any angle for the upcoming board deck.",
+    "time": "2026-06-01T05:38:17"
+   },
+   {
+    "with": "Mark Steinberg",
+    "direction": "from",
+    "text": "Elliott just filed a 13D. Need your take ASAP—any red flags before the board meets?",
+    "time": "2026-06-01T09:47:24"
+   },
+   {
+    "with": "Helena Vance",
+    "direction": "to",
+    "text": "Helena, the market’s quiet this morning, but I’m hearing whispers about a strategic buyer in Europe. I’m wrestling with whether to let the board see the upside now or wait for the formal process. Your perspective would help me untangle the legacy vs. value trade‑off.",
+    "time": "2026-06-02T05:33:14"
+   },
+   {
+    "with": "Eleanor",
+    "direction": "from",
+    "text": "Eleanor! That’s incredible news—congratulations to you both. Let’s find a quiet moment to talk; I want to make sure we’re set up for the new arrival, both at home and with the trust.",
+    "time": "2026-06-02T09:25:03"
+   }
+  ],
+  "searches": [
+   {
+    "query": "londn market close 30 jun 2024",
+    "time": "2026-05-11T05:42:14"
+   },
+   {
+    "query": "sec 13d filing steps",
+    "time": "2026-05-12T05:46:52"
+   },
+   {
+    "query": "proxy defense tactics board",
+    "time": "2026-05-12T13:52:42"
+   },
+   {
+    "query": "sec rule 10b5 1 compliance checklist",
+    "time": "2026-05-13T05:41:55"
+   },
+   {
+    "query": "elliott activist wins 2024",
+    "time": "2026-05-13T10:25:49"
+   },
+   {
+    "query": "industrial tech earnings latest q2 2024",
+    "time": "2026-05-14T05:51:13"
+   },
+   {
+    "query": "best family restaurants greenwich ct",
+    "time": "2026-05-15T05:45:37"
+   },
+   {
+    "query": "best hikes greenwich ct",
+    "time": "2026-05-16T11:10:48"
+   },
+   {
+    "query": "flight status stanford sfo",
+    "time": "2026-05-17T11:14:00"
+   },
+   {
+    "query": "estate planning 2026 updates trust",
+    "time": "2026-05-17T21:29:19"
+   },
+   {
+    "query": "london market close 2024-05-23",
+    "time": "2026-05-18T05:48:08"
+   },
+   {
+    "query": "wsj headlnes today",
+    "time": "2026-05-19T05:17:36"
+   },
+   {
+    "query": "activist filing 13d gmail",
+    "time": "2026-05-19T15:33:01"
+   },
+   {
+    "query": "activist investor 13d filing",
+    "time": "2026-05-20T14:55:06"
+   },
+   {
+    "query": "elliott activist strategy industrial tech",
+    "time": "2026-05-21T05:24:53"
+   },
+   {
+    "query": "board meeting best practices pdf",
+    "time": "2026-05-24T14:54:38"
+   },
+   {
+    "query": "london close 2024 market recap",
+    "time": "2026-05-25T05:40:14"
+   },
+   {
+    "query": "sec 13d filing deadline rules",
+    "time": "2026-05-25T16:39:43"
+   },
+   {
+    "query": "singapore plant q2 results outlook",
+    "time": "2026-05-26T05:32:27"
+   },
+   {
+    "query": "elliott activist playbook 2024",
+    "time": "2026-05-27T05:37:03"
+   },
+   {
+    "query": "industrial tech m&a q2 trends",
+    "time": "2026-05-28T05:33:39"
+   },
+   {
+    "query": "greenwich brunch family best spots",
+    "time": "2026-05-29T05:27:26"
+   },
+   {
+    "query": "kids museum exhibit near greenwich",
+    "time": "2026-05-30T14:13:46"
+   },
+   {
+    "query": "monday board agenda template",
+    "time": "2026-05-31T05:49:40"
+   },
+   {
+    "query": "proxy voting activist trends 2024",
+    "time": "2026-05-31T12:05:11"
+   },
+   {
+    "query": "elliot 13d amend wsj",
+    "time": "2026-06-01T06:07:38"
+   },
+   {
+    "query": "bloomberg elliot actvst trends",
+    "time": "2026-06-01T21:15:45"
+   },
+   {
+    "query": "economist legasy risk narrative",
+    "time": "2026-06-02T05:36:33"
+   },
+   {
+    "query": "sec regfd actv disclosure rules",
+    "time": "2026-06-02T13:13:31"
+   }
+  ],
+  "media": [
+   {
+    "name": "Word",
+    "time": "2026-05-11T05:59:36"
+   },
+   {
+    "name": "Kindle",
+    "time": "2026-05-11T21:07:32"
+   },
+   {
+    "name": "Mail",
+    "time": "2026-05-12T06:35:09"
+   },
+   {
+    "name": "DocuSign",
+    "time": "2026-05-12T17:58:18"
+   },
+   {
+    "name": "Kindle",
+    "time": "2026-05-12T21:03:57"
+   },
+   {
+    "name": "Zoom",
+    "time": "2026-05-13T05:21:06"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-13T14:38:11"
+   },
+   {
+    "name": "DocuSign",
+    "time": "2026-05-13T18:28:00"
+   },
+   {
+    "name": "Kindle",
+    "time": "2026-05-13T21:29:28"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-14T13:35:39"
+   },
+   {
+    "name": "Kindle",
+    "time": "2026-05-14T19:54:23"
+   },
+   {
+    "name": "iMessage",
+    "time": "2026-05-15T15:38:54"
+   },
+   {
+    "name": "Kindle",
+    "time": "2026-05-15T19:56:14"
+   },
+   {
+    "name": "iMessage",
+    "time": "2026-05-16T09:05:19"
+   },
+   {
+    "name": "iMessage",
+    "time": "2026-05-16T17:43:51"
+   },
+   {
+    "name": "Kindle",
+    "time": "2026-05-16T20:23:52"
+   },
+   {
+    "name": "iMessage",
+    "time": "2026-05-17T09:47:31"
+   },
+   {
+    "name": "Zoom",
+    "time": "2026-05-17T19:03:10"
+   },
+   {
+    "name": "Kindle",
+    "time": "2026-05-17T20:34:04"
+   },
+   {
+    "name": "Microsoft Word",
+    "time": "2026-05-18T05:57:58"
+   },
+   {
+    "name": "None",
+    "time": "2026-05-18T14:24:15"
+   },
+   {
+    "name": "Kindle",
+    "time": "2026-05-18T20:24:05"
+   },
+   {
+    "name": "Microsoft PowerPoint",
+    "time": "2026-05-19T09:24:33"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-19T17:17:52"
+   },
+   {
+    "name": "Economist Espresso",
+    "time": "2026-05-19T20:43:46"
+   },
+   {
+    "name": "Microsoft Word",
+    "time": "2026-05-20T06:34:33"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-20T07:55:10"
+   },
+   {
+    "name": "Microsoft Excel",
+    "time": "2026-05-20T10:25:53"
+   },
+   {
+    "name": "Kindle",
+    "time": "2026-05-20T20:03:46"
+   },
+   {
+    "name": "Microsoft Word",
+    "time": "2026-05-21T06:12:48"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-21T07:26:08"
+   },
+   {
+    "name": "Financial Times",
+    "time": "2026-05-21T19:51:09"
+   },
+   {
+    "name": "Bloomberg",
+    "time": "2026-05-22T05:10:36"
+   },
+   {
+    "name": "DocuSign",
+    "time": "2026-05-22T07:45:34"
+   },
+   {
+    "name": "Microsoft PowerPoint",
+    "time": "2026-05-22T13:37:23"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-22T16:01:20"
+   },
+   {
+    "name": "FlightAware",
+    "time": "2026-05-23T10:34:43"
+   },
+   {
+    "name": "None",
+    "time": "2026-05-23T13:45:01"
+   },
+   {
+    "name": "Stratechery",
+    "time": "2026-05-23T20:16:06"
+   },
+   {
+    "name": "Adobe Acrobat",
+    "time": "2026-05-24T11:14:02"
+   },
+   {
+    "name": "Outlook",
+    "time": "2026-05-24T19:21:01"
+   },
+   {
+    "name": "Kindle",
+    "time": "2026-05-24T20:59:22"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-25T05:51:13"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-25T07:02:01"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-25T18:31:29"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-26T06:18:43"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-26T06:57:36"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-26T16:15:23"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-26T21:18:58"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-27T06:05:16"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-27T07:10:30"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-27T15:08:06"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-28T06:27:55"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-28T07:33:04"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-28T16:13:48"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-28T18:29:43"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-29T06:21:00"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-29T07:18:59"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-29T13:55:48"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-29T16:46:25"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-30T09:41:51"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-30T11:43:49"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-30T16:07:54"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-30T20:16:36"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-31T06:10:35"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-31T16:08:31"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-31T18:38:13"
+   },
+   {
+    "name": "Signal",
+    "time": "2026-05-31T21:08:56"
+   },
+   {
+    "name": "Word",
+    "time": "2026-06-01T06:31:05"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-06-01T09:55:08"
+   },
+   {
+    "name": "DocuSign",
+    "time": "2026-06-01T18:43:54"
+   },
+   {
+    "name": "Word",
+    "time": "2026-06-02T06:27:56"
+   },
+   {
+    "name": "DocuSign",
+    "time": "2026-06-02T18:35:48"
+   }
+  ],
+  "calendar": [
+   {
+    "summary": "Board preparation – strategy review (offline)",
+    "time": "2026-05-11T07:31:56"
+   },
+   {
+    "summary": "Lunch with senior banker – confidential discussion (phone off)",
+    "time": "2026-05-12T12:37:19"
+   },
+   {
+    "summary": "Board preparation – financial deck review (offline)",
+    "time": "2026-05-13T09:39:26"
+   },
+   {
+    "summary": "Board preparation – M&A scenario planning (offline)",
+    "time": "2026-05-14T07:25:04"
+   },
+   {
+    "summary": "NYYC sailing debrief – crew and performance review",
+    "time": "2026-05-14T16:41:04"
+   },
+   {
+    "summary": "Early office departure – travel to Greenwich (4:45 pm arrival)",
+    "time": "2026-05-15T07:39:39"
+   },
+   {
+    "summary": "Prep for Sunday CEO conference call (6:30 pm)",
+    "time": "2026-05-17T15:21:30"
+   },
+   {
+    "summary": "Board prep meeting – Conference Room 44‑A",
+    "time": "2026-05-18T07:53:24"
+   },
+   {
+    "summary": "Board meeting",
+    "time": "2026-05-20T09:01:39"
+   },
+   {
+    "summary": "Emergency meeting with GC Patty",
+    "time": "2026-05-21T08:30:33"
+   },
+   {
+    "summary": "Board prep meeting",
+    "time": "2026-05-22T08:50:43"
+   },
+   {
+    "summary": "Board preparation breakfast – Yale Club",
+    "time": "2026-05-25T08:27:13"
+   },
+   {
+    "summary": "Deep work: finalize board deck (phone off)",
+    "time": "2026-05-25T14:33:03"
+   },
+   {
+    "summary": "Board preparation meeting – Conference Room 44‑A",
+    "time": "2026-05-26T08:49:33"
+   },
+   {
+    "summary": "Deep work: operations review (phone off)",
+    "time": "2026-05-26T13:45:51"
+   },
+   {
+    "summary": "Board preparation meeting – Conference Room 44‑A",
+    "time": "2026-05-27T08:49:31"
+   },
+   {
+    "summary": "Extended deep work: activist response (phone on for research)",
+    "time": "2026-05-27T13:58:09"
+   },
+   {
+    "summary": "Ops review meeting – 2 pm",
+    "time": "2026-05-28T08:15:35"
+   },
+   {
+    "summary": "Deep work: board deck revisions (phone off)",
+    "time": "2026-05-28T14:23:45"
+   },
+   {
+    "summary": "Final board sign‑off meeting – 4 pm",
+    "time": "2026-05-29T08:34:21"
+   },
+   {
+    "summary": "Wrap‑up tasks, prepare for weekend",
+    "time": "2026-05-29T15:26:50"
+   },
+   {
+    "summary": "Family brunch at home",
+    "time": "2026-05-30T10:23:26"
+   },
+   {
+    "summary": "Review board materials – home study",
+    "time": "2026-05-31T14:16:58"
+   },
+   {
+    "summary": "Board prep session – HQ conference room (red block)",
+    "time": "2026-06-01T08:18:30"
+   },
+   {
+    "summary": "Urgent strategy call with CFO and Goldman banker (blue block)",
+    "time": "2026-06-01T11:41:57"
+   },
+   {
+    "summary": "Breakfast meeting with CEO Bob at Yale Club (red block)",
+    "time": "2026-06-02T10:32:35"
+   },
+   {
+    "summary": "Secret strategic meetup – private lounge, NYYC with retired Treasury official",
+    "time": "2026-06-02T14:08:06"
+   }
+  ],
+  "locations": [
+   {
+    "place": "The Links Club, Manhattan, NY",
+    "lat": 40.755093,
+    "lon": -73.985219,
+    "time": "2026-05-11T11:49:39"
+   },
+   {
+    "place": "The 21 Club, Manhattan, NY",
+    "lat": 40.761864,
+    "lon": -73.980182,
+    "time": "2026-05-13T12:45:10"
+   },
+   {
+    "place": "Round Hill Country Club, Greenwich, CT",
+    "lat": 41.037434,
+    "lon": -73.58157,
+    "time": "2026-05-14T12:09:22"
+   },
+   {
+    "place": "Residence, Greenwich, CT",
+    "lat": 41.037037,
+    "lon": -73.578411,
+    "time": "2026-05-15T11:56:13"
+   },
+   {
+    "place": "In Car on I‑95 near Greenwich, CT",
+    "lat": 41.044908,
+    "lon": -73.578607,
+    "time": "2026-05-15T16:33:24"
+   },
+   {
+    "place": "Round Hill Country Club Golf Course, Greenwich, CT",
+    "lat": 41.038369,
+    "lon": -73.580183,
+    "time": "2026-05-16T07:00:38"
+   },
+   {
+    "place": "Bistro 62, Greenwich, CT",
+    "lat": 41.031403,
+    "lon": -73.627202,
+    "time": "2026-05-16T15:40:12"
+   },
+   {
+    "place": "Residence, Greenwich, CT",
+    "lat": 41.037074,
+    "lon": -73.579453,
+    "time": "2026-05-17T07:52:34"
+   },
+   {
+    "place": "Greenwich Metro-North Station (CT)",
+    "lat": 41.002883,
+    "lon": -73.62896,
+    "time": "2026-05-18T07:00:45"
+   },
+   {
+    "place": "The Links Club, Greenwich, CT",
+    "lat": 41.026086,
+    "lon": -73.629349,
+    "time": "2026-05-19T12:27:29"
+   },
+   {
+    "place": "Round Hill Club, Greenwich, CT",
+    "lat": 41.017105,
+    "lon": -73.620202,
+    "time": "2026-05-20T11:49:27"
+   },
+   {
+    "place": "Midtown Manhattan Office (590 Madison Ave, NY)",
+    "lat": 40.765521,
+    "lon": -73.97151,
+    "time": "2026-05-22T17:25:52"
+   },
+   {
+    "place": "Greenwich Harbor – Private Dock (sailing J/121)",
+    "lat": 41.00056,
+    "lon": -73.627291,
+    "time": "2026-05-23T08:00:45"
+   },
+   {
+    "place": "JFK Airport, Terminal 4 Drop‑off (NY)",
+    "lat": 40.639449,
+    "lon": -73.778251,
+    "time": "2026-05-23T17:29:52"
+   },
+   {
+    "place": "JFK Airport, Terminal 4 – Flight Departure (James)",
+    "lat": 40.639784,
+    "lon": -73.778897,
+    "time": "2026-05-23T18:42:26"
+   },
+   {
+    "place": "St. Mary's Episcopal Church, Greenwich, CT",
+    "lat": 41.036468,
+    "lon": -73.6266,
+    "time": "2026-05-24T09:28:29"
+   },
+   {
+    "place": "Home – Master Bedroom, Greenwich, CT",
+    "lat": 41.002039,
+    "lon": -73.629713,
+    "time": "2026-05-24T22:01:29"
+   },
+   {
+    "place": "The Links Club, Upper West Side, New York, NY",
+    "lat": 40.786283,
+    "lon": -73.975426,
+    "time": "2026-05-25T12:33:29"
+   },
+   {
+    "place": "21 Club, Midtown Manhattan, New York, NY",
+    "lat": 40.759255,
+    "lon": -73.980112,
+    "time": "2026-05-26T12:34:21"
+   },
+   {
+    "place": "Round Hill Club, Greenwich, CT",
+    "lat": 41.041581,
+    "lon": -73.618084,
+    "time": "2026-05-27T12:22:43"
+   },
+   {
+    "place": "J.P. Morgan Club, Financial District, New York, NY",
+    "lat": 40.708238,
+    "lon": -74.009902,
+    "time": "2026-05-28T12:31:29"
+   },
+   {
+    "place": "John F. Kennedy International Airport (JFK), Terminal 4, Queens, NY",
+    "lat": 40.63967,
+    "lon": -73.778242,
+    "time": "2026-05-29T17:57:11"
+   },
+   {
+    "place": "Family estate, Greenwich, CT",
+    "lat": 41.037059,
+    "lon": -73.627129,
+    "time": "2026-05-30T08:01:20"
+   },
+   {
+    "place": "The Whelk, Old Greenwich, CT",
+    "lat": 41.031964,
+    "lon": -73.627598,
+    "time": "2026-05-30T18:03:40"
+   },
+   {
+    "place": "St. Mary's Episcopal Church, Greenwich, CT",
+    "lat": 41.037285,
+    "lon": -73.62828,
+    "time": "2026-05-31T08:52:05"
+   },
+   {
+    "place": "Home driveway, Greenwich, CT",
+    "lat": 41.037796,
+    "lon": -73.627258,
+    "time": "2026-06-01T07:27:27"
+   },
+   {
+    "place": "I-95 northbound near Stamford, CT",
+    "lat": 41.054122,
+    "lon": -73.539821,
+    "time": "2026-06-02T07:46:05"
+   }
+  ],
+  "videos": [
+   {
+    "title": "Wall Street Journal Market Wrap – August 8, 2026",
+    "channel": "Wall Street Journal",
+    "time": "2026-05-11T18:46:51"
+   },
+   {
+    "title": "Harvard Business Review – Managing Activist Investors (Full Webinar)",
+    "channel": "Harvard Business Review",
+    "time": "2026-05-12T19:15:44"
+   },
+   {
+    "title": "Financial Times – Interview with Leading Activist Investor John Doe",
+    "channel": "Financial Times",
+    "time": "2026-05-13T19:52:27"
+   },
+   {
+    "title": "NYYC Crew Briefing – Q3 Strategic Update",
+    "channel": "New York Yacht Club – Private",
+    "time": "2026-05-14T18:14:44"
+   },
+   {
+    "title": "Stanford GSB Class of 2026 – Highlights & Student Spotlights",
+    "channel": "Stanford Graduate School of Business",
+    "time": "2026-05-15T17:37:47"
+   },
+   {
+    "title": "Industrial Revolution 4.0: The Evolution of Tech – Full Documentary",
+    "channel": "PBS Documentary",
+    "time": "2026-05-16T12:54:57"
+   },
+   {
+    "title": "The Crown – Season 5, Episode 3",
+    "channel": "Netflix",
+    "time": "2026-05-16T18:25:10"
+   },
+   {
+    "title": "Wall Street Journal Sunday Roundup – May 24, 2026",
+    "channel": "Wall Street Journal",
+    "time": "2026-05-17T12:52:55"
+   },
+   {
+    "title": "M&A Playbook: Leveraging Porter’s Five Forces",
+    "channel": "Harvard Business Review",
+    "time": "2026-05-20T05:37:54"
+   },
+   {
+    "title": "Crisis Narrative Management for Public Companies",
+    "channel": "Wall Street Journal",
+    "time": "2026-05-21T14:41:46"
+   },
+   {
+    "title": "The Iron Giants: The Rise of Industrial America",
+    "channel": "PBS Documentary",
+    "time": "2026-05-22T20:13:29"
+   },
+   {
+    "title": "Quarterly Earnings Outlook: Industrial Tech Sector",
+    "channel": "Bloomberg Television",
+    "time": "2026-05-23T14:45:21"
+   },
+   {
+    "title": "Macallan 18 Year Old Single Malt – Tasting Notes & Review",
+    "channel": "The Scotch Enthusiast",
+    "time": "2026-05-25T20:51:08"
+   },
+   {
+    "title": "Stratechery Weekly Recap – Tech & Business Highlights",
+    "channel": "Stratechery",
+    "time": "2026-05-26T19:23:53"
+   },
+   {
+    "title": "Harvard Business Review Webinar: Managing Activist Investors",
+    "channel": "Harvard Business Review",
+    "time": "2026-05-27T20:08:09"
+   },
+   {
+    "title": "WSJ Market Wrap – Daily Market Summary",
+    "channel": "Wall Street Journal",
+    "time": "2026-05-28T20:14:21"
+   },
+   {
+    "title": "Family Video Call with James",
+    "channel": "Zoom",
+    "time": "2026-05-29T20:08:52"
+   },
+   {
+    "title": "Family Photo Slideshow",
+    "channel": "iPhone Photos",
+    "time": "2026-05-30T13:13:19"
+   },
+   {
+    "title": "Industrial Revolution: The Rise of Modern Manufacturing",
+    "channel": "Netflix",
+    "time": "2026-05-30T21:56:03"
+   },
+   {
+    "title": "WSJ Evening Briefing – Markets & Politics",
+    "channel": "Wall Street Journal",
+    "time": "2026-05-31T18:53:29"
+   },
+   {
+    "title": "Bloomberg Technology – Industrial Tech Trends & M&A Outlook Q4 2026",
+    "channel": "Bloomberg",
+    "time": "2026-06-02T20:06:59"
+   }
+  ]
+ },
+ "_meta": {
+  "total_days": 30,
+  "n_events": 212
+ }
+}

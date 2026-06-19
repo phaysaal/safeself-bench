@@ -1,0 +1,835 @@
+{
+ "persona_id": "?:2",
+ "persona_slug": "The Corporate Infostealer",
+ "intake_version": "synth-activity-v2-chunked",
+ "samples": {
+  "media": [
+   {
+    "name": "Slack",
+    "time": "2026-05-04T06:21:06"
+   },
+   {
+    "name": "Peloton",
+    "time": "2026-05-04T07:33:10"
+   },
+   {
+    "name": "Zillow",
+    "time": "2026-05-04T22:57:55"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-05T07:05:15"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-05T22:20:48"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-06T06:34:12"
+   },
+   {
+    "name": "Glassdoor",
+    "time": "2026-05-06T23:29:51"
+   },
+   {
+    "name": "Blind",
+    "time": "2026-05-07T06:44:34"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-07T11:40:30"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-07T14:32:25"
+   },
+   {
+    "name": "Settings",
+    "time": "2026-05-08T15:10:41"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-09T10:58:37"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-09T21:05:41"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-10T06:16:41"
+   },
+   {
+    "name": "Blind",
+    "time": "2026-05-10T12:45:50"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-10T21:50:33"
+   },
+   {
+    "name": "Apple News",
+    "time": "2026-05-11T00:02:31"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-11T06:11:22"
+   },
+   {
+    "name": "Apple Health",
+    "time": "2026-05-11T07:33:04"
+   },
+   {
+    "name": "Zillow",
+    "time": "2026-05-11T21:54:34"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-12T00:00:22"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-12T15:39:03"
+   },
+   {
+    "name": "Ramp",
+    "time": "2026-05-12T21:19:07"
+   },
+   {
+    "name": "Glassdoor",
+    "time": "2026-05-12T23:02:03"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-13T06:37:50"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-13T13:49:13"
+   },
+   {
+    "name": "Apple Notes",
+    "time": "2026-05-13T19:42:23"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-13T22:58:57"
+   },
+   {
+    "name": "Google Search",
+    "time": "2026-05-14T10:19:56"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-14T16:45:15"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-14T23:17:12"
+   },
+   {
+    "name": "Apple Watch",
+    "time": "2026-05-15T05:39:08"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-15T08:41:40"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-15T22:07:08"
+   },
+   {
+    "name": "YouTube",
+    "time": "2026-05-16T18:52:25"
+   },
+   {
+    "name": "Zillow",
+    "time": "2026-05-16T21:18:26"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-17T10:50:18"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-17T15:51:50"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-17T20:16:36"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-17T23:58:12"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-18T06:16:29"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-18T12:57:13"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-18T22:57:55"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-19T06:47:27"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-19T12:27:16"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-19T23:19:01"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-20T06:09:34"
+   },
+   {
+    "name": "Peloton",
+    "time": "2026-05-20T07:17:43"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-20T21:29:39"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-21T00:00:54"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-21T06:36:54"
+   },
+   {
+    "name": "Peloton",
+    "time": "2026-05-21T07:19:26"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-21T21:27:51"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-21T23:26:40"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-22T06:24:56"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-22T12:51:08"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-22T23:26:37"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-23T06:19:23"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-23T10:52:56"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-23T14:21:53"
+   },
+   {
+    "name": "Glassdoor",
+    "time": "2026-05-23T22:50:28"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-23T23:19:55"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-05-24T13:08:45"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-24T21:08:18"
+   },
+   {
+    "name": "Google Drive",
+    "time": "2026-05-24T22:13:32"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-24T23:50:41"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-25T06:20:41"
+   },
+   {
+    "name": "Apple Health",
+    "time": "2026-05-25T07:32:12"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-25T21:15:44"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-26T06:58:38"
+   },
+   {
+    "name": "Bloomberg",
+    "time": "2026-05-26T08:08:01"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-26T20:54:56"
+   },
+   {
+    "name": "Apple Notes",
+    "time": "2026-05-26T23:26:22"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-27T06:36:42"
+   },
+   {
+    "name": "Blind",
+    "time": "2026-05-27T12:49:19"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-28T06:10:28"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-28T08:14:31"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-28T19:37:29"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-28T00:51:17"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-29T06:28:10"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-29T14:51:28"
+   },
+   {
+    "name": "Gmail",
+    "time": "2026-05-29T21:06:10"
+   },
+   {
+    "name": "Apple News",
+    "time": "2026-05-30T19:11:28"
+   },
+   {
+    "name": "Instagram",
+    "time": "2026-05-30T21:50:28"
+   },
+   {
+    "name": "Focus Mode",
+    "time": "2026-05-31T08:36:16"
+   },
+   {
+    "name": "Apple Notes",
+    "time": "2026-05-31T14:40:07"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-31T19:53:07"
+   },
+   {
+    "name": "Google Drive",
+    "time": "2026-05-31T21:04:01"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-31T21:33:28"
+   },
+   {
+    "name": "Apple Health",
+    "time": "2026-06-01T05:59:26"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-06-01T12:51:24"
+   },
+   {
+    "name": "Apple Health",
+    "time": "2026-06-02T06:04:35"
+   },
+   {
+    "name": "Blind",
+    "time": "2026-06-02T06:48:18"
+   },
+   {
+    "name": "Reddit",
+    "time": "2026-06-02T13:05:00"
+   },
+   {
+    "name": "Glassdoor",
+    "time": "2026-06-02T21:38:38"
+   },
+   {
+    "name": "Oura",
+    "time": "2026-06-02T23:36:11"
+   }
+  ],
+  "searches": [
+   {
+    "query": "rsu tax reddit",
+    "time": "2026-05-04T12:46:19"
+   },
+   {
+    "query": "memory care austin tx",
+    "time": "2026-05-06T00:30:32"
+   },
+   {
+    "query": "stonefork partners reviews",
+    "time": "2026-05-09T22:52:34"
+   },
+   {
+    "query": "rsu tax fatfire",
+    "time": "2026-05-11T12:55:11"
+   },
+   {
+    "query": "bloomberg news",
+    "time": "2026-05-12T13:14:59"
+   },
+   {
+    "query": "dementia care naperville",
+    "time": "2026-05-14T19:24:11"
+   },
+   {
+    "query": "dementia sudden confusion reddit",
+    "time": "2026-05-15T13:45:38"
+   },
+   {
+    "query": "fintech layoffs austin",
+    "time": "2026-05-18T07:01:52"
+   },
+   {
+    "query": "west lake hills homes",
+    "time": "2026-05-18T23:01:46"
+   },
+   {
+    "query": "fed interest rates",
+    "time": "2026-05-19T07:02:09"
+   },
+   {
+    "query": "austin 4br houses",
+    "time": "2026-05-19T22:27:54"
+   },
+   {
+    "query": "saas burn multiple",
+    "time": "2026-05-20T13:08:21"
+   },
+   {
+    "query": "tech m&a",
+    "time": "2026-05-21T13:02:34"
+   },
+   {
+    "query": "fintech director jobs",
+    "time": "2026-05-22T06:32:50"
+   },
+   {
+    "query": "austin real estate",
+    "time": "2026-05-22T22:39:11"
+   },
+   "tax loss harvesting fatfire",
+   "austin property tax trends",
+   "mortgage rates r/personalfinance",
+   "stonefork partners reputatn",
+   "dementia agitation management",
+   "mortgage refinance reddit",
+   "austin property tax assessment",
+   "arclight capital comp structure",
+   {
+    "query": "fintech saas trends",
+    "time": "2026-06-01T06:51:05"
+   },
+   {
+    "query": "westlake austin houses",
+    "time": "2026-06-01T23:39:43"
+   }
+  ],
+  "calendar": [
+   {
+    "summary": "School run",
+    "time": "2026-05-04T15:25:21"
+   },
+   {
+    "summary": "Dad - call neurologist",
+    "time": "2026-05-06T16:15:54"
+   },
+   {
+    "summary": "Dentist appointment",
+    "time": "2026-05-07T11:06:35"
+   },
+   {
+    "summary": "School run",
+    "time": "2026-05-07T15:38:14"
+   },
+   {
+    "summary": "Soccer practice",
+    "time": "2026-05-08T11:44:18"
+   },
+   {
+    "summary": "Soccer practice",
+    "time": "2026-05-05T11:43:53"
+   },
+   {
+    "summary": "Deep Work — Forecast Model",
+    "time": "2026-05-11T09:42:15"
+   },
+   {
+    "summary": "1:1 with David Chen (CFO)",
+    "time": "2026-05-13T11:09:04"
+   },
+   {
+    "summary": "Dad - call neurologist",
+    "time": "2026-05-14T16:03:00"
+   },
+   {
+    "summary": "Dentist / Recruiter Call",
+    "time": "2026-05-15T11:11:28"
+   },
+   {
+    "summary": "Deep Work — Forecast Model",
+    "time": "2026-05-18T09:45:52"
+   },
+   {
+    "summary": "School run",
+    "time": "2026-05-18T15:32:07"
+   },
+   {
+    "summary": "Deep Work — Forecast Model",
+    "time": "2026-05-19T09:34:59"
+   },
+   {
+    "summary": "School run",
+    "time": "2026-05-19T15:03:02"
+   },
+   {
+    "summary": "Dad - call neurologist",
+    "time": "2026-05-20T16:17:55"
+   },
+   {
+    "summary": "Dad - follow up call",
+    "time": "2026-05-21T16:00:07"
+   },
+   {
+    "summary": "Deep Work — Forecast Model",
+    "time": "2026-05-22T09:05:36"
+   },
+   {
+    "summary": "School run",
+    "time": "2026-05-22T14:57:05"
+   },
+   {
+    "summary": "Deep Work — Forecast Model",
+    "time": "2026-05-23T09:28:58"
+   },
+   {
+    "summary": "Dentist (Recruiter Zoom)",
+    "time": "2026-05-23T10:55:24"
+   },
+   {
+    "summary": "School run",
+    "time": "2026-05-23T15:13:38"
+   },
+   {
+    "summary": "Deep Work — Forecast Model",
+    "time": "2026-05-25T09:38:06"
+   },
+   {
+    "summary": "School run",
+    "time": "2026-05-25T15:23:30"
+   },
+   {
+    "summary": "Deep Work — Forecast Model",
+    "time": "2026-05-27T09:34:41"
+   },
+   {
+    "summary": "School run",
+    "time": "2026-05-27T15:00:21"
+   },
+   {
+    "summary": "Dad - call neurologist",
+    "time": "2026-05-28T16:12:54"
+   },
+   {
+    "summary": "Dentist",
+    "time": "2026-05-29T11:10:05"
+   },
+   {
+    "summary": "Dad - call neurologist",
+    "time": "2026-06-01T16:16:18"
+   },
+   {
+    "summary": "Dentist appointment",
+    "time": "2026-06-02T11:12:48"
+   }
+  ],
+  "messages": [
+   {
+    "with": "David Chen",
+    "direction": "to",
+    "text": "Hey David, just circling back on that vendor invoice for Q2. Want to make sure it's cleared before the weekend.",
+    "time": "2026-05-04T22:00:06"
+   },
+   {
+    "with": "Jen",
+    "direction": "to",
+    "text": "Picking up milk on the way home. Do we need anything else for breakfast tomorrow?",
+    "time": "2026-05-05T19:00:00"
+   },
+   {
+    "with": "Finance Team",
+    "direction": "to",
+    "text": "Will circle back on budget updates once the Q2 deck is finalized. Please hold all queries for now.",
+    "time": "2026-05-06T16:56:50"
+   },
+   {
+    "with": "Allison",
+    "direction": "to",
+    "text": "Hey, just checking in on Dad's meds. Did the new schedule start today?",
+    "time": "2026-05-08T20:11:30"
+   },
+   {
+    "with": "Mike",
+    "direction": "from",
+    "text": "Mike, quick favor before tomorrow. Need wire approved EOD. Board prep is a mess.",
+    "time": "2026-05-10T09:11:54"
+   },
+   {
+    "with": "David Chen",
+    "direction": "to",
+    "text": "Hey David, sorry for the late ping. Just saw an urgent vendor invoice that needs approval before tomorrow morning. Can you take a look?",
+    "time": "2026-05-04T21:06:11"
+   },
+   {
+    "with": "Junior Analyst",
+    "direction": "to",
+    "text": "Gentle reminder to get those expense reports submitted by EOD. Need to finalize the burn multiple review.",
+    "time": "2026-05-11T15:39:50"
+   },
+   {
+    "with": "Jen",
+    "direction": "from",
+    "text": "Don't forget soccer practice at 5:30! Caleb is already asking.",
+    "time": "2026-05-12T18:14:15"
+   },
+   {
+    "with": "Allison",
+    "direction": "from",
+    "text": "Call me ASAP. Something happened with Dad.",
+    "time": "2026-05-14T06:32:31"
+   },
+   {
+    "with": "Jen",
+    "direction": "from",
+    "text": "Caleb has a fever, need to stay home today. Can you handle the afternoon call with the neurologist?",
+    "time": "2026-05-16T14:20:13"
+   },
+   {
+    "with": "David Chen",
+    "direction": "from",
+    "text": "quick favor before tomorrow—can you pull the latest ARR projections for the board prep deck? D",
+    "time": "2026-05-17T21:11:14"
+   },
+   {
+    "with": "Jennifer 'Jen' Halloran-Reese",
+    "direction": "to",
+    "text": "Home soon, need anything?",
+    "time": "2026-05-18T18:44:43"
+   },
+   {
+    "with": "Jennifer 'Jen' Halloran-Reese",
+    "direction": "to",
+    "text": "Kids behaving?",
+    "time": "2026-05-19T18:14:57"
+   },
+   {
+    "with": "Finance Analyst",
+    "direction": "to",
+    "text": "Check the variance on the Q2 projection. Something looks off with the burn multiple.",
+    "time": "2026-05-20T10:25:40"
+   },
+   {
+    "with": "Allison Reese-Vogel",
+    "direction": "to",
+    "text": "Call me when you can, bad news with Dad",
+    "time": "2026-05-20T16:08:05"
+   },
+   {
+    "with": "Finance Analyst",
+    "direction": "to",
+    "text": "Need that report by EOD. No delays please.",
+    "time": "2026-05-21T10:16:55"
+   },
+   {
+    "with": "Allison Reese-Vogel",
+    "direction": "to",
+    "text": "Medication change confirmed.",
+    "time": "2026-05-21T16:12:22"
+   },
+   {
+    "with": "Jennifer 'Jen' Halloran-Reese",
+    "direction": "to",
+    "text": "Dinner at 7?",
+    "time": "2026-05-22T18:31:19"
+   },
+   {
+    "with": "Jennifer 'Jen' Halloran-Reese",
+    "direction": "to",
+    "text": "Need milk/eggs",
+    "time": "2026-05-24T14:54:12"
+   },
+   {
+    "with": "Jennifer 'Jen' Halloran-Reese",
+    "direction": "to",
+    "text": "Kids are in bed",
+    "time": "2026-05-24T18:33:04"
+   },
+   {
+    "with": "David Chen",
+    "direction": "from",
+    "text": "quick favor before tomorrow. need that wire approved EOD for board prep.",
+    "time": "2026-05-24T21:25:04"
+   },
+   {
+    "with": "Jennifer 'Jen' Halloran-Reese",
+    "direction": "to",
+    "text": "Kids are down, finally. You still up?",
+    "time": "2026-05-27T21:21:01"
+   },
+   {
+    "with": "Allison Reese-Vogel",
+    "direction": "to",
+    "text": "Dad's having a bad night, need to talk. The neurologist call was rough.",
+    "time": "2026-05-28T16:04:02"
+   },
+   {
+    "with": "Jennifer 'Jen' Halloran-Reese",
+    "direction": "to",
+    "text": "Picking up nuggets on way home. Do we need anything else?",
+    "time": "2026-05-30T14:10:53"
+   },
+   {
+    "with": "David Chen",
+    "direction": "to",
+    "text": "Mike, quick favor — can you check the vendor banking updates in the Q2 audit folder? Need it before the board prep call.",
+    "time": "2026-06-01T06:53:19"
+   },
+   {
+    "with": "Allison",
+    "direction": "to",
+    "text": "The caregiver called again. He's wandering at night, Mike. We can't keep him in Naperville alone. We need to look at the memory care costs.",
+    "time": "2026-06-01T16:24:09"
+   },
+   {
+    "with": "#finance-leadership",
+    "direction": "from",
+    "text": "Signing off for the weekend. Catch you all Monday. 🙏",
+    "time": "2026-06-02T15:57:52"
+   }
+  ],
+  "videos": [
+   {
+    "title": "Bloomberg Surveillance",
+    "channel": "Bloomberg",
+    "time": "2026-05-05T08:25:21"
+   },
+   {
+    "title": "All-In Podcast: The Macro Landscape & Tech Volatility",
+    "channel": "All-In Podcast",
+    "time": "2026-05-12T07:07:19"
+   },
+   {
+    "title": "Stonefork Partners: Q2 Portfolio Review",
+    "channel": "Stonefork Partners",
+    "time": "2026-05-29T10:53:24"
+   },
+   {
+    "title": "Arclight - Director of Finance Interview",
+    "channel": "Zoom",
+    "time": "2026-06-02T11:36:14"
+   }
+  ],
+  "locations": [
+   {
+    "place": "Café Mozart",
+    "lat": 30.285527,
+    "lon": -97.733176,
+    "time": "2026-05-05T13:08:09"
+   },
+   {
+    "place": "The Brew & Co.",
+    "lat": 30.248853,
+    "lon": -97.749751,
+    "time": "2026-05-07T11:47:23"
+   },
+   {
+    "place": "Costco",
+    "lat": 30.514121,
+    "lon": -97.946019,
+    "time": "2026-05-08T10:13:55"
+   },
+   {
+    "place": "St. David's Medical Center",
+    "lat": 30.302886,
+    "lon": -97.733071,
+    "time": "2026-05-15T17:55:25"
+   },
+   {
+    "place": "Costco",
+    "lat": 30.514784,
+    "lon": -97.925965,
+    "time": "2026-05-16T10:32:01"
+   },
+   {
+    "place": "Costco, Cedar Park, TX",
+    "lat": 30.505325,
+    "lon": -97.911206,
+    "time": "2026-05-24T10:31:15"
+   },
+   {
+    "place": "YMCA of Austin - North Austin",
+    "lat": 30.335786,
+    "lon": -97.716817,
+    "time": "2026-05-26T18:29:34"
+   },
+   {
+    "place": "Costco Wholesale",
+    "lat": 30.488803,
+    "lon": -97.914994,
+    "time": "2026-05-30T10:26:29"
+   },
+   {
+    "place": "Zilker Elementary School",
+    "lat": 30.267788,
+    "lon": -97.741858,
+    "time": "2026-06-01T15:30:44"
+   }
+  ]
+ },
+ "_meta": {
+  "total_days": 30,
+  "n_events": 190
+ }
+}

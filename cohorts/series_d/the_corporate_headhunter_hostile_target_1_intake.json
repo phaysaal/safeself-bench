@@ -1,0 +1,1206 @@
+{
+ "persona_id": "?:1",
+ "persona_slug": "The Corporate Headhunter (Hostile)",
+ "intake_version": "synth-activity-v2-chunked",
+ "samples": {
+  "media": [
+   {
+    "name": "X",
+    "time": "2026-05-04T07:24:03"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-04T10:05:00"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-04T12:24:04"
+   },
+   {
+    "name": "Blind",
+    "time": "2026-05-04T15:45:59"
+   },
+   {
+    "name": "GitHub",
+    "time": "2026-05-04T22:18:37"
+   },
+   {
+    "name": "YouTube",
+    "time": "2026-05-04T23:38:17"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-05T08:11:00"
+   },
+   {
+    "name": "ClinicPortal",
+    "time": "2026-05-05T11:20:46"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-05T12:41:58"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-05T16:11:43"
+   },
+   {
+    "name": "GitHub",
+    "time": "2026-05-05T22:40:21"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-06T07:55:43"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-06T11:54:31"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-06T15:19:18"
+   },
+   {
+    "name": "Email",
+    "time": "2026-05-06T17:09:06"
+   },
+   {
+    "name": "GitHub",
+    "time": "2026-05-06T22:04:18"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-07T07:59:47"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-07T12:09:45"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-07T15:06:08"
+   },
+   {
+    "name": "Email",
+    "time": "2026-05-07T15:57:52"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-08T07:58:53"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-08T10:14:26"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-08T12:03:52"
+   },
+   {
+    "name": "Email",
+    "time": "2026-05-08T15:25:49"
+   },
+   {
+    "name": "GitHub",
+    "time": "2026-05-08T22:42:26"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-09T11:33:24"
+   },
+   {
+    "name": "Blind",
+    "time": "2026-05-09T15:47:22"
+   },
+   {
+    "name": "Spotify",
+    "time": "2026-05-09T16:45:41"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-09T20:02:06"
+   },
+   {
+    "name": "GitHub",
+    "time": "2026-05-09T23:00:11"
+   },
+   {
+    "name": "Browser",
+    "time": "2026-05-10T11:59:21"
+   },
+   {
+    "name": "Blind",
+    "time": "2026-05-10T15:14:06"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-10T16:51:48"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-10T19:19:15"
+   },
+   {
+    "name": "GitHub",
+    "time": "2026-05-10T22:22:57"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-11T07:30:06"
+   },
+   {
+    "name": "Spotify",
+    "time": "2026-05-11T09:13:41"
+   },
+   {
+    "name": "IntelliJ IDEA",
+    "time": "2026-05-11T14:40:20"
+   },
+   {
+    "name": "GitHub",
+    "time": "2026-05-11T23:06:23"
+   },
+   {
+    "name": "PagerDuty",
+    "time": "2026-05-12T02:01:10"
+   },
+   {
+    "name": "PagerDuty",
+    "time": "2026-05-12T02:24:58"
+   },
+   {
+    "name": "GitHub",
+    "time": "2026-05-12T04:04:34"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-12T07:45:48"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-12T12:18:22"
+   },
+   {
+    "name": "PagerDuty",
+    "time": "2026-05-13T03:46:26"
+   },
+   {
+    "name": "AWS Console",
+    "time": "2026-05-13T04:27:42"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-13T08:05:01"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-14T07:37:35"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-14T11:56:19"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-14T16:22:41"
+   },
+   {
+    "name": "GitHub",
+    "time": "2026-05-14T23:34:09"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-15T07:56:00"
+   },
+   {
+    "name": "PagerDuty",
+    "time": "2026-05-15T15:41:26"
+   },
+   {
+    "name": "GitHub",
+    "time": "2026-05-15T23:53:11"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-16T12:00:14"
+   },
+   {
+    "name": "GitHub",
+    "time": "2026-05-16T22:40:26"
+   },
+   {
+    "name": "Substack",
+    "time": "2026-05-17T10:36:47"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-05-17T14:01:56"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-17T16:15:06"
+   },
+   {
+    "name": "GitHub",
+    "time": "2026-05-17T23:01:26"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-25T07:30:06"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-25T12:04:30"
+   },
+   {
+    "name": "IDE",
+    "time": "2026-05-25T13:32:39"
+   },
+   {
+    "name": "GitHub",
+    "time": "2026-05-25T23:29:26"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-26T07:43:31"
+   },
+   {
+    "name": "IDE",
+    "time": "2026-05-26T10:20:27"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-26T12:26:20"
+   },
+   {
+    "name": "GitHub",
+    "time": "2026-05-26T23:17:22"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-27T07:38:11"
+   },
+   {
+    "name": "GitHub",
+    "time": "2026-05-27T23:12:37"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-28T08:40:09"
+   },
+   {
+    "name": "IDE",
+    "time": "2026-05-28T13:48:42"
+   },
+   {
+    "name": "GitHub",
+    "time": "2026-05-28T23:25:08"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-29T07:31:21"
+   },
+   {
+    "name": "IDE",
+    "time": "2026-05-29T11:50:06"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-29T12:39:24"
+   },
+   {
+    "name": "Docs",
+    "time": "2026-05-29T13:38:27"
+   },
+   {
+    "name": "IDE",
+    "time": "2026-05-29T20:02:10"
+   },
+   {
+    "name": "GitHub",
+    "time": "2026-05-29T23:55:46"
+   },
+   {
+    "name": "X",
+    "time": "2026-05-30T08:13:20"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-30T12:27:45"
+   },
+   {
+    "name": "IDE",
+    "time": "2026-05-30T15:24:57"
+   },
+   {
+    "name": "GitHub",
+    "time": "2026-05-30T21:38:30"
+   },
+   {
+    "name": "Notion",
+    "time": "2026-05-31T09:44:46"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-05-31T12:30:09"
+   },
+   {
+    "name": "PDF",
+    "time": "2026-05-31T16:41:23"
+   },
+   {
+    "name": "Strava",
+    "time": "2026-05-31T21:44:26"
+   },
+   {
+    "name": "Sleep",
+    "time": "2026-05-31T22:28:30"
+   },
+   {
+    "name": "X",
+    "time": "2026-06-01T07:29:56"
+   },
+   {
+    "name": "GitHub",
+    "time": "2026-06-01T09:14:28"
+   },
+   {
+    "name": "GitHub",
+    "time": "2026-06-01T22:39:21"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-06-02T09:11:25"
+   },
+   {
+    "name": "LinkedIn",
+    "time": "2026-06-02T12:12:58"
+   },
+   {
+    "name": "PagerDuty",
+    "time": "2026-06-02T14:31:32"
+   },
+   {
+    "name": "Slack",
+    "time": "2026-06-02T18:04:49"
+   },
+   {
+    "name": "VS Code",
+    "time": "2026-06-02T20:40:01"
+   }
+  ],
+  "calendar": [
+   {
+    "summary": "Start remote work day",
+    "time": "2026-05-04T09:18:31"
+   },
+   {
+    "summary": "Deep‑work block (IDE coding, phone off)",
+    "time": "2026-05-04T13:39:35"
+   },
+   {
+    "summary": "Evening second‑shift start",
+    "time": "2026-05-04T18:48:53"
+   },
+   {
+    "summary": "IVF clinic appointment (blood draw)",
+    "time": "2026-05-05T09:54:43"
+   },
+   {
+    "summary": "Deep‑work block (no phone)",
+    "time": "2026-05-05T14:39:08"
+   },
+   {
+    "summary": "Team sync meeting",
+    "time": "2026-05-06T10:09:20"
+   },
+   {
+    "summary": "Deep‑work block (IDE, phone drawer)",
+    "time": "2026-05-06T13:11:20"
+   },
+   {
+    "summary": "Project status meeting",
+    "time": "2026-05-07T10:41:00"
+   },
+   {
+    "summary": "Deep‑work block (no phone)",
+    "time": "2026-05-07T13:34:58"
+   },
+   {
+    "summary": "Remote work start",
+    "time": "2026-05-08T08:49:17"
+   },
+   {
+    "summary": "Deep‑work block (IDE only)",
+    "time": "2026-05-08T13:30:50"
+   },
+   {
+    "summary": "Final QA meeting (video call)",
+    "time": "2026-05-08T17:23:26"
+   },
+   {
+    "summary": "Career ledger session in Notion",
+    "time": "2026-05-09T10:32:55"
+   },
+   {
+    "summary": "Meal‑prep for the week",
+    "time": "2026-05-10T10:33:56"
+   },
+   {
+    "summary": "Team sync – project updates",
+    "time": "2026-05-11T09:48:38"
+   },
+   {
+    "summary": "IVF injection (evening dose)",
+    "time": "2026-05-11T20:05:44"
+   },
+   {
+    "summary": "Project design review – architecture discussion",
+    "time": "2026-05-12T10:52:33"
+   },
+   {
+    "summary": "Focused deep‑work block (Do Not Disturb)",
+    "time": "2026-05-12T13:37:37"
+   },
+   {
+    "summary": "One‑on‑one with manager (performance & growth)",
+    "time": "2026-05-13T10:13:54"
+   },
+   {
+    "summary": "Focused deep‑work block",
+    "time": "2026-05-13T13:49:42"
+   },
+   {
+    "summary": "IVF injection (evening)",
+    "time": "2026-05-13T19:45:25"
+   },
+   {
+    "summary": "Team stand‑up",
+    "time": "2026-05-14T10:13:55"
+   },
+   {
+    "summary": "Deep‑work block",
+    "time": "2026-05-14T13:38:01"
+   },
+   {
+    "summary": "Code‑review session",
+    "time": "2026-05-15T10:13:23"
+   },
+   {
+    "summary": "Deep‑work block",
+    "time": "2026-05-15T13:33:01"
+   },
+   {
+    "summary": "IVF injection (evening)",
+    "time": "2026-05-15T20:08:50"
+   },
+   {
+    "summary": "Career‑ledger update in Notion",
+    "time": "2026-05-16T10:41:49"
+   },
+   {
+    "summary": "Weekly meal prep",
+    "time": "2026-05-17T12:05:35"
+   },
+   {
+    "summary": "Alarm – wake up",
+    "time": "2026-05-25T07:27:54"
+   },
+   {
+    "summary": "Sprint planning meeting (30 min)",
+    "time": "2026-05-25T09:41:41"
+   },
+   {
+    "summary": "IVF injection (sub‑Q)",
+    "time": "2026-05-25T21:17:47"
+   },
+   {
+    "summary": "Wake, alarm",
+    "time": "2026-05-26T07:07:47"
+   },
+   {
+    "summary": "Remote‑work start (home office)",
+    "time": "2026-05-26T09:11:50"
+   },
+   {
+    "summary": "1:1 with manager – project status",
+    "time": "2026-05-26T16:16:00"
+   },
+   {
+    "summary": "IVF injection (sub‑Q)",
+    "time": "2026-05-26T20:44:07"
+   },
+   {
+    "summary": "Wake, alarm",
+    "time": "2026-05-27T07:40:51"
+   },
+   {
+    "summary": "Office day (in‑person)",
+    "time": "2026-05-27T08:59:50"
+   },
+   {
+    "summary": "Bloodwork & vitals check (30 min)",
+    "time": "2026-05-27T14:44:26"
+   },
+   {
+    "summary": "IVF injection (sub‑Q) – delayed to 9 pm",
+    "time": "2026-05-27T18:58:43"
+   },
+   {
+    "summary": "Wake (later due to night symptoms)",
+    "time": "2026-05-28T08:12:53"
+   },
+   {
+    "summary": "Telehealth follow‑up (15 min)",
+    "time": "2026-05-28T11:11:48"
+   },
+   {
+    "summary": "IVF injection (sub‑Q)",
+    "time": "2026-05-28T20:06:25"
+   },
+   {
+    "summary": "Wake, alarm",
+    "time": "2026-05-29T07:25:34"
+   },
+   {
+    "summary": "Triage meeting (30 min) with SRE team",
+    "time": "2026-05-29T10:19:59"
+   },
+   {
+    "summary": "Video call with manager – incident status update",
+    "time": "2026-05-29T16:44:44"
+   },
+   {
+    "summary": "Wake, alarm",
+    "time": "2026-05-30T07:40:17"
+   },
+   {
+    "summary": "Remote‑work start (home office)",
+    "time": "2026-05-30T09:07:25"
+   },
+   {
+    "summary": "Meeting with manager – post‑incident debrief",
+    "time": "2026-05-30T10:01:55"
+   },
+   {
+    "summary": "Offer call with Priya (Principal Platform Engineer)",
+    "time": "2026-05-30T11:14:37"
+   },
+   {
+    "summary": "Video call with Priya – discuss title, remote‑work, signing bonus",
+    "time": "2026-05-30T17:07:40"
+   },
+   {
+    "summary": "IVF injection (sub‑Q)",
+    "time": "2026-05-30T20:17:06"
+   },
+   {
+    "summary": "Wake, alarm (Saturday)",
+    "time": "2026-05-31T09:14:06"
+   },
+   {
+    "summary": "Call with Priya – final Q&A on equity vesting",
+    "time": "2026-05-31T19:15:04"
+   },
+   {
+    "summary": "Team Sync (15 min) – discuss sprint goals",
+    "time": "2026-06-02T09:16:03"
+   }
+  ],
+  "messages": [
+   {
+    "with": "Priya Venkataraman",
+    "direction": "to",
+    "text": "Just skimmed a recruiter InMail about a Principal Platform role – feels like a copy‑paste from a template. No real numbers, just buzzwords. Thought you’d want a heads‑up before they hit you.",
+    "time": "2026-05-04T20:49:05"
+   },
+   {
+    "with": "Daniel Reiss",
+    "direction": "to",
+    "text": "They pinged back with a one‑liner “Thanks for your interest, let’s chat.” No depth, no equity hints. Same old silent‑treatment game. Frustrating as usual.",
+    "time": "2026-05-05T20:48:42"
+   },
+   {
+    "with": "Marcus Yeoh",
+    "direction": "to",
+    "text": "Got a second InMail – they finally mentioned “competitive compensation” but still vague on vesting. Do you think it’s worth a call, or should I keep it on the back‑burner?",
+    "time": "2026-05-07T20:53:40"
+   },
+   {
+    "with": "Arjun Deshpande",
+    "direction": "to",
+    "text": "Left a voicemail for the recruiter; they’ll call back next week. I’m leaning to schedule, but need to see the full package first – especially the IVF coverage and loan‑clearance bits.",
+    "time": "2026-05-08T20:51:32"
+   },
+   {
+    "with": "Daniel Reiss",
+    "direction": "from",
+    "text": "Looks like they finally dropped a concrete figure: $300K base + $400K equity. That matches the floor we talked about. If you’re comfortable, this could be the “reasonable offer” you mentioned.",
+    "time": "2026-05-10T20:01:40"
+   },
+   {
+    "with": "Priya Venkataraman",
+    "direction": "to",
+    "text": "Just got a generic recruiter InMail about a “Principal Platform” role. The language feels recycled—no mention of my multi‑region failover work. Thought you’d want to see the tone before I waste any more energy.",
+    "time": "2026-05-11T20:51:51"
+   },
+   {
+    "with": "Daniel Reiss",
+    "direction": "to",
+    "text": "Forwarded the recruiter’s follow‑up. They’re pushing a base of $260K and a vague equity teaser. I’m leaning on you to sanity‑check the numbers before I reply.",
+    "time": "2026-05-12T20:18:22"
+   },
+   {
+    "with": "Daniel Reiss",
+    "direction": "to",
+    "text": "Quick dive: the comp band they quoted sits at $260‑$280K base, 0.5‑0.7 M equity over four years. That’s below my floor of $285K base + $400K equity. Any thoughts on framing a counter?",
+    "time": "2026-05-13T15:31:44"
+   },
+   {
+    "with": "Daniel Reiss",
+    "direction": "to",
+    "text": "Just got a Signal SMS from the same recruiter—“Can we hop on a call tomorrow?” I’m wary they’re trying to pressure me. Should I ghost or set a hard deadline?",
+    "time": "2026-05-13T21:05:14"
+   },
+   {
+    "with": "Priya Venkataraman",
+    "direction": "to",
+    "text": "They finally added equity details: 120k RSUs vesting over 4 yr, current price $12. Still underwater. I’m trying to gauge if the signing bonus they hinted at could offset my loan load.",
+    "time": "2026-05-15T20:03:51"
+   },
+   {
+    "with": "Daniel Reiss",
+    "direction": "to",
+    "text": "New offer landed: $275K base, $600K equity, plus a $30K signing bonus. The equity is in a pre‑IPO stock, but the vesting cliff is 1 yr. How does this stack against the market for my skill set?",
+    "time": "2026-05-16T14:58:06"
+   },
+   {
+    "with": "Arjun Deshpande",
+    "direction": "to",
+    "text": "Missed the recruiter’s call; left a voicemail. I told them I’ll need a written offer before any decision. Let’s review the numbers tonight—especially the bonus, since IVF costs are still looming.",
+    "time": "2026-05-16T20:02:41"
+   },
+   {
+    "with": "Priya Venkataraman",
+    "direction": "to",
+    "text": "Recruiter just texted a $45K signing‑bonus figure. It’s tempting, but I’m still uneasy about the vesting schedule. Do you think it’s enough to offset the RSU dip?",
+    "time": "2026-05-17T20:12:50"
+   },
+   {
+    "with": "Daniel Reiss",
+    "direction": "to",
+    "text": "I asked the recruiter for a formal offer letter with full grant math. If they comply, I’ll compare it side‑by‑side with our spreadsheet. Keep your eyes peeled for any hidden clauses.",
+    "time": "2026-05-17T21:38:45"
+   },
+   {
+    "with": "Alex (Recruiter)",
+    "direction": "outgoing",
+    "text": "Thanks for reaching out, Alex. Could you send the full equity‑grant model (share count, vesting schedule, price assumptions)? I need to compare it against my current RSU exposure.",
+    "time": "2026-05-25T21:38:14"
+   },
+   {
+    "with": "Alex (Recruiter)",
+    "direction": "outgoing",
+    "text": "Also, what's the remote‑work policy? Fully remote is essential given my IVF schedule and the time‑zone overlap with family in India.",
+    "time": "2026-05-26T21:28:32"
+   },
+   {
+    "with": "Priya Venkataraman",
+    "direction": "outgoing",
+    "text": "Hey Priya, quick ping—how's the LumenTrace launch? Got a few minutes to chat tomorrow? Need a sanity check on that principal role you mentioned.",
+    "time": "2026-05-26T22:33:57"
+   },
+   {
+    "with": "Arjun Deshpande",
+    "direction": "outgoing",
+    "text": "Feeling pretty nauseous after the meds. Going to rest on the couch. Might be a rough afternoon.",
+    "time": "2026-05-27T16:32:48"
+   },
+   {
+    "with": "Alex (Recruiter)",
+    "direction": "outgoing",
+    "text": "Got the interview slot at 10 am tomorrow, but I have a medical appointment at 9:30. Could we push it to after 11 am or pick a later slot? Thanks.",
+    "time": "2026-05-27T19:47:17"
+   },
+   {
+    "with": "Priya Venkataraman",
+    "direction": "outgoing",
+    "text": "Out of office for the next few hours (IVF cycle). Will circle back later today.",
+    "time": "2026-05-28T16:27:10"
+   },
+   {
+    "with": "Alex (Recruiter)",
+    "direction": "outgoing",
+    "text": "I'm still interested. Could you break down the signing‑bonus (cash vs. restricted stock) and any performance clawbacks? Need to see if it clears the $300K base floor I'm targeting.",
+    "time": "2026-05-28T21:02:08"
+   },
+   {
+    "with": "Daniel Reiss (Blind/Signal)",
+    "direction": "outgoing",
+    "text": "Just got a draft from LumenTrace—base $260K, $350K RSU over 4 yr, $30K signing cash. Still under my $285K base target. Thoughts on pushing the equity mix?",
+    "time": "2026-05-28T22:22:16"
+   },
+   {
+    "with": "#infra‑team channel",
+    "direction": "outgoing",
+    "text": "Alert: Service latency spike observed, investigating root cause now.",
+    "time": "2026-05-29T09:32:49"
+   },
+   {
+    "with": "Alex (Recruiter)",
+    "direction": "outgoing",
+    "text": "Can we schedule the next interview after 23:00? My day is packed with clinic visits and on‑call duties.",
+    "time": "2026-05-29T21:21:56"
+   },
+   {
+    "with": "#deploy channel",
+    "direction": "outgoing",
+    "text": "Deploy scheduled for 23:00 UTC – will be taking the service down for ~5 min. Please stand by.",
+    "time": "2026-05-29T22:44:26"
+   },
+   {
+    "with": "Alex (Recruiter)",
+    "direction": "outgoing",
+    "text": "Could you send the detailed vesting schedule (cliff, quarterly vs. annual) for the equity component? I need to model cash flow for the next two years.",
+    "time": "2026-05-30T14:09:41"
+   },
+   {
+    "with": "Daniel Reiss (Blind/Signal)",
+    "direction": "outgoing",
+    "text": "FYI, Priya's offer includes a $400K RSU refresh and a 4‑year vesting with a 1‑yr cliff, but no signing cash. Does that change your view on my leverage?",
+    "time": "2026-05-30T20:34:33"
+   },
+   {
+    "with": "Alex (Recruiter)",
+    "direction": "outgoing",
+    "text": "I'll have a final decision by Monday morning. Thanks for the patience.",
+    "time": "2026-05-31T20:19:42"
+   },
+   {
+    "with": "Alex (Recruiter)",
+    "direction": "outgoing",
+    "text": "Morning Alex, thanks for reaching out. The Principal Platform scope sounds aligned with the multi‑region failover work I led last year, but I'm cautious after the recent promo decision at NimbusForge. Happy to discuss if you can share the formal ladder and equity refresh details.",
+    "time": "2026-06-01T08:07:42"
+   },
+   {
+    "with": "Priya Venkataraman",
+    "direction": "outgoing",
+    "text": "Priya, quick heads‑up – the hCG injection this afternoon left me feeling nauseous and a bit light‑headed. Might skip the Spinasse dinner tomorrow if the side‑effects linger. Appreciate the ear.",
+    "time": "2026-06-01T15:43:44"
+   },
+   {
+    "with": "Alex (Recruiter)",
+    "direction": "outgoing",
+    "text": "Alex, before we lock in, I need to see a base of $285k plus a $400k equity grant vesting over four years, front‑loaded to offset my current RSU exposure. Also, a signing bonus that clears my $62k student loan balance would be essential.",
+    "time": "2026-06-01T21:14:03"
+   },
+   {
+    "with": "Daniel Reiss (Blind)",
+    "direction": "outgoing",
+    "text": "Daniel, just got a follow‑up from the LumenTrace recruiter – they’re pushing a $260k base with a modest RSU refresh. I flagged the $285k floor we discussed; they’re not moving. Thought you’d want the latest, given the promo bloodbath context.",
+    "time": "2026-06-02T16:30:10"
+   },
+   {
+    "with": "Alex (Recruiter)",
+    "direction": "outgoing",
+    "text": "Alex, after reviewing the package, I can accept the role on the condition of a $285k base salary, a $400k equity grant, and a $30k signing bonus to settle my student loan. Please send the revised offer letter.",
+    "time": "2026-06-02T21:49:37"
+   }
+  ],
+  "locations": [
+   {
+    "place": "Home – Capitol Hill Apartment",
+    "lat": 47.619615,
+    "lon": -122.321834,
+    "time": "2026-05-05T08:14:54"
+   },
+   {
+    "place": "NimbusForge Office, South Lake Union",
+    "lat": 47.630756,
+    "lon": -122.340893,
+    "time": "2026-05-05T09:21:33"
+   },
+   {
+    "place": "Spinasse (Italian Restaurant), Capitol Hill",
+    "lat": 47.616511,
+    "lon": -122.327539,
+    "time": "2026-05-05T19:17:03"
+   },
+   {
+    "place": "Home – Capitol Hill Apartment",
+    "lat": 47.619325,
+    "lon": -122.320517,
+    "time": "2026-05-06T08:24:56"
+   },
+   {
+    "place": "NimbusForge Office, South Lake Union",
+    "lat": 47.629833,
+    "lon": -122.338655,
+    "time": "2026-05-06T09:02:29"
+   },
+   {
+    "place": "Pacific Fertility Center, Downtown Seattle",
+    "lat": 47.608984,
+    "lon": -122.334481,
+    "time": "2026-05-06T18:54:38"
+   },
+   {
+    "place": "Home – Capitol Hill Apartment",
+    "lat": 47.618443,
+    "lon": -122.322453,
+    "time": "2026-05-07T08:24:40"
+   },
+   {
+    "place": "NimbusForge Office, South Lake Union",
+    "lat": 47.630487,
+    "lon": -122.339137,
+    "time": "2026-05-07T09:09:35"
+   },
+   {
+    "place": "Victrola Coffee Roasters, Capitol Hill",
+    "lat": 47.6279,
+    "lon": -122.314488,
+    "time": "2026-05-07T19:33:49"
+   },
+   {
+    "place": "Volunteer Park Loop, Seattle",
+    "lat": 47.630867,
+    "lon": -122.310782,
+    "time": "2026-05-09T09:49:00"
+   },
+   {
+    "place": "Patel Brothers Indian Grocery, Kent",
+    "lat": 47.379467,
+    "lon": -122.207759,
+    "time": "2026-05-09T12:48:25"
+   },
+   {
+    "place": "Cafe Allegro, Capitol Hill",
+    "lat": 47.618903,
+    "lon": -122.322402,
+    "time": "2026-05-09T14:13:49"
+   },
+   {
+    "place": "Home – Capitol Hill Apartment (video call)",
+    "lat": 47.618928,
+    "lon": -122.32324,
+    "time": "2026-05-09T18:36:39"
+   },
+   {
+    "place": "Home – Capitol Hill Apartment (wake‑up coffee)",
+    "lat": 47.617354,
+    "lon": -122.321587,
+    "time": "2026-05-10T09:24:31"
+   },
+   {
+    "place": "Seattle Central Library, Downtown",
+    "lat": 47.605912,
+    "lon": -122.331848,
+    "time": "2026-05-10T13:08:37"
+   },
+   {
+    "place": "Evening walk around Capitol Hill (Cal Anderson Park)",
+    "lat": 47.617498,
+    "lon": -122.32143,
+    "time": "2026-05-10T18:35:14"
+   },
+   {
+    "place": "Capitol Hill Link Light Rail Station",
+    "lat": 47.620485,
+    "lon": -122.323029,
+    "time": "2026-05-11T08:19:36"
+   },
+   {
+    "place": "South Lake Union Office (NimbusForge)",
+    "lat": 47.627915,
+    "lon": -122.337176,
+    "time": "2026-05-11T18:46:18"
+   },
+   {
+    "place": "Capitol Hill Link Light Rail Station",
+    "lat": 47.617809,
+    "lon": -122.322716,
+    "time": "2026-05-12T09:13:25"
+   },
+   {
+    "place": "South Lake Union Office (NimbusForge)",
+    "lat": 47.627665,
+    "lon": -122.335277,
+    "time": "2026-05-12T18:28:10"
+   },
+   {
+    "place": "Capitol Hill Link Light Rail Station",
+    "lat": 47.619153,
+    "lon": -122.322234,
+    "time": "2026-05-13T09:02:12"
+   },
+   {
+    "place": "Pacific Fertility Center",
+    "lat": 47.605299,
+    "lon": -122.336679,
+    "time": "2026-05-13T18:24:55"
+   },
+   {
+    "place": "Capitol Hill Link Light Rail Station",
+    "lat": 47.619415,
+    "lon": -122.322905,
+    "time": "2026-05-14T09:18:11"
+   },
+   {
+    "place": "Seattle‑Tacoma International Airport (SEA) Arrivals",
+    "lat": 47.44935,
+    "lon": -122.307464,
+    "time": "2026-05-14T17:31:42"
+   },
+   {
+    "place": "Bellevue family home",
+    "lat": 47.610688,
+    "lon": -122.20262,
+    "time": "2026-05-14T18:03:15"
+   },
+   {
+    "place": "Capitol Hill Apartment",
+    "lat": 47.616866,
+    "lon": -122.322546,
+    "time": "2026-05-14T20:47:35"
+   },
+   {
+    "place": "Capitol Hill Link Light Rail Station",
+    "lat": 47.618497,
+    "lon": -122.323806,
+    "time": "2026-05-15T09:01:02"
+   },
+   {
+    "place": "South Lake Union Office (NimbusForge)",
+    "lat": 47.627602,
+    "lon": -122.336209,
+    "time": "2026-05-15T18:14:59"
+   },
+   {
+    "place": "Volunteer Park",
+    "lat": 47.630078,
+    "lon": -122.31465,
+    "time": "2026-05-16T09:37:24"
+   },
+   {
+    "place": "Apna Bazaar Indian Grocery, Kent",
+    "lat": 47.379822,
+    "lon": -122.224461,
+    "time": "2026-05-16T12:53:57"
+   },
+   {
+    "place": "Cal Anderson Park",
+    "lat": 47.61762,
+    "lon": -122.321736,
+    "time": "2026-05-16T16:17:41"
+   },
+   {
+    "place": "Victrola Coffee Roasters",
+    "lat": 47.612547,
+    "lon": -122.322033,
+    "time": "2026-05-17T09:49:01"
+   },
+   {
+    "place": "Capitol Hill Apartment",
+    "lat": 47.619058,
+    "lon": -122.321209,
+    "time": "2026-05-17T18:27:49"
+   },
+   {
+    "place": "NimbusForge Office (South Lake Union)",
+    "lat": 47.632397,
+    "lon": -122.336956,
+    "time": "2026-05-25T09:03:23"
+   },
+   {
+    "place": "Capitol Hill Link Light Rail Station (commute home)",
+    "lat": 47.619204,
+    "lon": -122.323527,
+    "time": "2026-05-25T18:45:22"
+   },
+   {
+    "place": "Seattle Urgent Care (walk‑in)",
+    "lat": 47.612088,
+    "lon": -122.321737,
+    "time": "2026-05-27T14:22:20"
+   },
+   {
+    "place": "Cafe Allegro (University District)",
+    "lat": 47.665094,
+    "lon": -122.312537,
+    "time": "2026-05-27T22:21:20"
+   },
+   {
+    "place": "Home Office (Capitol Hill residence)",
+    "lat": 47.617961,
+    "lon": -122.321596,
+    "time": "2026-05-28T09:10:28"
+   },
+   {
+    "place": "Seattle Reproductive Medicine Clinic",
+    "lat": 47.61302,
+    "lon": -122.318996,
+    "time": "2026-05-28T14:56:33"
+   },
+   {
+    "place": "Home (dinner with Arjun)",
+    "lat": 47.61802,
+    "lon": -122.323256,
+    "time": "2026-05-28T18:34:17"
+   },
+   {
+    "place": "NimbusForge Office (South Lake Union)",
+    "lat": 47.631901,
+    "lon": -122.336491,
+    "time": "2026-05-29T09:15:29"
+   },
+   {
+    "place": "Capitol Hill Link Light Rail Station (commute home)",
+    "lat": 47.619366,
+    "lon": -122.324031,
+    "time": "2026-05-29T18:08:27"
+   },
+   {
+    "place": "Home (review offer with Arjun)",
+    "lat": 47.617376,
+    "lon": -122.322573,
+    "time": "2026-05-30T18:50:09"
+   },
+   {
+    "place": "Victrola Coffee Roasters (Capitol Hill)",
+    "lat": 47.617528,
+    "lon": -122.307463,
+    "time": "2026-05-31T09:12:47"
+   },
+   {
+    "place": "India Bazaar (Indian market, Kent)",
+    "lat": 47.38031,
+    "lon": -122.220701,
+    "time": "2026-05-31T13:23:37"
+   },
+   {
+    "place": "Cal Anderson Park (Capitol Hill)",
+    "lat": 47.619279,
+    "lon": -122.313056,
+    "time": "2026-05-31T15:12:22"
+   },
+   {
+    "place": "Home (dinner with Arjun)",
+    "lat": 47.617185,
+    "lon": -122.321999,
+    "time": "2026-05-31T18:32:59"
+   },
+   {
+    "place": "Capitol Hill apartment (Seattle, WA)",
+    "lat": 47.623356,
+    "lon": -122.322055,
+    "time": "2026-06-01T19:42:03"
+   },
+   {
+    "place": "Capitol Hill Link Light Rail Station",
+    "lat": 47.618954,
+    "lon": -122.323304,
+    "time": "2026-06-02T08:27:27"
+   },
+   {
+    "place": "Seattle Reproductive Medicine – UW Medical Center Campus",
+    "lat": 47.60692,
+    "lon": -122.332223,
+    "time": "2026-06-02T09:56:17"
+   }
+  ],
+  "searches": [
+   {
+    "query": "linkedin profle viewers",
+    "time": "2026-05-11T12:22:21"
+   },
+   {
+    "query": "principal eng remote",
+    "time": "2026-05-13T12:21:44"
+   },
+   {
+    "query": "4day week remote jobs",
+    "time": "2026-05-15T12:01:12"
+   },
+   {
+    "query": "multi region failover patterns",
+    "time": "2026-05-25T14:56:35"
+   },
+   {
+    "query": "ivf insurence seattle",
+    "time": "2026-05-26T13:59:00"
+   },
+   {
+    "query": "ovarian hyperstimulation symptons",
+    "time": "2026-05-27T13:09:42"
+   },
+   {
+    "query": "post opr rest guidelines",
+    "time": "2026-05-28T09:52:36"
+   },
+   {
+    "query": "distributed tracing best practises",
+    "time": "2026-05-29T14:54:39"
+   },
+   {
+    "query": "mortgage refinance rate seattle wa",
+    "time": "2026-05-31T11:21:21"
+   },
+   {
+    "query": "2026 principal engineer comp bands",
+    "time": "2026-06-01T10:58:43"
+   }
+  ],
+  "videos": [
+   {
+    "title": "Our IVF Journey: From 3 Failed Attempts to a Healthy Baby | Success Story",
+    "channel": "IVF Success Stories",
+    "time": "2026-05-16T18:02:08"
+   },
+   {
+    "title": "Burnout in Tech: Recognizing the Signs and Building Resilience",
+    "channel": "Lenny's Podcast",
+    "time": "2026-05-25T22:49:25"
+   },
+   {
+    "title": "Practical DevOps: Building Multi-Region Failover on Kubernetes",
+    "channel": "Practical DevOps",
+    "time": "2026-05-26T12:48:06"
+   },
+   {
+    "title": "Mindful Moments for IVF: Managing Stress During Treatment",
+    "channel": "Mindful IVF",
+    "time": "2026-05-27T21:13:49"
+   },
+   {
+    "title": "Negotiation Playbook for Senior Engineers: Securing Equity & Signing Bonuses",
+    "channel": "Engineer Negotiation Lab",
+    "time": "2026-05-30T12:49:00"
+   },
+   {
+    "title": "Career Pivots in Tech: When to Jump, When to Stay",
+    "channel": "Lenny's Podcast",
+    "time": "2026-05-30T22:42:11"
+   },
+   {
+    "title": "Remote Work Mastery for Senior Engineers: Productivity, Communication, and Boundaries",
+    "channel": "Remote Engineer Hub",
+    "time": "2026-05-31T16:20:09"
+   },
+   {
+    "title": "QCon 2025 Keynote – Cloud‑Native Observability: From Metrics to Telemetry",
+    "channel": "QCon Official",
+    "time": "2026-06-01T14:29:05"
+   },
+   {
+    "title": "Zoom Incident‑Triage Call – SRE Team – Real‑Time Post‑Mortem (May 30, 2026)",
+    "channel": "NimbusForge SRE On‑Demand",
+    "time": "2026-06-02T14:53:04"
+   }
+  ]
+ },
+ "_meta": {
+  "total_days": 30,
+  "n_events": 252
+ }
+}
