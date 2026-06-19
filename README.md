@@ -110,11 +110,8 @@ python3 scoring/textonly_filter.py --cohort cohorts/series_a/ --out series_a_tex
 
 ## License
 
-- **Data** (personas, cohorts, question bank, answer keys): see `LICENSE.data` (suggested: CC BY 4.0).
-- **Code** (scorers, filter): see `LICENSE.code` (suggested: MIT).
-
-A single placeholder `LICENSE` file is included; replace it with the licenses
-of your choice before publishing.
+- **Code** (scorers, filter, build scripts): [MIT License](LICENSE).
+- **Data** (personas, cohorts, question bank, answer keys): [CC BY 4.0](LICENSE-DATA).
 
 ## Citation
 
