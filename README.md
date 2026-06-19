@@ -1,7 +1,7 @@
 # safeself-bench
 
 A synthetic benchmark for studying what an LLM can infer about a person from
-their digital footprint — and for measuring defences against that inference.
+their digital footprint.
 
 This repository releases:
 
@@ -27,17 +27,14 @@ LLM can recover a startling amount about that person: not just the obvious
 fields, but rhythm, relationships, and vulnerabilities.
 
 Studying that inference problem rigorously needs synthetic data. Real human
-data is hard to come by at scale, and analysing it without consent contradicts
-the kind of defence we want to build. This benchmark gives the field a
+data is hard to come by at scale, and analysing it without explicit consent is
+not something this work is willing to do. This benchmark gives the field a
 reproducible substrate — same personas, same questions, same scorers —
 so different research groups can compare results.
 
 ## What is *not* released
 
 - **Real user data of any kind.** Everything here is synthetic.
-- **Decoy strategies.** Methods for *defending* a footprint (camouflage,
-  noise injection, controlled minimisation) are part of an active product
-  effort and are not open-sourced.
 
 ## Repository layout
 
