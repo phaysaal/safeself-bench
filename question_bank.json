@@ -694,7 +694,7 @@
       ],
       "scoring": "mcq",
       "hardness": 5,
-      "notes": "DEFENSE-CRITICAL: low recovery here is good for the defender. High recovery means the corpus is leaking too much."
+      "notes": "Recovering this from the bundle alone is hard; a high score here indicates the bundle is unusually revealing."
     },
     {
       "id": "Q37",
