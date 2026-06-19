@@ -119,5 +119,5 @@ If this benchmark is useful in your research, please cite as:
 
 ```
 safeself-bench: a synthetic benchmark for LLM-driven profiling of digital footprints
-(version 0.1, 2026).
+(version 0.1, 2026). https://github.com/phaysaal/safeself-bench
 ```
